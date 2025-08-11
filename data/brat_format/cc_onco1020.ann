@@ -1,0 +1,34 @@
+T1	morphologie 1669 1675	tumeur
+T2	morphologie 2029 2053	infiltration néoplasique
+T4	morphologie 2198 2209	néoplasique
+T6	morphologie 2678 2692	adénocarcinome
+T7	stade 2704 2714	cT4 pN2 M0
+T8	morphologie 5156 5170	adénocarcinome
+T9	morphologie 5199 5213	adénocarcinome
+T10	morphologie 6066 6073	implant
+T12	morphologie 6867 6873	tumeur
+T13	morphologie 6892 6901	métastase
+T14	morphologie 7070 7079	néoplasme
+T16	morphologie 8431 8438	lésions
+T17	topographie 1692 1698	carène
+T18	morphologie 1947 1952	masse
+T19	topographie 1959 1975	carène trachéale
+T20	morphologie 2005 2025	métaplasie squameuse
+T21	topographie 2693 2703	pulmonaire
+T22	topographie 5214 5224	pulmonaire
+T23	stade 5228 5236	stade IV
+T24	topographie 6902 6911	hépatique
+T25	topographie 6082 6096	plèvre costale
+T26	morphologie 6113 6124	adénopathie
+T27	topographie 6125 6142	para-œsophagienne
+T28	morphologie 6174 6181	lésions
+T29	topographie 6182 6192	hépatiques
+T30	topographie 8439 8456	supratentorielles
+T35	differenciation 2089 2124	modérément/pauvrement différenciées
+T36	morphologie 2062 2088;2125 2144	néoformations épithéliales de type glandulaire
+T38	morphologie 2495 2527	carcinome non à petites cellules
+T39	differenciation 2528 2543	peu différencié
+T46	differenciation 6806 6819	de haut grade
+T47	morphologie 6784 6805	tumeur neuroendocrine
+T51	morphologie 7869 7893	carcinome neuroendocrine
+T52	differenciation 7894 7907	de haut grade

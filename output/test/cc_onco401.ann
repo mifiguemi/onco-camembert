@@ -1,0 +1,52 @@
+T1	morphologie 200 209	néoplasie
+T2	topographie 213 218	côlon
+T3	morphologie 848 854	polype
+T4	topographie 863 876	rectum distal
+T5	morphologie 877 897	d'aspect adénomateux
+T6	topographie 965 971	rectum
+T7	morphologie 976 982	polype
+T8	topographie 1041 1046	sigma
+T9	morphologie 1064 1071	polypes
+T10	topographie 1162 1178	côlon descendant
+T11	morphologie 1230 1236	lésion
+T12	morphologie 1435 1449	adénocarcinome
+T13	morphologie 1490 1502	néoformation
+T14	topographie 1511 1527	côlon transverse
+T15	stade 1537 1555	stade radiologique
+T16	stade 1556 1560	T3N2
+T17	morphologie 1795 1809	adénocarcinome
+T18	morphologie 2040 2096	adénocarcinome à cellules en anneau de Signe et mucineux
+T19	topographie 2100 2123	côlon transverse distal
+T20	topographie 2135 2150	angle splénique
+T21	morphologie 2161 2177	lymphadénopathie
+T22	topographie 2198 2212	hile splénique
+T23	morphologie 2227 2247	extension à distance
+T24	stade 2539 2547	T4aN2bMx
+T25	morphologie 2629 2635	tumeur
+T26	differenciation 2636 2652	peu différenciée
+T27	morphologie 3172 3178	tumeur
+T28	morphologie 4783 4791	récidive
+T29	topographie 4792 4803	péritonéale
+T30	morphologie 4834 4842	implants
+T31	topographie 4843 4854	péritonéaux
+T32	topographie 4879 4883	rate
+T33	morphologie 4934 4952	masse métastatique
+T34	topographie 4953 4969	rétropéritonéale
+T35	morphologie 5071 5079	implants
+T36	topographie 5080 5095	sous-phréniques
+T37	morphologie 8106 8117	progression
+T38	topographie 8118 8129	péritonéale
+T39	morphologie 8167 8188	lésions métastatiques
+T40	topographie 8213 8217	rate
+T41	morphologie 8242 8250	implants
+T42	topographie 8251 8261	pararénaux
+T43	topographie 8265 8279	périspléniques
+T44	morphologie 9790 9805	implant tumoral
+T45	topographie 9806 9821	rétropéritonéal
+T46	morphologie 9851 9858	lésions
+T47	topographie 9859 9869	spléniques
+T48	morphologie 10448 10468	progression tumorale
+T49	morphologie 10473 10481	implants
+T50	topographie 10482 10493	péritonéaux
+T51	morphologie 10509 10516	lésions
+T52	topographie 10517 10527	spléniques

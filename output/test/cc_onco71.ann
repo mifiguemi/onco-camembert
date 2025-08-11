@@ -1,0 +1,58 @@
+T1	morphologie 160 166	cancer
+T2	topographie 170 174	sein
+T3	morphologie 1289 1303	lésion lytique
+T4	topographie 1304 1309	L4-L5
+T5	morphologie 1317 1323	lésion
+T6	topographie 1324 1342	supra-acétabulaire
+T7	topographie 1349 1355	hanche
+T8	morphologie 1435 1483	atteinte métastatique des ganglions lymphatiques
+T9	topographie 1489 1496	poumons
+T10	topographie 1504 1506	os
+T11	morphologie 1512 1517	masse
+T12	topographie 1518 1524	rénale
+T13	morphologie 1767 1773	cancer
+T14	topographie 1777 1781	sein
+T15	morphologie 1972 1978	lésion
+T16	morphologie 2058 2064	lésion
+T17	topographie 2065 2072	costale
+T18	morphologie 2332 2338	tumeur
+T19	morphologie 2667 2676	carcinome
+T20	topographie 2677 2685	mammaire
+T21	morphologie 3383 3389	cancer
+T22	topographie 3393 3397	sein
+T23	morphologie 3398 3410	métastatique
+T24	morphologie 3563 3569	cancer
+T25	topographie 3573 3577	sein
+T26	morphologie 3665 3685	maladie métastatique
+T27	morphologie 3745 3755	métastases
+T28	topographie 3756 3766	cérébrales
+T29	morphologie 4960 4967	lésions
+T30	topographie 4968 4979	pulmonaires
+T31	morphologie 5045 5052	nodules
+T32	morphologie 5124 5130	nodule
+T33	morphologie 5168 5174	lésion
+T34	topographie 5195 5203	huitième
+T35	topographie 5204 5214	arc costal
+T36	morphologie 5375 5382	lésions
+T37	morphologie 5466 5471	masse
+T38	topographie 5500 5504	rein
+T39	morphologie 5584 5593	néoplasie
+T40	topographie 5594 5600	rénale
+T41	morphologie 5601 5609	primaire
+T42	morphologie 5638 5648	métastases
+T43	morphologie 5881 5893	néoformation
+T44	topographie 5894 5900	rénale
+T45	morphologie 6878 6894	lésion nodulaire
+T46	morphologie 7025 7034	métastase
+T47	morphologie 7040 7049	carcinome
+T48	topographie 7050 7058	mammaire
+T49	morphologie 7059 7068	canalaire
+T50	morphologie 7076 7109	carcinome à cellules chromophobes
+T51	topographie 7113 7117	rein
+T52	morphologie 7267 7277	métastases
+T53	morphologie 7281 7290	carcinome
+T54	topographie 7291 7299	mammaire
+T55	morphologie 7536 7542	tumeur
+T56	topographie 7543 7551	mammaire
+T57	morphologie 7552 7560	primaire
+T58	morphologie 7784 7790	Tumors

@@ -1,0 +1,44 @@
+T1	morphologie 1521 1528	maladie
+T2	topographie 1542 1546	foie
+T3	morphologie 1930 1944	adénocarcinome
+T4	differenciation 1945 1960	peu différencié
+T5	morphologie 2199 2206	nodules
+T6	topographie 2216 2242	quadrants internes du sein
+T7	morphologie 2250 2262	Adénopathies
+T8	topographie 2263 2273	axillaires
+T9	morphologie 2513 2557	ganglions lymphatiques suspects de malignité
+T10	topographie 2570 2577	abdomen
+T11	morphologie 2579 2586	Lésions
+T12	topographie 2587 2595	osseuses
+T13	morphologie 2627 2636	néoplasme
+T14	topographie 2649 2654	côlon
+T15	morphologie 2656 2666	métastases
+T16	topographie 2667 2675	osseuses
+T17	morphologie 2756 2771	tumeur primaire
+T18	topographie 2775 2779	sein
+T19	morphologie 2878 2883	masse
+T20	topographie 2930 2958	quadrants inférieurs du sein
+T21	morphologie 2969 2975	nodule
+T22	topographie 3033 3067	quadrant supérieur externe du sein
+T23	morphologie 3080 3109	lymphadénopathie pathologique
+T24	topographie 3139 3148	aisselles
+T25	morphologie 3178 3185	nodules
+T26	morphologie 3257 3264	nodules
+T27	topographie 3265 3274	mammaires
+T28	morphologie 3288 3318	carcinome lobulaire infiltrant
+T29	morphologie 3368 3375	nodules
+T30	morphologie 3538 3557	carcinome lobulaire
+T31	topographie 3561 3565	sein
+T32	morphologie 3579 3598	Carcinome lobulaire
+T33	topographie 3605 3609	sein
+T34	morphologie 3615 3623	atteinte
+T35	topographie 3624 3631	osseuse
+T36	morphologie 3633 3646	carcinomatose
+T37	topographie 3647 3658	péritonéale
+T38	morphologie 3662 3674	infiltration
+T39	topographie 3675 3682	colique
+T40	morphologie 3828 3842	adénocarcinome
+T41	morphologie 3965 3980	implant tumoral
+T42	topographie 3989 4003	paroi du côlon
+T43	morphologie 4373 4392	carcinome lobulaire
+T44	topographie 4396 4403	sein IV

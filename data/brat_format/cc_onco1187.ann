@@ -1,0 +1,24 @@
+T1	morphologie 232 240	tératome
+T2	morphologie 687 701	tumeur maligne
+T3	morphologie 1679 1693	adénocarcinome
+T4	morphologie 2056 2068	adénopathies
+T5	morphologie 2155 2176	lésions métastatiques
+T6	morphologie 2349 2363	Adénocarcinome
+T7	morphologie 3525 3533;3545 3584	blastome à différenciation rhabdomyosarcomateuse
+T8	topographie 241 249	thymique
+T11	topographie 1742 1760	origine pulmonaire
+T13	morphologie 1908 1930	masse hypermétabolique
+T14	morphologie 1829 1836	nodules
+T15	topographie 1860 1870	hémithorax
+T18	topographie 2069 2087	supraclaviculaires
+T19	topographie 2113 2126	paratrachéale
+T21	topographie 2177 2200	osseuses dans le bassin
+T23	morphologie 2206 2213	nodules
+T24	topographie 2214 2232	intrapéricardiques
+T26	morphologie 2239 2252	foyer douteux
+T27	topographie 2261 2277	glande surrénale
+T29	topographie 2364 2374	pulmonaire
+T31	stade 2385 2393	stade IV
+T32	morphologie 2702 2707	masse
+T33	topographie 2708 2741	pulmonaire dans le lobe supérieur
+T35	topographie 3534 3544	pulmonaire

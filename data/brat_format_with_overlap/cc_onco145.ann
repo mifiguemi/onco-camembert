@@ -1,0 +1,51 @@
+T1	morphologie 613 621	mélanome
+T2	differenciation 679 697	grade III de Clark
+T3	morphologie 1010 1016	tumeur
+T4	morphologie 1063 1075	adénopathies
+T5	morphologie 1081 1090	métastase
+T6	morphologie 1107 1121	mélanome malin
+T7	stade 1195 1202	pT2a N0
+T8	stade 1214 1224	stade I-B.
+T9	morphologie 1407 1413	tumeur
+T10	topographie 1419 1427	aisselle
+T11	morphologie 1502 1524;1549 1575	ganglions lymphatiques probablement métastatiques
+T13	morphologie 1704 1716	adénopathies
+T14	topographie 1717 1727	axillaires
+T15	morphologie 1904 1929	conglomérat adénopathique
+T16	topographie 1930 1939	axillaire
+T17	morphologie 2044 2054	métastases
+T18	morphologie 2058 2066	mélanome
+T19	topographie 2082 2104	ganglions lymphatiques
+T20	morphologie 2298 2309	adénopathie
+T21	topographie 2310 2319	cervicale
+T22	morphologie 2654 2690	ganglions lymphatiques pathologiques
+T23	topographie 2699 2721	creux sus-claviculaire
+T24	topographie 2739 2755	région axillaire
+T25	morphologie 2936 2948	adénopathies
+T26	topographie 2957 2981	région supraclaviculaire
+T27	topographie 2986 3002	région axillaire
+T28	topographie 3018 3039	région sous-pectorale
+T29	morphologie 3069 3079	métastases
+T30	morphologie 3110 3135	progression ganglionnaire
+T31	topographie 3136 3163	axillaire-supraclaviculaire
+T32	topographie 3167 3181	sous-pectorale
+T33	morphologie 3704 3750	rechute métabolique des ganglions lymphatiques
+T34	topographie 3751 3768	sus-claviculaires
+T35	topographie 3770 3787	hiliomédiastinaux
+T36	topographie 3791 3805	périgastriques
+T37	morphologie 5005 5013	mélanome
+T38	morphologie 5049 5060	progression
+T39	topographie 5093 5101	pleuraux
+T40	topographie 5105 5117	médiastinaux
+T41	morphologie 5483 5490	maladie
+T42	topographie 5491 5503	médiastinale
+T43	topographie 5507 5519	épiphrénique
+T44	morphologie 5527 5534	maladie
+T45	topographie 5535 5543	pleurale
+T46	morphologie 5558 5580	ganglions lymphatiques
+T47	topographie 5581 5592	péritonéaux
+T48	morphologie 5767 5778	progression
+T49	topographie 5779 5787	pleurale
+T50	morphologie 6774 6782	mélanome
+T12	topographie 1532 1547	aisselle droite
+T51	topographie 5070 5092	ganglions lymphatiques

@@ -1,0 +1,46 @@
+T1	morphologie 997 1002	masse
+T2	topographie 1003 1010	hilaire
+T3	morphologie 1035 1046	adénopathie
+T4	topographie 1047 1061	sous-carénaire
+T5	morphologie 1108 1113	masse
+T6	topographie 1114 1128	endobronchique
+T7	morphologie 1313 1346	adénocarcinome de sous-type CBNPC
+T8	morphologie 1462 1480	prise pathologique
+T9	topographie 1491 1498	hilaire
+T10	morphologie 1515 1524	extension
+T11	topographie 1525 1549	para-aortique inférieure
+T12	morphologie 1571 1595	foyers hypermétaboliques
+T13	topographie 1596 1608	médiastinaux
+T14	topographie 1617 1637	région paratrachéale
+T15	topographie 1662 1683	région sous-carcinale
+T16	morphologie 1844 1858	adénocarcinome
+T17	morphologie 1931 1945	adénocarcinome
+T18	stade 1946 1963	localement avancé
+T19	topographie 1967 1973	poumon
+T20	stade 1975 1986	cT3 cN2 cM0
+T21	stade 1988 1998	stade IIIA
+T22	morphologie 2225 2247	atteinte ganglionnaire
+T23	morphologie 2874 2881	lésions
+T24	morphologie 2903 2913	métastases
+T25	topographie 2962 2972	hémisphère
+T26	topographie 3015 3029	lobes pariétal
+T27	morphologie 3832 3848	oligoprogression
+T28	topographie 3849 3858	cérébrale
+T29	morphologie 3862 3869	lésions
+T30	morphologie 4024 4031	lésions
+T31	topographie 4032 4041	frontales
+T32	topographie 4045 4058	cérébelleuses
+T33	morphologie 4440 4447	lésions
+T34	morphologie 4588 4595	lésions
+T35	morphologie 5034 5039	masse
+T36	topographie 5048 5066	région parahilaire
+T37	morphologie 5083 5105	atteinte ganglionnaire
+T38	topographie 5106 5131	para-aortique-subaortique
+T39	morphologie 5148 5154	tumeur
+T40	morphologie 5277 5283	tumeur
+T41	morphologie 5371 5377	tumeur
+T42	morphologie 5491 5519	carcinome à petites cellules
+T43	differenciation 5520 5533	indifférencié
+T44	morphologie 5804 5809	masse
+T45	topographie 5810 5817	hilaire
+T46	morphologie 5825 5837	adénopathies

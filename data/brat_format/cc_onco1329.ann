@@ -1,0 +1,24 @@
+T1	morphologie 781 791	métastases
+T2	morphologie 834 857	adénocarcinome mucineux
+T3	morphologie 1023 1038	tumeur primaire
+T4	morphologie 1120 1134	tumeur maligne
+T5	morphologie 1189 1195	tumeur
+T6	morphologie 1614 1620	tumeur
+T7	morphologie 1829 1844	lésion tumorale
+T8	morphologie 2008 2022	Adénocarcinome
+T9	morphologie 2042 2052	métastases
+T10	morphologie 2203 2209	tumeur
+T11	morphologie 2364 2395	adénocarcinome intestinal mixte
+T12	morphologie 2397 2415	carcinome mucineux
+T13	morphologie 2419 2446	cellules en bague de signet
+T17	topographie 806 828	ganglions lymphatiques
+T18	morphologie 206 218	adénopathies
+T19	topographie 219 229	cervicales
+T21	morphologie 246 252	lésion
+T22	topographie 285 293	amygdale
+T24	morphologie 481 487	lésion
+T25	topographie 529 555	cornets supérieur et moyen
+T27	topographie 1041 1058	origine digestive
+T31	topographie 1636 1644	ethmoïde
+T34	topographie 2028 2036	ethmoïde
+T35	topographie 2053 2078	ganglionnaires cervicales

@@ -1,0 +1,34 @@
+T2	morphologie 77 121	adénocarcinome bronchioloalvéolaire mucineux
+T3	stade 122 128	T3N0M0
+T4	morphologie 443 457	adénocarcinome
+T5	morphologie 1072 1081	métastase
+T7	expression_CIM 1632 1689	adénocarcinome de la prostate, score de Gleason combiné 7
+T8	morphologie 1809 1826	tumeurs primaires
+T9	morphologie 1991 2005	adénocarcinome
+T10	morphologie 2293 2300	tumeurs
+T11	morphologie 2409 2418	métastase
+T12	stade 130 139	stade IIB
+T1	expression_CIM 77 121	adénocarcinome bronchioloalvéolaire mucineux
+T13	topographie 458 468	pulmonaire
+T14	expression_CIM 443 468	adénocarcinome pulmonaire
+T15	expression_CIM 1072 1081	métastase
+T16	morphologie 990 1007	images nodulaires
+T17	morphologie 842 857	image nodulaire
+T18	topographie 923 926	LSD
+T19	expression_CIM 842 926	image nodulaire polylobée à bords irréguliers de 12 mm dans la région apicale du LSD
+T20	topographie 1022 1032	hémithorax
+T21	expression_CIM 990 1032	images nodulaires dans les deux hémithorax
+T6	morphologie 1165 1171	lésion
+T22	expression_CIM 1165 1171	lésion
+T23	morphologie 1632 1646	adénocarcinome
+T24	topographie 1653 1661	prostate
+T25	differenciation 1663 1689	score de Gleason combiné 7
+T26	expression_CIM 1809 1826	tumeurs primaires
+T27	morphologie 1744 1751	nodules
+T28	topographie 1752 1763	pulmonaires
+T29	expression_CIM 1744 1763	nodules pulmonaires
+T30	topographie 2008 2026	origine pulmonaire
+T31	expression_CIM 1991 2026	adénocarcinome d'origine pulmonaire
+T32	expression_CIM 2293 2300	tumeurs
+T33	topographie 2419 2429	pulmonaire
+T34	expression_CIM 2409 2429	métastase pulmonaire

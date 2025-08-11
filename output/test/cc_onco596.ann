@@ -1,0 +1,29 @@
+T1	morphologie 457 468	adénopathie
+T2	topographie 469 478	cervicale
+T3	topographie 482 498	sus-claviculaire
+T4	morphologie 963 968	masse
+T5	topographie 969 981	médiastinale
+T6	morphologie 1040 1045	masse
+T7	topographie 1046 1072	médiastinale paracardiaque
+T8	morphologie 1196 1202	nodule
+T9	topographie 1203 1215	sous-pleural
+T10	topographie 1232 1246	lobe inférieur
+T11	morphologie 1671 1693	ganglions lymphatiques
+T12	topographie 1694 1707	mésentériques
+T13	topographie 1711 1727	rétropéritonéaux
+T14	morphologie 1893 1899	lésion
+T15	topographie 1900 1912	médiastinale
+T16	morphologie 2012 2018	lésion
+T17	morphologie 2069 2119	thymome de phénotype et immunophénotype de type B2
+T18	morphologie 2846 2870	foyers hypermétaboliques
+T19	morphologie 3137 3172	leucémie myélomonocytaire chronique
+T20	morphologie 3174 3178	LMCM
+T21	morphologie 3231 3237	LMCM-1
+T22	morphologie 3420 3438	Thymome de type B2
+T23	differenciation 3439 3441	R0
+T24	stade 3443 3452	stade IIA
+T25	morphologie 3491 3526	Leucémie myélomonocytaire chronique
+T26	morphologie 3528 3532	LMMC
+T27	morphologie 3563 3570	thymome
+T28	stade 3574 3583	stade IIA
+T29	morphologie 3610 3616	tumeur

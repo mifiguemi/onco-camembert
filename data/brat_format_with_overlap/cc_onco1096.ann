@@ -1,0 +1,40 @@
+T1	morphologie 66 72	tumeur
+T2	morphologie 159 167	séminome
+T3	morphologie 310 317	nodules
+T4	morphologie 358 364	tumeur
+T5	morphologie 490 519	tumeur d'origine testiculaire
+T7	morphologie 1336 1357	lésions métastatiques
+T9	morphologie 2339 2345	lésion
+T11	morphologie 2721 2730	métastase
+T12	morphologie 2883 2890	lésions
+T14	morphologie 3048 3057	Carcinome
+T15	morphologie 3135 3144	carcinome
+T17	topographie 73 85	testiculaire
+T18	expression_CIM 66 85	tumeur testiculaire
+T19	expression_CIM 159 167	séminome
+T20	stade 172 175	pT2
+T21	topographie 318 329	pulmonaires
+T22	expression_CIM 310 329	nodules pulmonaires
+T23	topographie 365 372	hilaire
+T24	expression_CIM 358 372	tumeur hilaire
+T25	expression_CIM 490 519	tumeur d'origine testiculaire
+T6	morphologie 1133 1154	image de ballon lâche
+T26	topographie 1358 1369	pulmonaires
+T27	expression_CIM 1336 1369	lésions métastatiques pulmonaires
+T8	topographie 2346 2356	pulmonaire
+T28	expression_CIM 2339 2356	lésion pulmonaire
+T10	expression_CIM 2721 2730	métastase
+T29	morphologie 2734 2743	carcinome
+T30	expression_CIM 2734 2743	carcinome
+T31	topographie 2891 2902	pulmonaires
+T32	expression_CIM 2883 2902	lésions pulmonaires
+T13	morphologie 2921 2926	masse
+T33	topographie 2927 2940	surrénalienne
+T34	expression_CIM 2921 2940	masse surrénalienne
+T35	topographie 3058 3069	surrénalien
+T36	expression_CIM 3048 3069	Carcinome surrénalien
+T37	stade 3070 3079	cT2 Nx M1
+T38	stade 3081 3089	stade IV
+T39	topographie 3145 3156	surrénalien
+T40	expression_CIM 3135 3156	carcinome surrénalien
+T16	stade 3157 3166	disséminé

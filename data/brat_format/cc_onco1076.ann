@@ -1,0 +1,27 @@
+T1	morphologie 194 200	tumeur
+T3	morphologie 786 814	adénocarcinome endométrioïde
+T4	morphologie 869 875	tumeur
+T5	morphologie 957 982	adénocarcinome infiltrant
+T6	morphologie 1296 1303	lésions
+T7	morphologie 1337 1347	métastases
+T8	morphologie 1420 1434	lésion lytique
+T9	morphologie 1546 1555	Carcinome
+T10	morphologie 1905 1911	lésion
+T11	morphologie 2234 2241	lésions
+T12	morphologie 2281 2290	métastase
+T13	morphologie 2395 2402	lésions
+T15	topographie 231 236	vulve
+T16	topographie 266 278	labium majus
+T2	topographie 830 837	endocol
+T18	topographie 851 859	vaginale
+T21	topographie 1304 1315	pulmonaires
+T24	morphologie 1104 1109	masse
+T25	topographie 1123 1138	col de l'utérus
+T27	morphologie 1476 1481	masse
+T28	topographie 1502 1525	plateau tibial du genou
+T31	topographie 1556 1567	endométrial
+T32	stade 1571 1579	stade IV
+T34	topographie 1912 1919	osseuse
+T36	topographie 2291 2298	osseuse
+T38	topographie 2242 2253	pulmonaires
+T40	topographie 2403 2414	pulmonaires

@@ -1,0 +1,24 @@
+T1	morphologie 410 436	lésion nodulaire cavitaire
+T2	topographie 445 448	LID
+T3	morphologie 514 519	Masse
+T4	topographie 569 572	LID
+T5	morphologie 574 586	Adénopathies
+T6	topographie 587 601	paratrachéales
+T7	morphologie 645 657	adénopathies
+T8	topographie 658 666	hilaires
+T9	morphologie 763 786	lésion hypermétabolique
+T10	topographie 795 798	LID
+T11	morphologie 800 830	Adénopathies hypermétaboliques
+T12	topographie 831 857	paratrachéales inférieures
+T13	topographie 901 914	sous-carénale
+T14	topographie 918 925	hilaire
+T15	morphologie 938 950	Adénopathies
+T16	topographie 951 968	rétropéritonéales
+T17	morphologie 969 986	hypermétaboliques
+T18	morphologie 1023 1028	masse
+T19	topographie 1029 1039	pulmonaire
+T20	morphologie 1073 1111	adénocarcinome de type micropapillaire
+T21	morphologie 1318 1332	adénocarcinome
+T22	topographie 1333 1343	pulmonaire
+T23	stade 1344 1353	cT2aN3M1c
+T24	stade 1366 1369	TNM

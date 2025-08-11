@@ -1,0 +1,36 @@
+T1	morphologie 60 81	carcinome épidermoïde
+T2	stade 170 176	T4N2M0
+T3	morphologie 2936 2951	lésions focales
+T4	morphologie 3544 3554	métastases
+T5	morphologie 3864 3871	lésions
+T6	morphologie 4853 4859	lésion
+T7	morphologie 5135 5145	métastases
+T8	morphologie 5665 5679	tumeur maligne
+T10	morphologie 5818 5840	Carcinome microcytaire
+T11	morphologie 5854 5863;5875 5893	Carcinome à petites cellules
+T12	morphologie 6131 6141	métastases
+T13	morphologie 6443 6452;6464 6476	carcinome microcytaire
+T14	topographie 85 100	sinus piriforme
+T15	topographie 2952 2965	intra-axiales
+T16	topographie 3895 3912	calotte crânienne
+T17	topographie 4860 4872	cérébelleuse
+T18	topographie 5146 5180	osseuses intra- et extracrâniennes
+T9	topographie 6142 6152	cérébrales
+T19	stade 6478 6493	stade disséminé
+T20	topographie 5864 5874	pulmonaire
+T21	topographie 6453 6463	pulmonaire
+T22	morphologie 5698 5710	adénopathies
+T23	topographie 5711 5724	médiastinales
+T24	expression_CIM 60 100	carcinome épidermoïde du sinus piriforme
+T25	expression_CIM 2936 2965	lésions focales intra-axiales
+T26	expression_CIM 3544 3554	métastases
+T27	expression_CIM 3864 3912	lésions sont détectées dans la calotte crânienne
+T28	expression_CIM 4853 4872	lésion cérébelleuse
+T29	expression_CIM 5135 5180	métastases osseuses intra- et extracrâniennes
+T30	expression_CIM 5665 5679	tumeur maligne
+T31	expression_CIM 5698 5724	adénopathies médiastinales
+T32	expression_CIM 5818 5840	Carcinome microcytaire
+T33	expression_CIM 5854 5893	Carcinome pulmonaire à petites cellules
+T34	stade 5897 5912	stade disséminé
+T35	expression_CIM 6131 6152	métastases cérébrales
+T36	expression_CIM 6443 6476	carcinome pulmonaire microcytaire

@@ -1,0 +1,54 @@
+T1	morphologie 422 431	carcinome
+T2	topographie 432 440	cervical
+T3	stade 444 452	stade IB
+T4	morphologie 1136 1141	masse
+T5	topographie 1150 1164	lobe supérieur
+T6	topographie 1172 1175	LSD
+T7	morphologie 1237 1244	nodules
+T8	topographie 1296 1299	LSD
+T9	morphologie 1458 1468	À distance
+T10	morphologie 1485 1493	atteinte
+T11	morphologie 1886 1901	tumeur primaire
+T12	morphologie 1918 1925	implant
+T13	topographie 1926 1933	pleural
+T14	morphologie 1948 1956	atteinte
+T15	topographie 1957 1964	osseuse
+T16	morphologie 2100 2106	lésion
+T17	topographie 2116 2125	pariétale
+T18	morphologie 2292 2313	atteinte métastatique
+T19	topographie 2317 2340	système nerveux central
+T20	morphologie 2647 2655	implants
+T21	topographie 2656 2664	pleuraux
+T22	morphologie 2824 2856	carcinome non à petites cellules
+T23	differenciation 2857 2872	peu différencié
+T24	morphologie 3134 3143	carcinome
+T25	topographie 3144 3154	pulmonaire
+T26	morphologie 3155 3177	non à petites cellules
+T27	differenciation 3178 3193	peu différencié
+T28	morphologie 3226 3247	atteinte métastatique
+T29	topographie 3254 3260	plèvre
+T30	topographie 3266 3268	os
+T31	topographie 3274 3285	tissus mous
+T32	topographie 3292 3315	système nerveux central
+T33	stade 3317 3329	cT3 cN3 cM1c
+T34	stade 3331 3340	Stade IVB
+T35	morphologie 3509 3517	atteinte
+T36	topographie 3518 3531	leptoméningée
+T37	morphologie 3567 3573	lésion
+T38	morphologie 3844 3864	maladie métastatique
+T39	morphologie 4477 4489	adénopathies
+T40	topographie 4490 4503	médiastinales
+T41	morphologie 4521 4540	masse adénopathique
+T42	topographie 4549 4564	médiastin moyen
+T43	morphologie 4660 4665	masse
+T44	topographie 4746 4775	transition thoraco-abdominale
+T45	morphologie 4777 4784	Lésions
+T46	topographie 4793 4807	lobe hépatique
+T47	morphologie 4835 4845	métastases
+T48	morphologie 5371 5386	tumeur primaire
+T49	morphologie 5400 5427	localisations métastatiques
+T50	morphologie 6080 6092	infiltration
+T51	topographie 6093 6100	osseuse
+T52	morphologie 6101 6112	néoplasique
+T53	morphologie 6376 6383	lésions
+T54	morphologie 6618 6624	lésion

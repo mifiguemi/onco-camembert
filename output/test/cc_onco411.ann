@@ -1,0 +1,21 @@
+T1	morphologie 759 765	tumeur
+T2	topographie 813 830	queue du pancréas
+T3	morphologie 1007 1014	lésions
+T4	topographie 1015 1025	spléniques
+T5	morphologie 1284 1296	adénopathies
+T6	topographie 1297 1310	périaortiques
+T7	morphologie 1378 1388	métastases
+T8	topographie 1389 1400	pulmonaires
+T9	morphologie 1631 1645	adénocarcinome
+T10	morphologie 1650 1693	néoplasie intraductale papillaire mucineuse
+T11	morphologie 1816 1829	carcinomatose
+T12	topographie 1830 1841	péritonéale
+T13	morphologie 1980 1994	Adénocarcinome
+T14	topographie 1998 2006	pancréas
+T15	stade 2010 2018	stade IV
+T16	morphologie 2127 2140	carcinomatose
+T17	topographie 2141 2152	péritonéale
+T18	morphologie 2223 2237	adénocarcinome
+T19	topographie 2238 2250	pancréatique
+T20	morphologie 2251 2263	métastatique
+T21	morphologie 2643 2664	processus néoplasique

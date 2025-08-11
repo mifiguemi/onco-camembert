@@ -1,0 +1,34 @@
+T2	morphologie 1061 1067	tumeur
+T3	expression_CIM 1337 1366	myxofibrosarcome de bas grade
+T4	morphologie 1415 1423	sarcomes
+T5	morphologie 1991 1997	tumeur
+T6	morphologie 2163 2174	sarcomatose
+T7	morphologie 2294 2316	tumeur mésenchymateuse
+T8	morphologie 2388 2404	myxofibrosarcome
+T9	morphologie 2652 2658	tumeur
+T10	morphologie 2792 2798	tumeur
+T1	morphologie 353 358	masse
+T11	topographie 372 382	mésogastre
+T12	expression_CIM 353 382	masse dure dans le mésogastre
+T13	morphologie 524 529	masse
+T14	topographie 559 569	hypogastre
+T15	expression_CIM 524 569	masse de 14 x 10 cm, située dans l'hypogastre
+T16	morphologie 761 766	masse
+T17	topographie 798 813	méso-hypogastre
+T18	expression_CIM 761 813	masse avec gaz à l'intérieur dans le méso-hypogastre
+T19	topographie 1081 1110	mésentère de l'intestin grêle
+T20	expression_CIM 1061 1110	tumeur dépendant du mésentère de l'intestin grêle
+T21	morphologie 1337 1353	myxofibrosarcome
+T22	differenciation 1354 1366	de bas grade
+T23	topographie 1424 1435	péritonéaux
+T24	expression_CIM 1415 1435	sarcomes péritonéaux
+T25	expression_CIM 1991 1997	tumeur
+T26	topographie 2175 2186	péritonéale
+T27	expression_CIM 2163 2186	sarcomatose péritonéale
+T28	morphologie 2259 2266	nodules
+T29	expression_CIM 2259 2266	nodules
+T30	expression_CIM 2388 2404	myxofibrosarcome
+T31	differenciation 2317 2329	de bas grade
+T32	expression_CIM 2294 2329	tumeur mésenchymateuse de bas grade
+T33	expression_CIM 2652 2658	tumeur
+T34	expression_CIM 2792 2798	tumeur

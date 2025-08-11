@@ -1,0 +1,46 @@
+T2	morphologie 1112 1134	atteinte adénopathique
+T3	morphologie 1242 1252	métastases
+T4	morphologie 1411 1433	atteinte adénopathique
+T6	morphologie 1747 1769	Carcinome embryonnaire
+T7	morphologie 1974 1996	carcinome embryonnaire
+T8	morphologie 2031 2039	séminome
+T9	morphologie 2050 2058	tératome
+T10	morphologie 2177 2211	tumeur germinale non séminomateuse
+T11	morphologie 2213 2217	NSGT
+T12	morphologie 3936 3959	structures néoplasiques
+T13	morphologie 4725 4740	tératome mature
+T14	morphologie 396 401	masse
+T15	topographie 402 418	sus-claviculaire
+T16	morphologie 595 601	lésion
+T17	topographie 639 656	supraclaviculaire
+T19	morphologie 726 731	masse
+T20	topographie 669 678	abdominal
+T22	morphologie 303 313	gonflement
+T23	topographie 317 326	testicule
+T25	topographie 1154 1171	supraclaviculaire
+T26	topographie 1173 1184	médiastinal
+T27	topographie 1186 1201	rétropéritonéal
+T29	morphologie 1210 1221	conglomérat
+T31	topographie 1253 1264	pulmonaires
+T34	morphologie 1295 1300	masse
+T35	topographie 1301 1313	testiculaire
+T36	topographie 1444 1458	latérocervical
+T37	topographie 1460 1477	supraclaviculaire
+T38	topographie 1481 1490	axillaire
+T39	topographie 1499 1510	médiastinal
+T40	topographie 1512 1527	rétropéritonéal
+T41	topographie 1529 1540	rétrocrural
+T42	topographie 1542 1549	iliaque
+T43	topographie 1567 1577	testicules
+T45	morphologie 1613 1619	lésion
+T46	topographie 1620 1629	cervicale
+T48	morphologie 1698 1707	métastase
+T50	morphologie 1711 1733	carcinome embryonnaire
+T52	morphologie 1788 1798	métastases
+T53	topographie 1799 1813	ganglionnaires
+T54	topographie 1817 1828	pulmonaires
+T61	morphologie 2844 2855	progression
+T62	topographie 2866 2881	rétropéritonéal
+T64	morphologie 3789 3794	masse
+T67	morphologie 4088 4104	lymphadénopathie
+T68	topographie 4105 4119	interaortocave

@@ -1,0 +1,31 @@
+T1	morphologie 1209 1224	néoplasme malin
+T2	topographie 1239 1256	lobes parotidiens
+T3	morphologie 1578 1585	nodules
+T4	topographie 1586 1597	pulmonaires
+T5	morphologie 1655 1665	métastases
+T6	topographie 1817 1822	atlas
+T7	morphologie 1874 1885	adénopathie
+T8	topographie 1886 1901	latérocervicale
+T9	morphologie 2022 2028	lésion
+T10	morphologie 2192 2204	néoformation
+T11	morphologie 2722 2731	carcinome
+T12	differenciation 2732 2745	indifférencié
+T13	morphologie 2752 2796	sarcome avec des caractéristiques rhabdoïdes
+T14	morphologie 2992 3032	Carcinome anaplasique à grandes cellules
+T15	topographie 3039 3054	glande parotide
+T16	stade 3069 3078	stade IVc
+T17	stade 3080 3084	cT4a
+T19	topographie 3122 3134	nerf facial-
+T20	stade 3136 3142	cN1 -1
+T21	morphologie 3143 3154	adénopathie
+T22	stade 3176 3178	M1
+T23	topographie 3191 3203	pulmonaires-
+T24	morphologie 4124 4145	carcinome anaplasique
+T25	topographie 4152 4160	parotide
+T26	morphologie 5096 5102	tumeur
+T27	topographie 5103 5115	parotidienne
+T28	morphologie 5124 5135	adénopathie
+T29	topographie 5136 5151	latérocervicale
+T30	morphologie 1797 1802	masse
+T18	morphologie 3110 3118	atteinte
+T31	morphologie 3180 3190	métastases

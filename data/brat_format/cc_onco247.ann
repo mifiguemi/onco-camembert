@@ -1,0 +1,44 @@
+T1	morphologie 379 385	tumeur
+T2	morphologie 514 521	polypes
+T3	morphologie 876 885	néoplasie
+T4	topographie 886 893	rectale
+T5	morphologie 937 961	adénocarcinome entéroïde
+T6	morphologie 1334 1343	néoplasme
+T7	topographie 1373 1379	rectum
+T8	morphologie 1461 1467	Lésion
+T9	topographie 1468 1477	hépatique
+T10	morphologie 1546 1555	métastase
+T11	morphologie 1618 1624	lésion
+T12	topographie 1665 1669	foie
+T13	morphologie 1699 1708	métastase
+T14	morphologie 1734 1740	lésion
+T15	morphologie 1820 1829	métastase
+T16	morphologie 1891 1897	tumeur
+T17	topographie 1898 1905	rectale
+T18	stade 1948 1953	cT3N1
+T19	morphologie 1967 1981	Adénocarcinome
+T20	topographie 1982 1988	rectal
+T21	stade 1989 1995	T3N1M1
+T22	morphologie 2012 2021	métastase
+T23	topographie 2022 2031	hépatique
+T24	stade 2052 2061	stade IVa
+T25	morphologie 2552 2568	tumeur primitive
+T26	morphologie 2576 2588	adénopathies
+T27	morphologie 2664 2673	métastase
+T28	topographie 2674 2683	hépatique
+T29	morphologie 2788 2791	LOE
+T30	topographie 2792 2801	hépatique
+T31	morphologie 2860 2874	adénocarcinome
+T32	morphologie 3026 3034	atteinte
+T33	morphologie 3054 3066	infiltration
+T34	topographie 3067 3078	périneurale
+T35	morphologie 3107 3127	atteinte néoplasique
+T36	morphologie 3459 3465	lésion
+T37	topographie 3483 3487	foie
+T38	morphologie 3650 3659	métastase
+T39	morphologie 3662 3676	adénocarcinome
+T42	topographie 3924 3928	foie
+T43	morphologie 4394 4403	métastase
+T44	topographie 359 365	rectal
+T40	morphologie 3873 3879	lésion
+T41	topographie 4426 4438	segment V-VI

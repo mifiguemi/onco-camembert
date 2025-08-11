@@ -1,0 +1,27 @@
+T1	morphologie 118 124	cancer
+T2	topographie 128 132	sein
+T3	morphologie 232 238	nodule
+T4	topographie 247 251	sein
+T5	morphologie 338 344	nodule
+T6	topographie 361 395	quadrant inférieur interne du sein
+T7	morphologie 464 501	tumeur stromale à cellules fusiformes
+T8	differenciation 502 523	de grade histologique
+T9	morphologie 682 701	tumeur de Phyllodes
+T10	differenciation 702 715	de haut grade
+T11	morphologie 1725 1737	adénopathies
+T12	topographie 1789 1793	hile
+T13	topographie 1806 1830	rétropéritoine supérieur
+T14	morphologie 1877 1883	tumeur
+T15	morphologie 2693 2699	tumeur
+T16	morphologie 2912 2941	lésion de nature métastatique
+T17	morphologie 2955 2964	Métastase
+T18	topographie 2965 2973	orbitale
+T19	morphologie 2980 2986	tumeur
+T20	topographie 2990 2994	sein
+T21	morphologie 2995 3007	de Phyllodes
+T22	morphologie 3069 3075	lésion
+T23	morphologie 3194 3203	métastase
+T24	morphologie 3210 3229	tumeur de Phyllodes
+T25	differenciation 3230 3243	de haut grade
+T26	morphologie 3606 3612	lésion
+T27	morphologie 3781 3810	récidive locale ou à distance

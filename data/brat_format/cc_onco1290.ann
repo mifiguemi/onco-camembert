@@ -1,0 +1,26 @@
+T1	morphologie 230 264	carcinome rénal à cellules claires
+T3	morphologie 494 503	métastase
+T4	morphologie 596 616	implant métastatique
+T5	morphologie 732 766	Carcinome rénal à cellules claires
+T11	morphologie 2688 2697	métastase
+T12	morphologie 79 84	masse
+T13	topographie 85 91	rénale
+T16	morphologie 373 379	nodule
+T17	topographie 380 392	sous-pleural
+T19	morphologie 517 523	nodule
+T22	topographie 636 652	espace pararénal
+T23	stade 770 778	stade IV
+T25	morphologie 788 798	métastases
+T26	topographie 799 810	pulmonaires
+T27	topographie 819 835	espace pararénal
+T29	morphologie 921 927	nodule
+T30	topographie 928 938	pulmonaire
+T31	morphologie 1155 1160	masse
+T33	morphologie 1239 1244	masse
+T34	topographie 1245 1265	sous-diaphragmatique
+T35	morphologie 1907 1913	lésion
+T36	topographie 1931 1934	LII
+T37	morphologie 1960 1966	lésion
+T38	topographie 1992 1996	rate
+T39	topographie 2698 2707	splénique
+T41	morphologie 2641 2647	nodule

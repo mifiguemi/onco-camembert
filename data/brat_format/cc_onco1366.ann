@@ -1,0 +1,20 @@
+T1	morphologie 728 734	tumeur
+T4	morphologie 1411 1425	adénocarcinome
+T6	morphologie 2022 2026	GIST
+T8	topographie 735 748	surrénalienne
+T10	morphologie 407 412	masse
+T11	topographie 413 423	abdominale
+T13	morphologie 793 802	Carcinome
+T14	topographie 803 821	corticosurrénalien
+T15	morphologie 921 930	carcinome
+T16	topographie 931 949	corticosurrénalien
+T17	morphologie 1157 1163	nodule
+T18	topographie 1164 1175	surrénalien
+T20	topographie 1428 1449	origine surrénalienne
+T22	morphologie 1315 1321	nodule
+T24	morphologie 1623 1629	lésion
+T25	topographie 1638 1663	grande courbure gastrique
+T27	morphologie 1671 1676	masse
+T28	topographie 1685 1705	région surrénalienne
+T30	morphologie 1986 1995	carcinome
+T31	topographie 1996 2014	corticosurrénalien

@@ -1,0 +1,36 @@
+T1	morphologie 191 197	cancer
+T2	morphologie 219 225	cancer
+T3	topographie 229 233	sein
+T4	morphologie 471 501	carcinome lobulaire infiltrant
+T5	topographie 505 509	sein
+T6	morphologie 646 655	carcinome
+T7	stade 659 664	stade
+T8	stade 665 673	pT2pN2M0
+T9	stade 675 679	IIIA
+T10	morphologie 1036 1042	tumeur
+T11	morphologie 2198 2211	carcinomatose
+T12	topographie 2212 2223	péritonéale
+T13	morphologie 2353 2368	lésion kystique
+T14	topographie 2369 2379	annexielle
+T15	morphologie 2583 2596	carcinomatose
+T16	morphologie 2601 2610	carcinome
+T17	topographie 2611 2621	colorectal
+T18	morphologie 2622 2630	primaire
+T19	morphologie 2635 2644	carcinome
+T20	topographie 2645 2652	ovarien
+T21	morphologie 2659 2668	carcinome
+T22	topographie 2669 2677	mammaire
+T23	morphologie 2678 2690	se détachant
+T24	morphologie 2753 2774	implants néoplasiques
+T25	topographie 2799 2804	sigma
+T26	morphologie 3164 3177	carcinomatose
+T27	topographie 3178 3189	péritonéale
+T28	morphologie 3278 3287	carcinome
+T29	differenciation 3288 3303	peu différencié
+T30	morphologie 3434 3455	rechute de la maladie
+T31	topographie 3466 3476	péritonéal
+T32	morphologie 3556 3562	cancer
+T33	topographie 3566 3570	sein
+T34	stade 3574 3582	stade IV
+T35	morphologie 3588 3598	métastases
+T36	topographie 3599 3611	péritonéales

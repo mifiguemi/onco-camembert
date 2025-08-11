@@ -1,0 +1,21 @@
+T1	morphologie 303 321	carcinome squameux
+T3	morphologie 4099 4116	récidive tumorale
+T5	morphologie 5815 5836	récidive de la tumeur
+T6	topographie 325 340	col de l'utérus
+T7	expression_CIM 303 340	carcinome squameux du col de l'utérus
+T8	stade 344 358	stade IIB FIGO
+T2	stade 360 370	pT2 pN1 M0
+T9	morphologie 1186 1194	récidive
+T10	expression_CIM 1186 1194	récidive
+T11	morphologie 1335 1364	récidive locale ou à distance
+T12	expression_CIM 1335 1364	récidive locale ou à distance
+T13	topographie 4127 4136	cardiaque
+T14	expression_CIM 4099 4136	récidive tumorale au niveau cardiaque
+T4	morphologie 5021 5034	condensations
+T15	topographie 5035 5059	bibasales sous-pleurales
+T16	expression_CIM 5021 5059	condensations bibasales sous-pleurales
+T17	morphologie 5519 5524	masse
+T18	topographie 5525 5539	intracardiaque
+T19	expression_CIM 5519 5539	masse intracardiaque
+T20	topographie 5837 5846	cardiaque
+T21	expression_CIM 5815 5846	récidive de la tumeur cardiaque

@@ -1,0 +1,107 @@
+T1	morphologie 1979 1988	métastase
+T2	morphologie 2031 2037	tumeur
+T5	morphologie 2511 2560	carcinome neuroendocrine (non à petites cellules)
+T6	morphologie 2565 2571	tumeur
+T7	morphologie 2688 2711	tumeurs neuroendocrines
+T8	morphologie 2790 2801	adénopathie
+T9	morphologie 2863 2877	tumeur maligne
+T11	morphologie 3075 3082	nodules
+T12	morphologie 3396 3410	tumeur maligne
+T13	morphologie 3415 3424	carcinome
+T15	morphologie 3584 3635	Carcinome avec des caractéristiques neuroendocrines
+T16	morphologie 3794 3803	néoplasme
+T17	morphologie 3820 3840	carcinome médullaire
+T18	morphologie 4023 4032;4044 4053	carcinome insulaire
+T19	expression_CIM 4055 4080	carcinome peu différencié
+T20	morphologie 4310 4319	néoplasme
+T21	expression_CIM 4353 4448	Carcinome pulmonaire à grandes cellules avec composante neuroendocrine (pas à petites cellules)
+T22	stade 4450 4456	T4N2M1
+T25	morphologie 5151 5157	tumeur
+T26	morphologie 5796 5805;5817 5831	carcinome neuroendocrine
+T28	expression_CIM 5870 5905	carcinome indifférencié/anaplasique
+T30	morphologie 6346 6355	carcinome
+T31	expression_CIM 6496 6567	carcinome de haut grade présentant des caractéristiques neuroendocrines
+T33	expression_CIM 6657 6692	carcinome indifférencié/anaplasique
+T34	morphologie 6725 6751	carcinomes neuroendocrines
+T36	morphologie 7139 7146	lésions
+T38	morphologie 7541 7548	lésions
+T39	topographie 2051 2066	extrapulmonaire
+T40	topographie 2070 2080	pulmonaire
+T4	topographie 2802 2819	supraclaviculaire
+T41	topographie 3847 3855	thyroïde
+T42	topographie 4033 4043	thyroïdien
+T43	stade 4458 4466	stade IV
+T24	topographie 5806 5816	thyroïdien
+T27	topographie 6752 6763	thyroïdiens
+T32	topographie 7549 7560	pulmonaires
+T35	morphologie 7441 7448;7461 7471	lésions nodulaires
+T37	topographie 7449 7460	pulmonaires
+T44	topographie 7147 7158	pulmonaires
+T45	topographie 5168 5174	poumon
+T46	topographie 5182 5190	thyroïde
+T47	morphologie 1417 1436	Opacités nodulaires
+T48	topographie 1437 1450	médiastinales
+T49	topographie 1454 1465	pulmonaires
+T50	expression_CIM 1417 1465	Opacités nodulaires médiastinales et pulmonaires
+T51	morphologie 1575 1581	nodule
+T52	topographie 1582 1592	thyroïdien
+T53	expression_CIM 1575 1592	nodule thyroïdien
+T54	morphologie 1840 1847	nodules
+T55	morphologie 1856 1862	masses
+T56	topographie 1878 1892	lobe supérieur
+T57	topographie 1925 1939	lobe inférieur
+T58	expression_CIM 1856 1939	masses, l'une dans le lobe supérieur droit et la plus grande dans le lobe inférieur
+T59	expression_CIM 2031 2080	tumeur primaire est extrapulmonaire ou pulmonaire
+T3	morphologie 2230 2236	lésion
+T60	topographie 2237 2251	endobronchique
+T61	expression_CIM 2230 2251	lésion endobronchique
+T62	expression_CIM 1840 1847	nodules
+T63	morphologie 1609 1620	adénopathie
+T64	expression_CIM 1609 1620	adénopathie
+T65	morphologie 1666 1671	masse
+T66	topographie 1672 1703	paratrachéale cervicothoracique
+T67	expression_CIM 1666 1703	masse paratrachéale cervicothoracique
+T68	morphologie 1771 1796	conglomérat adénopathique
+T69	expression_CIM 1771 1796	conglomérat adénopathique
+T70	topographie 1989 1999	pulmonaire
+T71	expression_CIM 1979 1999	métastase pulmonaire
+T72	expression_CIM 2511 2561	carcinome neuroendocrine (non à petites cellules).
+T73	expression_CIM 2565 2571	tumeur
+T74	expression_CIM 2790 2819	adénopathie supraclaviculaire
+T75	expression_CIM 2863 2877	tumeur maligne
+T76	topographie 2712 2725	thyroïdiennes
+T77	expression_CIM 2688 2725	tumeurs neuroendocrines thyroïdiennes
+T78	morphologie 2879 2884	Masse
+T79	topographie 2885 2898	paratrachéale
+T80	expression_CIM 2879 2898	Masse paratrachéale
+T10	topographie 3083 3094	pulmonaires
+T81	expression_CIM 3075 3094	nodules pulmonaires
+T82	expression_CIM 3396 3410	tumeur maligne
+T83	topographie 3425 3435	thyroïdien
+T84	expression_CIM 3415 3435	carcinome thyroïdien
+T14	expression_CIM 3584 3635	Carcinome avec des caractéristiques neuroendocrines
+T85	expression_CIM 3794 3803	néoplasme
+T86	expression_CIM 3820 3855	carcinome médullaire de la thyroïde
+T87	expression_CIM 4023 4053	carcinome thyroïdien insulaire
+T88	morphologie 4055 4064	carcinome
+T89	differenciation 4065 4080	peu différencié
+T90	topographie 4329 4339	pulmonaire
+T91	expression_CIM 4310 4339	néoplasme primaire pulmonaire
+T92	morphologie 4353 4362;4374 4448	Carcinome à grandes cellules avec composante neuroendocrine (pas à petites cellules)
+T93	topographie 4363 4373	pulmonaire
+T94	expression_CIM 5151 5190	tumeur initiale (poumon versus thyroïde
+T95	expression_CIM 5796 5831	carcinome thyroïdien neuroendocrine
+T96	morphologie 5870 5879	carcinome
+T97	differenciation 5880 5905	indifférencié/anaplasique
+T29	expression_CIM 6346 6355	carcinome
+T98	morphologie 6496 6505;6520 6567	carcinome présentant des caractéristiques neuroendocrines
+T99	differenciation 6506 6519	de haut grade
+T100	morphologie 6657 6666	carcinome
+T101	differenciation 6667 6692	indifférencié/anaplasique
+T102	expression_CIM 6725 6763	carcinomes neuroendocrines thyroïdiens
+T103	expression_CIM 7139 7158	lésions pulmonaires
+T104	expression_CIM 7441 7471	lésions pulmonaires nodulaires
+T105	expression_CIM 7541 7560	lésions pulmonaires
+T23	morphologie 4472 4480	atteinte
+T106	topographie 4481 4491	pulmonaire
+T107	expression_CIM 4472 4491	atteinte pulmonaire

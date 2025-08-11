@@ -1,0 +1,39 @@
+T1	morphologie 398 403	masse
+T2	topographie 411 421	hypogastre
+T3	morphologie 873 878	masse
+T4	morphologie 1029 1034	masse
+T5	topographie 1049 1055	bassin
+T6	topographie 1060 1069	épigastre
+T7	morphologie 1133 1142	néoplasme
+T8	topographie 1145 1166	origine gynécologique
+T9	morphologie 1291 1304	carcinomatose
+T10	topographie 1305 1316	péritonéale
+T11	morphologie 1704 1718	masse kystique
+T12	morphologie 1955 1961	tumeur
+T13	topographie 2024 2030	utérus
+T14	topographie 2038 2045	ovaires
+T15	morphologie 2181 2203	tumeur kystique solide
+T16	morphologie 2216 2238	carcinome séromucineux
+T17	differenciation 2239 2255	bien différencié
+T18	topographie 2269 2275	utérus
+T19	topographie 2283 2290	ovaires
+T20	morphologie 2362 2380	néoplasme mucineux
+T21	topographie 2381 2395	appendiculaire
+T22	differenciation 2396 2408	de bas grade
+T23	morphologie 2414 2439	infiltration métastatique
+T24	topographie 2445 2453	épiploon
+T25	morphologie 2462 2472	métastases
+T26	topographie 2482 2504	ganglions lymphatiques
+T27	morphologie 2531 2571	tumeur appendiculaire mucineuse primaire
+T28	morphologie 2577 2585	atteinte
+T29	topographie 2586 2602	intra-abdominale
+T30	morphologie 2803 2809	lésion
+T31	topographie 2810 2826	rétropéritonéale
+T32	morphologie 2896 2916	implant métastatique
+T33	morphologie 2932 2938	tumeur
+T34	morphologie 3093 3102	néoplasme
+T35	topographie 3103 3117	appendiculaire
+T36	morphologie 3118 3126	mucineux
+T37	morphologie 3132 3145	carcinomatose
+T38	topographie 3146 3157	péritonéale
+T39	morphologie 3754 3760	lésion

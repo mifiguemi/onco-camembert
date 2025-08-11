@@ -1,0 +1,47 @@
+T1	morphologie 78 84	cancer
+T2	topographie 88 92	sein
+T3	morphologie 142 148	cancer
+T4	topographie 152 156	sein
+T5	morphologie 196 202;213 220	tumeur bénigne
+T6	topographie 203 212	cérébrale
+T8	morphologie 394 424	carcinome canalaire infiltrant
+T9	differenciation 425 437	de grade III
+T10	stade 438 446	pT1bN1M0
+T11	morphologie 1124 1133	néoplasme
+T12	topographie 1134 1142	mammaire
+T13	morphologie 1228 1234	tumeur
+T14	topographie 1238 1242	sein
+T15	morphologie 1293 1323	carcinome canalaire infiltrant
+T16	differenciation 1324 1336	de grade III
+T17	stade 1337 1345	pT1bN1M0
+T18	morphologie 2333 2342	néoplasme
+T19	topographie 2343 2351	mammaire
+T20	morphologie 2512 2518	nodule
+T21	topographie 2527 2558	quadrant supéro-externe du sein
+T22	morphologie 3031 3052	atteinte métastatique
+T23	morphologie 3054 3093	Augmentation de la captation du traceur
+T24	morphologie 3211 3225	tumeur maligne
+T25	morphologie 3287 3308	atteinte métastatique
+T26	morphologie 3504 3513	néoplasme
+T27	morphologie 3875 3905	Carcinome canalaire infiltrant
+T28	differenciation 3906 3921	peu différencié
+T29	differenciation 3923 3932	grade III
+T30	morphologie 3934 3946	Néoformation
+T31	morphologie 4059 4074	macrométastases
+T32	morphologie 4078 4087	carcinome
+T33	morphologie 4102 4117	micrométastases
+T34	morphologie 4319 4328	néoplasme
+T35	morphologie 4443 4463	maladie métastatique
+T36	morphologie 4465 4477	infiltration
+T37	topographie 4484 4498	moelle osseuse
+T38	morphologie 4504 4512	atteinte
+T39	topographie 4513 4520	osseuse
+T40	morphologie 5152 5164	infiltration
+T41	topographie 5171 5185	moelle osseuse
+T42	morphologie 5998 6005	lésions
+T43	topographie 6006 6014	osseuses
+T7	topographie 3126 3142	scapulo-humérale
+T44	topographie 3144 3162	sternoclaviculaire
+T45	topographie 3166 3184	ceinture pelvienne
+T46	topographie 3484 3500	origine mammaire
+T47	topographie 4299 4315	origine mammaire

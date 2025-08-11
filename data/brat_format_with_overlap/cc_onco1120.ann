@@ -1,0 +1,27 @@
+T1	morphologie 2041 2047	tumeur
+T2	morphologie 2930 2936	tumeur
+T3	morphologie 3310 3316	tumeur
+T4	morphologie 3392 3398	tumeur
+T5	morphologie 3403 3441	Tumeur myofibroblastique inflammatoire
+T6	morphologie 3649 3687	tumeur myofibroblastique inflammatoire
+T7	morphologie 1313 1319	masses
+T8	expression_CIM 1313 1319	masses
+T9	expression_CIM 2041 2047	tumeur
+T10	morphologie 1940 1945	masse
+T11	topographie 2008 2027	racine du mésentère
+T12	expression_CIM 1940 2027	masse hétérogène d'extension craniocaudale de 22 cm dépendant de la racine du mésentère
+T13	morphologie 2078 2090	adénopathies
+T14	topographie 2113 2162	autour des vaisseaux mésentériques du flanc droit
+T15	expression_CIM 2078 2162	adénopathies d'allure pathologique autour des vaisseaux mésentériques du flanc droit
+T16	topographie 2956 2966	méso-iléon
+T17	expression_CIM 2930 2966	tumeur semble dépendre du méso-iléon
+T18	morphologie 2605 2610	Masse
+T19	topographie 2611 2621	abdominale
+T20	expression_CIM 2605 2621	Masse abdominale
+T21	topographie 3317 3327	abdominale
+T22	expression_CIM 3310 3327	tumeur abdominale
+T23	expression_CIM 3392 3398	tumeur
+T24	expression_CIM 3403 3441	Tumeur myofibroblastique inflammatoire
+T25	morphologie 3454 3481	Conglomérats adénopathiques
+T26	expression_CIM 3454 3481	Conglomérats adénopathiques
+T27	expression_CIM 3649 3687	tumeur myofibroblastique inflammatoire

@@ -1,0 +1,45 @@
+T1	morphologie 154 160	cancer
+T2	topographie 167 175	thyroïde
+T3	topographie 185 193	prostate
+T4	morphologie 234 240	cancer
+T5	topographie 244 252	pancréas
+T6	morphologie 327 332	masse
+T7	topographie 342 370	quadrants supérieurs du sein
+T8	morphologie 395 400	masse
+T9	topographie 453 479	quadrant supérieur externe
+T10	morphologie 499 506	nodules
+T11	morphologie 523 535	adénopathies
+T12	topographie 536 546	axillaires
+T13	morphologie 554 576	ganglions lymphatiques
+T14	topographie 577 586	mammaires
+T15	morphologie 629 659	carcinome canalaire infiltrant
+T16	morphologie 807 825	maladie à distance
+T17	morphologie 1367 1391	implication métastatique
+T18	morphologie 1397 1409	adénopathies
+T19	morphologie 1431 1442	adénopathie
+T20	morphologie 1487 1511	carcinome neuroendocrine
+T21	topographie 1515 1519	sein
+T22	stade 1526 1535	pT3pN2aM0
+T23	morphologie 2074 2086	adénopathies
+T24	topographie 2095 2118	chaîne mammaire interne
+T25	topographie 2492 2515	région mammaire interne
+T26	morphologie 3163 3172	carcinome
+T27	topographie 3211 3227	origine mammaire
+T28	morphologie 4034 4079	récidive tumorale locorégionale ou à distance
+T29	morphologie 4341 4349	récidive
+T30	topographie 4350 4357	cutanée
+T31	morphologie 4417 4441	carcinome neuroendocrine
+T32	topographie 4445 4449	sein
+T33	morphologie 5128 5135	lésions
+T34	topographie 5136 5144	osseuses
+T35	morphologie 5145 5158	métastatiques
+T36	topographie 5176 5184	D2 et S4
+T37	morphologie 5191 5213	masses des tissus mous
+T38	morphologie 5467 5474	lésions
+T39	topographie 5475 5485	hépatiques
+T40	topographie 5487 5498	pulmonaires
+T41	topographie 5502 5510	osseuses
+T42	morphologie 5649 5670	tumeur neuroendocrine
+T43	differenciation 5671 5684	de haut grade
+T44	morphologie 6026 6050	carcinome neuroendocrine
+T45	differenciation 6051 6064	de haut grade

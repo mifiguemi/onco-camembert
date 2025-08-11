@@ -1,0 +1,6 @@
+T1	morphologie 56 86	carcinome canalaire infiltrant
+T2	stade 102 108	T2N2M0
+T3	morphologie 374 399	récidive pleuropulmonaire
+T4	expression_CIM 374 399	récidive pleuropulmonaire
+T5	expression_CIM 56 94	carcinome canalaire infiltrant du sein
+T6	topographie 90 94	sein

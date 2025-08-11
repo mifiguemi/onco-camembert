@@ -1,0 +1,39 @@
+T1	morphologie 146 152	myomes
+T2	morphologie 395 425	carcinome canalaire infiltrant
+T3	morphologie 427 430	CDI
+T5	morphologie 573 579	nodule
+T6	topographie 599 622	quadrant supéro-externe
+T7	topographie 624 627	SEQ
+T8	topographie 663 666	EQL
+T9	morphologie 858 864	nodule
+T10	topographie 897 920	quadrant supéro-externe
+T11	morphologie 1016 1023	lésions
+T12	topographie 1043 1057	lobe hépatique
+T13	morphologie 1187 1197	métastases
+T14	morphologie 1279 1299	processus infiltrant
+T15	topographie 1310 1316	osseux
+T16	morphologie 1364 1394	carcinome canalaire infiltrant
+T17	morphologie 1396 1399	CDI
+T18	differenciation 1402 1410	grade 2,
+T19	stade 1411 1419	Scarff 6
+T20	stade 1421 1427	D3P2M1
+T21	morphologie 1766 1796	carcinome canalaire infiltrant
+T22	stade 1798 1801	pT2
+T24	stade 1857 1865	Scarff 6
+T25	stade 1867 1873	D3P2M1
+T26	morphologie 1901 1911	métastases
+T27	topographie 1920 1951	ganglion lymphatique sentinelle
+T28	stade 2190 2202	pT2, pN0, M0
+T30	stade 2221 2230	stade IIA
+T31	morphologie 2274 2280	tumeur
+T32	stade 2283 2291	stade II
+T33	morphologie 2329 2351	atteinte ganglionnaire
+T34	morphologie 2467 2497	carcinome canalaire infiltrant
+T35	stade 2532 2541	stade IIA
+T4	topographie 922 925	QSE
+T36	topographie 969 973	sein
+T37	topographie 928 959	ligne interquadrantique externe
+T38	topographie 961 964	LIE
+T39	topographie 671 675	sein
+T40	topographie 630 661	ligne interquadrantique externe
+T23	differenciation 1848 1855	grade 2

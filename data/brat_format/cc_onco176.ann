@@ -1,0 +1,35 @@
+T1	morphologie 886 909	néoformation végétative
+T2	morphologie 1036 1043	lésions
+T3	topographie 1044 1054	hépatiques
+T4	morphologie 1146 1160	adénocarcinome
+T5	topographie 1164 1169	côlon
+T6	morphologie 1355 1362	tumeurs
+T7	topographie 1437 1439	LD
+T8	morphologie 1459 1465	Tumeur
+T9	topographie 1474 1490	côlon descendant
+T10	morphologie 1543 1559	tumeur primitive
+T11	morphologie 1759 1773	Adénocarcinome
+T13	stade 1804 1812	Stade IV
+T14	morphologie 1884 1891	lésions
+T15	topographie 1892 1902	hépatiques
+T16	morphologie 2660 2667	lésions
+T17	topographie 2668 2678	hépatiques
+T18	morphologie 2845 2852	lésions
+T19	topographie 2853 2863	hépatiques
+T20	morphologie 3299 3306	lésions
+T21	topographie 3307 3317	hépatiques
+T22	morphologie 3388 3397	Néoplasie
+T23	topographie 3398 3405	colique
+T24	morphologie 3528 3535	lésions
+T25	topographie 3536 3546	hépatiques
+T26	morphologie 3670 3687	lésion secondaire
+T27	morphologie 3829 3844	tumeur primaire
+T28	morphologie 4148 4155	lésions
+T29	topographie 4156 4166	hépatiques
+T30	morphologie 4567 4582	tumeur primaire
+T31	morphologie 4600 4614	adénocarcinome
+T32	topographie 4618 4624	rectum
+T33	stade 4705 4714	ypT3 ypN0
+T34	morphologie 4770 4791	nodules métastatiques
+T12	topographie 1787 1793	rectum
+T35	topographie 1794 1802	sigmoïde

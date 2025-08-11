@@ -1,0 +1,31 @@
+T1	morphologie 943 948	masse
+T2	morphologie 1212 1224	Adénopathies
+T3	topographie 1243 1257	paratrachéales
+T4	topographie 1261 1288	rétrotrachéales supérieures
+T5	morphologie 1335 1347;1359 1366	néoformation maligne
+T6	topographie 1348 1358	pulmonaire
+T8	topographie 1391 1405	lobe supérieur
+T9	morphologie 1528 1542	adénocarcinome
+T10	morphologie 1586 1600	adénocarcinome
+T11	topographie 1601 1611	pulmonaire
+T12	stade 1612 1618	T4N1MO
+T13	stade 1620 1625	EIIIA
+T14	morphologie 1985 1990	masse
+T15	topographie 1991 2001	pulmonaire
+T16	morphologie 2186 2201	tumeur primaire
+T17	morphologie 2774 2791	lésions tumorales
+T18	morphologie 3214 3219	masse
+T19	topographie 3220 3230	pulmonaire
+T20	morphologie 3502 3519	images nodulaires
+T21	morphologie 3642 3666	croissance adénopathique
+T22	topographie 3667 3674	hilaire
+T23	topographie 3678 3690	médiastinale
+T24	morphologie 3815 3822	maladie
+T25	topographie 3823 3835	médiastinale
+T26	topographie 3840 3847	poumons
+T27	topographie 3855 3877	ganglions lymphatiques
+T28	morphologie 5422 5440	lésions nodulaires
+T29	morphologie 5550 5555	masse
+T30	topographie 5556 5566	pulmonaire
+T31	morphologie 5900 5916	maladie tumorale
+T7	topographie 3239 3242	LSD

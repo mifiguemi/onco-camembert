@@ -1,0 +1,26 @@
+T1	morphologie 143 163	mélanome malin de la
+T2	topographie 164 172	choroïde
+T3	morphologie 381 388	rechute
+T4	topographie 389 399	pulmonaire
+T5	topographie 403 412	hépatique
+T6	morphologie 660 671	progression
+T7	topographie 672 682	pulmonaire
+T8	morphologie 945 957	adénopathies
+T9	morphologie 1267 1274	nodules
+T10	topographie 1275 1286	pulmonaires
+T11	morphologie 1376 1384	mélanome
+T12	topographie 1385 1390	uvéal
+T13	stade 1394 1402	stade IV
+T14	morphologie 4312 4319	lésions
+T15	morphologie 4338 4349	adénopathie
+T16	topographie 4350 4362	médiastinale
+T17	morphologie 4398 4405	nodules
+T18	topographie 4406 4417	pulmonaires
+T19	morphologie 7403 7414	progression
+T20	topographie 7415 7424	cérébrale
+T21	morphologie 7449 7458	métastase
+T22	morphologie 7560 7569	métastase
+T23	morphologie 7795 7816	maladie adénopathique
+T24	topographie 7818 7829	péritonéale
+T25	topographie 7831 7839	pleurale
+T26	topographie 7843 7852	cérébrale

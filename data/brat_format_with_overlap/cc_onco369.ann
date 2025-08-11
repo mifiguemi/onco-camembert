@@ -1,0 +1,30 @@
+T1	morphologie 253 259	cancer
+T2	morphologie 304 310	cancer
+T3	topographie 314 319	côlon
+T4	morphologie 366 385	cancer métastatique
+T5	morphologie 1030 1070	Mélanome malin d'extension superficielle
+T6	stade 1348 1357	T2 à N0M0
+T7	morphologie 1580 1591	adénopathie
+T8	topographie 1592 1604	médiastinale
+T9	topographie 1608 1617	axillaire
+T10	morphologie 1650 1666	lésion nodulaire
+T11	topographie 1692 1702	oreillette
+T12	morphologie 2153 2158	masse
+T13	topographie 2159 2173	intracavitaire
+T14	morphologie 2520 2539	lésion métastatique
+T15	morphologie 2626 2632	myxome
+T16	morphologie 3329 3334	Masse
+T17	morphologie 3753 3761	mélanome
+T18	morphologie 3951 3957	tumeur
+T19	morphologie 4161 4166	masse
+T20	topographie 4167 4174	atriale
+T21	morphologie 4179 4184	masse
+T22	topographie 4185 4192	atriale
+T23	morphologie 4302 4308	myxome
+T24	topographie 4309 4315	atrial
+T25	morphologie 4351 4379	tumeur stromale laxe mucoïde
+T26	morphologie 4498 4514	maladie tumorale
+T27	topographie 387 398	non affilié
+T28	morphologie 1968 1980	adénopathies
+T29	topographie 2633 2644	auriculaire
+T30	topographie 3487 3497	oreillette

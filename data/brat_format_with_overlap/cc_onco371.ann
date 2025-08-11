@@ -1,0 +1,20 @@
+T1	morphologie 352 360	grosseur
+T2	topographie 370 374	sein
+T3	morphologie 573 579	nodule
+T4	topographie 644 691	quadrant supérieur externe de la région du sein
+T5	morphologie 707 718	adénopathie
+T6	topographie 719 728	axillaire
+T7	morphologie 1161 1167	nodule
+T8	topographie 1208 1255	quadrant supérieur externe de la région du sein
+T9	morphologie 1346 1352	lésion
+T10	morphologie 1454 1484	carcinome canalaire infiltrant
+T11	topographie 1488 1492	sein
+T12	differenciation 1493 1503	de grade I
+T13	morphologie 1793 1823	carcinome canalaire infiltrant
+T14	differenciation 1824 1834	de grade I
+T15	stade 1836 1840	pT1b
+T16	stade 1849 1855	N0(sn)
+T17	morphologie 2104 2134	carcinome canalaire infiltrant
+T18	topographie 2138 2142	sein
+T19	stade 2150 2160	pT1b N0(sn
+T20	stade 1856 1858	Mx

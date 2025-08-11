@@ -1,0 +1,20 @@
+T1	morphologie 147 177	carcinome canalaire infiltrant
+T2	stade 178 187	pT1cpN0M0
+T3	morphologie 707 716	carcinome
+T4	morphologie 1833 1839	tumeur
+T5	morphologie 1869 1872	IDC
+T6	morphologie 2993 3031	progression de la maladie métastatique
+T7	morphologie 3108 3114	cancer
+T8	morphologie 3471 3477	cancer
+T9	morphologie 112 118	nodule
+T10	topographie 127 131	sein
+T12	differenciation 188 196	grade II
+T14	topographie 717 725	mammaire
+T16	morphologie 587 594	lésions
+T18	topographie 1848 1852	sein
+T20	stade 1873 1879	pT2pN1
+T21	differenciation 1880 1888	grade II
+T23	topographie 3040 3056	paroi thoracique
+T25	topographie 3118 3122	sein
+T27	topographie 3481 3485	sein
+T28	stade 3486 3519	localement avancé ou métastatique

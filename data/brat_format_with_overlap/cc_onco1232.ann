@@ -1,0 +1,27 @@
+T1	morphologie 12 25	thymome malin
+T2	expression_CIM 781 832	implants pleuraux, diaphragmatiques et médiastinaux
+T4	morphologie 1100 1121	rechute de la maladie
+T5	morphologie 2565 2574	métastase
+T7	morphologie 5226 5251	progression de la maladie
+T8	morphologie 5287 5296	métastase
+T9	morphologie 5336 5343	lésions
+T10	expression_CIM 12 25	thymome malin
+T11	morphologie 781 789	implants
+T12	topographie 790 798	pleuraux
+T13	topographie 800 816	diaphragmatiques
+T14	topographie 820 832	médiastinaux
+T3	topographie 1132 1142	pulmonaire
+T15	topographie 1144 1153	hépatique
+T16	topographie 1157 1163	osseux
+T17	expression_CIM 1100 1163	rechute de la maladie au niveau pulmonaire, hépatique et osseux
+T18	morphologie 2536 2551	Image nodulaire
+T19	expression_CIM 2536 2551	Image nodulaire
+T20	expression_CIM 2565 2574	métastase
+T21	morphologie 2664 2671	lésions
+T22	expression_CIM 2664 2671	lésions
+T6	topographie 5297 5306	cérébrale
+T23	topographie 5262 5270	cérébral
+T24	expression_CIM 5226 5270	progression de la maladie au niveau cérébral
+T25	expression_CIM 5287 5306	métastase cérébrale
+T26	topographie 5354 5363	vertébral
+T27	expression_CIM 5336 5363	lésions au niveau vertébral

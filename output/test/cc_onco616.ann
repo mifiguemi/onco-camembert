@@ -1,0 +1,54 @@
+T1	morphologie 105 123	sarcome pléomorphe
+T2	differenciation 124 137	de haut grade
+T3	morphologie 639 646	nodules
+T4	topographie 647 658	pulmonaires
+T5	morphologie 895 900	masse
+T6	topographie 901 917	rétropéritonéale
+T7	morphologie 997 1010	neurofibromes
+T8	topographie 1037 1056	médiastin supérieur
+T9	topographie 1106 1133	paroi thoracique antérieure
+T10	morphologie 1182 1208	neurofibromatose de type 1
+T11	morphologie 1319 1332	neurofibromes
+T12	topographie 1339 1345	épaule
+T13	morphologie 1383 1395	neurofibrome
+T14	topographie 1425 1435	avant-bras
+T15	morphologie 1723 1737	nodule de Lish
+T16	topographie 1745 1749	iris
+T17	morphologie 1817 1822	masse
+T18	topographie 1823 1839	rétropéritonéale
+T19	morphologie 1913 1960	prolifération néoplasique à cellules fusiformes
+T20	morphologie 2083 2112	sarcome à cellules fusiformes
+T21	morphologie 2314 2319	masse
+T22	topographie 2320 2330	abdominale
+T23	morphologie 2600 2612	neurofibrome
+T24	topographie 2619 2629	paire de V
+T25	topographie 2757 2769	mésencéphale
+T26	morphologie 2973 2994	lésions métastatiques
+T27	morphologie 3330 3356	neurofibromatose de type I
+T28	morphologie 3385 3392	sarcome
+T29	topographie 3393 3408	rétropéritonéal
+T30	morphologie 3409 3419	pléomorphe
+T31	differenciation 3420 3433	de haut grade
+T32	morphologie 3478 3527	tumeur maligne des gaines des nerfs périphériques
+T33	stade 3531 3539	stade IV
+T34	morphologie 3568 3578	métastases
+T35	topographie 3579 3590	pulmonaires
+T36	morphologie 3599 3616	lâcher de ballons
+T37	morphologie 3628 3638	métastases
+T38	topographie 3639 3649	cérébrales
+T39	morphologie 4095 4120	progression de la maladie
+T40	topographie 4129 4136	cerveau
+T41	morphologie 4158 4165	lésions
+T42	topographie 4166 4176	cérébrales
+T43	morphologie 4560 4565	masse
+T44	topographie 4566 4582	rétropéritonéale
+T45	morphologie 4790 4800	métastases
+T46	topographie 4801 4812	pulmonaires
+T47	morphologie 4818 4826	implants
+T48	topographie 4827 4835	pleuraux
+T49	morphologie 4850 4857	implant
+T50	topographie 4866 4872	plèvre
+T51	morphologie 4884 4895	progression
+T52	morphologie 4902 4909	maladie
+T53	topographie 4910 4920	pulmonaire
+T54	topographie 4924 4934	abdominale

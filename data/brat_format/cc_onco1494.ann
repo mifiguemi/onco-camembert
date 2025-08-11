@@ -1,0 +1,75 @@
+T1	morphologie 656 662	cancer
+T2	topographie 666 672	poumon
+T3	morphologie 693 699	cancer
+T4	topographie 706 714	prostate
+T5	morphologie 778 784	cancer
+T6	topographie 788 793	côlon
+T7	morphologie 876 881	masse
+T8	topographie 890 903	fosse iliaque
+T9	morphologie 1461 1466	masse
+T10	morphologie 1875 1887	adénopathies
+T11	topographie 1906 1919	mésentériques
+T12	topographie 1925 1960	chaînes iliaques commune et externe
+T13	topographie 1962 1987	para-aortiques inguinales
+T14	topographie 1991 2008	rétropéritonéales
+T15	morphologie 2015 2022	lésions
+T16	topographie 2023 2033	hépatiques
+T17	morphologie 2305 2311	Nodule
+T18	topographie 2332 2348	région inguinale
+T19	morphologie 2597 2606	néoplasie
+T20	topographie 2610 2615	sigma
+T21	stade 2616 2624	T4-N2-M1
+T22	morphologie 2718 2723	masse
+T23	morphologie 2900 2906	tumeur
+T24	morphologie 2973 3019	tumeur à cellules fusiformes hautement maligne
+T25	morphologie 3168 3202	tumeur stromale gastro-intestinale
+T27	morphologie 3226 3240	carcinosarcome
+T28	morphologie 3429 3435	lésion
+T29	topographie 3436 3445	hépatique
+T30	morphologie 3459 3468	métastase
+T31	topographie 3469 3478	hépatique
+T32	morphologie 3489 3517	tumeur à cellules fusiformes
+T33	differenciation 3518 3531	de haut grade
+T34	morphologie 3574 3589	lésion tumorale
+T35	morphologie 3604 3640	tumeur à cellules fusiformes maligne
+T36	differenciation 3641 3654	de haut grade
+T37	morphologie 3995 4009	carcinosarcome
+T38	morphologie 4108 4122	Carcinosarcome
+T39	differenciation 4123 4136	de haut grade
+T40	topographie 4140 4145	sigma
+T41	stade 4146 4149	pT4
+T42	topographie 4151 4157	vessie
+T43	topographie 4159 4173	intestin grêle
+T44	stade 4175 4182	pN0 cM1
+T45	morphologie 4184 4194	métastases
+T46	topographie 4195 4205	hépatiques
+T47	morphologie 4242 4254	adénopathies
+T48	topographie 4255 4280	mésentériques supérieures
+T49	topographie 4284 4289	méso)
+T50	morphologie 4444 4449	masse
+T51	topographie 4458 4471	fosse iliaque
+T52	morphologie 4874 4880	tumeur
+T53	topographie 4907 4915	sigmoïde
+T54	topographie 4971 4977	vessie
+T55	morphologie 5014 5023	métastase
+T56	topographie 5032 5046	lobe hépatique
+T57	morphologie 5074 5086	adénopathies
+T58	morphologie 5151 5163	adénopathies
+T59	topographie 5172 5186	lobe hépatique
+T60	morphologie 5211 5223	adénopathies
+T61	topographie 5237 5241	méso
+T62	morphologie 5312 5318	tumeur
+T63	morphologie 5391 5397	tumeur
+T64	morphologie 5447 5453	tumeur
+T65	morphologie 5781 5795	carcinosarcome
+T66	morphologie 5897 5903	tumeur
+T67	morphologie 6042 6048	tumeur
+T68	morphologie 6120 6137	implants tumoraux
+T69	morphologie 6141 6155	carcinosarcome
+T72	morphologie 6353 6367	carcinosarcome
+T73	morphologie 6532 6546	carcinosarcome
+T26	topographie 5796 5814	sigmoïde-dépendant
+T70	morphologie 6422 6443	infiltration tumorale
+T71	topographie 6410 6416	vessie
+T74	topographie 6320 6336	paroi abdominale
+T75	topographie 6498 6524	couche musculaire sternale

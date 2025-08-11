@@ -1,0 +1,23 @@
+T1	morphologie 751 777	sarcome à cellules claires
+T2	morphologie 779 782	SCC
+T3	morphologie 1058 1064	tumeur
+T9	morphologie 2667 2681	mélanome malin
+T10	morphologie 2848 2874	sarcome à cellules claires
+T11	morphologie 3004 3018	mélanome malin
+T12	morphologie 3204 3230	sarcome à cellules claires
+T13	morphologie 3282 3288	tumeur
+T14	morphologie 3580 3606	sarcome à cellules claires
+T15	morphologie 3622 3636	mélanome malin
+T16	morphologie 3677 3703	sarcome à cellules claires
+T17	morphologie 3759 3765	tumeur
+T18	morphologie 3953 3977	sarcomes des tissus mous
+T6	topographie 3720 3726	plèvre
+T4	morphologie 2255 2262	nodules
+T5	topographie 2263 2271	pleuraux
+T21	morphologie 2293 2303	métastases
+T33	morphologie 4286 4302	lymphadénopathie
+T34	topographie 4303 4319	sus-claviculaire
+T35	morphologie 4336 4346	métastases
+T36	topographie 4347 4355	osseuses
+T39	morphologie 4363 4386	progression des lésions
+T40	topographie 4387 4396	pleurales

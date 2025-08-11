@@ -1,0 +1,37 @@
+T1	morphologie 302 308	cancer
+T2	morphologie 329 337	lymphome
+T3	morphologie 367 373	cancer
+T4	topographie 377 381	sein
+T5	morphologie 430 436	cancer
+T6	topographie 437 446	gastrique
+T7	morphologie 1608 1614	lésion
+T8	topographie 1621 1638	tête pancréatique
+T9	morphologie 1904 1926	ganglions lymphatiques
+T10	topographie 1927 1944	hiliomédiastinaux
+T11	morphologie 2629 2650	processus néoformatif
+T12	topographie 2651 2663	pancréatique
+T13	morphologie 2664 2672	primaire
+T14	morphologie 2804 2810	lésion
+T15	topographie 2880 2896	tête du pancréas
+T16	morphologie 3047 3059	adénopathies
+T17	morphologie 3112 3118	lésion
+T18	topographie 3122 3130	pancréas
+T19	morphologie 3694 3708	adénocarcinome
+T20	morphologie 3857 3864	lésions
+T21	topographie 3865 3885	pancréaticobiliaires
+T22	morphologie 3915 3929	Adénocarcinome
+T23	topographie 3933 3941	pancréas
+T24	stade 3955 3960	stade
+T25	stade 3961 3971	uT2 N0 cM0
+T26	morphologie 4013 4027	adénocarcinome
+T27	topographie 4028 4040	pancréatique
+T28	stade 4054 4059	stade
+T29	stade 4060 4070	uT2 N0 cM0
+T30	morphologie 4720 4729	néoplasie
+T31	morphologie 5470 5482	adénopathies
+T32	topographie 5483 5501	hiliomédiastinales
+T33	morphologie 5740 5751	adénopathie
+T34	topographie 5752 5767	submandibulaire
+T35	morphologie 5854 5866	adénopathies
+T36	topographie 5867 5880	médiastinales
+T37	topographie 5884 5892	hilaires

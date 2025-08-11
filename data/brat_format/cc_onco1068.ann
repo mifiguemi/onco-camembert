@@ -1,0 +1,46 @@
+T1	morphologie 251 257	cancer
+T2	morphologie 311 317	cancer
+T3	morphologie 346 352	cancer
+T4	morphologie 1975 1996	carcinome épidermoïde
+T5	morphologie 2021 2049	carcinome à grandes cellules
+T6	morphologie 2070 2076	tumeur
+T7	morphologie 2102 2123	Carcinome épidermoïde
+T8	stade 2155 2162	T1bN0M0
+T9	morphologie 2166 2194	Carcinome à grandes cellules
+T10	stade 2215 2221	T4N0M0
+T11	morphologie 2653 2663	néoplasmes
+T12	morphologie 3053 3059	tumeur
+T14	morphologie 3943 3949	tumeur
+T16	morphologie 5264 5278	adénocarcinome
+T17	morphologie 5378 5392	adénocarcinome
+T19	topographie 261 267	poumon
+T20	topographie 321 326	côlon
+T21	topographie 359 367	thyroïde
+T22	morphologie 861 866	masse
+T23	topographie 867 896	pulmonaire dans le lobe moyen
+T24	morphologie 953 967	nodule spiculé
+T25	topographie 976 997	lobe supérieur gauche
+T26	morphologie 1021 1026	masse
+T27	topographie 1035 1045	lobe moyen
+T28	morphologie 1603 1620	masse obstructive
+T29	topographie 1635 1645	lobe moyen
+T30	morphologie 1353 1371	dépôt pathologique
+T31	topographie 1380 1390	lobe moyen
+T32	morphologie 1457 1462	dépôt
+T33	topographie 1487 1512	lobe pulmonaire supérieur
+T34	topographie 2077 2087	pulmonaire
+T35	topographie 2132 2153	lobe supérieur gauche
+T36	topographie 2203 2213	lobe moyen
+T37	topographie 2664 2675	pulmonaires
+T38	topographie 3068 3082	lobe supérieur
+T39	morphologie 2710 2724	masse spiculée
+T40	topographie 2733 2747	lobe supérieur
+T41	morphologie 2799 2804	masse
+T42	topographie 2813 2823	lobe moyen
+T43	stade 3420 3424	pT2a
+T15	stade 5393 5402	T1a N2 M0
+T18	stade 5404 5414	stade IIIA
+T54	topographie 1951 1965	lobe supérieur
+T55	topographie 2008 2018	lobe moyen
+T64	morphologie 3305 3336	adénocarcinome, variante mixte,
+T65	differenciation 3337 3359	modérément différencié

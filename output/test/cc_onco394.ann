@@ -1,0 +1,16 @@
+T1	morphologie 84 108	adénocarcinome urachique
+T2	stade 112 120	stade II
+T3	morphologie 763 771	implants
+T4	morphologie 848 856	implants
+T5	topographie 857 868	péritonéaux
+T6	morphologie 881 904	adénocarcinome mucineux
+T7	differenciation 905 921	bien différencié
+T8	morphologie 980 1003	Adénocarcinome mucineux
+T9	topographie 1009 1015	utérus
+T10	stade 1019 1027	stade IV
+T11	morphologie 1033 1041	atteinte
+T12	topographie 1042 1053	péritonéale
+T13	morphologie 1323 1329	tumeur
+T14	morphologie 2076 2087	progression
+T15	topographie 2088 2099	péritonéale
+T16	morphologie 2432 2443	nodulations

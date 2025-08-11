@@ -1,0 +1,29 @@
+T1	morphologie 774 784	métastases
+T2	morphologie 1256 1284	carcinome à petites cellules
+T3	morphologie 3261 3270;3282 3300	carcinome à petites cellules
+T5	topographie 793 808	corps vertébral
+T6	expression_CIM 1256 1284	carcinome à petites cellules
+T7	expression_CIM 774 808	métastases dans le corps vertébral
+T8	morphologie 920 926	nodule
+T9	topographie 930 933	LSD
+T10	morphologie 952 964	adénopathies
+T11	topographie 965 978	médiastinales
+T12	topographie 1000 1017	para-œsophagienne
+T13	topographie 1031 1050	structures osseuses
+T14	topographie 1052 1061	clavicule
+T15	topographie 1070 1072	D7
+T16	topographie 1074 1085	gril costal
+T17	topographie 1089 1095	bassin
+T18	expression_CIM 920 933	nodule de LSD
+T19	expression_CIM 952 1105	adénopathies médiastinales (la plus grande 3 cm para-œsophagienne) et dans des structures osseuses (clavicule droite, D7, gril costal et bassin bilatéral
+T20	morphologie 1178 1189	adénopathie
+T21	topographie 1190 1202	médiastinale
+T22	expression_CIM 1178 1202	adénopathie médiastinale
+T23	stade 3301 3310	disséminé
+T24	topographie 3271 3281	pulmonaire
+T25	expression_CIM 3261 3300	carcinome pulmonaire à petites cellules
+T4	morphologie 6537 6562	progression locorégionale
+T26	morphologie 6570 6581	adénopathie
+T27	topographie 6582 6589	osseuse
+T28	expression_CIM 6570 6589	adénopathie osseuse
+T29	expression_CIM 6537 6562	progression locorégionale

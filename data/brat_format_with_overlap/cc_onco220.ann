@@ -1,0 +1,39 @@
+T1	morphologie 761 767	lésion
+T2	topographie 809 823	lobe hépatique
+T3	morphologie 924 930	lésion
+T5	topographie 959 973	lobe hépatique
+T6	morphologie 1042 1051	métastase
+T7	morphologie 1058 1079	tumeur neuroendocrine
+T8	morphologie 1081 1084	TNE
+T9	differenciation 1086 1110	moyennement différenciée
+T10	morphologie 1652 1661	métastase
+T11	morphologie 1665 1686	tumeur neuroendocrine
+T12	morphologie 1755 1773	cholangiocarcinome
+T13	topographie 1774 1788	intrahépatique
+T14	stade 1813 1820	pT3N1Mx
+T15	morphologie 2411 2416	masse
+T16	topographie 2417 2426	hépatique
+T17	morphologie 2482 2489	nodules
+T18	morphologie 2602 2609	tumeurs
+T19	morphologie 2986 2993	nodules
+T20	morphologie 3176 3179	TNE
+T21	morphologie 3234 3255	nodules métastatiques
+T22	morphologie 3380 3387	nodules
+T24	morphologie 3713 3716	NER
+T25	morphologie 3821 3839	cholangiocarcinome
+T26	topographie 3840 3854	intrahépatique
+T27	morphologie 4566 4573	nodules
+T28	morphologie 4637 4644	nodules
+T29	topographie 4645 4656	pulmonaires
+T30	topographie 4665 4679	lobe supérieur
+T31	topographie 5000 5011	pulmonaires
+T32	morphologie 5134 5137	TNE
+T33	morphologie 5365 5371	tumeur
+T34	morphologie 5532 5546	adénocarcinome
+T35	morphologie 5872 5909	carcinome mixte (adéno-neuroendocrine
+T37	morphologie 6263 6268	masse
+T38	topographie 6297 6313	région axillaire
+T39	morphologie 6339 6349	métastases
+T40	topographie 6350 6358	osseuses
+T4	topographie 3203 3213	thoracique
+T23	morphologie 4992 4999	lésions

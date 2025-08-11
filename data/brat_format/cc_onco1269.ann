@@ -1,0 +1,20 @@
+T1	morphologie 199 209	hémangiome
+T3	morphologie 898 904	tumeur
+T4	morphologie 991 1001	hémangiome
+T7	morphologie 1394 1409	Hépatocarcinome
+T8	stade 1416 1423	pT3NxMx
+T10	morphologie 1802 1817	hépatocarcinome
+T11	morphologie 2086 2110	progression métastatique
+T12	morphologie 2290 2309	lésion métastatique
+T13	morphologie 2476 2491	hépatocarcinome
+T2	morphologie 460 476	lymphadénopathie
+T16	topographie 936 959	segment hépatique II-II
+T18	topographie 1002 1011	hépatique
+T6	morphologie 1099 1129	hépatocarcinome multinodulaire
+T20	topographie 1130 1152	modérément différencié
+T21	stade 1410 1414	IIIA
+T9	morphologie 1626 1633;1645 1669	lésions évocatrices de malignité
+T23	topographie 1634 1644	hépatiques
+T26	morphologie 2015 2026	progression
+T27	topographie 2031 2066	ganglions lymphatiques médiastinaux
+T31	topographie 2335 2349	hile hépatique

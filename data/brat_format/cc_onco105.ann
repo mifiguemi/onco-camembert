@@ -1,0 +1,16 @@
+T1	morphologie 539 546	tumeurs
+T2	morphologie 2156 2163	nodules
+T3	morphologie 2533 2539	tumeur
+T4	morphologie 2931 2965	néoplasie germinale intratubulaire
+T5	morphologie 3218 3247	tumeur testiculaire germinale
+T6	morphologie 3282 3313	Tumeur testiculaire "burned-out
+T8	morphologie 3456 3466	métastases
+T9	morphologie 4363 4369	tumeur
+T10	topographie 2164 2175	pulmonaires
+T11	topographie 2201 2215	lobe supérieur
+T12	topographie 2235 2249	lobe inférieur
+T13	topographie 2267 2281	lobe inférieur
+T14	topographie 2540 2552	testiculaire
+T7	stade 3507 3534	Stade IVL du Royal Marsden.
+T16	morphologie 1195 1201	masses
+T18	morphologie 1423 1435	adénopathies

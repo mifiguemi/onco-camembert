@@ -1,0 +1,100 @@
+T1	morphologie 379 390	adénopathie
+T2	topographie 391 407	sus-claviculaire
+T3	morphologie 676 681	masse
+T4	morphologie 970 986	lymphadénopathie
+T5	morphologie 1119 1138	masse adénopathique
+T6	topographie 1147 1163	médiastin antéro
+T7	morphologie 1387 1392	masse
+T8	morphologie 1451 1462	adénopathie
+T9	topographie 1463 1480	supraclaviculaire
+T10	topographie 1481 1507	latérocervicale inférieure
+T11	morphologie 1532 1583	Lymphome de Hodgkin de sous-type sclérose nodulaire
+T13	differenciation 1584 1594	de grade I
+T14	differenciation 1611 1622	de grade II
+T15	morphologie 1747 1769	tumeur des tissus mous
+T16	topographie 1799 1808	clavicule
+T17	morphologie 1880 1886	lésion
+T18	morphologie 1959 1974	lésion tumorale
+T19	morphologie 2082 2100	masse de tissu mou
+T20	topographie 2114 2123	clavicule
+T21	morphologie 2752 2764	Rehaussement
+T22	topographie 2771 2785	moelle osseuse
+T23	morphologie 2917 2929;2938 2946	infiltration tumorale
+T24	topographie 2930 2937	osseuse
+T26	morphologie 2976 2987	adénopathie
+T27	topographie 2988 3004	sus-claviculaire
+T28	morphologie 3022 3036	léiomyosarcome
+T29	differenciation 3037 3050	de haut grade
+T30	morphologie 3127 3149	tumeur des tissus mous
+T31	topographie 3163 3173	arc costal
+T32	topographie 3187 3204	manubrium sternal
+T33	morphologie 3637 3651	léiomyosarcome
+T34	differenciation 3652 3665	de haut grade
+T35	topographie 3710 3727	manubrium sternal
+T36	morphologie 3995 4015	masse de tissus mous
+T37	topographie 4080 4092	lame iliaque
+T38	morphologie 4177 4194	récidive tumorale
+T39	morphologie 4243 4257	léiomyosarcome
+T40	topographie 4264 4276	lame iliaque
+T41	morphologie 4304 4324	masse de tissus mous
+T42	topographie 4325 4335	paraostale
+T43	morphologie 4465 4475	métastases
+T44	topographie 4476 4484	osseuses
+T45	morphologie 4501 4519	Masse de tissu mou
+T46	topographie 4520 4529	présacrée
+T47	morphologie 4648 4658	métastases
+T48	topographie 4659 4667	dorsales
+T49	topographie 4669 4678	lombaires
+T50	topographie 4682 4689	sacrées
+T51	morphologie 4843 4850	sarcome
+T52	morphologie 4956 5004	LYMPHOME DE HODGKIN SOUS-TYPE SCLÉROSE NODULAIRE
+T53	morphologie 5032 5046	LYIOMYOSARCOMA
+T54	morphologie 5253 5258	masse
+T55	morphologie 5268 5284	lymphadénopathie
+T56	topographie 5293 5312	médiastin supérieur
+T57	morphologie 5598 5610	adénopathies
+T58	topographie 5611 5625	rétrosternales
+T59	morphologie 5682 5722	lymphome de Hodgkin à sclérose nodulaire
+T60	morphologie 6197 6204	maladie
+T61	topographie 6239 6265	médiastin antéro-supérieur
+T62	morphologie 6582 6587	masse
+T63	morphologie 6739 6744	masse
+T64	topographie 6778 6787	clavicule
+T65	morphologie 6876 6882	tumeur
+T66	morphologie 6944 6958	léiomyosarcome
+T67	differenciation 6959 6972	de haut grade
+T68	morphologie 8679 8685	tumeur
+T69	morphologie 8911 8917	tumeur
+T70	morphologie 8951 8957	lésion
+T71	topographie 8986 8999	sacro-iliaque
+T72	morphologie 9278 9292	léiomyosarcome
+T73	morphologie 9486 9497	progression
+T74	topographie 9508 9515	iliaque
+T75	morphologie 9568 9579	progression
+T76	topographie 9590 9607	sous-claviculaire
+T77	morphologie 9937 9943	tumeur
+T78	morphologie 11561 11575	léiomyosarcome
+T79	topographie 11584 11596	lame iliaque
+T80	morphologie 11620 11630	métastases
+T81	topographie 11631 11639	osseuses
+T82	morphologie 11664 11684	masse de tissus mous
+T12	morphologie 4099 4107	atteinte
+T25	topographie 4111 4124	moyen fessier
+T83	topographie 4129 4142	petit fessier
+T84	topographie 4149 4162	grand fessier
+T85	topographie 4493 4499	bassin
+T86	morphologie 4725 4737	Infiltration
+T87	topographie 4744 4779	musculature paravertébrale lombaire
+T88	topographie 4789 4804	région fessière
+T89	morphologie 4822 4839	récidive tumorale
+T90	differenciation 5005 5015	GRADE I-II
+T91	differenciation 5047 5060	DE HAUT GRADE
+T92	stade 5078 5090	METASTASIQUE
+T93	topographie 6618 6627	clavicule
+T94	topographie 8918 8930	claviculaire
+T95	morphologie 9527 9539	infiltration
+T96	topographie 9544 9560	muscles fessiers
+T97	topographie 11648 11654	bassin
+T98	topographie 11685 11695	pré-sacrés
+T99	morphologie 11703 11711	invasion
+T100	topographie 11712 11718	sacrée

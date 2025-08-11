@@ -1,0 +1,25 @@
+T1	morphologie 318 333	thymome invasif
+T2	morphologie 400 417	tumeur encapsulée
+T3	morphologie 466 514	Thymome invasif mixte épithélio-lymphocytaire B3
+T4	morphologie 1226 1231	masse
+T5	morphologie 1256 1263	thymome
+T6	topographie 2118 2144	sinus costodiaphragmatique
+T7	morphologie 2272 2289	implants tumoraux
+T8	morphologie 2293 2311	thymome de type B3
+T9	morphologie 2791 2798	lésions
+T10	topographie 2799 2808	pleurales
+T11	topographie 2842 2855	péricardiques
+T12	morphologie 2969 2976	lésions
+T13	topographie 2997 3003	plèvre
+T14	topographie 3031 3040	péricarde
+T15	morphologie 3291 3298	implant
+T16	topographie 3307 3326	région péricardique
+T17	morphologie 4916 4923	lésions
+T18	topographie 4940 4949	péricarde
+T19	morphologie 5297 5304	lésions
+T20	topographie 5305 5314	pleurales
+T21	morphologie 5341 5348	lésions
+T22	topographie 5349 5362	péricardiques
+T23	morphologie 2097 2104	lésions
+T24	topographie 2166 2172	plèvre
+T25	topographie 2189 2199	diaphragme

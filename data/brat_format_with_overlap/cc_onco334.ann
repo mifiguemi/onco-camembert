@@ -1,0 +1,55 @@
+T1	morphologie 176 182	cancer
+T2	topographie 186 190	sein
+T3	topographie 197 202	colon
+T4	morphologie 687 690	LOE
+T5	topographie 691 700	hépatique
+T6	morphologie 720 730	hémangiome
+T7	morphologie 809 818	formation
+T8	topographie 819 828	pelvienne
+T9	morphologie 1235 1254	pathologie tumorale
+T10	morphologie 1308 1321	dissémination
+T11	topographie 1322 1333	péritonéale
+T12	morphologie 1342 1350	implants
+T13	topographie 1384 1398	intestin grêle
+T14	topographie 1416 1426	appendices
+T15	topographie 1431 1437	bassin
+T16	topographie 1444 1460	poche de Douglas
+T17	morphologie 1475 1481	tumeur
+T18	topographie 1489 1498	appendice
+T19	morphologie 1686 1700;1716 1724	adénocarcinome mucineux
+T20	topographie 1701 1715	appendiculaire
+T21	differenciation 1733 1749	bien différencié
+T22	morphologie 1937 1943	nodule
+T23	topographie 1944 1954	pulmonaire
+T24	topographie 2045 2049	foie
+T25	morphologie 2129 2136	lésions
+T26	topographie 2137 2148	pulmonaires
+T27	topographie 2152 2162	hépatiques
+T28	morphologie 2369 2372	LOE
+T29	topographie 2373 2383	hépatiques
+T30	morphologie 2441 2448	lésions
+T31	morphologie 2819 2826	lésions
+T32	topographie 2827 2837	hépatiques
+T33	morphologie 2847 2867	hémangiome caverneux
+T34	morphologie 3043 3076	hyperplasie mésothéliale réactive
+T35	topographie 3085 3090	côlon
+T36	morphologie 3149 3155	nodule
+T37	topographie 3156 3166	pulmonaire
+T38	topographie 3646 3654	hilaires
+T39	topographie 3658 3671	médiastinales
+T40	morphologie 3941 3953	Adénopathies
+T41	topographie 3988 4002	paratrachéales
+T42	topographie 4025 4039	prévasculaires
+T43	topographie 4052 4064	précarinales
+T44	topographie 4107 4120	souscarinales
+T45	topographie 4133 4141	hilaires
+T49	morphologie 5313 5322	néoplasie
+T51	morphologie 5429 5445	lymphadénopathie
+T52	topographie 5454 5468	hile hépatique
+T53	morphologie 5720 5745	conglomérat adénopathique
+T54	topographie 5754 5768	hile hépatique
+T55	morphologie 738 744	lésion
+T56	topographie 745 755	annexielle
+T57	topographie 1255 1265	annexielle
+T58	morphologie 1998 2004	lésion
+T59	morphologie 3633 3645	adénopathies

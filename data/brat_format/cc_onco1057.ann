@@ -1,0 +1,40 @@
+T1	morphologie 1429 1436	tumeurs
+T3	morphologie 2377 2391	tumeur maligne
+T4	morphologie 2630 2664	Rhabdomyosarcome alvéolaire solide
+T7	morphologie 2916 2956	sarcome desmoplastique à cellules rondes
+T10	morphologie 3837 3869	tumeur à petites cellules rondes
+T11	morphologie 3879 3913	rhabdomyosarcome alvéolaire solide
+T12	morphologie 4070 4097	rhabdomyosarcome alvéolaire
+T13	morphologie 4168 4180	infiltration
+T14	morphologie 5866 5883	rhabdomyosarcomes
+T27	topographie 2675 2679	sein
+T6	stade 4132 4140	stade IV
+T8	topographie 4187 4201	moelle osseuse
+T9	morphologie 6435 6454	nfiltration maligne
+T15	topographie 6398 6412	moelle osseuse
+T19	topographie 2395 2399	sein
+T5	morphologie 2412 2435	extension ganglionnaire
+T17	topographie 2436 2445	cervicale
+T18	topographie 2447 2457	thoracique
+T20	topographie 2461 2471	abdominale
+T21	morphologie 2475 2484	extension
+T22	topographie 2490 2496	plèvre
+T16	morphologie 2707 2732	métastases ganglionnaires
+T24	topographie 2733 2743	cervicales
+T26	morphologie 2779 2791	infiltration
+T28	topographie 2798 2812	moelle osseuse
+T30	differenciation 1954 1968	indifférenciée
+T31	morphologie 1947 1953;1969 1994	tumeur formée de cellules rondes
+T32	morphologie 1557 1563	masses
+T33	topographie 1605 1621	paroi thoracique
+T34	topographie 1633 1639	plèvre
+T35	topographie 1651 1657	poumon
+T36	topographie 1671 1675	sein
+T38	morphologie 1808 1835	conglomérats adénopathiques
+T39	topographie 1836 1845	cervicaux
+T40	topographie 1858 1869	thoraciques
+T41	topographie 1873 1889	rétropéritonéaux
+T47	topographie 2745 2756	thoraciques
+T25	topographie 2760 2777	rétropéritonéales
+T56	morphologie 4941 4950	nduration
+T57	topographie 4951 4959	mammaire

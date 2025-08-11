@@ -1,0 +1,19 @@
+T1	morphologie 429 435	tumeur
+T2	morphologie 474 486	néoformation
+T3	morphologie 634 646	glioblastome
+T4	morphologie 795 826	glioblastome à cellules géantes
+T5	morphologie 2631 2641	métastases
+T6	morphologie 2860 2872	glioblastome
+T7	morphologie 2933 2943	métastases
+T8	morphologie 2964 2995	glioblastome à cellules géantes
+T9	topographie 436 453	temporo-pariétale
+T10	topographie 2642 2654	rachidiennes
+T11	topographie 2944 2959	endomédullaires
+T12	expression_CIM 429 453	tumeur temporo-pariétale
+T13	expression_CIM 474 486	néoformation
+T14	expression_CIM 634 646	glioblastome
+T15	expression_CIM 795 826	glioblastome à cellules géantes
+T16	expression_CIM 2631 2654	métastases rachidiennes
+T17	expression_CIM 2933 2959	métastases endomédullaires
+T18	expression_CIM 2860 2872	glioblastome
+T19	expression_CIM 2964 2995	glioblastome à cellules géantes

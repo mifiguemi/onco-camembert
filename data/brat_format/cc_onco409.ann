@@ -1,0 +1,27 @@
+T1	morphologie 958 964	nodule
+T3	topographie 994 1008	lobe supérieur
+T4	morphologie 1368 1382	adénocarcinome
+T5	topographie 1385 1403	origine pulmonaire
+T6	morphologie 1459 1473	masse primaire
+T7	topographie 1482 1496	lobe supérieur
+T8	morphologie 1762 1776	Adénocarcinome
+T9	topographie 1780 1786	poumon
+T10	stade 1787 1795	cT1NxM1a
+T11	stade 1797 1807	stade IV-A
+T12	morphologie 1817 1827	métastases
+T13	topographie 1828 1839	pulmonaires
+T14	topographie 1843 1852	pleurales
+T15	morphologie 3187 3212	progression de la maladie
+T16	topographie 3227 3229	os
+T17	topographie 3236 3240	foie
+T18	morphologie 4131 4138	maladie
+T19	topographie 4140 4148	pleurale
+T20	topographie 4150 4159	hépatique
+T21	topographie 4161 4174	ganglionnaire
+T22	topographie 4178 4185	osseuse
+T23	morphologie 4705 4712	lésions
+T24	topographie 4713 4723	hépatiques
+T25	topographie 4727 4735	osseuses
+T26	morphologie 4753 4787	lésions des ganglions lymphatiques
+T2	morphologie 1524 1534	captations
+T27	topographie 1535 1546	pulmonaires

@@ -1,0 +1,69 @@
+T1	morphologie 292 299	polypes
+T2	topographie 300 308	coliques
+T4	morphologie 1351 1362	adénopathie
+T5	topographie 1363 1372	cervicale
+T6	morphologie 1873 1878	Masse
+T7	topographie 1887 1901	région pinéale
+T8	morphologie 2355 2368	dissémination
+T9	topographie 2369 2382	leptoméningée
+T10	morphologie 2510 2518	Séminome
+T11	topographie 2519 2525	pinéal
+T12	morphologie 2531 2546	atteinte locale
+T13	topographie 2550 2558	neuroaxe
+T14	morphologie 2571 2590	atteinte à distance
+T15	morphologie 2650 2681	tumeurs des cellules germinales
+T16	morphologie 2745 2760	tumeur primaire
+T17	topographie 2769 2778	testicule
+T18	topographie 2784 2790	ovaire
+T19	morphologie 3158 3176	tumeurs germinales
+T20	morphologie 3204 3211	tumeurs
+T21	topographie 3215 3218	SNC
+T22	morphologie 3366 3373	tumeurs
+T23	topographie 3380 3394	région pinéale
+T24	morphologie 3433 3440	tumeurs
+T25	morphologie 3469 3500	tumeurs des cellules germinales
+T26	morphologie 3502 3505	TCG
+T28	morphologie 3528 3551	TCG non germinomateuses
+T29	morphologie 3553 3557	TCNG
+T30	morphologie 3572 3594	carcinome embryonnaire
+T31	morphologie 3599 3627	tumeur du sinus endodermique
+T32	morphologie 3632 3647	choriocarcinome
+T33	morphologie 3652 3679	tératome mature et immature
+T34	morphologie 3686 3700	tumeurs mixtes
+T35	morphologie 3734 3742	séminome
+T36	morphologie 3749 3758	germinome
+T37	morphologie 3849 3854	NGGCT
+T38	morphologie 3872 3881	séminomes
+T39	morphologie 4101 4114	dissémination
+T40	topographie 4115 4128	leptoméningée
+T41	topographie 4132 4142	neuraxiale
+T42	morphologie 4425 4440	lésion primaire
+T43	morphologie 4592 4602	germinomes
+T44	topographie 4603 4616	testiculaires
+T45	morphologie 4913 4947	tumeurs germinales extragonadiques
+T46	morphologie 5041 5049	séminome
+T47	morphologie 5053 5068	tératome mature
+T48	morphologie 5129 5144	choriocarcinome
+T49	morphologie 5146 5168	tumeur du sac vitellin
+T50	morphologie 5170 5192	carcinome embryonnaire
+T51	morphologie 5196 5223	tumeur germinomateuse mixte
+T52	morphologie 5700 5708	séminome
+T53	topographie 5709 5715	pinéal
+T54	morphologie 5725 5733	atteinte
+T55	topographie 5744 5752	neuroaxe
+T56	morphologie 5767 5779	infiltration
+T57	topographie 5780 5793	leptoméningée
+T58	morphologie 5817 5835;5852 5871	tumeurs germinales non germinomateuses
+T59	topographie 5836 5851	intracrâniennes
+T61	morphologie 5873 5877	TGCN
+T62	morphologie 6024 6047	tumeurs germinomateuses
+T63	morphologie 6146 6161	tumeur primaire
+T64	differenciation 6163 6172	grade 1B)
+T65	morphologie 6296 6311	tumeur primaire
+T66	morphologie 6765 6775	germinomes
+T67	morphologie 6952 6991	germinomes multifocaux ou métastatiques
+T68	morphologie 7077 7084	tumeurs
+T69	morphologie 8438 8445	tumeurs
+T70	topographie 8452 8466	glande pinéale
+T71	morphologie 9117 9123	lésion
+T3	morphologie 3508 3518	germinomes

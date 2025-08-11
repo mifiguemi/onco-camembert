@@ -1,0 +1,21 @@
+T1	morphologie 90 103	neuroblastome
+T4	morphologie 2390 2397	lésions
+T5	morphologie 2447 2456	métastase
+T7	morphologie 2660 2669	métastase
+T9	topographie 104 115	médiastinal
+T11	morphologie 338 343	masse
+T12	topographie 352 372	médiastin postérieur
+T14	morphologie 549 554	masse
+T15	topographie 555 567	médiastinale
+T17	morphologie 961 966	masse
+T18	topographie 967 981	paravertébrale
+T19	morphologie 1308 1321	neuroblastome
+T20	differenciation 1322 1338	bien différencié
+T21	morphologie 1883 1889	lésion
+T23	topographie 2398 2425	vertébrales sacro-lombaires
+T26	morphologie 2548 2554	lésion
+T27	topographie 2567 2587	intertrochantérienne
+T28	morphologie 2506 2512	lésion
+T29	topographie 2513 2525	médiastinale
+T32	morphologie 2689 2700	progression
+T33	topographie 2704 2717	niveau osseux

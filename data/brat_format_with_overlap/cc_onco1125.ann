@@ -1,0 +1,22 @@
+T1	morphologie 299 305	tumeur
+T2	morphologie 1712 1731	carcinome canalaire
+T3	morphologie 1979 1998	carcinome canalaire
+T5	morphologie 187 193	nodule
+T6	topographie 202 206	sein
+T7	expression_CIM 187 206	nodule dans le sein
+T8	topographie 314 330	région aréolaire
+T9	expression_CIM 299 330	tumeur dans la région aréolaire
+T10	morphologie 979 996	lésion vasculaire
+T11	topographie 1051 1075	région aréolaire du sein
+T12	expression_CIM 979 1075	lésion vasculaire, mesurant 3,0 cm de diamètre antéropostérieur dans la région aréolaire du sein
+T13	morphologie 1194 1200	nodule
+T14	topographie 1204 1208	sein
+T15	expression_CIM 1194 1208	nodule du sein
+T16	morphologie 1583 1594	adénopathie
+T17	topographie 1595 1611	intra-abdominale
+T18	expression_CIM 1583 1611	adénopathie intra-abdominale
+T20	stade 2010 2020	stade IIIB
+T21	expression_CIM 1712 1731	carcinome canalaire
+T19	expression_CIM 1979 1998	carcinome canalaire
+T4	morphologie 2337 2343	tumeur
+T22	expression_CIM 2337 2343	tumeur

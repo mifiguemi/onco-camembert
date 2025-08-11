@@ -1,0 +1,19 @@
+T1	morphologie 586 592	lésion
+T2	topographie 623 634	hypopharynx
+T3	morphologie 1068 1074	lésion
+T4	topographie 1080 1091	hypopharynx
+T5	morphologie 1145 1166	carcinome épidermoïde
+T6	differenciation 1167 1189	modérément différencié
+T7	morphologie 1226 1251	rehaussement pathologique
+T8	topographie 1260 1291	jonction pharyngo-oesophagienne
+T9	morphologie 1311 1317	lésion
+T10	morphologie 1321 1333	adénopathies
+T11	topographie 1349 1365	région II et III
+T12	morphologie 1417 1438	Carcinome épidermoïde
+T13	topographie 1444 1455	hypopharynx
+T14	morphologie 1707 1728	carcinome épidermoïde
+T15	stade 1732 1737	stade
+T16	stade 1738 1745	pT2N0R1
+T17	morphologie 2042 2063	carcinome épidermoïde
+T18	stade 2067 2072	stade
+T19	stade 2073 2080	pT2N0R1

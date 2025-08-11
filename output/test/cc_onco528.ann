@@ -1,0 +1,35 @@
+T1	morphologie 513 519	nodule
+T2	topographie 520 530	pulmonaire
+T3	topographie 567 570	LSD
+T4	morphologie 790 805	lésion kystique
+T5	topographie 821 824	LSD
+T6	morphologie 909 929	lésion multikystique
+T7	morphologie 2572 2579	lésions
+T8	morphologie 2838 2849	adénopathie
+T9	morphologie 2953 2978	dissémination néoplasique
+T10	morphologie 3021 3026	masse
+T11	topographie 3082 3085	DSL
+T12	morphologie 3118 3156	carcinome épidermoïde non kératinisant
+T13	differenciation 3158 3173	peu différencié
+T14	morphologie 3350 3356	lésion
+T15	topographie 3357 3367	pulmonaire
+T16	morphologie 3368 3381	multikystique
+T17	topographie 3385 3388	LSD
+T18	morphologie 3469 3503	processus néoprolifératif primaire
+T19	morphologie 3534 3541	lésions
+T20	morphologie 3726 3747	carcinome épidermoïde
+T21	topographie 3751 3757	poumon
+T22	morphologie 3776 3789	MCVAP de type
+T23	stade 3802 3809	cT3N0M0
+T24	stade 3811 3820	stade IIB
+T25	morphologie 3956 3991	atteinte des ganglions lymphatiques
+T26	morphologie 4197 4235	carcinome épidermoïde non kératinisant
+T27	differenciation 4237 4252	peu différencié
+T28	differenciation 4254 4256	G3
+T29	morphologie 4267 4273	nodule
+T30	morphologie 4297 4304	nodules
+T31	topographie 4346 4360	région hilaire
+T32	morphologie 4503 4510	lésions
+T33	morphologie 4552 4580	carcinome malpighien in situ
+T34	stade 5197 5204	pT4N0M0
+T35	stade 5206 5216	stade IIIA

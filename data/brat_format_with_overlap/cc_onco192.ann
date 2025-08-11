@@ -1,0 +1,51 @@
+T1	morphologie 268 282	lésion bénigne
+T2	topographie 288 294	ovaire
+T3	morphologie 432 446	adénocarcinome
+T4	topographie 450 455	cæcum
+T5	morphologie 607 621	adénocarcinome
+T6	topographie 625 630	cæcum
+T7	differenciation 631 633	G3
+T8	stade 634 644	pT3 pN1 M0
+T9	stade 646 655	stade III
+T10	morphologie 1456 1465	Métastase
+T11	topographie 1466 1479	rétrooculaire
+T12	morphologie 1486 1507	tumeur neuroendocrine
+T13	morphologie 1509 1512	TNE
+T14	morphologie 1786 1805	lésion métastatique
+T15	topographie 1806 1819	rétrooculaire
+T16	morphologie 1890 1896	lésion
+T17	topographie 1937 1941	sein
+T18	stade 2144 2155	pT1c pN0 M0
+T20	morphologie 2888 2894	lésion
+T21	topographie 2918 2929	CSI du sein
+T22	topographie 3037 3048	CSC du sein
+T23	morphologie 3131 3137	lésion
+T24	topographie 3146 3149	CSC
+T25	morphologie 3210 3217	lésions
+T26	topographie 3218 3227	mammaires
+T27	morphologie 3250 3256	lésion
+T28	topographie 3260 3264	sein
+T29	morphologie 3321 3327	lésion
+T30	topographie 3331 3335	sein
+T31	morphologie 3369 3390	tumeur neuroendocrine
+T32	morphologie 3392 3395	TNE
+T33	differenciation 3405 3407	G1
+T34	morphologie 4194 4212	nodule vascularisé
+T35	topographie 4234 4245	CSE du sein
+T36	morphologie 4337 4340	TNE
+T37	differenciation 4341 4351	de grade I
+T38	morphologie 4523 4526	TNE
+T39	morphologie 4689 4692	TNE
+T40	morphologie 4882 4888	lésion
+T41	topographie 4894 4900	ovaire
+T42	morphologie 4915 4921	lésion
+T43	topographie 4922 4928	cæcale
+T44	topographie 4932 4940	mammaire
+T45	morphologie 4970 5017	tumeur aux caractéristiques neuroendocriniennes
+T46	morphologie 5244 5250	nodule
+T47	topographie 5251 5266	rétro-orbitaire
+T48	morphologie 5470 5473	NER
+T49	morphologie 5651 5657	nodule
+T50	morphologie 5901 5910	lésion M1
+T19	morphologie 2976 2982	lésion
+T52	topographie 5675 5703	en arrière du globe oculaire

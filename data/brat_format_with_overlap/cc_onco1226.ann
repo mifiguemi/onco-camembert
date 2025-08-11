@@ -1,0 +1,35 @@
+T1	expression_CIM 1623 1641	implant péritonéal
+T2	morphologie 1735 1747	néoformation
+T3	morphologie 1798 1811	carcinomatose
+T5	morphologie 2192 2207	Adénocarcinoïde
+T6	morphologie 2313 2328	adénocarcinoïde
+T7	morphologie 2967 2975	implants
+T8	morphologie 532 537	masse
+T9	expression_CIM 532 537	masse
+T10	morphologie 1150 1162	adénopathies
+T11	topographie 1171 1191	graisse mésentérique
+T12	expression_CIM 1150 1191	adénopathies dans la graisse mésentérique
+T13	morphologie 1623 1630	implant
+T14	topographie 1631 1641	péritonéal
+T15	topographie 1761 1766	cæcum
+T16	expression_CIM 1735 1766	néoformation au niveau du cæcum
+T17	topographie 1812 1823	péritonéale
+T18	expression_CIM 1798 1823	carcinomatose péritonéale
+T19	morphologie 1889 1925	adénocarcinome à cellules de gobelet
+T4	expression_CIM 1889 1925	adénocarcinome à cellules de gobelet
+T20	topographie 2208 2222	appendiculaire
+T21	expression_CIM 2192 2222	Adénocarcinoïde appendiculaire
+T22	stade 2226 2234	stade IV
+T23	morphologie 2251 2259	atteinte
+T24	topographie 2260 2271	péritonéale
+T25	expression_CIM 2251 2271	atteinte péritonéale
+T26	topographie 2329 2343	appendiculaire
+T27	expression_CIM 2313 2343	adénocarcinoïde appendiculaire
+T28	stade 2347 2355	stade IV
+T29	morphologie 2361 2369	atteinte
+T30	topographie 2370 2381	péritonéale
+T31	expression_CIM 2361 2381	atteinte péritonéale
+T32	topographie 2976 2987	péritonéaux
+T33	expression_CIM 2967 2987	implants péritonéaux
+T34	morphologie 2997 3026	adénocarcinome mucosécrétoire
+T35	expression_CIM 2997 3026	adénocarcinome mucosécrétoire

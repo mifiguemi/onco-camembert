@@ -1,0 +1,15 @@
+T1	morphologie 828 834	nodule
+T2	morphologie 866 877	adénopathie
+T3	topographie 1039 1077	région cortico-sous-corticale frontale
+T4	morphologie 2493 2501	mélanome
+T6	morphologie 2855 2869	mélanome malin
+T7	morphologie 3271 3283	infiltration
+T8	topographie 3284 3292	méningée
+T9	morphologie 3336 3344	Mélanome
+T10	stade 3345 3351	pT1aN0
+T11	morphologie 3389 3414	progression ganglionnaire
+T12	topographie 3415 3424	inguinale
+T13	morphologie 3491 3516	Progression ganglionnaire
+T14	morphologie 3656 3669	carcinomatose
+T15	topographie 3670 3678	méningée
+T16	morphologie 1101 1107	lésion

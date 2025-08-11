@@ -1,0 +1,19 @@
+T1	morphologie 135 141	cancer
+T2	topographie 147 156	endomètre
+T3	morphologie 207 213	cancer
+T4	topographie 217 222	côlon
+T5	morphologie 254 260	cancer
+T6	topographie 261 278	gastro-intestinal
+T7	morphologie 306 312	cancer
+T8	topographie 317 332	voies biliaires
+T9	morphologie 366 372	cancer
+T10	topographie 377 384	ovaires
+T11	morphologie 449 455	cancer
+T12	topographie 459 464	côlon
+T13	morphologie 1224 1238;1251 1272	Adénocarcinome de type endométrioïde
+T14	topographie 1239 1250	endométrial
+T16	morphologie 1515 1529;1560 1581	adénocarcinome de type endométrioïde
+T17	topographie 1530 1541	endométrial
+T18	differenciation 1542 1558	bien différencié
+T19	topographie 1594 1603	endomètre
+T20	morphologie 1731 1753	atteinte ganglionnaire

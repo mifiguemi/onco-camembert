@@ -1,0 +1,19 @@
+T1	morphologie 288 302;309 327	adénocarcinome à cellules claires
+T2	topographie 303 308	rénal
+T4	morphologie 536 569	adénocarcinome à cellules claires
+T5	stade 603 610	pT3NxMx
+T6	morphologie 781 787	nodule
+T7	morphologie 833 839	nodule
+T8	topographie 840 859	pariétal postérieur
+T9	morphologie 1004 1022	nodule néoplasique
+T10	morphologie 1315 1320	masse
+T11	morphologie 1454 1461	lésions
+T13	morphologie 1489 1499	métastases
+T14	topographie 1500 1514	périhépatiques
+T15	morphologie 1666 1686	maladie métastatique
+T16	morphologie 3773 3786	Hypernéphrome
+T17	stade 3790 3798	stade IV
+T18	morphologie 3888 3903	lésion tumorale
+T19	topographie 3920 3935	côlon ascendant
+T3	morphologie 1085 1149	lésion présentant des caractéristiques métaboliques de malignité
+T20	topographie 1334 1355	veine cave inférieure

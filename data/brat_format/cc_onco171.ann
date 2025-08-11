@@ -1,0 +1,43 @@
+T1	morphologie 295 303	mélanome
+T2	stade 304 310	T1N0M0
+T3	topographie 317 323	cuisse
+T4	morphologie 878 885	lésions
+T5	topographie 891 905	intestin grêle
+T6	morphologie 995 1004	métastase
+T7	morphologie 1008 1016	mélanome
+T8	morphologie 1245 1257	adénopathies
+T9	morphologie 1654 1683	tumeur mélanocytaire atypique
+T10	morphologie 1768 1774	lésion
+T11	stade 1924 1941	Stade IV de Clark
+T12	morphologie 2527 2535	Récidive
+T13	topographie 2536 2547	péritonéale
+T14	morphologie 2553 2561	mélanome
+T15	topographie 2568 2574	cuisse
+T16	morphologie 2826 2843	implants tumoraux
+T17	morphologie 2938 2948	métastases
+T18	morphologie 2952 2960	mélanome
+T19	topographie 2974 2983	ganglions
+T20	topographie 2997 3010	mésentériques
+T21	morphologie 3016 3026	métastases
+T22	morphologie 3229 3235	nodule
+T23	topographie 3236 3248	mésentérique
+T24	morphologie 3305 3326	atteinte métastatique
+T25	morphologie 4036 4043	implant
+T26	topographie 4044 4054	péritonéal
+T27	morphologie 4166 4176	métastases
+T28	topographie 4177 4189	péritonéales
+T29	morphologie 4212 4228	lymphadénopathie
+T31	morphologie 4500 4506	tumeur
+T32	morphologie 4572 4581	métastase
+T33	morphologie 4585 4593	mélanome
+T34	morphologie 4802 4821	formation polypoïde
+T35	topographie 4845 4860	muqueuse nasale
+T36	morphologie 4909 4918	métastase
+T37	morphologie 4922 4930	mélanome
+T38	morphologie 4997 5005	récidive
+T39	topographie 5014 5020	narine
+T40	morphologie 5231 5237	tumeur
+T41	topographie 5238 5248	pulmonaire
+T42	morphologie 5451 5458	nodules
+T43	topographie 5459 5470	pulmonaires
+T30	morphologie 3266 3284	prise pathologique

@@ -1,0 +1,66 @@
+T1	morphologie 69 75	cancer
+T2	topographie 82 90	prostate
+T3	stade 91 103	métastatique
+T4	morphologie 417 423	lipome
+T5	topographie 424 432	cervical
+T6	morphologie 1084 1094	métastases
+T7	topographie 1095 1103	osseuses
+T8	topographie 1112 1127	squelette axial
+T9	topographie 1132 1138	bassin
+T10	topographie 1163 1168	fémur
+T11	morphologie 1464 1476	adénopathies
+T12	topographie 1477 1508	supra- et infradiaphragmatiques
+T13	morphologie 1523 1533	métastases
+T14	topographie 1570 1579	vertèbres
+T15	topographie 1590 1596	fémurs
+T16	topographie 1607 1618	os iliaques
+T17	topographie 1623 1629	sacrum
+T18	topographie 1637 1642	côtes
+T20	morphologie 1737 1751	adénocarcinome
+T21	topographie 1752 1763	prostatique
+T22	differenciation 1764 1779	de Gleason 8/10
+T23	morphologie 1815 1825	métastases
+T24	topographie 1826 1834	osseuses
+T25	morphologie 1847 1872	conglomérat adénopathique
+T26	topographie 1873 1886	para-aortique
+T27	topographie 1887 1902	rétropéritonéal
+T28	morphologie 1916 1928	adénopathies
+T29	topographie 1929 1940	abdominales
+T30	morphologie 1978 1985	lésions
+T31	topographie 2012 2030	colonne vertébrale
+T32	topographie 2035 2041	bassin
+T33	topographie 2049 2064	cage thoracique
+T34	topographie 2069 2076	sternum
+T35	topographie 2084 2093	clavicule
+T36	topographie 2100 2116	humérus proximal
+T37	topographie 2133 2139	fémurs
+T38	morphologie 2461 2473	adénopathies
+T39	morphologie 2548 2555	lésions
+T40	topographie 2556 2564	osseuses
+T41	morphologie 2716 2732	lymphadénopathie
+T42	topographie 2736 2750	tronc cœliaque
+T43	morphologie 2790 2806	lymphadénopathie
+T44	topographie 2807 2818	mésorectale
+T45	morphologie 2889 2906	lymphadénopathies
+T46	morphologie 2914 2924	métastases
+T47	topographie 2925 2933	osseuses
+T48	morphologie 3024 3031;3041 3054	lésions métastatiques
+T49	topographie 3032 3040	osseuses
+T51	topographie 3068 3074	rachis
+T52	topographie 3079 3085	bassin
+T53	topographie 3093 3108	cage thoracique
+T54	topographie 3113 3120	sternum
+T55	topographie 3126 3136	clavicules
+T56	topographie 3143 3159	humérus proximal
+T57	topographie 3178 3184	fémurs
+T58	morphologie 3271 3278	lésions
+T59	topographie 3279 3289	pelviennes
+T60	topographie 3326 3344	acétabulum/ischium
+T61	morphologie 3381 3388	lésions
+T62	topographie 3405 3422	diaphyse fémorale
+T63	topographie 3446 3462	petit trochanter
+T64	morphologie 4504 4510	masses
+T65	morphologie 5507 5513	lésion
+T66	morphologie 5687 5693	cancer
+T67	topographie 5700 5708	prostate
+T68	stade 5712 5720	stade IV

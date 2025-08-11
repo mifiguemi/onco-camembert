@@ -1,0 +1,30 @@
+T1	morphologie 226 231	masse
+T2	topographie 235 240	flanc
+T3	morphologie 421 426	masse
+T4	topographie 480 492	fosse rénale
+T5	topographie 519 523	rein
+T6	morphologie 1008 1015	nodules
+T7	topographie 1016 1027	pulmonaires
+T8	morphologie 1109 1119	métastases
+T9	morphologie 1121 1127	Tumeur
+T10	topographie 1173 1177	rein
+T11	morphologie 1272 1280	atteinte
+T12	topographie 1281 1290	hépatique
+T13	topographie 1292 1308	rétropéritonéale
+T14	topographie 1312 1335	ganglionnaire régionale
+T15	morphologie 1350 1359;1366 1384	carcinome à cellules claires
+T16	topographie 1360 1365	rénal
+T18	differenciation 1385 1408	de grade 3 selon Furman
+T20	stade 1509 1513	pT2b
+T21	morphologie 1560 1569;1576 1594	Carcinome à cellules claires
+T22	topographie 1570 1575	rénal
+T24	differenciation 1595 1605	de grade 3
+T25	stade 1634 1642	Stade IV
+T26	stade 1644 1652	pT2bN0M1
+T27	morphologie 1656 1669	Dissémination
+T28	topographie 1670 1680	pulmonaire
+T29	morphologie 3123 3129	lésion
+T30	topographie 3130 3144	endobronchique
+T31	morphologie 6550 6570	progression tumorale
+T32	morphologie 7073 7079	cancer
+T33	topographie 7083 7087	rein

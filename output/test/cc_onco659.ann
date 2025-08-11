@@ -1,0 +1,40 @@
+T1	morphologie 277 283	cancer
+T2	topographie 287 293	poumon
+T3	morphologie 345 351	cancer
+T4	topographie 355 361	poumon
+T5	morphologie 389 395	cancer
+T6	topographie 399 405	larynx
+T7	morphologie 649 656	lésions
+T8	topographie 657 667	hépatiques
+T9	morphologie 681 691	métastases
+T10	topographie 700 704	foie
+T11	morphologie 761 766	masse
+T12	topographie 800 824	lobe inférieur du poumon
+T13	morphologie 1214 1223	néoplasie
+T14	topographie 1227 1251	lobe inférieur du poumon
+T15	morphologie 1291 1301	métastases
+T16	topographie 1302 1312	hépatiques
+T17	morphologie 1320 1336	lymphadénopathie
+T18	topographie 1350 1364	tronc cœliaque
+T19	morphologie 2385 2388	AGB
+T20	topographie 2389 2398	hépatique
+T21	morphologie 2405 2414	métastase
+T22	morphologie 2421 2442	tumeur neuroendocrine
+T23	differenciation 2443 2460	bien différenciée
+T24	morphologie 4905 4914	néoplasie
+T25	topographie 4918 4942	lobe inférieur du poumon
+T26	morphologie 4983 4993	métastases
+T27	topographie 4994 5004	hépatiques
+T28	morphologie 5012 5028	lymphadénopathie
+T29	topographie 5042 5056	tronc cœliaque
+T30	morphologie 5076 5086	métastases
+T31	morphologie 5093 5114	tumeur neuroendocrine
+T32	differenciation 5115 5132	bien différenciée
+T33	topographie 5543 5556	mésentériques
+T34	morphologie 5810 5831	tumeur neuroendocrine
+T35	topographie 5834 5853	origine intestinale
+T36	morphologie 5868 5876	atteinte
+T37	topographie 5877 5886	hépatique
+T38	topographie 5888 5898	pulmonaire
+T39	topographie 5929 5939	abdominaux
+T40	topographie 6794 6807	mésentériques

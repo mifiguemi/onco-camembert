@@ -1,0 +1,13 @@
+T1	morphologie 3626 3635	néoplasie
+T2	morphologie 4849 4873	tumeur dermoïde-tératome
+T4	morphologie 5231 5237	tumeur
+T5	morphologie 5642 5648	tumeur
+T6	morphologie 6021 6029	tératome
+T7	expression_CIM 3626 3635	néoplasie
+T3	morphologie 4765 4780	lésion kystique
+T8	topographie 4803 4820	région annexielle
+T9	expression_CIM 4765 4820	lésion kystique a été trouvée dans la région annexielle
+T10	expression_CIM 5231 5237	tumeur
+T11	expression_CIM 5642 5648	tumeur
+T12	topographie 6030 6037	ovarien
+T13	expression_CIM 6021 6037	tératome ovarien

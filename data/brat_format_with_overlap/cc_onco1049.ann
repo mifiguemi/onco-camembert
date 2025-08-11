@@ -1,0 +1,46 @@
+T2	morphologie 1170 1215	carcinome infiltrant de sous-type non spécial
+T3	morphologie 1590 1599	carcinome
+T6	morphologie 1825 1849	infiltration néoplasique
+T7	morphologie 1902 1921	atteinte à distance
+T9	morphologie 2567 2573	lésion
+T10	morphologie 2838 2848	métastases
+T11	morphologie 3193 3199	lésion
+T15	morphologie 4849 4858	métastase
+T1	topographie 1600 1608	mammaire
+T16	stade 1609 1619	infiltrant
+T17	stade 1637 1640	pT2
+T18	stade 1642 1681	avec présence d'une invasion vasculaire
+T5	stade 1857 1866	Stade IIB
+T20	stade 1777 1781	pN1a
+T8	topographie 3200 3209	cérébrale
+T21	topographie 1754 1775	ganglions sentinelles
+T22	topographie 4859 4868	cérébrale
+T13	topographie 2574 2585	intraaxiale
+T23	morphologie 1721 1730	carcinome
+T24	topographie 1731 1739	mammaire
+T4	morphologie 1683 1698	Macrométastases
+T19	morphologie 1702 1717	micrométastases
+T25	expression_CIM 1170 1229	carcinome infiltrant de sous-type non spécial (SNE) du sein
+T26	topographie 1225 1229	sein
+T27	morphologie 1217 1220	SNE
+T28	expression_CIM 1217 1220	SNE
+T29	expression_CIM 1590 1608	carcinome mammaire
+T30	expression_CIM 1721 1739	carcinome mammaire
+T31	expression_CIM 1825 1849	infiltration néoplasique
+T32	expression_CIM 1683 1775	Macrométastases et micrométastases du carcinome mammaire dans les deux ganglions sentinelles
+T33	expression_CIM 2567 2585	lésion intraaxiale
+T34	expression_CIM 1902 1921	atteinte à distance
+T35	expression_CIM 3193 3209	lésion cérébrale
+T36	expression_CIM 2838 2848	métastases
+T12	morphologie 3364 3373	métastase
+T37	morphologie 3379 3388;3402 3412	carcinome infiltrant
+T38	topographie 3389 3397	mammaire
+T39	morphologie 3398 3401	SNE
+T40	expression_CIM 3398 3401	SNE
+T41	expression_CIM 3379 3412	carcinome mammaire SNE infiltrant
+T42	expression_CIM 3364 3373	métastase
+T43	expression_CIM 4725 4745	carcinome infiltrant
+T44	expression_CIM 4746 4749	SNE
+T45	morphologie 4746 4749	SNE
+T46	morphologie 4725 4745	carcinome infiltrant
+T14	expression_CIM 4849 4868	métastase cérébrale

@@ -1,0 +1,33 @@
+T1	morphologie 514 520	cancer
+T2	topographie 521 530	gastrique
+T3	morphologie 586 592	cancer
+T4	topographie 593 602	gastrique
+T5	morphologie 666 672	cancer
+T6	topographie 673 682	gastrique
+T7	morphologie 809 815	nodule
+T8	topographie 816 824	mammaire
+T9	topographie 841 872	quadrant supéro-externe du sein
+T10	morphologie 949 955	nodule
+T11	morphologie 1080 1099	carcinome lobulaire
+T12	topographie 1103 1107	sein
+T13	differenciation 1115 1125	de grade 2
+T14	morphologie 1493 1512	carcinome lobulaire
+T15	topographie 1516 1520	sein
+T16	stade 1529 1545	stade tumoral IA
+T17	stade 1547 1551	pT1b
+T18	morphologie 1800 1811	adénopathie
+T19	topographie 1812 1821	axillaire
+T20	morphologie 2138 2144	tumeur
+T21	morphologie 2239 2269	Carcinome lobulaire infiltrant
+T22	topographie 2273 2277	sein
+T23	stade 2297 2305	Stade IA
+T24	morphologie 2575 2581	cancer
+T25	topographie 2582 2591	gastrique
+T26	morphologie 3057 3063	cancer
+T27	topographie 3064 3073	gastrique
+T28	morphologie 3074 3092	héréditaire diffus
+T29	morphologie 3154 3160	cancer
+T30	topographie 3161 3170	gastrique
+T31	morphologie 3220 3250	carcinome lobulaire infiltrant
+T32	topographie 3254 3258	sein
+T33	morphologie 3541 3558	foyer néoplasique

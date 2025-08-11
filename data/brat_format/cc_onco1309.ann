@@ -1,0 +1,15 @@
+T2	morphologie 964 970	tumeur
+T3	morphologie 1024 1034	métastases
+T5	morphologie 1311 1328	tumeur carcinoïde
+T7	morphologie 1589 1606	tumeur carcinoïde
+T8	morphologie 2336 2357	tumeur neuroendocrine
+T1	topographie 979 998	racine du mésentère
+T10	topographie 1035 1045	hépatiques
+T12	morphologie 1236 1257	tumeur neuroendocrine
+T13	differenciation 1258 1275	bien différenciée
+T14	differenciation 1277 1279	G1
+T6	topographie 1626 1640	intestin grêle
+T17	morphologie 1646 1656	métastases
+T18	topographie 1657 1667	hépatiques
+T20	differenciation 2358 2375	bien différenciée
+T21	differenciation 2377 2387	de grade 1

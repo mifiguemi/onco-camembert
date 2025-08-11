@@ -1,0 +1,43 @@
+T1	morphologie 518 527;534 552	carcinome à cellules claires
+T2	morphologie 981 987	lésion
+T3	morphologie 1186 1193	tumoral
+T4	morphologie 1264 1273;1280 1298	carcinome à cellules claires
+T5	morphologie 1568 1577;1584 1602	carcinome à cellules claires
+T6	morphologie 1805 1814	carcinome
+T7	morphologie 2477 2486	métastase
+T8	morphologie 2515 2524;2531 2549	Carcinome à cellules claires
+T9	morphologie 2666 2684	Thrombose tumorale
+T10	morphologie 3265 3274	métastase
+T11	morphologie 3282 3303	tumeur neuroendocrine
+T13	morphologie 4428 4450	implants métastatiques
+T14	morphologie 4465 4485	Carcinome papillaire
+T16	morphologie 6305 6311	lésion
+T17	morphologie 6475 6484	métastase
+T20	morphologie 8177 8188	progression
+T21	morphologie 8747 8760	carcinomatose
+T22	topographie 528 533	rénal
+T23	stade 556 564	stade IV
+T24	morphologie 587 596	métastase
+T25	topographie 597 606	cérébrale
+T26	topographie 988 997	cérébrale
+T27	topographie 1274 1279	rénal
+T28	stade 1321 1325	pT3a
+T29	topographie 1578 1583	rénal
+T30	topographie 2525 2530	rénal
+T31	topographie 1815 1820	rénal
+T32	topographie 2701 2713	veine rénale
+T33	stade 2724 2728	pT3a
+T34	topographie 3304 3316	pancréatique
+T35	topographie 4294 4305	péritonéale
+T36	topographie 4486 4491	rénal
+T37	stade 4495 4503	stade IV
+T15	topographie 6312 6321	cérébrale
+T38	morphologie 6488 6497	carcinome
+T39	topographie 6498 6503	rénal
+T19	topographie 8761 8772	péritonéale
+T41	topographie 8189 8198	cérébrale
+T12	morphologie 4280 4293	carcinomatose
+T45	differenciation 1299 1311	de grade III
+T46	differenciation 1604 1623	grade II de Furhman
+T51	differenciation 2550 2573	de grade III de Fuhrman
+T62	morphologie 8238 8244	lésion

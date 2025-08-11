@@ -1,0 +1,25 @@
+T1	morphologie 319 340	carcinome épidermoïde
+T2	stade 344 351	stade I
+T3	topographie 355 376	plancher de la bouche
+T4	stade 378 384	T1N0M0
+T5	morphologie 540 562	lésion pseudonodulaire
+T6	topographie 635 650	base pulmonaire
+T7	morphologie 753 759	lésion
+T8	morphologie 1520 1542	Lésion pseudonodulaire
+T9	morphologie 1761 1767	nodule
+T10	topographie 1768 1780	sous-pleural
+T11	topographie 1810 1824	lobe inférieur
+T12	morphologie 1900 1906	nodule
+T13	topographie 1907 1930	pulmonaire sous-pleural
+T14	morphologie 1931 1947	hypermétabolique
+T15	morphologie 2110 2124	tumeur maligne
+T16	morphologie 2400 2406	nodule
+T17	topographie 2407 2419	sous-pleural
+T18	morphologie 2445 2459	tumeur maligne
+T19	morphologie 2695 2701	tumeur
+T20	morphologie 2822 2828	tumeur
+T21	morphologie 2906 2912	tumeur
+T22	morphologie 3061 3067	tumeur
+T23	morphologie 3255 3261	Tumeur
+T24	topographie 3262 3272	pulmonaire
+T25	morphologie 3273 3290	myofibroblastique

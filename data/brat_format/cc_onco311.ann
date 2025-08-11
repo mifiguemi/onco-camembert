@@ -1,0 +1,38 @@
+T1	morphologie 370 376	tumeur
+T2	topographie 377 386	inguinale
+T3	morphologie 619 625	tumeur
+T4	morphologie 806 811	masse
+T5	topographie 812 821	inguinale
+T6	morphologie 1020 1029	métastase
+T7	morphologie 1033 1042	carcinome
+T8	differenciation 1043 1056	indifférencié
+T9	differenciation 1057 1070	de haut grade
+T10	morphologie 1402 1417	tumeur primaire
+T11	morphologie 1549 1555	nodule
+T12	topographie 1556 1566	pulmonaire
+T14	morphologie 2037 2060	absorption pathologique
+T15	topographie 2069 2085	région inguinale
+T16	morphologie 2604 2613	CARCINOME
+T17	morphologie 2973 2979	tumeur
+T18	topographie 3044 3060	région inguinale
+T20	morphologie 3535 3547	sarcomatoïde
+T21	morphologie 3819 3833	tumeur maligne
+T22	morphologie 4113 4118	masse
+T23	topographie 4119 4128	inguinale
+T24	morphologie 4299 4311	Adénopathies
+T25	topographie 4312 4322	inguinales
+T26	topographie 4347 4372	chaînes iliaques externes
+T27	morphologie 4459 4465	Nodule
+T28	topographie 4466 4476	pulmonaire
+T29	morphologie 4697 4703	lésion
+T30	morphologie 4954 4969	lésion tumorale
+T31	morphologie 4977 4989	adénopathies
+T32	topographie 4990 5000	inguinales
+T33	topographie 5004 5021	iliaques externes
+T34	morphologie 5385 5390	masse
+T35	morphologie 5437 5458	formations nodulaires
+T36	morphologie 5960 5969	néoplasie
+T37	morphologie 6320 6338	maladie résiduelle
+T13	differenciation 2614 2627	INDIFFÉRENCIÉ
+T38	topographie 2628 2635	PELVIEN
+T39	differenciation 2636 2649	DE HAUT GRADE

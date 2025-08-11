@@ -1,0 +1,46 @@
+T1	morphologie 332 338	tumeur
+T2	topographie 342 346	sein
+T3	morphologie 428 439	adénopathie
+T4	topographie 440 455	latérocervicale
+T5	topographie 459 475	sus-claviculaire
+T6	morphologie 492 498	Tumeur
+T7	topographie 499 513	rétroaréolaire
+T8	morphologie 602 607	masse
+T9	topographie 608 647	rétro et para-aréolaire externe du sein
+T11	morphologie 763 784	lésions métastatiques
+T12	morphologie 847 857	métastases
+T13	morphologie 947 977	carcinome canalaire infiltrant
+T14	morphologie 1112 1142	carcinome canalaire infiltrant
+T15	differenciation 1152 1170	de faible grade de
+T16	morphologie 1242 1252	métastases
+T17	topographie 1267 1289	ganglions lymphatiques
+T18	morphologie 1554 1584	carcinome canalaire infiltrant
+T19	topographie 1588 1592	sein
+T20	stade 1602 1612	stade IIIA
+T21	stade 1614 1618	pT2a
+T22	stade 1620 1627	pN2a M0
+T24	morphologie 2636 2646	métastases
+T25	topographie 2647 2658	pulmonaires
+T26	topographie 2662 2690	ganglionnaires médiastinales
+T27	morphologie 3149 3159	métastases
+T28	topographie 3160 3171	pulmonaires
+T29	morphologie 3214 3225	progression
+T30	topographie 3226 3236	pulmonaire
+T31	morphologie 3253 3263	métastases
+T32	topographie 3264 3272	osseuses
+T33	topographie 3289 3307	vertèbre cervicale
+T34	topographie 3313 3323	os iliaque
+T36	morphologie 3548 3555	maladie
+T37	topographie 3556 3566	pulmonaire
+T38	topographie 3570 3577	osseuse
+T39	morphologie 3608 3618	métastases
+T40	topographie 3627 3631	foie
+T41	morphologie 3779 3786	maladie
+T42	topographie 3808 3815	poumons
+T43	topographie 3821 3823	os
+T44	topographie 3831 3853	ganglions lymphatiques
+T45	morphologie 4198 4207	métastase
+T46	topographie 4208 4226	pariéto-occipitale
+T47	morphologie 5483 5492	métastase
+T48	topographie 5509 5513	iris
+T49	topographie 527 531	sein

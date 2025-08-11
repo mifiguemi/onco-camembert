@@ -1,0 +1,44 @@
+T1	morphologie 299 305	cancer
+T2	stade 321 329	stade IV
+T3	stade 330 338	cT3N1bM1
+T4	morphologie 340 350	métastases
+T5	topographie 351 361	hépatiques
+T6	morphologie 365 373	implants
+T7	topographie 374 385	péritonéaux
+T8	stade 567 573	pT3N2b
+T9	topographie 593 602	hépatique
+T10	morphologie 614 628	adénocarcinome
+T11	differenciation 629 641	de bas grade
+T12	topographie 645 650	sigma
+T13	morphologie 1020 1030	métastases
+T14	topographie 1031 1041	hépatiques
+T15	morphologie 1476 1487	progression
+T16	topographie 1488 1497	hépatique
+T17	topographie 1501 1511	pulmonaire
+T18	morphologie 1784 1795	progression
+T19	topographie 1796 1803	osseuse
+T20	morphologie 1805 1811	lésion
+T21	topographie 1820 1832	lame iliaque
+T22	morphologie 1850 1871	masse des tissus mous
+T23	morphologie 3910 3916	nodule
+T24	topographie 3917 3927	pulmonaire
+T25	morphologie 3972 3979	nodules
+T26	morphologie 4086 4096	métastases
+T27	topographie 4097 4114	osseuses iliaques
+T28	morphologie 4145 4155	métastases
+T29	topographie 4156 4166	hépatiques
+T31	morphologie 4268 4277	carcinome
+T32	topographie 4278 4288	colorectal
+T33	stade 4289 4301	métastatique
+T34	morphologie 4303 4314	Progression
+T35	topographie 4315 4324	hépatique
+T36	topographie 4328 4335	osseuse
+T37	morphologie 4341 4355	adénocarcinome
+T38	topographie 4356 4366	colorectal
+T39	stade 4367 4379	métastatique
+T41	morphologie 4962 4971	carcinome
+T42	topographie 4972 4982	colorectal
+T43	morphologie 5594 5610	maladie tumorale
+T44	topographie 309 317	sigmoïde
+T45	morphologie 585 592	maladie
+T46	stade 581 583	M1

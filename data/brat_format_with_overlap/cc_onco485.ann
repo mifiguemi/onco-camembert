@@ -1,0 +1,39 @@
+T1	morphologie 193 199	cancer
+T2	topographie 203 207	sein
+T3	morphologie 265 273	leucémie
+T4	morphologie 661 666	masse
+T5	topographie 675 678	LSD
+T6	morphologie 969 974	masse
+T7	topographie 1021 1024	LSD
+T8	morphologie 1081 1087	tumeur
+T9	morphologie 1139 1151	Adénopathies
+T10	topographie 1194 1198	hile
+T11	topographie 1211 1220	médiastin
+T12	topographie 1223 1243	région paratrachéale
+T13	morphologie 1252 1277	conglomérat adénopathique
+T14	topographie 1302 1322	région sous-carénale
+T15	topographie 1324 1348	région para-œsophagienne
+T16	morphologie 1438 1450	adénopathies
+T17	topographie 1451 1465	sous-carénales
+T18	topographie 1469 1483	paratrachéales
+T19	morphologie 1604 1615	adénopathie
+T20	topographie 1616 1629	paratrachéale
+T21	morphologie 1657 1666	métastase
+T22	morphologie 1672 1686	adénocarcinome
+T23	differenciation 1687 1702	peu différencié
+T24	morphologie 1750 1755	masse
+T25	topographie 1764 1767	LSD
+T26	morphologie 1834 1846	Adénopathies
+T27	topographie 1847 1875	médiastinales paratrachéales
+T28	morphologie 2019 2033	Adénocarcinome
+T29	topographie 2034 2044	pulmonaire
+T30	stade 2049 2060	cT4 pN2 cM0
+T32	stade 2062 2072	stade IIIB
+T33	morphologie 2829 2834	masse
+T34	topographie 2835 2845	pulmonaire
+T35	morphologie 2944 2958	masse tumorale
+T36	topographie 2959 2962	LSD
+T37	morphologie 3132 3143	progression
+T38	topographie 3144 3154	pulmonaire
+T39	topographie 3158 3170	médiastinale
+T40	topographie 2045 2048	LSD

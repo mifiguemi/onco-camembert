@@ -1,0 +1,45 @@
+T1	morphologie 649 669	carcinome urothélial
+T2	morphologie 783 788	masse
+T3	topographie 789 797	vésicale
+T4	morphologie 857 866	néoplasie
+T5	topographie 1952 1961	abdominal
+T6	morphologie 1970 1975	masse
+T9	morphologie 3456 3461	masse
+T10	topographie 3462 3470	vésicale
+T11	morphologie 3568 3587	masse adénopathique
+T12	topographie 3669 3686	rétropéritonéales
+T13	topographie 3716 3761	entre le pancréas et la veine cave inférieure
+T14	morphologie 3793 3800;3811 3837	lésions probablement métastatiques
+T15	topographie 3848 3862	lames iliaques
+T16	topographie 3880 3898	colonne vertébrale
+T17	morphologie 3915 3936	masses de tissus mous
+T18	topographie 3963 3967	côte
+T19	topographie 3989 3991	D6
+T20	morphologie 4096 4124	carcinome à petites cellules
+T21	differenciation 4125 4138	indifférencié
+T22	morphologie 4152 4200	carcinome papillaire à cellules transitionnelles
+T23	differenciation 4201 4214	de haut grade
+T24	morphologie 4224 4234	métaplasie
+T25	topographie 4235 4246	intestinale
+T26	morphologie 4390 4428	Carcinome extrapulmonaire microcytaire
+T27	topographie 4442 4448	vessie
+T28	stade 4474 4483	T3b N2 M1
+T29	morphologie 4487 4492	masse
+T30	topographie 4493 4501	vésicale
+T31	morphologie 4556 4566	métastases
+T32	topographie 4567 4581	ganglionnaires
+T33	morphologie 4606 4616	métastases
+T34	topographie 4617 4631	ganglionnaires
+T35	topographie 4650 4654	foie
+T36	topographie 4658 4660	os
+T37	topographie 4662 4680	colonne vertébrale
+T38	morphologie 5337 5362	progression de la maladie
+T39	topographie 5373 5379	osseux
+T40	topographie 5381 5394	ganglionnaire
+T41	morphologie 6837 6843	cancer
+T7	morphologie 3537 3548	adénopathie
+T8	topographie 3618 3633	iliaque externe
+T42	morphologie 3656 3668	adénopathies
+T43	morphologie 3694 3705	adénopathie
+T44	topographie 4682 4687	côtes
+T45	topographie 4689 4703	lames iliaques

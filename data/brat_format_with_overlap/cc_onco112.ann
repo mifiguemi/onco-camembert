@@ -1,0 +1,64 @@
+T1	morphologie 127 143	hémangioblastome
+T2	morphologie 172 188	hémangioblastome
+T3	morphologie 284 293	néoplasie
+T4	morphologie 339 348;355 373	carcinome à cellules claires
+T5	morphologie 674 684	néoplasies
+T6	morphologie 706 710	CCRc
+T7	morphologie 756 760	CCRc
+T8	morphologie 808 817	néoplasie
+T9	morphologie 941 958	hémangioblastomes
+T10	morphologie 1029 1035	tumeur
+T11	morphologie 1122 1139	hémangioblastomes
+T12	morphologie 1490 1496	tumeur
+T13	morphologie 2163 2169	tumeur
+T14	morphologie 2307 2316	métastase
+T15	morphologie 2620 2629;2636 2654	Carcinome à cellules claires
+T16	morphologie 2729 2738;2745 2763	carcinome à cellules claires
+T17	morphologie 3306 3317	hémangiomes
+T18	morphologie 3349 3358	métastase
+T19	morphologie 3455 3465	métastases
+T21	topographie 144 155	cérébelleux
+T22	expression_CIM 127 155	hémangioblastome cérébelleux
+T23	topographie 189 195	dorsal
+T24	expression_CIM 172 195	hémangioblastome dorsal
+T25	morphologie 230 233	LOE
+T26	topographie 254 260	rénaux
+T27	expression_CIM 230 260	LOE dans les deux pôles rénaux
+T28	expression_CIM 284 293	néoplasie
+T29	topographie 349 354	rénal
+T30	differenciation 375 393	grade 2 de Fhurman
+T31	expression_CIM 339 393	carcinome rénal à cellules claires, grade 2 de Fhurman
+T32	expression_CIM 674 684	néoplasies
+T33	expression_CIM 706 710	CCRc
+T34	expression_CIM 756 760	CCRc
+T35	topographie 818 826	mammaire
+T36	expression_CIM 808 826	néoplasie mammaire
+T37	expression_CIM 941 958	hémangioblastomes
+T38	topographie 1042 1054	cauda equina
+T39	expression_CIM 1029 1054	tumeur de la cauda equina
+T40	expression_CIM 1122 1139	hémangioblastomes
+T41	expression_CIM 1490 1541	tumeur entre les racines du filum terminale à L2-L3
+T42	topographie 1507 1541	racines du filum terminale à L2-L3
+T43	topographie 2206 2261	entre les racines du filum terminale au niveau de L2-L3
+T44	expression_CIM 2163 2261	tumeur de 12 mm de diamètre craniocaudale, entre les racines du filum terminale au niveau de L2-L3
+T45	expression_CIM 2307 2316	métastase
+T46	morphologie 2326 2335;2342 2360	carcinome à cellules claires
+T47	topographie 2336 2341	rénal
+T48	expression_CIM 2326 2360	carcinome rénal à cellules claires
+T49	topographie 2630 2635	rénal
+T50	stade 2655 2659	E-IV
+T51	morphologie 2665 2675	métastases
+T52	topographie 2681 2693	cauda equina
+T53	expression_CIM 2665 2693	métastases à la cauda equina
+T54	expression_CIM 2620 2654	Carcinome rénal à cellules claires
+T55	topographie 2739 2744	rénal
+T56	stade 2764 2768	E-IV
+T57	morphologie 2770 2780	métastases
+T58	topographie 2789 2801	cauda equina
+T59	expression_CIM 2770 2801	métastases dans la cauda equina
+T60	expression_CIM 2729 2763	carcinome rénal à cellules claires
+T61	expression_CIM 3306 3317	hémangiomes
+T62	expression_CIM 3349 3358	métastase
+T63	expression_CIM 3455 3465	métastases
+T20	morphologie 3653 3678	progression de la maladie
+T64	expression_CIM 3653 3678	progression de la maladie

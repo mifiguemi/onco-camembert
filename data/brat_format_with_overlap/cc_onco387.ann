@@ -1,0 +1,61 @@
+T1	morphologie 454 462	grosseur
+T2	topographie 470 481	hypochondre
+T3	morphologie 1510 1515	masse
+T4	topographie 1516 1528	médiastinale
+T5	topographie 1541 1560	médiastin supérieur
+T6	topographie 1567 1587	région paratrachéale
+T7	morphologie 1652 1677	conglomérat adénopathique
+T8	morphologie 2005 2011	lésion
+T9	morphologie 2035 2047	Adénopathies
+T10	topographie 2070 2095	ligament gastro-hépatique
+T11	morphologie 2097 2109	Adénopathies
+T12	topographie 2110 2123	mésentériques
+T13	morphologie 2148 2160	Adénopathies
+T14	topographie 2161 2178	rétropéritonéales
+T15	topographie 2238 2251	para-aortique
+T16	morphologie 2273 2278	Masse
+T17	topographie 2279 2305	médiastinale paratrachéale
+T18	morphologie 2329 2354	conglomérat adénopathique
+T19	morphologie 2371 2383	Adénopathies
+T20	topographie 2384 2397	mésentériques
+T21	topographie 2401 2418	rétropéritonéales
+T22	morphologie 2490 2518	processus lymphoprolifératif
+T23	topographie 2629 2643	paratrachéales
+T24	morphologie 2730 2745	lymphome diffus
+T25	differenciation 2746 2759	de haut grade
+T26	morphologie 3192 3212	atteinte néoplasique
+T27	topographie 3236 3282	ganglions lymphatiques médiastinaux supérieurs
+T28	topographie 3286 3300	para-aortiques
+T29	morphologie 3314 3351	Lymphome diffus à grandes cellules B.
+T30	stade 3352 3363	Stade IIIBs
+T31	topographie 4003 4020	rétropéritonéales
+T32	morphologie 4084 4108	foyers hypermétaboliques
+T33	morphologie 4123 4140	lymphadénopathies
+T34	topographie 4141 4158	rétropéritonéales
+T35	morphologie 4254 4282	processus lymphoprolifératif
+T36	topographie 4293 4308	rétropéritonéal
+T37	morphologie 4499 4516	lymphadénopathies
+T38	topographie 4517 4530	médiastinales
+T39	topographie 4534 4551	rétropéritonéales
+T40	morphologie 4655 4677	atteinte ganglionnaire
+T41	morphologie 4721 4749	processus lymphoprolifératif
+T42	morphologie 4979 4990	adénopathie
+T43	topographie 4991 5006	latérotrachéale
+T44	morphologie 5023 5039	lymphadénopathie
+T45	topographie 5040 5047	hilaire
+T46	topographie 5136 5149	paratrachéale
+T47	topographie 5180 5184	hile
+T48	morphologie 5262 5286	foyers hypermétaboliques
+T49	morphologie 5321 5332	adénopathie
+T50	topographie 5333 5346	paratrachéale
+T51	morphologie 5426 5453	maladie lymphoproliférative
+T52	morphologie 5550 5561	adénopathie
+T53	topographie 5562 5569	hilaire
+T54	morphologie 5683 5716	LYMPHOME DE HODGKIN LYMPHOCYTIQUE
+T55	morphologie 6754 6772	maladie de Hodgkin
+T56	topographie 1942 1946	Rate
+T57	topographie 2212 2219	précave
+T58	topographie 2221 2234	interaortique
+T59	morphologie 2616 2628	adénopathies
+T60	morphologie 3990 4002	adénopathies
+T61	morphologie 5124 5135	adénopathie

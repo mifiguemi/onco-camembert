@@ -1,0 +1,70 @@
+T1	morphologie 44 53	néoplasie
+T2	expression_CIM 151 201	adénocarcinome de bas grade modérément différencié
+T4	morphologie 491 497	tumeur
+T5	expression_CIM 1049 1068	Nodules pulmonaires
+T6	morphologie 1457 1464	nodules
+T7	morphologie 1528 1549	atteinte métastatique
+T8	morphologie 1551 1560	Métastase
+T9	morphologie 1775 1784	métastase
+T10	morphologie 1786 1796	Métastases
+T11	morphologie 1934 1940	tumeur
+T12	expression_CIM 2041 2060	lésion thyroïdienne
+T13	morphologie 2135 2168	adénocarcinome de type intestinal
+T14	morphologie 2189 2199	métastases
+T15	morphologie 2303 2317	tumeur maligne
+T16	morphologie 2347 2364	récidive tumorale
+T18	expression_CIM 2715 2734	lésion thyroïdienne
+T19	topographie 54 66	sigmoïdienne
+T20	expression_CIM 44 66	néoplasie sigmoïdienne
+T21	morphologie 151 165	adénocarcinome
+T22	differenciation 166 201	de bas grade modérément différencié
+T3	stade 244 257	pT3N1(2/12)Mx
+T23	stade 258 268	stade IIIB
+T24	topographie 527 530	cou
+T25	expression_CIM 491 530	tumeur dans la région antérieure du cou
+T26	morphologie 1049 1056	Nodules
+T27	topographie 1057 1068	pulmonaires
+T28	morphologie 625 630	masse
+T29	topographie 595 608	suprasternale
+T30	expression_CIM 595 630	suprasternale, il y avait une masse
+T31	morphologie 1009 1016	nodules
+T32	topographie 981 989	thyroïde
+T33	expression_CIM 981 1016	thyroïde hypertrophiée avec nodules
+T34	morphologie 1204 1229	lésions hypermétaboliques
+T35	topographie 1317 1327	thyroïdien
+T36	expression_CIM 1204 1327	lésions hypermétaboliques dans le lobe droit (diamètre supérieur à 17 mm et SUVmax de 8,4 g/ml) et dans l'isthme thyroïdien
+T37	morphologie 1380 1410	Adénopathies hypermétaboliques
+T38	topographie 1411 1433	jugulaires inférieures
+T39	expression_CIM 1380 1433	Adénopathies hypermétaboliques jugulaires inférieures
+T40	topographie 1499 1506	poumons
+T41	expression_CIM 1457 1506	nodules infracentimétriques dans les deux poumons
+T42	expression_CIM 1528 1549	atteinte métastatique
+T43	topographie 1590 1594	foie
+T44	expression_CIM 1551 1594	Métastase unique dans le segment II du foie
+T45	morphologie 1647 1675	Adénopathie hypermétabolique
+T46	expression_CIM 1647 1693	Adénopathie hypermétabolique dans le mésocôlon
+T47	topographie 1684 1693	mésocôlon
+T48	expression_CIM 1775 1784	métastase
+T49	topographie 1797 1805	osseuses
+T50	expression_CIM 1786 1857	Métastases osseuses dans l'ischion (SUVmax de 5,1 g/ml) et l'os iliaque
+T51	topographie 1813 1820	ischion
+T52	topographie 1847 1857	os iliaque
+T53	topographie 1944 1959	lobe thyroïdien
+T54	expression_CIM 1934 1959	tumeur du lobe thyroïdien
+T55	morphologie 1976 1982	lésion
+T56	topographie 1983 1992	hépatique
+T57	expression_CIM 1976 1992	lésion hépatique
+T58	morphologie 2041 2047	lésion
+T59	topographie 2048 2060	thyroïdienne
+T60	expression_CIM 2135 2168	adénocarcinome de type intestinal
+T61	morphologie 2216 2225	carcinome
+T62	topographie 2226 2236	sigmoïdien
+T63	expression_CIM 2216 2236	carcinome sigmoïdien
+T64	expression_CIM 2189 2199	métastases
+T65	morphologie 2268 2274	lésion
+T66	topographie 2275 2284	hépatique
+T67	expression_CIM 2268 2284	lésion hépatique
+T68	expression_CIM 2303 2317	tumeur maligne
+T69	expression_CIM 2347 2364	récidive tumorale
+T17	morphologie 2715 2721	lésion
+T70	topographie 2722 2734	thyroïdienne

@@ -1,0 +1,32 @@
+T1	morphologie 1214 1223	néoplasie
+T2	topographie 1224 1236	testiculaire
+T3	morphologie 1385 1407	tumeur germinale mixte
+T4	morphologie 1409 1412	TGC
+T5	morphologie 1427 1449	carcinome embryonnaire
+T6	morphologie 1461 1469	tératome
+T7	morphologie 1483 1511	tumeur du sinus endodermique
+T8	morphologie 1847 1872	conglomérat adénopathique
+T9	morphologie 1969 1975	nodule
+T10	topographie 1976 1986	pulmonaire
+T11	morphologie 2170 2204	tumeur germinale non séminomateuse
+T12	morphologie 2206 2211	NSGCT
+T13	stade 2213 2225	T2 N3 M1a S2
+T14	stade 2227 2237	stade IIIb
+T15	morphologie 2929 2954	conglomérat adénopathique
+T16	topographie 2955 2970	rétropéritonéal
+T17	morphologie 2996 3002	nodule
+T18	topographie 3003 3013	pulmonaire
+T19	morphologie 3328 3344	maladie tumorale
+T20	morphologie 4553 4559	lésion
+T21	topographie 4560 4576	rétropéritonéale
+T22	morphologie 4614 4621	lésions
+T23	topographie 4622 4633	pulmonaires
+T24	morphologie 5007 5014	nodules
+T25	topographie 5015 5026	pulmonaires
+T26	morphologie 5050 5055	masse
+T27	topographie 5056 5072	rétropéritonéale
+T28	topographie 5155 5170	rétropéritonéal
+T29	morphologie 5297 5312	tératome mature
+T30	morphologie 5608 5620	micronodules
+T31	topographie 5621 5632	pulmonaires
+T32	morphologie 5143 5154	conglomérat

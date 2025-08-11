@@ -1,0 +1,7 @@
+T1	morphologie 1084 1094	métastases
+T2	morphologie 2847 2854	lésions
+T3	topographie 1095 1105	hépatiques
+T4	topographie 2855 2865	hépatiques
+T5	topographie 2869 2880	pulmonaires
+T6	expression_CIM 1084 1105	métastases hépatiques
+T7	expression_CIM 2847 2880	lésions hépatiques et pulmonaires

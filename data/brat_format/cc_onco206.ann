@@ -1,0 +1,16 @@
+T1	morphologie 927 932	masse
+T2	morphologie 1200 1216	maladie tumorale
+T3	morphologie 1282 1299	récidive tumorale
+T4	morphologie 1313 1328	Médulloblastome
+T5	differenciation 1329 1340	de grade IV
+T6	topographie 1344 1362	vermis cérébelleux
+T7	morphologie 1404 1410	lésion
+T8	morphologie 1496 1511	médulloblastome
+T9	differenciation 1512 1523	de grade IV
+T10	morphologie 2408 2417	néoplasie
+T11	morphologie 2638 2647	captation
+T12	topographie 2648 2655	osseuse
+T13	morphologie 2872 2889	récidive tumorale
+T14	morphologie 2987 3006	récidive à distance
+T15	topographie 1003 1020	fosse postérieure
+T16	topographie 2842 2850	cervelet

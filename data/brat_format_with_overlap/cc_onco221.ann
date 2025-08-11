@@ -1,0 +1,17 @@
+T1	morphologie 466 471	masse
+T2	morphologie 936 950	adénocarcinome
+T3	differenciation 951 973	modérément différencié
+T4	topographie 977 982	côlon
+T5	morphologie 1108 1133	invasion lymphovasculaire
+T6	morphologie 1203 1224	atteinte métastatique
+T7	morphologie 2755 2775	atteinte néoplasique
+T8	topographie 2779 2787	pancréas
+T9	morphologie 5796 5808	microadénome
+T10	topographie 5809 5832	hypophysaire postérieur
+T11	morphologie 5849 5863	Adénocarcinome
+T12	topographie 5864 5874	colorectal
+T13	stade 5875 5885	pT4a N0 M0
+T14	stade 5887 5896	stade IIB
+T15	morphologie 6484 6496	microadénome
+T16	topographie 6503 6517	neurohypophyse
+T17	topographie 545 550	sigma

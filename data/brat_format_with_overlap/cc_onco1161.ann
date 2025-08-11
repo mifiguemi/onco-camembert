@@ -1,0 +1,47 @@
+T1	morphologie 96 122	neurofibromatose de type 1
+T2	morphologie 141 154	neurofibromes
+T3	morphologie 1102 1108	tumeur
+T4	morphologie 1292 1298	tumeur
+T5	morphologie 1724 1737	neurofibromes
+T6	morphologie 3309 3343	tumeur stromale gastro-intestinale
+T7	morphologie 3345 3349	GIST
+T8	morphologie 3596 3600	GIST
+T9	morphologie 3875 3882	tumeurs
+T10	morphologie 5493 5530	tumeurs stromales gastro-intestinales
+T11	morphologie 5532 5536	GIST
+T12	morphologie 5564 5571	tumeurs
+T13	morphologie 5588 5595	tumeurs
+T14	morphologie 5809 5813	GIST
+T15	morphologie 5917 5943	neurofibromatose de type 1
+T16	morphologie 5945 5948	NF1
+T17	morphologie 6113 6117	GIST
+T18	morphologie 6133 6136	NF1
+T19	expression_CIM 96 122	neurofibromatose de type 1
+T20	topographie 155 162	cutanés
+T21	expression_CIM 141 162	neurofibromes cutanés
+T22	topographie 1109 1117	jéjunale
+T23	expression_CIM 1102 1117	tumeur jéjunale
+T24	topographie 1299 1307	jéjunale
+T25	expression_CIM 1292 1307	tumeur jéjunale
+T26	topographie 1738 1745	cutanés
+T27	expression_CIM 1724 1745	neurofibromes cutanés
+T28	morphologie 2893 2898	masse
+T29	topographie 2925 2932	jéjunum
+T30	expression_CIM 2893 2932	masse solide-nécrotique dans le jéjunum
+T31	expression_CIM 3309 3343	tumeur stromale gastro-intestinale
+T32	expression_CIM 3345 3349	GIST
+T33	expression_CIM 3596 3600	GIST
+T34	expression_CIM 3875 3882	tumeurs
+T35	morphologie 5256 5262	lésion
+T36	expression_CIM 5256 5262	lésion
+T37	expression_CIM 5493 5530	tumeurs stromales gastro-intestinales
+T38	expression_CIM 5532 5536	GIST
+T39	expression_CIM 5564 5571	tumeurs
+T40	expression_CIM 5588 5595	tumeurs
+T41	expression_CIM 5809 5859	GIST à lozalisation multiple jéjunale et duodénale
+T42	topographie 5838 5846	jéjunale
+T43	topographie 5850 5859	duodénale
+T44	expression_CIM 5917 5943	neurofibromatose de type 1
+T45	expression_CIM 5945 5948	NF1
+T46	expression_CIM 6113 6117	GIST
+T47	expression_CIM 6133 6136	NF1

@@ -1,0 +1,37 @@
+T1	morphologie 323 332	neurinome
+T2	topographie 336 351	nerf acoustique
+T3	morphologie 445 451;463 468	nodule bénin
+T4	topographie 452 462	thyroïdien
+T5	morphologie 715 721	cancer
+T6	topographie 725 730	côlon
+T7	morphologie 864 869	masse
+T8	topographie 888 898	hémithorax
+T9	morphologie 1011 1016	masse
+T10	topographie 1017 1027	pulmonaire
+T11	topographie 1050 1060	lobe moyen
+T12	topographie 1072 1086	lobe supérieur
+T13	morphologie 1362 1387	tumeur fibreuse solitaire
+T14	morphologie 1787 1802;1812 1819	tumeur fibreuse maligne
+T15	topographie 1803 1811	pleurale
+T17	morphologie 2260 2267	rechute
+T18	topographie 2276 2289	paroi costale
+T19	morphologie 2360 2366	tumeur
+T20	topographie 2415 2433	espace intercostal
+T21	morphologie 2449 2455	tumeur
+T22	topographie 2477 2495	espace intercostal
+T23	morphologie 2615 2622	rechute
+T24	topographie 2623 2631	pleurale
+T25	morphologie 2991 3011	progression tumorale
+T26	topographie 3028 3034	plèvre
+T27	topographie 3040 3058	poumons bilatéraux
+T28	topographie 3066 3088	ganglions lymphatiques
+T29	morphologie 3356 3367	progression
+T30	topographie 3368 3376	pleurale
+T31	topographie 3380 3390	pulmonaire
+T32	morphologie 3615 3621	masses
+T33	topographie 3622 3631	pleurales
+T34	morphologie 3647 3654	nodules
+T35	topographie 3655 3666	pulmonaires
+T36	morphologie 5363 5396	tumeur fibreuse solitaire maligne
+T37	morphologie 5935 5938	SPD
+T38	morphologie 6135 6141	tumeur

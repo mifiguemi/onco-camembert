@@ -1,0 +1,16 @@
+T1	morphologie 284 298	adénocarcinome
+T3	topographie 305 311	rectal
+T4	stade 312 329	localement avancé
+T5	stade 348 354	cT4cN1
+T6	morphologie 825 830	masse
+T8	morphologie 1052 1057	masse
+T9	topographie 1058 1067	présacrée
+T10	morphologie 1158 1176	sarcome pléomorphe
+T11	differenciation 1177 1190	indifférencié
+T12	morphologie 1339 1345	lésion
+T13	topographie 1346 1355	présacrée
+T14	morphologie 1574 1580	lésion
+T15	morphologie 1841 1846	masse
+T16	topographie 1847 1856	présacrée
+T17	morphologie 2194 2201	sarcome
+T18	morphologie 3281 3295	rechute locale

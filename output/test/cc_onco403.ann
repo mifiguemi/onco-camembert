@@ -1,0 +1,19 @@
+T1	morphologie 675 678	LOE
+T2	topographie 679 693	intracrânienne
+T3	morphologie 707 716	métastase
+T4	topographie 736 741	crâne
+T5	morphologie 849 863	adénocarcinome
+T6	differenciation 864 886	modérément différencié
+T7	topographie 890 904	lobe inférieur
+T8	morphologie 917 939	atteinte adénopathique
+T9	topographie 940 947	hilaire
+T10	topographie 949 972	fenêtre aortopulmonaire
+T11	topographie 976 985	axillaire
+T12	morphologie 1008 1015	lésions
+T13	topographie 1016 1026	hépatiques
+T14	topographie 1030 1040	cérébrales
+T15	morphologie 1329 1340	progression
+T16	topographie 1374 1384	pulmonaire
+T17	morphologie 4518 4526	atteinte
+T18	morphologie 5854 5874	progression tumorale
+T19	topographie 5885 5895	pulmonaire

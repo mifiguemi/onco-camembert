@@ -1,0 +1,32 @@
+T1	morphologie 192 213	carcinome épidermoïde
+T2	topographie 214 220	cutané
+T3	topographie 234 258	canthus externe de l'œil
+T4	topographie 272 293	région interpariétale
+T5	topographie 303 308	tempe
+T6	morphologie 958 967	Carcinome
+T7	topographie 968 978	pulmonaire
+T8	stade 1018 1026	T2 N1 M1
+T9	morphologie 1028 1034	nodule
+T10	topographie 1035 1045	pulmonaire
+T11	topographie 1054 1068	lobe inférieur
+T12	topographie 1090 1094	lobe
+T13	topographie 1117 1131	lobe supérieur
+T14	morphologie 1161 1168	tumeurs
+T15	topographie 1169 1178	pleurales
+T16	morphologie 1184 1192	atteinte
+T17	topographie 1193 1200	osseuse
+T18	morphologie 1309 1316	implant
+T19	topographie 1317 1327	musculaire
+T20	morphologie 1472 1480	implants
+T21	topographie 1481 1489	pleuraux
+T22	morphologie 1586 1607	carcinome épidermoïde
+T23	morphologie 1725 1761	Carcinome épidermoïde multicentrique
+T24	topographie 1765 1771	poumon
+T25	stade 1799 1808	stade IVb
+T26	stade 1810 1819	T2 N1 M1b
+T27	morphologie 1826 1834	implants
+T28	topographie 1835 1846	musculaires
+T29	morphologie 2996 3015	maladie néoplasique
+T30	morphologie 3232 3239	nodules
+T31	topographie 3240 3251	pulmonaires
+T32	morphologie 3282 3287	masse

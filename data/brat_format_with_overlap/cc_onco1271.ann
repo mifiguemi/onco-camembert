@@ -1,0 +1,28 @@
+T1	morphologie 776 791	tumeur phyllode
+T3	expression_CIM 1055 1081	angiosarcome de haut grade
+T4	morphologie 1359 1365	tumeur
+T5	morphologie 1613 1619	tumeur
+T6	morphologie 2054 2063	métastase
+T7	morphologie 2210 2221	hémangiomes
+T8	morphologie 2348 2369	Angiosarcome primaire
+T9	stade 2386 2394	pT2bN0M0
+T10	morphologie 2599 2605	tumeur
+T11	morphologie 173 183	induration
+T12	topographie 187 191	sein
+T13	expression_CIM 173 191	induration du sein
+T14	expression_CIM 776 791	tumeur phyllode
+T2	morphologie 1055 1067	angiosarcome
+T15	differenciation 1068 1081	de haut grade
+T16	expression_CIM 1359 1365	tumeur
+T17	morphologie 1472 1483	adénopathie
+T18	expression_CIM 1472 1483	adénopathie
+T19	expression_CIM 1613 1619	tumeur
+T20	topographie 2087 2091	foie
+T21	expression_CIM 2054 2091	métastase dans le segment VII du foie
+T22	morphologie 2171 2178	lésions
+T23	topographie 2179 2189	hépatiques
+T24	expression_CIM 2171 2189	lésions hépatiques
+T25	expression_CIM 2210 2221	hémangiomes
+T26	topographie 2373 2377	sein
+T27	expression_CIM 2348 2377	Angiosarcome primaire du sein
+T28	expression_CIM 2599 2605	tumeur

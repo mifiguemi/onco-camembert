@@ -1,0 +1,37 @@
+T1	morphologie 294 300	cancer
+T2	topographie 304 309	côlon
+T3	morphologie 378 384	cancer
+T4	topographie 388 393	côlon
+T5	morphologie 510 524	adénocarcinome
+T6	differenciation 525 547	modérément différencié
+T7	topographie 551 556	cæcum
+T8	morphologie 857 862	masse
+T9	topographie 871 876	flanc
+T10	morphologie 1157 1169	adénopathies
+T11	morphologie 1210 1230	métastase à distance
+T12	morphologie 1435 1441	tumeur
+T13	morphologie 1538 1544	tumeur
+T14	topographie 1561 1577	paroi abdominale
+T15	morphologie 1670 1684	adénocarcinome
+T16	topographie 1688 1693	cæcum
+T17	morphologie 1818 1829	adénopathie
+T18	stade 1884 1894	pT4 pN1 M0
+T19	morphologie 2881 2902	masse des tissus mous
+T20	topographie 2933 2938	psoas
+T21	topographie 2945 2959	muscle iliaque
+T22	morphologie 3274 3279	masse
+T23	topographie 3283 3288	psoas
+T24	morphologie 3445 3450	masse
+T25	topographie 3459 3464	psoas
+T26	morphologie 3582 3587	ligne
+T27	morphologie 3588 3600	métastatique
+T28	morphologie 3936 3957	masse des tissus mous
+T29	topographie 3981 3994	psoas iliaque
+T30	morphologie 4172 4178	tumeur
+T31	morphologie 4347 4353	tumeur
+T32	morphologie 4452 4458	tumeur
+T33	morphologie 5113 5118	masse
+T34	topographie 5122 5127	psoas
+T35	morphologie 5271 5276	masse
+T36	morphologie 5313 5321	atteinte
+T37	topographie 5326 5338	os du bassin

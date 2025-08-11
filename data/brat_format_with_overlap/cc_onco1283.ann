@@ -1,0 +1,51 @@
+T1	expression_CIM 78 138	adénocarcinome de la prostate (pT2bN0M0), Gleason 7 (4 + 3).
+T2	stade 109 117	pT2bN0M0
+T3	morphologie 369 379	métastases
+T4	expression_CIM 1729 1754	lésions supratentorielles
+T5	morphologie 1854 1863	métastase
+T6	morphologie 2033 2042	métastase
+T7	morphologie 2097 2107	Métastases
+T8	morphologie 2460 2467	lésions
+T9	morphologie 3039 3045	cancer
+T10	morphologie 3077 3083	cancer
+T11	morphologie 3249 3259	métastases
+T14	morphologie 3574 3584	métastases
+T15	expression_CIM 3621 3639	lésions cérébrales
+T16	morphologie 3698 3708	métastases
+T17	morphologie 3901 3911	métastases
+T19	morphologie 4437 4447	néoplasmes
+T20	morphologie 78 92	adénocarcinome
+T21	topographie 99 107	prostate
+T22	differenciation 120 138	Gleason 7 (4 + 3).
+T23	topographie 380 388	osseuses
+T24	topographie 392 406	adénopathiques
+T25	expression_CIM 369 406	métastases osseuses et adénopathiques
+T26	morphologie 1729 1736	lésions
+T27	topographie 1737 1754	supratentorielles
+T28	expression_CIM 1854 1925	métastase. La plus grande, de 2 cm, est située dans la région pariétale
+T29	topographie 1909 1925	région pariétale
+T30	topographie 2043 2050	osseuse
+T31	expression_CIM 2033 2050	métastase osseuse
+T32	topographie 2108 2118	cérébrales
+T33	expression_CIM 2097 2118	Métastases cérébrales
+T34	morphologie 2134 2148	adénocarcinome
+T35	topographie 2149 2160	prostatique
+T36	expression_CIM 2134 2160	adénocarcinome prostatique
+T37	topographie 2488 2507	parenchyme cérébral
+T38	expression_CIM 2460 2507	lésions disséminées dans le parenchyme cérébral
+T39	topographie 3052 3060	prostate
+T40	expression_CIM 3039 3060	cancer de la prostate
+T41	expression_CIM 3077 3083	cancer
+T42	topographie 3260 3270	cérébrales
+T43	expression_CIM 3249 3270	métastases cérébrales
+T12	topographie 3585 3595	crâniennes
+T13	expression_CIM 3574 3595	métastases crâniennes
+T44	morphologie 3621 3628	lésions
+T45	topographie 3629 3639	cérébrales
+T46	topographie 3717 3731	calice crânien
+T47	expression_CIM 3698 3731	métastases dans le calice crânien
+T48	topographie 3912 3922	cérébrales
+T49	expression_CIM 3901 3922	métastases cérébrales
+T18	expression_CIM 4437 4447	néoplasmes
+T50	morphologie 4469 4476	lésions
+T51	expression_CIM 4469 4476	lésions

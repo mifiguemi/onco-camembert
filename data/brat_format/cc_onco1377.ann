@@ -1,0 +1,16 @@
+T1	morphologie 834 898	carcinome canalaire infiltrant classique avec GN II et GH II-III
+T2	morphologie 1271 1285	adénocarcinome
+T3	morphologie 1480 1514	Adénoarcinome canalaire infiltrant
+T4	stade 1531 1537	T2N1M0
+T5	morphologie 256 261	masse
+T6	topographie 270 274	sein
+T8	morphologie 361 366	Masse
+T9	topographie 384 388	sein
+T11	morphologie 440 446	nodule
+T12	topographie 440 446	nodule
+T13	morphologie 677 683	nodule
+T15	morphologie 735 746	adénopathie
+T18	morphologie 1198 1209	adénopathie
+T19	topographie 1210 1219	axillaire
+T21	differenciation 880 885	GN II
+T22	differenciation 889 898	GH II-III

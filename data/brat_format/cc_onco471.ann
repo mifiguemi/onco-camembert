@@ -1,0 +1,25 @@
+T1	morphologie 433 447;454 473	adénocarcinome de l'intestin grêle
+T2	morphologie 449 452	ADC
+T4	topographie 488 496	duodénum
+T5	stade 685 694	pT3pN2cM0
+T6	morphologie 847 850	ADC
+T7	topographie 857 865	prostate
+T8	differenciation 867 880	Gleason 4 + 5
+T9	morphologie 900 910	métastases
+T10	topographie 911 919	osseuses
+T11	topographie 928 943	squelette axial
+T12	stade 945 954	pT3cN1cM1
+T13	morphologie 1228 1247	maladie a progressé
+T14	topographie 1258 1264	osseux
+T15	morphologie 1484 1491	lésions
+T16	topographie 1492 1500	osseuses
+T17	morphologie 1564 1589	progression de la maladie
+T18	topographie 1600 1606	osseux
+T19	morphologie 2483 2489	masses
+T20	morphologie 3218 3224	cancer
+T21	topographie 3231 3239	prostate
+T22	stade 3240 3252	métastatique
+T23	morphologie 3833 3845	infiltration
+T24	topographie 3852 3866	moelle osseuse
+T25	morphologie 3935 3941	tumeur
+T26	topographie 3948 3956	prostate

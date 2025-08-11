@@ -1,0 +1,13 @@
+T1	morphologie 39 69	carcinome canalaire infiltrant
+T2	morphologie 71 74	CDI
+T3	topographie 79 83	sein
+T4	stade 85 95	stade IIIA
+T5	morphologie 1016 1022	cancer
+T6	topographie 1026 1030	sein
+T7	stade 1237 1247	stade IIIA
+T8	stade 1249 1255	T3N1M0
+T9	morphologie 1469 1485	lymphadénopathie
+T10	topographie 1486 1495	axillaire
+T11	morphologie 1599 1608	carcinome
+T12	morphologie 1880 1898	maladie à distance
+T13	differenciation 1036 1056	grade histologique 3

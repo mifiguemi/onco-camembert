@@ -1,0 +1,38 @@
+T1	morphologie 492 498	tumeur
+T2	morphologie 650 656	tumeur
+T3	morphologie 761 775	adénocarcinome
+T4	morphologie 820 832	néoformation
+T6	morphologie 1374 1388	Adénocarcinome
+T7	stade 1399 1408	uT3 N1 Mx
+T8	morphologie 1573 1588	tumeur primaire
+T9	morphologie 1662 1668	lésion
+T11	morphologie 2858 2864	lésion
+T12	morphologie 2957 2966	métastase
+T13	morphologie 3274 3285	progression
+T14	morphologie 3379 3386	nodules
+T15	morphologie 3866 3875	métastase
+T17	morphologie 4215 4225	métastases
+T18	morphologie 4346 4353	nodules
+T20	topographie 663 674	marge anale
+T22	topographie 776 786	colorectal
+T25	topographie 855 866	marge anale
+T26	morphologie 955 967	adénopathies
+T5	stade 1099 1104	uT3N1
+T28	morphologie 1171 1177	nodule
+T29	topographie 1222 1243	lobe supérieur gauche
+T31	topographie 1392 1398	rectum
+T32	stade 1410 1419	Stade III
+T35	topographie 1669 1679	pulmonaire
+T10	morphologie 2282 2288	nodule
+T37	topographie 2305 2319	lobe supérieur
+T39	morphologie 2516 2522	nodule
+T41	topographie 2865 2875	pulmonaire
+T43	morphologie 2972 2986	adénocarcinome
+T44	topographie 2997 3008	colorectale
+T47	topographie 3296 3306	pulmonaire
+T49	topographie 3387 3398	pulmonaires
+T51	morphologie 3878 3892	adénocarcinome
+T52	topographie 3903 3914	colorectale
+T16	topographie 4226 4241	endobronchiques
+T56	morphologie 4107 4114	polypes
+T58	topographie 4354 4365	pulmonaires

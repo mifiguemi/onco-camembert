@@ -1,0 +1,61 @@
+T1	morphologie 84 90	nodule
+T2	topographie 108 124	région périnéale
+T3	morphologie 129 135	nodule
+T4	morphologie 342 380	carcinome papillaire infiltrant solide
+T5	differenciation 381 391	de grade 2
+T6	morphologie 396 414	hamartome kystique
+T7	topographie 415 427	rétro-rectal
+T8	morphologie 807 821	adénocarcinome
+T9	topographie 825 830	côlon
+T10	morphologie 908 936	processus lymphoprolifératif
+T11	morphologie 2593 2599	masses
+T12	morphologie 3390 3395	masse
+T13	morphologie 3585 3595	nodulation
+T14	topographie 3596 3605	périnéale
+T15	morphologie 3739 3750	adénopathie
+T16	morphologie 3767 3807	image suggérant une métastase à distance
+T17	morphologie 3892 3897	masse
+T18	topographie 3898 3909	périrectale
+T19	morphologie 4279 4317	carcinome papillaire solide infiltrant
+T20	differenciation 4318 4328	de grade 2
+T21	morphologie 4333 4351	hamartome kystique
+T22	topographie 4352 4363	rétrorectal
+T23	morphologie 4820 4847	Carcinome papillaire solide
+T24	morphologie 4852 4861;4874 4882	hamartome kystique
+T25	topographie 4862 4873	rétrorectal
+T27	morphologie 5338 5349	adénopathie
+T28	topographie 5350 5359	inguinale
+T29	morphologie 5438 5465	carcinome papillaire solide
+T30	differenciation 5466 5488	modérément différencié
+T31	morphologie 5547 5569	récidive adénopathique
+T32	morphologie 5779 5796	récidive tumorale
+T33	morphologie 5903 5918	récidive locale
+T34	topographie 5927 5937	pararectum
+T35	morphologie 5959 5965	lésion
+T36	topographie 5966 5973	osseuse
+T37	morphologie 5974 5986	ostéolytique
+T38	morphologie 6581 6587	tumeur
+T39	topographie 6588 6597	présacrée
+T40	morphologie 6785 6807	récidive locorégionale
+T41	topographie 6821 6838	fascia mésorectal
+T42	morphologie 6855 6861	lésion
+T43	topographie 6884 6900	lobe prostatique
+T44	morphologie 7139 7158	croissance tumorale
+T45	morphologie 7180 7188	récidive
+T46	topographie 7189 7202	infravésicale
+T47	morphologie 7248 7262	nodule tumoral
+T48	topographie 7263 7274	ischémoanal
+T49	morphologie 7287 7299	infiltration
+T50	topographie 7306 7327	musculature pelvienne
+T51	morphologie 7335 7347	adénopathies
+T52	topographie 7348 7361	rétrocrurales
+T53	morphologie 7568 7588	carcinome papillaire
+T54	morphologie 7619 7639	carcinome urothélial
+T55	morphologie 7679 7693	adénocarcinome
+T56	morphologie 7782 7800	hamartome kystique
+T57	topographie 7801 7813	rétro-rectal
+T58	morphologie 7845 7865	carcinome papillaire
+T59	morphologie 7894 7914	carcinome urothélial
+T60	morphologie 8230 8235	masse
+T61	topographie 8236 8245	pelvienne
+T62	morphologie 8602 8608	tumeur

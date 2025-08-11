@@ -1,0 +1,38 @@
+T1	morphologie 216 222	cancer
+T2	morphologie 568 598	carcinome canalaire infiltrant
+T6	morphologie 1809 1827	maladie à distance
+T7	morphologie 1841 1850	Carcinome
+T8	stade 1859 1866	cT1N0M0
+T9	morphologie 1870 1884	adénocarcinome
+T11	morphologie 1997 2003	tumeur
+T12	morphologie 2140 2146	tumeur
+T14	morphologie 2516 2522	cancer
+T15	topographie 226 230	sein
+T18	morphologie 337 343	nodule
+T19	topographie 371 395;402 409	quadrant interne externe du sein
+T21	morphologie 458 464	lésion
+T23	morphologie 699 706	nodules
+T25	morphologie 934 940	nodule
+T26	topographie 927 931	sein
+T28	morphologie 1129 1134	masse
+T29	topographie 1135 1145	pulmonaire
+T31	morphologie 1153 1160	lésions
+T32	topographie 1161 1171	hépatiques
+T33	morphologie 1235 1240	masse
+T34	topographie 1241 1251	pulmonaire
+T36	morphologie 1393 1401	atteinte
+T37	topographie 1402 1410	pleurale
+T38	morphologie 1618 1632	adénocarcinome
+T39	differenciation 1633 1649	bien différencié
+T40	morphologie 1422 1434	Adénopathies
+T41	topographie 1435 1443	hilaires
+T44	topographie 1854 1858	sein
+T46	topographie 1888 1894	poumon
+T48	stade 1895 1902	cT3N2M1
+T49	morphologie 1946 1954	atteinte
+T50	topographie 1955 1963	pleurale
+T51	topographie 2004 2014	pulmonaire
+T53	topographie 2150 2154	sein
+T55	morphologie 2241 2271	carcinome canalaire infiltrant
+T56	differenciation 2272 2282	de grade 2
+T57	topographie 2526 2532	poumon

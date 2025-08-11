@@ -1,0 +1,53 @@
+T1	morphologie 617 624	lésions
+T2	morphologie 646 656	métastases
+T3	topographie 657 665	osseuses
+T4	topographie 689 691	L5
+T5	morphologie 858 863	masse
+T6	topographie 864 874	pulmonaire
+T7	topographie 901 912	parahilaire
+T8	morphologie 933 945	adénopathies
+T9	topographie 946 954	hilaires
+T10	morphologie 1007 1022	images lytiques
+T11	topographie 1037 1055	vertèbres dorsales
+T12	topographie 1059 1068	lombaires
+T13	topographie 1075 1086	aile sacrée
+T14	topographie 1103 1115	lame iliaque
+T15	morphologie 1488 1502	adénocarcinome
+T16	morphologie 1541 1555	adénocarcinome
+T17	topographie 1556 1566	pulmonaire
+T18	stade 1567 1575	T4 N2 M1
+T19	morphologie 1600 1609	atteintes
+T20	topographie 1610 1618	osseuses
+T21	stade 1624 1632	stade IV
+T22	morphologie 1794 1808	adénocarcinome
+T23	topographie 1809 1819	pulmonaire
+T24	morphologie 2526 2537	progression
+T25	topographie 2538 2548	pulmonaire
+T26	topographie 2552 2565	ganglionnaire
+T27	topographie 2566 2578	médiastinale
+T28	morphologie 2909 2920	progression
+T29	topographie 2931 2941	pulmonaire
+T30	morphologie 3543 3554	progression
+T31	topographie 3576 3583	poumons
+T32	topographie 3591 3593	os
+T33	morphologie 3746 3753	maladie
+T34	topographie 3754 3761	osseuse
+T35	morphologie 4033 4047	adénocarcinome
+T36	topographie 4048 4058	pulmonaire
+T37	morphologie 4242 4256	tumeur maligne
+T38	morphologie 4843 4854	progression
+T39	topographie 4855 4862	osseuse
+T40	topographie 4866 4876	pulmonaire
+T41	morphologie 5162 5173	progression
+T42	topographie 5174 5184	pulmonaire
+T43	morphologie 5379 5390	progression
+T44	topographie 5391 5401	pulmonaire
+T45	topographie 5405 5412	osseuse
+T46	morphologie 5729 5739	métastases
+T47	topographie 5753 5758	fémur
+T48	morphologie 6005 6019	adénocarcinome
+T49	topographie 6020 6030	pulmonaire
+T50	morphologie 6426 6437	progression
+T51	topographie 6438 6448	pulmonaire
+T52	topographie 6450 6476	ganglionnaire médiastinale
+T53	topographie 6480 6490	musculaire

@@ -1,0 +1,33 @@
+T1	morphologie 990 996	tumeur
+T2	expression_CIM 1367 1404	adénocarcinome modérément différencié
+T3	morphologie 1466 1497	masse tumorale hypermétabolique
+T4	morphologie 1766 1776	métastases
+T5	expression_CIM 1938 1975	adénocarcinome modérément différencié
+T6	stade 2021 2030	pT2bpN2M0
+T7	morphologie 2520 2530	métastases
+T8	morphologie 3161 3174	dissémination
+T9	morphologie 3310 3324	adénocarcinome
+T10	morphologie 4162 4171	néoplasme
+T11	topographie 1506 1520	lobe supérieur
+T12	topographie 1777 1791	ganglionnaires
+T13	stade 1987 2019	avec atteinte ganglionnaire 5/10
+T14	stade 2032 2042	stade IIIA
+T15	stade 2044 2046	N2
+T16	topographie 2531 2542	pulmonaires
+T17	topographie 3175 3189	intracrânienne
+T18	stade 3325 3337	métastatique
+T19	expression_CIM 990 996	tumeur
+T20	morphologie 1367 1381	adénocarcinome
+T21	differenciation 1382 1404	modérément différencié
+T22	expression_CIM 1466 1520	masse tumorale hypermétabolique dans le lobe supérieur
+T23	morphologie 1609 1637	adénopathie hypermétabolique
+T24	expression_CIM 1609 1637	adénopathie hypermétabolique
+T25	expression_CIM 1766 1791	métastases ganglionnaires
+T26	morphologie 1938 1952	adénocarcinome
+T27	differenciation 1953 1975	modérément différencié
+T28	expression_CIM 2520 2542	métastases pulmonaires
+T29	expression_CIM 3161 3189	dissémination intracrânienne
+T30	morphologie 3195 3209	adénocarcinome
+T31	expression_CIM 3195 3209	adénocarcinome
+T32	expression_CIM 3310 3324	adénocarcinome
+T33	expression_CIM 4162 4171	néoplasme

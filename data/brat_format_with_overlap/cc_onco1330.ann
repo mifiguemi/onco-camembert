@@ -1,0 +1,33 @@
+T1	morphologie 276 282;293 301	tumeur primaire
+T3	morphologie 414 423	métastase
+T4	morphologie 567 598	hépatocarcinome fibrolamellaire
+T5	morphologie 600 603	FLC
+T7	morphologie 730 754	adénopathie métastatique
+T8	morphologie 1376 1407	hépatocarcinome fibrolamellaire
+T9	morphologie 1409 1412	FLC
+T10	morphologie 1486 1517	hépatocarcinome fibrolamellaire
+T11	topographie 283 292	hépatique
+T12	expression_CIM 276 301	tumeur hépatique primaire
+T2	morphologie 377 389	adénopathies
+T13	topographie 390 407	rétropéritonéales
+T14	expression_CIM 377 407	adénopathies rétropéritonéales
+T15	expression_CIM 414 423	métastase
+T16	expression_CIM 567 598	hépatocarcinome fibrolamellaire
+T17	expression_CIM 600 603	FLC
+T6	expression_CIM 730 754	adénopathie métastatique
+T18	expression_CIM 1376 1407	hépatocarcinome fibrolamellaire
+T19	morphologie 1172 1179	nodules
+T20	topographie 1206 1212	poumon
+T21	expression_CIM 1172 1212	nodules solides de 1,5 cm dans le poumon
+T22	expression_CIM 1409 1412	FLC
+T23	expression_CIM 1486 1517	hépatocarcinome fibrolamellaire
+T24	morphologie 1427 1435	Récidive
+T25	topographie 1436 1446	pulmonaire
+T26	topographie 1450 1466	rétropéritonéale
+T27	expression_CIM 1427 1466	Récidive pulmonaire et rétropéritonéale
+T28	morphologie 1976 1987	progression
+T29	topographie 1988 2004	rétropéritonéale
+T30	expression_CIM 1976 2004	progression rétropéritonéale
+T31	morphologie 2851 2862	progression
+T32	topographie 2863 2872	hépatique
+T33	expression_CIM 2851 2872	progression hépatique

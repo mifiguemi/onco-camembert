@@ -1,0 +1,32 @@
+T1	morphologie 202 208	Tumeur
+T2	topographie 209 216	osseuse
+T3	morphologie 217 235	à cellules géantes
+T4	differenciation 236 258	de grade 3 de Sanerkin
+T5	topographie 262 267	fémur
+T6	morphologie 338 348	Métastases
+T7	topographie 349 360	pulmonaires
+T8	topographie 364 392	ganglionnaires médiastinales
+T9	morphologie 535 560	progression de la maladie
+T10	topographie 571 581	thoracique
+T11	morphologie 1051 1056	masse
+T12	topographie 1057 1071	extracardiaque
+T13	morphologie 2109 2126	implants tumoraux
+T14	morphologie 2149 2154	masse
+T15	topographie 2155 2166	parahilaire
+T16	morphologie 2354 2360	tumeur
+T17	topographie 2361 2375	extracardiaque
+T18	morphologie 2588 2609	atteinte métastatique
+T19	topographie 2627 2634	poumons
+T20	morphologie 2647 2652	masse
+T21	topographie 2653 2677	médiastinale postérieure
+T22	morphologie 2977 2987	Métastases
+T23	topographie 2988 2999	pulmonaires
+T24	topographie 3003 3016	médiastinales
+T25	morphologie 3023 3029;3038 3056	tumeur à cellules géantes
+T26	topographie 3030 3037	osseuse
+T28	morphologie 3065 3070	Masse
+T29	topographie 3071 3083	médiastinale
+T30	morphologie 3512 3521	néoplasie
+T31	morphologie 3735 3760	progression de la maladie
+T32	topographie 3771 3782	médiastinal
+T33	morphologie 4479 4504	tumeur à cellules géantes

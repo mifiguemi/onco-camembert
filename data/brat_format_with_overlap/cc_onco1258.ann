@@ -1,0 +1,52 @@
+T1	morphologie 417 422	masse
+T3	expression_CIM 823 852	carcinome mammaire infiltrant
+T4	morphologie 1005 1014	carcinome
+T5	expression_CIM 1028 1057	Carcinome mammaire infiltrant
+T8	morphologie 1598 1639	carcinome lobulaire infiltrant pléomorphe
+T9	morphologie 1691 1701	Métastases
+T10	morphologie 2170 2176	lésion
+T11	morphologie 2311 2320	métastase
+T12	morphologie 2417 2429	néoformation
+T13	expression_CIM 2607 2622	récidive cæcale
+T14	morphologie 2809 2818	métastase
+T15	topographie 430 434	sein
+T16	expression_CIM 417 434	masse sur le sein
+T17	morphologie 587 592	masse
+T18	topographie 654 658	sein
+T19	expression_CIM 587 658	masse dense (30 x 15 mm) à la jonction des quadrants inférieurs du sein
+T20	morphologie 667 721	Adénopathies axillaires gauches suspectes de malignité
+T2	expression_CIM 667 721	Adénopathies axillaires gauches suspectes de malignité
+T21	morphologie 755 761	lésion
+T22	topographie 762 770	mammaire
+T23	expression_CIM 755 770	lésion mammaire
+T24	morphologie 823 832;842 852	carcinome infiltrant
+T25	topographie 833 841	mammaire
+T26	morphologie 953 964	adénopathie
+T27	topographie 965 974	axillaire
+T28	expression_CIM 953 974	adénopathie axillaire
+T29	expression_CIM 1005 1014	carcinome
+T30	morphologie 1028 1037;1047 1057	Carcinome infiltrant
+T31	topographie 1038 1046	mammaire
+T32	stade 1117 1128	cT2cN2-IIIA
+T6	expression_CIM 1598 1639	carcinome lobulaire infiltrant pléomorphe
+T7	stade 1810 1821	pT2pN3-IIIC
+T33	topographie 1717 1739	ganglions lymphatiques
+T34	expression_CIM 1691 1739	Métastases dans 17 des 19 ganglions lymphatiques
+T35	topographie 2438 2443	cæcum
+T36	topographie 2210 2226	côlon transverse
+T37	expression_CIM 2170 2226	lésion proliférative sténosante dans le côlon transverse
+T38	expression_CIM 2311 2320	métastase
+T39	morphologie 2324 2343	carcinome lobulaire
+T40	topographie 2346 2362	origine mammaire
+T41	expression_CIM 2324 2362	carcinome lobulaire d'origine mammaire
+T42	expression_CIM 2417 2443	néoformation dans le cæcum
+T43	morphologie 2607 2615	récidive
+T44	topographie 2616 2622	cæcale
+T45	topographie 2856 2860	sein
+T46	expression_CIM 2809 2894	métastase de carcinome lobulaire infiltrant du sein dans l'iléon terminal et le cæcum
+T47	morphologie 2822 2852	carcinome lobulaire infiltrant
+T48	expression_CIM 2822 2860	carcinome lobulaire infiltrant du sein
+T49	topographie 2868 2873	iléon
+T50	topographie 2889 2894	cæcum
+T51	expression_CIM 2908 2944	atteinte de 4 ganglions lymphatiques
+T52	morphologie 2908 2919;2922 2944	atteinte de ganglions lymphatiques

@@ -1,0 +1,31 @@
+T1	morphologie 283 289	Tumeur
+T2	topographie 293 297	sein
+T3	topographie 347 370	quadrant supéro-externe
+T4	morphologie 503 531	lésion suspecte de malignité
+T5	topographie 535 539	sein
+T6	morphologie 587 599	adénopathies
+T7	topographie 622 630	aisselle
+T8	morphologie 675 681	nodule
+T9	topographie 682 690	mammaire
+T10	morphologie 693 723	carcinome canalaire infiltrant
+T11	differenciation 724 736	de grade III
+T12	morphologie 787 798	Adénopathie
+T13	topographie 799 808	axillaire
+T14	morphologie 831 845	adénocarcinome
+T15	morphologie 933 963	Carcinome canalaire infiltrant
+T16	differenciation 964 976	de grade III
+T17	stade 1031 1038	pT4N2M0
+T18	stade 1040 1044	IIIB
+T19	morphologie 1701 1711	métastases
+T20	topographie 1712 1720	osseuses
+T21	morphologie 2018 2027	métastase
+T22	topographie 2035 2057	hémisphère cérébelleux
+T23	morphologie 2425 2434	métastase
+T24	topographie 2467 2494	pédoncule cérébelleux moyen
+T25	morphologie 2648 2655	lésions
+T26	topographie 2671 2688	supratentorielles
+T27	morphologie 2909 2920	progression
+T28	topographie 2921 2930	cérébrale
+T29	morphologie 3063 3076	carcinomatose
+T30	topographie 3077 3085	méningée
+T31	morphologie 3208 3218	métastases

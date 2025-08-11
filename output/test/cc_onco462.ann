@@ -1,0 +1,20 @@
+T1	morphologie 526 556	carcinome canalaire infiltrant
+T2	topographie 560 564	sein
+T3	differenciation 605 617	de grade III
+T4	stade 744 754	stade IIIA
+T5	morphologie 1832 1843	progression
+T6	topographie 1844 1851	osseuse
+T7	morphologie 2038 2049	progression
+T8	topographie 2050 2057	osseuse
+T9	morphologie 3051 3062	progression
+T10	topographie 3063 3070	osseuse
+T11	morphologie 4195 4225	Carcinome canalaire infiltrant
+T12	topographie 4229 4233	sein
+T13	stade 4235 4244	Stade III
+T14	morphologie 4503 4514	Progression
+T15	topographie 4515 4522	osseuse
+T16	morphologie 4597 4608	Progression
+T17	topographie 4609 4616	osseuse
+T18	morphologie 5047 5058	Progression
+T19	topographie 5059 5066	osseuse
+T20	morphologie 8146 8162	maladie tumorale

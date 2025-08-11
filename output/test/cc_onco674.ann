@@ -1,0 +1,47 @@
+T1	morphologie 363 369	lésion
+T2	topographie 390 404	cavité buccale
+T3	morphologie 558 564	lésion
+T4	topographie 591 611	trigone rétromolaire
+T5	morphologie 1232 1237	masse
+T6	topographie 1238 1249	parahilaire
+T7	morphologie 1265 1277	adénopathies
+T8	topographie 1278 1293	pré-vasculaires
+T9	topographie 1303 1327	fenêtre aorto-pulmonaire
+T10	topographie 1331 1338	hilaire
+T11	morphologie 1358 1384	captation hypermétabolique
+T12	topographie 1421 1435	para-aortiques
+T13	topographie 1459 1473	sous-aortiques
+T14	morphologie 1488 1493	Masse
+T15	topographie 1494 1504	pulmonaire
+T16	morphologie 1505 1521	hypermétabolique
+T17	topographie 1522 1533	parahilaire
+T18	morphologie 1601 1622	Atteinte métastatique
+T19	topographie 1623 1630	osseuse
+T20	morphologie 1714 1728	adénocarcinome
+T21	topographie 1729 1739	pulmonaire
+T22	morphologie 1857 1863	lésion
+T23	topographie 1870 1884	cavité buccale
+T24	morphologie 1887 1896	métastase
+T25	morphologie 1902 1916	adénocarcinome
+T26	topographie 1919 1937	origine pulmonaire
+T27	morphologie 1951 1965	Adénocarcinome
+T28	topographie 1966 1976	pulmonaire
+T29	stade 1977 1982	E-IVB
+T30	morphologie 2243 2249	lésion
+T31	topographie 2253 2273	trigone rétromolaire
+T32	morphologie 2490 2495	masse
+T33	topographie 2496 2507	parahilaire
+T34	morphologie 2520 2532	adénopathies
+T35	morphologie 2540 2547	lésions
+T36	topographie 2548 2556	osseuses
+T37	morphologie 2723 2730	maladie
+T38	topographie 2731 2738	osseuse
+T39	morphologie 2758 2764	lésion
+T40	topographie 2772 2782	hémisacrum
+T41	morphologie 3323 3330	lésions
+T42	topographie 3331 3341	hépatiques
+T43	morphologie 3407 3413	lésion
+T44	topographie 3422 3436	cavité buccale
+T45	morphologie 3511 3518	lésions
+T46	topographie 3519 3529	hépatiques
+T47	morphologie 3572 3582	métastases

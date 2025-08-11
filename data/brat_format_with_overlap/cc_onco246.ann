@@ -1,0 +1,31 @@
+T1	morphologie 166 186	maladie métastatique
+T2	morphologie 981 986	masse
+T3	topographie 987 993	rénale
+T4	morphologie 1221 1226	masse
+T5	topographie 1227 1233	rénale
+T6	morphologie 1373 1382;1389 1407	carcinome à cellules claires
+T7	topographie 1383 1388	rénal
+T10	differenciation 1433 1451	grade 3 de Fuhrman
+T11	morphologie 1706 1713	nodules
+T12	topographie 1714 1725	pulmonaires
+T13	morphologie 1740 1761	atteinte métastatique
+T14	morphologie 2033 2039	nodule
+T15	topographie 2040 2050	pulmonaire
+T16	morphologie 2647 2653	nodule
+T17	topographie 2675 2689	lobe inférieur
+T18	morphologie 2731 2737	nodule
+T19	topographie 2746 2760	lobe supérieur
+T20	morphologie 3051 3058	nodules
+T21	morphologie 3851 3858	nodules
+T22	topographie 3859 3870	pulmonaires
+T23	morphologie 4483 4489	nodule
+T24	topographie 4508 4512	rein
+T25	morphologie 4672 4678	nodule
+T26	morphologie 4764 4773;4780 4798	carcinome à cellules claires
+T27	topographie 4774 4779	rénal
+T29	topographie 5299 5311	médiastinale
+T30	morphologie 5889 5896	nodules
+T31	topographie 5897 5908	pulmonaires
+T32	morphologie 6303 6310	nodules
+T33	topographie 6311 6322	pulmonaires
+T8	morphologie 5287 5298	adénopathie

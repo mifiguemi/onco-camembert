@@ -1,0 +1,110 @@
+T1	morphologie 642 663	carcinome épidermoïde
+T3	morphologie 1113 1133	extension à distance
+T4	expression_CIM 1154 1214	nodule pulmonaire de 8 mm de diamètre dans le lobe inférieur
+T6	morphologie 1458 1464	nodule
+T7	expression_CIM 1736 1753	nodule pulmonaire
+T8	morphologie 2049 2058	métastase
+T9	morphologie 3527 3547	dépôts métastatiques
+T10	morphologie 3612 3629	récidive tumorale
+T11	morphologie 3753 3762	Métastase
+T12	morphologie 3876 3897	Carcinome épidermoïde
+T13	morphologie 4022 4032	métastases
+T15	morphologie 4811 4832	carcinome épidermoïde
+T16	morphologie 5063 5069	tumeur
+T17	morphologie 5789 5803	lésion lytique
+T18	morphologie 5874 5883	métastase
+T19	morphologie 5969 5989	lésions infiltrantes
+T20	morphologie 6854 6871	récidive tumorale
+T21	morphologie 6915 6921	lésion
+T22	differenciation 664 680	bien différencié
+T23	expression_CIM 642 680	carcinome épidermoïde bien différencié
+T24	stade 1008 1013;987 996	N0 Mx Stade pT2
+T2	expression_CIM 1113 1133	extension à distance
+T25	morphologie 1154 1160	nodule
+T26	topographie 1161 1171	pulmonaire
+T27	topographie 1200 1214	lobe inférieur
+T28	morphologie 1228 1234	nodule
+T29	topographie 1235 1249	sous-carénaire
+T30	expression_CIM 1228 1249	nodule sous-carénaire
+T31	morphologie 1283 1294	adénopathie
+T32	expression_CIM 1283 1294	adénopathie
+T5	topographie 1465 1493	pulmonaire du lobe inférieur
+T33	expression_CIM 1458 1493	nodule pulmonaire du lobe inférieur
+T34	morphologie 1508 1524	lymphadénopathie
+T35	topographie 1525 1537	subcarinaire
+T36	topographie 1541 1555	péribronchique
+T37	expression_CIM 1508 1555	lymphadénopathie subcarinaire et péribronchique
+T38	morphologie 1736 1742	nodule
+T39	topographie 1743 1753	pulmonaire
+T40	morphologie 1950 1956	nodule
+T41	topographie 1960 1974	lobe inférieur
+T42	expression_CIM 1950 1974	nodule du lobe inférieur
+T43	morphologie 2064 2085	carcinome épidermoïde
+T44	expression_CIM 2049 2058	métastase
+T45	topographie 2092 2097	vulve
+T46	expression_CIM 2064 2097	carcinome épidermoïde de la vulve
+T47	morphologie 2218 2223	masse
+T48	topographie 2224 2233	cervicale
+T49	expression_CIM 2218 2233	masse cervicale
+T50	morphologie 2237 2248	adénopathie
+T51	expression_CIM 2237 2248	adénopathie
+T52	morphologie 2280 2285	masse
+T53	topographie 2314 2323	clavicule
+T54	expression_CIM 2280 2323	masse dans le tiers interne de la clavicule
+T55	morphologie 3274 3280	masses
+T56	expression_CIM 3274 3280	masses
+T57	morphologie 3302 3318	lymphadénopathie
+T58	topographie 3319 3331	médiastinale
+T59	expression_CIM 3302 3331	lymphadénopathie médiastinale
+T60	morphologie 3052 3057	Masse
+T61	topographie 3091 3109	bronche principale
+T62	expression_CIM 3052 3109	Masse de tissu mou à l'intérieur de la bronche principale
+T63	morphologie 3341 3353	adénopathies
+T64	topographie 3354 3367	mésentériques
+T65	topographie 3371 3388	rétropéritonéales
+T66	expression_CIM 3341 3388	adénopathies mésentériques et rétropéritonéales
+T67	expression_CIM 3527 3547	dépôts métastatiques
+T68	morphologie 3497 3504	lésions
+T69	topographie 3505 3513	osseuses
+T70	expression_CIM 3497 3513	lésions osseuses
+T71	topographie 3640 3648	périnéal
+T72	topographie 3650 3660	bronchique
+T73	topographie 3664 3675	médiastinal
+T74	expression_CIM 3612 3675	récidive tumorale au niveau périnéal, bronchique et médiastinal
+T75	topographie 3763 3783	osseuse claviculaire
+T76	expression_CIM 3753 3783	Métastase osseuse claviculaire
+T77	morphologie 3841 3846	masse
+T78	topographie 3851 3862	tissus mous
+T79	expression_CIM 3841 3862	masse des tissus mous
+T80	topographie 3904 3909	vulve
+T81	stade 3913 3921	stade IV
+T82	expression_CIM 3876 3921	Carcinome épidermoïde de la vulve au stade IV
+T83	morphologie 3923 3933	métastases
+T84	topographie 3934 3942	osseuses
+T85	topographie 3946 3957	pulmonaires
+T86	expression_CIM 3923 3957	métastases osseuses et pulmonaires
+T87	topographie 4033 4048	endobronchiques
+T88	expression_CIM 4022 4048	métastases endobronchiques
+T89	morphologie 4590 4595	masse
+T90	topographie 4596 4610	endobronchique
+T91	expression_CIM 4590 4610	masse endobronchique
+T14	topographie 4795 4805	bronchique
+T92	expression_CIM 4795 4832	bronchique avec carcinome épidermoïde
+T93	expression_CIM 5063 5069	tumeur
+T94	morphologie 5597 5602	masse
+T95	topographie 5656 5665	clavicule
+T96	expression_CIM 5597 5665	masse à croissance rapide au niveau du tiers interne de la clavicule
+T97	expression_CIM 5874 5883	métastase
+T98	topographie 5837 5846	clavicule
+T99	expression_CIM 5789 5846	lésion lytique au niveau du tiers interne de la clavicule
+T100	topographie 6006 6015	clavicule
+T101	topographie 6022 6028	radius
+T102	expression_CIM 5969 6028	lésions infiltrantes au niveau de la clavicule et du radius
+T103	expression_CIM 6854 6892	récidive tumorale au niveau du périnée
+T104	topographie 6885 6892	périnée
+T105	topographie 6922 6942	osseuse claviculaire
+T106	expression_CIM 6915 6942	lésion osseuse claviculaire
+T107	morphologie 6972 6977	masse
+T108	topographie 7005 7011	épaule
+T109	topographie 7020 7030	avant-bras
+T110	expression_CIM 6972 7030	masse douloureuse au niveau de l'épaule et de l'avant-bras

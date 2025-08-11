@@ -1,0 +1,34 @@
+T1	morphologie 90 96	tumeur
+T2	morphologie 157 177	maladie métastatique
+T6	morphologie 2047 2067	maladie métastatique
+T7	morphologie 2307 2337	carcinome canalaire infiltrant
+T8	morphologie 2398 2428	Carcinome canalaire infiltrant
+T9	morphologie 2479 2489	métastases
+T10	morphologie 2618 2648	carcinome canalaire infiltrant
+T11	stade 2724 2740	stade cT3 cN1 M1
+T12	morphologie 2758 2783	maladie oligométastatique
+T13	morphologie 3369 3399	carcinome canalaire infiltrant
+T14	morphologie 3886 3897	progression
+T15	morphologie 4551 4563	infiltration
+T16	morphologie 4667 4697	carcinome canalaire infiltrant
+T17	morphologie 5206 5217	progression
+T18	topographie 97 105	mammaire
+T19	stade 131 139	stade IV
+T20	topographie 178 185	osseuse
+T3	topographie 2341 2345	sein
+T21	topographie 2509 2511	os
+T22	topographie 2515 2524	hypophyse
+T23	topographie 2529 2550	musculature orbitaire
+T24	topographie 2555 2564	dure-mère
+T25	topographie 2571 2585	moelle osseuse
+T26	topographie 2442 2446	sein
+T27	stade 2460 2468	stade IV
+T29	topographie 2652 2656	sein
+T30	topographie 3403 3407	sein
+T31	topographie 2794 2800	osseux
+T4	topographie 3898 3905	osseuse
+T5	topographie 4570 4584	moelle osseuse
+T28	topographie 4701 4705	sein
+T36	topographie 5228 5234	osseux
+T37	topographie 5238 5246	cérébral
+T35	morphologie 504 515	adénopathie

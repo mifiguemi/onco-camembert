@@ -1,0 +1,32 @@
+T1	morphologie 3772 3784	néoformation
+T2	morphologie 3859 3880	implantation tumorale
+T3	stade 3906 3914	T2bN2M1b
+T4	morphologie 4163 4172	métastase
+T5	morphologie 4874 4881	implant
+T7	morphologie 5061 5089	carcinome à grandes cellules
+T8	morphologie 5280 5289	métastase
+T9	morphologie 5304 5313;5325 5343	Carcinome à grandes cellules
+T10	morphologie 8543 8552	métastase
+T12	topographie 3785 3806	pulmonaire inférieure
+T13	morphologie 3829 3841	adénopathies
+T14	topographie 3842 3855	médiastinales
+T15	topographie 3881 3897	rétropéritonéale
+T16	topographie 4882 4892	péritonéal
+T6	morphologie 5120 5127	lésions
+T17	topographie 5145 5171	hémisphère cérébral gauche
+T18	stade 5347 5355	stade IV
+T19	stade 5357 5367	T2B N3 M1B
+T11	expression_CIM 3772 3806	néoformation pulmonaire inférieure
+T20	expression_CIM 3829 3855	adénopathies médiastinales
+T21	expression_CIM 3859 3897	implantation tumorale rétropéritonéale
+T22	expression_CIM 4163 4172	métastase
+T23	expression_CIM 4874 4892	implant péritonéal
+T24	expression_CIM 5061 5089	carcinome à grandes cellules
+T25	expression_CIM 5120 5171	lésions multiples dans l'hémisphère cérébral gauche
+T26	expression_CIM 5280 5289	métastase
+T27	topographie 5314 5324	pulmonaire
+T28	expression_CIM 5304 5343	Carcinome pulmonaire à grandes cellules
+T29	expression_CIM 8543 8552	métastase
+T30	morphologie 7325 7332	lésions
+T31	topographie 7333 7344	occipitales
+T32	expression_CIM 7325 7344	lésions occipitales

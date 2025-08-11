@@ -1,0 +1,74 @@
+T1	morphologie 676 682	masses
+T2	morphologie 1009 1021	adénopathies
+T3	morphologie 1432 1437	masse
+T4	topographie 1473 1477	rein
+T5	morphologie 1544 1549	masse
+T6	topographie 1580 1584	rein
+T7	morphologie 1613 1620	Lésions
+T8	topographie 1621 1631	hépatiques
+T9	morphologie 1661 1670	métastase
+T10	topographie 1705 1709	dôme
+T11	morphologie 1740 1745	masse
+T12	topographie 1746 1762	rétropéritonéale
+T13	morphologie 1805 1838	tumeur maligne à petites cellules
+T14	morphologie 1958 1992	tumeur neuroectodermique primitive
+T15	topographie 1993 2010	extrasquelettique
+T16	morphologie 2012 2016	PNET
+T17	morphologie 2484 2489	masse
+T18	topographie 2490 2507	rétro-péritonéale
+T19	morphologie 2650 2657	lésions
+T20	topographie 2658 2668	hépatiques
+T21	morphologie 2692 2698	lésion
+T22	morphologie 2719 2734	Lésion kystique
+T23	topographie 2759 2763	rate
+T24	morphologie 2829 2834	masse
+T25	topographie 2841 2848	uretère
+T26	morphologie 2909 2916	lésions
+T27	morphologie 2949 2959	métastases
+T28	topographie 2960 2968	osseuses
+T29	topographie 2970 2986	corps vertébraux
+T30	topographie 2990 2996	bassin
+T31	morphologie 3089 3124	augmentation de la captation focale
+T32	morphologie 3277 3287	métastases
+T33	topographie 3288 3296	osseuses
+T34	morphologie 3695 3709	tumeur maligne
+T35	morphologie 3730 3734	PNET
+T36	morphologie 4016 4020	PNET
+T37	morphologie 4051 4057	Tumeur
+T38	differenciation 4058 4072	indifférenciée
+T39	morphologie 4073 4091	à petites cellules
+T40	morphologie 4102 4106	PNET
+T41	topographie 4107 4124	extrasquelettique
+T42	stade 4128 4136	stade IV
+T43	morphologie 4138 4148	métastases
+T44	topographie 4149 4157	osseuses
+T45	topographie 4161 4171	hépatiques
+T46	morphologie 4183 4195	infiltration
+T47	topographie 4202 4216	moelle osseuse
+T48	morphologie 4218 4223	masse
+T49	topographie 4224 4240	rétropéritonéale
+T50	morphologie 4907 4912	Masse
+T51	topographie 4913 4929	rétropéritonéale
+T52	morphologie 5195 5216	Atteinte métastatique
+T53	topographie 5238 5253	squelette axial
+T54	morphologie 5570 5597	foyer d'hyperenrichissement
+T55	morphologie 5978 5982	PNET
+T56	topographie 5983 5998	rétropéritonéal
+T57	stade 6002 6010	stade IV
+T58	morphologie 6608 6613	masse
+T59	topographie 6614 6630	rétropéritonéale
+T60	morphologie 6730 6740	Métastases
+T61	topographie 6741 6751	blastiques
+T62	morphologie 7227 7252	processus néoprolifératif
+T63	stade 7372 7380	stade IV
+T64	morphologie 7431 7436	masse
+T65	topographie 7437 7453	rétropéritonéale
+T66	morphologie 7524 7529	masse
+T67	morphologie 7672 7677	masse
+T68	morphologie 7798 7813	tératome mature
+T69	morphologie 8148 8159	adénopathie
+T70	topographie 8168 8187	bifurcation iliaque
+T71	morphologie 8224 8231	lésions
+T72	topographie 8232 8240	osseuses
+T73	topographie 8250 8266	corps vertébraux
+T74	topographie 8273 8279	bassin

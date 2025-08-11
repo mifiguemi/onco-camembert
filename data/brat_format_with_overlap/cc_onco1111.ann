@@ -1,0 +1,33 @@
+T1	morphologie 2266 2274	lymphome
+T2	morphologie 2608 2636	processus lymphoprolifératif
+T4	morphologie 3327 3355	processus lymphoprolifératif
+T5	morphologie 3383 3427	lymphome B non hodgkinien à grandes cellules
+T7	morphologie 3790 3800	lymphome B
+T9	morphologie 4057 4101	Lymphome B non hodgkinien à grandes cellules
+T11	morphologie 6635 6671	lymphome diffus à grandes cellules B
+T12	morphologie 2224 2246	faisceau adénopathique
+T13	topographie 2247 2258	parahilaire
+T14	expression_CIM 2224 2258	faisceau adénopathique parahilaire
+T15	expression_CIM 2266 2274	lymphome
+T16	morphologie 2380 2385	Masse
+T17	topographie 2394 2413	médiastin supérieur
+T18	expression_CIM 2380 2413	Masse dans le médiastin supérieur
+T19	expression_CIM 2608 2636	processus lymphoprolifératif
+T20	morphologie 2730 2752	masse hypermétabolique
+T21	topographie 2761 2794	médiastin antérieur et supérieur,
+T22	expression_CIM 2730 2793	masse hypermétabolique dans le médiastin antérieur et supérieur
+T3	morphologie 3074 3085	Adénopathie
+T23	topographie 3086 3103	para-œsophagienne
+T24	expression_CIM 3074 3103	Adénopathie para-œsophagienne
+T25	expression_CIM 3327 3355	processus lymphoprolifératif
+T26	expression_CIM 3383 3427	lymphome B non hodgkinien à grandes cellules
+T6	topographie 3801 3812	médiastinal
+T27	expression_CIM 3790 3812	lymphome B médiastinal
+T8	expression_CIM 4057 4101	Lymphome B non hodgkinien à grandes cellules
+T10	morphologie 5618 5630	adénopathies
+T28	topographie 5589 5598	aisselles
+T29	expression_CIM 5589 5630	aisselles, il y a de petites adénopathies
+T30	morphologie 5418 5423	masse
+T31	topographie 5424 5436	médiastinale
+T32	expression_CIM 5418 5436	masse médiastinale
+T33	expression_CIM 6635 6671	lymphome diffus à grandes cellules B

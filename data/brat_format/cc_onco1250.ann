@@ -1,0 +1,17 @@
+T1	morphologie 2709 2715	Tumeur
+T2	morphologie 2897 2903	tumeur
+T4	morphologie 3913 3919	tumeur
+T5	morphologie 5726 5742	maladie tumorale
+T6	morphologie 1528 1533	masse
+T7	topographie 1528 1533	masse
+T8	morphologie 2008 2013	masse
+T9	topographie 2136 2156	région hypogastrique
+T11	topographie 2721 2727	urètre
+T13	morphologie 2466 2471	masse
+T14	topographie 2449 2459	hypogastre
+T16	topographie 2910 2916	vessie
+T18	morphologie 3235 3258	adénocarcinome mucineux
+T19	topographie 3264 3270	utérus
+T21	morphologie 4661 4677	lymphadénopathie
+T22	topographie 4678 4694	rétropéritonéale
+T23	topographie 4709 4724	interaorto-cave

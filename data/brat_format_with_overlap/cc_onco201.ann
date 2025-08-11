@@ -1,0 +1,28 @@
+T1	morphologie 583 597	adénocarcinome
+T2	topographie 598 608	pulmonaire
+T4	stade 618 625	pT3N2M0
+T5	morphologie 1003 1009	tumeur
+T6	topographie 1010 1020	pulmonaire
+T7	morphologie 1284 1290	tumeur
+T8	morphologie 1433 1441	atteinte
+T9	topographie 1442 1449	hilaire
+T10	topographie 1458 1482	ganglionnaire thoracique
+T11	topographie 1486 1503	supraclaviculaire
+T12	topographie 1504 1519	latérocervicale
+T13	morphologie 1755 1766	conglomérat
+T14	topographie 1767 1781	latérocervical
+T15	morphologie 2073 2078	masse
+T16	topographie 2079 2095	latéro-cervicale
+T17	morphologie 2664 2669	Masse
+T18	topographie 2670 2686	latéro-cervicale
+T19	morphologie 2812 2823	Adénopathie
+T20	topographie 2824 2833	axillaire
+T21	morphologie 3317 3322	masse
+T22	topographie 3323 3339	latéro-cervicale
+T23	morphologie 3565 3570	masse
+T24	topographie 3571 3584	supra-hilaire
+T25	morphologie 3612 3619	nodules
+T26	topographie 3620 3631	pulmonaires
+T27	morphologie 3733 3747	Adénocarcinome
+T28	topographie 3748 3758	pulmonaire
+T29	stade 3762 3770	stade IV

@@ -1,0 +1,45 @@
+T1	morphologie 192 222	carcinome canalaire infiltrant
+T2	morphologie 224 227	CDI
+T3	topographie 232 236	sein
+T4	stade 253 263	stade IIIC
+T5	stade 265 271	T2N3M0
+T6	morphologie 870 873	IDC
+T7	stade 885 892	pT1cpN0
+T8	morphologie 1343 1349	tumeur
+T9	morphologie 1381 1393	adénopathies
+T10	topographie 1394 1404	axillaires
+T11	topographie 1408 1425	sus-claviculaires
+T12	morphologie 1809 1816	lésions
+T13	topographie 1817 1827	cérébrales
+T14	morphologie 1849 1858	métastase
+T15	topographie 1886 1895	pariétale
+T16	topographie 1914 1926	cérébelleuse
+T17	morphologie 1963 1970	lésions
+T18	topographie 1971 1981	cérébrales
+T19	morphologie 2093 2099	tumeur
+T20	morphologie 2129 2137	récidive
+T21	topographie 2138 2147	cérébrale
+T22	morphologie 2202 2232	carcinome canalaire infiltrant
+T23	topographie 2236 2240	sein
+T24	differenciation 2248 2258	de grade 3
+T25	morphologie 2476 2482	cancer
+T26	topographie 2486 2490	sein
+T27	morphologie 2509 2519	métastases
+T28	topographie 2520 2530	cérébrales
+T29	morphologie 3018 3028	métastases
+T30	morphologie 3133 3143	métastases
+T31	topographie 3144 3154	cérébrales
+T32	morphologie 3502 3508	lésion
+T33	topographie 3509 3521	cérébelleuse
+T34	morphologie 3715 3721	lésion
+T35	morphologie 4048 4054	lésion
+T36	topographie 4055 4064	pariétale
+T37	morphologie 4155 4161	lésion
+T38	topographie 4162 4174	cérébelleuse
+T39	morphologie 4277 4283	lésion
+T40	morphologie 4324 4335	progression
+T41	topographie 4336 4345	cérébrale
+T42	topographie 1362 1366	sein
+T43	morphologie 3336 3343	lésions
+T44	topographie 2968 2977	cérébrale
+T45	topographie 3244 3253	cérébrale

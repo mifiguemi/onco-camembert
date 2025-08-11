@@ -1,0 +1,31 @@
+T1	morphologie 201 209	mélanome
+T2	stade 284 292	pT3aN0M0
+T3	morphologie 423 429	lésion
+T4	topographie 517 532	région lombaire
+T5	morphologie 1035 1049	lésion maligne
+T6	topographie 1058 1080	région sous-scapulaire
+T7	morphologie 1145 1151	lésion
+T8	topographie 1170 1185	région lombaire
+T9	morphologie 1328 1337	métastase
+T10	morphologie 1356 1364	mélanome
+T11	morphologie 1439 1449	métastases
+T12	topographie 1459 1476	vésicule biliaire
+T13	morphologie 1482 1490	implants
+T14	topographie 1491 1502	péritonéaux
+T15	topographie 1508 1534	ganglions rétropéritonéaux
+T17	morphologie 1674 1682	mélanome
+T18	stade 1705 1717	métastatique
+T19	morphologie 1831 1839	mélanome
+T20	morphologie 2251 2257	nodule
+T21	topographie 2258 2289	péritonéal sous-diaphragmatique
+T22	morphologie 2319 2329	métastases
+T23	topographie 2330 2342	vésiculaires
+T24	topographie 2344 2352	cutanées
+T25	topographie 2356 2370	ganglionnaires
+T26	morphologie 3013 3019	lésion
+T16	stade 1840 1852	métastatique
+T28	morphologie 2876 2882	lésion
+T29	topographie 2890 2900	palais mou
+T30	topographie 2938 2945	lingual
+T27	topographie 3039 3046	clivage
+T31	topographie 253 268	sous-scapulaire

@@ -1,0 +1,18 @@
+T1	morphologie 1036 1043	lésions
+T2	morphologie 1279 1293	adénocarcinome
+T3	morphologie 1452 1466	adénocarcinome
+T5	morphologie 2245 2252	lésions
+T7	morphologie 2731 2738	tumeurs
+T8	morphologie 2879 2888	néoplasie
+T9	morphologie 2958 2964	tumeur
+T10	topographie 1044 1054	hépatiques
+T11	morphologie 916 921	masse
+T12	topographie 922 950	pulmonaire du lobe inférieur
+T13	topographie 1304 1314	pulmonaire
+T14	topographie 1467 1477	pulmonaire
+T15	topographie 1503 1512	hépatique
+T16	topographie 2253 2263	hépatiques
+T17	topographie 2889 2899	pulmonaire
+T4	morphologie 1500 1502	M1
+T24	morphologie 2494 2508	adénocarcinome
+T25	differenciation 2509 2524	peu différencié

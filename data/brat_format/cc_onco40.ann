@@ -1,0 +1,17 @@
+T1	morphologie 207 237	carcinome canalaire infiltrant
+T2	topographie 251 255	sein
+T3	differenciation 263 298	grade histologique II de Nottingham
+T4	morphologie 373 383	métastases
+T5	topographie 384 394	hépatiques
+T6	topographie 398 406	osseuses
+T7	stade 443 451	stade IV
+T8	morphologie 1027 1038	progression
+T9	topographie 1039 1048	hépatique
+T10	morphologie 1177 1188	progression
+T11	topographie 1189 1196	osseuse
+T12	topographie 1198 1207	hépatique
+T13	topographie 1211 1223	cérébelleuse
+T14	morphologie 1225 1231	lésion
+T15	topographie 1254 1264	hémisphère
+T16	morphologie 1652 1658	lésion
+T17	topographie 1659 1671	cérébelleuse

@@ -1,0 +1,55 @@
+T1	morphologie 95 120	microcarcinome papillaire
+T2	morphologie 1186 1192	lésion
+T3	topographie 1193 1230	supratentorielle paramédiane frontale
+T4	morphologie 1511 1517	lésion
+T5	topographie 1526 1534	cervelet
+T6	morphologie 1596 1602	lésion
+T7	topographie 1610 1620	hémithorax
+T8	morphologie 1798 1803	masse
+T9	topographie 1804 1822	pulmonaire dans la
+T10	topographie 1823 1830	lingula
+T11	morphologie 1840 1849	extension
+T12	topographie 1850 1857	hilaire
+T13	morphologie 1863 1870	nodules
+T14	topographie 1871 1882	pulmonaires
+T15	morphologie 1901 1913	adénopathies
+T16	topographie 1946 1966	région paratrachéale
+T17	morphologie 2062 2067	masse
+T18	topographie 2076 2090	lobe supérieur
+T19	topographie 2099 2102	LSI
+T20	morphologie 2111 2127	lymphadénopathie
+T21	topographie 2128 2141	paratrachéale
+T22	morphologie 2190 2204	adénocarcinome
+T23	morphologie 2298 2312	adénocarcinome
+T24	topographie 2313 2323	pulmonaire
+T25	stade 2324 2335	cT2b N3 M1b
+T26	stade 2337 2345	stade IV
+T27	stade 2346 2352	TNM 8e
+T28	morphologie 2376 2384	atteinte
+T29	topographie 2399 2406	cerveau
+T30	topographie 2414 2421	poumons
+T31	morphologie 2587 2595	atteinte
+T32	topographie 2624 2627	SNC
+T33	morphologie 2828 2834	lésion
+T34	topographie 2835 2847	cérébelleuse
+T35	morphologie 2946 2952	lésion
+T36	topographie 2953 2961	frontale
+T37	morphologie 3470 3494	progression radiologique
+T38	topographie 3512 3522	pulmonaire
+T39	morphologie 3723 3737	adénocarcinome
+T40	topographie 3738 3748	pulmonaire
+T41	morphologie 4019 4030	progression
+T42	topographie 4055 4062	poumons
+T43	morphologie 4072 4080	atteinte
+T44	topographie 4091 4094	SNC
+T45	morphologie 4441 4452	progression
+T46	topographie 4453 4463	systémique
+T47	morphologie 4803 4831	carcinome à petites cellules
+T48	morphologie 4894 4900	tumeur
+T49	morphologie 5076 5087	progression
+T50	topographie 5101 5104	SNC
+T51	morphologie 5465 5479	adénocarcinome
+T52	topographie 5480 5490	pulmonaire
+T53	morphologie 5886 5895	néoplasie
+T54	morphologie 5914 5942	carcinome à petites cellules
+T55	morphologie 5948 5962	adénocarcinome

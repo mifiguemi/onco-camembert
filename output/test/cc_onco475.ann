@@ -1,0 +1,40 @@
+T1	morphologie 407 423	lymphadénopathie
+T2	topographie 433 448	latérocervicale
+T3	topographie 450 465	submandibulaire
+T4	topographie 467 493	supra ou infraclaviculaire
+T5	topographie 495 504	axillaire
+T6	topographie 508 517	inguinale
+T7	morphologie 657 663	masses
+T8	morphologie 1177 1194	tumeur carcinoïde
+T9	topographie 1211 1226	anses jéjunales
+T10	morphologie 1289 1299	métastases
+T11	topographie 1300 1310	hépatiques
+T12	morphologie 1462 1488	dissémination métastatique
+T13	topographie 1489 1498	hépatique
+T14	morphologie 1505 1511	lésion
+T15	topographie 1512 1522	abdominale
+T16	morphologie 1586 1592	tumeur
+T17	topographie 1593 1601	jéjunale
+T18	topographie 1745 1749	foie
+T19	morphologie 1752 1761	métastase
+T20	morphologie 1768 1771	TNE
+T21	differenciation 1772 1789	bien différenciée
+T22	differenciation 1790 1800	de grade 1
+T23	morphologie 1958 1979	Tumeur neuroendocrine
+T24	topographie 1980 1992	iléojéjunale
+T25	differenciation 1993 2010	bien différenciée
+T26	differenciation 2011 2021	de grade 1
+T27	morphologie 2041 2062	atteinte métastatique
+T28	topographie 2075 2094	segments hépatiques
+T29	morphologie 2269 2284	tumeur primaire
+T30	stade 2348 2356	p T3, N1
+T31	stade 2363 2369	Pn1 R0
+T32	morphologie 2432 2449	atteinte tumorale
+T33	morphologie 3235 3241	tumeur
+T34	topographie 3242 3251	hépatique
+T35	morphologie 3286 3296	métastases
+T36	morphologie 3335 3345	métastases
+T37	morphologie 3373 3380	lésions
+T38	topographie 3381 3391	viscérales
+T39	morphologie 3574 3584	métastases
+T40	topographie 3585 3595	hépatiques

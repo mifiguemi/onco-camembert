@@ -1,0 +1,34 @@
+T1	morphologie 128 154	histiocytome fibreux malin
+T2	morphologie 808 837	maladie secondaire à distance
+T3	morphologie 874 900	histiocytome fibreux malin
+T4	morphologie 945 971	Histiocytome fibreux malin
+T5	expression_CIM 1440 1471	récidive au niveau de l'abdomen
+T6	morphologie 1641 1678	histiocytome fibreux pléomorphe malin
+T7	expression_CIM 1812 1897	récidive a été détectée au niveau rétrocéphalique et dans la graisse rétropéritonéale
+T8	morphologie 1981 2018	histiocytome fibreux pléomorphe malin
+T9	expression_CIM 2111 2153	progression au niveau pleural et pararénal
+T10	expression_CIM 128 197	histiocytome fibreux malin dans le tiers proximal du membre supérieur
+T11	topographie 181 197	membre supérieur
+T12	morphologie 317 322	masse
+T13	topographie 405 409	bras
+T14	expression_CIM 317 409	masse de 20 x 20 cm, en zone pédiculée, dans la région postérieure du tiers proximal du bras
+T15	morphologie 488 493	masse
+T16	topographie 528 544	membre supérieur
+T17	expression_CIM 488 544	masse de tissu mou est détectée dans le membre supérieur
+T18	expression_CIM 808 837	maladie secondaire à distance
+T19	expression_CIM 874 900	histiocytome fibreux malin
+T20	expression_CIM 945 971	Histiocytome fibreux malin
+T21	stade 973 982	stade III
+T22	morphologie 1440 1448	récidive
+T23	topographie 1464 1471	abdomen
+T24	morphologie 1188 1193	masse
+T25	topographie 1229 1245	membre supérieur
+T26	expression_CIM 1188 1245	masse dans le compartiment postérieur du membre supérieur
+T27	expression_CIM 1641 1678	histiocytome fibreux pléomorphe malin
+T28	morphologie 1812 1820	récidive
+T29	topographie 1846 1861	rétrocéphalique
+T30	topographie 1873 1897	graisse rétropéritonéale
+T31	expression_CIM 1981 2018	histiocytome fibreux pléomorphe malin
+T32	morphologie 2111 2122	progression
+T33	topographie 2133 2140	pleural
+T34	topographie 2144 2153	pararénal

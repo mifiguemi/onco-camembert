@@ -1,0 +1,30 @@
+T1	morphologie 40 46	tumeur
+T2	morphologie 112 118	cancer
+T3	morphologie 153 162	néoplasie
+T4	morphologie 210 219	néoplasie
+T5	morphologie 926 951	progression de la maladie
+T6	expression_CIM 1664 1689	lésion temporo-occipitale
+T7	morphologie 2639 2660	Esthésioneuroblastome
+T8	topographie 53 62	surrénale
+T9	expression_CIM 40 62	tumeur de la surrénale
+T10	topographie 122 130	pancréas
+T11	expression_CIM 112 130	cancer du pancréas
+T12	topographie 163 170	rectale
+T13	expression_CIM 153 170	néoplasie rectale
+T14	topographie 223 227	sein
+T15	expression_CIM 210 227	néoplasie du sein
+T16	stade 237 245	stade IV
+T17	morphologie 247 255	atteinte
+T18	topographie 256 263	osseuse
+T19	expression_CIM 247 263	atteinte osseuse
+T20	topographie 960 963	SNC
+T21	expression_CIM 926 963	progression de la maladie dans le SNC
+T22	morphologie 1664 1670	lésion
+T23	topographie 1671 1689	temporo-occipitale
+T24	morphologie 2238 2243	masse
+T25	topographie 2244 2261	sphéno-ethmoïdale
+T26	expression_CIM 2238 2261	masse sphéno-ethmoïdale
+T27	morphologie 2482 2488	lésion
+T28	expression_CIM 2482 2488	lésion
+T29	expression_CIM 2639 2660	Esthésioneuroblastome
+T30	stade 2662 2679	stade D de Kadish

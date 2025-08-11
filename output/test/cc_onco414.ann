@@ -1,0 +1,26 @@
+T1	morphologie 795 807	adénopathies
+T2	morphologie 1682 1692	métastases
+T3	topographie 1693 1704	pulmonaires
+T4	morphologie 1825 1832	Lésions
+T5	topographie 1833 1843	hépatiques
+T6	morphologie 1879 1890	hémangiomes
+T7	morphologie 2064 2071	lésions
+T8	topographie 2072 2082	hépatiques
+T9	morphologie 2109 2120	hémangiomes
+T10	morphologie 2484 2490	lésion
+T11	topographie 2491 2503	endométriale
+T12	morphologie 2523 2537	foyer primaire
+T13	morphologie 2541 2564	maladie trophoblastique
+T14	morphologie 2578 2618	Néoplasie trophoblastique gestationnelle
+T15	stade 2622 2631	stade III
+T16	morphologie 2649 2657	atteinte
+T17	topographie 2658 2668	pulmonaire
+T18	morphologie 3130 3140	métastases
+T19	topographie 3141 3152	pulmonaires
+T20	morphologie 3180 3190	métastases
+T21	topographie 3191 3202	pulmonaires
+T22	morphologie 3273 3313	néoplasie trophoblastique gestationnelle
+T23	stade 3331 3348	stade III-score 9
+T24	morphologie 3732 3747	choriocarcinome
+T25	morphologie 4981 4988	lésions
+T26	topographie 4989 5000	pulmonaires

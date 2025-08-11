@@ -1,0 +1,20 @@
+T1	morphologie 90 96	tumeur
+T2	morphologie 261 290	sarcome à cellules fusiformes
+T3	morphologie 310 324	léiomyosarcome
+T5	morphologie 1045 1055	Métastases
+T7	morphologie 2149 2155	tumeur
+T9	morphologie 2309 2338	sarcome à cellules fusiformes
+T10	topographie 100 109	testicule
+T12	morphologie 187 194	nodules
+T13	topographie 225 243	cordon spermatique
+T17	morphologie 513 519	nodule
+T18	topographie 520 530	pulmonaire
+T19	morphologie 776 783	nodules
+T20	topographie 784 791	apicaux
+T22	morphologie 893 900	nodules
+T23	topographie 925 938	champs basaux
+T25	topographie 859 866	lingula
+T26	topographie 1056 1067	pulmonaires
+T28	morphologie 1073 1087	léiomyosarcome
+T29	topographie 1091 1109	cordon spermatique
+T6	topographie 2188 2198	hémilengue

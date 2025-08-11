@@ -1,0 +1,19 @@
+T1	morphologie 179 185	nodule
+T2	topographie 186 196	thyroïdien
+T3	morphologie 1360 1377	adénome tubulaire
+T4	morphologie 1400 1412	adénopathies
+T5	morphologie 1470 1482	adénopathies
+T6	topographie 1483 1498	sous-carénaires
+T7	morphologie 1862 1873	adénopathie
+T8	topographie 1874 1887	sous-carénale
+T9	morphologie 1934 1962	carcinome à petites cellules
+T10	morphologie 2198 2209	adénopathie
+T11	topographie 2210 2224	sous-carcinale
+T12	morphologie 2380 2389;2401 2419	Carcinome à petites cellules
+T13	topographie 2390 2400	pulmonaire
+T15	stade 2421 2428	cTxN2M0
+T16	morphologie 821 826	masse
+T17	topographie 1426 1430	hile
+T18	topographie 1443 1460	lobaire inférieur
+T19	morphologie 2159 2173	prise anormale
+T20	topographie 2182 2186	hile

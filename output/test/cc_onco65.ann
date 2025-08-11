@@ -1,0 +1,30 @@
+T1	morphologie 108 138	carcinome lobulaire infiltrant
+T2	topographie 142 146	sein
+T3	stade 155 161	T2N1M0
+T4	morphologie 869 884	récidive locale
+T5	morphologie 1501 1517	lymphadénopathie
+T6	topographie 1518 1531	paratrachéale
+T7	morphologie 1540 1546	nodule
+T8	topographie 1577 1591	lobe hépatique
+T9	morphologie 1601 1617	lymphadénopathie
+T10	topographie 1618 1634	rétropéritonéale
+T11	morphologie 1648 1662	Rechute locale
+T12	morphologie 1664 1686	ganglions lymphatiques
+T13	topographie 1687 1700	paratrachéaux
+T14	topographie 1702 1718	rétropéritonéaux
+T15	topographie 1722 1732	hépatiques
+T16	morphologie 1749 1768	carcinome lobulaire
+T17	topographie 1772 1776	sein
+T18	morphologie 1896 1903	maladie
+T19	topographie 1904 1911	osseuse
+T20	morphologie 1912 1924	métastatique
+T21	morphologie 1928 1938	pathologie
+T22	morphologie 1992 1999	rechute
+T23	morphologie 2011 2033	ganglions lymphatiques
+T24	topographie 2034 2047	paratrachéaux
+T25	topographie 2049 2065	rétropéritonéaux
+T26	topographie 2069 2079	hépatiques
+T27	morphologie 2098 2101	CLI
+T28	topographie 2102 2110	mammaire
+T29	morphologie 2621 2629	atteinte
+T30	topographie 2630 2637	osseuse

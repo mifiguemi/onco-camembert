@@ -1,0 +1,16 @@
+T1	morphologie 567 573	lésion
+T2	morphologie 759 765	lésion
+T3	topographie 766 775	hépatique
+T4	morphologie 905 911	lésion
+T5	topographie 925 956	canal biliaire commun hépatique
+T6	morphologie 1099 1113	adénocarcinome
+T7	morphologie 1201 1219	maladie à distance
+T8	morphologie 1233 1251	Cholangiocarcinome
+T9	topographie 1252 1266	extrahépatique
+T10	stade 1267 1284	localement avancé
+T11	morphologie 1432 1438	lésion
+T12	morphologie 1535 1553	cholangiocarcinome
+T13	topographie 1554 1568	extrahépatique
+T14	morphologie 2286 2292	lésion
+T15	morphologie 3381 3398	récidive tumorale
+T16	morphologie 3434 3451	récidive tumorale

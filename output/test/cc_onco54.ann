@@ -1,0 +1,13 @@
+T1	morphologie 326 340	adénocarcinome
+T2	topographie 344 350	rectum
+T3	stade 377 383	cT4N1b
+T4	morphologie 390 403	dissémination
+T5	topographie 404 413	hépatique
+T6	morphologie 446 459	dissémination
+T7	topographie 460 470	pulmonaire
+T8	stade 481 489	stade IV
+T9	morphologie 871 878	lésions
+T10	topographie 879 889	hépatiques
+T11	topographie 893 904	pulmonaires
+T12	morphologie 2432 2456	atteinte parenchymateuse
+T13	morphologie 4888 4896	atteinte

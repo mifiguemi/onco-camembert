@@ -1,0 +1,9 @@
+# ignore model binaries and weights
+models/
+
+.DS_Store
+.env/
+
+# */checkpoint-*/
+**/checkpoint-*/
+data/brat_format_inference.zip

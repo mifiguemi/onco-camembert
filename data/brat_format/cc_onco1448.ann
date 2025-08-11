@@ -1,0 +1,17 @@
+T1	morphologie 143 157	adénocarcinome
+T2	topographie 164 172	prostate
+T3	differenciation 174 185	Gleason 4+3
+T4	morphologie 733 747	adénocarcinome
+T5	differenciation 748 770	modérément différencié
+T6	morphologie 864 884	maladie métastatique
+T7	morphologie 1011 1025	adénocarcinome
+T8	topographie 1026 1036	colorectal
+T9	differenciation 1037 1059	modérément différencié
+T10	morphologie 1316 1326	métastases
+T11	morphologie 1329 1343	adénocarcinome
+T12	topographie 1363 1385	ganglions lymphatiques
+T13	topographie 1401 1425	graisse périsigmoïdienne
+T14	morphologie 1483 1497	adénocarcinome
+T15	topographie 1501 1506	côlon
+T17	stade 1529 1538	pT3 N1 MO
+T18	stade 1540 1549	stade III

@@ -1,0 +1,15 @@
+T1	morphologie 234 240	cancer
+T2	morphologie 273 282	néoplasie
+T3	topographie 283 292	gastrique
+T4	morphologie 337 346	néoplasie
+T5	topographie 353 361	prostate
+T6	morphologie 908 922	adénocarcinome
+T7	topographie 929 937	prostate
+T8	morphologie 1147 1182	maladie locorégionale ou à distance
+T9	morphologie 1940 1961	rechute de la maladie
+T10	morphologie 2030 2050	métastase à distance
+T11	morphologie 2320 2330	métastases
+T12	topographie 2331 2351	osseuses vertébrales
+T13	morphologie 2640 2649	métastase
+T14	topographie 2661 2669	vertèbre
+T15	morphologie 3009 3016	lésions

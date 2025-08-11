@@ -1,0 +1,33 @@
+T1	morphologie 743 755	adénopathies
+T2	morphologie 994 1000	masses
+T3	morphologie 1405 1430	conglomérat adénopathique
+T4	morphologie 1524 1536	adénopathies
+T5	topographie 1537 1550	médiastinales
+T6	topographie 1596 1615	espace paratrachéal
+T7	morphologie 1656 1681	conglomérat adénopathique
+T8	topographie 1682 1694	sous-carinal
+T9	morphologie 1728 1739	conglomérat
+T10	topographie 1740 1752	sous-carinal
+T11	morphologie 1791 1797	Nodule
+T12	topographie 1798 1808	pulmonaire
+T13	topographie 1869 1876	lingula
+T14	morphologie 2137 2143;2154 2176	cancer non à petites cellules
+T15	topographie 2147 2153	poumon
+T17	morphologie 2286 2300	adénocarcinome
+T18	morphologie 2374 2391	atteinte tumorale
+T19	topographie 2400 2421	lobe supérieur gauche
+T20	topographie 2463 2479	sus-claviculaire
+T21	topographie 2487 2496	médiastin
+T22	topographie 2498 2513	hile pulmonaire
+T23	morphologie 2556 2570	adénocarcinome
+T24	topographie 2571 2581	pulmonaire
+T25	stade 2585 2593	stade IV
+T26	morphologie 2823 2829	tumeur
+T27	morphologie 2831 2845	adénocarcinome
+T28	morphologie 4251 4286	atteinte des ganglions lymphatiques
+T29	topographie 4287 4299	médiastinaux
+T30	morphologie 4306 4312	nodule
+T31	topographie 4327 4334	lingula
+T32	morphologie 4505 4524	maladie néoplasique
+T16	topographie 2439 2461	ganglions lymphatiques
+T33	topographie 1362 1373	médiastinal

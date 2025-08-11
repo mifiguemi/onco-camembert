@@ -1,0 +1,40 @@
+T1	morphologie 805 811	nodule
+T2	topographie 845 859	lobe inférieur
+T3	morphologie 1003 1033;919 925	compatibles avec une métastase images
+T4	morphologie 1366 1372	nodule
+T5	topographie 1373 1383	pulmonaire
+T6	morphologie 1471 1483	adénopathies
+T7	topographie 1484 1512	médiastinales sous-carénales
+T8	topographie 1516 1529	prétrachéales
+T9	topographie 1592 1612	parenchyme splénique
+T10	morphologie 1682 1689	lésions
+T11	topographie 1690 1731	intra-axiales supra- et infratentorielles
+T12	morphologie 1870 1884	adénocarcinome
+T13	topographie 1885 1895	pulmonaire
+T14	morphologie 1955 1969	Adénocarcinome
+T15	topographie 1970 1980	pulmonaire
+T16	topographie 2420 2432	médiastinale
+T17	morphologie 2678 2692	adénocarcinome
+T18	topographie 2693 2703	pulmonaire
+T19	morphologie 2709 2717	atteinte
+T20	topographie 2730 2753	système nerveux central
+T21	topographie 3374 3380	poumon
+T22	morphologie 3442 3454	adénopathies
+T23	topographie 3509 3521	paratrachéal
+T24	topographie 3523 3535	sous-carénal
+T25	morphologie 3544 3550	Lésion
+T26	topographie 3551 3562	suprarénale
+T27	morphologie 3588 3595	adénome
+T28	morphologie 3849 3863	adénocarcinome
+T29	topographie 3864 3874	pulmonaire
+T30	stade 3875 3882	T1bN1M0
+T31	stade 3886 3895	stade IIA
+T32	morphologie 4458 4472;4484 4499	adénocarcinome de type acineux
+T33	topographie 4473 4483	pulmonaire
+T36	morphologie 4567 4573	tumeur
+T37	stade 4632 4651	ypT1a yPL0 yN0 y Mx
+T38	morphologie 4887 4902	maladie maligne
+T39	topographie 944 969	région pariéto-occipitale
+T40	topographie 1392 1406	lobe inférieur
+T41	morphologie 2408 2419	adénopathie
+T42	morphologie 3296 3311	image nodulaire

@@ -1,0 +1,23 @@
+T1	morphologie 65 95	carcinome canalaire infiltrant
+T2	stade 96 113	localement avancé
+T3	topographie 117 121	sein
+T4	morphologie 958 990	lésions d'occupation de l'espace
+T5	morphologie 992 996	LOES
+T6	morphologie 1037 1047	métastases
+T7	morphologie 1471 1478	lésions
+T8	morphologie 1696 1706	métastases
+T9	topographie 1707 1720	cérébelleuses
+T10	morphologie 1753 1759	cancer
+T11	topographie 1763 1767	sein
+T12	stade 1768 1785	localement avancé
+T13	morphologie 2201 2211	métastases
+T14	topographie 2212 2222	cérébrales
+T15	morphologie 2738 2745	lésions
+T16	topographie 2746 2756	cérébrales
+T17	morphologie 2911 2915	LOES
+T18	topographie 2916 2925	cérébrale
+T19	morphologie 2951 2960	métastase
+T20	morphologie 2963 2977	adénocarcinome
+T21	topographie 1006 1023	fosse postérieure
+T22	morphologie 1926 1933	lésions
+T23	topographie 1934 1947	cérébelleuses

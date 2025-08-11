@@ -1,0 +1,19 @@
+T1	morphologie 226 256	carcinome canalaire infiltrant
+T2	topographie 260 264	sein
+T3	differenciation 303 311	grade II
+T4	morphologie 346 381	atteinte des ganglions lymphatiques
+T5	topographie 387 389	os
+T6	topographie 397 404	poumons
+T7	morphologie 613 624	progression
+T8	topographie 648 654	poumon
+T9	morphologie 827 838	progression
+T10	topographie 839 849	pulmonaire
+T11	topographie 853 862	hépatique
+T12	morphologie 2342 2354	infiltration
+T13	topographie 2361 2375	moelle osseuse
+T14	morphologie 2759 2766	lésions
+T15	topographie 2775 2784	calvarium
+T16	morphologie 2798 2819	infiltration tumorale
+T17	morphologie 2838 2845	lésions
+T18	morphologie 2876 2887	microbleeds
+T19	topographie 2907 2917	parenchyme

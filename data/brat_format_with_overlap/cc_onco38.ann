@@ -1,0 +1,32 @@
+T1	morphologie 239 263	tératome mature kystique
+T2	morphologie 426 446	cystadénome mucineux
+T3	topographie 452 461	appendice
+T4	morphologie 2079 2092	carcinomatose
+T5	topographie 2093 2104	péritonéale
+T6	topographie 2136 2144	épiploon
+T7	morphologie 2171 2177	masses
+T8	morphologie 2185 2201	lymphadénopathie
+T9	topographie 2202 2213	péritonéale
+T10	morphologie 2318 2331	carcinomatose
+T11	topographie 2332 2343	péritonéale
+T12	morphologie 2382 2396	adénocarcinome
+T13	topographie 2397 2404	ovarien
+T14	morphologie 2669 2677	implants
+T15	topographie 2678 2689	péritonéaux
+T16	topographie 2710 2716	ovaire
+T17	topographie 2730 2743	méso-intestin
+T18	morphologie 2751 2774	adénocarcinome mucineux
+T19	morphologie 3029 3042	carcinomatose
+T20	topographie 3043 3054	péritonéale
+T21	morphologie 3064 3076	pseudomyxome
+T22	topographie 3077 3087	péritonéal
+T23	morphologie 3417 3430	carcinomatose
+T24	topographie 3431 3442	péritonéale
+T25	morphologie 3452 3464	pseudomyxome
+T26	topographie 3465 3475	péritonéal
+T28	morphologie 3541 3559	maladie disséminée
+T29	topographie 3581 3595	intestin grêle
+T30	morphologie 3717 3724	nodules
+T31	morphologie 4551 4562	progression
+T32	topographie 4563 4572	pelvienne
+T33	topographie 2697 2703	trompe

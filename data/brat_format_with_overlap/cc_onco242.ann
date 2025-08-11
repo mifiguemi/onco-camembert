@@ -1,0 +1,42 @@
+T1	topographie 418 435	rétropéritonéales
+T2	topographie 439 452	rétrocrurales
+T3	morphologie 523 532	néoplasie
+T4	topographie 533 541	laryngée
+T5	morphologie 651 690	implants d'origine néoplasique probable
+T6	morphologie 787 796	néoplasie
+T7	topographie 799 814	origine colique
+T9	morphologie 851 856	masse
+T10	morphologie 915 954	maladie de Castleman hyaline-vasculaire
+T11	morphologie 1185 1206	carcinome épidermoïde
+T12	topographie 1207 1214	laryngé
+T13	stade 1216 1223	T4N2aM0
+T17	morphologie 2782 2787	masse
+T18	topographie 2802 2811	épigastre
+T19	topographie 2817 2840	région infra-ombilicale
+T20	morphologie 4060 4099	maladie hyaline-vasculaire de Castleman
+T21	morphologie 4117 4122	Masse
+T22	topographie 4123 4139	rétropéritonéale
+T23	morphologie 4175 4211	lymphome B diffus à grandes cellules
+T24	morphologie 4587 4637	Maladie de Castleman, sous-type hyalino-vasculaire
+T26	morphologie 4691 4722	LNH diffus à grandes cellules B
+T27	differenciation 4723 4736	de haut grade
+T28	morphologie 4966 4968	MC
+T29	morphologie 5030 5058	masse d'aspect adénopathique
+T30	topographie 5091 5103	mésentérique
+T31	morphologie 5258 5265	nodules
+T32	morphologie 5344 5369	conglomérat adénopathique
+T33	topographie 5370 5385	rétropéritonéal
+T34	morphologie 5420 5432	adénopathies
+T35	morphologie 6234 6262	transformation lymphomateuse
+T36	morphologie 6387 6410;6417 6444	lymphome non hodgkinien diffus à grandes cellules B
+T37	morphologie 6412 6415	LNH
+T38	differenciation 6445 6458	de haut grade
+T39	morphologie 7744 7749	masse
+T40	topographie 7750 7762	mésentérique
+T41	morphologie 7936 7948	adénopathies
+T42	topographie 7949 7966	rétropéritonéales
+T43	morphologie 401 417	polyadénopathies
+T44	morphologie 345 350	masse
+T45	topographie 351 374	abdominale mésentérique
+T8	morphologie 5217 5222	masse
+T14	topographie 5449 5474	bifurcation aorto-iliaque

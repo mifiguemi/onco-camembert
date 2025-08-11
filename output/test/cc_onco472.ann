@@ -1,0 +1,22 @@
+T1	morphologie 699 704	masse
+T2	morphologie 878 884	tumeur
+T3	topographie 901 918	introitus vaginal
+T4	morphologie 1143 1152	formation
+T5	topographie 1204 1210	urètre
+T6	morphologie 1255 1261	tumeur
+T7	topographie 1262 1270	vulvaire
+T8	morphologie 1439 1456	microadénopathies
+T9	topographie 1465 1472	iliaque
+T10	topographie 1488 1495	iliaque
+T11	morphologie 1639 1671	lésions métastatiques à distance
+T12	morphologie 1718 1730	adénopathies
+T13	topographie 1749 1757	iliaques
+T14	morphologie 1790 1796	tumeur
+T15	topographie 1797 1805	vulvaire
+T16	morphologie 1919 1933	adénocarcinome
+T17	differenciation 1934 1956	modérément différencié
+T18	stade 2069 2074	pT1N1
+T19	morphologie 2902 2916	adénocarcinome
+T20	differenciation 2917 2939	modérément différencié
+T21	topographie 2945 2951	urètre
+T22	stade 2952 2957	pT1N1

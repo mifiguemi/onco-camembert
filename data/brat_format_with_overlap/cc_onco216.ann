@@ -1,0 +1,31 @@
+T1	morphologie 165 179	adénocarcinome
+T2	morphologie 181 184	ADC
+T3	topographie 189 195	poumon
+T4	stade 197 205	stade IV
+T5	stade 207 216	cT2bN2M1b
+T6	morphologie 224 245	atteinte métastatique
+T7	topographie 246 256	pulmonaire
+T8	morphologie 279 286	lésions
+T9	topographie 312 328	corps vertébraux
+T10	topographie 336 348	arcs costaux
+T11	morphologie 812 821	métastase
+T12	topographie 822 832	pulmonaire
+T13	morphologie 833 836	ADC
+T14	morphologie 1235 1242	lésions
+T15	topographie 1243 1251	cutanées
+T16	topographie 2206 2231	périventriculaire frontal
+T17	morphologie 2620 2633	Carcinomatose
+T18	topographie 2634 2647	leptoméningée
+T19	morphologie 2871 2882	progression
+T20	topographie 2903 2910	méningé
+T21	morphologie 3766 3787	atteinte métastatique
+T22	topographie 3791 3794	LCR
+T23	morphologie 3817 3824	nodules
+T24	topographie 3833 3837	sein
+T25	morphologie 3950 3959	métastase
+T26	topographie 3977 3983	poumon
+T27	morphologie 4602 4605	MLC
+T28	morphologie 2162 2168	lésion
+T29	morphologie 2655 2658	ADC
+T30	topographie 2659 2669	pulmonaire
+T31	morphologie 3965 3968	ADC

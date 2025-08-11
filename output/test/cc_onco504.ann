@@ -1,0 +1,33 @@
+T1	morphologie 415 423	mélanome
+T2	topographie 424 434	choroïdien
+T3	stade 435 443	cT2aN0M0
+T4	stade 445 454	stade IIA
+T5	morphologie 497 515	lésions à distance
+T6	morphologie 736 756	rechute métastatique
+T7	morphologie 931 938	nodules
+T8	topographie 939 950	pulmonaires
+T9	morphologie 976 998	lésion des tissus mous
+T10	topographie 1015 1024	médiastin
+T11	topographie 1056 1069	rétrosternale
+T12	morphologie 1077 1083	lésion
+T13	topographie 1084 1097	surrénalienne
+T14	morphologie 1131 1138	lésions
+T15	topographie 1139 1149	hépatiques
+T16	morphologie 1170 1180	métastases
+T17	morphologie 1264 1273	métastase
+T18	morphologie 1283 1297	mélanome malin
+T19	morphologie 1802 1809	lésions
+T20	topographie 1810 1820	hépatiques
+T21	morphologie 2662 2668	lésion
+T22	topographie 2669 2682	rétrosternale
+T23	morphologie 2698 2705	lésions
+T24	topographie 2706 2716	hépatiques
+T25	morphologie 2755 2764	métastase
+T26	topographie 2765 2778	surrénalienne
+T27	morphologie 4609 4618	métastase
+T28	topographie 4619 4632	surrénalienne
+T29	morphologie 4662 4668	lésion
+T30	topographie 4669 4678	hépatique
+T31	morphologie 4679 4691	métastatique
+T32	morphologie 4716 4723	nodules
+T33	topographie 4724 4735	pulmonaires

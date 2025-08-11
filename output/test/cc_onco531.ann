@@ -1,0 +1,33 @@
+T1	morphologie 261 267	lésion
+T2	topographie 314 322	omoplate
+T3	morphologie 383 389	lésion
+T4	morphologie 437 451	mélanome malin
+T5	stade 452 456	pT2a
+T6	stade 466 469	pN1
+T7	morphologie 471 497	atteinte micrométastatique
+T8	morphologie 507 518	adénopathie
+T9	stade 520 522	M0
+T10	stade 523 533	stade IIIA
+T11	morphologie 1644 1665	rechute locorégionale
+T12	morphologie 1885 1896	adénopathie
+T13	topographie 1897 1912	latérocervicale
+T14	topographie 1916 1933	supraclaviculaire
+T15	morphologie 2352 2375	masses pseudonodulaires
+T16	morphologie 2593 2605	métastatique
+T17	morphologie 2607 2650	Adénopathies hypervasculaires pathologiques
+T18	topographie 2651 2669	supraclaviculaires
+T19	morphologie 2821 2826	masse
+T20	topographie 2827 2846	masaretroscapulaire
+T21	morphologie 2991 2997	nodule
+T22	topographie 2998 3008	pulmonaire
+T23	topographie 3025 3028	LID
+T24	morphologie 3051 3063	adénopathies
+T25	topographie 3064 3080	latérocervicales
+T26	topographie 3094 3112	supraclaviculaires
+T27	topographie 3126 3141	rétropectorales
+T28	topographie 3153 3163	axillaires
+T29	morphologie 3229 3250	Rechute locorégionale
+T30	topographie 3252 3265	ganglionnaire
+T31	topographie 3269 3279	pulmonaire
+T32	morphologie 3285 3299	mélanome malin
+T33	topographie 3300 3306	cutané

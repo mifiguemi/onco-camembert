@@ -1,0 +1,63 @@
+T1	morphologie 515 527	adénopathies
+T2	topographie 528 544	latérocervicales
+T3	topographie 548 566	supraclaviculaires
+T4	morphologie 762 767	masse
+T5	morphologie 973 978	masse
+T6	topographie 979 985	rénale
+T7	morphologie 1013 1025	adénopathies
+T8	morphologie 1044 1062	lésions à distance
+T9	morphologie 1170 1179	néoplasie
+T10	topographie 1180 1186	rénale
+T11	morphologie 1346 1374	carcinome à cellules claires
+T12	differenciation 1375 1396	de grade 2 de Fuhrman
+T13	topographie 1441 1445	rein
+T14	stade 1446 1454	pT2a pN0
+T15	stade 1459 1467	stade II
+T16	morphologie 1584 1590	nodule
+T17	topographie 1591 1601	pulmonaire
+T18	topographie 1619 1633	lobe supérieur
+T19	topographie 1641 1644	LSD
+T20	morphologie 1756 1765	métastase
+T21	morphologie 1771 1780	carcinome
+T22	topographie 1781 1786	rénal
+T23	morphologie 1787 1805	à cellules claires
+T24	morphologie 1836 1842	nodule
+T25	topographie 1843 1853	pulmonaire
+T26	topographie 1885 1899	lobe inférieur
+T27	topographie 1908 1911	LII
+T28	morphologie 1933 1940	nodules
+T29	topographie 1941 1954	sous-pleuraux
+T30	morphologie 1969 1974	masse
+T31	topographie 1975 1995	infradiaphragmatique
+T32	morphologie 2963 2968	masse
+T33	topographie 2969 2989	infradiaphragmatique
+T34	morphologie 3040 3047	lésions
+T35	topographie 3048 3059	pulmonaires
+T36	topographie 3063 3077	sous-pleurales
+T37	morphologie 3307 3314	lésions
+T38	topographie 3315 3326	pulmonaires
+T39	morphologie 3364 3369	masse
+T40	topographie 3370 3380	abdominale
+T41	morphologie 3631 3636	masse
+T42	topographie 3637 3657	infradiaphragmatique
+T43	morphologie 3813 3822	métastase
+T44	morphologie 3826 3835	carcinome
+T45	topographie 3836 3841	rénal
+T46	morphologie 3842 3860	à cellules claires
+T47	morphologie 4073 4085	adénopathies
+T48	topographie 4086 4099	médiastinales
+T49	morphologie 4100 4113	pathologiques
+T50	morphologie 4163 4170	nodules
+T51	topographie 4171 4182	pulmonaires
+T52	morphologie 4373 4380	lésions
+T53	morphologie 4427 4434	lésions
+T54	topographie 4435 4449	sous-pleurales
+T55	morphologie 4674 4686	adénopathies
+T56	topographie 4687 4700	médiastinales
+T57	morphologie 4781 4788	lésions
+T58	topographie 4789 4800	pulmonaires
+T59	topographie 4804 4807	LSI
+T60	morphologie 5233 5238	masse
+T61	topographie 5239 5249	pulmonaire
+T62	morphologie 5610 5615	masse
+T63	topographie 5616 5626	pulmonaire

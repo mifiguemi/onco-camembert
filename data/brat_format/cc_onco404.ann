@@ -1,0 +1,24 @@
+T1	morphologie 397 405	mélanome
+T2	topographie 406 412	cutané
+T3	topographie 425 433	omoplate
+T4	stade 551 558	pT3N0M0
+T5	morphologie 899 920	mélanome métastatique
+T6	morphologie 1435 1452	récidive tumorale
+T7	morphologie 1468 1476	implants
+T8	topographie 1477 1488	péritonéaux
+T9	topographie 1497 1502	flanc
+T10	morphologie 1516 1523	rechute
+T11	topographie 1556 1571	hile pulmonaire
+T12	morphologie 1881 1889	mélanome
+T14	stade 1903 1911	stade IV
+T15	morphologie 2144 2150	lésion
+T16	topographie 2163 2169	muscle
+T17	morphologie 3963 3974	adénopathie
+T18	topographie 3978 3987	mésocôlon
+T19	morphologie 4156 4165	métastase
+T20	morphologie 4169 4177	mélanome
+T21	morphologie 4386 4414	adénopathie hypermétabolique
+T22	topographie 4423 4445	chaîne iliaque externe
+T23	stade 560 565	E-IIB
+T24	topographie 1534 1547	adénopathique
+T13	stade 1890 1899	disséminé

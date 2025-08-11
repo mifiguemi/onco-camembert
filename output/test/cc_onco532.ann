@@ -1,0 +1,47 @@
+T1	morphologie 1448 1453	masse
+T2	morphologie 1571 1576	masse
+T3	topographie 1585 1597	lobe moyen (
+T4	topographie 1597 1599	LM
+T5	morphologie 1742 1747	masse
+T6	topographie 1756 1765	poumon LM
+T7	topographie 1868 1875	hilaire
+T8	topographie 1879 1891	médiastinale
+T9	morphologie 1914 1921	lésions
+T10	topographie 1922 1930	osseuses
+T11	topographie 1993 2008	corps vertébral
+T12	morphologie 2094 2099	masse
+T13	topographie 2100 2110	pulmonaire
+T14	morphologie 2213 2225	adénopathies
+T15	topographie 2226 2240	paratrachéales
+T16	morphologie 2321 2330	carcinome
+T17	topographie 2331 2341	pulmonaire
+T18	morphologie 2342 2364	non à petites cellules
+T19	differenciation 2365 2387	modérément différencié
+T20	morphologie 2396 2410	adénocarcinome
+T21	morphologie 2440 2445	masse
+T22	topographie 2493 2506	paratrachéaux
+T23	morphologie 2861 2869	atteinte
+T24	topographie 2870 2877	osseuse
+T25	morphologie 2878 2890	métastatique
+T26	topographie 2904 2910	sacrum
+T27	topographie 2921 2935	lames iliaques
+T28	morphologie 2945 2966	masse des tissus mous
+T29	topographie 2973 2976	nL3
+T30	morphologie 3106 3120	adénocarcinome
+T31	topographie 3124 3130	poumon
+T32	differenciation 3132 3135	GH2
+T33	stade 3137 3149	cT3-cN2-cM1c
+T34	morphologie 3151 3161	métastases
+T35	topographie 3162 3170	osseuses
+T36	topographie 3181 3188	sternal
+T37	topographie 3196 3206	arc costal
+T38	topographie 3215 3223	dorsales
+T39	topographie 3225 3232	sacrées
+T40	topographie 3234 3242	iliaques
+T41	morphologie 3246 3267	masse des tissus mous
+T42	topographie 3278 3280	L3
+T43	morphologie 4857 4859	ES
+T44	morphologie 4891 4903	micronodules
+T45	topographie 4904 4915	pulmonaires
+T46	morphologie 4945 4961	lésion cavitaire
+T47	topographie 4970 4973	LIS

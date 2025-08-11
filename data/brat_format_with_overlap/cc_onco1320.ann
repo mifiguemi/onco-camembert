@@ -1,0 +1,9 @@
+T1	morphologie 85 100	médulloblastome
+T4	morphologie 812 827	Médulloblastome
+T5	topographie 101 112	cérébelleux
+T6	expression_CIM 85 112	médulloblastome cérébelleux
+T2	morphologie 298 327	foyers de captation nodulaire
+T7	topographie 347 386	périphérie de la cavité porencéphalique
+T8	expression_CIM 298 386	foyers de captation nodulaire sont observés à la périphérie de la cavité porencéphalique
+T3	topographie 828 839	cérébelleux
+T9	expression_CIM 812 839	Médulloblastome cérébelleux

@@ -1,0 +1,44 @@
+T1	morphologie 329 335	lésion
+T2	topographie 336 343	cutanée
+T3	morphologie 387 401	mélanome malin
+T4	stade 402 409	pT2N0M0
+T6	morphologie 572 578	tumeur
+T7	topographie 579 588	axillaire
+T8	morphologie 1020 1044	infiltration néoplasique
+T9	morphologie 1072 1084	micronodules
+T10	topographie 1085 1096	pulmonaires
+T11	morphologie 1227 1241	mélanome malin
+T12	morphologie 1715 1736	rechute locorégionale
+T13	morphologie 1738 1749	adénopathie
+T14	topographie 1750 1759	axillaire
+T15	morphologie 1800 1818	rechute à distance
+T16	morphologie 1820 1829	métastase
+T17	topographie 1830 1839	hépatique
+T18	morphologie 1861 1868	nodules
+T19	topographie 1869 1880	pulmonaires
+T20	morphologie 1903 1910	implant
+T21	topographie 1911 1921	péritonéal
+T23	morphologie 2862 2901	progression locorégionale et à distance
+T24	morphologie 2903 2928	conglomérat adénopathique
+T25	topographie 2929 2938	axillaire
+T26	morphologie 2947 2957	métastases
+T27	topographie 2958 2968	hépatiques
+T28	topographie 2972 2983	pulmonaires
+T29	morphologie 3400 3425	progression locorégionale
+T30	morphologie 3919 3926	nodules
+T31	topographie 3988 4004	paroi abdominale
+T32	morphologie 4843 4854	progression
+T33	morphologie 4869 4887	maladie à distance
+T34	morphologie 4889 4911	ganglions lymphatiques
+T35	topographie 4912 4928	intrapéritonéaux
+T36	topographie 4932 4948	rétropéritonéaux
+T37	topographie 4950 4959	inguinaux
+T38	morphologie 4969 4977	implants
+T39	topographie 4978 4989	péritonéaux
+T40	morphologie 5001 5011	métastases
+T41	topographie 5012 5025	pancréatiques
+T42	topographie 5035 5052	tissu sous-cutané
+T43	morphologie 5071 5081	métastases
+T44	topographie 5082 5092	hépatiques
+T45	morphologie 5972 5997	progression de la maladie
+T46	topographie 5998 6007	hépatique

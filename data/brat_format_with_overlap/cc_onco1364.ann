@@ -1,0 +1,47 @@
+T1	morphologie 77 91	adénocarcinome
+T2	stade 117 124	cT3N2M0
+T3	morphologie 285 291	tumeur
+T4	morphologie 1535 1546	progression
+T5	morphologie 2163 2172	métastase
+T6	morphologie 2369 2383	adénocarcinome
+T7	morphologie 2528 2556	carcinome à petites cellules
+T8	morphologie 2622 2633	progression
+T9	morphologie 2737 2754	cellules d'avoine
+T10	topographie 92 102	pulmonaire
+T11	expression_CIM 77 102	adénocarcinome pulmonaire
+T12	stade 106 116	stade IIIA
+T13	expression_CIM 285 291	tumeur
+T14	stade 856 864	stade IV
+T15	morphologie 1050 1061	progression
+T16	topographie 1062 1072	pulmonaire
+T17	expression_CIM 1050 1072	progression pulmonaire
+T18	morphologie 1288 1299	progression
+T19	topographie 1300 1310	pulmonaire
+T20	expression_CIM 1288 1310	progression pulmonaire
+T21	topographie 1547 1556	hépatique
+T22	topographie 1560 1569	cérébrale
+T23	expression_CIM 1535 1569	progression hépatique et cérébrale
+T24	morphologie 1997 2003	nodule
+T25	morphologie 1860 1867	lésions
+T26	topographie 1791 1795	foie
+T27	expression_CIM 1791 1867	foie de taille et de morphologie normales avec présence de multiples lésions
+T28	topographie 2020 2034	segment V-VIII
+T29	expression_CIM 1997 2034	nodule de 2 cm dans le segment V-VIII
+T30	expression_CIM 2163 2172	métastase
+T31	morphologie 2178 2206	carcinome à petites cellules
+T32	expression_CIM 2178 2206	carcinome à petites cellules
+T33	expression_CIM 2208 2246	carcinome neuroendocrine de haut grade
+T34	differenciation 2233 2246	de haut grade
+T35	morphologie 2208 2232	carcinome neuroendocrine
+T36	topographie 2384 2394	pulmonaire
+T37	expression_CIM 2369 2394	adénocarcinome pulmonaire
+T38	stade 2398 2406	stade IV
+T39	morphologie 2423 2431	atteinte
+T40	topographie 2432 2451	pleuro-péricardique
+T41	topographie 2455 2465	pulmonaire
+T42	expression_CIM 2423 2465	atteinte pleuro-péricardique et pulmonaire
+T43	expression_CIM 2528 2556	carcinome à petites cellules
+T44	topographie 2634 2643	hépatique
+T45	topographie 2647 2656	cérébrale
+T46	expression_CIM 2622 2656	progression hépatique et cérébrale
+T47	expression_CIM 2737 2754	cellules d'avoine

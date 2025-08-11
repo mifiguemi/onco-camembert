@@ -1,0 +1,14 @@
+T1	morphologie 106 136	carcinome canalaire infiltrant
+T2	morphologie 309 316	maladie
+T3	expression_CIM 667 685	lésions cérébrales
+T4	morphologie 707 717	métastases
+T5	stade 140 149	stade III
+T6	topographie 153 157	sein
+T7	expression_CIM 106 157	carcinome canalaire infiltrant de stade III du sein
+T8	topographie 343 345	os
+T9	topographie 350 354	foie
+T10	topographie 362 369	poumons
+T11	expression_CIM 309 369	maladie a progressé au niveau des os, du foie et des poumons
+T12	morphologie 667 674	lésions
+T13	topographie 675 685	cérébrales
+T14	expression_CIM 707 717	métastases

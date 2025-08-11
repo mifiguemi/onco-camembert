@@ -1,0 +1,52 @@
+T1	morphologie 500 506	nodule
+T2	topographie 507 517	pulmonaire
+T3	morphologie 673 701	carcinome à grandes cellules
+T4	differenciation 702 717	peu différencié
+T5	morphologie 848 856	atteinte
+T6	topographie 857 865	pleurale
+T7	morphologie 924 933;945 967	carcinome non à petites cellules
+T8	topographie 934 944	pulmonaire
+T10	morphologie 969 974	NSCLC
+T11	morphologie 1155 1183	carcinome à grandes cellules
+T12	topographie 1184 1187	LSD
+T13	stade 1202 1217	cT1bN1M1a(PLEU)
+T14	morphologie 1673 1679	nodule
+T15	topographie 1683 1686	LSD
+T16	morphologie 1708 1731	nodule hypermétabolique
+T17	topographie 1732 1744	sous-pleural
+T18	topographie 2020 2036	nerf oculomoteur
+T19	morphologie 2106 2114	atteinte
+T20	topographie 2118 2141	système nerveux central
+T21	topographie 2143 2146	SNC
+T22	morphologie 2182 2192	métastases
+T24	morphologie 2307 2320	carcinomatose
+T25	topographie 2321 2334	leptoméningée
+T26	morphologie 2364 2375	progression
+T27	topographie 2376 2386	pulmonaire
+T29	topographie 2406 2414	méningée
+T30	morphologie 2784 2791	maladie
+T31	topographie 2792 2802	pulmonaire
+T32	morphologie 2894 2915	atteinte métastatique
+T33	topographie 2916 2929	leptoméningée
+T34	morphologie 3027 3038	progression
+T35	topographie 3039 3047	méningée
+T36	morphologie 3259 3265	nodule
+T37	topographie 3269 3272	LSD
+T38	morphologie 3380 3402	adénocarcinome acineux
+T39	stade 3403 3405	G2
+T40	morphologie 4217 4229	adénopathies
+T41	morphologie 5049 5070	atteinte métastatique
+T42	topographie 5071 5084	leptoméningée
+T43	morphologie 5668 5676	atteinte
+T44	topographie 5677 5690	leptoméningée
+T45	morphologie 5718 5732	Adénocarcinome
+T46	topographie 5733 5743	pulmonaire
+T47	stade 5751 5759	stade IV
+T48	morphologie 5765 5773	atteinte
+T49	topographie 5774 5782	méningée
+T50	topographie 526 540	lobe supérieur
+T9	topographie 1188 1198	pulmonaire
+T51	differenciation 1199 1201	G3
+T52	morphologie 1999 2007	atteinte
+T23	morphologie 2851 2878	rehaussements pathologiques
+T28	topographie 5744 5747	LSD

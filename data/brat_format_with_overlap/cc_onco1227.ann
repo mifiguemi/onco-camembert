@@ -1,0 +1,59 @@
+T1	morphologie 227 236	néoplasie
+T2	morphologie 283 293	métastases
+T3	morphologie 518 527;534 552	carcinome à cellules claires
+T4	stade 553 561	pT3aNxMx
+T6	morphologie 653 659	tumeur
+T7	morphologie 881 890	métastase
+T9	expression_CIM 3236 3255	nodules pulmonaires
+T10	morphologie 3496 3506	métastases
+T11	morphologie 4220 4229	métastase
+T12	expression_CIM 4532 4574	carcinome à cellules claires de haut grade
+T13	morphologie 4596 4605	métastase
+T15	morphologie 4897 4906;4920 4938	Carcinome à cellules claires
+T16	expression_CIM 4975 5009	progression pulmonaire et dermique
+T17	morphologie 5736 5742	tumeur
+T18	morphologie 5873 5882	métastase
+T19	topographie 237 243	rénale
+T20	expression_CIM 227 243	néoplasie rénale
+T21	topographie 294 305	pulmonaires
+T22	expression_CIM 283 305	métastases pulmonaires
+T23	topographie 528 533	rénal
+T24	expression_CIM 518 580	carcinome rénal à cellules claires pT3aNxMx. Grade nucléaire 3
+T25	differenciation 563 580	Grade nucléaire 3
+T5	expression_CIM 653 659	tumeur
+T26	topographie 891 909	cérébrale frontale
+T27	expression_CIM 881 909	métastase cérébrale frontale
+T8	morphologie 3236 3243	nodules
+T28	topographie 3244 3255	pulmonaires
+T29	topographie 3507 3518	pulmonaires
+T30	expression_CIM 3496 3518	métastases pulmonaires
+T31	morphologie 3538 3544	lésion
+T32	topographie 3613 3629	opercule frontal
+T33	expression_CIM 3538 3629	lésion nodulaire d'environ 1 cm intraaxiale, sous-corticale, située dans l'opercule frontal
+T34	morphologie 3827 3834	lésions
+T35	expression_CIM 3827 3834	lésions
+T36	morphologie 4045 4052	lésions
+T37	expression_CIM 4045 4052	lésions
+T38	topographie 4230 4238	frontale
+T39	expression_CIM 4220 4238	métastase frontale
+T40	morphologie 4532 4560	carcinome à cellules claires
+T41	differenciation 4561 4574	de haut grade
+T42	expression_CIM 4596 4605	métastase
+T43	morphologie 4611 4620;4642 4660	carcinome à cellules claires
+T44	topographie 4621 4626	rénal
+T45	expression_CIM 4611 4660	carcinome rénal conventionnel (à cellules claires
+T14	topographie 4907 4912	rénal
+T46	expression_CIM 4897 4938	Carcinome rénal gauche à cellules claires
+T47	stade 4940 4948	stade IV
+T48	morphologie 4950 4952	M1
+T49	topographie 4953 4959	poumon
+T50	topographie 4963 4970	cerveau
+T51	expression_CIM 4950 4970	M1 poumon et cerveau
+T52	morphologie 4975 4986	progression
+T53	topographie 4987 4997	pulmonaire
+T54	topographie 5001 5009	dermique
+T55	expression_CIM 5736 5742	tumeur
+T56	expression_CIM 5873 5882	métastase
+T57	morphologie 5886 5895	carcinome
+T58	topographie 5896 5901	rénal
+T59	expression_CIM 5886 5901	carcinome rénal

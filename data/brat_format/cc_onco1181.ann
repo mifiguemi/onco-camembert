@@ -1,0 +1,31 @@
+T1	morphologie 109 117	grosseur
+T2	morphologie 269 283	lésion bénigne
+T3	morphologie 431 449	fibroadénome géant
+T4	morphologie 456 477	cystosarcome phyloïde
+T5	morphologie 560 580	carcinome infiltrant
+T8	morphologie 1609 1618	métastase
+T9	morphologie 1672 1702	Carcinome canalaire infiltrant
+T11	morphologie 2478 2487	métastase
+T12	morphologie 3158 3164	cancer
+T14	morphologie 3891 3897	lésion
+T16	topographie 153 187	quadrant supérieur externe du sein
+T18	topographie 300 304	sein
+T23	morphologie 674 704	carcinome canalaire infiltrant
+T24	differenciation 714 740	différenciation de grade 3
+T26	morphologie 1525 1532	lésions
+T27	topographie 1533 1544	pulmonaires
+T28	topographie 1706 1716	sein droit
+T29	differenciation 1718 1725	grade 3
+T31	stade 1727 1740	pT2N1(2/16)M1
+T32	morphologie 2034 2057	progression des nodules
+T33	topographie 2058 2069	pulmonaires
+T34	topographie 2488 2498	occipitale
+T36	topographie 3168 3172	sein
+T38	morphologie 3320 3350	carcinome canalaire infiltrant
+T39	differenciation 3351 3361	de grade 2
+T40	topographie 3934 3944	occipitale
+T42	morphologie 4272 4278	lésion
+T43	topographie 4279 4289	occipitale
+T44	morphologie 4532 4557	progression adénopathique
+T46	morphologie 4572 4583	progression
+T47	topographie 4584 4593	hépatique

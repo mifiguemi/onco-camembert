@@ -1,0 +1,32 @@
+T1	morphologie 271 295	carcinome basocellulaire
+T2	topographie 302 306	joue
+T3	morphologie 1188 1194	lésion
+T4	morphologie 1223 1237	adénocarcinome
+T5	differenciation 1238 1251	indifférencié
+T6	morphologie 1344 1350	tumeur
+T7	topographie 1367 1389	jonction œso-gastrique
+T8	morphologie 1397 1409	adénopathies
+T9	topographie 1410 1429	juxta-œsophagiennes
+T10	topographie 1452 1477	ligament gastro-hépatique
+T11	morphologie 1486 1506	métastase à distance
+T12	morphologie 1641 1653	adécarcinome
+T13	differenciation 1654 1667	indifférencié
+T14	stade 1668 1685	localement avancé
+T15	topographie 1691 1694	UGE
+T16	stade 1696 1701	cT3N+
+T18	morphologie 2051 2072;2101 2137	adénocarcinome diffus avec des cellules en bague de signet
+T19	differenciation 2073 2083	de grade 3
+T20	differenciation 2084 2099	peu différencié
+T22	topographie 2143 2146	UGE
+T23	morphologie 2319 2344	infiltration métastatique
+T24	topographie 2358 2367	ganglions
+T25	morphologie 2395 2409	adénocarcinome
+T26	stade 2459 2464	pT3N3
+T27	stade 2466 2476	stade IIIC
+T28	morphologie 2819 2825;2846 2860	tumeur neuroendocrine
+T29	morphologie 2980 2992	tumeur mixte
+T30	morphologie 2995 3009;3026 3059	adénocarcinome avec cellules en anneau de signet
+T31	differenciation 3010 3025	peu différencié
+T32	morphologie 3063 3087	carcinome neuroendocrine
+T33	stade 3125 3130	pT3N3
+T34	stade 3132 3142	Stade IIIC

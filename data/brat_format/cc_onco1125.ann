@@ -1,0 +1,14 @@
+T1	morphologie 299 305	tumeur
+T2	morphologie 1712 1731	carcinome canalaire
+T3	morphologie 1979 1998	carcinome canalaire
+T5	morphologie 187 193	nodule
+T6	topographie 202 206	sein
+T8	topographie 314 330	région aréolaire
+T10	morphologie 979 996	lésion vasculaire
+T11	topographie 1051 1075	région aréolaire du sein
+T13	morphologie 1194 1200	nodule
+T14	topographie 1204 1208	sein
+T16	morphologie 1583 1594	adénopathie
+T17	topographie 1595 1611	intra-abdominale
+T20	stade 2010 2020	stade IIIB
+T4	morphologie 2337 2343	tumeur

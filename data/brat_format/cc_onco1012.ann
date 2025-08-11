@@ -1,0 +1,34 @@
+T1	morphologie 111 120	néoplasie
+T2	morphologie 151 160	néoplasie
+T5	morphologie 373 382	néoplasie
+T7	morphologie 585 591	cancer
+T10	morphologie 1527 1537	métastases
+T11	morphologie 1856 1869	carcinomatose
+T12	morphologie 1930 1957	carcinome canalaire in situ
+T14	morphologie 2302 2308	cancer
+T15	topographie 121 129	mammaire
+T16	topographie 161 169	mammaire
+T17	stade 312 318	pT2N1b
+T18	stade 481 488	pT1bpN0
+T19	topographie 391 395	sein
+T20	stade 734 740	pT2pN0
+T21	stade 1160 1165	cT2N2
+T22	stade 1167 1177	stade IIIA
+T23	topographie 1538 1548	cérébrales
+T24	topographie 1870 1883	leptoméningée
+T25	topographie 2312 2316	sein
+T26	stade 2137 2147	pT1cpN1mic
+T4	morphologie 257 287	carcinome canalaire infiltrant
+T30	differenciation 301 311	de grade 3
+T32	morphologie 466 469	CDI
+T33	differenciation 470 480	de grade 1
+T34	morphologie 289 292	CDI
+T35	topographie 595 599	sein
+T37	differenciation 723 733	de grade 3
+T38	morphologie 719 722	CBI
+T39	morphologie 1123 1132	carcinome
+T40	topographie 1133 1143	pulmonaire
+T41	differenciation 1144 1159	peu différencié
+T45	morphologie 2080 2083	IDC
+T46	topographie 2092 2096	sein
+T47	differenciation 2112 2124	grade 3 avec

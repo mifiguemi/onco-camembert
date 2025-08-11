@@ -1,0 +1,41 @@
+T1	morphologie 138 159	carcinome épidermoïde
+T2	differenciation 160 176	bien différencié
+T3	morphologie 178 184	nodule
+T4	morphologie 203 229	tumeur carcinoïde atypique
+T5	morphologie 270 296	tumeur carcinoïde atypique
+T6	topographie 329 351	ganglions lymphatiques
+T7	morphologie 1063 1070	lésions
+T8	morphologie 1086 1096	métastases
+T9	topographie 1097 1107	hépatiques
+T10	morphologie 1534 1555	Carcinome épidermoïde
+T11	topographie 1584 1598	lobe inférieur
+T12	morphologie 1611 1628	tumeur carcinoïde
+T13	morphologie 1746 1753	lésions
+T14	topographie 1786 1802	lobes hépatiques
+T15	morphologie 1881 1891	métastases
+T16	topographie 1892 1902	hépatiques
+T17	morphologie 1961 1968	lésions
+T18	topographie 1969 1980	pulmonaires
+T19	morphologie 2056 2068	infiltration
+T20	topographie 2069 2078	hépatique
+T21	morphologie 2121 2123	d'
+T22	morphologie 2196 2206	métastases
+T23	topographie 2207 2217	hépatiques
+T24	morphologie 3070 3080	métastases
+T25	topographie 3081 3091	hépatiques
+T26	topographie 3113 3127	lobe hépatique
+T27	topographie 3136 3139	LHI
+T28	topographie 3165 3179	lobe hépatique
+T29	topographie 3187 3190	LHD
+T30	morphologie 3270 3276	lésion
+T31	morphologie 3312 3322	métastases
+T32	topographie 3355 3358	LHI
+T33	morphologie 3376 3386	métastases
+T34	topographie 3387 3397	hépatiques
+T35	morphologie 3409 3441	tumeur neuroendocrine carcinoïde
+T36	topographie 3442 3452	pulmonaire
+T37	morphologie 3551 3558	lésions
+T38	morphologie 8388 8398	métastases
+T39	topographie 8399 8409	hépatiques
+T40	topographie 8423 8437	lobe hépatique
+T41	topographie 8469 8483	lobe hépatique

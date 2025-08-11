@@ -1,0 +1,94 @@
+T1	morphologie 64 73	néoplasme
+T2	topographie 79 87	œsophage
+T3	morphologie 241 257	mélanome muqueux
+T4	morphologie 1492 1526	lésions hypodenses des tissus mous
+T5	topographie 1553 1573	parenchyme hépatique
+T6	topographie 1591 1594	LHI
+T7	morphologie 1636 1646	métastases
+T8	morphologie 1683 1692	néoplasie
+T9	topographie 1693 1702	cervicale
+T10	topographie 1716 1724	œsophage
+T11	morphologie 1786 1791	masse
+T12	topographie 1855 1863	œsophage
+T13	morphologie 3466 3480	tumeur maligne
+T14	differenciation 3481 3495	indifférenciée
+T15	morphologie 3571 3575	GIST
+T16	morphologie 3591 3599	lymphome
+T17	morphologie 3601 3638	carcinome microcytaire et épidermoïde
+T18	morphologie 3686 3693	sarcome
+T19	differenciation 3694 3707	indifférencié
+T20	morphologie 3743 3752	carcinome
+T21	differenciation 3753 3766	indifférencié
+T22	morphologie 3892 3908	sarcome synovial
+T23	morphologie 4108 4114	lésion
+T24	morphologie 4632 4646	tumeur maligne
+T25	morphologie 4902 4922	lymphome anaplasique
+T26	morphologie 4957 4967	néoplasmes
+T27	differenciation 4968 4982	indifférenciés
+T28	morphologie 5006 5016	carcinomes
+T29	morphologie 5127 5152	leucémies granulocytaires
+T30	morphologie 5264 5271	sarcome
+T31	morphologie 5278 5286	mélanome
+T32	morphologie 5328 5336	sarcomes
+T33	topographie 5351 5364	squelettiques
+T34	morphologie 5368 5372	GIST
+T35	morphologie 5770 5786	mélanome muqueux
+T36	morphologie 5824 5846	tumeurs mélanomateuses
+T37	morphologie 5969 5977	mélanome
+T38	topographie 6018 6049	voies respiratoires supérieures
+T39	morphologie 6076 6092	sarcome synovial
+T40	morphologie 6099 6114	sarcome d'Ewing
+T41	morphologie 6176 6193	mélanome primaire
+T42	topographie 6200 6221	muqueuse œsophagienne
+T43	morphologie 6250 6256	tumeur
+T44	topographie 6257 6269	œsophagienne
+T45	topographie 6363 6376	paratrachéale
+T46	morphologie 6956 6988	progression locale de la maladie
+T47	topographie 7004 7012	œsophage
+T48	morphologie 7121 7136	tumeur primaire
+T49	topographie 7142 7150	œsophage
+T50	morphologie 7257 7263	tumeur
+T51	topographie 7269 7277	œsophage
+T52	morphologie 7688 7703	tumeur primaire
+T53	topographie 7709 7717	œsophage
+T54	morphologie 7824 7840	mélanome muqueux
+T55	morphologie 8487 8493	tumeur
+T56	topographie 8494 8506	œsophagienne
+T57	morphologie 8537 8548	adénopathie
+T58	topographie 8549 8558	axillaire
+T59	topographie 8562 8574	médiastinale
+T60	morphologie 8655 8662	lésions
+T61	topographie 8663 8673	hépatiques
+T62	morphologie 11097 11103	tumeur
+T63	topographie 11115 11122	trachée
+T64	morphologie 11155 11167	adénopathies
+T65	topographie 11235 11245	parenchyme
+T66	morphologie 11282 11289	lésions
+T67	topographie 11345 11348	LHI
+T68	morphologie 11370 11380	métastases
+T69	morphologie 11417 11426	néoplasie
+T70	topographie 11427 11436	cervicale
+T71	topographie 11450 11458	œsophage
+T72	morphologie 11490 11495	masse
+T73	topographie 11558 11566	œsophage
+T74	morphologie 11705 11711	tumeur
+T75	topographie 11720 11755	tiers moyen-supérieur de l'œsophage
+T76	topographie 11867 11880	paratrachéale
+T77	morphologie 12206 12230	foyers hypermétaboliques
+T78	topographie 12249 12253	lobe
+T79	morphologie 12421 12442	infiltration tumorale
+T80	morphologie 12490 12507	Mélanome primaire
+T81	topographie 12514 12536	muqueuse de l'œsophage
+T82	morphologie 12555 12565	métastases
+T83	topographie 12566 12576	hépatiques
+T84	morphologie 1400 1412	adénopathies
+T85	topographie 1422 1447	fenêtres aortopulmonaires
+T86	topographie 1451 1465	prévasculaires
+T87	morphologie 3912 3917	Ewing
+T88	topographie 5338 5349	musculaires
+T89	morphologie 6351 6362	adénopathie
+T90	morphologie 6595 6619;6626 6668	foyers hypermétaboliques compatibles avec une infiltration tumorale
+T91	topographie 6538 6558	parenchyme hépatique
+T92	topographie 11176 11199	fenêtre aortopulmonaire
+T93	topographie 11203 11216	prévasculaire
+T94	morphologie 11855 11866	adénopathie

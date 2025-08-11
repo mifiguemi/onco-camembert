@@ -1,0 +1,51 @@
+T1	morphologie 638 643	masse
+T2	topographie 657 666	testicule
+T3	morphologie 1047 1054	lésions
+T4	topographie 1055 1065	hépatiques
+T5	morphologie 1087 1097	métastases
+T6	morphologie 1105 1110	masse
+T7	topographie 1111 1124	supravésicale
+T8	morphologie 1185 1195	métastases
+T9	topographie 1196 1206	hépatiques
+T11	morphologie 1303 1309	nodule
+T12	topographie 1310 1320	pulmonaire
+T13	morphologie 1362 1367	masse
+T14	topographie 1368 1381	prévertébrale
+T15	morphologie 1476 1481	masse
+T16	topographie 1482 1490	scrotale
+T17	morphologie 1618 1635	tumeur carcinoïde
+T18	morphologie 1830 1851	tumeur neuroendocrine
+T19	topographie 1854 1870	origine inconnue
+T20	stade 1874 1882	stade IV
+T21	morphologie 1890 1895	masse
+T22	topographie 1909 1918	testicule
+T23	morphologie 2037 2043	tumeur
+T24	topographie 2051 2060	épididyme
+T25	morphologie 2094 2115	tumeur neuroendocrine
+T26	morphologie 2137 2162	tumeur carcinoïde maligne
+T27	morphologie 2678 2685	lésions
+T28	topographie 2686 2696	hépatiques
+T29	morphologie 2736 2741	masse
+T30	topographie 2742 2758	intra-abdominale
+T31	topographie 2788 2801	supravésicale
+T32	morphologie 2872 2889	images nodulaires
+T33	topographie 2905 2915	hémithorax
+T34	morphologie 3190 3207	Tumeur carcinoïde
+T35	topographie 3213 3222	épididyme
+T36	stade 3233 3241	stade IV
+T37	morphologie 3243 3253	métastases
+T38	topographie 3254 3264	hépatiques
+T39	topographie 3266 3277	pulmonaires
+T40	topographie 3281 3295	supravésicales
+T41	morphologie 3304 3321	tumeur carcinoïde
+T42	topographie 3332 3338	iléale
+T43	stade 3351 3359	stade IV
+T44	morphologie 3361 3371	métastases
+T45	topographie 3372 3382	hépatiques
+T46	topographie 3384 3395	pulmonaires
+T47	topographie 3399 3412	épididymaires
+T48	morphologie 4325 4336	progression
+T49	topographie 4337 4346	hépatique
+T51	morphologie 4379 4386	lésions
+T52	topographie 4387 4397	hépatiques
+T53	morphologie 5459 5482	progression néoplasique

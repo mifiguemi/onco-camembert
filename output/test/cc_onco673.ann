@@ -1,0 +1,16 @@
+T1	morphologie 287 299	neurofibrome
+T2	morphologie 370 379	carcinome
+T3	topographie 380 385	rénal
+T4	morphologie 386 404	à cellules claires
+T5	stade 415 423	stade IV
+T6	morphologie 429 437	atteinte
+T7	topographie 438 448	pulmonaire
+T8	topographie 452 465	ganglionnaire
+T9	morphologie 592 612	maladie métastatique
+T10	morphologie 1084 1096	adénopathies
+T11	morphologie 1700 1707	nodules
+T12	topographie 1708 1719	pulmonaires
+T13	morphologie 1774 1783	Carcinome
+T14	topographie 1784 1789	rénal
+T15	stade 1793 1801	stade IV
+T16	morphologie 3845 3865	maladie métastatique

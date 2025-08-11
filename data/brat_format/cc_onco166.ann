@@ -1,0 +1,41 @@
+T1	morphologie 283 311	carcinome à cellules claires
+T2	differenciation 312 322;338 345	de grade 2 Fuhrman
+T3	topographie 326 330	rein
+T5	morphologie 382 391	métastase
+T6	topographie 392 399	osseuse
+T7	morphologie 616 625	carcinome
+T8	topographie 646 660	origine rénale
+T9	morphologie 846 874	carcinome à cellules claires
+T10	stade 878 886	stade IV
+T11	morphologie 1316 1341	progression ganglionnaire
+T12	topographie 1342 1354	médiastinale
+T13	morphologie 1359 1365	nodule
+T14	topographie 1366 1376;1385 1399	pulmonaire lobe supérieur
+T15	topographie 1408 1411	LSI
+T16	morphologie 1419 1425	nodule
+T17	topographie 1426 1431	rénal
+T18	morphologie 1483 1492	néoplasme
+T19	topographie 1493 1498	rénal
+T20	morphologie 1795 1802	nodules
+T21	topographie 1811 1814	LSI
+T22	topographie 1821 1825	rein
+T23	morphologie 1938 1976	progression des ganglions lymphatiques
+T24	topographie 1977 1989	médiastinaux
+T25	morphologie 2006 2012	lésion
+T26	topographie 2013 2020	osseuse
+T27	morphologie 2169 2180	progression
+T28	topographie 2181 2188	osseuse
+T29	morphologie 2194 2204	métastases
+T30	morphologie 2238 2250	adénopathies
+T31	topographie 2251 2264	médiastinales
+T32	morphologie 3316 3322	masses
+T33	morphologie 6503 6515	adénopathies
+T34	topographie 6516 6529	médiastinales
+T35	morphologie 6536 6542	nodule
+T36	topographie 6559 6562	LSI
+T37	morphologie 7143 7150	nodules
+T38	topographie 7151 7162	pulmonaires
+T39	topographie 7171 7174	LSI
+T4	topographie 2047 2052	fémur
+T40	morphologie 2103 2112	captation
+T41	topographie 2121 2148	région sous-trochantérienne

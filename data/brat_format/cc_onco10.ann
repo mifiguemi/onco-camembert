@@ -1,0 +1,44 @@
+T1	morphologie 227 233	tumeur
+T2	morphologie 1080 1089	néoplasie
+T3	morphologie 1316 1325	métastase
+T7	morphologie 2026 2032	lésion
+T8	morphologie 2196 2205	Carcinome
+T10	morphologie 2258 2267	métastase
+T11	morphologie 2685 2705	infiltration maligne
+T12	morphologie 2762 2769	implant
+T14	morphologie 2878 2885	tumeurs
+T15	morphologie 2899 2908	carcinome
+T16	morphologie 2958 2967	néoplasie
+T17	morphologie 4198 4204	lésion
+T18	morphologie 7760 7781	atteinte métastatique
+T19	morphologie 8095 8110	tumeur primaire
+T20	morphologie 8122 8127	tumeu
+T4	morphologie 1459 1465	Tumeur
+T21	topographie 1466 1476	pulmonaire
+T22	stade 1477 1484	T4N0M1b
+T23	topographie 1334 1350	glande surrénale
+T24	topographie 234 240	rénale
+T25	topographie 1090 1100	pulmonaire
+T6	morphologie 1982 1991	Carcinome
+T26	topographie 1992 2002	pulmonaire
+T27	stade 2017 2024	T4N0M1b
+T28	topographie 2033 2042	cérébrale
+T29	topographie 2206 2216	pulmonaire
+T30	stade 2231 2238	T4N0M1b
+T9	morphologie 2240 2246	lésion
+T31	topographie 2247 2256	cérébrale
+T32	topographie 2268 2281	surrénalienne
+T13	stade 2815 2847	dissémination oligométastatique.
+T33	topographie 2778 2800	graisse péri-hépatique
+T34	topographie 2926 2932	poumon
+T35	topographie 2968 2974	rénale
+T36	topographie 4205 4218	surrénalienne
+T37	morphologie 4261 4267	lésion
+T38	topographie 4268 4278	pulmonaire
+T39	topographie 7795 7803	pancréas
+T40	topographie 8114 8117	LSD
+T45	morphologie 1534 1543	carcinome
+T46	differenciation 1544 1557	indifférencié
+T48	differenciation 2003 2016	indifférencié
+T50	differenciation 2217 2230	indifférencié
+T57	differenciation 2909 2922	indifférencié

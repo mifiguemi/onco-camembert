@@ -1,0 +1,52 @@
+T1	morphologie 107 128	tumeur neuroendocrine
+T2	topographie 129 141	pancréatique
+T3	stade 145 153	stade IV
+T4	morphologie 187 202	tumeur primaire
+T5	morphologie 564 574	métastases
+T6	topographie 575 585	hépatiques
+T7	morphologie 941 946	masse
+T8	morphologie 1336 1341	masse
+T9	topographie 1374 1391	queue du pancréas
+T10	morphologie 1447 1450	TNE
+T11	morphologie 1597 1604	lésions
+T12	topographie 1605 1615	hépatiques
+T13	morphologie 1631 1641	métastases
+T14	topographie 1668 1672	foie
+T15	morphologie 1825 1844	Occupation tumorale
+T16	topographie 1845 1854	hépatique
+T17	morphologie 2503 2523	lésions de captation
+T18	topographie 2524 2533	hépatique
+T19	morphologie 2601 2620	lésion de captation
+T20	topographie 2621 2630	hépatique
+T21	morphologie 2675 2682	lésions
+T22	topographie 2683 2693	hépatiques
+T23	morphologie 3077 3080	NST
+T24	topographie 3081 3093	pancréatique
+T25	stade 3097 3105	stade IV
+T26	stade 3107 3114	stade 2
+T27	morphologie 3135 3145	métastases
+T28	topographie 3146 3156	hépatiques
+T29	morphologie 3200 3214	masse tumorale
+T30	topographie 3215 3227	pancréatique
+T31	morphologie 3426 3441	tumeur primaire
+T32	morphologie 3785 3806	tumeur neuroendocrine
+T33	topographie 3810 3818	pancréas
+T34	morphologie 3871 3881	métastases
+T35	topographie 3882 3892	hépatiques
+T36	morphologie 3932 3938	tumeur
+T37	morphologie 4193 4203	métastases
+T38	morphologie 4978 4988	métastases
+T39	morphologie 5212 5218	cancer
+T40	morphologie 5363 5373	métastases
+T41	topographie 5374 5384	hépatiques
+T42	morphologie 5596 5606	métastases
+T43	topographie 5607 5617	hépatiques
+T44	morphologie 5683 5689	lésion
+T45	topographie 5703 5712	segment V
+T46	morphologie 5746 5752	lésion
+T47	topographie 5753 5768	sous-capsulaire
+T48	morphologie 5842 5848	lésion
+T49	topographie 5873 5885	segment VIII
+T50	morphologie 5946 5953	lésions
+T51	morphologie 6063 6073	métastases
+T52	morphologie 6192 6202	métastases

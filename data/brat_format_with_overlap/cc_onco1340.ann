@@ -1,0 +1,21 @@
+T1	morphologie 1762 1784	tumeur germinale mixte
+T2	morphologie 1794 1802	séminome
+T3	morphologie 1812 1834	tumeur du sac vitellin
+T4	morphologie 2067 2089	tumeur germinale mixte
+T5	morphologie 556 561	masse
+T6	topographie 614 627	fosse iliaque
+T7	expression_CIM 556 627	masse douloureuse mais non défensive a été palpée dans la fosse iliaque
+T8	morphologie 984 989	masse
+T9	topographie 958 971	fosse iliaque
+T10	expression_CIM 958 989	fosse iliaque droite, une masse
+T11	morphologie 1379 1384	masse
+T12	topographie 1406 1422	rétropéritonéale
+T13	expression_CIM 1379 1422	masse d'environ 10 x 9 cm, rétropéritonéale
+T14	expression_CIM 1762 1784	tumeur germinale mixte
+T15	expression_CIM 1794 1802	séminome
+T16	expression_CIM 1812 1834	tumeur du sac vitellin
+T17	expression_CIM 2067 2089	tumeur germinale mixte
+T18	morphologie 2095 2117	atteinte adénopathique
+T19	expression_CIM 2095 2117	atteinte adénopathique
+T20	morphologie 2699 2711	adénopathies
+T21	expression_CIM 2699 2711	adénopathies

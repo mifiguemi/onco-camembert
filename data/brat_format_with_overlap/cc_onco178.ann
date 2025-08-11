@@ -1,0 +1,34 @@
+T1	morphologie 169 187	leucémie chronique
+T2	morphologie 212 218	cancer
+T3	topographie 222 226	sein
+T4	morphologie 259 265	cancer
+T5	topographie 269 273	rein
+T6	morphologie 315 321	cancer
+T7	topographie 325 329	sein
+T8	morphologie 368 374	tumeur
+T9	topographie 375 384	cérébrale
+T10	morphologie 423 429	cancer
+T11	topographie 436 440	tête
+T12	topographie 447 450	cou
+T13	morphologie 941 946	masse
+T14	topographie 955 965	lobe moyen
+T15	morphologie 1024 1032	implants
+T16	topographie 1033 1041	pleuraux
+T17	morphologie 1169 1175	lésion
+T18	topographie 1176 1190	endobronchique
+T19	morphologie 1237 1242	masse
+T20	topographie 1243 1253	pulmonaire
+T21	morphologie 1285 1299	adénocarcinome
+T22	morphologie 1484 1498	Adénocarcinome
+T23	topographie 1499 1509	pulmonaire
+T24	stade 1513 1521	stade IV
+T26	morphologie 1559 1573	adénocarcinome
+T27	topographie 1574 1584	pulmonaire
+T28	stade 1588 1596	stade IV
+T29	morphologie 2281 2292	progression
+T30	topographie 2293 2301	pleurale
+T31	topographie 2303 2314	péritonéale
+T32	topographie 2318 2327	cérébrale
+T33	morphologie 2859 2874	image nodulaire
+T34	morphologie 3597 3606;3613 3631	carcinome à cellules claires
+T35	topographie 3607 3612	rénal

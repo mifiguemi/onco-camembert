@@ -1,0 +1,31 @@
+T1	morphologie 95 125	carcinome canalaire infiltrant
+T2	topographie 145 149	sein
+T3	stade 158 165	cT3N1M0
+T4	stade 512 525	ypT0N0(0/5)M0
+T5	morphologie 1337 1362	Conglomérat adénopathique
+T6	topographie 1363 1372	axillaire
+T7	morphologie 1650 1655	masse
+T8	morphologie 1657 1668	Adénopathie
+T9	topographie 1669 1678	axillaire
+T10	morphologie 1793 1825	processus néoplasique infiltrant
+T11	morphologie 1827 1838	Adénopathie
+T12	topographie 1839 1848	axillaire
+T13	topographie 1975 1991	région axillaire
+T14	topographie 2000 2013	prévasculaire
+T15	topographie 2015 2026	précarinale
+T16	topographie 2030 2042	souscarinale
+T17	morphologie 2180 2192	Condensation
+T18	morphologie 2640 2649	carcinome
+T19	morphologie 2715 2730	Récidive locale
+T20	topographie 2732 2745	ganglionnaire
+T21	topographie 2749 2759	pulmonaire
+T22	morphologie 2765 2774	carcinome
+T23	topographie 2775 2783	mammaire
+T24	morphologie 3440 3446	tumeur
+T25	morphologie 4380 4392	adénopathies
+T26	topographie 4393 4406	médiastinales
+T27	topographie 1617 1636	parenchyme mammaire
+T28	morphologie 1942 1953	Adénopathie
+T29	morphologie 4286 4298	adénopathies
+T30	topographie 4299 4309	axillaires
+T31	topographie 2223 2240	bases pulmonaires

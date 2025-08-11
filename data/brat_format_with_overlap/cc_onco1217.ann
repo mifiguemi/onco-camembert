@@ -1,0 +1,24 @@
+T1	morphologie 757 771	masse tumorale
+T2	morphologie 2089 2095	tumeur
+T3	morphologie 2128 2157	mésothéliome malin épithélial
+T4	morphologie 2250 2295	Mésothéliome pleural malin de type épithélial
+T5	morphologie 2712 2718	tumeur
+T6	morphologie 461 466	masse
+T7	topographie 467 483	latéro-cervicale
+T8	expression_CIM 461 483	masse latéro-cervicale
+T9	topographie 780 798	détroit thoracique
+T10	topographie 818 829	médiastinal
+T11	expression_CIM 757 829	masse tumorale dans le détroit thoracique supérieur droit et médiastinal
+T12	morphologie 1074 1079	masse
+T13	topographie 1080 1096	latéro-cervicale
+T14	expression_CIM 1074 1096	masse latéro-cervicale
+T15	morphologie 1256 1261	masse
+T16	topographie 1281 1283	C2
+T17	topographie 1287 1296	médiastin
+T18	expression_CIM 1256 1296	masse décrite s'étend de C2 au médiastin
+T19	topographie 2096 2105	cervicale
+T20	expression_CIM 2089 2105	tumeur cervicale
+T21	expression_CIM 2128 2157	mésothéliome malin épithélial
+T22	expression_CIM 2250 2295	Mésothéliome pleural malin de type épithélial
+T23	topographie 2719 2728	cervicale
+T24	expression_CIM 2712 2728	tumeur cervicale

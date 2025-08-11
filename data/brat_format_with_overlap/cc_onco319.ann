@@ -1,0 +1,58 @@
+T1	morphologie 287 294	nodules
+T2	topographie 303 307	sein
+T3	topographie 444 455	CSE du sein
+T5	morphologie 761 785	rehaussements nodulaires
+T6	topographie 806 809	CSE
+T7	topographie 865 869	sein
+T8	morphologie 877 899	rehaussement nodulaire
+T9	topographie 918 921	CSD
+T10	morphologie 945 951	nodule
+T11	morphologie 982 1012	carcinome canalaire infiltrant
+T12	differenciation 1046 1059	de haut grade
+T13	morphologie 1230 1239	captation
+T14	topographie 1248 1252	sein
+T15	topographie 1264 1268	sein
+T16	morphologie 1310 1317	lésions
+T17	topographie 1318 1328	hépatiques
+T18	topographie 1333 1348	corps vertébral
+T19	topographie 1357 1365	omoplate
+T20	morphologie 1403 1412	carcinome
+T21	topographie 1413 1421	mammaire
+T22	stade 1436 1453	stade clinique IV
+T23	morphologie 1465 1475	métastases
+T24	topographie 1476 1486	hépatiques
+T25	topographie 1490 1498	osseuses
+T26	morphologie 2220 2241	carcinome intraductal
+T27	differenciation 2242 2255	de haut grade
+T28	morphologie 3371 3378	nodules
+T29	morphologie 3779 3800	lésions métastatiques
+T30	topographie 3819 3833	infratentoriel
+T31	topographie 3842 3858	lobe cérébelleux
+T32	morphologie 4071 4077	lésion
+T33	topographie 4115 4128	lobe pariétal
+T34	morphologie 4149 4179	Carcinome canalaire infiltrant
+T35	topographie 4183 4187	sein
+T36	stade 4202 4219	stade clinique IV
+T37	morphologie 4242 4252	métastases
+T38	topographie 4253 4263	hépatiques
+T39	topographie 4267 4275	osseuses
+T40	morphologie 4323 4333	Métastases
+T41	topographie 4334 4344	cérébrales
+T42	morphologie 4375 4384	carcinome
+T43	topographie 4388 4392	sein
+T44	morphologie 4509 4515	lésion
+T45	topographie 4516 4528	cérébelleuse
+T46	morphologie 4538 4545	lésions
+T47	topographie 4546 4563	intratentorielles
+T48	morphologie 4573 4579	lésion
+T49	topographie 4580 4589	pariétale
+T50	morphologie 4639 4649	métastases
+T51	topographie 4650 4660	cérébrales
+T52	morphologie 4666 4696	carcinome canalaire infiltrant
+T53	topographie 4700 4704	sein
+T54	morphologie 5587 5605	lésions nodulaires
+T55	morphologie 434 440;463 500	foyers avec une forte suspicion de malignité
+T4	morphologie 600 631	zones de rehaussement nodulaire
+T56	topographie 566 570	sein
+T57	topographie 642 657	rétro-aréolaire
+T58	topographie 3355 3359	sein

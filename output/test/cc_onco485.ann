@@ -1,0 +1,40 @@
+T1	morphologie 193 199	cancer
+T2	topographie 203 207	sein
+T3	morphologie 661 666	masse
+T4	topographie 675 678	LSD
+T5	morphologie 969 974	masse
+T6	topographie 1021 1024	LSD
+T7	morphologie 1081 1087	tumeur
+T8	morphologie 1139 1151	Adénopathies
+T9	topographie 1194 1198	hile
+T10	topographie 1211 1220	médiastin
+T11	topographie 1223 1243	région paratrachéale
+T12	morphologie 1252 1277	conglomérat adénopathique
+T13	topographie 1302 1322	région sous-carénale
+T14	topographie 1324 1348	région para-œsophagienne
+T15	morphologie 1438 1450	adénopathies
+T16	topographie 1451 1465	sous-carénales
+T17	topographie 1469 1483	paratrachéales
+T18	morphologie 1604 1615	adénopathie
+T19	topographie 1616 1629	paratrachéale
+T20	morphologie 1657 1666	métastase
+T21	morphologie 1672 1686	adénocarcinome
+T22	differenciation 1687 1702	peu différencié
+T23	morphologie 1750 1755	masse
+T24	topographie 1764 1767	LSD
+T25	morphologie 1834 1846	Adénopathies
+T26	topographie 1847 1860	médiastinales
+T27	topographie 1861 1875	paratrachéales
+T28	morphologie 2019 2033	Adénocarcinome
+T29	topographie 2034 2044	pulmonaire
+T30	topographie 2045 2048	LSD
+T31	stade 2049 2056	cT4 pN2
+T32	stade 2057 2061	cM0,
+T33	stade 2062 2072	stade IIIB
+T34	morphologie 2829 2834	masse
+T35	topographie 2835 2845	pulmonaire
+T36	morphologie 2944 2958	masse tumorale
+T37	topographie 2959 2962	LSD
+T38	morphologie 3132 3143	progression
+T39	topographie 3144 3154	pulmonaire
+T40	topographie 3158 3170	médiastinale

@@ -1,0 +1,12 @@
+T1	morphologie 410 424	adénocarcinome
+T2	topographie 425 437	rectal-sigma
+T3	morphologie 455 465	métastases
+T4	topographie 466 476	hépatiques
+T5	morphologie 583 597	adénocarcinome
+T6	stade 601 609	stade IV
+T7	topographie 613 628	rectum-sigmoïde
+T8	morphologie 3509 3523	adénocarcinome
+T9	topographie 3527 3532	sigma
+T10	stade 3533 3544	ypT3 N1b M1
+T11	morphologie 3561 3581	persistance tumorale
+T12	topographie 3582 3591	hépatique

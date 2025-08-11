@@ -1,0 +1,50 @@
+T1	morphologie 428 434	tumeur
+T2	morphologie 774 782	tératome
+T3	morphologie 1184 1190	tumeur
+T5	morphologie 1616 1633	Tératome immature
+T6	expression_CIM 1745 1765	implants péritonéaux
+T7	morphologie 1845 1853;1862 1870	tératome immature
+T8	morphologie 2034 2042	implants
+T9	morphologie 3081 3091	métastases
+T10	morphologie 3256 3271	implant tumoral
+T11	expression_CIM 3554 3591	implantation dans la poche de Douglas
+T12	morphologie 3846 3883	tissu tératomateux entièrement mature
+T13	expression_CIM 3886 3916	tératomes immatures de grade 0
+T14	topographie 449 491	de l'hypogastre à la région sus-ombilicale
+T15	expression_CIM 428 491	tumeur mobile allant de l'hypogastre à la région sus-ombilicale
+T16	morphologie 654 659	masse
+T17	topographie 660 670	abdominale
+T18	expression_CIM 654 670	masse abdominale
+T19	expression_CIM 774 782	tératome
+T20	morphologie 787 793	lésion
+T21	expression_CIM 787 793	lésion
+T4	expression_CIM 1184 1190	tumeur
+T22	stade 1637 1645	stade IV
+T23	expression_CIM 1616 1633	Tératome immature
+T24	morphologie 1745 1753	implants
+T25	topographie 1754 1765	péritonéaux
+T26	topographie 1854 1861	ovarien
+T27	differenciation 1871 1881	de grade 3
+T28	expression_CIM 1845 1881	tératome ovarien immature de grade 3
+T29	morphologie 1891 1899	implants
+T30	topographie 1907 1915	épiploon
+T31	expression_CIM 1891 1915	implants dans l'épiploon
+T32	topographie 2043 2058	péri-hépatiques
+T33	topographie 2060 2071	péritonéaux
+T34	topographie 2078 2092	sac de Douglas
+T35	expression_CIM 2034 2092	implants péri-hépatiques, péritonéaux et du sac de Douglas
+T36	morphologie 2107 2123	lymphadénopathie
+T37	topographie 2133 2155	sinus cardiophréniques
+T38	expression_CIM 2107 2155	lymphadénopathie dans les sinus cardiophréniques
+T39	topographie 3092 3106	périhépatiques
+T40	expression_CIM 3081 3106	métastases périhépatiques
+T41	topographie 3280 3296	poche de Douglas
+T42	expression_CIM 3256 3296	implant tumoral dans la poche de Douglas
+T43	morphologie 3554 3566	implantation
+T44	topographie 3575 3591	poche de Douglas
+T45	expression_CIM 3846 3883	tissu tératomateux entièrement mature
+T46	topographie 3815 3828	tissu adipeux
+T47	morphologie 3829 3838	métastasé
+T48	expression_CIM 3815 3838	tissu adipeux métastasé
+T49	morphologie 3886 3905	tératomes immatures
+T50	differenciation 3906 3916	de grade 0

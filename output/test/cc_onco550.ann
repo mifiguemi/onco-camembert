@@ -1,0 +1,23 @@
+T1	morphologie 580 589	carcinome
+T2	topographie 590 599	gastrique
+T3	morphologie 646 652	cancer
+T4	topographie 656 662	poumon
+T5	morphologie 1608 1614	lésion
+T6	topographie 1687 1691	lobe
+T7	morphologie 1800 1806	nodule
+T8	morphologie 2023 2038	hépatocarcinome
+T9	morphologie 2040 2043	CHC
+T10	morphologie 2180 2183	CHC
+T11	morphologie 2449 2452	CHC
+T12	morphologie 2545 2560	image nodulaire
+T13	morphologie 2717 2735	nodule dysplasique
+T14	morphologie 2742 2745	CHC
+T15	morphologie 2768 2774	nodule
+T16	topographie 2783 2793	segment VI
+T17	morphologie 2897 2903	lésion
+T18	morphologie 3071 3077	lésion
+T19	topographie 3078 3087	hépatique
+T20	morphologie 3207 3210	CHC
+T21	stade 3214 3226	stade BCLC-B
+T22	stade 3265 3272	stade B
+T23	morphologie 5949 5952	CHC

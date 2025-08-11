@@ -1,0 +1,56 @@
+T1	morphologie 209 215	masses
+T2	topographie 216 233	rétropéritonéales
+T3	topographie 264 278	rétropéritoine
+T4	morphologie 292 319	conglomérats adénopathiques
+T5	morphologie 447 459	adénopathies
+T6	topographie 492 505	méso-intestin
+T7	topographie 510 524	hile hépatique
+T8	topographie 528 537	splénique
+T9	topographie 542 554	péripancréas
+T10	topographie 562 578	chaînes iliaques
+T11	morphologie 620 647	syndrome lymphoprolifératif
+T12	morphologie 762 772	métastases
+T13	morphologie 778 800	carcinome embryonnaire
+T14	morphologie 828 834	lésion
+T15	topographie 835 847	testiculaire
+T16	morphologie 941 947	tumeur
+T17	morphologie 959 994	néoplasme germinatif intratubulaire
+T18	morphologie 1088 1122	tumeur germinale non séminomateuse
+T19	morphologie 1124 1128	TGNS
+T20	morphologie 1265 1271	masses
+T21	morphologie 1307 1313	tumeur
+T22	morphologie 1470 1482	adénopathies
+T23	topographie 1483 1500	rétropéritonéales
+T24	morphologie 1529 1545	tumeur germinale
+T25	morphologie 1576 1583	sarcome
+T26	topographie 1584 1599	rétropéritonéal
+T27	differenciation 1600 1613	de haut grade
+T28	morphologie 2140 2146	tumeur
+T29	topographie 2147 2163	rétropéritonéale
+T30	morphologie 2920 2929	formation
+T31	topographie 2982 2996	rétropéritoine
+T32	morphologie 3280 3285	masse
+T33	topographie 3286 3302	rétropéritonéale
+T34	morphologie 3496 3513	récidive tumorale
+T35	topographie 3514 3530	rétropéritonéale
+T36	morphologie 3563 3586	Sarcome des tissus mous
+T37	morphologie 3663 3710	tumeur maligne de la gaine du nerf périphérique
+T38	differenciation 3713 3733	grade histologique 3
+T39	morphologie 3861 3866	masse
+T40	topographie 3867 3883	rétropéritonéale
+T41	morphologie 4083 4104	processus néoplasique
+T42	differenciation 4105 4118	de haut grade
+T43	morphologie 4133 4140	sarcome
+T44	morphologie 4177 4183	lésion
+T45	topographie 4184 4200	rétropéritonéale
+T46	morphologie 4312 4319	sarcome
+T47	topographie 4320 4335	rétropéritonéal
+T48	morphologie 4652 4659	sarcome
+T49	topographie 4660 4675	rétropéritonéal
+T50	morphologie 4837 4843	tumeur
+T51	morphologie 5176 5182	tumeur
+T52	topographie 5183 5199	rétropéritonéale
+T53	morphologie 5581 5588	sarcome
+T54	topographie 5589 5604	rétropéritonéal
+T55	differenciation 5605 5618	de haut grade
+T56	morphologie 5939 5945	tumeur

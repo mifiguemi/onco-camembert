@@ -1,0 +1,39 @@
+T1	morphologie 227 236	néoplasie
+T2	morphologie 283 293	métastases
+T3	morphologie 518 527;534 552	carcinome à cellules claires
+T4	stade 553 561	pT3aNxMx
+T6	morphologie 653 659	tumeur
+T7	morphologie 881 890	métastase
+T10	morphologie 3496 3506	métastases
+T11	morphologie 4220 4229	métastase
+T13	morphologie 4596 4605	métastase
+T15	morphologie 4897 4906;4920 4938	Carcinome à cellules claires
+T17	morphologie 5736 5742	tumeur
+T18	morphologie 5873 5882	métastase
+T19	topographie 237 243	rénale
+T21	topographie 294 305	pulmonaires
+T23	topographie 528 533	rénal
+T25	differenciation 563 580	Grade nucléaire 3
+T26	topographie 891 909	cérébrale frontale
+T8	morphologie 3236 3243	nodules
+T28	topographie 3244 3255	pulmonaires
+T29	topographie 3507 3518	pulmonaires
+T31	morphologie 3538 3544	lésion
+T32	topographie 3613 3629	opercule frontal
+T34	morphologie 3827 3834	lésions
+T36	morphologie 4045 4052	lésions
+T38	topographie 4230 4238	frontale
+T40	morphologie 4532 4560	carcinome à cellules claires
+T41	differenciation 4561 4574	de haut grade
+T43	morphologie 4611 4620;4642 4660	carcinome à cellules claires
+T44	topographie 4621 4626	rénal
+T14	topographie 4907 4912	rénal
+T47	stade 4940 4948	stade IV
+T48	morphologie 4950 4952	M1
+T49	topographie 4953 4959	poumon
+T50	topographie 4963 4970	cerveau
+T52	morphologie 4975 4986	progression
+T53	topographie 4987 4997	pulmonaire
+T54	topographie 5001 5009	dermique
+T57	morphologie 5886 5895	carcinome
+T58	topographie 5896 5901	rénal

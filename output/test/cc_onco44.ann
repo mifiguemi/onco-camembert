@@ -1,0 +1,60 @@
+T1	morphologie 562 568	nodule
+T2	topographie 572 576	sein
+T3	morphologie 730 735	Masse
+T4	topographie 777 781	sein
+T5	morphologie 976 1004	lésion suspecte de malignité
+T6	topographie 1013 1017	sein
+T7	stade 1052 1055	cT3
+T8	morphologie 1074 1086	adénopathies
+T9	topographie 1087 1097	axillaires
+T10	stade 1099 1102	cN1
+T11	morphologie 1113 1119	nodule
+T12	topographie 1120 1128	mammaire
+T13	morphologie 1148 1178	carcinome canalaire infiltrant
+T14	topographie 1182 1186	sein
+T15	differenciation 1194 1206	de grade III
+T16	morphologie 1350 1359	carcinome
+T17	morphologie 1407 1437	carcinome canalaire infiltrant
+T18	topographie 1441 1445	sein
+T19	differenciation 1453 1465	de grade III
+T20	stade 1562 1569	cT3N1M0
+T21	stade 1571 1581	stade IIIA
+T22	morphologie 1620 1629	carcinome
+T23	stade 1630 1647	localement avancé
+T24	morphologie 2386 2416	carcinome canalaire infiltrant
+T25	differenciation 2417 2429	de grade III
+T26	stade 2433 2442	pT3ypN2M0
+T27	morphologie 3278 3285	lésions
+T28	topographie 3303 3315	os sphénoïde
+T29	morphologie 3411 3418	lésions
+T30	topographie 3438 3442	foie
+T31	morphologie 3448 3460	micronodules
+T32	topographie 3461 3472	pulmonaires
+T33	morphologie 3480 3487	lésions
+T34	topographie 3488 3496	osseuses
+T35	morphologie 3497 3505	lytiques
+T36	topographie 3552 3559	iliaque
+T37	morphologie 3665 3672	rechute
+T38	morphologie 3676 3682	cancer
+T39	topographie 3686 3690	sein
+T40	topographie 3691 3700	hépatique
+T41	topographie 3702 3712	pulmonaire
+T42	topographie 3724 3730	osseux
+T43	morphologie 3970 3977	lésions
+T44	topographie 3978 3999	osseuses sphénoïdales
+T45	topographie 4003 4013	cervicales
+T46	morphologie 4176 4214	myélome multiple à chaîne légère kappa
+T47	morphologie 4397 4405	atteinte
+T48	topographie 4406 4415	hépatique
+T49	morphologie 4499 4511	infiltration
+T50	topographie 4512 4521	hépatique
+T51	morphologie 4529 4541	plasmocytome
+T52	morphologie 4542 4549	myélome
+T53	morphologie 4647 4664	lésions tumorales
+T54	topographie 4678 4694	squelette osseux
+T55	topographie 4713 4717	foie
+T56	topographie 4747 4764	queue du pancréas
+T57	morphologie 4845 4861	myélome multiple
+T58	morphologie 4872 4878	cancer
+T59	topographie 4882 4886	sein
+T60	morphologie 5143 5150	lésions

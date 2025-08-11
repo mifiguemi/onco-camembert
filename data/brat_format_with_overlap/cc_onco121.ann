@@ -1,0 +1,68 @@
+T1	morphologie 150 159	carcinome
+T2	morphologie 223 232	néoplasie
+T3	morphologie 1194 1200	cancer
+T5	morphologie 3269 3279	métastases
+T9	morphologie 4522 4552	carcinome lobulaire infiltrant
+T11	morphologie 4717 4726	métastase
+T14	morphologie 5116 5125	métastase
+T15	morphologie 5156 5186	Carcinome lobulaire infiltrant
+T17	morphologie 5456 5477	métastases à distance
+T18	topographie 163 178	col de l'utérus
+T19	expression_CIM 150 178	carcinome du col de l'utérus
+T20	topographie 233 241	génitale
+T21	expression_CIM 223 241	néoplasie génitale
+T22	topographie 1204 1208	sein
+T23	expression_CIM 1194 1209	cancer du sein,
+T24	morphologie 1363 1371	grosseur
+T25	topographie 1420 1428	aisselle
+T26	expression_CIM 1363 1428	grosseur douloureuse de la taille d'un centimètre dans l'aisselle
+T27	morphologie 2184 2190	dureté
+T28	topographie 2209 2232	quadrant supéro-externe
+T29	expression_CIM 2184 2232	dureté de 4,5 cm dans le quadrant supéro-externe
+T30	morphologie 2291 2298	duretés
+T31	expression_CIM 2291 2298	duretés
+T32	expression_CIM 3269 3323	métastases, ont été observées dans la région axillaire
+T33	morphologie 3167 3179	adénopathies
+T34	expression_CIM 3167 3179	adénopathies
+T4	morphologie 2954 2969	image nodulaire
+T35	topographie 2991 3007	région axillaire
+T36	expression_CIM 2954 3007	image nodulaire hypoéchogène dans la région axillaire
+T37	topographie 3314 3323	axillaire
+T38	morphologie 3735 3741	lésion
+T39	topographie 3800 3817	sein surnuméraire
+T40	expression_CIM 3735 3817	lésion déjà décrite à la mammographie et à l'échographie dans le sein surnuméraire
+T41	morphologie 3832 3858	adénopathies métastatiques
+T42	topographie 3867 3883	région axillaire
+T6	expression_CIM 3832 3883	adénopathies métastatiques dans la région axillaire
+T43	morphologie 3565 3585	rehaussement intense
+T44	topographie 3477 3517	quadrant supérieur externe (EOC) du sein
+T45	expression_CIM 3477 3585	quadrant supérieur externe (EOC) du sein gauche, après administration de gadolinium, un rehaussement intense
+T46	morphologie 4081 4097	lymphadénopathie
+T47	topographie 4123 4146	chaîne mammaire interne
+T48	expression_CIM 4081 4146	lymphadénopathie subcentimétrique dans la chaîne mammaire interne
+T7	morphologie 4242 4325	atteinte importante d'origine métastatique probable dans les ganglions lymphatiques
+T8	topographie 4326 4336	axillaires
+T49	topographie 4358 4379	chaîne rétropectorale
+T50	expression_CIM 4242 4379	atteinte importante d'origine métastatique probable dans les ganglions lymphatiques axillaires (jusqu'à 3 cm) et la chaîne rétropectorale
+T51	expression_CIM 4522 4552	carcinome lobulaire infiltrant
+T10	expression_CIM 4677 4726	ganglion lymphatique axillaire gauche : métastase
+T52	morphologie 4732 4741	carcinome
+T53	expression_CIM 4732 4741	carcinome
+T54	topographie 4677 4707	ganglion lymphatique axillaire
+T13	morphologie 5089 5095	lésion
+T55	expression_CIM 5089 5125	lésion compatible avec une métastase
+T12	topographie 5190 5194	sein
+T56	topographie 5208 5222;5230 5242	sein axillaire surnuméraire
+T57	expression_CIM 5156 5242	Carcinome lobulaire infiltrant du sein gauche et du sein axillaire gauche surnuméraire
+T58	stade 5280 5284;5341 5345;5444 5447	cT4b cN3a cM0
+T16	expression_CIM 5456 5477	métastases à distance
+T59	morphologie 5347 5363	lymphadénopathie
+T60	topographie 5364 5378	rétropectorale
+T61	expression_CIM 5347 5378	lymphadénopathie rétropectorale
+T62	morphologie 5393 5409	lymphadénopathie
+T63	topographie 5410 5426	mammaire interne
+T64	expression_CIM 5393 5426	lymphadénopathie mammaire interne
+T65	morphologie 7024 7030	dureté
+T66	topographie 6982 6990	aisselle
+T67	topographie 6962 6979	sein surnuméraire
+T68	expression_CIM 6962 7030	sein surnuméraire/l'aisselle gauche, il n'y a presque plus de dureté

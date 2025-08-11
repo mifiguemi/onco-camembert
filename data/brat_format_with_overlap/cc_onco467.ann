@@ -1,0 +1,21 @@
+T1	morphologie 236 244	mélanome
+T2	topographie 253 276	région lombaire dorsale
+T3	morphologie 536 547	adénopathie
+T4	morphologie 566 575	métastase
+T5	morphologie 579 587	mélanome
+T6	topographie 596 614	région obturatrice
+T7	morphologie 801 813	adénopathies
+T8	topographie 846 868	région inguinofémorale
+T9	morphologie 961 969	récidive
+T10	morphologie 987 995	mélanome
+T11	morphologie 1366 1378	adénopathies
+T12	topographie 1379 1392	mésentériques
+T13	morphologie 1602 1610	mélanome
+T14	morphologie 3633 3639	masses
+T15	morphologie 6461 6475	Mélanome malin
+T16	stade 6479 6487	stade IV
+T17	morphologie 7788 7795	lésions
+T18	topographie 7796 7806	cérébrales
+T19	topographie 970 983	ganglionnaire
+T20	morphologie 1578 1586	récidive
+T21	topographie 1587 1598	intestinale

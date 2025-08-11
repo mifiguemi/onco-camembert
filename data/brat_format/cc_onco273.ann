@@ -1,0 +1,14 @@
+T1	morphologie 912 924	adénopathies
+T2	topographie 925 933	hilaires
+T3	topographie 937 950	médiastinales
+T4	topographie 1003 1017	paratrachéales
+T5	morphologie 1357 1366	néoplasme
+T6	topographie 1367 1377	pulmonaire
+T7	morphologie 2893 2907	adénocarcinome
+T8	topographie 2910 2928	origine pulmonaire
+T9	morphologie 3296 3310	adénocarcinome
+T10	topographie 3311 3321	pulmonaire
+T11	stade 3325 3333	stade IV
+T13	topographie 1021 1036	sous-carénaires
+T14	topographie 977 1001	fenêtre aorto-pulmonaire
+T15	topographie 952 967	pré-vasculaires

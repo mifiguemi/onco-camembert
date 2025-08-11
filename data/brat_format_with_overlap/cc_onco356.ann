@@ -1,0 +1,14 @@
+T1	morphologie 356 390	tumeur stromale gastro-intestinale
+T3	topographie 398 412	iléon terminal
+T4	morphologie 667 688	récidive métastatique
+T5	morphologie 1299 1333	Tumeur stromale gastro-intestinale
+T7	morphologie 1391 1397	tumeur
+T8	morphologie 1399 1430	Néoplasme à cellules fusiformes
+T9	morphologie 1822 1826	GIST
+T10	morphologie 1863 1871	Récidive
+T11	morphologie 1877 1887	métastases
+T12	topographie 1888 1900	péritonéales
+T13	morphologie 2611 2616;2628 2650	masse évocatrice de récidive
+T14	morphologie 2915 2923	implants
+T15	topographie 2924 2935	péritonéaux
+T16	morphologie 3645 3651	tumeur

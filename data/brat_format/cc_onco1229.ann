@@ -1,0 +1,52 @@
+T4	morphologie 2020 2026	tumeur
+T5	morphologie 2090 2099	métastase
+T8	morphologie 2756 2777	Tumeur neuroendocrine
+T9	morphologie 3068 3075	lésions
+T14	morphologie 765 776	Adénopathie
+T15	topographie 789 805	sus-claviculaire
+T16	morphologie 965 970	masse
+T18	morphologie 1448 1451	LOE
+T19	topographie 1452 1462	hépatiques
+T20	morphologie 1557 1576	masse adénopathique
+T21	topographie 1577 1589	médiastinale
+T23	morphologie 1591 1596	masse
+T24	topographie 1597 1610	paratrachéale
+T26	morphologie 1661 1664	LOE
+T27	topographie 1689 1697	segments
+T29	morphologie 1699 1711	Adénopathies
+T30	topographie 1712 1726	périhépatiques
+T31	topographie 1730 1747	rétropéritonéales
+T33	morphologie 1779 1784	Masse
+T35	morphologie 1840 1865	conglomérat adénopathique
+T37	morphologie 1869 1874	masse
+T38	topographie 1875 1883	jéjunale
+T40	morphologie 1886 1894	Implants
+T41	topographie 1895 1906	péritonéaux
+T44	morphologie 2109 2133	carcinome neuroendocrine
+T45	differenciation 2134 2150	bien différencié
+T46	topographie 2153 2187	origine gastro-entéro-pancréatique
+T48	morphologie 2404 2415	adénopathie
+T49	topographie 2416 2432	sus-claviculaire
+T50	morphologie 2528 2536	implants
+T51	topographie 2537 2548	péritonéaux
+T52	topographie 2780 2814	origine gastro-entéro-pancréatique
+T53	differenciation 2828 2845	bien différenciée
+T55	morphologie 2851 2861	métastases
+T56	topographie 2862 2872	hépatiques
+T57	topographie 2876 2890	ganglionnaires
+T59	topographie 3076 3086	hépatiques
+T60	topographie 3090 3102	péritonéales
+T62	morphologie 3110 3122	adénopathies
+T63	topographie 3123 3140	rétropéritonéales
+T10	morphologie 3359 3380	tumeur neuroendocrine
+T65	differenciation 3394 3411	bien différenciée
+T66	stade 3381 3393	métastatique
+T68	morphologie 4001 4008	lésions
+T69	topographie 4009 4019	hépatiques
+T70	morphologie 3920 3947	conglomérats adénopathiques
+T71	topographie 3948 3960	médiastinaux
+T72	topographie 3964 3974	abdominaux
+T74	morphologie 4129 4135	lésion
+T75	topographie 4136 4148	mésentérique
+T76	morphologie 4216 4222	lésion
+T77	topographie 4223 4236	surrénalienne

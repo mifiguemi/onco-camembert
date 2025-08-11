@@ -1,0 +1,31 @@
+T1	morphologie 114 120	nodule
+T2	topographie 121 149	pulmonaire du lobe supérieur
+T3	morphologie 161 173	adénopathies
+T4	topographie 174 192	hiliomédiastinales
+T5	morphologie 276 297	carcinome épidermoïde
+T6	topographie 303 316	aileron nasal
+T7	morphologie 441 450	néoplasme
+T8	topographie 451 456	nasal
+T9	morphologie 709 731	carcinome microcytaire
+T10	topographie 732 742	pulmonaire
+T11	stade 743 750	cT3N3M0
+T12	morphologie 1904 1910	lésion
+T13	morphologie 1935 1944	néoplasie
+T14	topographie 1945 1955	pulmonaire
+T15	morphologie 2292 2298	lésion
+T16	topographie 2299 2305	nasale
+T17	morphologie 2933 2939	nodule
+T18	topographie 2948 2962	lobe supérieur
+T19	morphologie 3194 3216	Carcinome microcytaire
+T20	topographie 3217 3227	pulmonaire
+T21	stade 3234 3241	ct3n3m0
+T22	morphologie 3244 3265	Carcinome épidermoïde
+T23	topographie 3280 3290	ala nasale
+T24	morphologie 3981 4006	progression de la maladie
+T25	topographie 4016 4023	poumons
+T26	topographie 4028 4034	plèvre
+T27	topographie 4065 4077	médiastinaux
+T28	topographie 4081 4099	supraclaviculaires
+T29	morphologie 4387 4394	maladie
+T30	topographie 4395 4405	pulmonaire
+T31	morphologie 4590 4609	maladie néoplasique

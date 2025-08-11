@@ -1,0 +1,46 @@
+T1	morphologie 130 139	carcinome
+T3	morphologie 300 303	CDI
+T4	stade 357 371	pT2 N20+/22 M0
+T5	morphologie 1856 1865	métastase
+T6	morphologie 2650 2659	néoplasme
+T7	morphologie 2922 2928	tumeur
+T8	morphologie 2964 2991	carcinome canalaire in situ
+T10	morphologie 3208 3217	métastase
+T11	morphologie 3399 3405	tumeur
+T12	morphologie 3447 3488	récidive à distance de la première tumeur
+T13	morphologie 4473 4482	néoplasme
+T14	morphologie 4827 4833	tumeur
+T16	morphologie 5155 5161	tumeur
+T17	morphologie 5268 5271	IDC
+T18	topographie 143 147	sein
+T20	differenciation 306 322	de grade III/III
+T21	morphologie 268 298	carcinome canalaire infiltrant
+T22	morphologie 1544 1560	lymphadénopathie
+T23	topographie 1561 1570	axillaire
+T25	morphologie 1599 1616	lymphadénomégalie
+T27	morphologie 1699 1721	ganglions lymphatiques
+T28	topographie 1722 1732	axillaires
+T31	morphologie 1869 1878	carcinome
+T32	topographie 1879 1887	mammaire
+T34	morphologie 1953 1959	lésion
+T35	topographie 1968 1999	quadrant supéro-externe du sein
+T37	morphologie 2018 2040	ganglions lymphatiques
+T38	topographie 2041 2051	axillaires
+T40	morphologie 2078 2084	nodule
+T41	topographie 2085 2093	mammaire
+T44	morphologie 2676 2698	atteinte ganglionnaire
+T46	topographie 2929 2937	mammaire
+T49	morphologie 3042 3045	IDC
+T50	differenciation 3075 3087	grade II/III
+T51	morphologie 3163 3174	adénopathie
+T53	morphologie 3223 3232	carcinome
+T54	topographie 3243 3251	mammaire
+T57	topographie 3406 3414	mammaire
+T61	topographie 3491 3492	.
+T63	topographie 4850 4852	DM
+T64	differenciation 5033 5042	grade III
+T65	morphologie 5009 5029	carcinome infiltrant
+T66	topographie 5162 5170	mammaire
+T68	topographie 5272 5274	IM
+T70	morphologie 5353 5369	lymphadénopathie
+T71	topographie 5370 5379	axillaire

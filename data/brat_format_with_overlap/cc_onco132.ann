@@ -1,0 +1,24 @@
+T1	morphologie 58 88	carcinome canalaire infiltrant
+T2	stade 123 130	cT2N2M0
+T3	morphologie 1137 1143	tumeur
+T4	morphologie 2257 2271	tumeur maligne
+T5	morphologie 4255 4261	tumeur
+T6	morphologie 4406 4412	tumeur
+T7	topographie 110 114	sein
+T8	expression_CIM 58 228	carcinome canalaire infiltrant localement avancé du sein gauche (cT2N2M0), récepteurs hormonaux négatifs, HER2 négatif, indice de prolifération 70% et grade nucléaire III
+T9	differenciation 209 228	grade nucléaire III
+T10	topographie 1176 1180	sein
+T11	expression_CIM 1137 1180	tumeur érythémateuse dure au niveau du sein
+T12	expression_CIM 2257 2271	tumeur maligne
+T13	morphologie 2131 2136	masse
+T14	topographie 2180 2206	quadrants internes du sein
+T15	expression_CIM 2131 2206	masse hétérogène mixte, d'environ 4 cm, dans les quadrants internes du sein
+T16	morphologie 2215 2226	Adénopathie
+T17	topographie 2227 2236	axillaire
+T18	expression_CIM 2215 2236	Adénopathie axillaire
+T19	expression_CIM 4255 4261	tumeur
+T20	morphologie 4285 4296	adénopathie
+T21	topographie 4297 4306	axillaire
+T22	expression_CIM 4285 4306	adénopathie axillaire
+T23	topographie 4416 4420	sein
+T24	expression_CIM 4406 4420	tumeur du sein

@@ -1,0 +1,67 @@
+T1	morphologie 166 172	nodule
+T2	topographie 173 206	pulmonaire dans le lobe supérieur
+T3	topographie 215 218	LSI
+T4	morphologie 1944 1950	Nodule
+T5	topographie 1951 1954	LSI
+T6	morphologie 2031 2036	masse
+T7	topographie 2050 2053	LSI
+T8	morphologie 2094 2100	Nodule
+T9	topographie 2101 2111	pulmonaire
+T10	morphologie 2227 2233	Nodule
+T11	topographie 2234 2244	pulmonaire
+T12	morphologie 2345 2360	image nodulaire
+T13	topographie 2393 2407	lobe inférieur
+T14	morphologie 2415 2433	Granulome calcifié
+T15	topographie 2450 2464	lobe inférieur
+T16	topographie 2472 2475	LID
+T17	morphologie 2478 2483	Masse
+T18	topographie 2484 2500	sus-claviculaire
+T19	morphologie 2520 2545	conglomérat adénopathique
+T20	morphologie 2557 2569	Adénopathies
+T21	topographie 2570 2583	médiastinales
+T22	morphologie 2616 2628	adénopathies
+T23	morphologie 2653 2665	adénopathies
+T24	topographie 2666 2674	hilaires
+T25	morphologie 2776 2785	néoplasme
+T26	topographie 2786 2796	pulmonaire
+T27	stade 2800 2818	stade radiologique
+T28	stade 2819 2827	T2aN3M1a
+T29	morphologie 2888 2897	néoplasme
+T30	topographie 2898 2908	pulmonaire
+T31	stade 2923 2941	stade radiologique
+T32	morphologie 2954 2960	nodule
+T33	stade 3009 3016	T2aN2M0
+T34	morphologie 3097 3119	masse hypermétabolique
+T35	topographie 3128 3131	LSI
+T36	morphologie 3132 3142	évocatrice
+T37	morphologie 3157 3189	Lésion hypermétabolique spiculée
+T38	topographie 3193 3196	LSD
+T39	morphologie 3222 3228	tumeur
+T40	morphologie 3240 3264	Foyers hypermétaboliques
+T41	topographie 3265 3274	cervicaux
+T42	topographie 3292 3310	supraclaviculaires
+T43	topographie 3319 3331	médiastinaux
+T44	topographie 3335 3343	hilaires
+T45	morphologie 3382 3392	métastases
+T46	morphologie 3394 3400	Nodule
+T47	topographie 3452 3455	LID
+T48	morphologie 3640 3649	métastase
+T49	morphologie 3655 3687	carcinome non à petites cellules
+T50	morphologie 3688 3700	métastatique
+T51	morphologie 3918 3924	lésion
+T52	morphologie 3937 3946	métastase
+T53	morphologie 4143 4152	carcinome
+T54	differenciation 4153 4168	peu différencié
+T55	topographie 4171 4189	origine pulmonaire
+T56	topographie 4207 4221	lobe supérieur
+T57	stade 4230 4236	cT2aN3
+T58	morphologie 4254 4262	atteinte
+T59	topographie 4263 4280	supraclaviculaire
+T60	stade 4282 4285	M1c
+T61	morphologie 4303 4311	atteinte
+T62	topographie 4312 4327	latérocervicale
+T63	stade 4351 4360	stade IVa
+T64	morphologie 5713 5719	nodule
+T65	topographie 5720 5737	pulmonaire en LSD
+T66	morphologie 5745 5750	masse
+T67	topographie 5751 5754	LSI

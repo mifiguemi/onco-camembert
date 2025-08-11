@@ -1,0 +1,71 @@
+T1	morphologie 119 137	mélanome nodulaire
+T2	morphologie 415 423	mélanome
+T4	expression_CIM 676 704	adénopathie sus-claviculaire
+T5	morphologie 975 983	mélanome
+T6	morphologie 1181 1189	mélanome
+T7	morphologie 1267 1275	mélanome
+T10	morphologie 1917 1937	nodules sous-cutanés
+T11	morphologie 2136 2178	nodules sous-cutanés suspects de malignité
+T13	morphologie 2420 2440	nodules sous-cutanés
+T14	morphologie 3263 3273	métastases
+T15	morphologie 3516 3526	métastases
+T16	morphologie 3550 3570	Nodules sous-cutanés
+T17	morphologie 3650 3658	Mélanome
+T20	expression_CIM 4305 4325	masse paravertébrale
+T21	morphologie 4660 4679	croissance tumorale
+T22	expression_CIM 5373 5393	masse paravertébrale
+T23	morphologie 5430 5461	nodule sous-cutané métastatique
+T25	expression_CIM 5642 5662	masse paravertébrale
+T26	morphologie 5692 5710	nodule sous-cutané
+T27	topographie 146 163	région scapulaire
+T28	expression_CIM 119 163	mélanome nodulaire dans la région scapulaire
+T29	expression_CIM 415 423	mélanome
+T30	stade 570 593	pT1aN0 (sn) M0 stade IA
+T3	morphologie 676 687	adénopathie
+T31	topographie 688 704	sus-claviculaire
+T32	expression_CIM 975 983	mélanome
+T33	topographie 1200 1210	scapulaire
+T34	expression_CIM 1181 1210	mélanome primaire (scapulaire
+T35	expression_CIM 1267 1275	mélanome
+T8	morphologie 1397 1415	nodule sous-cutané
+T36	topographie 1451 1465	région dorsale
+T37	expression_CIM 1397 1514	nodule sous-cutané péricatriciel a été enlevé dans la région dorsale droite, ce qui a été confirmé comme métastatique
+T9	expression_CIM 1917 1977	nodules sous-cutanés dans la région axillaire et sur le côté
+T38	topographie 1946 1962	région axillaire
+T39	topographie 1973 1977	côté
+T40	expression_CIM 2136 2178	nodules sous-cutanés suspects de malignité
+T12	topographie 2450 2467	régions axillaire
+T41	topographie 2492 2513	axillaire postérieure
+T42	topographie 2538 2558	hémithorax inférieur
+T43	topographie 2640 2646	cuisse
+T44	expression_CIM 2420 2646	nodules sous-cutanés dans les régions axillaire gauche (SUV max : 3,1), axillaire postérieure gauche (SUV max : 1,3), hémithorax inférieur gauche (parasplénique) (SUV max : 2,3) et région postéro-supérieure gauche de la cuisse
+T45	expression_CIM 3263 3273	métastases
+T46	morphologie 3189 3232	foyers sous-cutanés légèrement métaboliques
+T47	expression_CIM 3189 3232	foyers sous-cutanés légèrement métaboliques
+T48	morphologie 2664 2691	Augmentation du métabolisme
+T49	topographie 2699 2728	articulation costo-vertébrale
+T50	expression_CIM 2664 2798	Augmentation du métabolisme dans l'articulation costo-vertébrale gauche (SUV maximal : 4,2) et dans la région antérieure de l'omoplate
+T51	topographie 2790 2798	omoplate
+T52	morphologie 2864 2891	Augmentation du métabolisme
+T53	topographie 2922 2928	poumon
+T54	expression_CIM 2864 2928	Augmentation du métabolisme dans la région postérieure du poumon
+T55	expression_CIM 3550 3570	Nodules sous-cutanés
+T56	topographie 3527 3538	pulmonaires
+T57	expression_CIM 3516 3538	métastases pulmonaires
+T58	stade 3659 3671	métastatique
+T18	stade 3672 3675	M1a
+T59	expression_CIM 3650 3658	Mélanome
+T19	morphologie 3704 3712	mélanome
+T60	expression_CIM 3704 3712	mélanome
+T61	stade 3713 3725	métastatique
+T62	morphologie 4305 4310	masse
+T63	topographie 4311 4325	paravertébrale
+T64	topographie 4705 4718	paravertébral
+T65	expression_CIM 4660 4718	croissance tumorale a été observée au niveau paravertébral
+T66	morphologie 5373 5378	masse
+T67	topographie 5379 5393	paravertébrale
+T68	expression_CIM 5430 5461	nodule sous-cutané métastatique
+T24	morphologie 5642 5647	masse
+T69	topographie 5648 5662	paravertébrale
+T70	topographie 5711 5721	scapulaire
+T71	expression_CIM 5692 5721	nodule sous-cutané scapulaire

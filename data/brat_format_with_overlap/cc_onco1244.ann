@@ -1,0 +1,70 @@
+T1	expression_CIM 396 418	masse sus-claviculaire
+T2	morphologie 1112 1134	atteinte adénopathique
+T3	morphologie 1242 1252	métastases
+T4	morphologie 1411 1433	atteinte adénopathique
+T5	expression_CIM 1711 1733	carcinome embryonnaire
+T6	morphologie 1747 1769	Carcinome embryonnaire
+T7	morphologie 1974 1996	carcinome embryonnaire
+T8	morphologie 2031 2039	séminome
+T9	morphologie 2050 2058	tératome
+T10	morphologie 2177 2211	tumeur germinale non séminomateuse
+T11	morphologie 2213 2217	NSGT
+T12	morphologie 3936 3959	structures néoplasiques
+T13	morphologie 4725 4740	tératome mature
+T14	morphologie 396 401	masse
+T15	topographie 402 418	sus-claviculaire
+T16	morphologie 595 601	lésion
+T17	topographie 639 656	supraclaviculaire
+T18	expression_CIM 595 656	lésion d'environ 4 cm de diamètre au niveau supraclaviculaire
+T19	morphologie 726 731	masse
+T20	topographie 669 678	abdominal
+T21	expression_CIM 669 731	abdominal, une douleur généralisée à la palpation et une masse
+T22	morphologie 303 313	gonflement
+T23	topographie 317 326	testicule
+T24	expression_CIM 303 326	gonflement du testicule
+T25	topographie 1154 1171	supraclaviculaire
+T26	topographie 1173 1184	médiastinal
+T27	topographie 1186 1201	rétropéritonéal
+T28	expression_CIM 1112 1201	atteinte adénopathique multiple au niveau supraclaviculaire, médiastinal, rétropéritonéal
+T29	morphologie 1210 1221	conglomérat
+T30	expression_CIM 1210 1221	conglomérat
+T31	topographie 1253 1264	pulmonaires
+T32	expression_CIM 1242 1264	métastases pulmonaires
+T33	expression_CIM 1295 1313	masse testiculaire
+T34	morphologie 1295 1300	masse
+T35	topographie 1301 1313	testiculaire
+T36	topographie 1444 1458	latérocervical
+T37	topographie 1460 1477	supraclaviculaire
+T38	topographie 1481 1490	axillaire
+T39	topographie 1499 1510	médiastinal
+T40	topographie 1512 1527	rétropéritonéal
+T41	topographie 1529 1540	rétrocrural
+T42	topographie 1542 1549	iliaque
+T43	topographie 1567 1577	testicules
+T44	expression_CIM 1411 1577	atteinte adénopathique au niveau latérocervical, supraclaviculaire et axillaire gauche, médiastinal, rétropéritonéal, rétrocrural, iliaque et au niveau des testicules
+T45	morphologie 1613 1619	lésion
+T46	topographie 1620 1629	cervicale
+T47	expression_CIM 1613 1629	lésion cervicale
+T48	morphologie 1698 1707	métastase
+T49	expression_CIM 1698 1707	métastase
+T50	morphologie 1711 1733	carcinome embryonnaire
+T51	expression_CIM 1747 1769	Carcinome embryonnaire
+T52	morphologie 1788 1798	métastases
+T53	topographie 1799 1813	ganglionnaires
+T54	topographie 1817 1828	pulmonaires
+T55	expression_CIM 1788 1828	métastases ganglionnaires et pulmonaires
+T56	expression_CIM 1974 1996	carcinome embryonnaire
+T57	expression_CIM 2031 2039	séminome
+T58	expression_CIM 2050 2058	tératome
+T59	expression_CIM 2177 2211	tumeur germinale non séminomateuse
+T60	expression_CIM 2213 2217	NSGT
+T61	morphologie 2844 2855	progression
+T62	topographie 2866 2881	rétropéritonéal
+T63	expression_CIM 2844 2881	progression au niveau rétropéritonéal
+T64	morphologie 3789 3794	masse
+T65	expression_CIM 3789 3794	masse
+T66	expression_CIM 3936 3959	structures néoplasiques
+T67	morphologie 4088 4104	lymphadénopathie
+T68	topographie 4105 4119	interaortocave
+T69	expression_CIM 4088 4119	lymphadénopathie interaortocave
+T70	expression_CIM 4725 4740	tératome mature

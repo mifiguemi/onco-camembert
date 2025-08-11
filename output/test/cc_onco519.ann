@@ -1,0 +1,42 @@
+T1	morphologie 214 223	néoplasme
+T2	morphologie 268 298	carcinome canalaire infiltrant
+T3	morphologie 300 303	CDI
+T4	topographie 308 312	sein
+T5	differenciation 320 327	grade 2
+T6	stade 329 336	cT4N1M0
+T7	stade 423 428	stade
+T8	stade 429 434	pT4N1
+T9	morphologie 447 459	adénopathies
+T10	morphologie 1059 1068	néoplasme
+T11	morphologie 1419 1425	nodule
+T12	topographie 1426 1436	pulmonaire
+T13	morphologie 1521 1535	adénocarcinome
+T14	topographie 1538 1556	origine pulmonaire
+T15	morphologie 1773 1788	cancer primaire
+T16	topographie 1791 1809	origine pulmonaire
+T17	stade 1810 1819	cT1bN0M1b
+T18	stade 1845 1853	stade IV
+T19	morphologie 2203 2214	progression
+T20	topographie 2215 2222	osseuse
+T21	morphologie 2252 2262	métastases
+T22	topographie 2273 2275	L5
+T23	morphologie 2630 2637	lésions
+T24	topographie 2638 2646	osseuses
+T25	morphologie 2683 2689	tumeur
+T26	topographie 2693 2707	lobe supérieur
+T27	morphologie 2742 2756	adénocarcinome
+T28	topographie 2757 2767	pulmonaire
+T29	morphologie 3030 3047	progression lente
+T30	topographie 3048 3055	osseuse
+T31	topographie 3057 3070	surrénalienne
+T32	topographie 3074 3087	adénopathique
+T33	morphologie 3265 3271	léthes
+T34	topographie 3293 3305	cuir chevelu
+T35	morphologie 3362 3371	métastase
+T36	morphologie 3375 3384	carcinome
+T37	topographie 3385 3393	mammaire
+T38	morphologie 3507 3519	adénopathies
+T39	topographie 3520 3533	médiastinales
+T40	morphologie 3613 3623	métastases
+T41	morphologie 3629 3638	carcinome
+T42	topographie 3639 3647	mammaire

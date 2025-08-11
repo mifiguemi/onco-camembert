@@ -1,0 +1,25 @@
+T1	morphologie 428 458	carcinome lobulaire infiltrant
+T2	stade 860 868	ypT0N1Mx
+T4	morphologie 2253 2266	carcinomatose
+T5	morphologie 2304 2314	Hémangiome
+T8	morphologie 2953 2972	carcinome lobulaire
+T9	morphologie 4255 4264	métastase
+T10	topographie 462 466	sein
+T11	topographie 2267 2275	méningée
+T7	morphologie 2881 2890	carcinome
+T12	topographie 2901 2909	mammaire
+T14	morphologie 2852 2864	Infiltration
+T15	topographie 2865 2873	méningée
+T16	topographie 2976 2980	sein
+T17	morphologie 4268 4277	carcinome
+T18	topographie 4278 4286	mammaire
+T6	morphologie 2756 2783	infiltration carcinomateuse
+T13	expression_CIM 428 466	carcinome lobulaire infiltrant du sein
+T3	expression_CIM 2253 2275	carcinomatose méningée
+T19	expression_CIM 2304 2314	Hémangiome
+T20	expression_CIM 2756 2783	infiltration carcinomateuse
+T21	expression_CIM 2852 2873	Infiltration méningée
+T22	expression_CIM 2881 2909	carcinome d'origine mammaire
+T23	expression_CIM 2953 2980	carcinome lobulaire du sein
+T24	expression_CIM 4255 4264	métastase
+T25	expression_CIM 4268 4286	carcinome mammaire

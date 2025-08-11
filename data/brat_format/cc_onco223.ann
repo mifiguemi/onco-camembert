@@ -1,0 +1,22 @@
+T1	morphologie 427 441	adénocarcinome
+T2	topographie 442 452	pulmonaire
+T3	stade 453 459	pT2pN0
+T4	stade 466 468	M0
+T5	morphologie 600 607	nodules
+T6	topographie 608 619	pulmonaires
+T7	morphologie 694 708	adénocarcinome
+T8	morphologie 844 858	adénocarcinome
+T9	differenciation 859 875	bien différencié
+T10	morphologie 951 973	atteinte ganglionnaire
+T11	morphologie 1058 1064	nodule
+T12	topographie 1065 1075	pulmonaire
+T13	topographie 1084 1087	LSD
+T14	morphologie 1451 1469	prise pathologique
+T15	morphologie 2230 2242	adénopathies
+T16	topographie 2259 2279	région paratrachéale
+T18	morphologie 3057 3066	néoplasme
+T19	topographie 1479 1514	ganglions lymphatiques médiastinaux
+T17	morphologie 2712 2726	Adénocarcinome
+T20	topographie 2727 2737	pulmonaire
+T21	morphologie 2743 2751	récidive
+T22	topographie 2752 2765	ganglionnaire

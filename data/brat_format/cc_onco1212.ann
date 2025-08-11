@@ -1,0 +1,31 @@
+T1	morphologie 176 182	cancer
+T2	morphologie 737 743	tumeur
+T3	morphologie 1266 1286	Tumeur de Krukenberg
+T4	morphologie 1343 1371	cellules en anneau de signet
+T6	morphologie 1948 1968	tumeur de Krukenberg
+T7	morphologie 2025 2053	cellules en anneau de signet
+T8	morphologie 2077 2097	tumeur de Krukenberg
+T9	morphologie 2154 2182	cellules en anneau de signet
+T11	morphologie 2510 2550	carcinome à cellules en anneau de signet
+T12	morphologie 3146 3174	cellules en anneau de signet
+T13	morphologie 3345 3359	tumeur maligne
+T14	topographie 188 195	estomac
+T16	morphologie 496 501	masse
+T17	topographie 510 523	fosse iliaque
+T19	topographie 770 776	ovaire
+T21	morphologie 920 925	masse
+T22	topographie 926 935	pelvienne
+T24	topographie 1294 1300	ovaire
+T27	morphologie 1395 1403	primitif
+T28	topographie 1404 1413	gastrique
+T5	morphologie 1512 1518	lésion
+T31	morphologie 1566 1578	infiltration
+T32	topographie 1582 1597	rectum-sigmoïde
+T34	topographie 1976 1982	ovaire
+T37	topographie 2105 2111	ovaire
+T40	morphologie 2204 2212	primitif
+T41	topographie 2213 2222	gastrique
+T43	morphologie 2978 2984	nodule
+T44	topographie 2985 2994	hépatique
+T46	morphologie 2789 2797	primitif
+T47	topographie 2798 2807	gastrique

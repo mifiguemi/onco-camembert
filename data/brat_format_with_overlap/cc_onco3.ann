@@ -1,0 +1,34 @@
+T1	morphologie 296 310	adénocarcinome
+T2	topographie 311 321	pulmonaire
+T3	stade 322 334	métastatique
+T4	morphologie 777 787	métastases
+T5	topographie 788 798	cérébrales
+T6	morphologie 1809 1819	Métastases
+T7	topographie 1820 1830	cérébrales
+T8	topographie 1834 1847	cérébelleuses
+T9	morphologie 2019 2029	Métastases
+T10	topographie 2030 2038	osseuses
+T11	morphologie 2150 2179	lésions d'allure métastatique
+T12	topographie 2191 2198	poumons
+T13	topographie 2239 2259	parenchyme hépatique
+T14	topographie 2261 2270	surrénale
+T15	topographie 2279 2283	rein
+T16	morphologie 2291 2303	adénopathies
+T17	topographie 2304 2321	rétropéritonéales
+T18	topographie 2335 2341	osseux
+T19	topographie 2365 2375	soma D1-D3
+T20	topographie 2379 2386	soma L5
+T21	morphologie 2505 2515	métastases
+T22	topographie 2516 2526	hépatiques
+T23	morphologie 2622 2631	métastase
+T24	morphologie 2634 2648	adénocarcinome
+T25	topographie 2649 2659	pulmonaire
+T26	morphologie 2870 2884	adénocarcinome
+T27	topographie 2885 2895	pulmonaire
+T28	morphologie 2955 2965	métastases
+T29	morphologie 3271 3279	atteinte
+T30	topographie 3286 3301	moelle épinière
+T31	morphologie 6784 6805	nodules métastatiques
+T32	topographie 2351 2363	arcs costaux
+T33	topographie 2425 2437	lame iliaque
+T34	topographie 2448 2458	acétabulum

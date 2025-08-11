@@ -1,0 +1,53 @@
+T1	morphologie 200 209	néoplasie
+T2	topographie 213 218	côlon
+T3	morphologie 848 854	polype
+T4	topographie 863 869	rectum
+T5	topographie 965 971	rectum
+T6	morphologie 976 982	polype
+T7	topographie 1041 1046	sigma
+T8	morphologie 1064 1071	polypes
+T9	topographie 1162 1178	côlon descendant
+T10	morphologie 1435 1449	adénocarcinome
+T11	morphologie 1490 1502	néoformation
+T12	topographie 1511 1527	côlon transverse
+T13	stade 1556 1560	T3N2
+T14	morphologie 1601 1622	Image pseudonodulaire
+T15	topographie 1665 1679	hile splénique
+T16	morphologie 1795 1809	adénocarcinome
+T17	morphologie 2040 2096	adénocarcinome à cellules en anneau de Signe et mucineux
+T18	topographie 2100 2116	côlon transverse
+T19	topographie 2135 2150	angle splénique
+T20	morphologie 2161 2177	lymphadénopathie
+T21	topographie 2198 2212	hile splénique
+T22	morphologie 2227 2247	extension à distance
+T23	stade 2539 2547	T4aN2bMx
+T24	morphologie 2629 2635	tumeur
+T25	differenciation 2636 2652	peu différenciée
+T26	morphologie 3172 3178	tumeur
+T27	morphologie 4783 4791	récidive
+T28	topographie 4792 4803	péritonéale
+T29	morphologie 4834 4842	implants
+T30	topographie 4843 4854	péritonéaux
+T31	morphologie 4934 4952	masse métastatique
+T32	topographie 4953 4969	rétropéritonéale
+T33	topographie 5009 5013	rein
+T34	morphologie 5071 5079	implants
+T35	topographie 5080 5112	sous-phréniques postéro-latéraux
+T36	morphologie 8106 8117	progression
+T37	topographie 8118 8129	péritonéale
+T38	morphologie 8167 8188	lésions métastatiques
+T39	topographie 8213 8217	rate
+T40	morphologie 8242 8250	implants
+T41	topographie 8251 8261	pararénaux
+T42	topographie 8265 8279	périspléniques
+T43	morphologie 9790 9805	implant tumoral
+T44	topographie 9806 9821	rétropéritonéal
+T45	morphologie 9851 9858	lésions
+T46	topographie 9859 9869	spléniques
+T47	morphologie 10448 10468	progression tumorale
+T48	morphologie 10473 10481	implants
+T49	topographie 10482 10493	péritonéaux
+T50	morphologie 10509 10516	lésions
+T51	topographie 10517 10527	spléniques
+T52	morphologie 1230 1236	lésion
+T53	topographie 1758 1772	hile splénique

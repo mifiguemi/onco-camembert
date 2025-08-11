@@ -1,0 +1,110 @@
+T1	morphologie 1373 1387	angiomyolipome
+T2	morphologie 1413 1423	oncocytome
+T3	morphologie 1431 1459	carcinome à cellules rénales
+T4	morphologie 1571 1580	carcinome
+T5	stade 1588 1595	T1aNoMx
+T6	morphologie 2141 2155	angiomyolipome
+T7	morphologie 2181 2191	oncocytome
+T8	morphologie 2199 2227	carcinome à cellules rénales
+T9	morphologie 2329 2338	carcinome
+T10	stade 2346 2353	T1aNoMx
+T11	morphologie 2496 2505	carcinome
+T12	morphologie 3544 3559	choriocarcinome
+T13	expression_CIM 4256 4272	lésion crânienne
+T14	expression_CIM 4335 4362	lésion intraaxiale frontale
+T15	morphologie 4785 4791	tumeur
+T17	morphologie 5382 5397	choriocarcinome
+T19	morphologie 5652 5695	lésions suggérant une atteinte métastatique
+T22	morphologie 6562 6577	Choriocarcinome
+T24	morphologie 7510 7519	carcinome
+T25	morphologie 7978 7993	choriocarcinome
+T26	morphologie 9584 9599	choriocarcinome
+T27	morphologie 1269 1274	masse
+T28	topographie 1275 1285	pulmonaire
+T29	topographie 1294 1297	LII
+T30	expression_CIM 1269 1297	masse pulmonaire dans le LII
+T31	morphologie 1308 1313	masse
+T32	topographie 1314 1320	rénale
+T33	expression_CIM 1308 1320	masse rénale
+T34	expression_CIM 1373 1387	angiomyolipome
+T35	expression_CIM 1413 1423	oncocytome
+T36	expression_CIM 1431 1459	carcinome à cellules rénales
+T37	morphologie 1504 1509	masse
+T38	topographie 1528 1534	rénale
+T39	expression_CIM 1504 1534	masse kystique complexe rénale
+T40	topographie 1581 1586	rénal
+T41	expression_CIM 1571 1586	carcinome rénal
+T42	morphologie 2037 2042	masse
+T43	topographie 2043 2053	pulmonaire
+T44	topographie 2062 2065	LII
+T45	expression_CIM 2037 2065	masse pulmonaire dans le LII
+T46	morphologie 2076 2081	masse
+T47	topographie 2082 2088	rénale
+T48	expression_CIM 2076 2088	masse rénale
+T49	expression_CIM 2141 2155	angiomyolipome
+T50	expression_CIM 2181 2191	oncocytome
+T51	expression_CIM 2199 2227	carcinome à cellules rénales
+T52	topographie 2339 2344	rénal
+T53	expression_CIM 2329 2344	carcinome rénal
+T54	morphologie 2363 2369	nodule
+T55	topographie 2370 2380	pulmonaire
+T56	expression_CIM 2363 2380	nodule pulmonaire
+T57	expression_CIM 2496 2505	carcinome
+T58	expression_CIM 3544 3559	choriocarcinome
+T59	morphologie 3581 3590	métastase
+T60	topographie 3599 3619	pôle rénal supérieur
+T61	expression_CIM 3581 3619	métastase dans le pôle rénal supérieur
+T62	morphologie 3728 3763	atteinte des ganglions lymphatiques
+T63	expression_CIM 3728 3763	atteinte des ganglions lymphatiques
+T64	morphologie 3873 3879	lésion
+T65	topographie 3933 3944	segment LII
+T66	expression_CIM 3873 3944	lésion nodulaire aux limites bien définies persiste dans le segment LII
+T67	morphologie 4142 4148	lésion
+T68	topographie 4149 4159	pulmonaire
+T69	expression_CIM 4142 4159	lésion pulmonaire
+T70	morphologie 4196 4203	lésions
+T71	expression_CIM 4196 4203	lésions
+T72	morphologie 4256 4262	lésion
+T73	topographie 4263 4272	crânienne
+T74	morphologie 4335 4341	lésion
+T75	topographie 4342 4362	intraaxiale frontale
+T76	morphologie 4646 4653	lésions
+T77	expression_CIM 4646 4653	lésions
+T78	expression_CIM 4785 4791	tumeur
+T79	morphologie 4874 4880	nodule
+T80	topographie 4881 4891	pulmonaire
+T81	expression_CIM 4874 4891	nodule pulmonaire
+T82	morphologie 5025 5031	nodule
+T83	topographie 5032 5042	pulmonaire
+T84	expression_CIM 5025 5042	nodule pulmonaire
+T16	expression_CIM 5382 5397	choriocarcinome
+T18	morphologie 5625 5643	reliquats tumoraux
+T85	expression_CIM 5625 5643	reliquats tumoraux
+T86	expression_CIM 5652 5695	lésions suggérant une atteinte métastatique
+T20	morphologie 5931 5971	lésions évocatrices de récidive tumorale
+T87	expression_CIM 5931 5971	lésions évocatrices de récidive tumorale
+T21	morphologie 6208 6214	nodule
+T88	topographie 6215 6232	pulmonaire en LII
+T89	expression_CIM 6208 6232	nodule pulmonaire en LII
+T90	stade 6581 6594	stade IV FIGO
+T91	expression_CIM 6562 6594	Choriocarcinome de stade IV FIGO
+T92	morphologie 6596 6604	atteinte
+T93	topographie 6605 6615	pulmonaire
+T94	topographie 6617 6623	rénale
+T95	topographie 6627 6636	cérébrale
+T96	expression_CIM 6596 6636	atteinte pulmonaire, rénale et cérébrale
+T23	morphologie 7350 7356	nodule
+T97	topographie 7357 7374	pulmonaire en LII
+T98	expression_CIM 7350 7374	nodule pulmonaire en LII
+T99	morphologie 7382 7387	masse
+T100	topographie 7388 7394	rénale
+T101	expression_CIM 7382 7394	masse rénale
+T102	morphologie 7440 7446	nodule
+T103	topographie 7447 7457	pulmonaire
+T104	expression_CIM 7440 7457	nodule pulmonaire
+T105	expression_CIM 7510 7519	carcinome
+T106	expression_CIM 7978 7993	choriocarcinome
+T107	morphologie 8015 8024	métastase
+T108	topographie 8033 8053	pôle rénal supérieur
+T109	expression_CIM 8015 8053	métastase dans le pôle rénal supérieur
+T110	expression_CIM 9584 9599	choriocarcinome

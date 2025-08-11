@@ -1,0 +1,38 @@
+T1	morphologie 38 44	tumeur
+T2	morphologie 222 239	macroprolactinome
+T3	morphologie 1613 1623	méningiome
+T4	morphologie 1795 1805	méningiome
+T6	morphologie 3113 3122	néoplasie
+T7	morphologie 3312 3322	métastases
+T8	morphologie 3396 3406	métastases
+T9	morphologie 3637 3647	métastases
+T10	morphologie 3795 3809	Adénocarcinome
+T11	morphologie 4381 4391	métastases
+T13	morphologie 5443 5453	métastases
+T16	topographie 45 57	hypophysaire
+T17	topographie 3323 3333	hépatiques
+T18	topographie 3407 3415	osseuses
+T19	topographie 3810 3820	pulmonaire
+T20	stade 3824 3832	stade IV
+T21	morphologie 3834 3844	métastases
+T22	topographie 3845 3855	cérébrales
+T23	topographie 3857 3865	osseuses
+T24	topographie 3867 3876	pleurales
+T25	topographie 3878 3892	ganglionnaires
+T26	topographie 3894 3904	hépatiques
+T27	topographie 3908 3922	surrénaliennes
+T12	topographie 5454 5462	cutanées
+T5	morphologie 2405 2414	métastase
+T15	topographie 2468 2478	pulmonaire
+T28	topographie 3123 3139	pleuropulmonaire
+T29	topographie 3148 3162	lobe supérieur
+T31	morphologie 3187 3197	métastases
+T32	topographie 3198 3207	pleurales
+T33	topographie 3211 3225	ganglionnaires
+T34	topographie 3234 3243	médiastin
+T35	topographie 3248 3266	région périportale
+T36	topographie 3273 3287	rétropéritoine
+T40	morphologie 2405 2414	métastase
+T41	morphologie 2420 2434	adénocarcinome
+T42	differenciation 2435 2457	modérément différencié
+T50	topographie 4411 4437	colonne vertébrale dorsale

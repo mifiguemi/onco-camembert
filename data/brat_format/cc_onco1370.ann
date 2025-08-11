@@ -1,0 +1,29 @@
+T1	morphologie 53 67	rétinoblastome
+T2	morphologie 777 818	néoplasme malin de cellules rondes bleues
+T3	morphologie 852 866	rétinoblastome
+T4	morphologie 954 988	néoplasme malin de cellules rondes
+T5	morphologie 1021 1050	rhabdomyosarcome embryonnaire
+T6	morphologie 1112 1141	Rhabdomyosarcome embryonnaire
+T7	morphologie 1812 1818	lésion
+T8	morphologie 1911 1920	métastase
+T9	morphologie 2087 2096	métastase
+T10	morphologie 2170 2194	progression métastatique
+T12	morphologie 290 295	masse
+T13	topographie 296 305	temporale
+T15	morphologie 390 395	Masse
+T16	topographie 396 405	temporale
+T18	morphologie 449 460	adénopathie
+T19	topographie 461 476	latérocervicale
+T21	morphologie 573 578	masse
+T22	topographie 579 588	temporale
+T24	morphologie 607 612	Masse
+T25	topographie 613 625	parotidienne
+T27	morphologie 644 656	Adénopathies
+T28	topographie 657 673	latérocervicales
+T33	stade 1166 1175	stade III
+T34	topographie 1819 1828	hépatique
+T37	morphologie 2100 2116	rhabdomyosarcome
+T41	morphologie 2285 2292	nodules
+T42	topographie 2293 2302	cervicaux
+T44	morphologie 2451 2458	lésions
+T45	topographie 2459 2469	cervicales

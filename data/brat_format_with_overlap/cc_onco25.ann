@@ -1,0 +1,13 @@
+T1	morphologie 314 328	adénocarcinome
+T2	topographie 329 339	pulmonaire
+T3	stade 407 415	stade IV
+T4	morphologie 431 439	atteinte
+T5	topographie 440 450	pulmonaire
+T6	topographie 452 459	osseuse
+T7	topographie 463 472	cérébrale
+T8	morphologie 1578 1599	atteinte métastatique
+T9	topographie 1600 1610	pulmonaire
+T11	morphologie 1685 1692	lésions
+T12	morphologie 1755 1761	tumeur
+T13	morphologie 3063 3070	nodules
+T14	topographie 3071 3082	pulmonaires

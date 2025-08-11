@@ -1,0 +1,44 @@
+T1	morphologie 49 55	nodule
+T2	topographie 78 82	sein
+T3	morphologie 215 221	cancer
+T4	topographie 225 233	pancréas
+T5	morphologie 920 932	adénopathies
+T6	topographie 933 950	sus-claviculaires
+T7	topographie 971 975	Sein
+T8	morphologie 991 997	nodule
+T9	topographie 1024 1042	quadrants internes
+T10	morphologie 1054 1066	adénopathies
+T11	topographie 1067 1077	axillaires
+T12	morphologie 1182 1199	images nodulaires
+T13	topographie 1319 1345	quadrant inférieur externe
+T14	topographie 1347 1359	CIE) du sein
+T15	morphologie 1630 1647	images nodulaires
+T16	morphologie 1668 1675	lésions
+T17	morphologie 1715 1721	nodule
+T18	morphologie 2161 2191	carcinome canalaire infiltrant
+T19	morphologie 2192 2206	de type solide
+T20	differenciation 2223 2246	de grade histologique 3
+T21	morphologie 2398 2404	nodule
+T22	topographie 2413 2417	sein
+T23	morphologie 2444 2453	carcinome
+T24	topographie 2454 2462	mammaire
+T25	morphologie 2481 2503	ganglions lymphatiques
+T26	topographie 2504 2514	axillaires
+T27	morphologie 2528 2549	d'aspect métastatique
+T28	morphologie 2566 2585	atteinte à distance
+T29	morphologie 2961 2991	Carcinome canalaire infiltrant
+T30	topographie 2995 2999	sein
+T31	differenciation 3014 3021	grade 3
+T32	stade 3023 3032	stade IIB
+T33	stade 3034 3042	cT2cN1M0
+T34	morphologie 3144 3150	tumeur
+T35	morphologie 3947 3953	nodule
+T36	topographie 3954 3962	mammaire
+T37	morphologie 4050 4066	lymphadénopathie
+T38	morphologie 5066 5073	nodules
+T39	morphologie 5684 5700	lymphadénopathie
+T40	topographie 5701 5710	axillaire
+T41	morphologie 5946 5953	nodules
+T42	topographie 5981 6005	voies aériennes distales
+T43	morphologie 6007 6027	Granulomes calcifiés
+T44	topographie 6036 6046	lobe moyen

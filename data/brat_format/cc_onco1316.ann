@@ -1,0 +1,22 @@
+T2	morphologie 77 121	adénocarcinome bronchioloalvéolaire mucineux
+T3	stade 122 128	T3N0M0
+T4	morphologie 443 457	adénocarcinome
+T5	morphologie 1072 1081	métastase
+T8	morphologie 1809 1826	tumeurs primaires
+T9	morphologie 1991 2005	adénocarcinome
+T10	morphologie 2293 2300	tumeurs
+T11	morphologie 2409 2418	métastase
+T12	stade 130 139	stade IIB
+T13	topographie 458 468	pulmonaire
+T16	morphologie 990 1007	images nodulaires
+T17	morphologie 842 857	image nodulaire
+T18	topographie 923 926	LSD
+T20	topographie 1022 1032	hémithorax
+T6	morphologie 1165 1171	lésion
+T23	morphologie 1632 1646	adénocarcinome
+T24	topographie 1653 1661	prostate
+T25	differenciation 1663 1689	score de Gleason combiné 7
+T27	morphologie 1744 1751	nodules
+T28	topographie 1752 1763	pulmonaires
+T30	topographie 2008 2026	origine pulmonaire
+T33	topographie 2419 2429	pulmonaire

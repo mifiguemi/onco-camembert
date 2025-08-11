@@ -1,0 +1,41 @@
+T1	morphologie 870 910	carcinome intraductal de type comédonien
+T2	expression_CIM 1273 1339	carcinome canalaire infiltrant multifocal de Nottingham de grade 1
+T3	expression_CIM 1438 1481	carcinome intraductal extensif de bas grade
+T4	expression_CIM 1707 1741	carcinome intraductal de bas grade
+T6	morphologie 2156 2186	carcinome canalaire infiltrant
+T7	stade 2209 2217	pT1aN0M0
+T8	morphologie 5234 5243	néoplasie
+T9	morphologie 6154 6163	Carcinome
+T10	stade 6172 6180	pT1aN0M0
+T11	morphologie 6953 6962	néoplasie
+T12	expression_CIM 870 910	carcinome intraductal de type comédonien
+T13	morphologie 1273 1303	carcinome canalaire infiltrant
+T14	differenciation 1318 1339	Nottingham de grade 1
+T15	differenciation 1472 1481	bas grade
+T16	morphologie 1438 1459	carcinome intraductal
+T17	morphologie 1707 1728	carcinome intraductal
+T18	differenciation 1732 1741	bas grade
+T5	differenciation 2190 2208	Nottingham grade 1
+T19	expression_CIM 2156 2208	carcinome canalaire infiltrant de Nottingham grade 1
+T20	morphologie 2758 2770	adénopathies
+T21	topographie 2771 2784	médiastinales
+T22	topographie 2788 2796	hilaires
+T23	expression_CIM 2758 2796	adénopathies médiastinales et hilaires
+T24	topographie 5244 5252	mammaire
+T25	expression_CIM 5234 5252	néoplasie mammaire
+T26	topographie 6167 6171	sein
+T27	expression_CIM 6154 6171	Carcinome du sein
+T28	topographie 6963 6971	mammaire
+T29	expression_CIM 6953 6971	néoplasie mammaire
+T30	morphologie 6795 6812	lymphadénopathies
+T31	expression_CIM 6795 6812	lymphadénopathies
+T32	morphologie 4992 5004	adénopathies
+T33	topographie 5005 5018	médiastinales
+T34	topographie 5029 5048	médiastin supérieur
+T35	topographie 5060 5073	paratrachéale
+T36	topographie 5091 5102	subcarinale
+T37	topographie 5115 5122	hilaire
+T38	expression_CIM 4992 5122	adénopathies médiastinales : dans le médiastin supérieur de 7-9 mm, paratrachéale droite de 12 mm, subcarinale de 24 mm et hilaire
+T39	morphologie 5559 5570	adénopathie
+T40	topographie 5571 5589	abdomino-pelvienne
+T41	expression_CIM 5559 5589	adénopathie abdomino-pelvienne

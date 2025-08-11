@@ -1,0 +1,15 @@
+T1	morphologie 198 218	carcinome malpighien
+T2	stade 222 236	stade IVB FIGO
+T3	topographie 240 245	vagin
+T4	morphologie 262 270	atteinte
+T5	topographie 271 279	pleurale
+T6	topographie 281 304	ganglionnaire pelvienne
+T7	topographie 306 322	rétropéritonéale
+T8	topographie 326 335	axillaire
+T9	morphologie 852 885	lésion intraépithéliale squameuse
+T10	differenciation 886 899	de haut grade
+T11	morphologie 901 905	SHIL
+T12	morphologie 923 932	papillome
+T13	topographie 946 961	col de l'utérus
+T14	morphologie 1052 1063	progression
+T15	topographie 1064 1072	pleurale

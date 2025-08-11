@@ -1,0 +1,46 @@
+T1	morphologie 339 353	adénocarcinome
+T2	topographie 354 367	pulmonaire du
+T3	topographie 368 382	lobe inférieur
+T4	stade 456 464	pT2N2cM0
+T5	stade 466 474	stade IB
+T6	morphologie 544 558	Adénocarcinome
+T7	topographie 565 573	prostate
+T8	differenciation 574 583	Gleason 6
+T9	stade 585 593	cT1cN0M0
+T10	morphologie 1909 1915	lésion
+T11	morphologie 2033 2042	métastase
+T12	topographie 2043 2052	hépatique
+T13	topographie 2056 2069	ganglionnaire
+T14	morphologie 2551 2557	lésion
+T15	topographie 2573 2589	tête du pancréas
+T16	morphologie 2621 2645	adénocarcinome canalaire
+T17	morphologie 2808 2814	lésion
+T18	topographie 2815 2823	frontale
+T19	morphologie 3039 3047	atteinte
+T20	topographie 3048 3061	leptoméningée
+T21	morphologie 3081 3094	carcinomatose
+T22	morphologie 3230 3244	adénocarcinome
+T23	topographie 3245 3257	pancréatique
+T24	stade 3261 3269	stade IV
+T25	morphologie 3310 3320	métastases
+T26	topographie 3321 3331	cérébrales
+T27	morphologie 3339 3352	carcinomatose
+T28	topographie 3353 3366	leptoméningée
+T29	morphologie 3547 3556	métastase
+T30	topographie 3557 3566	cérébrale
+T31	morphologie 3679 3685	tumeur
+T32	morphologie 3916 3930	adénocarcinome
+T33	topographie 3975 3995	origine pancréatique
+T34	morphologie 4138 4145	tumeurs
+T35	topographie 4149 4162	tube digestif
+T36	morphologie 5357 5366	néoplasme
+T37	topographie 5367 5379	pancréatique
+T38	morphologie 5757 5778	nodules métastatiques
+T39	topographie 5779 5788	cérébraux
+T40	morphologie 5900 5909	néoplasme
+T41	topographie 5910 5922	pancréatique
+T42	morphologie 6007 6020	rehaussements
+T43	topographie 6021 6034	leptoméningés
+T44	morphologie 6425 6432	maladie
+T45	topographie 6433 6443	abdominale
+T46	topographie 6447 6456	cérébrale

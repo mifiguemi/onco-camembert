@@ -1,0 +1,49 @@
+T1	morphologie 159 165	cancer
+T2	topographie 169 173	sein
+T3	morphologie 277 283	nodule
+T4	topographie 284 298	rétroaréolaire
+T5	topographie 316 320	sein
+T6	morphologie 598 604	nodule
+T7	topographie 613 628	rétro-aréolaire
+T8	topographie 688 692	sein
+T9	morphologie 1483 1488	masse
+T10	morphologie 1505 1511	lésion
+T11	morphologie 1632 1638	tumeur
+T12	morphologie 1677 1711	carcinome métaplasique hétérologue
+T13	morphologie 1725 1755	carcinome canalaire infiltrant
+T14	differenciation 1756 1768	de grade III
+T15	morphologie 1791 1798	sarcome
+T16	differenciation 1799 1812	de haut grade
+T17	morphologie 1869 1883	chondrosarcome
+T18	morphologie 1909 1915	tumeur
+T19	morphologie 2353 2359	tumeur
+T20	morphologie 2408 2414	lésion
+T21	morphologie 2555 2563	atteinte
+T22	topographie 2564 2574	pulmonaire
+T23	morphologie 2595 2602	nodules
+T24	morphologie 2638 2648	métastases
+T25	topographie 2649 2660	pulmonaires
+T26	morphologie 2696 2706	métastases
+T27	topographie 2707 2715	osseuses
+T28	morphologie 2809 2839	maladie métaboliquement active
+T29	topographie 2849 2856	poumons
+T30	morphologie 2920 2954	carcinome métaplasique hétérologue
+T31	topographie 2958 2962	sein
+T32	stade 2966 2974	stade IV
+T33	morphologie 2975 3015	avec différenciation chondrosarcomatoïde
+T34	morphologie 3019 3027	atteinte
+T35	topographie 3028 3038	pulmonaire
+T36	morphologie 3094 3100	tumeur
+T37	morphologie 3178 3208	carcinome canalaire infiltrant
+T38	morphologie 3232 3255	chondrosarcome primaire
+T39	topographie 3259 3263	sein
+T40	morphologie 3563 3570	lésions
+T41	topographie 3571 3582	pulmonaires
+T42	morphologie 3634 3641	nodules
+T43	topographie 3787 3797	pulmonaire
+T44	morphologie 3825 3832	lésions
+T45	topographie 3860 3869	hépatique
+T46	morphologie 3903 3909	lésion
+T47	topographie 3923 3933	segment IV
+T48	morphologie 4358 4375	images nodulaires
+T49	morphologie 4435 4444	métastase

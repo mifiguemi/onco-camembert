@@ -1,0 +1,19 @@
+T1	morphologie 2780 2800	polype hyperplasique
+T2	morphologie 2804 2821	adénome tubulaire
+T3	morphologie 2989 3015	lésions intra-épithéliales
+T4	morphologie 3023 3039	tumeurs malignes
+T5	morphologie 4506 4512	lésion
+T6	topographie 4542 4566	angle hépatique du côlon
+T7	morphologie 4665 4679	adénocarcinome
+T8	differenciation 4680 4702	modérément différencié
+T9	topographie 4709 4726	vésicule biliaire
+T10	stade 4727 4732	pT2N1
+T11	morphologie 5255 5277	atteinte adénopathique
+T12	topographie 5278 5290	rétroportale
+T13	topographie 5297 5311	tronc cœliaque
+T14	morphologie 5421 5435	adénocarcinome
+T15	morphologie 5526 5540	adénocarcinome
+T16	stade 5541 5545	E IV
+T17	topographie 5552 5569	vésicule biliaire
+T18	stade 5571 5578	pT2N1M1
+T19	morphologie 5580 5602	adénopathie à distance

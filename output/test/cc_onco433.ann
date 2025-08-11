@@ -1,0 +1,40 @@
+T1	morphologie 386 395	néoplasie
+T2	topographie 396 405	gastrique
+T3	morphologie 450 459	néoplasie
+T4	topographie 460 469	ovarienne
+T5	morphologie 499 508	carcinome
+T6	topographie 515 521	vessie
+T7	morphologie 522 545	non infiltrant pour les
+T8	morphologie 790 797	lésions
+T9	topographie 798 808	hépatiques
+T10	morphologie 814 826	adénopathies
+T11	morphologie 857 878	lésions métastatiques
+T12	morphologie 931 938	lésions
+T13	morphologie 988 991	TNE
+T14	differenciation 999 1016	bien différenciée
+T15	topographie 1031 1048	origine digestive
+T16	morphologie 1228 1235	lésions
+T17	topographie 1236 1246	hépatiques
+T18	morphologie 1267 1279	adénopathies
+T19	topographie 1280 1293	médiastinales
+T20	topographie 1297 1311	para-aortiques
+T21	morphologie 1397 1412	lésion primaire
+T22	morphologie 1529 1551	hypermétabolisme focal
+T23	topographie 1559 1564	iléon
+T24	morphologie 1582 1597	tumeur primaire
+T25	morphologie 1616 1632	TNE métastatique
+T26	topographie 1638 1652	intestin grêle
+T27	topographie 1702 1711	hépatique
+T28	morphologie 1935 1951	tumeur primitive
+T29	morphologie 2056 2063	TNE OMS
+T30	morphologie 2084 2106	atteinte ganglionnaire
+T31	stade 2179 2188	pT3 N1 M1
+T32	stade 2190 2193	TNM
+T33	morphologie 2465 2473	implants
+T34	topographie 2489 2503	intestin grêle
+T35	morphologie 2511 2523	adénopathies
+T36	morphologie 3142 3149	maladie
+T37	topographie 3150 3159	hépatique
+T38	morphologie 5237 5244	lésions
+T39	topographie 5245 5255	hépatiques
+T40	topographie 5259 5273	adénopathiques

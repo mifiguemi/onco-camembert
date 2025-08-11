@@ -1,0 +1,33 @@
+T1	morphologie 366 380	adénocarcinome
+T2	topographie 381 390	gastrique
+T3	morphologie 942 950	grosseur
+T4	topographie 959 982	quadrant supéro-externe
+T5	morphologie 1719 1729	métastases
+T6	topographie 1730 1741	pulmonaires
+T7	topographie 1745 1755	hépatiques
+T8	morphologie 1757 1767	Métastases
+T9	topographie 1768 1776	osseuses
+T10	morphologie 2008 2020	Adénopathies
+T11	topographie 2021 2031	axillaires
+T12	morphologie 2170 2181	adénopathie
+T13	morphologie 2189 2200	adénopathie
+T14	morphologie 2229 2238	carcinome
+T15	morphologie 2264 2294	carcinome canalaire infiltrant
+T16	differenciation 2296 2304	grade II
+T17	stade 2483 2488	Stade
+T18	morphologie 2805 2835	Carcinome canalaire infiltrant
+T19	stade 2836 2840	E IV
+T20	topographie 2844 2848	sein
+T21	morphologie 2854 2889	atteinte des ganglions lymphatiques
+T22	topographie 2890 2900	axillaires
+T23	topographie 2905 2909	foie
+T24	topographie 2915 2922	poumons
+T25	topographie 2930 2932	os
+T26	morphologie 3453 3460	lésions
+T27	topographie 3461 3472	pulmonaires
+T28	topographie 3476 3486	hépatiques
+T29	morphologie 3752 3768	tumeur primitive
+T30	morphologie 4102 4109	nodules
+T31	topographie 4110 4121	pulmonaires
+T32	morphologie 4147 4153	lésion
+T33	topographie 4154 4163	hépatique

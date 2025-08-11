@@ -1,0 +1,21 @@
+T1	morphologie 262 283	carcinome épidermoïde
+T2	topographie 287 293	poumon
+T3	stade 294 304	cT4 N3 M1b
+T4	morphologie 306 326	adénopathie cœliaque
+T5	topographie 330 343	surrénalienne
+T6	stade 355 364	stade IVA
+T7	morphologie 664 675	progression
+T8	topographie 721 731	pulmonaire
+T9	topographie 735 769	ganglionnaire supradiaphragmatique
+T10	morphologie 2904 2918	tumeur maligne
+T11	morphologie 3300 3306	foyers
+T12	topographie 3330 3354	cortex supratentoriel et
+T13	topographie 3355 3366	cérébelleux
+T14	topographie 3380 3398	origine ischémique
+T15	morphologie 4245 4264	maladie néoplasique
+T16	morphologie 4513 4528	masses sessiles
+T17	topographie 4563 4587	valve mitrale antérieure
+T18	topographie 4594 4611	paroi auriculaire
+T19	morphologie 5590 5594	NBTE
+T20	morphologie 5708 5712	ETNB
+T21	morphologie 5735 5754	maladie néoplasique

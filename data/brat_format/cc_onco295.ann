@@ -1,0 +1,19 @@
+T1	morphologie 2181 2195	masse tumorale
+T2	topographie 2204 2224	parenchyme hépatique
+T3	morphologie 2257 2268	Adénopathie
+T4	topographie 2283 2305	espace inter-aortocave
+T5	morphologie 2330 2335	masse
+T6	topographie 2336 2345	hépatique
+T7	morphologie 2655 2665	métastases
+T9	topographie 2668 2687	origine colorectale
+T10	morphologie 3491 3504	carcinomatose
+T11	topographie 3505 3513	omentale
+T12	morphologie 3547 3557	métastases
+T13	topographie 3558 3568	hépatiques
+T14	morphologie 3879 3901	lésion pseudonodulaire
+T15	topographie 3921 3936	région frontale
+T16	morphologie 4240 4249	métastase
+T17	morphologie 4317 4336	lésion métastatique
+T18	topographie 4345 4362	région occipitale
+T19	morphologie 5179 5189	métastases
+T20	topographie 5190 5200	cérébrales

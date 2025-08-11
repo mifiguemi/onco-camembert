@@ -1,0 +1,16 @@
+T1	morphologie 2136 2143	lésions
+T2	morphologie 2242 2249	tumeurs
+T3	morphologie 2920 2935	sarcome d'Ewing
+T4	morphologie 3502 3508	tumeur
+T5	morphologie 3539 3557	masse sarcomateuse
+T6	morphologie 1877 1882	masse
+T7	topographie 1883 1899	rétropéritonéale
+T8	expression_CIM 1877 1899	masse rétropéritonéale
+T9	topographie 2144 2161	rétropéritonéales
+T10	expression_CIM 2136 2161	lésions rétropéritonéales
+T11	topographie 2250 2267	rétropéritonéales
+T12	expression_CIM 2242 2267	tumeurs rétropéritonéales
+T13	expression_CIM 2920 2935	sarcome d'Ewing
+T14	expression_CIM 3502 3508	tumeur
+T15	topographie 3558 3574	rétropéritonéale
+T16	expression_CIM 3539 3574	masse sarcomateuse rétropéritonéale

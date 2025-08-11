@@ -1,0 +1,73 @@
+T1	morphologie 1071 1090	maladie néoplasique
+T2	morphologie 1153 1162	néoplasie
+T3	topographie 1169 1177	prostate
+T4	morphologie 1307 1326	maladie néoplasique
+T5	morphologie 1667 1676	carcinome
+T6	topographie 1683 1691	prostate
+T7	differenciation 1693 1706	Gleason 3 + 5
+T8	morphologie 2059 2073	adénocarcinome
+T9	stade 2074 2078	PT3a
+T10	morphologie 2603 2622	foyers de captation
+T11	topographie 2636 2643	sternum
+T12	topographie 2649 2654	côtes
+T13	topographie 2661 2669	omoplate
+T14	topographie 2678 2704	articulation sacro-iliaque
+T15	morphologie 2739 2749	métastases
+T16	topographie 2750 2758	osseuses
+T17	morphologie 3094 3105	progression
+T18	topographie 3106 3113	osseuse
+T19	morphologie 3356 3366	métastases
+T20	topographie 3367 3381	ganglionnaires
+T21	morphologie 3458 3470	adénopathies
+T22	topographie 3471 3488	rétropéritonéales
+T23	morphologie 3656 3667	adénopathie
+T24	morphologie 4304 4318	Adénocarcinome
+T25	topographie 4325 4333	prostate
+T26	stade 4337 4345	stade IV
+T27	morphologie 4374 4384	Métastases
+T28	topographie 4385 4393	osseuses
+T29	topographie 4395 4405	viscérales
+T30	topographie 4407 4417	spléniques
+T31	topographie 4421 4432	pulmonaires
+T32	topographie 4440 4452	nerf optique
+T33	morphologie 4788 4813	progression de la maladie
+T34	topographie 4844 4850	osseux
+T35	topographie 4855 4868	ganglionnaire
+T36	morphologie 4936 4943	lésions
+T37	topographie 4954 4962	viscéral
+T38	morphologie 4989 4999	métastases
+T39	topographie 5000 5011	pulmonaires
+T40	morphologie 5078 5085	lésions
+T41	topographie 5086 5096	spléniques
+T42	morphologie 5120 5130	métastases
+T43	morphologie 5723 5730	maladie
+T44	topographie 5748 5754	osseux
+T45	morphologie 5800 5807	lésions
+T46	topographie 5808 5818	spléniques
+T47	morphologie 6460 6466	lésion
+T48	topographie 6467 6481	intracrânienne
+T49	morphologie 7058 7083	progression de la maladie
+T50	topographie 7094 7102	viscéral
+T51	morphologie 7171 7178	lésions
+T52	topographie 7179 7189	spléniques
+T53	morphologie 7343 7350	lésions
+T54	topographie 7351 7361	viscérales
+T55	morphologie 7378 7385	maladie
+T56	topographie 7386 7393	osseuse
+T57	topographie 7397 7410	ganglionnaire
+T58	morphologie 7567 7574	lésions
+T59	topographie 7575 7585	spléniques
+T60	morphologie 8377 8397	maladie métastatique
+T61	topographie 8404 8412	prostate
+T62	morphologie 8481 8491	métastases
+T63	topographie 8521 8537	région crânienne
+T64	morphologie 8543 8551	atteinte
+T65	topographie 8552 8559	osseuse
+T66	morphologie 8579 8592	dissémination
+T67	topographie 8593 8599	durale
+T68	topographie 8608 8625	fosse postérieure
+T69	topographie 8630 8653	fosse crânienne moyenne
+T70	topographie 8658 8672	cavum de Mekel
+T71	morphologie 9022 9031	métastase
+T72	topographie 9040 9052	nerf optique
+T73	topographie 8679 8698	convexité crânienne

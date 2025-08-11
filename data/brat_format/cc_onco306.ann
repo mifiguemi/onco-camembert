@@ -1,0 +1,31 @@
+T1	morphologie 584 614	lésion tumorale solide maligne
+T2	morphologie 810 821	adénopathie
+T3	topographie 822 838	sus-claviculaire
+T4	topographie 840 849	axillaire
+T5	topographie 853 862	inguinale
+T6	topographie 1105 1114	médiastin
+T7	topographie 1122 1138	régions hilaires
+T8	morphologie 1150 1167	images nodulaires
+T9	morphologie 1238 1250	adénopathies
+T10	morphologie 1384 1396	adénopathies
+T11	topographie 1397 1414	rétropéritonéales
+T12	topographie 1532 1546	para-aortiques
+T13	morphologie 1632 1658	adénopathies métastatiques
+T14	morphologie 1777 1836	lésion intensément hypermétabolique évocatrice de malignité
+T15	topographie 1859 1883	espace supraclaviculaire
+T16	morphologie 1914 1926	adénopathies
+T17	topographie 1927 1940	médiastinales
+T18	topographie 1944 1952	hilaires
+T19	morphologie 2140 2152	adénopathies
+T20	morphologie 2184 2198	tumeur maligne
+T21	topographie 2209 2224	rétropéritonéal
+T22	morphologie 2488 2541	tumeur maligne des cordons sexuels / stroma gonadique
+T24	differenciation 2622 2637	peu différencié
+T25	morphologie 3011 3057	Tumeur du cordon sexuel/stroma gonadique malin
+T27	stade 3069 3084	pT3 cN1 cM1a S0
+T28	stade 3086 3096	stade IIIA
+T29	morphologie 3649 3674	progression adénopathique
+T30	topographie 3700 3715	rétropéritonéal
+T31	morphologie 4154 4192	progression des ganglions lymphatiques
+T32	morphologie 4248 4267	lésion ostéolytique
+T33	topographie 4270 4272	L5

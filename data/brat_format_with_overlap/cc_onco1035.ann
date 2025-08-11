@@ -1,0 +1,26 @@
+T1	morphologie 229 238	carcinome
+T2	expression_CIM 1717 1783	lymphome non hodgkinien centrofolliculaire à cellules B de grade 1
+T3	morphologie 1953 2002	processus lymphoprolifératif à petites cellules B
+T4	expression_CIM 2149 2181	lymphome folliculaire de grade 1
+T5	morphologie 3876 3888	adénopathies
+T6	expression_CIM 4362 4403	lymphome B centrofolliculaire de grade 3a
+T7	morphologie 7102 7129	maladie lymphoproliférative
+T8	morphologie 7599 7620	lymphome folliculaire
+T9	morphologie 8393 8420	syndrome lymphoprolifératif
+T10	topographie 239 247	mammaire
+T11	stade 2183 2203	stade IV d'Ann Arbor
+T12	topographie 3889 3899	axillaires
+T13	topographie 3901 3918	sus-claviculaires
+T14	topographie 3922 3939	latéro-cervicales
+T15	expression_CIM 229 247	carcinome mammaire
+T16	morphologie 1717 1772	lymphome non hodgkinien centrofolliculaire à cellules B
+T17	differenciation 1773 1783	de grade 1
+T18	expression_CIM 1953 2002	processus lymphoprolifératif à petites cellules B
+T19	morphologie 2149 2170	lymphome folliculaire
+T20	differenciation 2171 2181	de grade 1
+T21	expression_CIM 3876 3939	adénopathies axillaires, sus-claviculaires et latéro-cervicales
+T22	morphologie 4362 4391	lymphome B centrofolliculaire
+T23	differenciation 4392 4403	de grade 3a
+T24	expression_CIM 7102 7129	maladie lymphoproliférative
+T25	expression_CIM 7599 7620	lymphome folliculaire
+T26	expression_CIM 8393 8420	syndrome lymphoprolifératif

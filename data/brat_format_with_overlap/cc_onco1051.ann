@@ -1,0 +1,56 @@
+T1	morphologie 164 192	adénocarcinome endométrioïde
+T2	morphologie 455 469	adénocarcinome
+T3	morphologie 1231 1237	lésion
+T4	morphologie 1538 1552;1558 1592	adénocarcinome à prédominance solide et tubulaire
+T9	morphologie 2410 2430	progression tumorale
+T10	morphologie 2445 2455	métastases
+T11	morphologie 2650 2657	nodules
+T12	morphologie 2812 2819	nodules
+T13	morphologie 3839 3845	tumeur
+T14	morphologie 3992 4006	adénocarcinome
+T15	morphologie 4177 4197	progression tumorale
+T16	morphologie 4208 4218	métastases
+T17	morphologie 4488 4498	métastases
+T18	topographie 198 207	endomètre
+T19	topographie 470 481	endométrial
+T20	topographie 1238 1248	pulmonaire
+T6	stade 1667 1680	stade T1aN2M0
+T21	stade 1682 1692	stade IIIA
+T22	topographie 1266 1280	lobe supérieur
+T23	topographie 1288 1291	LSD
+T24	morphologie 1300 1306	lésion
+T25	topographie 1307 1318	parahilaire
+T5	topographie 1553 1556	LSD
+T7	topographie 2658 2669	pulmonaires
+T8	topographie 2820 2831	pulmonaires
+T27	morphologie 2124 2131	nodules
+T28	topographie 2132 2143	pulmonaires
+T29	topographie 4007 4017	pulmonaire
+T30	stade 4021 4029	stade IV
+T31	topographie 4229 4236	sternal
+T32	topographie 4499 4510	pulmonaires
+T33	morphologie 4534 4543	métastase
+T34	topographie 4544 4552	sternale
+T35	expression_CIM 164 207	adénocarcinome endométrioïde de l'endomètre
+T36	expression_CIM 455 481	adénocarcinome endométrial
+T37	expression_CIM 1231 1292	lésion pulmonaire de 20 mm dans le lobe supérieur droit (LSD)
+T38	expression_CIM 1300 1318	lésion parahilaire
+T39	morphologie 1337 1344	nodules
+T40	topographie 1353 1356	LSI
+T41	expression_CIM 1337 1356	nodules dans le LSI
+T42	expression_CIM 1538 1616	adénocarcinome LSD, à prédominance solide et tubulaire, modérément différencié
+T43	differenciation 1594 1616	modérément différencié
+T44	expression_CIM 2124 2143	nodules pulmonaires
+T45	expression_CIM 2410 2430	progression tumorale
+T46	expression_CIM 2445 2455	métastases
+T47	expression_CIM 2650 2669	nodules pulmonaires
+T48	expression_CIM 2812 2831	nodules pulmonaires
+T49	expression_CIM 3839 3845	tumeur
+T50	expression_CIM 3992 4017	adénocarcinome pulmonaire
+T51	expression_CIM 4177 4197	progression tumorale
+T52	expression_CIM 4208 4236	métastases au niveau sternal
+T53	expression_CIM 4488 4510	métastases pulmonaires
+T54	expression_CIM 4534 4552	métastase sternale
+T26	morphologie 1700 1735	atteinte des ganglions lymphatiques
+T55	topographie 1736 1748	médiastinaux
+T56	expression_CIM 1700 1748	atteinte des ganglions lymphatiques médiastinaux

@@ -1,0 +1,17 @@
+T1	morphologie 704 725	carcinome épidermoïde
+T2	topographie 726 736	pulmonaire
+T3	stade 740 748	stade IV
+T4	morphologie 765 773	atteinte
+T5	topographie 774 787	surrénalienne
+T6	morphologie 804 812	atteinte
+T7	topographie 813 820	osseuse
+T8	morphologie 1211 1236	progression ganglionnaire
+T9	topographie 1240 1250	pulmonaire
+T10	morphologie 1498 1503	masse
+T11	topographie 1512 1515	LID
+T12	morphologie 1530 1536	lésion
+T13	topographie 1545 1558	paroi costale
+T14	morphologie 1592 1598	lésion
+T15	topographie 1607 1619	lame iliaque
+T16	morphologie 2589 2594	masse
+T17	topographie 2603 2606	LID

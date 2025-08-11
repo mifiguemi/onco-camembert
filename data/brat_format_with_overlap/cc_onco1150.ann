@@ -1,0 +1,47 @@
+T1	morphologie 148 158	méningiome
+T2	morphologie 254 264	méningiome
+T4	morphologie 399 420	infiltration tumorale
+T5	expression_CIM 1617 1636	nodules pulmonaires
+T6	morphologie 1747 1757	métastases
+T7	morphologie 1879 1901	lésions hyperatténuées
+T8	morphologie 1942 1952	métastases
+T9	morphologie 2578 2588	métastases
+T10	morphologie 2669 2695	méningiome de type fibreux
+T11	morphologie 3832 3847	tumeur primaire
+T12	topographie 159 173	frontotemporal
+T13	expression_CIM 148 173	méningiome frontotemporal
+T14	expression_CIM 254 264	méningiome
+T3	topographie 424 436	nerf optique
+T15	expression_CIM 399 436	infiltration tumorale du nerf optique
+T16	morphologie 270 278	atteinte
+T17	topographie 283 285	os
+T18	topographie 293 304	tissus mous
+T19	expression_CIM 270 304	atteinte des os et des tissus mous
+T20	morphologie 338 346	atteinte
+T21	topographie 351 353	os
+T22	topographie 359 370	tissus mous
+T23	topographie 380 384	peau
+T24	expression_CIM 338 384	atteinte des os, des tissus mous et de la peau
+T25	morphologie 1617 1624	nodules
+T26	topographie 1625 1636	pulmonaires
+T27	morphologie 1713 1720	lésions
+T28	expression_CIM 1713 1720	lésions
+T29	expression_CIM 1747 1757	métastases
+T30	topographie 1910 1928	colonne vertébrale
+T31	expression_CIM 1879 1928	lésions hyperatténuées dans la colonne vertébrale
+T32	topographie 1962 1968	sacrum
+T33	topographie 1974 1988	lames iliaques
+T34	expression_CIM 1942 1988	métastases, dans le sacrum, les lames iliaques
+T35	expression_CIM 2578 2588	métastases
+T36	morphologie 2592 2618	méningiome de type fibreux
+T37	expression_CIM 2592 2618	méningiome de type fibreux
+T38	morphologie 2701 2711	métastases
+T39	topographie 2712 2722	hépatiques
+T40	topographie 2724 2735	pulmonaires
+T41	topographie 2739 2747	osseuses
+T42	morphologie 2751 2767	extension locale
+T43	topographie 2772 2783	tissus mous
+T44	expression_CIM 2751 2783	extension locale aux tissus mous
+T45	expression_CIM 2669 2695	méningiome de type fibreux
+T46	expression_CIM 2701 2747	métastases hépatiques, pulmonaires et osseuses
+T47	expression_CIM 3832 3847	tumeur primaire

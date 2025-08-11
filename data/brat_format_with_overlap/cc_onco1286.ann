@@ -1,0 +1,9 @@
+T1	morphologie 321 342	carcinome épidermoïde
+T2	morphologie 1540 1550	métastases
+T3	morphologie 2076 2097	carcinome épidermoïde
+T4	morphologie 2153 2174	CARCINOME ÉPIDERMOÏDE
+T5	expression_CIM 321 342	carcinome épidermoïde
+T6	expression_CIM 1540 1550	métastases
+T7	expression_CIM 2076 2097	carcinome épidermoïde
+T8	expression_CIM 2153 2215	CARCINOME ÉPIDERMOÏDE DANS LES NERFS CRÂNIENS III, IV, V ET VI
+T9	topographie 2184 2215	NERFS CRÂNIENS III, IV, V ET VI

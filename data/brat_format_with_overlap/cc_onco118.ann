@@ -1,0 +1,46 @@
+T1	expression_CIM 878 887	métastase
+T2	morphologie 1000 1012	métastatique
+T3	expression_CIM 1535 1576	carcinome neuroendocrine bien différencié
+T4	morphologie 1750 1766	Insulinome malin
+T6	morphologie 2096 2106	métastases
+T7	morphologie 2147 2157;2171 2176	insulinome malin
+T8	morphologie 2599 2610	progression
+T9	morphologie 3247 3258	progression
+T10	morphologie 3472 3483	progression
+T11	morphologie 878 887	métastase
+T12	morphologie 891 912	tumeur neuroendocrine
+T13	expression_CIM 891 912	tumeur neuroendocrine
+T14	morphologie 717 754	lésions hypointense occupant l'espace
+T15	topographie 769 773	foie
+T16	morphologie 756 759	LOE
+T17	expression_CIM 756 759	LOE
+T18	expression_CIM 717 773	lésions hypointense occupant l'espace (LOE) dans le foie
+T19	topographie 995 999	foie
+T20	expression_CIM 995 1012	foie métastatique
+T21	morphologie 1022 1073	tumeur exprimant des récepteurs de la somatostatine
+T22	expression_CIM 1022 1073	tumeur exprimant des récepteurs de la somatostatine
+T23	morphologie 1404 1407	LOE
+T24	topographie 1440 1448	pancréas
+T25	expression_CIM 1404 1448	LOE a été observée dans le corps du pancréas
+T26	differenciation 1560 1576	bien différencié
+T27	morphologie 1535 1559	carcinome neuroendocrine
+T28	expression_CIM 1750 1766	Insulinome malin
+T29	stade 1770 1778	stade IV
+T30	morphologie 1780 1790	métastases
+T31	topographie 1791 1799	osseuses
+T32	topographie 1801 1811	hépatiques
+T33	expression_CIM 1780 1811	métastases osseuses, hépatiques
+T5	topographie 2107 2115	osseuses
+T34	expression_CIM 2096 2115	métastases osseuses
+T35	topographie 2158 2170	pancréatique
+T36	expression_CIM 2147 2176	insulinome pancréatique malin
+T37	morphologie 2182 2192	métastases
+T38	topographie 2193 2203	hépatiques
+T39	topographie 2207 2215	osseuses
+T40	expression_CIM 2182 2215	métastases hépatiques et osseuses
+T41	topographie 2611 2618	osseuse
+T42	expression_CIM 2599 2618	progression osseuse
+T43	topographie 3285 3289	foie
+T44	expression_CIM 3247 3289	progression radiologique au niveau du foie
+T45	topographie 3484 3493	hépatique
+T46	expression_CIM 3472 3493	progression hépatique

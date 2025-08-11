@@ -1,0 +1,56 @@
+T1	morphologie 63 79	lymphadénopathie
+T2	topographie 80 89	inguinale
+T3	morphologie 205 211	nodule
+T4	topographie 220 224	sein
+T5	morphologie 407 418	adénopathie
+T6	topographie 419 435	sus-claviculaire
+T7	morphologie 448 459	adénopathie
+T8	topographie 460 469	axillaire
+T9	morphologie 483 494	conglomérat
+T10	topographie 495 503	inguinal
+T11	morphologie 543 550	nodules
+T12	morphologie 746 753	lésions
+T13	topographie 754 762	osseuses
+T14	morphologie 779 791	adénopathies
+T15	morphologie 850 865	tumeur primaire
+T16	morphologie 972 982	métastases
+T17	topographie 983 991	osseuses
+T18	topographie 1003 1018	appendiculaires
+T19	morphologie 1162 1173	adénopathie
+T20	topographie 1174 1183	inguinale
+T21	morphologie 1728 1737	carcinome
+T22	differenciation 1738 1751	indifférencié
+T23	topographie 1754 1770	origine mammaire
+T24	morphologie 2003 2012	carcinome
+T25	topographie 2013 2021	mammaire
+T26	stade 2040 2048	stade IV
+T27	morphologie 2231 2238	maladie
+T28	topographie 2239 2246	osseuse
+T29	topographie 2250 2263	ganglionnaire
+T30	morphologie 2435 2451	lymphadénopathie
+T31	topographie 2452 2461	axillaire
+T32	topographie 2465 2481	rétropéritonéale
+T33	morphologie 2509 2525	lymphadénopathie
+T34	topographie 2526 2535	inguinale
+T35	morphologie 2601 2608	lésions
+T36	topographie 2609 2617	osseuses
+T37	morphologie 2724 2744	maladie métastatique
+T38	topographie 2745 2752	osseuse
+T39	morphologie 2968 2974	nodule
+T40	topographie 3007 3011	sein
+T41	morphologie 3037 3042	masse
+T42	topographie 3043 3052	ovarienne
+T43	morphologie 3100 3107	lésions
+T44	topographie 3108 3116	osseuses
+T45	morphologie 3308 3313	masse
+T46	topographie 3314 3323	ovarienne
+T47	morphologie 3447 3469	carcinome métastatique
+T48	topographie 3472 3488	origine mammaire
+T49	morphologie 3595 3601	nodule
+T50	morphologie 3664 3673	carcinome
+T51	topographie 3674 3682	mammaire
+T52	morphologie 4452 4458	lésion
+T53	morphologie 4594 4603	métastase
+T54	morphologie 4607 4616	carcinome
+T55	topographie 4617 4625	mammaire
+T56	topographie 4478 4497	paupière inférieure

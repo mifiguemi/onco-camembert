@@ -1,0 +1,12 @@
+T1	morphologie 210 246	tumeur neuroendocrine endobronchique
+T2	topographie 250 264	lobe inférieur
+T3	stade 287 295	stade IV
+T4	differenciation 296 308	de bas grade
+T5	morphologie 322 332	métastases
+T6	topographie 333 343	hépatiques
+T7	morphologie 741 752	progression
+T8	topographie 753 763	pulmonaire
+T9	morphologie 1201 1207	tumeur
+T10	morphologie 1489 1500	progression
+T11	morphologie 1599 1609	métastases
+T12	topographie 1610 1620	hépatiques

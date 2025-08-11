@@ -1,0 +1,54 @@
+T1	morphologie 75 82	sarcome
+T2	topographie 83 95	testiculaire
+T3	stade 99 106	stade I
+T4	morphologie 857 871	lésion lytique
+T5	topographie 877 889	os scaphoïde
+T6	morphologie 896 907	destruction
+T7	morphologie 1002 1008	lésion
+T8	topographie 1009 1016	osseuse
+T9	morphologie 1017 1025	primaire
+T10	morphologie 1035 1057	lésion des tissus mous
+T11	morphologie 1187 1195	sarcomes
+T12	morphologie 1291 1297	lésion
+T13	topographie 1301 1310	scaphoïde
+T14	morphologie 1354 1368	tumeur maligne
+T15	differenciation 1369 1383	indifférenciée
+T16	morphologie 1384 1401	à cellules rondes
+T17	morphologie 1522 1528	Tumeur
+T18	topographie 1585 1589	main
+T19	morphologie 2318 2328	métastases
+T20	topographie 2329 2337	osseuses
+T21	morphologie 2339 2361	ganglions lymphatiques
+T22	topographie 2362 2392	supra et infradiaphragmatiques
+T23	morphologie 2394 2404	métastases
+T24	topographie 2405 2416	pulmonaires
+T25	topographie 2430 2433	des
+T26	topographie 2434 2445	tissus mous
+T27	topographie 2447 2454	rénales
+T28	topographie 2458 2472	surrénaliennes
+T29	morphologie 2524 2539	tumeur primaire
+T30	morphologie 2580 2586	lésion
+T31	topographie 2587 2593	rénale
+T32	morphologie 2612 2633	tumeur neuroendocrine
+T33	morphologie 2635 2638	TNE
+T34	morphologie 2673 2690	récidive tumorale
+T35	morphologie 2696 2703	sarcome
+T36	topographie 2704 2716	testiculaire
+T37	morphologie 2754 2786	Tumeur maligne à cellules rondes
+T38	differenciation 2787 2802	indifférenciées
+T39	stade 2815 2824	stade (E)
+T40	morphologie 2875 2882	sarcome
+T41	topographie 2883 2895	testiculaire
+T42	stade 2896 2900	E IV
+T43	morphologie 3266 3277	progression
+T44	topographie 3297 3306	abdominal
+T45	morphologie 3421 3428	sarcome
+T46	morphologie 3828 3833	masse
+T47	topographie 3890 3902	cuir chevelu
+T48	morphologie 3948 3954	lésion
+T49	morphologie 4032 4035	TNE
+T50	morphologie 4638 4644	lésion
+T51	topographie 4645 4655	palpébrale
+T52	morphologie 4751 4754	NER
+T53	morphologie 4757 4763	tumeur
+T54	topographie 4764 4784	corticosurrénalienne

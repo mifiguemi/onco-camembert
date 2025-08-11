@@ -1,0 +1,38 @@
+T1	morphologie 173 210	carcinome à cellules transitionnelles
+T2	stade 211 215	E-IV
+T3	topographie 222 228	vessie
+T4	morphologie 911 932	Atteinte métastatique
+T5	topographie 962 968	sacrum
+T6	morphologie 1023 1044	atteinte métastatique
+T7	topographie 1045 1052	iliaque
+T8	morphologie 1097 1120	lésions ostéoblastiques
+T9	topographie 1137 1144	calotte
+T10	topographie 1149 1162	massif facial
+T11	topographie 1170 1197	colonne vertébrale lombaire
+T12	topographie 1203 1231	arcades dorsales et costales
+T13	topographie 1238 1246	omoplate
+T14	topographie 1260 1267	humérus
+T15	topographie 1280 1287	hémipel
+T16	topographie 1299 1325	sacro-iliaques bilatérales
+T17	topographie 1331 1355	branches ischiopubiennes
+T18	topographie 1377 1394	symphyse pubienne
+T19	morphologie 1418 1424	lésion
+T20	topographie 1425 1439	cutanée du dos
+T22	morphologie 1442 1451	métastase
+T23	morphologie 1455 1464	carcinome
+T25	morphologie 1617 1628	Progression
+T26	topographie 1629 1636	cutanée
+T27	topographie 1640 1647	osseuse
+T28	morphologie 1662 1699	carcinome à cellules transitionnelles
+T29	topographie 1706 1712	vessie
+T30	morphologie 1825 1836	progression
+T31	topographie 1847 1853	osseux
+T32	morphologie 1878 1885	lésions
+T33	topographie 1886 1897	pulmonaires
+T34	morphologie 2683 2690	lésions
+T35	topographie 2691 2699	cutanées
+T36	morphologie 2727 2734	lésions
+T37	topographie 2735 2743	cutanées
+T38	topographie 2771 2774	dos
+T39	topographie 2781 2793	cuir chevelu
+T21	topographie 2760 2766	visage

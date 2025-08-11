@@ -1,0 +1,61 @@
+T1	morphologie 563 572	néoplasie
+T2	morphologie 773 782	métastase
+T3	expression_CIM 1154 1195	sarcome endométrial stromal indifférencié
+T4	morphologie 1438 1449	adénopathie
+T5	morphologie 2110 2130	implant métastatique
+T6	morphologie 2283 2292	carcinome
+T7	morphologie 2422 2447	infiltration métastatique
+T8	morphologie 2465 2471	lésion
+T9	morphologie 2896 2921	Infiltration métastatique
+T10	morphologie 3460 3485	infiltration métastatique
+T11	morphologie 3623 3648	Infiltration métastatique
+T12	expression_CIM 3806 3835	tumeur maligne indifférenciée
+T13	expression_CIM 3855 3888	sarcome endométrial indifférencié
+T14	expression_CIM 3954 3995	Sarcome stromal endométrial indifférencié
+T15	morphologie 4114 4120	tumeur
+T16	topographie 573 580	utérine
+T17	expression_CIM 563 580	néoplasie utérine
+T18	topographie 790 817	espace épidural à D9 et D10
+T19	expression_CIM 773 817	métastase dans l'espace épidural à D9 et D10
+T20	morphologie 827 832	masse
+T21	expression_CIM 827 832	masse
+T22	morphologie 1154 1161;1174 1181	sarcome stromal
+T23	topographie 1162 1173	endométrial
+T24	differenciation 1182 1195	indifférencié
+T25	topographie 1450 1466	sus-claviculaire
+T26	topographie 1470 1479	axillaire
+T27	expression_CIM 1438 1479	adénopathie sus-claviculaire ou axillaire
+T28	morphologie 1575 1580	masse
+T29	topographie 1597 1607	hypogastre
+T30	topographie 1614 1619	FID d
+T31	expression_CIM 1575 1617	masse palpable dans l'hypogastre et la FID
+T32	morphologie 1913 1918	masse
+T33	topographie 1982 1998	glande surrénale
+T34	expression_CIM 1913 1998	masse à rehaussement hétérogène dans la localisation théorique de la glande surrénale
+T35	expression_CIM 2110 2130	implant métastatique
+T36	topographie 2293 2304	endométrial
+T37	expression_CIM 2283 2304	carcinome endométrial
+T38	expression_CIM 2422 2447	infiltration métastatique
+T39	topographie 2475 2493	corps vertébral D4
+T40	expression_CIM 2465 2493	lésion du corps vertébral D4
+T41	topographie 2929 2962	espace épidural, au niveau D9-D10
+T42	expression_CIM 2896 2962	Infiltration métastatique dans l'espace épidural, au niveau D9-D10
+T43	morphologie 3269 3274	masse
+T44	expression_CIM 3269 3274	masse
+T45	topographie 3507 3528	corps vertébral de L5
+T46	expression_CIM 3460 3528	infiltration métastatique est observée dans le corps vertébral de L5
+T47	morphologie 3593 3598	masse
+T48	expression_CIM 3593 3598	masse
+T49	expression_CIM 3623 3666	Infiltration métastatique dans l'ala sacrée
+T50	topographie 3656 3666	ala sacrée
+T51	morphologie 3806 3820	tumeur maligne
+T52	differenciation 3821 3835	indifférenciée
+T53	morphologie 3855 3862	sarcome
+T54	topographie 3863 3874	endométrial
+T55	differenciation 3875 3888	indifférencié
+T56	stade 3999 4007	stade IV
+T57	morphologie 3954 3969	Sarcome stromal
+T58	topographie 3970 3981	endométrial
+T59	differenciation 3982 3995	indifférencié
+T60	topographie 4121 4130	épidurale
+T61	expression_CIM 4114 4130	tumeur épidurale

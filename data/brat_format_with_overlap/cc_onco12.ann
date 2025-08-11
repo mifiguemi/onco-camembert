@@ -1,0 +1,26 @@
+T1	morphologie 191 215	mélanome nodulaire malin
+T3	expression_CIM 580 599	nodules pulmonaires
+T4	morphologie 691 700	métastase
+T5	morphologie 1340 1349	métastase
+T7	morphologie 4580 4589	métastase
+T8	topographie 231 240	pectorale
+T9	expression_CIM 191 240	mélanome nodulaire malin dans la région pectorale
+T10	morphologie 363 371	mélanome
+T11	expression_CIM 363 371	mélanome
+T2	stade 400 413	pT4b pN2a cM0
+T12	stade 415 425	stade III)
+T13	morphologie 580 587	nodules
+T14	topographie 588 599	pulmonaires
+T15	morphologie 607 623	lésion nodulaire
+T16	topographie 652 669	vésicule biliaire
+T17	expression_CIM 607 669	lésion nodulaire dépendant de la paroi de la vésicule biliaire
+T18	expression_CIM 691 700	métastase
+T19	topographie 1350 1366	intravésiculaire
+T20	expression_CIM 1340 1366	métastase intravésiculaire
+T21	morphologie 1654 1660	lésion
+T22	topographie 1661 1677	intravésiculaire
+T23	expression_CIM 1654 1677	lésion intravésiculaire
+T6	morphologie 4434 4458	progression métastatique
+T24	expression_CIM 4434 4458	progression métastatique
+T25	topographie 4598 4615	vésicule biliaire
+T26	expression_CIM 4580 4615	métastase dans la vésicule biliaire

@@ -1,0 +1,35 @@
+T1	morphologie 260 266	cancer
+T2	morphologie 295 304	néoplasie
+T3	topographie 308 316	pancréas
+T4	morphologie 353 362	néoplasie
+T5	topographie 369 377	prostate
+T6	morphologie 1155 1160	masse
+T7	morphologie 1197 1208	adénopathie
+T8	morphologie 1749 1761	adénopathies
+T9	topographie 1762 1779	rétropéritonéales
+T10	morphologie 1851 1874	néoformation végétative
+T11	topographie 1891 1919	jonction gastro-œsophagienne
+T12	morphologie 2186 2218	adénocarcinome tubulo-papillaire
+T13	differenciation 2219 2241	modérément différencié
+T14	morphologie 2509 2544	adénopathies suspectes de malignité
+T15	morphologie 2549 2555	lésion
+T16	stade 2659 2664	uT4N1
+T17	morphologie 2935 2947	adénopathies
+T18	morphologie 2986 2992	tumeur
+T19	topographie 2999 3014	paroi gastrique
+T20	morphologie 3123 3137	tumeur maligne
+T21	morphologie 3395 3406	adénopathie
+T22	morphologie 3880 3905	adénocarcinome infiltrant
+T23	topographie 3912 3948	jonction gastro-œsophagienne Siewert
+T24	morphologie 3957 3966	extension
+T25	topographie 3970 3986	fundus gastrique
+T26	stade 3988 3997	stade III
+T27	stade 3999 4004	uT4N1
+T28	morphologie 4075 4099	dissémination à distance
+T29	morphologie 4130 4157	adénopathie hypercapillaire
+T30	topographie 4158 4175	supraclaviculaire
+T31	morphologie 5016 5028	adénopathies
+T32	topographie 5029 5042	péritumorales
+T33	morphologie 5118 5125	lésions
+T34	stade 5884 5890	ypT0N0
+T35	morphologie 6081 6087	lésion

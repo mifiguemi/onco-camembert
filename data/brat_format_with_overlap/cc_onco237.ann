@@ -1,0 +1,39 @@
+T1	morphologie 494 500	tumeur
+T2	topographie 501 508	rectale
+T3	morphologie 1000 1006	tumeur
+T4	topographie 1060 1071	marge anale
+T5	morphologie 1229 1234	masse
+T6	topographie 1295 1301	rectum
+T7	morphologie 1412 1417	masse
+T8	morphologie 1903 1929	adénopathies pathologiques
+T9	topographie 1930 1943	péritumorales
+T10	stade 2138 2147	T4 N2b Mx
+T11	morphologie 2266 2272	nodule
+T12	topographie 2273 2283	pulmonaire
+T13	topographie 2296 2299	LSI
+T14	morphologie 2316 2323	lésions
+T15	topographie 2324 2334	hépatiques
+T16	morphologie 2430 2435	masse
+T17	topographie 2436 2443	rectale
+T18	morphologie 2480 2494	masse primaire
+T19	morphologie 2512 2520	implants
+T20	topographie 2521 2530	présacrés
+T21	morphologie 2548 2554	Nodule
+T22	topographie 2555 2575	pulmonaire supérieur
+T23	morphologie 2599 2616	lésions kystiques
+T24	topographie 2625 2629	foie
+T25	morphologie 2688 2697	néoplasme
+T26	morphologie 2884 2900	tumeur fusiforme
+T27	morphologie 2914 2918	GIST
+T28	morphologie 3285 3319	tumeur stromale gastro-intestinale
+T30	morphologie 3321 3325	GIST
+T31	morphologie 3836 3840	GIST
+T32	stade 3849 3867	localement avancée
+T33	morphologie 4012 4018	tumeur
+T34	morphologie 4599 4605	tumeur
+T35	topographie 4606 4613	rectale
+T36	morphologie 4719 4731	adénopathies
+T37	topographie 4732 4744	mésorectales
+T38	morphologie 4950 4956	tumeur
+T39	morphologie 5157 5163	tumeur
+T40	morphologie 5226 5232	tumeur

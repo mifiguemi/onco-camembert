@@ -1,0 +1,18 @@
+T1	morphologie 272 278	tumeur
+T2	topographie 296 300	rein
+T3	morphologie 640 645	masse
+T4	topographie 712 716	rein
+T5	morphologie 980 998	maladie à distance
+T6	morphologie 1031 1066	CARCINOME DU CANAL COLLECTEUR RÉNAL
+T7	morphologie 1201 1207	tumeur
+T8	differenciation 1303 1321	grade 2 de Fuhrman
+T9	morphologie 1458 1464	tumeur
+T10	topographie 1476 1493	graisse périnéale
+T11	morphologie 1519 1548	carcinome du canal collecteur
+T12	stade 1549 1553	pT3b
+T13	differenciation 1555 1573	grade 2 de Fuhrman
+T14	morphologie 1800 1825	progression de la maladie
+T15	topographie 1836 1846	péritonéal
+T16	morphologie 1871 1884	carcinomatose
+T17	topographie 1885 1896	péritonéale
+T18	morphologie 1924 1956	carcinome des tubules de Bellini

@@ -1,0 +1,57 @@
+T1	morphologie 490 495	masse
+T2	topographie 496 506	abdominale
+T3	morphologie 883 900	implants tumoraux
+T4	topographie 909 919	diaphragme
+T5	morphologie 934 946	adénopathies
+T6	topographie 955 971	tête du pancréas
+T7	morphologie 1062 1068	tumeur
+T8	morphologie 1113 1119	tumeur
+T9	morphologie 1645 1650	masse
+T10	topographie 1651 1661	abdominale
+T11	morphologie 2132 2137	masse
+T12	topographie 2145 2155	abdominale
+T13	morphologie 2292 2309	images nodulaires
+T14	morphologie 2323 2331	implants
+T15	topographie 2332 2343	péritonéaux
+T16	morphologie 2357 2378	Tumeur desmoplastique
+T17	topographie 2379 2389	abdominale
+T18	morphologie 2390 2415	à petites cellules rondes
+T19	stade 2419 2427	stade IV
+T20	morphologie 2429 2437	atteinte
+T21	topographie 2441 2445	foie
+T22	topographie 2452 2461	péritoine
+T23	morphologie 2635 2641	tumeur
+T24	morphologie 2742 2762	progression tumorale
+T25	morphologie 2787 2818	implants tumoraux métastatiques
+T26	topographie 2820 2836	rétropéritonéaux
+T27	topographie 2838 2852	para-aortiques
+T28	topographie 2854 2870	intra-abdominaux
+T29	topographie 2872 2880	iliaques
+T30	topographie 2892 2908	rétro-ombilicaux
+T31	morphologie 2914 2939	lésions occupant l'espace
+T32	morphologie 2941 2944	LOE
+T33	topographie 2954 2958	foie
+T34	morphologie 2968 2973	masse
+T35	topographie 2974 2987	surrénalienne
+T36	morphologie 3811 3816	masse
+T37	topographie 3817 3826	pelvienne
+T38	morphologie 4161 4166	masse
+T39	topographie 4167 4176	pelvienne
+T40	morphologie 4350 4355	masse
+T41	topographie 4356 4365	pelvienne
+T42	morphologie 4478 4495	implants tumoraux
+T43	topographie 4497 4506	ombilical
+T44	topographie 4508 4514	bassin
+T45	topographie 4516 4536	mésocôlon transverse
+T46	topographie 4538 4551	fosse iliaque
+T47	topographie 4560 4565	flanc
+T48	topographie 4574 4584	diaphragme
+T49	topographie 4602 4616	lobe hépatique
+T50	topographie 4627 4636	surrénale
+T51	morphologie 4978 5016	progression des ganglions lymphatiques
+T52	topographie 5017 5027	abdominaux
+T53	morphologie 5465 5471	tumeur
+T54	morphologie 5501 5518	implants tumoraux
+T55	topographie 5527 5552	ligament gastro-hépatique
+T56	topographie 5557 5573	glande surrénale
+T57	topographie 5587 5609	chaîne iliaque externe

@@ -1,0 +1,12 @@
+T2	morphologie 568 596	carcinome à cellules rénales
+T3	morphologie 1400 1434	carcinome rénal à cellules claires
+T5	morphologie 347 365;378 399	lésions nodulaires d'allure métastatique
+T1	expression_CIM 347 399	lésions nodulaires bilatérales d'allure métastatique
+T6	morphologie 437 442	masse
+T7	topographie 485 489	rein
+T8	expression_CIM 437 489	masse de 6,2 x 5,2 cm dans le pôle inférieur du rein
+T9	expression_CIM 568 596	carcinome à cellules rénales
+T10	morphologie 1113 1118	masse
+T11	topographie 1119 1125	rénale
+T12	expression_CIM 1113 1125	masse rénale
+T13	expression_CIM 1400 1434	carcinome rénal à cellules claires

@@ -1,0 +1,51 @@
+T1	morphologie 635 641	tumeur
+T2	morphologie 783 797	adénocarcinome
+T3	morphologie 960 967	adénome
+T4	morphologie 1107 1121	adénocarcinome
+T5	morphologie 1504 1510	nodule
+T6	morphologie 2107 2113	nodule
+T7	morphologie 2197 2204	nodules
+T8	morphologie 2824 2830	nodule
+T9	morphologie 2886 2893	nodules
+T10	morphologie 3337 3343	nodule
+T12	morphologie 3530 3544	adénocarcinome
+T13	morphologie 3831 3846	tumeur primaire
+T15	morphologie 4235 4246	progression
+T16	morphologie 4346 4352	lésion
+T17	morphologie 4872 4883	progression
+T18	topographie 664 669	sigma
+T19	stade 1125 1135	stade IIIB
+T20	stade 1148 1154	pT3pN1
+T21	topographie 1511 1541	hépatique sous-diaphragmatique
+T22	topographie 2205 2216	pulmonaires
+T23	topographie 2114 2123	hépatique
+T24	topographie 2894 2905	pulmonaires
+T25	topographie 2831 2840	hépatique
+T26	topographie 3344 3354;3386 3389	pulmonaire LSI
+T27	topographie 3545 3555	intestinal
+T14	morphologie 4181 4187	lésion
+T28	topographie 4212 4220	cérébral
+T29	topographie 4247 4263	pleuropulmonaire
+T30	topographie 4353 4362	cérébrale
+T31	topographie 4884 4893	cérébrale
+T32	topographie 4897 4913	pleuropulmonaire
+T34	morphologie 916 922	nodule
+T35	topographie 923 934	surrénalien
+T36	expression_CIM 635 669	tumeur douteuse au niveau du sigma
+T37	expression_CIM 783 797	adénocarcinome
+T38	expression_CIM 916 934	nodule surrénalien
+T39	expression_CIM 960 967	adénome
+T40	differenciation 1136 1146	de grade 1
+T41	expression_CIM 1107 1146	adénocarcinome de stade IIIB de grade 1
+T42	expression_CIM 1504 1541	nodule hépatique sous-diaphragmatique
+T43	expression_CIM 2107 2123	nodule hépatique
+T44	expression_CIM 2197 2216	nodules pulmonaires
+T45	expression_CIM 2824 2840	nodule hépatique
+T46	expression_CIM 2886 2905	nodules pulmonaires
+T47	expression_CIM 3337 3389	nodule pulmonaire évocateur de malignité dans le LSI
+T11	expression_CIM 3530 3555	adénocarcinome intestinal
+T33	expression_CIM 3831 3846	tumeur primaire
+T48	expression_CIM 4235 4263	progression pleuropulmonaire
+T49	expression_CIM 4181 4220	lésion a été trouvée au niveau cérébral
+T50	expression_CIM 4346 4362	lésion cérébrale
+T51	expression_CIM 4872 4913	progression cérébrale et pleuropulmonaire

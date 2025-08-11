@@ -1,0 +1,27 @@
+T1	morphologie 102 108	nodule
+T2	topographie 117 148	quadrant supéro-interne du sein
+T3	morphologie 224 230	cancer
+T4	topographie 234 238	sein
+T5	morphologie 428 434	nodule
+T6	topographie 515 546	quadrant supéro-interne du sein
+T7	morphologie 568 579	adénopathie
+T8	topographie 580 589	axillaire
+T9	morphologie 731 737	nodule
+T10	topographie 746 777	quadrant supéro-interne du sein
+T11	morphologie 876 885	ganglions
+T12	topographie 886 896	axillaires
+T13	morphologie 916 940	infiltration néoplasique
+T14	morphologie 986 993	nodules
+T15	topographie 994 1003	mammaires
+T16	morphologie 1055 1065	métastases
+T17	morphologie 1147 1153	nodule
+T18	topographie 1154 1162	mammaire
+T19	topographie 1193 1203	axillaires
+T20	morphologie 1258 1288	carcinome canalaire infiltrant
+T21	topographie 1292 1296	sein
+T22	differenciation 1305 1315	de grade 3
+T23	morphologie 1485 1494	carcinome
+T24	stade 1516 1528	cT1c cN1 cM0
+T25	stade 1530 1539	stade IIa
+T26	stade 2035 2044	ypT0 ypN0
+T27	morphologie 2998 3005	tumeurs

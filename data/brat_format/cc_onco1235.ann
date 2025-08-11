@@ -1,0 +1,37 @@
+T1	morphologie 305 323	mélanome nodulaire
+T4	morphologie 1173 1191	maladie à distance
+T5	morphologie 1205 1223	Mélanome nodulaire
+T7	morphologie 2204 2221	images nodulaires
+T8	morphologie 2273 2283	métastases
+T10	morphologie 2846 2856	métastases
+T11	morphologie 2887 2902	tumeur primaire
+T13	morphologie 4781 4791	métastases
+T3	topographie 1239 1247	lombaire
+T16	topographie 2251 2258	poumons
+T18	topographie 2298 2314	lobes hépatiques
+T20	morphologie 2327 2339	adénopathies
+T21	topographie 2348 2357	mésentère
+T22	topographie 2362 2376	hile hépatique
+T23	topographie 2381 2404	ligament gastroduodénal
+T24	topographie 2408 2423	rétropéritonéal
+T26	morphologie 2444 2449	masse
+T27	topographie 2450 2463	surrénalienne
+T30	morphologie 4268 4276;4286 4312	atteinte des ganglions lymphatiques
+T31	topographie 4313 4325	médiastinaux
+T32	topographie 4329 4341	parahilaires
+T34	morphologie 4795 4809	mélanome malin
+T36	topographie 4835 4842	cerveau
+T37	topographie 4847 4851	cœur
+T38	topographie 4857 4864	poumons
+T39	topographie 4869 4877	thyroïde
+T40	topographie 4881 4889	œsophage
+T41	topographie 4893 4900	estomac
+T42	topographie 4904 4918	intestin grêle
+T43	topographie 4925 4938	gros intestin
+T44	topographie 4942 4949	omentum
+T45	topographie 4954 4958	foie
+T46	topographie 4963 4971	pancréas
+T47	topographie 4977 4982	reins
+T48	topographie 4988 5006	glandes surrénales
+T49	topographie 5031 5045	moelle osseuse
+T6	stade 1256 1270	pT2 pN0[0/2]M0

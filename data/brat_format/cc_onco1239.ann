@@ -1,0 +1,38 @@
+T1	morphologie 1123 1142;1163 1177	lésion ostéolytique d'aspect malin
+T3	morphologie 1303 1312	carcinome
+T4	morphologie 1629 1655	dissémination métastatique
+T6	morphologie 1709 1718	métastase
+T7	morphologie 1803 1813	métastases
+T8	morphologie 1897 1930	Carcinome thyroïdien folliculaire
+T9	morphologie 2479 2489	métastases
+T10	morphologie 2947 2953	tumeur
+T12	morphologie 618 630	adénopathies
+T13	topographie 641 657	latérocervicales
+T14	topographie 661 678	supraclavillaires
+T17	morphologie 1425 1430	masse
+T18	topographie 1498 1502	côte
+T21	morphologie 1657 1664	Nodules
+T22	topographie 1665 1676	pulmonaires
+T24	topographie 1814 1822	osseuses
+T26	topographie 1831 1846	squelette axial
+T27	topographie 1851 1858	calotte
+T28	topographie 1863 1869	bassin
+T29	topographie 1877 1883	fémurs
+T30	stade 1934 1942	stade IV
+T32	morphologie 1944 1954	métastases
+T33	topographie 1955 1963	osseuses
+T34	topographie 1982 1997	squelette axial
+T35	topographie 2002 2009	calotte
+T36	topographie 2020 2026	fémurs
+T37	topographie 2031 2046	cage thoracique
+T38	topographie 2051 2057	bassin
+T39	topographie 2062 2079	diaphyse humérale
+T40	topographie 2108 2118	pulmonaire
+T42	topographie 2490 2498	osseuses
+T44	topographie 2525 2532	calotte
+T45	topographie 2537 2555	colonne vertébrale
+T46	topographie 2560 2575	cage thoracique
+T47	topographie 2580 2586	bassin
+T48	topographie 2592 2598	fémurs
+T49	topographie 2629 2636	poumons
+T50	topographie 2954 2961	costale

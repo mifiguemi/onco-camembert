@@ -1,0 +1,49 @@
+T1	morphologie 155 161	nodule
+T2	topographie 162 172	thyroïdien
+T3	morphologie 264 270	cancer
+T4	topographie 274 278	sein
+T5	morphologie 300 306	cancer
+T6	topographie 310 316	larynx
+T7	morphologie 376 405	carcinome médullaire atypique
+T8	topographie 409 413	sein
+T9	morphologie 505 511	cancer
+T10	stade 512 519	pT2N0M0
+T11	morphologie 754 759	myome
+T12	topographie 760 766	utérin
+T13	morphologie 997 1003	nodule
+T14	topographie 1052 1056	sein
+T15	morphologie 1090 1096	lésion
+T16	morphologie 1155 1185	carcinome canalaire infiltrant
+T17	morphologie 1315 1345	carcinome canalaire infiltrant
+T18	stade 1346 1354	pT1bN0M0
+T19	differenciation 1356 1368	de grade III
+T20	morphologie 2365 2384	opacités nodulaires
+T21	topographie 2385 2396	pulmonaires
+T22	morphologie 2585 2594	métastase
+T23	morphologie 2604 2613	métastase
+T24	topographie 2614 2624	pulmonaire
+T25	morphologie 2625 2633	primaire
+T26	morphologie 2742 2761	lésion hypoéchogène
+T27	topographie 2796 2799	LID
+T28	morphologie 2955 2987	carcinome non à petites cellules
+T29	morphologie 2996 3010	adénocarcinome
+T30	morphologie 3045 3053	primitif
+T31	topographie 3054 3064	pulmonaire
+T32	morphologie 3106 3129	images pseudonodulaires
+T33	topographie 3144 3161	bases pulmonaires
+T34	morphologie 3269 3283	tumeur maligne
+T35	morphologie 3342 3356	Adénocarcinome
+T36	topographie 3357 3367	pulmonaire
+T37	morphologie 3368 3380	métastatique
+T38	morphologie 3385 3415	carcinome canalaire infiltrant
+T39	morphologie 3416 3428	métastatique
+T40	topographie 3432 3436	sein
+T41	morphologie 3560 3568	primitif
+T42	topographie 3569 3579	pulmonaire
+T43	morphologie 3615 3624	métastase
+T44	morphologie 3630 3639	carcinome
+T45	topographie 3640 3648	mammaire
+T46	morphologie 3786 3794	primitif
+T47	topographie 3795 3805	pulmonaire
+T48	morphologie 4093 4100	lésions
+T49	topographie 4123 4133	pulmonaire

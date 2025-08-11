@@ -1,0 +1,20 @@
+T1	morphologie 349 356	lésions
+T2	morphologie 588 594	lésion
+T3	topographie 595 603	fémorale
+T4	morphologie 659 666	nodules
+T5	topographie 667 678	pulmonaires
+T6	morphologie 720 727	lésions
+T7	topographie 728 736	osseuses
+T8	morphologie 862 870	atteinte
+T9	topographie 871 881	pulmonaire
+T10	morphologie 972 980	atteinte
+T11	topographie 981 988	osseuse
+T12	topographie 992 1002	pulmonaire
+T13	morphologie 1296 1303	maladie
+T14	topographie 1304 1314	pulmonaire
+T15	topographie 1318 1325	osseuse
+T18	topographie 384 396	col du fémur
+T19	topographie 411 433	branche ischiopubienne
+T20	topographie 448 473	région supra-acétabulaire
+T21	topographie 488 500	lame iliaque
+T22	topographie 517 537	colonne lombo-sacrée

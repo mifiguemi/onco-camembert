@@ -1,0 +1,25 @@
+T1	morphologie 539 548	néoplasie
+T2	morphologie 765 771	tumeur
+T3	morphologie 839 858	stésioneuroblastome
+T4	morphologie 2194 2200	tumeur
+T5	expression_CIM 2327 2361	stésioneuroblastome GI-II de Hyams
+T6	stade 2375 2381	T4N0M0
+T7	morphologie 2426 2445	stésioneuroblastome
+T8	morphologie 466 471	masse
+T9	topographie 501 516	sinus sphénoïde
+T10	expression_CIM 466 516	masse solide a été trouvée dans le sinus sphénoïde
+T11	expression_CIM 539 548	néoplasie
+T12	expression_CIM 765 771	tumeur
+T13	expression_CIM 839 858	stésioneuroblastome
+T14	morphologie 1200 1205	masse
+T15	expression_CIM 1200 1205	masse
+T16	expression_CIM 2194 2200	tumeur
+T17	morphologie 2327 2346	stésioneuroblastome
+T18	differenciation 2347 2361	GI-II de Hyams
+T19	stade 2383 2401	groupe C de Kadish
+T20	stade 2446 2463	localement avancé
+T21	expression_CIM 2426 2445	stésioneuroblastome
+T22	morphologie 2498 2504	lésion
+T23	expression_CIM 2498 2504	lésion
+T24	morphologie 2651 2656	masse
+T25	expression_CIM 2651 2656	masse

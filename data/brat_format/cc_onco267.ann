@@ -1,0 +1,48 @@
+T1	morphologie 155 161	cancer
+T2	topographie 165 169	sein
+T3	morphologie 251 257	nodule
+T4	topographie 266 270	sein
+T5	morphologie 389 395	lésion
+T6	topographie 416 436	région périaréolaire
+T7	morphologie 438 449	adénopathie
+T8	topographie 450 459	axillaire
+T9	topographie 463 485	creux sus-claviculaire
+T10	morphologie 514 520	tumeur
+T11	topographie 521 536	rétro-aréolaire
+T12	morphologie 621 628	tumeurs
+T13	topographie 629 644	rétroaréolaires
+T14	morphologie 690 695	masse
+T15	topographie 696 710	rétroaréolaire
+T16	morphologie 726 731	masse
+T17	topographie 732 746	rétroaréolaire
+T18	morphologie 845 864	tumeur de Phyllodes
+T19	differenciation 865 877	de bas grade
+T20	morphologie 894 914	carcinome infiltrant
+T21	differenciation 915 926	de grade II
+T22	morphologie 1052 1074	carcinome métaplasique
+T23	morphologie 1096 1102	tumeur
+T24	morphologie 1215 1220	masse
+T25	topographie 1221 1235	rétroaréolaire
+T26	morphologie 1275 1287	Adénopathies
+T27	morphologie 1309 1314	Masse
+T28	topographie 1703 1708	D5 D6
+T29	morphologie 1813 1835	carcinome métaplasique
+T30	stade 1836 1853	localement avancé
+T31	topographie 1857 1861	sein
+T32	stade 1869 1876	cT4N1M0
+T33	morphologie 1884 1903	tumeur de Phyllodes
+T34	differenciation 1904 1916	de bas grade
+T35	topographie 1925 1929	sein
+T36	stade 1936 1943	cT2N0M0
+T37	morphologie 2449 2468	tumeur de Phyllodes
+T38	differenciation 2469 2481	de bas grade
+T39	topographie 2503 2507	sein
+T40	morphologie 2518 2550	carcinome canalaire écriscamoïde
+T41	morphologie 2638 2658	carcinome sécrétoire
+T42	stade 2762 2769	ypT1pN0
+T43	morphologie 3619 3630	progression
+T44	morphologie 3712 3718	tumeur
+T45	morphologie 3791 3826	atteinte des ganglions lymphatiques
+T46	topographie 496 500	Sein
+T47	differenciation 2778 2804	Grade 3 selon Miller Payne
+T48	morphologie 3645 3653	primitif

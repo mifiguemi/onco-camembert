@@ -1,0 +1,50 @@
+T1	morphologie 657 663	nodule
+T2	topographie 680 683	LID
+T3	morphologie 823 830	nodules
+T4	topographie 831 842	pulmonaires
+T5	morphologie 995 1007	adénopathies
+T6	topographie 1008 1016	hilaires
+T7	morphologie 1110 1115	masse
+T8	topographie 1116 1122	rénale
+T9	morphologie 1279 1285	lésion
+T10	topographie 1286 1299	surrénalienne
+T11	morphologie 1400 1418	néoplasme primaire
+T12	topographie 1422 1426	rein
+T13	morphologie 1443 1453	métastases
+T14	topographie 1454 1465	pulmonaires
+T15	topographie 1469 1483	surrénaliennes
+T16	stade 1485 1487	M1
+T17	morphologie 1775 1784	carcinome
+T18	topographie 1785 1790	rénal
+T19	morphologie 1791 1809	à cellules claires
+T20	differenciation 1810 1826	de grade Fuhrman
+T21	morphologie 2019 2025	lésion
+T22	topographie 2026 2032	rénale
+T23	morphologie 2056 2077	lésions métastatiques
+T24	topographie 2078 2089	pulmonaires
+T25	topographie 2093 2107	surrénaliennes
+T26	morphologie 2363 2372	carcinome
+T27	topographie 2373 2378	rénal
+T28	morphologie 2379 2397	à cellules claires
+T29	morphologie 2398 2405	bifocal
+T30	differenciation 2406 2427	de grade nucléaire II
+T31	morphologie 2429 2436	Fuhrman
+T32	morphologie 2559 2565	tumeur
+T33	stade 2567 2571	pT1b
+T34	morphologie 2798 2800	M1
+T35	topographie 2801 2811	pulmonaire
+T36	morphologie 2819 2831	adénopathies
+T37	topographie 2832 2845	médiastinales
+T38	topographie 2849 2857	hilaires
+T39	morphologie 3089 3096	nodules
+T40	topographie 3097 3108	pulmonaires
+T41	morphologie 3116 3128	adénopathies
+T42	topographie 3129 3142	médiastinales
+T43	morphologie 3153 3158	masse
+T44	topographie 3167 3170	LID
+T45	morphologie 3466 3478	adénopathies
+T46	topographie 3479 3487	hilaires
+T47	topographie 3491 3504	médiastinales
+T48	morphologie 3661 3673	adénopathies
+T49	morphologie 5503 5523	progression tumorale
+T50	morphologie 6465 6470	masse

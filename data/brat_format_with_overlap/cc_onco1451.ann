@@ -1,0 +1,22 @@
+T1	topographie 587 602	interscapulaire
+T2	morphologie 619 625	lésion
+T3	morphologie 724 730	lésion
+T4	morphologie 820 827	lésions
+T5	morphologie 927 933	lésion
+T6	topographie 934 941	cutanée
+T7	morphologie 971 1029	mélanome malin type histologique d'extension superficielle
+T8	morphologie 1556 1574	maladie à distance
+T9	morphologie 1578 1587	néoplasme
+T10	topographie 1588 1594	cutané
+T11	morphologie 1816 1825	néoplasie
+T12	morphologie 1940 1954	micrométastase
+T13	morphologie 2002 2016	Mélanome malin
+T14	topographie 2020 2025	tronc
+T15	stade 2026 2036	pT2a N2 M0
+T16	stade 2038 2048	Stade IIIB
+T17	morphologie 2421 2463	naevus jonctionnel sans signe de malignité
+T18	morphologie 2610 2624	mélanome malin
+T19	stade 2628 2638	stade IIIB
+T20	morphologie 3634 3655	lésions métastatiques
+T21	topographie 3664 3671	cerveau
+T22	topographie 1906 1926	Ganglion lymphatique

@@ -1,0 +1,36 @@
+T1	morphologie 72 78	lésion
+T2	topographie 97 113	membre supérieur
+T3	morphologie 541 565	lésion spitzoïde ulcérée
+T4	stade 605 611	T3N0M0
+T5	stade 613 622	stade IIA
+T6	stade 637 653	TNM 7ème édition
+T7	morphologie 994 1010	lésion nodulaire
+T8	topographie 1025 1034	axillaire
+T9	morphologie 1105 1128	métastase ganglionnaire
+T10	morphologie 1138 1146	mélanome
+T11	morphologie 1547 1553	lésion
+T12	topographie 1554 1563	cérébrale
+T13	morphologie 1578 1584	lésion
+T14	topographie 1585 1595	pulmonaire
+T15	morphologie 1632 1638	lésion
+T16	topographie 1639 1652	paracardiaque
+T17	morphologie 1669 1678	captation
+T18	topographie 1679 1690	péritonéale
+T19	morphologie 1691 1700	nodulaire
+T20	topographie 1717 1730	fosse iliaque
+T21	morphologie 1848 1854	lésion
+T22	topographie 1855 1864	cérébrale
+T23	morphologie 2050 2058	mélanome
+T24	stade 2062 2070	stade IV
+T25	stade 2096 2101	M1d(1
+T26	stade 2109 2112	TNM
+T27	morphologie 2175 2181	lésion
+T28	topographie 2182 2191	cérébrale
+T29	morphologie 2215 2221	lésion
+T30	morphologie 2337 2343	lésion
+T31	topographie 2344 2353	cérébrale
+T32	morphologie 2382 2391	métastase
+T33	morphologie 2395 2403	mélanome
+T34	morphologie 4019 4035	maladie tumorale
+T35	morphologie 4945 4953	mélanome
+T36	stade 4957 4965	stade IV

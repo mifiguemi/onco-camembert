@@ -1,0 +1,35 @@
+T1	morphologie 757 773	phéochromocytome
+T2	morphologie 866 882	phéochromocytome
+T3	morphologie 1235 1245	métastases
+T4	morphologie 1571 1593	phéochromocytome malin
+T5	morphologie 2038 2054	phéochromocytome
+T6	expression_CIM 2413 2429	lésions osseuses
+T7	morphologie 2698 2708	métastases
+T8	morphologie 533 538	masse
+T9	topographie 608 612	rein
+T10	expression_CIM 533 612	masse solide hétérogène de 11 cm avec du liquide dans le pôle supérieur du rein
+T11	morphologie 684 689	masse
+T12	topographie 690 703	surrénalienne
+T13	expression_CIM 684 703	masse surrénalienne
+T14	expression_CIM 757 773	phéochromocytome
+T15	expression_CIM 866 882	phéochromocytome
+T16	expression_CIM 1235 1268	métastases à D4, L1, L3, L4 et L5
+T17	topographie 1248 1250	D4
+T18	topographie 1252 1254	L1
+T19	topographie 1256 1258	L3
+T20	topographie 1260 1262	L4
+T21	topographie 1266 1268	L5
+T22	morphologie 1206 1213	lésions
+T23	expression_CIM 1206 1213	lésions
+T24	expression_CIM 1571 1593	phéochromocytome malin
+T25	morphologie 1599 1609	métastases
+T26	topographie 1610 1618	osseuses
+T27	expression_CIM 1599 1618	métastases osseuses
+T28	morphologie 1372 1377	masse
+T29	topographie 1378 1391	surrénalienne
+T30	expression_CIM 1372 1391	masse surrénalienne
+T31	expression_CIM 2038 2054	phéochromocytome
+T32	morphologie 2413 2420	lésions
+T33	topographie 2421 2429	osseuses
+T34	topographie 2709 2719	hépatiques
+T35	expression_CIM 2698 2719	métastases hépatiques

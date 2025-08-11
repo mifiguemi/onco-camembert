@@ -1,0 +1,15 @@
+T1	morphologie 332 339	lésions
+T2	topographie 340 350	hépatiques
+T3	morphologie 366 376	métastases
+T4	morphologie 1064 1070	lésion
+T5	topographie 1095 1099	foie
+T6	morphologie 1153 1162	néoplasie
+T7	topographie 1167 1182	voies biliaires
+T8	morphologie 1209 1230	lésions métastatiques
+T9	topographie 1252 1268	lobes hépatiques
+T10	morphologie 1403 1415	adénopathies
+T11	topographie 1416 1441	interaorto-oesophagiennes
+T12	topographie 1445 1462	rétropéritonéales
+T13	morphologie 1900 1907	lésions
+T14	topographie 1908 1918	hépatiques
+T15	morphologie 2507 2516	néoplasme

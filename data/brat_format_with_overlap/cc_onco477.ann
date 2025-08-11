@@ -1,0 +1,35 @@
+T1	morphologie 85 91	nodule
+T2	topographie 100 104	sein
+T3	morphologie 177 183	cancer
+T4	topographie 187 191	sein
+T5	morphologie 278 308	carcinome canalaire infiltrant
+T6	topographie 312 316	sein
+T7	stade 323 330	cT1N0M0
+T8	morphologie 884 914	carcinome canalaire infiltrant
+T9	topographie 918 922	sein
+T10	stade 929 939	pT1N1micM0
+T11	morphologie 1591 1597	nodule
+T12	topographie 1641 1645	sein
+T13	morphologie 1767 1776;1786 1806	carcinome canalaire infiltrant
+T14	topographie 1777 1785	mammaire
+T17	differenciation 1807 1817	de grade 3
+T18	morphologie 2294 2301	lésions
+T19	topographie 2310 2326	région pectorale
+T20	morphologie 2401 2407	cancer
+T21	topographie 2411 2415	sein
+T22	morphologie 2939 2945	lésion
+T23	topographie 2992 3010	vermis cérébelleux
+T24	morphologie 3059 3068	métastase
+T25	topographie 3069 3081	cérébelleuse
+T26	morphologie 3119 3125	lésion
+T27	morphologie 3717 3723	lésion
+T28	topographie 3735 3749	espace vermien
+T29	topographie 3753 3764	cérébelleux
+T30	morphologie 4647 4675	maladie locale ou à distance
+T31	morphologie 4689 4695	Cancer
+T32	topographie 4699 4703	sein
+T33	stade 4718 4728	pT1N1micM0
+T34	morphologie 4804 4813	métastase
+T35	topographie 4814 4826	cérébelleuse
+T36	morphologie 4895 4901	lésion
+T37	topographie 4902 4914	cérébelleuse

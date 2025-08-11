@@ -1,0 +1,55 @@
+T1	morphologie 631 638	lésions
+T2	morphologie 744 774	carcinome canalaire infiltrant
+T3	topographie 778 782	sein
+T4	stade 889 899	stade IIIB
+T5	stade 901 909	pT4bN+Mx
+T6	morphologie 1237 1253	lésion nodulaire
+T7	topographie 1262 1266	sein
+T8	morphologie 1389 1400	Adénopathie
+T9	topographie 1408 1416	aisselle
+T10	morphologie 1481 1492	adénopathie
+T11	topographie 1493 1502	cervicale
+T12	topographie 1506 1522	sus-claviculaire
+T13	topographie 1657 1672	quadrant supéro
+T14	morphologie 1870 1903	adénopathies d'aspect néoplasique
+T15	morphologie 1962 1992	carcinome canalaire infiltrant
+T16	differenciation 1994 2007	grade I de la
+T17	morphologie 2221 2240	lésion ostéolytique
+T18	topographie 2254 2262	pédicule
+T19	morphologie 2300 2306	lésion
+T20	morphologie 2389 2399	métastases
+T21	morphologie 2417 2424	lésions
+T22	topographie 2443 2447	foie
+T23	topographie 2453 2460	poumons
+T24	morphologie 2508 2520	adénopathies
+T25	morphologie 2675 2682	lésions
+T26	topographie 2683 2693	hépatiques
+T27	morphologie 2726 2736	métastases
+T28	morphologie 2929 2936	lésions
+T29	topographie 2937 2945	osseuses
+T30	morphologie 2946 2959	métastatiques
+T31	morphologie 2973 3003	Carcinome canalaire infiltrant
+T32	topographie 3007 3011	sein
+T33	stade 4035 4052	ypT1bN0M0-stade I
+T34	morphologie 4487 4506	lésion ostéolytique
+T35	topographie 4515 4523	pédicule
+T36	morphologie 4572 4581	métastase
+T37	morphologie 4712 4744	foyers de captation pathologique
+T38	topographie 4768 4780	arcs costaux
+T39	topographie 4787 4793	pelvis
+T40	morphologie 4866 4873	rechute
+T41	morphologie 4877 4883	cancer
+T42	topographie 4887 4891	sein
+T43	topographie 5185 5189	foie
+T44	topographie 5197 5204	poumons
+T45	morphologie 5215 5222	lésions
+T46	topographie 5223 5231	osseuses
+T47	topographie 6043 6049	sacrum
+T48	morphologie 6075 6082	lésions
+T49	topographie 6083 6093	hépatiques
+T50	topographie 6097 6108	pulmonaires
+T51	morphologie 6665 6676	progression
+T52	topographie 6677 6686	hépatique
+T53	topographie 6690 6697	osseuse
+T54	morphologie 8127 8134	lésions
+T55	topographie 8135 8145	hépatiques

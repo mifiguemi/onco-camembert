@@ -1,0 +1,28 @@
+T1	morphologie 119 125	cancer
+T2	topographie 129 134	côlon
+T3	morphologie 175 182	adénome
+T4	morphologie 564 582	lésion néoplasique
+T5	morphologie 783 792	carcinome
+T6	topographie 793 804	endométrial
+T7	topographie 810 819	endomètre
+T8	stade 821 846	stade IB ou II de la FIGO
+T9	morphologie 1027 1055	adénocarcinome endométrioïde
+T10	differenciation 1056 1058	G3
+T11	topographie 1064 1073	endomètre
+T13	stade 1093 1100	pT3apN1
+T14	stade 1107 1109	M0
+T15	morphologie 1398 1416	tumeur polylobulée
+T16	topographie 1417 1428	pré-rectale
+T17	morphologie 1457 1473	lymphadénopathie
+T18	morphologie 1558 1578	récidive néoplasique
+T19	morphologie 1600 1617	Récidive tumorale
+T20	topographie 1618 1627	pelvienne
+T21	morphologie 1633 1647	adénocarcinome
+T22	topographie 1648 1659	endométrial
+T23	morphologie 2134 2144	métastases
+T24	topographie 2192 2216	suprasellaire paramédian
+T25	topographie 2225 2233	pariétal
+T26	topographie 2237 2248	cérébelleux
+T27	morphologie 2943 2953	métastases
+T28	topographie 2954 2964	cérébrales
+T12	topographie 2176 2183	frontal

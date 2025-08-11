@@ -1,0 +1,66 @@
+T1	morphologie 304 330	cystoadénofibrome mucineux
+T2	topographie 331 338	ovarien
+T3	morphologie 409 416	nodules
+T4	topographie 488 491	IIM
+T5	morphologie 529 545	fibrome scléreux
+T6	topographie 554 569	région frontale
+T7	morphologie 627 635	fibromes
+T8	topographie 636 645	mammaires
+T9	topographie 649 660	maxillaires
+T10	morphologie 717 745	épithéliomas basocellulaires
+T11	morphologie 790 796	cancer
+T12	topographie 800 806	larynx
+T13	morphologie 850 856	cancer
+T14	topographie 863 867	peau
+T15	morphologie 1184 1198	trichilemmomes
+T16	topographie 1199 1206	faciaux
+T17	morphologie 1776 1783	lésions
+T18	topographie 1784 1791	cutanéo
+T19	morphologie 1817 1830	trichilemomes
+T20	topographie 1831 1838	faciaux
+T21	morphologie 1869 1892	lésions papillomateuses
+T22	topographie 1912 1931	région périoculaire
+T23	morphologie 2000 2006	cancer
+T24	topographie 2010 2014	sein
+T25	morphologie 2021 2027	cancer
+T26	topographie 2033 2042	endomètre
+T27	morphologie 2051 2076	cancer folliculaire de la
+T28	topographie 2077 2085	thyroïde
+T29	morphologie 2175 2182	lésions
+T30	topographie 2183 2196	thyroïdiennes
+T31	morphologie 2213 2220	polypes
+T32	topographie 2221 2232	intestinaux
+T33	morphologie 2233 2246	hamartomateux
+T34	morphologie 2248 2261	fibroadénomes
+T35	topographie 2262 2271	mammaires
+T36	morphologie 2273 2286	malformations
+T37	morphologie 2300 2307	lipomes
+T38	morphologie 2309 2317	fibromes
+T39	morphologie 2319 2338	cancer des cellules
+T40	topographie 2339 2346	rénales
+T41	morphologie 2348 2361	malformations
+T42	topographie 2362 2378	génito-urinaires
+T43	morphologie 2497 2504	lésions
+T44	topographie 2505 2512	cutanéo
+T45	morphologie 2617 2631	trichilemmomes
+T46	morphologie 2655 2665	papillomes
+T47	topographie 2673 2689	muqueuse buccale
+T48	morphologie 2692 2702	Papillomes
+T49	topographie 2710 2726	muqueuse buccale
+T50	morphologie 2774 2784	papillomes
+T51	topographie 2800 2816	muqueuse buccale
+T52	morphologie 3103 3111	fibromes
+T53	morphologie 3115 3140	malformations vasculaires
+T54	morphologie 3757 3797	polypes gastro-intestinaux hamartomateux
+T55	morphologie 3868 3874	cancer
+T56	topographie 3878 3882	rein
+T57	morphologie 3901 3913	folliculomes
+T58	topographie 3921 3925	peau
+T59	morphologie 3980 4006	carcinomes basocellulaires
+T60	morphologie 4019 4027	troubles
+T61	topographie 4028 4035	cutanés
+T62	topographie 4037 4043	osseux
+T63	topographie 4045 4058	neurologiques
+T64	topographie 4062 4078	ophtalmologiques
+T65	morphologie 4085 4107	syndromes neurocutanés
+T66	morphologie 4815 4831	tumeurs malignes

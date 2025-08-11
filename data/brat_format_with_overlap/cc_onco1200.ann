@@ -1,0 +1,36 @@
+T1	morphologie 67 83;96 108	tumeur germinale embryonnaire
+T2	morphologie 1370 1383	porocarcinome
+T3	morphologie 1596 1606	métastases
+T4	morphologie 1830 1836	tumeur
+T5	morphologie 1850 1871	Porocarcinome eccrine
+T6	morphologie 1970 2001	maladie métastatique à distance
+T7	morphologie 2633 2643	oncocytome
+T8	morphologie 2877 2895	maladie à distance
+T9	topographie 84 95	extragonale
+T10	expression_CIM 67 108	tumeur germinale extragonale embryonnaire
+T11	morphologie 114 124	métastases
+T12	topographie 125 136	pulmonaires
+T13	morphologie 140 154	ganglionnaires
+T14	topographie 155 168	médiastinales
+T15	topographie 172 189	rétropéritonéales
+T16	expression_CIM 114 136	métastases pulmonaires
+T17	expression_CIM 140 189	ganglionnaires médiastinales et rétropéritonéales
+T18	morphologie 1271 1277	lésion
+T19	expression_CIM 1271 1277	lésion
+T20	expression_CIM 1370 1383	porocarcinome
+T21	expression_CIM 1627 1649	ganglions lymphatiques
+T22	expression_CIM 1596 1649	métastases dans l'un des trois ganglions lymphatiques
+T23	expression_CIM 1830 1836	tumeur
+T24	expression_CIM 1850 1871	Porocarcinome eccrine
+T25	morphologie 1907 1942	atteinte des ganglions lymphatiques
+T26	expression_CIM 1907 1955	atteinte des ganglions lymphatiques dans le BSGC
+T27	topographie 1951 1955	BSGC
+T28	expression_CIM 1970 2001	maladie métastatique à distance
+T29	morphologie 2465 2470	prise
+T30	topographie 2471 2477	rénale
+T31	expression_CIM 2465 2477	prise rénale
+T32	morphologie 2530 2536	lésion
+T33	topographie 2545 2555	pôle rénal
+T34	expression_CIM 2530 2555	lésion dans le pôle rénal
+T35	expression_CIM 2633 2643	oncocytome
+T36	expression_CIM 2877 2895	maladie à distance

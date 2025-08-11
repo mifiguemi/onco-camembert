@@ -1,0 +1,34 @@
+T1	morphologie 134 155	maladies néoplasiques
+T2	morphologie 976 992	lymphadénopathie
+T3	topographie 993 1010	supraclaviculaire
+T4	morphologie 1508 1513	masse
+T5	topographie 1514 1538	paratrachéale inférieure
+T6	morphologie 1586 1591	masse
+T7	topographie 1592 1602	pulmonaire
+T8	morphologie 1767 1792	conglomérat adénopathique
+T9	topographie 1793 1804	médiastinal
+T10	topographie 1850 1854	foie
+T11	morphologie 1877 1895	lésions nodulaires
+T12	morphologie 1919 1929	métastases
+T13	morphologie 2152 2158;2169 2181	cancer microcytaire
+T14	topographie 2162 2168	poumon
+T16	morphologie 2342 2347	masse
+T17	topographie 2348 2351	LSD
+T18	morphologie 2358 2383	conglomérat adénopathique
+T19	topographie 2384 2395	médiastinal
+T20	morphologie 2411 2418	lésions
+T21	topographie 2419 2429	hépatiques
+T22	morphologie 2537 2543;2554 2572	cancer à petites cellules
+T23	topographie 2547 2553	poumon
+T25	morphologie 2627 2637	métastases
+T26	topographie 2638 2648	hépatiques
+T27	morphologie 3964 3970	lésion
+T28	morphologie 4294 4299	masse
+T29	topographie 4300 4310	pulmonaire
+T30	morphologie 4334 4344	métastases
+T31	topographie 4345 4355	hépatiques
+T32	morphologie 5009 5014	masse
+T33	topographie 5015 5025	pulmonaire
+T34	morphologie 5033 5054	atteinte métastatique
+T35	topographie 5055 5064	hépatique
+T36	topographie 5068 5075	osseuse

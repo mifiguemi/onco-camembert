@@ -1,0 +1,18 @@
+T1	morphologie 1349 1379	lésion métastatique à distance
+T2	morphologie 1526 1540	tumeur maligne
+T4	morphologie 1636 1675	carcinome myoépithélial des tissus mous
+T5	morphologie 1681 1705	métastase d'un carcinome
+T6	morphologie 1722 1729	sarcome
+T8	morphologie 2741 2747	tumeur
+T10	morphologie 3510 3518	implants
+T11	morphologie 4459 4488	liposarcome à cellules rondes
+T12	morphologie 5230 5238	implants
+T3	topographie 1706 1715	gastrique
+T13	topographie 3519 3530	péritonéaux
+T14	topographie 5239 5250	péritonéaux
+T20	differenciation 1888 1902	indifférenciée
+T21	morphologie 1873 1887;1905 1938	tumeur maligne origine épithélioïde prédominante
+T23	morphologie 2844 2859	tumeur primaire
+T24	topographie 2862 2878	origine inconnue
+T28	morphologie 5309 5314	masse
+T29	topographie 5315 5324	pelvienne

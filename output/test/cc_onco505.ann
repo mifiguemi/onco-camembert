@@ -1,0 +1,20 @@
+T1	morphologie 47 67	carcinome à cellules
+T2	topographie 68 75	rénales
+T3	morphologie 438 447	carcinome
+T4	topographie 448 453	rénal
+T5	morphologie 454 472	à cellules claires
+T6	stade 479 484	stade
+T7	stade 485 492	T3aN0M0
+T8	morphologie 685 696	progression
+T9	topographie 723 730	poumons
+T10	morphologie 749 756	nodules
+T11	topographie 757 768	pulmonaires
+T12	morphologie 1404 1415	adénopathie
+T13	topographie 1416 1428	médiastinale
+T14	morphologie 1442 1448	lésion
+T15	topographie 1449 1459	pulmonaire
+T16	topographie 1476 1490	lobe supérieur
+T17	morphologie 1663 1674	progression
+T18	topographie 1685 1695	pulmonaire
+T19	morphologie 1729 1736	lésions
+T20	topographie 1737 1748	pulmonaires

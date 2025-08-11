@@ -1,0 +1,16 @@
+T1	morphologie 1514 1520	tumeur
+T2	morphologie 1636 1661	adénocarcinome intestinal
+T4	differenciation 1662 1684	modérément différencié
+T5	stade 1867 1874	pT3N1Mo
+T6	morphologie 2325 2341	lésion nodulaire
+T7	topographie 2406 2410	foie
+T8	morphologie 2537 2546	métastase
+T9	morphologie 2581 2595	adénocarcinome
+T10	morphologie 2616 2625	métastase
+T11	morphologie 2629 2635;2647 2655	cancer primaire
+T12	topographie 2636 2646	colorectal
+T14	morphologie 2672 2695	lésion lymphovasculaire
+T15	morphologie 3739 3748	métastase
+T16	topographie 3749 3758	hépatique
+T3	morphologie 1808 1816	atteinte
+T17	topographie 1835 1857	ganglions lymphatiques

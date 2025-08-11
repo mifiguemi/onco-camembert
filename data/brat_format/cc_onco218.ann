@@ -1,0 +1,13 @@
+T1	morphologie 222 257	maladie carcinomateuse microcytaire
+T2	morphologie 271 276	masse
+T3	topographie 277 284	hilaire
+T4	morphologie 293 305	adénopathies
+T5	topographie 306 319	médiastinales
+T6	topographie 321 329	hilaires
+T7	topographie 331 349	supraclaviculaires
+T8	morphologie 363 370	lésions
+T9	topographie 371 381	cérébrales
+T11	morphologie 1529 1551	carcinome microcytaire
+T12	topographie 1562 1568	poumon
+T10	morphologie 401 405	LOES
+T13	morphologie 2428 2444	maladie tumorale

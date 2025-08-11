@@ -1,0 +1,13 @@
+T1	morphologie 69 80	fibromyomes
+T2	topographie 81 90	mammaires
+T3	morphologie 888 909	maladie extra-utérine
+T4	morphologie 955 964	néoplasme
+T5	morphologie 1441 1447	tumeur
+T6	topographie 1460 1472	corps utérin
+T7	morphologie 2934 2939	masse
+T8	morphologie 3086 3092	lésion
+T9	topographie 3116 3135	cavité endométriale
+T10	morphologie 3498 3523	MOLA HYDATIFORME INVASIVE
+T11	morphologie 3699 3718	CYST TECALUTEINIQUE
+T12	morphologie 5893 5900	maladie
+T13	topographie 5927 5936	endomètre

@@ -1,0 +1,12 @@
+T2	stade 255 262	T4aN2M0
+T3	morphologie 4217 4223	tumeur
+T4	morphologie 5805 5814	métastase
+T5	morphologie 6012 6033	récidive métastatique
+T6	topographie 227 232	cæcal
+T7	morphologie 212 226;233 254	adénocarcinome à cellules annulaires
+T8	morphologie 3725 3737	adénopathies
+T9	topographie 3774 3799	ligament gastro-hépatique
+T10	topographie 3806 3825	médiastin antérieur
+T12	morphologie 4120 4132	adénopathies
+T13	topographie 4133 4146	médiastinales
+T17	morphologie 5817 5831	adénocarcinome

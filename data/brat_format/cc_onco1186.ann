@@ -1,0 +1,20 @@
+T1	morphologie 186 192;203 215	cancer microcytaire
+T2	morphologie 342 352	métastases
+T4	morphologie 1218 1244	dissémination métastatique
+T5	morphologie 1490 1512	Carcinome microcytaire
+T6	morphologie 1784 1810	dissémination métastatique
+T7	morphologie 2074 2084	métastases
+T8	topographie 196 202	poumon
+T10	morphologie 236 246	métastases
+T11	topographie 247 257	hépatiques
+T13	morphologie 269 274	foyer
+T14	topographie 290 303	sacro-iliaque
+T3	morphologie 961 966	masse
+T17	topographie 975 989	lobe supérieur
+T19	morphologie 1055 1079	composante adénopathique
+T20	topographie 1080 1103	médiastinale antérieure
+T22	topographie 1274 1314	vertèbres dorsales, lombaires et sacrées
+T24	morphologie 1404 1412	atteinte
+T25	topographie 1460 1476	canal à T9 et L5
+T27	topographie 1516 1522	poumon
+T31	topographie 1835 1844	vertèbres

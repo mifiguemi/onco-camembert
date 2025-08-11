@@ -1,0 +1,31 @@
+T1	morphologie 1368 1374	tumeur
+T2	topographie 1387 1393	rectum
+T3	morphologie 1438 1457	carcinome colloïdal
+T4	morphologie 1508 1514	tumeur
+T5	morphologie 1551 1565	adénocarcinome
+T6	topographie 1573 1579	rectum
+T7	stade 1580 1587	cT2N0M0
+T8	morphologie 1707 1713	tumeur
+T9	morphologie 1738 1744	tumeur
+T10	stade 1851 1858	cT3N0M0
+T11	morphologie 2018 2024	tumeur
+T12	stade 2025 2032	pT3abN1
+T13	morphologie 2585 2590	masse
+T14	topographie 2599 2605	rectum
+T15	morphologie 3003 3008	masse
+T16	topographie 3009 3016	rectale
+T17	morphologie 3226 3256	tumeur épithéliale infiltrante
+T18	morphologie 3669 3681	adénopathies
+T19	morphologie 3803 3820	lésions tumorales
+T20	morphologie 3858 3876	Carcinome colloïde
+T21	topographie 3884 3890	rectum
+T22	stade 3894 3903	stade III
+T23	stade 3905 3919	pT3aN1(1/16)M0
+T24	morphologie 4918 4927;4934 4952	carcinome à cellules claires
+T25	topographie 4928 4933	rénal
+T27	differenciation 4954 4974	grade 1-2 de Fürhman
+T29	stade 5022 5026	pT1a
+T30	morphologie 5160 5169	carcinome
+T31	topographie 5170 5176	rectal
+T32	morphologie 1914 1943	ganglion lymphatique infiltré
+T33	morphologie 3736 3748	adénopathies

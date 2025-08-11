@@ -1,0 +1,40 @@
+T1	morphologie 249 258	carcinome
+T2	topographie 259 267	mammaire
+T3	morphologie 351 357	nodule
+T4	topographie 366 381	quadrant supéro
+T5	morphologie 535 565	Carcinome canalaire infiltrant
+T6	topographie 569 573	sein
+T7	morphologie 583 612	Oligodendrogliome anaplasique
+T8	stade 618 625	OMS III
+T9	morphologie 628 640	Ostéosarcome
+T10	morphologie 754 784	carcinome canalaire infiltrant
+T11	topographie 788 792	sein
+T12	stade 800 807	pT1cpN0
+T13	morphologie 973 1003	Carcinome canalaire infiltrant
+T14	differenciation 1004 1015	de grade II
+T15	morphologie 1043 1052	métastase
+T16	topographie 1053 1066	ganglionnaire
+T17	morphologie 1285 1312	lésion occupant de l'espace
+T18	morphologie 1314 1317	LOE
+T19	topographie 1327 1331	foie
+T20	morphologie 1346 1355	métastase
+T21	morphologie 1369 1379	hémangiome
+T22	morphologie 1439 1449	hémangiome
+T23	morphologie 1574 1584	métastases
+T24	topographie 1585 1595	hépatiques
+T25	morphologie 1890 1896	lésion
+T26	topographie 1912 1937	région temporo-occipitale
+T27	morphologie 1966 1975	métastase
+T28	morphologie 2294 2300	lésion
+T29	morphologie 2389 2392	LOE
+T30	topographie 2393 2402	cérébrale
+T31	morphologie 2428 2434	lésion
+T32	topographie 2480 2493	lobe temporal
+T33	morphologie 2567 2573	tumeur
+T34	morphologie 2766 2772	lésion
+T35	topographie 2800 2813	lobe temporal
+T36	morphologie 2904 2933	oligodendrogliome anaplasique
+T37	morphologie 3544 3550	lésion
+T38	topographie 3609 3616	calotte
+T39	morphologie 3643 3649	lésion
+T40	morphologie 3738 3750	ostéosarcome

@@ -1,0 +1,45 @@
+T1	morphologie 1247 1259	adénopathies
+T2	topographie 1260 1270	cervicales
+T3	topographie 1274 1291	sus-claviculaires
+T4	morphologie 1832 1837	masse
+T5	topographie 1838 1858	sous-diaphragmatique
+T6	morphologie 2095 2114	masse adénopathique
+T7	topographie 2115 2129	interaortocave
+T8	morphologie 2218 2223	masse
+T9	topographie 2224 2240	rétropéritonéale
+T10	morphologie 2477 2483	lésion
+T11	morphologie 2695 2704	carcinome
+T12	topographie 2705 2716	surrénalien
+T13	morphologie 2737 2742	masse
+T14	topographie 2743 2759	rétropéritonéale
+T15	morphologie 2994 3003	carcinome
+T16	topographie 3004 3015	surrénalien
+T17	morphologie 3028 3044	phéochromocytome
+T18	morphologie 3079 3092	Neuroblastome
+T19	differenciation 3093 3108	peu différencié
+T20	morphologie 3145 3167	atteinte ganglionnaire
+T21	topographie 3168 3184	rétropéritonéale
+T22	topographie 3188 3197	hépatique
+T23	morphologie 3243 3248	masse
+T24	topographie 3252 3256	foie
+T25	stade 3259 3267	Stade 4S
+T26	morphologie 3391 3396	masse
+T27	topographie 3411 3415	cava
+T28	morphologie 3606 3612	tumeur
+T29	topographie 3613 3629	rétropéritonéale
+T30	morphologie 3843 3856	neuroblastome
+T31	differenciation 3857 3872	peu différencié
+T32	morphologie 3903 3913	Métastases
+T33	topographie 3921 3943	ganglions lymphatiques
+T34	topographie 3944 3960	rétropéritonéaux
+T35	morphologie 3961 3973	péritumoraux
+T36	morphologie 3992 4001	métastase
+T37	topographie 4005 4025	parenchyme hépatique
+T38	morphologie 4139 4145	tumeur
+T39	morphologie 5146 5163	images nodulaires
+T40	morphologie 5212 5227	image nodulaire
+T41	topographie 5261 5265	rein
+T42	morphologie 5292 5304	adénopathies
+T43	topographie 5313 5327	hile hépatique
+T44	topographie 5339 5370	creux diaphragmatique antérieur
+T45	morphologie 5398 5415	récidive tumorale

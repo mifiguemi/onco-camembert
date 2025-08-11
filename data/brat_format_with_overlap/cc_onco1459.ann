@@ -1,0 +1,22 @@
+T1	morphologie 166 171	masse
+T2	topographie 172 178	rénale
+T3	morphologie 276 287	adénopathie
+T4	topographie 288 302	interaortocave
+T5	morphologie 337 346;353 371	carcinome à cellules claires
+T6	topographie 347 352	rénal
+T8	differenciation 373 391	de grade Fuhrman 4
+T9	stade 398 412	stade Robson 3
+T10	morphologie 419 428	métastase
+T11	topographie 429 442	ganglionnaire
+T12	topographie 443 457	interaortocave
+T13	stade 462 467	stade
+T14	stade 468 475	T2bN1M0
+T15	morphologie 556 572	lymphadénopathie
+T16	topographie 573 589	sus-claviculaire
+T17	morphologie 634 650	lymphadénopathie
+T18	topographie 651 663	médiastinale
+T19	morphologie 671 687	lymphadénopathie
+T20	topographie 688 697	rétrocave
+T21	morphologie 890 924	rechute des ganglions lymphatiques
+T22	topographie 4229 4243	moelle osseuse
+T23	morphologie 4329 4354	infiltration métastatique

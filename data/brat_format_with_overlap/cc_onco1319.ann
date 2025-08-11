@@ -1,0 +1,24 @@
+T1	expression_CIM 173 212	astrocytome frontal gauche de bas grade
+T3	morphologie 765 780	tumeurs gliales
+T4	expression_CIM 984 1007	astrocytome de grade IV
+T5	expression_CIM 1166 1206	Astrocytome frontal gauche de haut grade
+T6	expression_CIM 1290 1334	astrocytome qui a évolué vers un grade élevé
+T7	morphologie 1820 1826	tumeur
+T8	morphologie 2245 2251	tumeur
+T10	morphologie 173 184	astrocytome
+T11	topographie 185 192	frontal
+T12	differenciation 200 212	de bas grade
+T13	morphologie 324 330	lésion
+T14	expression_CIM 324 330	lésion
+T15	morphologie 507 519	adénopathies
+T16	expression_CIM 507 519	adénopathies
+T2	expression_CIM 765 780	tumeurs gliales
+T17	morphologie 984 995	astrocytome
+T18	differenciation 996 1007	de grade IV
+T19	morphologie 1166 1177	Astrocytome
+T20	topographie 1178 1185	frontal
+T21	differenciation 1193 1206	de haut grade
+T22	morphologie 1290 1301	astrocytome
+T23	differenciation 1323 1334	grade élevé
+T24	expression_CIM 1820 1826	tumeur
+T25	expression_CIM 2245 2251	tumeur

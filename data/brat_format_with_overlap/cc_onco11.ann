@@ -1,0 +1,105 @@
+T5	morphologie 2649 2657	malignes
+T6	morphologie 3064 3073	métastase
+T8	morphologie 3443 3458	Angiome veineux
+T9	morphologie 3580 3590	métastases
+T10	morphologie 3658 3683	Prolifération néoplasique
+T12	morphologie 4058 4067	néoplasme
+T13	morphologie 4172 4184	mésothéliome
+T14	morphologie 4198 4205	sarcome
+T15	morphologie 4222 4244	carcinome sarcomatoïde
+T17	morphologie 4400 4419	stroma sarcomatoïde
+T18	morphologie 4424 4438	carcinosarcome
+T19	morphologie 4445 4485	carcinome épidermoïde à cellules claires
+T20	morphologie 4643 4660	tumeur hétérogène
+T21	morphologie 4671 4689	cellules tumorales
+T24	morphologie 5211 5225	carcinosarcome
+T25	morphologie 5301 5315	Carcinosarcome
+T26	morphologie 6070 6091	tumeur indifférenciée
+T27	morphologie 6837 6843	tumeur
+T28	morphologie 7661 7667	tumeur
+T31	morphologie 8467 8476	métastase
+T1	morphologie 1736 1741	Masse
+T32	topographie 1745 1759	lobe inférieur
+T33	expression_CIM 1736 1759	Masse du lobe inférieur
+T34	morphologie 1903 1910	nodules
+T35	topographie 1930 1944	lobe inférieur
+T36	expression_CIM 1903 1944	nodules satellites dans le lobe inférieur
+T37	morphologie 2024 2029	masse
+T38	expression_CIM 2024 2029	masse
+T39	morphologie 2356 2368	Adénopathies
+T40	topographie 2391 2405	sous-aortiques
+T41	topographie 2409 2423	para-aortiques
+T42	expression_CIM 2356 2423	Adénopathies kystiques-nécrotiques sous-aortiques et para-aortiques
+T2	morphologie 2458 2470	adénopathies
+T3	topographie 2504 2519	rétropéritonéal
+T43	topographie 2531 2556	ligament gastro-hépatique
+T44	expression_CIM 2458 2556	adénopathies suspectes de malignité au niveau rétropéritonéal et dans le ligament gastro-hépatique
+T4	morphologie 2188 2193	Masse
+T45	topographie 2202 2243	segment apicopostérieur du lobe supérieur
+T46	expression_CIM 2188 2243	Masse dans le segment apicopostérieur du lobe supérieur
+T47	morphologie 2305 2311	Nodule
+T48	topographie 2330 2339	même lobe
+T49	expression_CIM 2305 2339	Nodule satellite dans le même lobe
+T7	expression_CIM 3064 3073	métastase
+T50	topographie 3459 3466	frontal
+T51	expression_CIM 3443 3466	Angiome veineux frontal
+T52	expression_CIM 3580 3590	métastases
+T53	morphologie 3142 3147	Masse
+T54	topographie 3194 3204	oreillette
+T55	expression_CIM 3142 3204	Masse hétérogène mesurant 44x23cm dans le toit de l'oreillette
+T56	morphologie 3626 3632	lésion
+T57	topographie 3636 3650	lobe inférieur
+T58	expression_CIM 3626 3650	lésion du lobe inférieur
+T59	expression_CIM 3658 3683	Prolifération néoplasique
+T11	expression_CIM 4058 4067	néoplasme
+T60	expression_CIM 4172 4184	mésothéliome
+T61	expression_CIM 4198 4205	sarcome
+T62	expression_CIM 4222 4244	carcinome sarcomatoïde
+T63	morphologie 4258 4264	lésion
+T64	topographie 4268 4282	lobe supérieur
+T65	expression_CIM 4258 4282	lésion du lobe supérieur
+T16	expression_CIM 4400 4419	stroma sarcomatoïde
+T66	expression_CIM 4424 4438	carcinosarcome
+T67	expression_CIM 4445 4485	carcinome épidermoïde à cellules claires
+T68	expression_CIM 4643 4660	tumeur hétérogène
+T69	expression_CIM 4671 4689	cellules tumorales
+T70	morphologie 4732 4737	masse
+T71	topographie 4738 4746	pleurale
+T72	expression_CIM 4732 4746	masse pleurale
+T73	expression_CIM 5211 5225	carcinosarcome
+T22	morphologie 4810 4822	Infiltration
+T23	topographie 4823 4831	pleurale
+T74	expression_CIM 4810 4831	Infiltration pleurale
+T75	topographie 5316 5326	pulmonaire
+T76	stade 5330 5338	stade IV
+T77	topographie 5340 5346	poumon
+T78	topographie 5348 5370	ganglions lymphatiques
+T79	topographie 5374 5385	oreillettes
+T80	expression_CIM 5301 5326	Carcinosarcome pulmonaire
+T82	expression_CIM 5330 5386	stade IV (poumon, ganglions lymphatiques et oreillettes)
+T83	morphologie 5413 5418	Masse
+T84	topographie 5422 5436	lobe supérieur
+T85	expression_CIM 5413 5436	Masse du lobe supérieur
+T86	morphologie 5469 5474	Masse
+T87	topographie 5478 5492	lobe inférieur
+T88	expression_CIM 5469 5492	Masse du lobe inférieur
+T89	expression_CIM 6070 6091	tumeur indifférenciée
+T90	morphologie 6272 6278	lésion
+T91	topographie 6282 6296	lobe supérieur
+T92	expression_CIM 6272 6296	lésion du lobe supérieur
+T93	expression_CIM 6837 6843	tumeur
+T94	morphologie 6752 6774	foyer hypermétabolique
+T95	topographie 6783 6798	sinus piriforme
+T96	expression_CIM 6752 6798	foyer hypermétabolique dans le sinus piriforme
+T97	morphologie 7588 7593	masse
+T98	topographie 7594 7604	pulmonaire
+T99	expression_CIM 7588 7604	masse pulmonaire
+T100	expression_CIM 7661 7667	tumeur
+T29	morphologie 8385 8410	progression de la maladie
+T30	topographie 8419 8442	système nerveux central
+T101	expression_CIM 8385 8442	progression de la maladie dans le système nerveux central
+T102	topographie 8477 8486	pariétale
+T103	expression_CIM 8467 8486	métastase pariétale
+T104	morphologie 7937 7943	masses
+T105	topographie 7944 7955	pulmonaires
+T106	expression_CIM 7937 7955	masses pulmonaires

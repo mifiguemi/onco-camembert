@@ -1,0 +1,34 @@
+T1	morphologie 158 163	masse
+T2	topographie 164 173	cérébrale
+T3	morphologie 192 210	hémangiopéricytome
+T4	topographie 211 218	méningé
+T5	morphologie 800 806	nodule
+T6	topographie 823 837	lobe inférieur
+T7	morphologie 934 945	adénopathie
+T8	topographie 946 958	médiastinale
+T9	morphologie 979 1000	lésions métastatiques
+T10	topographie 1049 1054	côtes
+T11	topographie 1072 1086	lobe hépatique
+T12	morphologie 1099 1104	masse
+T13	morphologie 1126 1133	lésions
+T14	topographie 1163 1177	lobe hépatique
+T15	morphologie 1205 1215	métastases
+T16	morphologie 1480 1497	récidive tumorale
+T17	morphologie 1512 1522	métastases
+T18	topographie 1523 1533	cérébrales
+T19	morphologie 1588 1594	nodule
+T20	topographie 1598 1612	lobe inférieur
+T21	morphologie 1621 1627	tumeur
+T22	morphologie 1860 1869	métastase
+T23	morphologie 1875 1893	hémangiopéricytome
+T24	morphologie 1973 1981	récidive
+T25	topographie 1982 1992	pulmonaire
+T26	topographie 1994 2003	hépatique
+T27	topographie 2007 2014	osseuse
+T28	morphologie 2028 2046	hémangiopéricytome
+T29	morphologie 2338 2349	progression
+T30	topographie 2350 2359	hépatique
+T31	morphologie 2521 2532	progression
+T32	topographie 2543 2552	hépatique
+T33	morphologie 1458 1465	lésions
+T34	morphologie 1232 1238	lésion

@@ -1,0 +1,54 @@
+T1	morphologie 194 203	carcinome
+T2	topographie 204 214	pulmonaire
+T3	morphologie 295 305	induration
+T4	topographie 306 318	testiculaire
+T5	morphologie 601 612	adénopathie
+T6	topographie 613 629	sus-claviculaire
+T7	morphologie 803 814	adénopathie
+T8	topographie 815 831	sus-claviculaire
+T9	morphologie 881 892	adénopathie
+T10	topographie 943 952	testicule
+T11	morphologie 974 979	masse
+T12	morphologie 1597 1609	adénopathies
+T13	topographie 1618 1632	canal inguinal
+T14	morphologie 1742 1767	conglomérat adénopathique
+T15	topographie 1768 1783	rétropéritonéal
+T16	morphologie 1915 1941	adénopathies métastatiques
+T17	topographie 1979 1986	iliaque
+T18	morphologie 2061 2072	adénopathie
+T19	topographie 2073 2089	sus-claviculaire
+T20	morphologie 2149 2158	métastase
+T21	morphologie 2165 2199	tumeur germinale non séminomateuse
+T22	morphologie 2223 2238	choriocarcinome
+T23	morphologie 2258 2280	carcinome embryonnaire
+T24	morphologie 2440 2451	adénopathie
+T25	topographie 2452 2468	sus-claviculaire
+T26	morphologie 2508 2555	tumeur testiculaire germinale non séminomateuse
+T27	morphologie 2580 2595	choriocarcinome
+T28	morphologie 2615 2637	carcinome embryonnaire
+T29	stade 2642 2652	stade IIIB
+T30	morphologie 2700 2716	tumeur germinale
+T31	morphologie 2947 2975	tumeur testiculaire primaire
+T32	morphologie 2983 3001	maladie à distance
+T33	morphologie 3003 3027	adénopathie métastatique
+T34	topographie 3028 3044	sus-claviculaire
+T35	morphologie 3157 3191	tumeur germinale non séminomateuse
+T36	morphologie 3834 3840	tumeur
+T37	topographie 3841 3853	testiculaire
+T38	morphologie 4038 4054	maladie tumorale
+T39	morphologie 4218 4235	récidive tumorale
+T40	morphologie 4377 4383	nodule
+T41	topographie 4394 4400	poumon
+T42	morphologie 4595 4601	lésion
+T43	topographie 4602 4615	paratrachéale
+T44	morphologie 4673 4682	métastase
+T45	morphologie 4689 4723	tumeur germinale non séminomateuse
+T46	morphologie 4821 4841	adénopathie tumorale
+T47	topographie 4842 4855	paratrachéale
+T48	morphologie 5025 5059	tumeur germinale non séminomateuse
+T49	topographie 5610 5623	paratrachéale
+T50	morphologie 5653 5659	nodule
+T51	topographie 5660 5670	pulmonaire
+T52	morphologie 6222 6227	masse
+T53	topographie 6228 6241	paratrachéale
+T54	stade 2717 2729	métastatique

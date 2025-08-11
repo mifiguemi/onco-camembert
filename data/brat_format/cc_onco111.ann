@@ -1,0 +1,33 @@
+T1	morphologie 1415 1422	nodules
+T2	morphologie 1497 1507	métastases
+T3	morphologie 1654 1663	métastase
+T4	morphologie 1727 1757	Carcinome à cellules de Merkel
+T5	morphologie 1881 1908	tumeur à cellules de Merkel
+T7	morphologie 2431 2458	tumeur à cellules de Merkel
+T8	morphologie 3159 3169	métastases
+T9	morphologie 562 569	nodules
+T10	topographie 586 596	lobe moyen
+T12	topographie 640 654	lobe inférieur
+T13	morphologie 800 811	Adénopathie
+T14	topographie 812 828	rétropéritonéale
+T16	morphologie 729 738	ganglions
+T17	topographie 739 749	axillaires
+T18	topographie 751 759	hilaires
+T19	topographie 763 775	médiastinaux
+T21	morphologie 943 954	Adénopathie
+T22	topographie 963 985	chaîne iliaque externe
+T24	morphologie 1020 1032	adénopathies
+T25	topographie 1033 1043	inguinales
+T27	topographie 1423 1434	pulmonaires
+T31	morphologie 1665 1677	Adénopathies
+T32	topographie 1678 1695	rétropéritonéales
+T35	stade 1761 1769	stade IV
+T6	morphologie 1973 1985	adénopathies
+T37	topographie 1986 2003	rétropéritonéales
+T38	topographie 2015 2037	chaîne iliaque externe
+T40	stade 2098 2116	stade métastatique
+T42	morphologie 2272 2302	lésions érythémateuses durcies
+T44	morphologie 2931 2938	lésions
+T47	morphologie 3136 3143	lésions
+T49	topographie 3183 3189	poumon
+T50	topographie 3219 3223	foie

@@ -1,0 +1,46 @@
+T1	morphologie 212 218	tumeur
+T2	topographie 219 235	rétropéritonéale
+T3	morphologie 434 441	sarcome
+T4	topographie 442 457	rétropéritonéal
+T5	differenciation 458 470	de bas grade
+T6	morphologie 703 708	masse
+T7	topographie 709 725	rétropéritonéale
+T8	morphologie 1418 1423	masse
+T9	morphologie 1696 1702	tumeur
+T10	morphologie 2128 2135	sarcome
+T11	topographie 2136 2151	rétropéritonéal
+T12	differenciation 2152 2165	indifférencié
+T13	morphologie 2268 2275	Sarcome
+T14	differenciation 2287 2300	indifférencié
+T15	morphologie 2337 2401	tumeur des cellules rondes desmoplastiques à phénotype rhabdoïde
+T16	morphologie 2458 2465	sarcome
+T17	topographie 2466 2481	rétropéritonéal
+T18	differenciation 2482 2495	indifférencié
+T19	morphologie 2950 2986	fibrosarcome épithélioïde sclérosant
+T20	morphologie 3129 3144	sarcome d'Ewing
+T21	morphologie 3151 3198	tumeur desmoplastique à petites cellules rondes
+T22	morphologie 3356 3363	sarcome
+T23	differenciation 3364 3376	de bas grade
+T24	morphologie 3712 3722	métastases
+T25	topographie 3723 3733	hépatiques
+T26	topographie 3735 3747	péritonéales
+T27	topographie 3751 3762	musculaires
+T28	morphologie 4191 4200	métastase
+T29	topographie 4201 4211	musculaire
+T30	morphologie 4433 4457	progression radiologique
+T31	topographie 4466 4470	foie
+T32	topographie 4477 4486	péritoine
+T33	morphologie 4587 4605	sarcome pléomorphe
+T34	differenciation 4606 4619	indifférencié
+T35	morphologie 4728 4790	tumeur desmoplastique à cellules rondes de phénotype rhabdoïde
+T36	morphologie 4867 4906	tumeur desmoplastique à cellules rondes
+T37	morphologie 5377 5392	sarcome d'Ewing
+T38	morphologie 6048 6054	tumeur
+T39	morphologie 6075 6085	métastases
+T40	topographie 6086 6096	hépatiques
+T41	morphologie 6102 6110	implants
+T42	topographie 6111 6124	mésentériques
+T43	topographie 6126 6142	rétropéritonéaux
+T44	topographie 6152 6168	paroi abdominale
+T45	morphologie 6514 6529	sarcome d'Ewing
+T46	topographie 1508 1537	région de la glande surrénale

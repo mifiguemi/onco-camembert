@@ -1,0 +1,43 @@
+T1	morphologie 221 227	cancer
+T2	topographie 231 235	sein
+T3	morphologie 267 273	nodule
+T4	topographie 283 287	sein
+T5	topographie 508 512	sein
+T6	morphologie 531 537	nodule
+T7	topographie 565 591	quadrant inférieur externe
+T8	morphologie 1039 1045	nodule
+T9	topographie 1061 1092	quadrant inféro-externe du sein
+T10	morphologie 1102 1113	adénopathie
+T11	topographie 1114 1123	axillaire
+T12	morphologie 1187 1193	lésion
+T13	topographie 1197 1201	sein
+T14	morphologie 1210 1253	carcinome infiltrant de type non spécifique
+T15	morphologie 1429 1435	nodule
+T16	topographie 1454 1488	quadrant inférieur externe du sein
+T17	morphologie 1622 1636	tumeur maligne
+T18	morphologie 1651 1663	adénopathies
+T19	topographie 1664 1674	axillaires
+T20	morphologie 1748 1762	tumeur maligne
+T21	morphologie 1778 1784;1796 1809	dépôts pathologiques
+T22	topographie 1785 1795	hépatiques
+T23	morphologie 1870 1884	tumeur maligne
+T24	morphologie 1998 2005	lésions
+T25	topographie 2006 2016	hépatiques
+T26	morphologie 2116 2136	Carcinome infiltrant
+T27	topographie 2155 2159	sein
+T28	stade 2166 2177	cT2 cNx cM1
+T30	stade 2179 2187	stade IV
+T31	morphologie 2211 2220	atteintes
+T32	topographie 2221 2231	hépatiques
+T33	morphologie 2770 2777	lésions
+T34	topographie 2778 2788	hépatiques
+T35	morphologie 3113 3120	lésions
+T36	topographie 3121 3131	hépatiques
+T37	stade 3859 3864	ypT1a
+T38	stade 3868 3873	ypN2a
+T39	morphologie 3937 3943	tumeur
+T40	morphologie 4404 4423	lésion métastatique
+T41	topographie 4432 4436	foie
+T42	morphologie 4456 4469	dissémination
+T43	topographie 4470 4483	ganglionnaire
+T44	topographie 4487 4494	osseuse

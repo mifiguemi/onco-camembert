@@ -1,0 +1,37 @@
+T1	morphologie 336 344	leucémie
+T2	morphologie 697 704	lésions
+T3	topographie 737 757	parenchyme hépatique
+T4	morphologie 1380 1387	lésions
+T6	morphologie 1435 1438	LOE
+T7	morphologie 1563 1573	métastases
+T8	morphologie 1578 1603	conglomérat adénopathique
+T9	topographie 1604 1619	rétropéritonéal
+T10	morphologie 1735 1742	lésions
+T11	topographie 1743 1756	pancréatiques
+T12	morphologie 1933 1943	métastases
+T13	topographie 1944 1952	osseuses
+T14	topographie 1987 2005	colonne vertébrale
+T15	morphologie 2989 3048	néoplasme épithélial malin à différenciation neuroendocrine
+T16	morphologie 3378 3402	carcinome neuroendocrine
+T17	topographie 3405 3425	origine pancréatique
+T18	morphologie 3444 3454	métastases
+T19	topographie 3455 3465	hépatiques
+T20	topographie 3469 3477	osseuses
+T21	differenciation 3479 3481	G1
+T22	morphologie 4129 4139	métastases
+T23	topographie 4140 4150	hépatiques
+T24	topographie 4194 4205	abdominales
+T25	morphologie 4291 4309	néoplasme primaire
+T26	morphologie 4368 4375	lésions
+T27	topographie 4376 4384	osseuses
+T28	morphologie 5255 5262	lésions
+T29	topographie 5263 5273	hépatiques
+T30	morphologie 6211 6221	métastases
+T31	topographie 6222 6230	osseuses
+T32	morphologie 6386 6407	masse des tissus mous
+T33	morphologie 6413 6423	métastases
+T34	topographie 6424 6432	osseuses
+T35	morphologie 7524 7540	insulinome malin
+T5	topographie 1424 1433	hépatique
+T36	morphologie 4181 4193	adénopathies
+T37	stade 7541 7553	métastatique

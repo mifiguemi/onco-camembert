@@ -1,0 +1,16 @@
+T1	morphologie 304 318	adénocarcinome
+T2	topographie 319 329	pulmonaire
+T3	stade 333 341	stade IV
+T4	morphologie 364 373	métastase
+T5	topographie 374 387	surrénalienne
+T6	morphologie 695 704	métastase
+T7	topographie 705 718	surrénalienne
+T8	morphologie 989 995	lésion
+T9	morphologie 1432 1438	lésion
+T10	topographie 1439 1452	sous-pleurale
+T11	topographie 1478 1492	lobe inférieur
+T12	topographie 1500 1503	LID
+T13	morphologie 1817 1823	lésion
+T14	topographie 1832 1835	LID
+T15	morphologie 2123 2132	métastase
+T16	morphologie 2136 2164	carcinome à petites cellules

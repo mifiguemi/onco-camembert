@@ -1,0 +1,64 @@
+T1	morphologie 76 85	néoplasie
+T2	topographie 86 94	mammaire
+T3	morphologie 541 547	tumeur
+T4	topographie 551 555	sein
+T5	morphologie 666 672	nodule
+T6	topographie 721 744	rétro-aréolaire du sein
+T7	morphologie 790 796	nodule
+T8	morphologie 823 835	néoformation
+T9	morphologie 913 919	nodule
+T10	morphologie 1036 1042	nodule
+T11	morphologie 1098 1109	Adénopathie
+T12	topographie 1110 1119	axillaire
+T13	morphologie 1180 1186	nodule
+T14	morphologie 1438 1443	Masse
+T15	topographie 1444 1458	rétroaréolaire
+T16	morphologie 1884 1889	masse
+T17	topographie 1916 1920	sein
+T18	morphologie 1972 1997	conglomérat adénopathique
+T19	topographie 2027 2035	aisselle
+T20	morphologie 2418 2438	carcinome malpighien
+T21	stade 2439 2446	cT4bN2a
+T22	topographie 2450 2454	sein
+T23	morphologie 2904 2909	masse
+T25	topographie 2920 2924	sein
+T26	morphologie 3019 3025	nodule
+T27	morphologie 3077 3102	conglomérat adénopathique
+T28	topographie 3103 3112	axillaire
+T29	morphologie 3212 3226	masse tumorale
+T30	topographie 3288 3298	axillaires
+T31	morphologie 3365 3371	tumeur
+T32	morphologie 3488 3494	tumeur
+T33	morphologie 3756 3778	carcinome métaplasique
+T34	morphologie 3859 3868	néoplasie
+T35	morphologie 4064 4070	tumeur
+T36	morphologie 4146 4158	adénopathies
+T37	morphologie 4164 4179	macrométastases
+T38	morphologie 4339 4354	macrométastases
+T39	morphologie 4517 4532	macrométastases
+T40	morphologie 4552 4574	Carcinome métaplasique
+T41	stade 4593 4602	ypT1cN2M0
+T42	morphologie 4609 4621	adénopathies
+T43	morphologie 4954 4960	nodule
+T44	topographie 4969 4972	LSD
+T45	morphologie 5051 5061	métastases
+T46	topographie 5062 5073	pulmonaires
+T47	morphologie 5090 5098	atteinte
+T48	topographie 5099 5108	axillaire
+T49	morphologie 5122 5130	atteinte
+T50	topographie 5131 5138	osseuse
+T51	morphologie 5254 5260	tumeur
+T52	morphologie 5750 5760	métastases
+T53	topographie 5761 5772	pulmonaires
+T54	morphologie 6231 6236	masse
+T55	morphologie 6407 6416	métastase
+T56	topographie 6417 6431	endobronchique
+T57	morphologie 6486 6495	métastase
+T58	morphologie 6499 6508;6518 6530	carcinome métaplasique
+T59	topographie 6509 6517	mammaire
+T61	morphologie 6993 6999	lésion
+T62	topographie 7000 7014	endobronchique
+T24	morphologie 3275 3287	adénopathies
+T63	morphologie 3565 3571	lésion
+T64	differenciation 3938 3940	G3
+T65	topographie 6198 6201	LID

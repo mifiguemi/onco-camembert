@@ -1,0 +1,28 @@
+T1	morphologie 980 999	tumeur métastatique
+T2	topographie 1005 1019	intestin moyen
+T3	morphologie 1072 1078	tumeur
+T4	differenciation 1079 1091	de bas grade
+T5	differenciation 1092 1094	G1
+T6	morphologie 1243 1253	métastases
+T7	morphologie 1301 1310	métastase
+T8	topographie 1311 1320	hépatique
+T9	morphologie 1493 1504	progression
+T10	topographie 1508 1512	foie
+T11	morphologie 1710 1716	lésion
+T12	topographie 1717 1726	hépatique
+T13	morphologie 1793 1804	adénopathie
+T14	topographie 1813 1827	hile hépatique
+T15	morphologie 2128 2135	lésions
+T16	morphologie 2812 2819	lésions
+T17	topographie 2820 2830	hépatiques
+T18	morphologie 2956 2963	maladie
+T19	topographie 2964 2973	hépatique
+T20	topographie 3073 3082	hépatique
+T21	topographie 3101 3112	péritonéale
+T22	morphologie 5113 5118	masse
+T23	topographie 5797 5817	pédoncules cérébraux
+T24	morphologie 5980 5987	maladie
+T25	topographie 5988 5997	hépatique
+T26	morphologie 6036 6057	tumeur neuroendocrine
+T27	morphologie 6058 6070	métastatique
+T28	topographie 6076 6090	intestin grêle

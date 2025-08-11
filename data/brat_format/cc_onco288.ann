@@ -1,0 +1,30 @@
+T1	morphologie 467 482	masse polypoïde
+T2	topographie 491 497	narine
+T3	morphologie 539 560	processus néoplasique
+T4	morphologie 605 613	mélanome
+T5	topographie 620 628	muqueuse
+T6	morphologie 816 822	lésion
+T7	topographie 913 919	choane
+T8	morphologie 1384 1401	récidive tumorale
+T9	morphologie 1710 1715	masse
+T10	morphologie 1823 1831	invasion
+T11	topographie 1832 1846	intracrânienne
+T12	topographie 1884 1891	méninge
+T13	morphologie 1925 1961	conglomérat nécrotique adénopathique
+T14	topographie 1968 1983	latérocervicale
+T15	morphologie 2258 2264	lésion
+T16	morphologie 4642 4645	LOE
+T17	topographie 4646 4656	hépatiques
+T18	topographie 4685 4699	lobe hépatique
+T19	morphologie 4901 4909	mélanome
+T20	topographie 4916 4931	muqueuse nasale
+T22	topographie 4982 4986	foie
+T23	morphologie 7329 7345	mélanome muqueux
+T24	morphologie 7629 7637	mélanome
+T25	topographie 7644 7659	muqueuse nasale
+T26	morphologie 7669 7693	progression métastatique
+T27	topographie 7705 7709	foie
+T28	morphologie 848 856	atteinte
+T29	topographie 880 890	maxillaire
+T30	morphologie 898 907	extension
+T21	morphologie 4941 4965	progression métastatique

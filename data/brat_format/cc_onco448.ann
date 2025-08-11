@@ -1,0 +1,32 @@
+T1	morphologie 215 225	méningiome
+T2	topographie 229 244	sinus caverneux
+T3	morphologie 310 327	récidive tumorale
+T4	morphologie 452 476	méningiome transitionnel
+T5	differenciation 496 515	de grade I de l'OMS
+T6	morphologie 1605 1626	carcinome non affilié
+T7	morphologie 2258 2266	atteinte
+T8	topographie 2267 2274	osseuse
+T9	morphologie 2325 2331	lésion
+T10	topographie 2332 2341	pelvienne
+T11	topographie 2390 2397	osseuse
+T12	morphologie 2406 2412	tumeur
+T13	morphologie 2432 2442	méningiome
+T14	morphologie 2508 2518	méningiome
+T15	morphologie 3165 3189	méningiome transitionnel
+T16	topographie 3193 3208	sinus caverneux
+T17	differenciation 3209 3219	de grade I
+T18	topographie 3225 3228	OMS
+T19	morphologie 3247 3257	métastases
+T20	topographie 3258 3266	osseuses
+T21	morphologie 3929 3954	progression de la maladie
+T23	morphologie 4026 4033	lésions
+T24	topographie 4034 4042	osseuses
+T25	topographie 4062 4071	vertébral
+T26	morphologie 4081 4087	lésion
+T27	topographie 4110 4114	foie
+T28	topographie 480 495	sinus caverneux
+T29	morphologie 2377 2389	infiltration
+T30	morphologie 2484 2492	invasion
+T31	topographie 2493 2500	osseuse
+T22	topographie 3965 3977	intracrânien
+T32	topographie 3981 3993	extracrânien

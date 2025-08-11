@@ -1,0 +1,21 @@
+T1	morphologie 669 698	adénocarcinome mucineux mixte
+T2	topographie 712 717	côlon
+T3	stade 761 766	stade
+T4	stade 767 773	T3N0M0
+T5	morphologie 842 850	récidive
+T6	topographie 851 860	hépatique
+T7	morphologie 1159 1169	métastases
+T8	morphologie 1361 1368	nodules
+T9	topographie 1369 1380	pulmonaires
+T10	morphologie 1410 1431	atteinte métastatique
+T11	morphologie 1781 1792	progression
+T12	topographie 1793 1803	pulmonaire
+T13	morphologie 1967 1974	nodules
+T14	topographie 1975 1986	pulmonaires
+T15	morphologie 2781 2793	adénopathies
+T16	topographie 2794 2804	inguinales
+T17	morphologie 4830 4837	nodules
+T18	morphologie 4912 4919	lésions
+T19	topographie 4920 4931	pulmonaires
+T20	morphologie 5490 5496	lésion
+T21	topographie 5510 5513	LSI

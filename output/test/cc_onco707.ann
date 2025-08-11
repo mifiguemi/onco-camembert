@@ -1,0 +1,41 @@
+T1	morphologie 334 355	polypes hamartomateux
+T2	morphologie 898 910	endométriome
+T3	morphologie 1385 1391	polype
+T4	topographie 1392 1403	endométrial
+T5	morphologie 2224 2236	endométriome
+T6	morphologie 2860 2866	foyers
+T7	topographie 2867 2883	endométriosiques
+T8	morphologie 3124 3149	adénocarcinome infiltrant
+T9	morphologie 3279 3304	adénocarcinome infiltrant
+T10	differenciation 3305 3321	bien différencié
+T11	topographie 3327 3334	endocol
+T12	morphologie 3354 3367	adénome malin
+T13	morphologie 3530 3539	captation
+T14	morphologie 3599 3611	infiltration
+T15	topographie 3612 3619	osseuse
+T16	morphologie 3620 3632	métastatique
+T17	morphologie 3658 3670	adénopathies
+T18	topographie 3671 3685	para-aortiques
+T19	topographie 3686 3703	rétropéritonéales
+T20	topographie 3715 3740	chaîne iliaque commune et
+T21	morphologie 3824 3829	masse
+T22	topographie 3830 3839	cervicale
+T23	stade 3851 3861	Stade T1b2
+T24	stade 3865 3867	M1
+T25	morphologie 4109 4115	lésion
+T26	topographie 4116 4123	osseuse
+T27	morphologie 4351 4357	tumeur
+T28	topographie 4371 4374	col
+T29	topographie 4381 4393	corps utérin
+T30	morphologie 4507 4521	lésion maligne
+T31	differenciation 4522 4535	de haut grade
+T32	morphologie 4597 4636	infiltration des ganglions lymphatiques
+T33	topographie 4637 4654	abdomino-pelviens
+T34	morphologie 4692 4704	adénopathies
+T35	topographie 4705 4722	rétropéritonéales
+T36	topographie 4745 4761	chaînes iliaques
+T37	morphologie 4842 4854	infiltration
+T38	topographie 4855 4862	osseuse
+T39	morphologie 4863 4875	métastatique
+T40	morphologie 4910 4915	foyer
+T41	topographie 4939 4948	acétabule

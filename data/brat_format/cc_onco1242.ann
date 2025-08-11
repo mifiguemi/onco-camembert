@@ -1,0 +1,38 @@
+T1	morphologie 315 329	mélanome malin
+T6	morphologie 1511 1539	néoplasie à grandes cellules
+T8	morphologie 1823 1833	métastases
+T9	morphologie 2437 2448	progression
+T10	morphologie 2778 2788	métastases
+T11	morphologie 2915 2926	progression
+T14	morphologie 113 119	lésion
+T15	topographie 167 173	cuisse
+T18	morphologie 765 771	tumeur
+T19	topographie 807 823	sus-claviculaire
+T2	morphologie 965 979	densité accrue
+T21	topographie 988 1012	région supraclaviculaire
+T23	morphologie 1033 1039	nodule
+T24	topographie 1048 1063	base pulmonaire
+T26	morphologie 1164 1169	masse
+T27	topographie 1185 1202	supraclaviculaire
+T28	morphologie 1328 1334	nodule
+T29	topographie 1351 1354	LII
+T31	morphologie 1361 1367	nodule
+T32	topographie 1384 1387	LID
+T34	morphologie 1282 1288	nodule
+T35	topographie 1306 1310	sein
+T37	morphologie 1403 1408	masse
+T38	topographie 1409 1425	sus-claviculaire
+T40	morphologie 1837 1851	mélanome malin
+T42	morphologie 1741 1747	lésion
+T43	topographie 1748 1764	sus-claviculaire
+T44	topographie 2449 2459	pulmonaire
+T45	topographie 2463 2471	mammaire
+T47	topographie 2789 2799	cérébrales
+T49	topographie 2941 2949	mammaire
+T50	topographie 2927 2937	pulmonaire
+T52	morphologie 5077 5083	nodule
+T53	topographie 5114 5128	base du poumon
+T55	morphologie 5636 5643	lésions
+T56	topographie 5644 5654	cérébrales
+T57	morphologie 6696 6707	progression
+T58	topographie 6708 6717	cérébrale

@@ -1,0 +1,39 @@
+T1	morphologie 631 639	tératome
+T2	morphologie 1650 1655	masse
+T3	topographie 1685 1701	champ pulmonaire
+T4	morphologie 1843 1848	masse
+T5	topographie 1857 1876	médiastin antérieur
+T6	morphologie 2206 2213	lésions
+T7	topographie 2214 2224	hépatiques
+T8	morphologie 2371 2392	processus néoformatif
+T9	morphologie 2569 2576	lésions
+T10	topographie 2577 2587	hépatiques
+T11	morphologie 2706 2718	Adénopathies
+T12	topographie 2727 2752	ligament gastro-hépatique
+T13	morphologie 2983 3019	tératome avec dégénérescence maligne
+T14	morphologie 3030 3040	métastases
+T15	topographie 3041 3051	hépatiques
+T16	morphologie 3085 3091	lésion
+T17	topographie 3092 3099	osseuse
+T18	morphologie 3114 3124	métastases
+T19	morphologie 3324 3338	tératome malin
+T20	topographie 3339 3350	médiastinal
+T21	stade 3354 3362	stade IV
+T22	morphologie 3364 3374	métastases
+T23	topographie 3375 3385	hépatiques
+T24	morphologie 4214 4219	masse
+T25	topographie 4220 4232	médiastinale
+T26	morphologie 4404 4409	masse
+T27	topographie 4410 4422	médiastinale
+T28	morphologie 4464 4471	lésions
+T29	topographie 4472 4482	hépatiques
+T30	morphologie 4528 4533	masse
+T31	topographie 4534 4546	médiastinale
+T32	morphologie 4720 4727	lésions
+T33	topographie 4728 4738	hépatiques
+T34	morphologie 4835 4840	masse
+T35	topographie 4841 4853	médiastinale
+T36	morphologie 5049 5054	masse
+T37	topographie 5055 5067	médiastinale
+T38	morphologie 5266 5274	tératome
+T39	morphologie 5236 5242	lésion

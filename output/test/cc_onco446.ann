@@ -1,0 +1,38 @@
+T1	morphologie 721 729	mélanome
+T2	topographie 784 799	région lombaire
+T3	morphologie 908 923	mélanome ulcéré
+T4	stade 1006 1013	pT4N0M0
+T5	stade 1015 1024	stade IIc
+T6	morphologie 1559 1565	tumeur
+T7	morphologie 1625 1632	nodules
+T8	topographie 1633 1644	pulmonaires
+T9	morphologie 1662 1680	nodule sous-cutané
+T10	morphologie 1902 1912	métastases
+T11	topographie 1913 1924	pulmonaires
+T12	topographie 1926 1936	hépatiques
+T13	topographie 1940 1950	spléniques
+T14	morphologie 1981 1989	implants
+T15	topographie 1990 2003	mésentériques
+T16	morphologie 2009 2019	métastases
+T17	topographie 2028 2037	9ème côte
+T18	morphologie 2051 2074	nodule hypermétabolique
+T19	topographie 2083 2096	grand fessier
+T20	morphologie 2115 2121	lésion
+T21	topographie 2122 2130	lombaire
+T22	morphologie 2203 2212	métastase
+T23	morphologie 2216 2224	mélanome
+T24	morphologie 2395 2405	métastases
+T25	topographie 2419 2442	système nerveux central
+T26	morphologie 2461 2469	mélanome
+T27	stade 2473 2481	stade IV
+T28	morphologie 3166 3176	métastases
+T29	topographie 3177 3188	pulmonaires
+T30	morphologie 3206 3218	adénopathies
+T31	topographie 3219 3232	médiastinales
+T32	morphologie 3245 3255	métastases
+T33	topographie 3256 3266	hépatiques
+T34	topographie 3270 3280	spléniques
+T35	morphologie 3308 3327	lésion sous-cutanée
+T36	topographie 3328 3336	lombaire
+T37	morphologie 4081 4088	lésions
+T38	topographie 4089 4106	supratentorielles

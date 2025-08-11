@@ -1,0 +1,21 @@
+T1	morphologie 2961 2970	néoplasie
+T2	morphologie 3143 3148	foyer
+T3	topographie 3184 3207	région paramédiastinale
+T4	topographie 3213 3227	ILS pulmonaire
+T5	morphologie 3307 3313	foyers
+T6	topographie 3332 3345	paratrachéaux
+T7	morphologie 3416 3430	tumeur maligne
+T8	morphologie 3599 3610	adénopathie
+T9	topographie 3611 3627	sus-claviculaire
+T10	morphologie 3642 3654	adénopathies
+T11	topographie 3667 3669	2R
+T12	morphologie 3770 3779	néoplasie
+T13	morphologie 3889 3900	adénopathie
+T14	morphologie 3974 3983	métastase
+T15	morphologie 3987 3996	carcinome
+T16	morphologie 4463 4495	carcinome non à petites cellules
+T17	topographie 4498 4516	origine pulmonaire
+T18	stade 4532 4538	TxN3M0
+T19	stade 4540 4550	stade IIIB
+T20	morphologie 6086 6095	néoplasme
+T21	topographie 6096 6106	pulmonaire

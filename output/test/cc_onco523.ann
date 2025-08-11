@@ -1,0 +1,26 @@
+T1	morphologie 120 126	cancer
+T2	morphologie 160 169	carcinome
+T3	topographie 170 180	thyroïdien
+T4	morphologie 189 197	mélanome
+T5	morphologie 244 262	mélanome nodulaire
+T6	stade 266 271	stade
+T7	stade 272 281	pT4bpN1M0
+T8	stade 283 292	TNM 7e éd
+T9	stade 300 310	stade III)
+T10	morphologie 367 373	lésion
+T11	morphologie 590 596	nodule
+T12	topographie 597 607	pulmonaire
+T13	morphologie 679 689	métastases
+T14	morphologie 693 701	mélanome
+T15	morphologie 766 772	lésion
+T16	topographie 773 783	pulmonaire
+T17	morphologie 817 823	lésion
+T18	topographie 824 833	splénique
+T19	morphologie 872 893	atteinte métastatique
+T20	morphologie 1180 1186	lésion
+T21	topographie 1223 1227	rate
+T22	morphologie 2290 2296	images
+T23	morphologie 3400 3421	mélanome métastatique
+T24	morphologie 3464 3472	atteinte
+T25	topographie 3473 3483	pulmonaire
+T26	topographie 3487 3496	splénique

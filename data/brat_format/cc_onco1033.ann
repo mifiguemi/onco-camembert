@@ -1,0 +1,16 @@
+T1	morphologie 78 86	leucémie
+T2	morphologie 115 135	carcinome papillaire
+T3	morphologie 421 459	carcinome épidermoïde non kératinisant
+T4	morphologie 1222 1241	lésion métastatique
+T5	morphologie 1991 2010	lésion métastatique
+T6	morphologie 4017 4023	tumeur
+T7	morphologie 4264 4288	infiltration néoplasique
+T8	morphologie 4888 4909	infiltration tumorale
+T9	morphologie 4951 4960	Carcinome
+T10	topographie 142 150	thyroïde
+T11	topographie 1242 1249	osseuse
+T12	topographie 2016 2023	ischion
+T13	topographie 4918 4934	fond de l'utérus
+T14	topographie 4964 4979	col de l'utérus
+T15	stade 4983 4995	stade IIIC-1
+T20	morphologie 1394 1400	lésion

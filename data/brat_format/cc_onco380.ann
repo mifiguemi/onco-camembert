@@ -1,0 +1,68 @@
+T1	morphologie 376 390	adénocarcinome
+T2	topographie 394 409	colon ascendant
+T3	stade 450 455	pT3N0
+T4	morphologie 1007 1012	masse
+T5	topographie 1013 1022	cervicale
+T6	morphologie 1442 1447	masse
+T7	topographie 1448 1462	supraglottique
+T8	morphologie 1490 1499	néoplasie
+T9	morphologie 1501 1526	Conglomérat adénopathique
+T10	topographie 1527 1541	latérocervical
+T11	morphologie 1724 1729	masse
+T12	morphologie 1776 1781	masse
+T13	morphologie 1890 1899	métastase
+T14	morphologie 1930 1944	adénocarcinome
+T15	topographie 1948 1953	côlon
+T16	morphologie 2008 2019	Adénopathie
+T17	topographie 2020 2032	mésentérique
+T18	morphologie 2268 2273	Masse
+T19	topographie 2274 2283	hépatique
+T20	morphologie 2315 2324	métastase
+T21	morphologie 2330 2344	adénocarcinome
+T22	topographie 2348 2353	côlon
+T23	morphologie 2381 2390	carcinome
+T24	topographie 2391 2398	laryngé
+T25	morphologie 2400 2411	Adénopathie
+T26	morphologie 2445 2452	Adénome
+T27	topographie 2453 2464	surrénalien
+T28	morphologie 2510 2521	Adénopathie
+T29	topographie 2522 2531	cervicale
+T30	morphologie 2655 2671	lymphadénopathie
+T31	morphologie 2996 3005	néoplasie
+T32	topographie 3006 3020	supraglottique
+T33	morphologie 3031 3056	conglomérat adénopathique
+T34	morphologie 3162 3179	carcinome in situ
+T35	morphologie 3211 3225;3249 3267	Adénocarcinome de type intestinal
+T36	differenciation 3226 3248	modérément différencié
+T38	morphologie 3288 3297	métastase
+T39	topographie 3312 3319	colique
+T40	morphologie 3589 3598	néoplasme
+T41	topographie 3599 3611	hypopharyngé
+T43	stade 3621 3626	cT3N2
+T44	morphologie 3636 3645	métastase
+T45	topographie 3646 3655	hépatique
+T46	topographie 3679 3686	colique
+T47	morphologie 3761 3770	métastase
+T48	topographie 3771 3780	hépatique
+T49	morphologie 4054 4063	néoplasme
+T50	topographie 4069 4080	hypopharynx
+T51	morphologie 4138 4147	néoplasme
+T52	topographie 4148 4160	hypopharyngé
+T53	morphologie 4242 4251	métastase
+T54	topographie 4252 4261	hépatique
+T55	morphologie 4277 4291	adénocarcinome
+T56	topographie 4295 4300	côlon
+T57	morphologie 5170 5185	tumeur primaire
+T59	morphologie 7400 7409	métastase
+T60	topographie 7410 7419	hépatique
+T61	morphologie 7554 7568	nodule tumoral
+T62	morphologie 7588 7635	adénocarcinome de type intestinal, métastatique
+T65	morphologie 7896 7911	tumeur primaire
+T66	morphologie 7963 7978	tumeur primaire
+T67	morphologie 8394 8411	récidive tumorale
+T69	morphologie 8810 8827	récidive tumorale
+T70	topographie 1687 1691	Foie
+T71	morphologie 2147 2159	adénopathies
+T72	topographie 2427 2443	espace portocave
+T37	morphologie 3303 3311	primitif
+T42	morphologie 3670 3678	primitif

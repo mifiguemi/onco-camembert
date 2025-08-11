@@ -1,0 +1,46 @@
+T1	morphologie 102 105	IDC
+T2	topographie 109 113	sein
+T3	stade 193 201	stade II
+T4	stade 513 519	pT2N1a
+T5	morphologie 737 743	tumeur
+T6	topographie 747 751	sein
+T7	morphologie 771 774	CDI
+T8	morphologie 780 790	métastases
+T9	topographie 813 834	échantillon axillaire
+T10	morphologie 3069 3078	néoplasme
+T11	topographie 3079 3088	gastrique
+T12	morphologie 3098 3116	maladie à distance
+T13	morphologie 3184 3210	adénopathies pathologiques
+T14	topographie 3211 3232	supradiaphragmatiques
+T15	morphologie 3236 3246	métastases
+T16	topographie 3247 3255	osseuses
+T17	topographie 3282 3298	cervico-dorsales
+T18	morphologie 3324 3332	récidive
+T19	morphologie 3483 3489	lésion
+T20	morphologie 3703 3712	métastase
+T21	morphologie 3799 3820	adénocarcinome diffus
+T22	topographie 3824 3839	corps gastrique
+T23	morphologie 3845 3851	tumeur
+T24	topographie 3852 3861	gastrique
+T25	morphologie 3910 3930	maladie métastatique
+T26	morphologie 4367 4392	progression de la maladie
+T27	topographie 4407 4409	os
+T28	topographie 4417 4439	ganglions lymphatiques
+T29	morphologie 4744 4751	lésions
+T30	morphologie 4771 4781	métastases
+T31	topographie 4782 4791	mammaires
+T32	topographie 4803 4813	gastriques
+T33	morphologie 4829 4837	primitif
+T34	topographie 4838 4847	gastrique
+T35	morphologie 4848 4860	métastatique
+T36	morphologie 4936 4942	lésion
+T37	topographie 4943 4952	gastrique
+T38	morphologie 5013 5019	lésion
+T39	topographie 5020 5029	gastrique
+T40	morphologie 5201 5241	carcinome à cellules en anneau de signet
+T41	morphologie 5277 5286	métastase
+T42	morphologie 5292 5311	carcinome lobulaire
+T43	topographie 5315 5319	sein
+T44	morphologie 5585 5591	tumeur
+T45	morphologie 5756 5759	ILC
+T46	morphologie 5760 5772	métastatique

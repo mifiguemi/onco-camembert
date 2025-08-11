@@ -1,0 +1,27 @@
+T1	morphologie 519 525	tumeur
+T2	topographie 532 540	prostate
+T3	morphologie 693 705	adénopathies
+T4	topographie 735 758	chaînes iliaque interne
+T5	topographie 760 773	hypogastrique
+T6	topographie 777 792	iliaque externe
+T7	morphologie 1010 1039	rhabdomyosarcome embryonnaire
+T8	topographie 1046 1054	prostate
+T9	morphologie 1068 1097	Rhabdomyosarcome embryonnaire
+T10	topographie 1104 1112	prostate
+T11	morphologie 1597 1603	nodule
+T12	topographie 1604 1614	pulmonaire
+T13	topographie 1631 1645	lobe inférieur
+T14	morphologie 1659 1670	adénopathie
+T15	topographie 1671 1678	hilaire
+T16	morphologie 1679 1694	hypercapillaire
+T17	morphologie 1957 1964	rechute
+T18	topographie 1965 1975	pulmonaire
+T19	topographie 1979 1991	médiastinale
+T20	morphologie 2017 2022	masse
+T21	topographie 2023 2034	parahilaire
+T22	morphologie 2056 2062	nodule
+T23	topographie 2079 2093	lobe inférieur
+T24	morphologie 2107 2119	adénopathies
+T25	topographie 2120 2133	médiastinales
+T26	morphologie 2702 2713	progression
+T27	topographie 2714 2724	pulmonaire

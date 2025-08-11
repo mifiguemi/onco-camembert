@@ -1,0 +1,11 @@
+T1	morphologie 412 421;428 446	carcinome à cellules claires
+T2	morphologie 546 555	néoplasme
+T3	topographie 422 427	rénal
+T4	morphologie 452 465	dissémination
+T5	topographie 466 475	hépatique
+T6	topographie 477 487	pulmonaire
+T7	topographie 556 561	rénal
+T8	expression_CIM 546 561	néoplasme rénal
+T9	topographie 491 504	adénopathique
+T10	expression_CIM 412 446	carcinome rénal à cellules claires
+T11	expression_CIM 452 504	dissémination hépatique, pulmonaire et adénopathique

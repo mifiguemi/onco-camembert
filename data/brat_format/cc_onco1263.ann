@@ -1,0 +1,16 @@
+T1	morphologie 134 141	adénome
+T2	morphologie 306 315	néoplasme
+T4	stade 509 516	cT3N0M0
+T7	topographie 142 153	prostatique
+T9	topographie 316 322	rectal
+T11	morphologie 452 466	adénocarcinome
+T12	topographie 467 473	rectal
+T13	differenciation 474 484	de grade 1
+T14	differenciation 902 904	G3
+T15	morphologie 887 901	adénocarcinome
+T17	stade 993 1013	stade IIIb de l'AJCC
+T18	morphologie 2027 2041	Adénocarcinome
+T19	topographie 2045 2051	rectum
+T20	differenciation 2052 2054	G3
+T21	stade 2055 2064	ypT3 ypN1
+T22	stade 2076 2096	stade IIIB de l'AJCC

@@ -1,0 +1,25 @@
+T1	morphologie 253 267	adénocarcinome
+T2	topographie 268 278	pulmonaire
+T3	stade 282 290	stade IV
+T4	morphologie 296 301	masse
+T5	topographie 302 311	cavitaire
+T6	topographie 334 348	lobe supérieur
+T7	morphologie 361 368	nodules
+T8	topographie 369 380	pulmonaires
+T9	morphologie 397 409	adénopathies
+T10	topographie 410 423	médiastinales
+T11	morphologie 431 436	masse
+T12	topographie 437 449	péricardique
+T13	morphologie 670 692	carcinome embryonnaire
+T14	morphologie 1689 1694	masse
+T15	topographie 1698 1712	lobe supérieur
+T16	morphologie 1725 1732	nodules
+T17	topographie 1733 1744	pulmonaires
+T18	morphologie 1767 1783	lymphadénopathie
+T19	topographie 1784 1796	médiastinale
+T20	morphologie 1802 1807	masse
+T21	topographie 1808 1820	péricardique
+T22	morphologie 2189 2203	adénocarcinome
+T23	topographie 2204 2214	pulmonaire
+T24	stade 2218 2226	stade IV
+T25	morphologie 2482 2496	adénocarcinome

@@ -1,0 +1,40 @@
+T1	morphologie 292 298	tumeur
+T2	topographie 331 345	biceps fémoral
+T3	morphologie 693 699	lésion
+T4	morphologie 857 863	lésion
+T5	topographie 917 931	biceps fémoral
+T6	morphologie 1287 1294	nodules
+T7	topographie 1295 1306	pulmonaires
+T8	morphologie 1407 1416	métastase
+T9	morphologie 1418 1444	Adénopathies pathologiques
+T10	topographie 1453 1468	hile pulmonaire
+T11	morphologie 1494 1497	LOE
+T12	topographie 1498 1508	hépatiques
+T13	morphologie 1629 1643	tumeur maligne
+T14	morphologie 1699 1726	lésion intracompartimentale
+T15	topographie 1752 1766	biceps fémoral
+T16	morphologie 1867 1877	métastases
+T17	morphologie 1933 1963	néoplasme stromal fibromyxoïde
+T18	morphologie 2228 2276	hémangioendothéliome épithélioïde malin/atypique
+T19	morphologie 2278 2281	HEE
+T20	morphologie 2347 2409	tumeurs malignes ou de malignité intermédiaire des tissus mous
+T21	morphologie 2429 2432	HEE
+T22	morphologie 2461 2523	tumeurs vasculaires de malignité intermédiaire des tissus mous
+T23	morphologie 3106 3112	lésion
+T24	topographie 3138 3157	bifurcation portale
+T25	topographie 3238 3241	LHI
+T26	morphologie 3274 3281	lésions
+T27	morphologie 3538 3559	masse des tissus mous
+T28	morphologie 3803 3810	nodules
+T29	topographie 3829 3840	pulmonaires
+T30	morphologie 3955 4003	hémangioendothéliome épithélioïde malin/atypique
+T31	morphologie 4005 4008	HEE
+T32	morphologie 4168 4175	sarcome
+T33	morphologie 4429 4435	tumeur
+T34	morphologie 5294 5300	lésion
+T35	topographie 5304 5324	compartiment fémoral
+T36	morphologie 5430 5436	lésion
+T37	morphologie 6022 6025	LOE
+T38	topographie 6026 6040	hépatique dans
+T39	morphologie 6385 6392	lésions
+T40	topographie 6393 6403	hépatiques

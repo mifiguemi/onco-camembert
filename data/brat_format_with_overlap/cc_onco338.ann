@@ -1,0 +1,27 @@
+T2	morphologie 546 555	néoplasie
+T4	morphologie 911 921	méningiome
+T5	topographie 922 931	vertébral
+T6	morphologie 3184 3189	masse
+T7	morphologie 4445 4466	carcinome épidermoïde
+T8	differenciation 4467 4482	peu différencié
+T9	topographie 4488 4495	endocol
+T10	morphologie 4512 4521	carcinome
+T11	topographie 4522 4530	cervical
+T12	stade 4531 4548	localement avancé
+T13	morphologie 5069 5076	nodules
+T14	morphologie 5080 5102	condensation nodulaire
+T15	topographie 5110 5120	hémithorax
+T16	morphologie 5538 5546;5556 5569	atteinte mestastatique
+T17	topographie 5547 5555	pleurale
+T20	morphologie 6423 6442	lésion métastatique
+T21	morphologie 7799 7804	Masse
+T22	topographie 7805 7814	cervicale
+T23	morphologie 7882 7904	lésion des tissus mous
+T24	morphologie 8139 8145	tumeur
+T25	topographie 8171 8181	col utérin
+T26	morphologie 8477 8498	carcinome épidermoïde
+T27	topographie 8499 8507	cervical
+T28	stade 8511 8521	stade IV-A
+T29	stade 8523 8531	cT4cN0M0
+T1	topographie 556 573	cervicale utérine
+T3	topographie 3214 3234	espace recto-vésical

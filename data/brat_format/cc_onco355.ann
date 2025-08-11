@@ -1,0 +1,36 @@
+T1	morphologie 788 793	masse
+T2	topographie 794 801	hilaire
+T3	topographie 851 854	LII
+T4	morphologie 1156 1180	carcinome bronchogénique
+T5	morphologie 1212 1217	masse
+T9	morphologie 1379 1393	tumeur maligne
+T10	morphologie 1458 1490	carcinome non à petites cellules
+T11	morphologie 1607 1621	adénocarcinome
+T12	differenciation 1622 1637	peu différencié
+T13	topographie 1641 1647	poumon
+T14	morphologie 1791 1796	masse
+T15	topographie 1812 1815	LII
+T16	morphologie 2019 2038	atteinte secondaire
+T17	morphologie 2305 2319	adénocarcinome
+T18	topographie 2320 2330	pulmonaire
+T19	differenciation 2331 2346	peu différencié
+T20	stade 2347 2358	cT4 cN1 cM0
+T21	stade 2360 2370	stade IIIA
+T22	morphologie 2978 2983	masse
+T23	morphologie 3233 3247	masse tumorale
+T24	morphologie 3562 3597	atteinte des ganglions lymphatiques
+T25	topographie 3598 3610	médiastinaux
+T26	morphologie 3702 3730	carcinome à cellules géantes
+T27	morphologie 4065 4071	tumeur
+T28	stade 4240 4249	ypT2b pN0
+T29	morphologie 4724 4741	adénome tubulaire
+T31	topographie 4778 4783	côlon
+T32	morphologie 4858 4877	métastase polypoïde
+T33	morphologie 4883 4892	carcinome
+T34	topographie 4893 4903	pulmonaire
+T35	morphologie 4973 4979	tumeur
+T36	topographie 4980 4990	pulmonaire
+T37	morphologie 4997 5006	métastase
+T38	morphologie 5212 5226	tumeur maligne
+T39	topographie 828 842	lobe inférieur
+T6	morphologie 1343 1349	lésion

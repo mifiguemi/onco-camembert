@@ -1,0 +1,23 @@
+T1	morphologie 104 134	carcinome canalaire infiltrant
+T2	morphologie 255 284	cacinome canalaire infiltrant
+T5	morphologie 759 765	tumeur
+T6	morphologie 1033 1039	tumeur
+T7	morphologie 1454 1463	carcinome
+T8	morphologie 1619 1649	carcinome canalaire infiltrant
+T9	morphologie 1866 1881	lésion tumorale
+T10	morphologie 2008 2014	tumeur
+T11	morphologie 2286 2292	tumeur
+T12	morphologie 2619 2633	masse tumorale
+T13	morphologie 2958 2978	progression tumorale
+T14	topographie 138 142	sein
+T16	stade 285 291;330 332	pT2pN1 M0
+T3	topographie 772 788	paroi thoracique
+T18	morphologie 997 1008	adénopathie
+T20	topographie 1070 1090	région supramammaire
+T23	morphologie 1269 1286	formation lobulée
+T24	topographie 1326 1330	sein
+T26	morphologie 1483 1492;1502 1510	carcinome primaire
+T28	topographie 1493 1501	mammaire
+T30	topographie 1882 1892	thoracique
+T35	morphologie 2660 2668	atteinte
+T36	topographie 2669 2676	costale

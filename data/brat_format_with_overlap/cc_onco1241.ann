@@ -1,0 +1,165 @@
+T1	morphologie 273 281	mélanome
+T2	morphologie 354 357	LNH
+T3	morphologie 379 387	mélanome
+T4	morphologie 603 611	mélanome
+T5	morphologie 757 766	métastase
+T6	stade 1263 1272	pT4aN1aM0
+T7	morphologie 1619 1628	métastase
+T8	morphologie 2188 2198	métastases
+T9	expression_CIM 2767 2783	lésion hépatique
+T10	morphologie 2854 2868	tumeur maligne
+T11	morphologie 2889 2898	métastase
+T12	morphologie 3102 3111	métastase
+T13	morphologie 3295 3304	métastase
+T14	morphologie 3369 3375;3387 3399	nodule métastatique
+T16	expression_CIM 3450 3469	nodules pulmonaires
+T17	morphologie 3903 3912	métastase
+T18	morphologie 3996 4005	métastase
+T19	morphologie 4180 4205	progression de la maladie
+T20	morphologie 4280 4289	métastase
+T21	morphologie 4482 4491	métastase
+T22	stade 4519 4521	M1
+T23	morphologie 5893 5902	métastase
+T24	morphologie 6106 6112	lésion
+T25	morphologie 6233 6242	métastase
+T26	morphologie 6814 6824	métastases
+T27	expression_CIM 7203 7221	lésions hépatiques
+T28	morphologie 7335 7342	lésions
+T29	morphologie 7457 7468	Progression
+T30	morphologie 7813 7822	métastase
+T31	morphologie 8002 8012	métastases
+T32	expression_CIM 8051 8068	nodule pulmonaire
+T33	morphologie 8261 8270	métastase
+T34	morphologie 8303 8312	métastase
+T35	morphologie 8590 8601	progression
+T36	morphologie 8806 8816	métastases
+T37	morphologie 9181 9189	mélanome
+T38	morphologie 9430 9440	métastases
+T39	morphologie 9576 9586	métastases
+T40	expression_CIM 9622 9639	nodule pulmonaire
+T41	morphologie 10125 10134	métastase
+T42	expression_CIM 10215 10276	progression des lésions dans le cerveau, le poumon et le foie
+T43	morphologie 10385 10395	métastases
+T44	expression_CIM 273 281	mélanome
+T45	expression_CIM 354 357	LNH
+T46	expression_CIM 379 387	mélanome
+T47	morphologie 467 473	lésion
+T48	topographie 494 497	dos
+T49	expression_CIM 467 497	lésion verruqueuse dans le dos
+T50	morphologie 561 567	lésion
+T51	expression_CIM 561 567	lésion
+T52	expression_CIM 603 611	mélanome
+T53	expression_CIM 757 766	métastase
+T54	morphologie 1041 1048	nodules
+T55	expression_CIM 1041 1048	nodules
+T56	morphologie 1530 1536	lésion
+T57	topographie 1555 1569	lobe hépatique
+T58	expression_CIM 1530 1569	lésion nodulaire dans le lobe hépatique
+T59	expression_CIM 1619 1628	métastase
+T60	morphologie 1793 1799	lésion
+T61	topographie 1766 1780	lobe hépatique
+T62	expression_CIM 1766 1799	lobe hépatique gauche, une lésion
+T63	expression_CIM 2188 2198	métastases
+T64	morphologie 2767 2773	lésion
+T65	topographie 2774 2783	hépatique
+T66	expression_CIM 2854 2868	tumeur maligne
+T67	expression_CIM 2889 2898	métastase
+T68	morphologie 2902 2910	mélanome
+T69	expression_CIM 2902 2910	mélanome
+T70	morphologie 3115 3123	mélanome
+T71	expression_CIM 3115 3123	mélanome
+T72	expression_CIM 3102 3111	métastase
+T73	topographie 3305 3314	hépatique
+T74	expression_CIM 3295 3314	métastase hépatique
+T75	topographie 3376 3386	pulmonaire
+T15	expression_CIM 3369 3438	nodule pulmonaire métastatique dans le segment apicopostérieur du LSI
+T76	morphologie 3450 3457	nodules
+T77	topographie 3458 3469	pulmonaires
+T78	topographie 3435 3438	LSI
+T79	topographie 3914 3924	hépatiques
+T80	expression_CIM 3903 3924	métastases hépatiques
+T81	topographie 4006 4024	cérébrale frontale
+T82	expression_CIM 3996 4024	métastase cérébrale frontale
+T83	topographie 4216 4226	pulmonaire
+T84	topographie 4230 4239	hépatique
+T85	expression_CIM 4180 4239	progression de la maladie au niveau pulmonaire et hépatique
+T86	topographie 4290 4299	cérébrale
+T87	expression_CIM 4280 4299	métastase cérébrale
+T88	topographie 4492 4510	cérébrale frontale
+T89	expression_CIM 4482 4510	métastase cérébrale frontale
+T90	expression_CIM 5893 5902	métastase
+T91	morphologie 5803 5809	lésion
+T92	topographie 5828 5842	lobe hépatique
+T93	expression_CIM 5803 5842	lésion nodulaire dans le lobe hépatique
+T94	morphologie 5973 5979	lésion
+T95	topographie 5946 5960	lobe hépatique
+T96	expression_CIM 5946 5979	lobe hépatique gauche, une lésion
+T97	topographie 6113 6122	hépatique
+T98	expression_CIM 6106 6122	lésion hépatique
+T99	topographie 6243 6252	hépatique
+T100	expression_CIM 6233 6252	métastase hépatique
+T101	morphologie 6623 6630	lésions
+T102	topographie 6623 6630	lésions
+T103	morphologie 6513 6519	lésion
+T104	topographie 6523 6534	segment III
+T105	expression_CIM 6513 6535	lésion du segment III,
+T106	topographie 6825 6835	cérébrales
+T107	expression_CIM 6814 6835	métastases cérébrales
+T108	morphologie 6719 6725	lésion
+T109	topographie 6688 6700	lobe frontal
+T110	expression_CIM 6688 6725	lobe frontal droit, il y a une lésion
+T111	morphologie 7203 7210	lésions
+T112	topographie 7211 7221	hépatiques
+T113	morphologie 6923 6929	lésion
+T114	topographie 6886 6898	lobe frontal
+T115	expression_CIM 6886 6929	lobe frontal droit, on identifie une lésion
+T116	topographie 7343 7353	hépatiques
+T117	topographie 7355 7366	pulmonaires
+T118	topographie 7370 7380	cérébrales
+T119	expression_CIM 7335 7380	lésions hépatiques, pulmonaires et cérébrales
+T120	stade 7496 7504	stade IV
+T121	topographie 7469 7478	cérébrale
+T122	expression_CIM 7457 7478	Progression cérébrale
+T123	morphologie 7484 7492	mélanome
+T124	expression_CIM 7484 7492	mélanome
+T125	expression_CIM 7813 7822	métastase
+T126	morphologie 7751 7757	lésion
+T127	topographie 7771 7785	lobe hépatique
+T128	expression_CIM 7751 7785	lésion nodulaire du lobe hépatique
+T129	topographie 8013 8023	hépatiques
+T130	expression_CIM 8002 8023	métastases hépatiques
+T131	morphologie 8051 8057	nodule
+T132	topographie 8058 8068	pulmonaire
+T133	topographie 8271 8280	hépatique
+T134	expression_CIM 8261 8280	métastase hépatique
+T135	topographie 8313 8331	cérébrale frontale
+T136	expression_CIM 8303 8331	métastase cérébrale frontale
+T137	topographie 8625 8631	poumon
+T138	topographie 8638 8642	foie
+T139	expression_CIM 8590 8642	progression a été observée dans le poumon et le foie
+T140	morphologie 8661 8668	lésions
+T141	expression_CIM 8661 8668	lésions
+T142	morphologie 8694 8716	croissance des lésions
+T143	topographie 8681 8688	cerveau
+T144	expression_CIM 8681 8716	cerveau, une croissance des lésions
+T145	topographie 8817 8827	cérébrales
+T146	expression_CIM 8806 8827	métastases cérébrales
+T147	morphologie 9064 9071	lésions
+T148	topographie 9064 9071	lésions
+T149	expression_CIM 9181 9189	mélanome
+T150	topographie 9441 9451	hépatiques
+T151	expression_CIM 9430 9451	métastases hépatiques
+T152	topographie 9587 9597	hépatiques
+T153	expression_CIM 9576 9597	métastases hépatiques
+T154	morphologie 9622 9628	nodule
+T155	topographie 9629 9639	pulmonaire
+T156	topographie 10135 10165	cérébrale dans le lobe frontal
+T157	expression_CIM 10125 10165	métastase cérébrale dans le lobe frontal
+T158	morphologie 10009 10016	lésions
+T159	expression_CIM 10009 10016	lésions
+T160	morphologie 10215 10238	progression des lésions
+T161	topographie 10247 10254	cerveau
+T162	topographie 10259 10265	poumon
+T163	topographie 10272 10276	foie
+T164	topographie 10396 10406	cérébrales
+T165	expression_CIM 10385 10406	métastases cérébrales

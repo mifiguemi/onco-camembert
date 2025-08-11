@@ -1,0 +1,20 @@
+T1	morphologie 359 369	métastases
+T2	morphologie 831 841	métastases
+T3	morphologie 1110 1128	carcinome acinaire
+T4	morphologie 1315 1325	métastases
+T5	morphologie 1439 1449	métastases
+T6	morphologie 1634 1672	carcinome mixte acineux-neuroendocrine
+T7	morphologie 2387 2396;2410 2417	carcinome acineux
+T8	topographie 370 380	hépatiques
+T10	topographie 842 852	hépatiques
+T12	morphologie 860 871	adénopathie
+T13	topographie 872 888	rétropéritonéale
+T15	morphologie 652 670	processus expansif
+T16	topographie 695 712	queue du pancréas
+T18	morphologie 766 777	adénopathie
+T19	topographie 793 809	glande surrénale
+T21	topographie 1129 1141	pancréatique
+T24	morphologie 1329 1338	carcinome
+T27	morphologie 1523 1548	accumulation pathologique
+T28	topographie 1557 1574	queue du pancréas
+T31	topographie 2397 2409	pancréatique

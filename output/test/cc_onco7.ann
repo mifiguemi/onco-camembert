@@ -1,0 +1,35 @@
+T1	morphologie 1758 1768	métastases
+T2	morphologie 1843 1849	lésion
+T3	topographie 1850 1860	pulmonaire
+T4	morphologie 1876 1887	adénopathie
+T5	topographie 1888 1895	hilaire
+T6	topographie 1899 1911	médiastinale
+T7	morphologie 1993 2000	nodules
+T8	topographie 2001 2012	pulmonaires
+T9	morphologie 2068 2074	nodule
+T10	morphologie 2172 2196	Croissance adénopathique
+T11	topographie 2197 2209	médiastinale
+T12	topographie 2352 2367	sous-carénaires
+T13	morphologie 2376 2383	lésions
+T14	morphologie 2489 2499	métastases
+T15	morphologie 2763 2784	atteinte métastatique
+T16	morphologie 2846 2855	Carcinome
+T17	differenciation 2856 2869	indifférencié
+T18	morphologie 2870 2888	à grandes cellules
+T19	topographie 2891 2909	origine pulmonaire
+T20	morphologie 3220 3234	adénocarcinome
+T21	stade 3235 3245	stade IV B
+T22	stade 3247 3251	cTx,
+T23	stade 3252 3256	cN3,
+T24	stade 3257 3261	cM1b
+T25	stade 3263 3277	TNM 7e édition
+T26	morphologie 3284 3292	atteinte
+T27	topographie 3293 3303	pulmonaire
+T28	topographie 3319 3331	médiastinale
+T29	topographie 3333 3342	hépatique
+T30	topographie 3346 3353	osseuse
+T31	morphologie 4055 4067	adénopathies
+T32	topographie 4068 4085	rétropéritonéales
+T33	morphologie 4239 4264	progression ganglionnaire
+T34	morphologie 4284 4308	composante adénopathique
+T35	topographie 4309 4325	rétropéritonéale

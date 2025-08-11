@@ -1,0 +1,22 @@
+T1	morphologie 106 120	adénocarcinome
+T2	morphologie 250 268	maladie à distance
+T3	morphologie 590 618	adénocarcinome endométrioïde
+T4	morphologie 790 800	métastases
+T6	morphologie 2704 2718	Adénocarcinome
+T7	topographie 126 135	endomètre
+T8	expression_CIM 106 135	adénocarcinome de l'endomètre
+T9	expression_CIM 250 268	maladie à distance
+T10	differenciation 619 645	modérément différencié, G2
+T11	expression_CIM 590 645	adénocarcinome endométrioïde modérément différencié, G2
+T12	topographie 814 845	ganglions lymphatiques iliaques
+T13	expression_CIM 790 845	métastases dans 1 des 5 ganglions lymphatiques iliaques
+T14	stade 953 976	stade IIIC1 de la FIGO.
+T15	morphologie 1645 1657	adénopathies
+T16	expression_CIM 1645 1657	adénopathies
+T5	topographie 2719 2730	endométrial
+T17	expression_CIM 2704 2730	Adénocarcinome endométrial
+T18	stade 2734 2750	stade FIGO IIIC1
+T19	morphologie 3157 3169	adénopathies
+T20	topographie 3170 3178	hilaires
+T21	topographie 3182 3195	médiastinales
+T22	expression_CIM 3157 3195	adénopathies hilaires et médiastinales

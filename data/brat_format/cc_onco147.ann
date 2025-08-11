@@ -1,0 +1,69 @@
+T1	morphologie 85 94	carcinome
+T2	topographie 101 109	prostate
+T3	topographie 611 621	axillaires
+T6	topographie 801 810	axillaire
+T7	topographie 983 987	sein
+T8	morphologie 1104 1111	nodules
+T9	topographie 1145 1156	CSC du sein
+T10	topographie 1257 1273	sus-claviculaire
+T11	morphologie 1355 1361	nodule
+T12	topographie 1380 1411	quadrant supéro-externe du sein
+T13	topographie 1532 1541	axillaire
+T14	morphologie 1622 1642	carcinome infiltrant
+T15	morphologie 1706 1715	carcinome
+T16	morphologie 1740 1749	carcinome
+T17	topographie 1750 1758	mammaire
+T18	morphologie 1965 1970	masse
+T19	topographie 2021 2025	sein
+T20	morphologie 2180 2187	nodules
+T21	topographie 2188 2199	pulmonaires
+T22	morphologie 2229 2234	masse
+T23	morphologie 2430 2446	Lymphadénopathie
+T24	topographie 2479 2487	aisselle
+T25	morphologie 2508 2517	Cancer du
+T26	topographie 2518 2522	sein
+T27	topographie 2544 2555	SCC du sein
+T28	morphologie 2568 2576	atteinte
+T29	topographie 2577 2587	pulmonaire
+T30	topographie 2591 2604	adénopathique
+T31	morphologie 3801 3816	lésion primaire
+T32	topographie 3832 3843	CSE du sein
+T33	morphologie 3895 3915	atteinte lymphatique
+T34	topographie 3916 3925	axillaire
+T35	topographie 3927 3943	mammaire interne
+T36	topographie 3945 3962	supraclaviculaire
+T37	topographie 3966 3975	cervicale
+T38	morphologie 3990 4000	métastases
+T39	topographie 4001 4012	pulmonaires
+T40	topographie 4108 4118	pulmonaire
+T41	morphologie 4498 4508	métastases
+T42	topographie 4521 4549	parenchymateuses pulmonaires
+T44	topographie 4625 4628	LSD
+T45	morphologie 4745 4756	progression
+T46	topographie 4771 4781	thoracique
+T47	topographie 4801 4805	sein
+T48	morphologie 4814 4819	masse
+T49	topographie 4839 4842	SES
+T50	morphologie 4884 4908	nodules hypervasculaires
+T51	topographie 4909 4923	parenchymateux
+T52	morphologie 4988 4998	métastases
+T53	topographie 4999 5010	pulmonaires
+T54	morphologie 5320 5329	néoplasme
+T55	topographie 5333 5337	sein
+T56	morphologie 5513 5520	nodules
+T57	topographie 5521 5532	pulmonaires
+T58	morphologie 5605 5612	nodules
+T59	morphologie 5890 5900	métastases
+T60	topographie 5901 5912	pulmonaires
+T61	morphologie 5920 5959	formations adénopathiques métastatiques
+T63	topographie 5968 5974	thorax
+T64	morphologie 598 610	adénopathies
+T4	morphologie 721 738	cancer infiltrant
+T5	morphologie 1015 1021	nodule
+T65	morphologie 1180 1216	ganglions lymphatiques pathologiques
+T66	topographie 1237 1253	région axillaire
+T67	morphologie 1498 1521	ganglions pathologiques
+T68	topographie 2264 2282	quadrants externes
+T69	topographie 2215 2219	Sein
+T70	stade 2523 2535	métastatique
+T43	morphologie 4061 4097	croissance et de la DP de la maladie

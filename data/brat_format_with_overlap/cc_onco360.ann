@@ -1,0 +1,61 @@
+T1	morphologie 195 204	néoplasie
+T2	topographie 208 213	côlon
+T3	morphologie 718 729	Adénopathie
+T4	topographie 730 745	latérocervicale
+T5	morphologie 796 807	Adénopathie
+T6	topographie 808 824	sus-claviculaire
+T7	morphologie 1417 1429	Adénopathies
+T8	topographie 1452 1469	rétro-auriculaire
+T9	topographie 1471 1482	sous-mental
+T10	topographie 1490 1506	chaîne jugulaire
+T11	topographie 1508 1524	sus-claviculaire
+T12	topographie 1526 1537	médiastinal
+T13	topographie 1539 1552	para-aortique
+T14	topographie 1556 1568	paratrachéal
+T15	morphologie 1610 1616	Tumeur
+T16	topographie 1633 1645	fosse nasale
+T17	morphologie 1709 1717	atteinte
+T18	topographie 1718 1725	osseuse
+T21	topographie 2002 2016	intracrânienne
+T22	morphologie 2190 2196	tumeur
+T23	morphologie 2303 2312	métastase
+T24	morphologie 2319 2330	adénopathie
+T25	topographie 2331 2340	cervicale
+T26	morphologie 2385 2391	tumeur
+T27	differenciation 2392 2408	peu différenciée
+T28	morphologie 2428 2449	esthésioneuroblastome
+T29	differenciation 2450 2463	de haut grade
+T30	morphologie 2614 2620	tumeur
+T31	topographie 2627 2633	narine
+T32	morphologie 2647 2668	Esthésioneuroblastome
+T33	stade 2892 2895	cT4
+T34	morphologie 2912 2920	invasion
+T35	topographie 2921 2930	cérébrale
+T36	stade 2933 2935	N1
+T37	morphologie 2937 2949	adénopathies
+T38	topographie 2950 2960	cervicales
+T39	stade 2963 2965	M1
+T40	topographie 2990 2999	hypophyse
+T41	stade 3002 3010	Stade IV
+T42	stade 3049 3056	stade C
+T44	stade 3147 3159	métastatique
+T45	morphologie 3523 3531;3540 3548	atteinte tumorale
+T46	topographie 3532 3539	osseuse
+T48	topographie 3568 3594	fosse crânienne antérieure
+T49	morphologie 3731 3750	composante tumorale
+T51	topographie 3774 3799	cavité crânienne frontale
+T52	morphologie 4128 4143	tumeur primaire
+T53	morphologie 4320 4337	Récidive tumorale
+T54	topographie 4362 4375	fosse nasale,
+T55	morphologie 4563 4572	extension
+T56	topographie 4573 4587	intracrânienne
+T57	morphologie 4650 4657	Lésions
+T58	topographie 4658 4666	osseuses
+T59	topographie 4805 4807	os
+T60	morphologie 4928 4949	atteinte métastatique
+T61	morphologie 5038 5053	tumeur primaire
+T62	topographie 5426 5436	cérébrales
+T63	morphologie 5437 5439	M1
+T19	morphologie 1984 2001	invasion tumorale
+T20	differenciation 2694 2709	de grade III/IV
+T43	topographie 4380 4400	cellules ethmoïdales

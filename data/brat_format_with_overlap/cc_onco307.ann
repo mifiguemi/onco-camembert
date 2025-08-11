@@ -1,0 +1,46 @@
+T1	morphologie 241 243	Ca
+T2	morphologie 282 288;299 311	cancer microcytaire
+T3	topographie 292 298	poumon
+T5	morphologie 313 319;330 342	Cancer microcytaire
+T6	topographie 323 329	poumon
+T8	morphologie 428 433	masse
+T9	morphologie 558 563	masse
+T10	topographie 648 660	mésentère de
+T11	topographie 664 677	fosse iliaque
+T12	morphologie 697 705	lymphome
+T13	morphologie 713 728	tumeur desmoïde
+T14	morphologie 758 764	lésion
+T15	morphologie 815 828	neuroblastome
+T16	morphologie 847 852	masse
+T17	topographie 853 863	abdominale
+T18	morphologie 997 1010	neuroblastome
+T19	morphologie 1695 1716	rechute ganglionnaire
+T21	topographie 1717 1729	pré-aortique
+T22	morphologie 1737 1742	masse
+T23	topographie 1743 1756	para-aortique
+T24	morphologie 1766 1774	atteinte
+T25	topographie 1775 1781	sacrée
+T26	morphologie 2005 2015	métastases
+T27	topographie 2016 2024	osseuses
+T28	morphologie 2028 2041	neuroblastome
+T29	morphologie 2717 2728	adénopathie
+T30	topographie 2729 2742	para-aortique
+T31	morphologie 2777 2788	adénopathie
+T32	topographie 2822 2836	moelle osseuse
+T33	morphologie 2854 2859;2874 2889	masse des tissus mous
+T34	topographie 2860 2873	prévertébrale
+T35	morphologie 2967 2980	Neuroblastome
+T36	topographie 2981 2990	abdominal
+T37	morphologie 3003 3024	récidive métastatique
+T38	topographie 3039 3061	ganglions lymphatiques
+T39	topographie 3067 3069	os
+T40	topographie 3077 3088	tissus mous
+T41	morphologie 3485 3494	métastase
+T42	morphologie 3552 3558	lésion
+T43	topographie 3559 3565	sacrée
+T44	morphologie 3595 3616	masse des tissus mous
+T45	topographie 3624 3633	ganglions
+T46	topographie 245 253	Pancréas
+T4	topographie 439 455	infra-ombilicale
+T7	topographie 877 895	péritoine pariétal
+T20	topographie 1807 1833	musculature paravertébrale

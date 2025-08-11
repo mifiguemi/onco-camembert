@@ -1,0 +1,92 @@
+T1	morphologie 328 334	cancer
+T2	morphologie 387 393	cancer
+T3	morphologie 458 464	cancer
+T4	expression_CIM 642 706	nodule pulmonaire solitaire a été observé dans le lobe supérieur
+T5	expression_CIM 1132 1180	nodule pulmonaire de 1 cm dans le lobe supérieur
+T6	morphologie 1228 1253	tumeur à cellules claires
+T7	morphologie 1734 1740	tumeur
+T8	morphologie 1815 1824	néoplasie
+T9	morphologie 1972 1978	Cancer
+T10	morphologie 2202 2208;2216 2234	tumeur à cellules claires
+T11	expression_CIM 2430 2449	nodules pulmonaires
+T12	morphologie 2489 2499	métastases
+T13	morphologie 2765 2773;2782 2794	atteinte métastatique
+T14	morphologie 2855 2865	métastases
+T15	morphologie 3409 3419	métastases
+T16	morphologie 4693 4699	lésion
+T17	expression_CIM 4842 4851	métastase
+T18	morphologie 4906 4912	tumeur
+T19	morphologie 5146 5172	bon contrôle de la maladie
+T20	morphologie 5658 5668	métastases
+T21	morphologie 6016 6022	nodule
+T22	topographie 338 344	poumon
+T23	expression_CIM 328 344	cancer du poumon
+T24	topographie 397 401	sein
+T25	expression_CIM 387 401	cancer du sein
+T26	topographie 468 474	poumon
+T27	expression_CIM 458 474	cancer du poumon
+T28	morphologie 642 648	nodule
+T29	topographie 649 659;692 706	pulmonaire lobe supérieur
+T30	morphologie 773 779	lésion
+T31	expression_CIM 773 779	lésion
+T32	morphologie 915 921	nodule
+T33	expression_CIM 915 921	nodule
+T34	morphologie 1132 1138	nodule
+T35	topographie 1139 1149;1166 1180	pulmonaire lobe supérieur
+T36	expression_CIM 1228 1253	tumeur à cellules claires
+T37	expression_CIM 1734 1740	tumeur
+T38	topographie 1828 1832	rein
+T39	expression_CIM 1815 1832	néoplasie du rein
+T40	morphologie 1866 1886	formations kystiques
+T41	topographie 1947 1951	rein
+T42	expression_CIM 1866 1951	formations kystiques corticales mesurant 2,8 et 2,6 cm ont été observées dans le rein
+T43	morphologie 1987 2005	à cellules claires
+T44	topographie 1982 1986	rein
+T45	stade 2006 2018	métastatique
+T46	expression_CIM 1972 2005	Cancer du rein à cellules claires
+T47	differenciation 2235 2256	de grade 3 de Fuhrman
+T48	stade 2289 2295	pT2aNx
+T49	topographie 2209 2215	rénale
+T50	expression_CIM 2202 2256	tumeur rénale à cellules claires de grade 3 de Fuhrman
+T51	morphologie 2430 2437	nodules
+T52	topographie 2438 2449	pulmonaires
+T53	expression_CIM 2489 2499	métastases
+T54	topographie 2774 2781	osseuse
+T55	expression_CIM 2765 2794	atteinte osseuse métastatique
+T56	morphologie 2583 2611	augmentation de la captation
+T57	topographie 2612 2625	sacro-iliaque
+T58	topographie 2642 2652	arc costal
+T59	expression_CIM 2583 2652	augmentation de la captation sacro-iliaque et du cinquième arc costal
+T60	topographie 2866 2877	pulmonaires
+T61	expression_CIM 2855 2877	métastases pulmonaires
+T62	morphologie 2883 2889;2898 2916	cancer à cellules claires
+T63	topographie 2893 2897	rein
+T64	expression_CIM 2883 2916	cancer du rein à cellules claires
+T65	topographie 3420 3431	pulmonaires
+T66	expression_CIM 3409 3431	métastases pulmonaires
+T67	morphologie 4163 4169	nodule
+T68	topographie 4220 4234	lobe supérieur
+T69	expression_CIM 4163 4234	nodule de 3 mm a été observé dans la zone postérieure du lobe supérieur
+T70	topographie 4703 4718	corps gastrique
+T71	expression_CIM 4693 4718	lésion du corps gastrique
+T72	morphologie 4842 4851	métastase
+T73	morphologie 4857 4885	carcinome à cellules claires
+T74	expression_CIM 4857 4885	carcinome à cellules claires
+T75	topographie 4913 4919	rénale
+T76	expression_CIM 4906 4919	tumeur rénale
+T77	topographie 5183 5193	pulmonaire
+T78	topographie 5197 5206	gastrique
+T79	expression_CIM 5146 5206	bon contrôle de la maladie au niveau pulmonaire et gastrique
+T80	morphologie 5216 5222	lésion
+T81	expression_CIM 5216 5222	lésion
+T82	expression_CIM 5658 5714	métastases ont été confirmées dans la muqueuse gastrique
+T83	topographie 5696 5714	muqueuse gastrique
+T84	morphologie 5720 5726;5733 5751	cancer à cellules claires
+T85	topographie 5727 5732	rénal
+T86	morphologie 5793 5798	masse
+T87	expression_CIM 5793 5798	masse
+T88	topographie 6023 6033;6051 6054	pulmonaire LSI
+T89	expression_CIM 6016 6054	nodule pulmonaire inchangé dans le LSI
+T90	morphologie 6062 6073	collections
+T91	topographie 6074 6084	hépatiques
+T92	expression_CIM 6062 6084	collections hépatiques

@@ -1,0 +1,93 @@
+T1	morphologie 1657 1663	tumeur
+T2	morphologie 1742 1748	tumeur
+T3	expression_CIM 1770 1788	masse médiastinale
+T4	expression_CIM 1985 2004	Nodules pulmonaires
+T5	morphologie 2734 2740	tumeur
+T6	morphologie 2892 2898	tumeur
+T8	morphologie 3430 3438	séminome
+T9	morphologie 3787 3795	Séminome
+T10	morphologie 4609 4614	masse
+T11	morphologie 4842 4848	tumeur
+T13	expression_CIM 5449 5467	Masse médiastinale
+T14	morphologie 6186 6197	progression
+T15	morphologie 6734 6739	masse
+T16	morphologie 6789 6796	lésions
+T17	morphologie 526 531	masse
+T18	topographie 549 558	testicule
+T19	expression_CIM 526 558	masse indolore dans le testicule
+T20	morphologie 1050 1055	Masse
+T21	topographie 1056 1064	scrotale
+T22	expression_CIM 1050 1064	Masse scrotale
+T23	morphologie 757 768	adénopathie
+T24	topographie 769 778	cervicale
+T25	expression_CIM 757 778	adénopathie cervicale
+T26	topographie 1676 1696	canal inguinoscrotal
+T27	expression_CIM 1657 1696	tumeur occupant le canal inguinoscrotal
+T28	expression_CIM 1742 1748	tumeur
+T29	morphologie 1985 1992	Nodules
+T30	topographie 1993 2004	pulmonaires
+T31	morphologie 1770 1775	masse
+T32	topographie 1776 1788	médiastinale
+T33	morphologie 1899 1904	masse
+T34	expression_CIM 1899 1904	masse
+T35	morphologie 2208 2213	masse
+T36	topographie 2156 2178	espace rétropéritonéal
+T37	expression_CIM 2156 2213	espace rétropéritonéal supérieur, il y a une grosse masse
+T38	morphologie 2245 2267	ganglions lymphatiques
+T39	topographie 2282 2311	para-aortique rétropéritonéal
+T40	topographie 2323 2337	chaîne iliaque
+T41	topographie 2370 2397	à côté de la veine fémorale
+T42	expression_CIM 2245 2397	ganglions lymphatiques dans l'espace para-aortique rétropéritonéal gauche, la chaîne iliaque commune droite et le plus grand à côté de la veine fémorale
+T43	morphologie 2445 2481	ganglions lymphatiques pathologiques
+T44	topographie 2482 2491	inguinaux
+T45	expression_CIM 2445 2491	ganglions lymphatiques pathologiques inguinaux
+T46	topographie 2741 2753	testiculaire
+T47	expression_CIM 2734 2753	tumeur testiculaire
+T48	morphologie 2677 2682	masse
+T49	topographie 2702 2709	scrotum
+T50	expression_CIM 2677 2709	masse qui occupe tout le scrotum
+T51	topographie 2899 2911	testiculaire
+T52	expression_CIM 2892 2911	tumeur testiculaire
+T53	morphologie 2965 3011	formations ovoïdes hypoéchogènes vascularisées
+T54	topographie 2929 2945	région inguinale
+T55	expression_CIM 2929 3011	région inguinale, on visualise deux formations ovoïdes hypoéchogènes vascularisées
+T56	morphologie 3052 3058	masses
+T57	topographie 3059 3073	adénopathiques
+T58	expression_CIM 3052 3073	masses adénopathiques
+T7	morphologie 3110 3122	infiltration
+T59	topographie 3153 3160	trachée
+T60	topographie 3162 3180	bronche principale
+T61	expression_CIM 3110 3180	infiltration dans le tiers inférieur de la trachée, bronche principale
+T62	topographie 3439 3451	testiculaire
+T63	expression_CIM 3430 3451	séminome testiculaire
+T64	topographie 3796 3808	testiculaire
+T65	stade 3815 3825	cT3-4N3M1a
+T66	expression_CIM 3787 3808	Séminome testiculaire
+T68	topographie 3827 3840	ganglionnaire
+T69	topographie 3844 3854	pulmonaire
+T70	expression_CIM 3822 3854	M1a (ganglionnaire et pulmonaire
+T71	stade 3856 3874	stade S3 UICC IIIC
+T72	topographie 4615 4637	pulmonaire parahilaire
+T73	expression_CIM 4609 4637	masse pulmonaire parahilaire
+T74	expression_CIM 4842 4848	tumeur
+T12	morphologie 5449 5454	Masse
+T75	topographie 5455 5467	médiastinale
+T76	morphologie 5497 5502	Masse
+T77	topographie 5503 5515	testiculaire
+T78	expression_CIM 5497 5515	Masse testiculaire
+T79	morphologie 5703 5709	Nodule
+T80	topographie 5710 5718	inguinal
+T81	expression_CIM 5703 5718	Nodule inguinal
+T82	topographie 6198 6208	pulmonaire
+T83	topographie 6212 6228	rétropéritonéale
+T84	expression_CIM 6186 6228	progression pulmonaire et rétropéritonéale
+T85	morphologie 6514 6536	ganglions lymphatiques
+T86	topographie 6537 6548	pulmonaires
+T87	topographie 6552 6568	rétropéritonéaux
+T88	expression_CIM 6514 6568	ganglions lymphatiques pulmonaires et rétropéritonéaux
+T89	topographie 6740 6752	médiastinale
+T90	expression_CIM 6734 6752	masse médiastinale
+T91	topographie 6797 6820	pulmonaires dans le LSD
+T92	expression_CIM 6789 6820	lésions pulmonaires dans le LSD
+T93	morphologie 6999 7006	lésions
+T94	expression_CIM 6999 7006	lésions

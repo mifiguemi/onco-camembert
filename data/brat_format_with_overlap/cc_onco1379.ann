@@ -1,0 +1,33 @@
+T1	morphologie 300 309	néoplasie
+T2	morphologie 541 551	métastases
+T3	morphologie 928 934	lésion
+T4	morphologie 994 1003	métastase
+T5	morphologie 1599 1605	tumeur
+T6	expression_CIM 1789 1831	adénocarcinome colorectal bien différencié
+T7	morphologie 1843 1853	métastases
+T8	morphologie 1916 1930	Adénocarcinome
+T9	topographie 310 317	rectale
+T10	expression_CIM 300 317	néoplasie rectale
+T11	morphologie 511 523	adénopathies
+T12	expression_CIM 511 523	adénopathies
+T13	topographie 552 562	hépatiques
+T14	topographie 566 577	pulmonaires
+T15	expression_CIM 541 577	métastases hépatiques ou pulmonaires
+T16	topographie 935 953	cérébrale frontale
+T17	expression_CIM 928 953	lésion cérébrale frontale
+T18	expression_CIM 994 1003	métastase
+T19	expression_CIM 1599 1605	tumeur
+T20	morphologie 1789 1803	adénocarcinome
+T21	topographie 1804 1814	colorectal
+T22	differenciation 1815 1831	bien différencié
+T23	topographie 1854 1864	cérébrales
+T24	expression_CIM 1843 1864	métastases cérébrales
+T25	topographie 1931 1941	colorectal
+T26	differenciation 1942 1958	bien différencié
+T27	stade 1962 1970	stade IV
+T28	morphologie 1976 1986	métastases
+T29	topographie 1987 1997	cérébrales
+T30	expression_CIM 1976 1997	métastases cérébrales
+T31	expression_CIM 1916 1958	Adénocarcinome colorectal bien différencié
+T32	morphologie 2171 2177	lésion
+T33	expression_CIM 2171 2177	lésion

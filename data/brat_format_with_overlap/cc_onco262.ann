@@ -1,0 +1,36 @@
+T1	morphologie 417 426	néoplasme
+T2	topographie 435 449	lobe inférieur
+T3	morphologie 474 499	adénocarcinome papillaire
+T4	morphologie 715 725;737 745	carcinoïde atypique
+T5	topographie 726 736	pulmonaire
+T6	differenciation 746 754	de grade
+T7	stade 755 767	pT1a pN0 pM0
+T10	stade 768 784	stade I de l'OMS
+T11	morphologie 1081 1086	masse
+T12	topographie 1087 1097	pulmonaire
+T13	morphologie 1205 1210	masse
+T14	topographie 1248 1251	LII
+T15	morphologie 1348 1362	adénocarcinome
+T16	topographie 1363 1373	pulmonaire
+T17	morphologie 1556 1591	atteinte des ganglions lymphatiques
+T18	morphologie 1685 1691	lésion
+T19	topographie 1692 1701	hépatique
+T20	morphologie 1890 1910	maladie métastatique
+T21	topographie 1924 1928	foie
+T22	morphologie 2055 2064	métastase
+T23	morphologie 2081 2107	tumeur carcinoïde atypique
+T24	morphologie 2164 2170	tumeur
+T25	morphologie 2230 2236	tumeur
+T27	morphologie 2271 2289	maladie à distance
+T28	morphologie 2665 2686	nodules métastatiques
+T29	topographie 2713 2717	foie
+T30	morphologie 2733 2742	métastase
+T31	morphologie 2746 2772	tumeur carcinoïde atypique
+T32	morphologie 2891 2901	métastases
+T33	topographie 2902 2912	hépatiques
+T34	morphologie 2920 2926	lésion
+T35	topographie 2927 2939	acétabulaire
+T36	morphologie 3104 3124	maladie métastatique
+T37	topographie 3125 3134	hépatique
+T38	morphologie 3174 3182	atteinte
+T39	topographie 3183 3190	osseuse

@@ -1,0 +1,35 @@
+T1	morphologie 658 688	carcinome à cellules de Merkel
+T2	stade 692 700	stade IV
+T3	morphologie 728 739	adénopathie
+T4	topographie 740 749	inguinale
+T5	morphologie 1173 1179	Tumeur
+T6	topographie 1180 1189	inguinale
+T7	morphologie 1411 1416	masse
+T8	topographie 1417 1433	intrapéritonéale
+T9	morphologie 1440 1465	conglomérat adénopathique
+T10	topographie 1466 1474	inguinal
+T11	morphologie 1604 1615	adénopathie
+T12	topographie 1616 1625	inguinale
+T13	morphologie 1736 1742	tumeur
+T14	topographie 1751 1775	région temporo-pariétale
+T15	morphologie 2024 2045	lésions métastatiques
+T16	topographie 2046 2078	osseuses dans la région frontale
+T17	topographie 2082 2091	temporale
+T18	morphologie 2168 2178	métastases
+T19	morphologie 2189 2232	carcinome neuroendocrine à petites cellules
+T20	morphologie 2287 2317	carcinome à cellules de Merkel
+T21	morphologie 2441 2471	Carcinome à cellules de Merkel
+T22	stade 2475 2483	stade IV
+T23	morphologie 2492 2499	implant
+T24	topographie 2500 2512	rectovaginal
+T25	morphologie 2522 2532	métastases
+T26	topographie 2533 2552	osseuses crâniennes
+T27	morphologie 2622 2643	lésions métastatiques
+T28	topographie 2648 2659	os du crâne
+T29	morphologie 3580 3601	lésions métastatiques
+T30	topographie 3608 3615	calotte
+T31	morphologie 3765 3786	lésions métastatiques
+T32	topographie 3795 3802	calotte
+T33	morphologie 3839 3850	adénopathie
+T34	topographie 3851 3860	inguinale
+T35	morphologie 6324 6333	néoplasme

@@ -1,0 +1,25 @@
+T1	morphologie 12 40	carcinome à cellules rénales
+T2	morphologie 42 45	CCR
+T3	morphologie 177 187	métastases
+T4	morphologie 314 317	CCR
+T5	morphologie 325 340	tumeur primaire
+T7	morphologie 444 454	métastases
+T8	morphologie 599 612	hypernéphrome
+T9	morphologie 1006 1012	tumeur
+T10	morphologie 1424 1430	tumeur
+T11	morphologie 1592 1620	carcinome à cellules claires
+T12	morphologie 2007 2010	CCR
+T13	morphologie 2090 2093	CCR
+T14	morphologie 2353 2356	CCR
+T15	morphologie 2736 2745	métastase
+T16	morphologie 2872 2881	métastase
+T20	morphologie 242 252	métastases
+T6	topographie 455 462	nasales
+T26	morphologie 1221 1227	lésion
+T28	morphologie 1238 1243	masse
+T29	topographie 1244 1264	fronto-orbito-nasale
+T32	topographie 1623 1637	origine rénale
+T35	stade 2094 2106	métastatique
+T37	stade 2357 2369	métastatique
+T40	topographie 2882 2888	nasale
+T42	morphologie 2894 2907	hypernéphrome

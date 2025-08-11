@@ -1,0 +1,30 @@
+T1	morphologie 490 496	masses
+T2	morphologie 702 708	tumeur
+T3	topographie 728 733	côlon
+T4	morphologie 750 762	adénopathies
+T5	morphologie 780 785	masse
+T6	topographie 786 802	paramédiastinale
+T7	morphologie 841 848;867 890	lésions évoquant des métastases
+T8	topographie 849 858	pleurales
+T10	morphologie 1116 1137	carcinome épidermoïde
+T11	morphologie 1462 1480	carcinome thymique
+T12	morphologie 1520 1526	lésion
+T13	topographie 1527 1537	pulmonaire
+T14	morphologie 1693 1711	carcinome thymique
+T15	morphologie 1757 1771	adénocarcinome
+T16	differenciation 1772 1788	bien différencié
+T17	topographie 1792 1797	côlon
+T18	morphologie 1886 1900	adénocarcinome
+T19	topographie 1914 1919	côlon
+T20	stade 1936 1942	T3N1M0
+T21	morphologie 1952 1981	carcinome thymique malpighien
+T22	morphologie 1987 1995	atteinte
+T23	topographie 1996 2004	pleurale
+T24	morphologie 2080 2101	carcinome épidermoïde
+T25	stade 2102 2114	métastatique
+T26	topographie 2118 2124	poumon
+T27	morphologie 2483 2488	masse
+T28	topographie 2489 2505	paramédiastinale
+T29	morphologie 2513 2521	implants
+T30	topographie 2522 2530	pleuraux
+T31	morphologie 4455 4469	tumeur maligne

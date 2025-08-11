@@ -1,0 +1,17 @@
+T1	morphologie 184 194	métastases
+T2	morphologie 331 340	néoplasie
+T3	morphologie 444 465	métastases à distance
+T4	morphologie 478 486	implants
+T5	morphologie 708 742	carcinome rénal à cellules claires
+T7	stade 838 846	pT2aNxM1
+T8	morphologie 1647 1657	métastases
+T9	topographie 195 206	pulmonaires
+T11	topographie 341 347	rénale
+T14	topographie 487 498	pulmonaires
+T15	topographie 500 506	osseux
+T16	topographie 508 524	vertébral dorsal
+T17	topographie 567 578	péritonéaux
+T6	morphologie 801 811	métastases
+T20	topographie 820 836	glande surrénale
+T22	stade 848 856	stade IV
+T23	topographie 1658 1669	pulmonaires

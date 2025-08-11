@@ -1,0 +1,52 @@
+T1	morphologie 125 131;142 164	cancer non à petites cellules
+T2	topographie 135 141	poumon
+T4	morphologie 166 171	CPNPC
+T5	morphologie 1196 1202	nodule
+T6	topographie 1203 1213	pulmonaire
+T7	morphologie 1425 1431	nodule
+T8	topographie 1466 1480	lobe inférieur
+T9	morphologie 1868 1889	infiltration tumorale
+T10	morphologie 2047 2053	nodule
+T11	topographie 2057 2071	lobe inférieur
+T12	morphologie 2129 2141	adénopathies
+T13	topographie 2142 2150	hilaires
+T14	morphologie 2204 2215	adénopathie
+T15	topographie 2216 2233	para-œsophagienne
+T16	morphologie 2444 2458	adénocarcinome
+T17	differenciation 2459 2474	peu différencié
+T18	topographie 2477 2495	origine pulmonaire
+T19	morphologie 2634 2648	Adénocarcinome
+T20	topographie 2651 2669	origine pulmonaire
+T21	topographie 2678 2692	lobe inférieur
+T23	stade 2712 2720	pT2aN0M0
+T24	stade 2722 2724	IB
+T25	stade 2848 2862	stade localisé
+T26	morphologie 3045 3067	atteinte ganglionnaire
+T27	topographie 3068 3080	médiastinale
+T28	topographie 3084 3092	pleurale
+T29	morphologie 3109 3117	implants
+T30	topographie 3118 3126	pleuraux
+T31	morphologie 3259 3273	adénocarcinome
+T32	topographie 3276 3294	origine pulmonaire
+T33	stade 3338 3347	cTxcN2pM1
+T34	stade 3349 3357	stade IV
+T35	morphologie 3992 4000	implants
+T36	topographie 4001 4009	pleuraux
+T37	morphologie 4149 4173	progression de la tumeur
+T39	topographie 4182 4191	médiastin
+T40	topographie 4197 4229	chaînes ganglionnaires pleurales
+T41	topographie 4233 4254	infradiaphragmatiques
+T42	topographie 4286 4293	abdomen
+T43	topographie 4310 4335	ligament gastro-hépatique
+T44	morphologie 4635 4647	adénopathies
+T45	topographie 4658 4669	médiastinal
+T46	topographie 4671 4680	axillaire
+T47	topographie 4684 4709	rétropéritonéal supérieur
+T48	morphologie 4725 4733	implants
+T49	topographie 4742 4750	pectoral
+T50	topographie 4762 4768	plèvre
+T51	topographie 4773 4782	surrénale
+T52	topographie 4794 4820	musculature paravertébrale
+T53	topographie 4833 4843	os iliaque
+T3	topographie 1232 1246	lobe inférieur
+T22	topographie 4295 4306	rétrocrural

@@ -1,0 +1,33 @@
+T1	morphologie 339 358	lymphome extranodal
+T2	morphologie 380 392	de type MALT
+T3	stade 396 405	stade IVB
+T4	morphologie 1618 1634	lymphadénopathie
+T5	morphologie 1641 1646	masse
+T6	topographie 1647 1657	abdominale
+T7	morphologie 2333 2338	masse
+T8	topographie 2358 2362	rein
+T9	morphologie 2456 2461	masse
+T10	topographie 2462 2478	rétropéritonéale
+T11	morphologie 2497 2521	lymphome plasmablastique
+T12	morphologie 2541 2547	lésion
+T13	topographie 2548 2556	frontale
+T14	morphologie 2694 2712	astrocytome diffus
+T15	morphologie 3093 3101	lymphome
+T16	morphologie 3215 3222	lésions
+T17	topographie 3223 3233	cérébrales
+T18	morphologie 3548 3572	néoplasme glial primaire
+T19	morphologie 3579 3587	lymphome
+T20	morphologie 3777 3783	lésion
+T21	topographie 3784 3792	frontale
+T22	morphologie 3930 3948	néoplasme primaire
+T23	topographie 3952 3955	SNC
+T24	morphologie 3960 3968	lymphome
+T25	morphologie 3976 3992	lésion d'origine
+T26	morphologie 4401 4407	lésion
+T27	morphologie 4466 4472	tumeur
+T28	topographie 4473 4482	cérébrale
+T29	morphologie 4483 4491	primaire
+T30	morphologie 4554 4565	astrocytome
+T31	morphologie 4569 4575	gliome
+T32	differenciation 4576 4589	de haut grade
+T33	morphologie 4696 4702	lésion

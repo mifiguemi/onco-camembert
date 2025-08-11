@@ -1,0 +1,27 @@
+T1	morphologie 117 131	adénocarcinome
+T2	topographie 138 146	prostate
+T3	stade 150 158	stade IV
+T4	differenciation 178 196	de Gleason 7 (3+4)
+T5	morphologie 662 673	adénopathie
+T6	topographie 674 683	cervicale
+T7	topographie 685 701	sus-claviculaire
+T8	topographie 705 714	axillaire
+T9	morphologie 853 859	masses
+T10	morphologie 890 906	lymphadénopathie
+T11	topographie 907 916	inguinale
+T12	morphologie 1525 1535	Métastases
+T13	topographie 1536 1544	osseuses
+T14	morphologie 1793 1804	Adénopathie
+T15	topographie 1814 1830	chaînes iliaques
+T16	morphologie 1832 1842	Métastases
+T17	topographie 1843 1853	hépatiques
+T18	topographie 1857 1865	osseuses
+T19	morphologie 2055 2069	adénocarcinome
+T20	topographie 2070 2081	prostatique
+T21	differenciation 2082 2127	de grade histologique combiné Gleason 7 (3+4)
+T24	morphologie 2141 2155	ADÉNOCARCINOME
+T25	topographie 2162 2170	PROSTATE
+T26	differenciation 2171 2216	DE GRADE HISTOLOGIQUE COMBINÉ GLEASON 7 (3+4)
+T27	topographie 1563 1569	bassin
+T28	topographie 1576 1587	corps de L4
+T22	stade 2217 2225	STADE IV

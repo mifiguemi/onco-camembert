@@ -1,0 +1,31 @@
+T1	morphologie 90 96	tumeur
+T2	morphologie 261 290	sarcome à cellules fusiformes
+T3	morphologie 310 324	léiomyosarcome
+T4	expression_CIM 513 530	nodule pulmonaire
+T5	morphologie 1045 1055	Métastases
+T7	morphologie 2149 2155	tumeur
+T9	morphologie 2309 2338	sarcome à cellules fusiformes
+T10	topographie 100 109	testicule
+T11	expression_CIM 90 109	tumeur du testicule
+T12	morphologie 187 194	nodules
+T13	topographie 225 243	cordon spermatique
+T14	expression_CIM 187 243	nodules de 2,1 et 1,4 cm au niveau du cordon spermatique
+T15	expression_CIM 261 290	sarcome à cellules fusiformes
+T16	expression_CIM 310 324	léiomyosarcome
+T17	morphologie 513 519	nodule
+T18	topographie 520 530	pulmonaire
+T19	morphologie 776 783	nodules
+T20	topographie 784 791	apicaux
+T21	expression_CIM 776 866	nodules apicaux droits, les deux plus grands que 1,5 cm, ainsi qu'un autre dans la lingula
+T22	morphologie 893 900	nodules
+T23	topographie 925 938	champs basaux
+T24	expression_CIM 893 938	nodules millimétriques dans les champs basaux
+T25	topographie 859 866	lingula
+T26	topographie 1056 1067	pulmonaires
+T27	expression_CIM 1045 1067	Métastases pulmonaires
+T28	morphologie 1073 1087	léiomyosarcome
+T29	topographie 1091 1109	cordon spermatique
+T30	expression_CIM 1073 1109	léiomyosarcome du cordon spermatique
+T6	topographie 2188 2198	hémilengue
+T31	expression_CIM 2149 2198	tumeur nécrotique et hémorragique de l'hémilengue
+T8	expression_CIM 2309 2338	sarcome à cellules fusiformes

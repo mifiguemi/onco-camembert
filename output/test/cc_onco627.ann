@@ -1,0 +1,50 @@
+T1	morphologie 602 608	tumeur
+T2	topographie 619 630	cervical IV
+T3	morphologie 1340 1351	Adénopathie
+T4	topographie 1352 1367	latérocervicale
+T5	morphologie 1397 1416	Masse adénopathique
+T6	topographie 1417 1426	cervicale
+T7	morphologie 1460 1471	Adénopathie
+T8	topographie 1483 1493	niveau IIA
+T9	morphologie 1618 1624	tumeur
+T10	topographie 1625 1633	laryngée
+T11	morphologie 1901 1907	tumeur
+T12	topographie 1926 1938	corde vocale
+T13	morphologie 2037 2048	adénopathie
+T14	morphologie 2136 2147	adénopathie
+T15	topographie 2166 2169	IIA
+T16	morphologie 2193 2204	adénopathie
+T17	morphologie 2255 2276	carcinome épidermoïde
+T18	morphologie 2315 2321	tumeur
+T19	topographie 2322 2350	intralaryngée transglottique
+T20	morphologie 2360 2376	lymphadénopathie
+T21	topographie 2377 2386	cervicale
+T22	morphologie 2494 2511	implants tumoraux
+T23	topographie 2512 2523	péritonéaux
+T24	morphologie 2780 2787	implant
+T25	morphologie 2803 2813	métastases
+T26	topographie 2814 2822	osseuses
+T27	morphologie 2864 2881	atteinte tumorale
+T28	topographie 2885 2917	muscle quadratus femoris fémoral
+T29	morphologie 3089 3110	carcinome épidermoïde
+T30	topographie 3114 3120	larynx
+T31	stade 3124 3133	stade IVc
+T32	stade 3134 3139	debut
+T33	morphologie 3193 3203	métastases
+T34	topographie 3204 3212	osseuses
+T35	morphologie 3216 3224	implants
+T36	topographie 3225 3236	péritonéaux
+T37	morphologie 4246 4257	adénopathie
+T38	morphologie 4772 4788	tumeur primitive
+T39	morphologie 4821 4833	adénopathies
+T40	topographie 4834 4850	latérocervicales
+T41	morphologie 5357 5363	tumeur
+T42	topographie 5364 5372	laryngée
+T43	morphologie 5673 5708	progression au niveau adénopathique
+T44	morphologie 6029 6035	tumeur
+T45	morphologie 6041 6051	métastases
+T46	topographie 6052 6060	osseuses
+T47	morphologie 6547 6569	lésions adénopathiques
+T48	morphologie 6599 6611	adénopathies
+T49	morphologie 6689 6695	tumeur
+T50	morphologie 8185 8205	lésion adénopathique
