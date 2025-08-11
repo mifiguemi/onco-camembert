@@ -167,21 +167,3 @@ def dataset_generator(data_files):
     dataset = dataset.cast(features)
     return dataset 
 
-
-# if __name__ == "__main__":
-#    dataset_generator()
-
-# list = dataset["train"].features[f"tags"].feature.names
-# print(list)
-# print(dataset["train"].features)
-
-# label_names = features['tags'].feature.names
-# print(label_names)
-
-# print(dataset['train'].features)
-
-# list = dataset["train"].features[f"tags"].feature.names
-# print(list)
-
-# for i in range(10):
-   # print(dataset["train"][i]) 
