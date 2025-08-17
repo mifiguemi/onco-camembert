@@ -1,5 +1,3 @@
-# inference.py
-
 import os
 import glob
 import shutil
@@ -7,7 +5,7 @@ import torch
 from tqdm import tqdm
 import spacy
 from transformers import AutoTokenizer, AutoModelForTokenClassification
-from src.brat_utils import tokens_tags_to_spans
+from src.utils import tokens_tags_to_spans
 
 MODEL_PATH       = "models/model1_0"
 INPUT_BRAT_DIR   = "data/brat_format_inference"

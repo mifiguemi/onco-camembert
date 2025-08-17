@@ -1,15 +1,21 @@
+from __future__ import annotations
 from datasets import load_dataset, ClassLabel, Features, Sequence, Value
 import ast 
 import os
 import glob
+from transformers import AutoModelForTokenClassification
+import pathlib
 import spacy
+import evaluate
 import pandas as pd
 from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 import shutil
 from itertools import zip_longest
 
+
 nlp = spacy.load("fr_core_news_sm")
+seqeval = evaluate.load("seqeval")
 
 def parse_ann(path):
     anns = []
@@ -151,11 +157,15 @@ def convert_string_to_list(row):
     row["tags"] = ast.literal_eval(row["tags"])    
     return row
 
+
 def convert_tag_to_id(row, label_list):
     row["tags"] = [label_list.index(tag) for tag in row["tags"]]
     return row
 
+
 def dataset_generator(data_files):
+    if isinstance(data_files, pathlib.PurePath) : 
+        data_files = str(data_files)
     dataset = load_dataset("csv", data_files=data_files)
     label_list = ["O", "B-morphologie", "I-morphologie", "B-topographie", "I-topographie", "B-differenciation", "I-differenciation", "B-stade", "I-stade"]
     dataset = dataset.map(convert_string_to_list)
@@ -165,5 +175,91 @@ def dataset_generator(data_files):
         "tags": Sequence(ClassLabel(num_classes=9, names=label_list))
         })
     dataset = dataset.cast(features)
-    return dataset 
+    return dataset
 
+
+def get_tokenize_and_align_labels_fn(tokenizer, label2id=None, label_all_tokens=False):
+    """
+    Returns a tokenization function for token classification that handles both
+    string and integer labels.
+
+    Args:
+        tokenizer: Hugging Face tokenizer
+        label2id: optional dict mapping string tags to integer IDs
+        label_all_tokens: if True, label all subtokens; else only the first subtoken
+    Returns:
+        Function that takes a batch of examples and returns tokenized inputs with aligned labels
+    """
+    def tokenize_and_align_labels(examples):
+        tokenized_inputs = tokenizer(
+            examples["words"], truncation=True, is_split_into_words=True
+        )
+        labels = []
+        for i, word_labels in enumerate(examples["tags"]):
+            word_ids = tokenized_inputs.word_ids(batch_index=i)
+            previous_word_idx = None
+            label_ids = []
+            for word_idx in word_ids:
+                if word_idx is None:
+                    label_ids.append(-100)
+                else:
+                    label_val = word_labels[word_idx]
+
+                    # Convert string labels to IDs if mapping is provided
+                    if isinstance(label_val, str) and label2id:
+                        label_val = label2id[label_val]
+
+                    # Decide whether to label this subtoken
+                    if word_idx != previous_word_idx:
+                        label_ids.append(label_val)
+                    else:
+                        label_ids.append(label_val if label_all_tokens else -100)
+
+                    previous_word_idx = word_idx
+            labels.append(label_ids)
+        tokenized_inputs["labels"] = labels
+        return tokenized_inputs
+
+    return tokenize_and_align_labels
+
+
+def build_token_cls(model_name: str, num_labels: int, id2label: dict, label2id: dict):
+    return AutoModelForTokenClassification.from_pretrained(
+        model_name, num_labels=num_labels, id2label=id2label, label2id=label2id
+    )
+
+
+def hp_space(trial):
+    # define distributions to sample per trial
+    return {
+        "learning_rate": trial.suggest_float("learning_rate", 1e-5, 5e-4, log=True),
+        "num_train_epochs": trial.suggest_int("num_train_epochs", 3, 8),
+        "weight_decay": trial.suggest_float("weight_decay", 0.0, 0.1),
+        "per_device_train_batch_size": trial.suggest_categorical("per_device_train_batch_size", [8, 16]),
+        "warmup_ratio": trial.suggest_float("warmup_ratio", 0.0, 0.2),
+    }
+
+def compute_objective(metrics):
+    # trainer.evaluate() returns keys like "eval_f1"
+    return metrics["eval_f1"]
+
+def compute_metrics(p, label_list):
+    predictions, labels = p
+    predictions = np.argmax(predictions, axis=2)
+
+    true_predictions = [
+        [label_list[p] for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(predictions, labels)
+    ]
+    true_labels = [
+        [label_list[l] for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(predictions, labels)
+    ]
+
+    results = seqeval.compute(predictions=true_predictions, references=true_labels)
+    return {
+        "precision": results["overall_precision"],
+        "recall": results["overall_recall"],
+        "f1": results["overall_f1"],
+        "accuracy": results["overall_accuracy"],
+    }

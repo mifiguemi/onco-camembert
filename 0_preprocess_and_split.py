@@ -1,6 +1,4 @@
-# preprocess_and_split.py
-
-from src.brat_utils import load_ner_dataframe, split_and_save
+from utils import load_ner_dataframe, split_and_save
 
 INPUT_DIR  = "data/brat_format"
 OUTPUT_DIR = "data/csv_format"
