@@ -5,9 +5,56 @@ import torch
 from tqdm import tqdm
 import spacy
 from transformers import AutoTokenizer, AutoModelForTokenClassification
-from src.utils import tokens_tags_to_spans
+from utils import tokens_tags_to_spans
+import argparse
+from pathlib import Path
 
-MODEL_PATH       = "models/model1_0"
+parser = argparse.ArgumentParser(description="Run inference with a selected model.")
+parser.add_argument(
+    "--dir_model_name",
+    type=str,
+    choices=[
+        "camembert-bio",
+        "camembert-base",
+        "flaubert-base",
+        "bert-base-multilingual",
+        "fr-albert"
+    ],
+    help="Choose a model name from the available options."
+)
+args = parser.parse_args()
+
+# If not provided, prompt interactively
+if args.dir_model_name is None:
+    print("Please choose a model:")
+    options = [
+        "camembert-bio",
+        "camembert-base",
+        "flaubert-base",
+        "bert-base-multilingual",
+        "fr-albert"
+    ]
+    for i, opt in enumerate(options, 1):
+        print(f"{i}. {opt}")
+    choice = input("Enter the number corresponding to your choice [default=camembert-bio]: ")
+    try:
+        if choice.strip() == "":
+            dir_model_name = "camembert-bio"  # default
+        else:
+            idx = int(choice) - 1
+            if 0 <= idx < len(options):
+                dir_model_name = options[idx]
+            else:
+                raise ValueError
+    except ValueError:
+        raise SystemExit("Invalid choice. Exiting.")
+else:
+    dir_model_name = args.dir_model_name
+
+print(f"Using model: {dir_model_name}")
+
+PROJECT_ROOT = Path.cwd()
+MODEL_PATH = PROJECT_ROOT / "models" / dir_model_name
 INPUT_BRAT_DIR   = "data/brat_format_inference"
 OUTPUT_DIR       = "output/test"
 

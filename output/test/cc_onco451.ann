@@ -8,40 +8,40 @@ T7	topographie 822 840	supraclaviculaires
 T8	morphologie 882 889	nodules
 T9	topographie 890 901	pulmonaires
 T10	topographie 956 959	LSD
-T11	morphologie 1457 1473	lymphadénopathie
-T12	topographie 1474 1483	axillaire
-T13	morphologie 1667 1678	adénopathie
-T14	morphologie 1724 1758	carcinome infiltrant de Nottingham
-T15	differenciation 1759 1769	de grade 2
-T16	morphologie 1823 1855	carcinome in situ de type solide
-T17	differenciation 1857 1879	de grade intermédiaire
-T18	morphologie 1944 1953	carcinome
-T19	morphologie 2263 2285	captation pathologique
-T20	topographie 2286 2294	mammaire
-T21	morphologie 2307 2324	lymphadénopathies
-T22	topographie 2325 2342	sus-claviculaires
-T23	topographie 2344 2354	axillaires
-T24	topographie 2368 2376	hilaires
-T25	topographie 2378 2391	médiastinales
-T26	topographie 2395 2413	mammaires internes
-T27	morphologie 2414 2425	évocatrices
-T28	morphologie 2607 2624	lymphadénopathies
-T29	topographie 2625 2642	rétropéritonéales
-T30	morphologie 2659 2669	métastases
-T31	topographie 2670 2678	osseuses
-T32	morphologie 2737 2772	atteinte des ganglions lymphatiques
-T33	topographie 2773 2785	médiastinaux
-T34	morphologie 2795 2804	carcinome
-T35	morphologie 2825 2835	métastases
-T36	topographie 2838 2854	origine mammaire
-T37	morphologie 2868 2877	Carcinome
-T38	topographie 2878 2886	mammaire
-T39	morphologie 2887 2897	infiltrant
-T40	stade 2916 2924	stade IV
-T41	morphologie 2971 2980	carcinome
-T42	topographie 2981 2989	mammaire
-T43	morphologie 2990 3000	infiltrant
-T44	morphologie 3001 3023	de type non spécifique
+T11	topographie 1051 1054	LID
+T12	morphologie 1457 1473	lymphadénopathie
+T13	topographie 1474 1483	axillaire
+T14	morphologie 1667 1678	adénopathie
+T15	morphologie 1724 1758	carcinome infiltrant de Nottingham
+T16	differenciation 1759 1769	de grade 2
+T17	morphologie 1823 1855	carcinome in situ de type solide
+T18	differenciation 1857 1879	de grade intermédiaire
+T19	morphologie 1944 1953	carcinome
+T20	morphologie 2263 2285	captation pathologique
+T21	topographie 2286 2294	mammaire
+T22	morphologie 2307 2324	lymphadénopathies
+T23	topographie 2325 2342	sus-claviculaires
+T24	topographie 2344 2354	axillaires
+T25	topographie 2368 2376	hilaires
+T26	topographie 2378 2391	médiastinales
+T27	topographie 2395 2413	mammaires internes
+T28	morphologie 2414 2438	évocatrices de malignité
+T29	morphologie 2607 2624	lymphadénopathies
+T30	topographie 2625 2642	rétropéritonéales
+T31	morphologie 2659 2669	métastases
+T32	topographie 2670 2678	osseuses
+T33	morphologie 2737 2772	atteinte des ganglions lymphatiques
+T34	topographie 2773 2785	médiastinaux
+T35	morphologie 2795 2804	carcinome
+T36	morphologie 2825 2835	métastases
+T37	topographie 2838 2854	origine mammaire
+T38	morphologie 2868 2877	Carcinome
+T39	topographie 2878 2886	mammaire
+T40	morphologie 2887 2897	infiltrant
+T41	stade 2916 2924	stade IV
+T42	morphologie 2971 2980	carcinome
+T43	topographie 2981 2989	mammaire
+T44	morphologie 2990 3000	infiltrant
 T45	stade 3027 3035	stade IV
 T46	morphologie 3548 3557	carcinome
 T47	morphologie 3578 3587	métastase

@@ -1,0 +1,25 @@
+T1	morphologie 192 206	adénocarcinome
+T2	topographie 207 216	gastrique
+T3	morphologie 739 744	masse
+T4	topographie 745 751	rénale
+T5	morphologie 902 908	tumeur
+T6	topographie 942 946	rein
+T7	morphologie 1033 1049	lymphadénopathie
+T8	topographie 1071 1093	hile rénal ipsilatéral
+T9	morphologie 1283 1310	angiomyolipome épithélioïde
+T10	topographie 1311 1316	rénal
+T11	morphologie 1318 1320	ER
+T12	morphologie 1324 1327	AML
+T13	stade 1330 1339	Stade III
+T14	stade 1341 1353	pT2a pN1 cM0
+T15	morphologie 1394 1400	tumeur
+T16	topographie 1401 1407	rénale
+T17	morphologie 1579 1589	métastases
+T18	topographie 1590 1604	ganglionnaires
+T19	topographie 1605 1622	rétropéritonéales
+T20	morphologie 1834 1854	maladie métastatique
+T21	morphologie 2592 2603	progression
+T22	topographie 2641 2653	rétrocruraux
+T23	topographie 2655 2671	rétropéritonéaux
+T24	topographie 2681 2704	fosse supraclaviculaire
+T25	morphologie 2721 2748	conglomérats adénopathiques

@@ -15,12 +15,11 @@ T14	topographie 1843 1852	pleurales
 T15	morphologie 3187 3212	progression de la maladie
 T16	topographie 3227 3229	os
 T17	topographie 3236 3240	foie
-T18	morphologie 4100 4111	progression
-T19	topographie 4140 4148	pleurale
-T20	topographie 4150 4159	hépatique
-T21	topographie 4161 4174	ganglionnaire
-T22	topographie 4178 4185	osseuse
-T23	morphologie 4705 4712	lésions
-T24	topographie 4713 4723	hépatiques
-T25	topographie 4727 4735	osseuses
-T26	morphologie 4753 4787	lésions des ganglions lymphatiques
+T18	topographie 4140 4148	pleurale
+T19	topographie 4150 4159	hépatique
+T20	topographie 4161 4174	ganglionnaire
+T21	topographie 4178 4185	osseuse
+T22	morphologie 4705 4712	lésions
+T23	topographie 4713 4723	hépatiques
+T24	topographie 4727 4735	osseuses
+T25	morphologie 4753 4787	lésions des ganglions lymphatiques
