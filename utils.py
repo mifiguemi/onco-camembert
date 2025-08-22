@@ -238,10 +238,12 @@ def hp_space(trial):
         "num_train_epochs": trial.suggest_int("num_train_epochs", 3, 7),
         "weight_decay": trial.suggest_float("weight_decay", 0.0, 0.1),
         # fixed small per-device batch to avoid OOM during search
-        "per_device_train_batch_size": 4,               # or 8 if you know it fits
+        # "per_device_train_batch_size": 4,               # or 8 if you know it fits
         # keep compute comparable across trials by holding effective batch ~8
-        "gradient_accumulation_steps": 2,               # 4×2 ≈ 8 effective
+        # "gradient_accumulation_steps": 2,               # 4×2 ≈ 8 effective
         "warmup_ratio": trial.suggest_float("warmup_ratio", 0.0, 0.2),
+        "per_device_train_batch_size": trial.suggest_categorical("per_device_train_batch_size", [4, 8]),
+        "gradient_accumulation_steps": trial.suggest_categorical("gradient_accumulation_steps", [1, 2]),
     }
 
 # def compute_objective(metrics):

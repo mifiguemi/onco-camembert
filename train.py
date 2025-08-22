@@ -12,25 +12,23 @@ from utils import (dataset_generator, get_tokenize_and_align_labels_fn,
 from argparse import Namespace
 from IPython.display import display
 import evaluate
+import json
 import numpy as np 
 from datetime import datetime
 
 
-
-# Path setup 
 PROJECT_ROOT = Path.cwd()
 if not (PROJECT_ROOT / "data").exists():
     PROJECT_ROOT = PROJECT_ROOT.parent
 TRAIN_CSV_FILE = PROJECT_ROOT / "data/csv_format/ner_sentences_train.csv"
 TEST_CSV_FILE  = PROJECT_ROOT / "data/csv_format/ner_sentences_test.csv"
 
-# Load datasets from CSV
 train_dataset = dataset_generator(TRAIN_CSV_FILE)
 test_dataset = dataset_generator(TEST_CSV_FILE)
 
 # Get label list and mapping to ID
 label_list = train_dataset["train"].features[f"tags"].feature.names
-print("Labels: ", label_list)
+# print("Labels: ", label_list)
 label2id = {label: id for id, label in enumerate(label_list)}
 id2label = {id: label for label, id in label2id.items()}
 
@@ -85,7 +83,7 @@ model_args = Namespace(**model_args_dict)
 
 # Load tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(model_args.model_name, use_fast=True)
-model = AutoModelForTokenClassification.from_pretrained(model_args.model_name, num_labels=9, id2label=id2label, label2id=label2id)
+model = AutoModelForTokenClassification.from_pretrained(model_args.model_name, num_labels=len(label_list), id2label=id2label, label2id=label2id)
 data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer) 
 
 
@@ -135,7 +133,7 @@ hpo_args = TrainingArguments(
     save_strategy="best",
     load_best_model_at_end=True,
     logging_strategy="epoch",
-    report_to="none"
+    report_to="none",
     metric_for_best_model=model_args.metric_for_best_model,
     greater_is_better=model_args.greater_is_better,
     seed=42, data_seed=42,   # fix seed during HPO; vary seeds later
@@ -156,15 +154,23 @@ best_run = hpo_trainer.hyperparameter_search(
     hp_space=hp_space,
     compute_objective=partial(compute_objective, label_list=label_list),
     n_trials=20,
-    backend="optuna"
+    backend="optuna",
+    # persist:
+    study_name=f"{dir_model_name}_hpo",
+    storage=f"sqlite:///{OUTPUT_DIR_HPO}/optuna.db",
+    load_if_exists=True,
 )
 print("Best hyperparameters:", best_run.hyperparameters)
+
+with open(OUTPUT_DIR_HPO / "best_hparams.json", "w") as f:
+    json.dump(best_run.hyperparameters, f, indent=2)
+
 
 
 # Run five random initializations and log results to TB
 seeds = [11, 22, 33, 44, 55] # should i make this random?
 
-results = []
+val_results, test_results = [], []
 for s in seeds:
     best_args = TrainingArguments(
         output_dir=os.fspath(OUTPUT_DIR_FINAL / f"s{s}"),
@@ -197,18 +203,34 @@ for s in seeds:
         eval_dataset=split_train_dataset["test"],
         tokenizer=tokenizer,
         data_collator=data_collator,
-         compute_metrics=partial(compute_metrics, label_list=label_list),   # returns "f1", etc.
+        compute_metrics=partial(compute_metrics, label_list=label_list),   # returns "f1", etc.
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=2, early_stopping_threshold=1e-4)]
     )
 
     final_trainer.train()
-    metrics = final_trainer.evaluate()
-    metrics["seed"] = s
-    results.append(metrics)
+
+    # metrics on validation split per seed 
+    val_metrics = final_trainer.evaluate() # metrics on validation split per seed 
+    val_metrics["seed"] = s
+    val_results.append(val_metrics)
+
+    # metrics on test set per seed 
+    test_metrics = final_trainer.evaluate(eval_dataset=tokenized_test_dataset["train"])
+    test_metrics["seed"] = s
+    test_results.append(test_metrics)
+
+    # Save the final model
+    seed_dir = MODEL_SAVE_PATH / f"seed_{s}"
+    seed_dir.mkdir(parents=True, exist_ok=True)
+    final_trainer.save_model(seed_dir)  # saves model + config + tokenizer
+
+    # Save run metadata alongside weights:
+    with open(seed_dir / "metrics_val.json", "w") as f:
+        json.dump(val_metrics, f, indent=2)
+    with open(seed_dir / "metrics_test.json", "w") as f:
+        json.dump(test_metrics, f, indent=2)
+    with open(seed_dir / "training_args.json", "w") as f:
+        f.write(final_trainer.args.to_json_string())
 
 
-# Get metrics
-metrics = final_trainer.evaluate(eval_dataset=tokenized_test_dataset["train"])
-print(metrics)
 
-# Save the final model
-final_trainer.save_model(MODEL_SAVE_PATH)
