@@ -1,0 +1,56 @@
+T1	morphologie 969 974	masse
+T2	expression_CIM 969 982	masse hilaire
+T3	topographie 975 982	hilaire
+T4	morphologie 1056 1081	conglomérat adénopathique
+T5	expression_CIM 1056 1089	conglomérat adénopathique hilaire
+T6	topographie 1082 1089	hilaire
+T7	morphologie 1246 1258	néoformation
+T8	expression_CIM 1246 1269	néoformation pulmonaire
+T9	topographie 1259 1269	pulmonaire
+T10	morphologie 1294 1301	lésions
+T11	expression_CIM 1294 1381	lésions hétérogènes hypodenses ont été observées dans le foie et des glandes surrénales
+T12	topographie 1351 1355	foie
+T13	topographie 1363 1381	glandes surrénales
+T14	morphologie 1510 1519;1529 1542	atteintes métastatiques
+T15	expression_CIM 1510 1542	atteintes osseuses métastatiques
+T16	topographie 1520 1528	osseuses
+T17	expression_CIM 1598 1626	carcinome à petites cellules
+T18	morphologie 1598 1626	carcinome à petites cellules
+T19	morphologie 1684 1706	carcinome microcytaire
+T20	expression_CIM 1684 1716	carcinome microcytaire du poumon
+T21	topographie 1710 1716	poumon
+T22	morphologie 1726 1741	maladie étendue
+T23	expression_CIM 1726 1751	maladie étendue (foie, os
+T24	topographie 1743 1747	foie
+T25	topographie 1749 1751	os
+T26	morphologie 2861 2867;2878 2890	cancer microcytaire
+T27	expression_CIM 2861 2890	cancer du poumon microcytaire
+T28	topographie 2871 2877	poumon
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.1 8000/1
+#3	ICD-O T3	C76.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.1 8000/1
+#6	ICD-O T6	C76.1
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C34.9 8000/3
+#9	ICD-O T9	C34.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C22.0 8000/1;C74.9 8000/1
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	C74.9
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	C41.9 8000/6
+#16	ICD-O T16	C41.9
+#17	ICD-O T17	8041/3
+#18	ICD-O T18	8041/3
+#19	ICD-O T19	8041/3
+#20	ICD-O T20	C34.9 8041/3
+#21	ICD-O T21	C34.9
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C22.0 8000/6;C41.9 8000/6
+#24	ICD-O T24	C22.0
+#25	ICD-O T25	C41.9
+#26	ICD-O T26	8002/3
+#27	ICD-O T27	C34.9 8002/3
+#28	ICD-O T28	C34.9

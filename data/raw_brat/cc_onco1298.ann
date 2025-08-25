@@ -1,0 +1,52 @@
+T1	morphologie 186 196	schwannome
+T2	expression_CIM 186 214	schwannome du nerf sciatique
+T3	topographie 200 214	nerf sciatique
+T4	morphologie 268 277	carcinome
+T5	expression_CIM 268 292	carcinome endométrial G3
+T6	topographie 278 289	endométrial
+T7	differenciation 290 292	G3
+T8	morphologie 708 713	masse
+T9	expression_CIM 708 747	masse de 45 mm dans la tête du pancréas
+T10	topographie 731 747	tête du pancréas
+T11	expression_CIM 937 954	cellules malignes
+T12	morphologie 937 954	cellules malignes
+T13	morphologie 1042 1047	masse
+T14	expression_CIM 1042 1060	masse pancréatique
+T15	topographie 1048 1060	pancréatique
+T16	expression_CIM 1119 1133	adénocarcinome
+T17	morphologie 1119 1133	adénocarcinome
+T18	morphologie 1681 1695	Adénocarcinome
+T19	expression_CIM 1681 1708	Adénocarcinome pancréatique
+T20	topographie 1696 1708	pancréatique
+T21	morphologie 1746 1754	atteinte
+T22	expression_CIM 1746 1765	atteinte vasculaire
+T23	topographie 1755 1765	vasculaire
+T24	morphologie 1782 1791	Carcinome
+T25	expression_CIM 1782 1806	Carcinome de l'endomètre
+T26	topographie 1797 1806	endomètre
+#1	ICD-O T1	9560/0
+#2	ICD-O T2	C47.2 9560/0
+#3	ICD-O T3	C47.2
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C54.1 8010/33
+#6	ICD-O T6	C54.1
+#7	ICD-O T7	3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C25.9 8000/1
+#10	ICD-O T10	C25.0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C25.9 8000/1
+#15	ICD-O T15	C25.9
+#16	ICD-O T16	8140/3
+#17	ICD-O T17	8140/3
+#18	ICD-O T18	8140/3
+#19	ICD-O T19	C25.9 8140/3
+#20	ICD-O T20	C25.9
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C49.9 8000/1
+#23	ICD-O T23	C49.9
+#24	ICD-O T24	8010/3
+#25	ICD-O T25	C54.1 8010/3
+#26	ICD-O T26	C54.1

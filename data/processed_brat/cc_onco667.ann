@@ -1,0 +1,40 @@
+T1	morphologie 307 316	néoplasie
+T3	topographie 320 325	côlon
+T5	morphologie 364 372	leucémie
+T6	morphologie 559 565	tumeur
+T8	topographie 572 582	avant-bras
+T9	morphologie 1280 1286	tumeur
+T11	topographie 1367 1377	avant-bras
+T12	topographie 1393 1399	cuisse
+T13	morphologie 1697 1707	métastases
+T15	topographie 1708 1717	pleurales
+T16	topographie 1719 1727	osseuses
+T17	topographie 1729 1740	musculaires
+T18	topographie 1752 1762	cérébrales
+T19	topographie 1766 1777	pulmonaires
+T20	morphologie 1806 1815	néoplasie
+T56	morphologie 1827 1835	primaire
+T22	topographie 1816 1826	pulmonaire
+T24	morphologie 2188 2202	adénocarcinome
+T26	morphologie 2288 2315	adénocarcinome métastatique
+T27	morphologie 2651 2659	primitif
+T29	topographie 2660 2670	pulmonaire
+T30	morphologie 2738 2741	ADK
+T32	topographie 2752 2770	gastro-intestinale
+T33	morphologie 3139 3153	adénocarcinome
+T35	topographie 3156 3172	origine inconnue
+T36	morphologie 3191 3201	métastases
+T38	topographie 3204 3213	pleurales
+T39	topographie 3215 3223	osseuses
+T40	topographie 3225 3236	musculaires
+T41	topographie 3238 3248	cérébrales
+T42	topographie 3267 3278	pulmonaires
+T44	morphologie 3953 3978	progression de la maladie
+T45	morphologie 4508 4516	atteinte
+T47	topographie 4517 4524	osseuse
+T48	topographie 4531 4537	hanche
+T49	morphologie 4552 4560	atteinte
+T51	topographie 4561 4571	musculaire
+T52	topographie 4581 4599	membres inférieurs
+T53	morphologie 5245 5266	infiltration tumorale
+T55	topographie 5273 5287	moelle osseuse

@@ -1,0 +1,41 @@
+T49	morphologie 3500 3505	CRPSD
+T48	morphologie 3104 3109	DCRCT
+T27	morphologie 2064 2088	foyers ostéosclérotiques
+T51	topographie 3506 3521	intra-abdominal
+T2	morphologie 954 960	masses
+T4	morphologie 983 994	adénopathie
+T6	morphologie 1498 1516	cellules tumorales
+T7	morphologie 1697 1709	adénopathies
+T9	topographie 1710 1720	axillaires
+T10	topographie 1722 1735	médiastinales
+T11	topographie 1737 1757	hilaires pulmonaires
+T12	topographie 1759 1776	intra-abdominales
+T13	morphologie 1786 1811	conglomérat adénopathique
+T15	topographie 1812 1831	cœliaque-périportal
+T16	topographie 1842 1852	gastriques
+T17	topographie 1854 1864	spléniques
+T18	morphologie 1871 1896	conglomérat adénopathique
+T20	topographie 1903 1907	rate
+T22	topographie 1931 1941	spléniques
+T23	topographie 1943 1960	rétropéritonéales
+T24	topographie 1964 1977	mésentériques
+T26	morphologie 2021 2048	syndrome lymphoprolifératif
+T29	topographie 2098 2127	vertèbres dorsales D1-D11-D12
+T30	topographie 2132 2149	manubrium sternal
+T31	topographie 2163 2169	costal
+T33	morphologie 2392 2398	lésion
+T34	morphologie 2447 2456	néoplasie
+T36	topographie 2483 2498	corps gastrique
+T37	morphologie 2657 2665	implants
+T39	topographie 2666 2677	péritonéaux
+T40	morphologie 2979 2991	infiltration
+T42	topographie 2996 3018	ganglions lymphatiques
+T44	morphologie 3026 3041	néoplasme malin
+T46	morphologie 3055 3102	tumeur desmoplastique à petites cellules rondes
+T53	morphologie 3525 3533	stade IV
+T54	morphologie 3550 3558	atteinte
+T56	topographie 3559 3567	pleurale
+T57	topographie 3569 3586	polyadénopathique
+T58	topographie 3588 3599	péritonéale
+T59	topographie 3603 3610	osseuse
+T21	topographie 1913 1929	zones gastriques

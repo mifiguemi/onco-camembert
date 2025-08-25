@@ -1,0 +1,33 @@
+T1	morphologie 271 279;287 292	mélanome malin
+T2	expression_CIM 271 320	mélanome cutané malin du troisième orteil du pied
+T3	topographie 280 286	cutané
+T5	expression_CIM 461 467	cancer
+T6	morphologie 461 467	cancer
+T7	morphologie 698 709	progression
+T8	expression_CIM 698 720	progression pulmonaire
+T9	topographie 710 720	pulmonaire
+T10	expression_CIM 829 838	métastase
+T11	morphologie 829 838	métastase
+T12	morphologie 1108 1119	progression
+T13	expression_CIM 1108 1130	progression pulmonaire
+T14	topographie 1120 1130	pulmonaire
+T15	morphologie 1183 1190	nodules
+T16	expression_CIM 1183 1212	nodules dans les deux poumons
+T17	topographie 1205 1212	poumons
+T4	topographie 296 320	troisième orteil du pied
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C44.9 8720/3;C76.5 8720/3
+#3	ICD-O T3	C44.9
+#4	ICD-O T5	8000/3
+#5	ICD-O T6	8000/3
+#6	ICD-O T7	8000/6
+#7	ICD-O T8	C34.9 8000/6
+#8	ICD-O T9	C34.9
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	C34.9 8000/6
+#13	ICD-O T14	C34.9
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C34.9 8000/1
+#16	ICD-O T17	C34.9

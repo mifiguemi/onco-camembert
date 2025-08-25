@@ -1,0 +1,45 @@
+T1	morphologie 682 691	néoplasie
+T3	topographie 692 704	testiculaire
+T4	morphologie 815 837	tumeur germinale mixte
+T6	topographie 846 855	testicule
+T8	morphologie 901 916	tératome mature
+T9	morphologie 928 936	invasion
+T11	topographie 937 947	vasculaire
+T12	topographie 951 962	lymphatique
+T13	morphologie 967 979	infiltration
+T15	topographie 985 994	épididyme
+T16	topographie 1002 1018	tunique vaginale
+T17	topographie 1025 1043	cordon spermatique
+T18	morphologie 1225 1245	maladie métastatique
+T20	topographie 1246 1262	rétropéritonéale
+T21	morphologie 1435 1441	tumeur
+T23	topographie 1442 1452	abdominale
+T24	morphologie 1911 1916	masse
+T26	topographie 1917 1927	abdominale
+T27	morphologie 2209 2214	masse
+T29	topographie 2215 2225	abdominale
+T30	morphologie 2362 2374	adénopathies
+T32	topographie 2375 2392	latéro-cervicales
+T33	topographie 2426 2443	sus-claviculaires
+T34	morphologie 2452 2463	adénopathie
+T36	topographie 2464 2481	hiliomédiastinale
+T37	morphologie 2501 2506	Masse
+T39	topographie 2517 2531	paravertébrale
+T40	topographie 2549 2552	D10
+T42	morphologie 2645 2657	adénopathies
+T43	morphologie 2668 2705	masses de conglomérats adénopathiques
+T45	topographie 2745 2762	rétropéritonéales
+T46	topographie 2764 2778	para-aortiques
+T47	topographie 2782 2790	iliaques
+T48	morphologie 3252 3268	lésion nodulaire
+T50	topographie 3316 3337	parenchyme pulmonaire
+T52	morphologie 3559 3567	tératome
+T54	morphologie 3576 3591	tumeur primaire
+T56	morphologie 3610 3618	tératome
+T57	morphologie 3864 3871	lésions
+T59	topographie 3897 3911	rétropéritoine
+T61	morphologie 4775 4784	métastase
+T63	morphologie 4788 4811	tératome postpubertaire
+T65	morphologie 5046 5063	récidive tumorale
+T66	morphologie 5675 5680	masse
+T68	topographie 5681 5693	médiastinale

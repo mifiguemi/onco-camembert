@@ -1,0 +1,72 @@
+T24	morphologie 1375 1396;1446 1471	carcinome intraductal micropapillaire et solide
+T14	topographie 877 880	CSE
+T9	topographie 542 553	CSE du sein
+T1	morphologie 281 289	grosseur
+T2	expression_CIM 281 313	grosseur non douloureuse au sein
+T3	topographie 309 313	sein
+T4	topographie 338 342	Sein
+T5	expression_CIM 338 356	Sein droit, nodule
+T6	morphologie 350 356	nodule
+T7	morphologie 499 508	asymétrie
+T8	expression_CIM 499 553	asymétrie de densité intermédiaire dans le CSE du sein
+T10	morphologie 694 700;737 758	lésion suspecte de malignité
+T11	expression_CIM 694 700	lésion
+T12	morphologie 846 858	rehaussement
+T13	expression_CIM 846 897	rehaussement régional entre le CSE et l'UCE du sein
+T16	expression_CIM 1052 1073	carcinome intraductal
+T17	morphologie 1052 1073	carcinome intraductal
+T18	expression_CIM 1130 1153	foyer de micro-invasion
+T20	expression_CIM 1257 1278	cellules néoplasiques
+T21	morphologie 1257 1278	cellules néoplasiques
+T22	topographie 1362 1366	sein
+T23	expression_CIM 1362 1497	sein avec un carcinome intraductal étendu prédominant dans le groupe 3 de Van Nuys (micropapillaire et solide de haut grade cytologique
+T25	differenciation 1475 1497	haut grade cytologique
+T26	expression_CIM 1554 1584	foyers de carcinome infiltrant
+T28	morphologie 1590 1620	Carcinome canalaire infiltrant
+T29	expression_CIM 1590 1623	Carcinome canalaire infiltrant G1
+T30	differenciation 1621 1623	G1
+T31	morphologie 1689 1719	Carcinome canalaire infiltrant
+T32	expression_CIM 1689 1732	Carcinome canalaire infiltrant de 2,5 mm G3
+T33	differenciation 1730 1732	G3
+T34	morphologie 1871 1901	carcinome canalaire infiltrant
+T35	expression_CIM 1871 1909	carcinome canalaire infiltrant du sein
+T36	topographie 1905 1909	sein
+T37	expression_CIM 1965 1970	foyer
+T38	morphologie 1965 1970	foyer
+T39	morphologie 2039 2045	cancer
+T40	expression_CIM 2039 2053	cancer du sein
+T41	topographie 2049 2053	sein
+T19	morphologie 1130 1153	foyer de micro-invasion
+T27	morphologie 1554 1584	foyers de carcinome infiltrant
+T15	topographie 886 897	UCE du sein
+#1	ICD-O T24	8500/3
+#2	ICD-O T1	8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	C50.9 
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	tocheck
+#7	ICD-O T10	8000/1
+#8	ICD-O T11	8000/1
+#9	ICD-O T12	8000/1
+#10	ICD-O T17	8500/3
+#11	ICD-O T20	8000/1
+#12	ICD-O T21	8001/3
+#13	ICD-O T22	C50.9
+#14	ICD-O T25	4
+#15	ICD-O T28	8500/3
+#16	ICD-O T29	8500/31
+#17	ICD-O T30	1
+#18	ICD-O T31	8500/3
+#19	ICD-O T32	8500/33
+#20	ICD-O T33	3
+#21	ICD-O T34	8500/3
+#22	ICD-O T35	C50.9 8500/3
+#23	ICD-O T36	C50.9
+#24	ICD-O T37	8000/1
+#25	ICD-O T38	8000/1
+#26	ICD-O T39	8000/3
+#27	ICD-O T40	C50.9 8000/3
+#28	ICD-O T41	C50.9
+#29	ICD-O T19	8000/9
+#30	ICD-O T27	8010/3
+#31	AnnotatorNotes T24	trad

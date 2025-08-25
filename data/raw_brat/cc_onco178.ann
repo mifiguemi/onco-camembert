@@ -1,0 +1,117 @@
+T1	expression_CIM 169 187	leucémie chronique
+T2	morphologie 169 187	leucémie chronique
+T3	morphologie 212 218	cancer
+T4	expression_CIM 212 226	cancer du sein
+T5	topographie 222 226	sein
+T6	morphologie 259 265	cancer
+T7	expression_CIM 259 273	cancer du rein
+T8	topographie 269 273	rein
+T9	morphologie 315 321	cancer
+T10	expression_CIM 315 329	cancer du sein
+T11	topographie 325 329	sein
+T12	morphologie 368 374	tumeur
+T13	expression_CIM 368 384	tumeur cérébrale
+T14	topographie 375 384	cérébrale
+T15	morphologie 423 429	cancer
+T16	expression_CIM 423 450	cancer de la tête et du cou
+T17	topographie 436 440	tête
+T18	topographie 447 450	cou
+T19	morphologie 941 946	masse
+T20	expression_CIM 941 965	masse dans le lobe moyen
+T21	topographie 955 965	lobe moyen
+T22	morphologie 1024 1032	implants
+T23	expression_CIM 1024 1041	implants pleuraux
+T24	topographie 1033 1041	pleuraux
+T25	morphologie 1169 1175	lésion
+T26	expression_CIM 1169 1190	lésion endobronchique
+T27	topographie 1176 1190	endobronchique
+T28	morphologie 1237 1242	masse
+T29	expression_CIM 1237 1253	masse pulmonaire
+T30	topographie 1243 1253	pulmonaire
+T31	expression_CIM 1285 1299	adénocarcinome
+T32	morphologie 1285 1299	adénocarcinome
+T33	expression_CIM 1453 1470	cellules malignes
+T34	morphologie 1453 1470	cellules malignes
+T35	morphologie 1484 1498	Adénocarcinome
+T36	expression_CIM 1484 1509	Adénocarcinome pulmonaire
+T37	topographie 1499 1509	pulmonaire
+T38	expression_CIM 1513 1521	stade IV
+T39	morphologie 1513 1521	stade IV
+T40	morphologie 1559 1573	adénocarcinome
+T41	expression_CIM 1559 1584	adénocarcinome pulmonaire
+T42	topographie 1574 1584	pulmonaire
+T43	expression_CIM 1588 1596	stade IV
+T44	morphologie 1588 1596	stade IV
+T45	morphologie 1910 1929	maladie a progressé
+T46	expression_CIM 1910 1973	maladie a progressé aux niveaux péritonéal, pleural et cérébral
+T47	topographie 1942 1952	péritonéal
+T48	topographie 1954 1961	pleural
+T49	topographie 1965 1973	cérébral
+T50	morphologie 2281 2292	progression
+T51	expression_CIM 2281 2327	progression pleurale, péritonéale et cérébrale
+T52	topographie 2293 2301	pleurale
+T53	topographie 2303 2314	péritonéale
+T54	topographie 2318 2327	cérébrale
+T55	expression_CIM 2859 2874	image nodulaire
+T56	morphologie 2859 2874	image nodulaire
+T57	morphologie 3597 3606;3613 3631	carcinome à cellules claires
+T58	expression_CIM 3597 3631	carcinome rénal à cellules claires
+T59	topographie 3607 3612	rénal
+#1	ICD-O T1	9800/3
+#2	ICD-O T2	9800/3
+#3	ICD-O T3	8000/3
+#4	ICD-O T4	C50.9 8000/3
+#5	ICD-O T5	C50.9
+#6	ICD-O T6	8000/3
+#7	ICD-O T7	C64.9 8000/3
+#8	ICD-O T8	C64.9
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	C50.9 8000/3
+#11	ICD-O T11	C50.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C71.0 8000/1
+#14	ICD-O T14	C71.0
+#15	ICD-O T15	8000/3
+#16	ICD-O T16	C76.0 8000/3
+#17	ICD-O T17	C76.0
+#18	ICD-O T18	C76.0
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C34.2 8000/1
+#21	ICD-O T21	C34.2
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C38.4 8000/6
+#24	ICD-O T24	C38.4
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C34.9 8000/1
+#27	ICD-O T27	C34.9
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C34.9 8000/1
+#30	ICD-O T30	C34.9
+#31	ICD-O T31	8140/3
+#32	ICD-O T32	8140/3
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	8140/3
+#36	ICD-O T36	C34.9 8140/3
+#37	ICD-O T37	C34.9
+#38	ICD-O T38	8000/6
+#39	ICD-O T39	8000/6
+#40	ICD-O T40	8140/3
+#41	ICD-O T41	C34.9 8140/3
+#42	ICD-O T42	C34.9
+#43	ICD-O T43	8000/6
+#44	ICD-O T44	8000/6
+#45	ICD-O T45	8000/6
+#46	ICD-O T46	C38.4 8000/6;C48.2 8000/6;C71.0 8000/6
+#47	ICD-O T47	C48.2
+#48	ICD-O T48	C38.4
+#49	ICD-O T49	C71.0
+#50	ICD-O T50	8000/6
+#51	ICD-O T51	C38.4 8000/6;C48.2 8000/6;C71.0 8000/6
+#52	ICD-O T52	C38.4
+#53	ICD-O T53	C48.2
+#54	ICD-O T54	C71.0
+#55	ICD-O T56	8000/1
+#56	ICD-O T57	8310/3
+#57	ICD-O T58	C64.9 8310/3
+#58	ICD-O T59	C64.9

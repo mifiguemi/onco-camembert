@@ -1,0 +1,128 @@
+T37	topographie 2699 2721	creux sus-claviculaire
+T1	morphologie 613 633	mélanome superficiel
+T2	expression_CIM 613 697	mélanome superficiel non ulcéré en phase de croissance verticale, grade III de Clark
+T3	differenciation 679 697	grade III de Clark
+T4	expression_CIM 1010 1016	tumeur
+T5	morphologie 1010 1016	tumeur
+T6	expression_CIM 1063 1075	adénopathies
+T7	morphologie 1063 1075	adénopathies
+T8	expression_CIM 1081 1090	métastase
+T9	morphologie 1081 1090	métastase
+T10	expression_CIM 1107 1147	mélanome malin à extension superficielle
+T11	morphologie 1107 1147	mélanome malin à extension superficielle
+T12	morphologie 1407 1413	tumeur
+T13	expression_CIM 1407 1427	tumeur de l'aisselle
+T14	topographie 1419 1427	aisselle
+T15	topographie 1502 1547	ganglions lymphatiques dans l'aisselle droite
+T16	expression_CIM 1502 1575	ganglions lymphatiques dans l'aisselle droite, probablement métastatiques
+T17	morphologie 1562 1575	métastatiques
+T18	morphologie 1704 1716	adénopathies
+T19	expression_CIM 1704 1727	adénopathies axillaires
+T20	topographie 1717 1727	axillaires
+T21	morphologie 1815 1823	récidive
+T22	expression_CIM 1815 1870	récidive de multiples ganglions lymphatiques axillaires
+T23	topographie 1837 1870	ganglions lymphatiques axillaires
+T24	morphologie 1904 1929	conglomérat adénopathique
+T25	expression_CIM 1904 1939	conglomérat adénopathique axillaire
+T26	topographie 1930 1939	axillaire
+T27	morphologie 2044 2054	métastases
+T28	expression_CIM 2044 2104	métastases de mélanome dans 18 des 19 ganglions lymphatiques
+T29	expression_CIM 2058 2066	mélanome
+T30	morphologie 2058 2066	mélanome
+T31	topographie 2082 2104	ganglions lymphatiques
+T32	morphologie 2298 2309	adénopathie
+T33	expression_CIM 2298 2319	adénopathie cervicale
+T34	topographie 2310 2319	cervicale
+T35	morphologie 2654 2690	ganglions lymphatiques pathologiques
+T36	expression_CIM 2654 2755	ganglions lymphatiques pathologiques dans le creux sus-claviculaire droit et dans la région axillaire
+T39	expression_CIM 2854 2896	foyers d'activité métabolique pathologique
+T40	morphologie 2854 2896	foyers d'activité métabolique pathologique
+T41	morphologie 2936 2948	adénopathies
+T42	expression_CIM 2936 3039	adénopathies dans la région supraclaviculaire, la région axillaire profonde et la région sous-pectorale
+T46	expression_CIM 3069 3079	métastases
+T47	morphologie 3069 3079	métastases
+T48	morphologie 3110 3121	progression
+T49	expression_CIM 3110 3181	progression ganglionnaire axillaire-supraclaviculaire et sous-pectorale
+T50	morphologie 3704 3711	rechute
+T51	expression_CIM 3704 3805	rechute métabolique des ganglions lymphatiques sus-claviculaires, hiliomédiastinaux et périgastriques
+T53	expression_CIM 5005 5013	mélanome
+T54	morphologie 5005 5013	mélanome
+T55	morphologie 5049 5060	progression
+T56	expression_CIM 5049 5117	progression vers les ganglions lymphatiques pleuraux et médiastinaux
+T57	topographie 5070 5117	ganglions lymphatiques pleuraux et médiastinaux
+T58	morphologie 5465 5490	progression de la maladie
+T59	expression_CIM 5465 5592	progression de la maladie médiastinale et épiphrénique, de la maladie pleurale droite et des ganglions lymphatiques péritonéaux
+T60	topographie 5491 5503	médiastinale
+T61	topographie 5507 5519	épiphrénique
+T62	morphologie 5527 5534	maladie
+T63	expression_CIM 5527 5543	maladie pleurale
+T64	topographie 5535 5543	pleurale
+T65	topographie 5558 5592	ganglions lymphatiques péritonéaux
+T66	morphologie 5767 5778	progression
+T67	expression_CIM 5767 5787	progression pleurale
+T68	topographie 5779 5787	pleurale
+T69	expression_CIM 6774 6782	mélanome
+T70	morphologie 6774 6782	mélanome
+T52	topographie 3728 3805	ganglions lymphatiques sus-claviculaires, hiliomédiastinaux et périgastriques
+T38	topographie 2739 2755	région axillaire
+T44	topographie 2986 3002	région axillaire
+T45	topographie 3018 3039	région sous-pectorale
+T43	topographie 2957 2981	région supraclaviculaire
+#1	ICD-O T1	8743/3
+#2	ICD-O T3	3
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	C77.9 8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/6
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	8743/3
+#10	ICD-O T11	8743/3
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C76.1 8000/1
+#13	ICD-O T14	C76.1
+#14	ICD-O T15	C77.3
+#15	ICD-O T17	8000/6
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C77.3 8000/1
+#18	ICD-O T20	C76.1
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	C77.3 8000/6
+#21	ICD-O T23	C77.3
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	C77.3 8000/1
+#24	ICD-O T26	C76.1
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	C77.9 8000/6
+#27	ICD-O T29	8720/3
+#28	ICD-O T30	8720/3
+#29	ICD-O T31	C77.9
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	C77.0 8000/1
+#32	ICD-O T34	C76.0
+#33	ICD-O T35	tocheck
+#34	ICD-O T40	8000/9
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	C77.0 8000/1;C77.3 8000/1;C77.3 8000/1
+#37	ICD-O T46	8000/6
+#38	ICD-O T47	8000/6
+#39	ICD-O T48	8000/6
+#40	ICD-O T49	C77.0 8000/6;C77.1 8000/6;C77.3 8000/6
+#41	ICD-O T50	8000/3
+#42	ICD-O T51	C76.1 8000/3;C76.2 8000/3;C77.0 8000/3
+#43	ICD-O T53	8720/3
+#44	ICD-O T54	8720/3
+#45	ICD-O T55	8000/6
+#46	ICD-O T56	C77.1 8000/6
+#47	ICD-O T57	C77.1
+#48	ICD-O T58	8000/1
+#49	ICD-O T60	C38.3
+#50	ICD-O T61	C76.1
+#51	ICD-O T62	8000/6
+#52	ICD-O T64	C38.4
+#53	ICD-O T65	C77.2
+#54	ICD-O T66	8000/6
+#55	ICD-O T67	C38.4 8000/6
+#56	ICD-O T68	C38.4
+#57	ICD-O T69	8720/3
+#58	ICD-O T70	8720/3

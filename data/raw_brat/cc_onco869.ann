@@ -1,0 +1,225 @@
+T96	topographie 6869 6890	graisse périviscérale
+T39	topographie 4142 4153	segment IVb
+T108	topographie 7774 7794	sinus costophrénique
+T1	morphologie 909 918	carcinome
+T2	expression_CIM 909 933	carcinome de la prostate
+T3	topographie 925 933	prostate
+T4	morphologie 970 979	carcinome
+T5	expression_CIM 970 1008	carcinome d'origine gastro-intestinale
+T6	topographie 990 1008	gastro-intestinale
+T7	expression_CIM 1947 1954	nodules
+T8	morphologie 1947 1954	nodules
+T9	expression_CIM 2016 2026	métastases
+T10	morphologie 2016 2026	métastases
+T11	morphologie 2101 2106	masse
+T12	expression_CIM 2101 2149	masse friable et végétative dans l'angle du foie
+T13	topographie 2136 2149	angle du foie
+T14	morphologie 2260 2284	adénocarcinome entéroïde
+T15	expression_CIM 2260 2293	adénocarcinome entéroïde du côlon
+T16	topographie 2288 2293	côlon
+T17	morphologie 2443 2449	lésion
+T18	expression_CIM 2443 2482	lésion végétante dans l'angle hépatique
+T19	topographie 2467 2482	angle hépatique
+T20	expression_CIM 2590 2602	infiltration
+T21	morphologie 2590 2602	infiltration
+T22	morphologie 2644 2656	adénopathies
+T23	expression_CIM 2644 2686	adénopathies importantes dans le mésentère
+T24	topographie 2677 2686	mésentère
+T25	topographie 2752 2772	parenchyme hépatique
+T26	expression_CIM 2752 2806	parenchyme hépatique, il y a d'innombrables métastases
+T27	morphologie 2796 2806	métastases
+T28	morphologie 3205 3219	adénocarcinome
+T29	expression_CIM 3205 3261	adénocarcinome métastatique non résécable du côlon droit
+T30	topographie 3250 3261	côlon droit
+T31	morphologie 3362 3372	métastases
+T32	expression_CIM 3362 3383	métastases hépatiques
+T33	topographie 3373 3383	hépatiques
+T34	morphologie 4063 4073	métastases
+T35	expression_CIM 4063 4084	métastases hépatiques
+T36	topographie 4074 4084	hépatiques
+T37	morphologie 4124 4133	métastase
+T38	expression_CIM 4124 4153	métastase dans le segment IVb
+T40	morphologie 4184 4199	néoplasme malin
+T41	expression_CIM 4184 4222	néoplasme malin dans l'angle hépatique
+T42	topographie 4207 4222	angle hépatique
+T43	morphologie 4307 4333	adénopathies métastatiques
+T44	expression_CIM 4307 4362	adénopathies métastatiques dans le mésocôlon transverse
+T45	topographie 4342 4362	mésocôlon transverse
+T46	morphologie 4609 4619	métastases
+T47	expression_CIM 4609 4630	métastases hépatiques
+T48	topographie 4620 4630	hépatiques
+T49	morphologie 4669 4684	tumeur primaire
+T50	expression_CIM 4669 4693	tumeur primaire du côlon
+T51	topographie 4688 4693	côlon
+T52	expression_CIM 4701 4713	adénopathies
+T53	morphologie 4701 4713	adénopathies
+T54	morphologie 4750 4760	métastases
+T55	expression_CIM 4750 4771	métastases hépatiques
+T56	topographie 4761 4771	hépatiques
+T57	morphologie 4897 4906	néoplasme
+T58	expression_CIM 4897 4929	néoplasme dans l'angle hépatique
+T59	topographie 4914 4929	angle hépatique
+T60	morphologie 5004 5015	adénopathie
+T61	expression_CIM 5004 5051	adénopathie locale dans le mésocôlon transverse
+T62	topographie 5031 5051	mésocôlon transverse
+T63	expression_CIM 5066 5072	lésion
+T64	morphologie 5066 5072	lésion
+T65	morphologie 5121 5127	cancer
+T66	expression_CIM 5121 5138	cancer colorectal
+T67	topographie 5128 5138	colorectal
+T68	expression_CIM 5188 5194	tumeur
+T69	morphologie 5188 5194	tumeur
+T70	morphologie 5554 5564	métastases
+T71	expression_CIM 5554 5575	métastases hépatiques
+T72	topographie 5565 5575	hépatiques
+T73	morphologie 5581 5595	adénocarcinome
+T74	expression_CIM 5581 5606	adénocarcinome colorectal
+T75	topographie 5596 5606	colorectal
+T76	morphologie 5952 5962	métastases
+T77	expression_CIM 5952 5973	métastases hépatiques
+T78	topographie 5963 5973	hépatiques
+T79	expression_CIM 6209 6230	formations nodulaires
+T80	morphologie 6209 6230	formations nodulaires
+T81	morphologie 6398 6408	métastases
+T82	expression_CIM 6398 6419	métastases hépatiques
+T83	topographie 6409 6419	hépatiques
+T84	morphologie 6425 6439	adénocarcinome
+T85	expression_CIM 6425 6450	adénocarcinome colorectal
+T86	topographie 6440 6450	colorectal
+T87	morphologie 6529 6545	tumeur primitive
+T88	expression_CIM 6529 6575	tumeur primitive située dans l'angle hépatique
+T89	topographie 6560 6575	angle hépatique
+T90	morphologie 6677 6691	adénocarcinome
+T91	expression_CIM 6677 6726	adénocarcinome colorectal moyennement différencié
+T92	topographie 6692 6702	colorectal
+T93	differenciation 6703 6726	moyennement différencié
+T94	morphologie 6845 6860	dépôts tumoraux
+T95	expression_CIM 6845 6890	dépôts tumoraux dans la graisse périviscérale
+T97	expression_CIM 6956 6980	infiltration néoplasique
+T98	morphologie 6956 6980	infiltration néoplasique
+T99	expression_CIM 6985 6991	tumeur
+T100	morphologie 6985 6991	tumeur
+T101	morphologie 7246 7256	métastases
+T102	expression_CIM 7246 7267	métastases hépatiques
+T103	topographie 7257 7267	hépatiques
+T104	morphologie 7361 7377	tumeur primitive
+T105	expression_CIM 7361 7404	tumeur primitive située dans le côlon droit
+T106	topographie 7393 7404	côlon droit
+T107	expression_CIM 7729 7794	nodule de tissu mou extra-pulmonaire dans le sinus costophrénique
+T109	morphologie 7935 7952	implants tumoraux
+T110	expression_CIM 7935 8004	implants tumoraux, le plus grand d'entre eux dans la paroi thoracique
+T111	topographie 7988 8004	paroi thoracique
+T112	morphologie 8067 8075	invasion
+T113	expression_CIM 8067 8109	invasion des arcs costaux et du diaphragme
+T114	topographie 8080 8092	arcs costaux
+T115	topographie 8099 8109	diaphragme
+T116	morphologie 8140 8148	implants
+T117	expression_CIM 8140 8217	implants plus petits ont également été identifiés dans le fascia latérocostal
+T118	topographie 8198 8217	fascia latérocostal
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C61.9 8010/3
+#3	ICD-O T3	C61.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C26.9 8010/3
+#6	ICD-O T6	C26.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/1
+#12	ICD-O T13	 C22.0
+#13	ICD-O T14	8144/3
+#14	ICD-O T15	C18.9 8144/3
+#15	ICD-O T16	C18.9
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C18.3 8000/1
+#18	ICD-O T19	C18.3
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8000/9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C77.2 8000/1
+#23	ICD-O T24	C48.1
+#24	ICD-O T25	C22.0
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	8140/3
+#27	ICD-O T29	C18.2 8140/3
+#28	ICD-O T30	C18.2
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	C22.0 8000/6
+#31	ICD-O T33	C22.0
+#32	ICD-O T34	8000/6
+#33	ICD-O T35	C22.0 8000/6
+#34	ICD-O T36	C22.0
+#35	ICD-O T37	8000/6
+#36	ICD-O T40	8000/3
+#37	ICD-O T41	C18.3 8000/3
+#38	ICD-O T42	C18.3
+#39	ICD-O T43	8000/6
+#40	ICD-O T44	C77.5 8000/6
+#41	ICD-O T45	C48.1
+#42	ICD-O T46	8000/6
+#43	ICD-O T47	C22.0 8000/6
+#44	ICD-O T48	C22.0
+#45	ICD-O T49	8000/3
+#46	ICD-O T50	C18.9 8000/3
+#47	ICD-O T51	C18.9
+#48	ICD-O T52	C77.9 8000/1
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	8000/6
+#51	ICD-O T55	C22.0 8000/6
+#52	ICD-O T56	C22.0
+#53	ICD-O T57	8000/3
+#54	ICD-O T58	C18.3 8000/1
+#55	ICD-O T59	C18.3
+#56	ICD-O T60	8000/1
+#57	ICD-O T62	C48.1
+#58	ICD-O T63	8000/1
+#59	ICD-O T64	8000/1
+#60	ICD-O T65	8000/3
+#61	ICD-O T66	C19.9 8000/3
+#62	ICD-O T67	C19.9
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	8000/3
+#65	ICD-O T70	8000/6
+#66	ICD-O T71	C22.0 8000/6
+#67	ICD-O T72	C22.0
+#68	ICD-O T73	8140/3
+#69	ICD-O T74	C19.9 8140/3
+#70	ICD-O T75	C19.9
+#71	ICD-O T76	8000/6
+#72	ICD-O T77	C22.0 8000/6
+#73	ICD-O T78	C22.0
+#74	ICD-O T80	8000/1
+#75	ICD-O T81	8000/6
+#76	ICD-O T82	C22.0 8000/6
+#77	ICD-O T83	C22.0
+#78	ICD-O T84	8140/3
+#79	ICD-O T85	C19.9 8140/3
+#80	ICD-O T86	C19.9
+#81	ICD-O T87	8000/3
+#82	ICD-O T88	C18.3 8000/3
+#83	ICD-O T89	C18.3
+#84	ICD-O T90	8140/3
+#85	ICD-O T91	C19.9 8140/32
+#86	ICD-O T92	C19.9
+#87	ICD-O T93	2
+#88	ICD-O T94	8000/6
+#89	ICD-O T97	8000/1
+#90	ICD-O T98	8000/9
+#91	ICD-O T99	8000/1
+#92	ICD-O T100	8000/3
+#93	ICD-O T101	8000/6
+#94	ICD-O T102	C22.0 8000/6
+#95	ICD-O T103	C22.0
+#96	ICD-O T104	8000/3
+#97	ICD-O T105	C18.2 8000/3
+#98	ICD-O T106	C18.2
+#99	ICD-O T109	8000/6
+#100	ICD-O T111	C76.1
+#101	ICD-O T112	8000/9
+#102	ICD-O T113	C41.3 8000/1;C49.3 8000/1
+#103	ICD-O T114	C41.3
+#104	ICD-O T115	C49.3
+#105	ICD-O T116	8000/6
+#106	ICD-O T117	C49.3 8000/6
+#107	ICD-O T118	C49.3

@@ -1,0 +1,42 @@
+T13	topographie 520 537	régions axillaire
+T1	morphologie 125 131	cancer
+T62	morphologie 140 160	lobulaire infiltrant
+T3	topographie 135 139	sein
+T4	morphologie 199 205	nodule
+T6	topographie 214 218	sein
+T7	morphologie 285 295	nodulation
+T9	topographie 391 414	quadrant supéro-externe
+T10	topographie 425 429	sein
+T12	topographie 471 493	ganglions lymphatiques
+T14	topographie 539 564	sus- et infraclaviculaire
+T15	morphologie 654 660	lésion
+T17	topographie 689 715	quadrant supérieur externe
+T19	morphologie 919 949	carcinome lobulaire infiltrant
+T20	morphologie 1505 1511	cancer
+T22	topographie 1515 1519	sein
+T23	morphologie 1557 1563	cancer
+T25	topographie 1567 1571	sein
+T26	morphologie 1824 1830	cancer
+T28	topographie 1834 1838	sein
+T30	morphologie 2081 2087	tumeur
+T32	morphologie 2271 2277	tumeur
+T33	morphologie 2762 2770	atteinte
+T35	topographie 2771 2778	osseuse
+T36	topographie 2793 2824	vertèbres dorsales et lombaires
+T37	topographie 2833 2843	os iliaque
+T39	morphologie 2882 2902	maladie métastatique
+T40	morphologie 2908 2916	atteinte
+T42	topographie 2917 2926	viscérale
+T44	morphologie 2933 2940	rechute
+T46	morphologie 3813 3832	sites métastatiques
+T48	morphologie 5249 5272	stabilité de la maladie
+T50	morphologie 5558 5576	stade métastatique
+T51	morphologie 5605 5612	lésions
+T53	topographie 5613 5621	osseuses
+T54	morphologie 5806 5813	lésions
+T56	topographie 5814 5822	osseuses
+T57	topographie 5847 5865	corps vertébral L3
+T58	topographie 5874 5900	articulation sacro-iliaque
+T59	morphologie 6341 6348	maladie
+T63	morphologie 6357 6369	métastatique
+T61	topographie 6349 6356	osseuse

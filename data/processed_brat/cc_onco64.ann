@@ -1,0 +1,39 @@
+T57	morphologie 6007 6027	Granulomes calcifiés
+T13	topographie 1011 1042	jonction des quadrants internes
+T19	topographie 1300 1359	région centrale du quadrant inférieur externe (CIE) du sein
+T1	morphologie 49 55	nodule
+T3	topographie 78 82	sein
+T4	morphologie 215 221	cancer
+T6	topographie 225 233	pancréas
+T7	morphologie 920 932	adénopathies
+T9	topographie 933 950	sus-claviculaires
+T10	topographie 971 975	Sein
+T12	morphologie 991 997	nodule
+T14	morphologie 1054 1066	adénopathies
+T16	topographie 1067 1077	axillaires
+T17	morphologie 1182 1199	images nodulaires
+T21	morphologie 1715 1721	nodule
+T22	morphologie 2161 2206	carcinome canalaire infiltrant de type solide
+T24	differenciation 2226 2246	grade histologique 3
+T25	morphologie 2398 2404	nodule
+T27	topographie 2413 2417	sein
+T28	morphologie 2444 2453	carcinome
+T30	topographie 2454 2462	mammaire
+T31	topographie 2481 2514	ganglions lymphatiques axillaires
+T33	morphologie 2528 2549	d'aspect métastatique
+T35	morphologie 2566 2585	atteinte à distance
+T36	morphologie 2961 2991	Carcinome canalaire infiltrant
+T38	topographie 2995 2999	sein
+T39	differenciation 3014 3021	grade 3
+T41	morphologie 3144 3150	tumeur
+T42	morphologie 3947 3953	nodule
+T44	topographie 3954 3962	mammaire
+T46	morphologie 4050 4066	lymphadénopathie
+T48	morphologie 5066 5073	nodules
+T49	morphologie 5684 5700	lymphadénopathie
+T51	topographie 5701 5710	axillaire
+T52	morphologie 5894 5901	Lésions
+T54	topographie 5926 5942	lobes supérieurs
+T56	morphologie 5946 5953	nodules
+T59	topographie 6036 6046	lobe moyen
+T61	morphologie 6499 6520	cellules néoplasiques

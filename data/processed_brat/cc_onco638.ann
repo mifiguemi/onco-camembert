@@ -1,0 +1,27 @@
+T1	morphologie 167 174	nodules
+T3	topographie 175 186	pulmonaires
+T4	morphologie 579 584	masse
+T6	topographie 585 592	hilaire
+T7	morphologie 987 992	masse
+T9	topographie 993 1000	hilaire
+T11	morphologie 1018 1025	nodules
+T12	morphologie 1070 1075	masse
+T14	topographie 1076 1090	endobronchique
+T15	topographie 1120 1134	lobe supérieur
+T16	morphologie 1223 1232	carcinome
+T41	morphologie 1276 1287	épidermoïde
+T18	differenciation 1233 1248	peu différencié
+T20	morphologie 1310 1361	augmentation pathologique du métabolisme du glucose
+T21	morphologie 1385 1390	masse
+T23	topographie 1391 1398	hilaire
+T25	morphologie 1571 1586	maladie maligne
+T26	morphologie 1619 1640	Carcinome épidermoïde
+T28	topographie 1641 1651	pulmonaire
+T29	morphologie 1674 1686	infiltration
+T31	topographie 1691 1705	gros vaisseaux
+T32	morphologie 2468 2473	masse
+T34	topographie 2474 2481	hilaire
+T35	morphologie 2564 2589	progression de la maladie
+T37	topographie 2613 2617	hile
+T38	morphologie 3088 3093	masse
+T40	topographie 3094 3101	hilaire

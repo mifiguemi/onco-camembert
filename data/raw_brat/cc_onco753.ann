@@ -1,0 +1,100 @@
+T9	topographie 817 840	région sus-claviculaire
+T1	morphologie 151 181	carcinome canalaire infiltrant
+T2	expression_CIM 151 189	carcinome canalaire infiltrant du sein
+T3	topographie 185 189	sein
+T4	morphologie 656 672	lymphadénopathie
+T5	expression_CIM 656 689	lymphadénopathie sus-claviculaire
+T6	topographie 673 689	sus-claviculaire
+T7	morphologie 797 808	adénopathie
+T8	expression_CIM 797 840	adénopathie dans la région sus-claviculaire
+T10	morphologie 1054 1065	adénopathie
+T11	expression_CIM 1054 1082	adénopathie sus-claviculaire
+T12	topographie 1066 1082	sus-claviculaire
+T13	morphologie 1132 1143	adénopathie
+T14	expression_CIM 1132 1160	adénopathie sus-claviculaire
+T15	topographie 1144 1160	sus-claviculaire
+T16	expression_CIM 1181 1190	métastase
+T17	morphologie 1181 1190	métastase
+T18	morphologie 1194 1203	carcinome
+T19	expression_CIM 1194 1212	carcinome mammaire
+T20	topographie 1204 1212	mammaire
+T21	morphologie 1332 1340	Récidive
+T22	expression_CIM 1332 1371	Récidive ganglionnaire sus-claviculaire
+T23	topographie 1341 1371	ganglionnaire sus-claviculaire
+T24	morphologie 1377 1407	carcinome canalaire infiltrant
+T25	expression_CIM 1377 1428	carcinome canalaire infiltrant de stade IIA du sein
+T26	topographie 1424 1428	sein
+T27	morphologie 1514 1521	rechute
+T28	expression_CIM 1514 1562	rechute du ganglion lymphatique sus-claviculaire
+T29	topographie 1525 1562	ganglion lymphatique sus-claviculaire
+T30	morphologie 2155 2166	progression
+T31	expression_CIM 2155 2204	progression hépatique, splénique et ganglionnaire
+T32	topographie 2167 2176	hépatique
+T33	topographie 2178 2187	splénique
+T34	topographie 2191 2204	ganglionnaire
+T35	morphologie 2705 2721	lésion nodulaire
+T36	expression_CIM 2705 2754	lésion nodulaire dans le segment antérieur du LSD
+T37	topographie 2751 2754	LSD
+T38	morphologie 2814 2835	atteinte métastatique
+T39	expression_CIM 2814 2873	atteinte métastatique hépatique, splénique et ganglionnaire
+T40	topographie 2836 2845	hépatique
+T41	topographie 2847 2856	splénique
+T42	topographie 2860 2873	ganglionnaire
+T43	morphologie 2988 2994	lésion
+T44	expression_CIM 2988 3005	lésion pulmonaire
+T45	topographie 2995 3005	pulmonaire
+T46	morphologie 3051 3060;3072 3084	carcinome microcytaire
+T47	expression_CIM 3051 3084	carcinome pulmonaire microcytaire
+T48	topographie 3061 3071	pulmonaire
+T49	morphologie 3115 3124;3136 3148	carcinome microcytaire
+T50	expression_CIM 3115 3148	carcinome pulmonaire microcytaire
+T51	topographie 3125 3135	pulmonaire
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.0 8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C77.0 8000/1
+#11	ICD-O T12	C76.0
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.0 8000/1
+#14	ICD-O T15	C76.0
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	8010/3
+#18	ICD-O T19	C50.9 8010/3
+#19	ICD-O T20	C50.9
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	C77.0 8000/6
+#22	ICD-O T23	C77.0
+#23	ICD-O T24	8500/3
+#24	ICD-O T26	C50.9
+#25	ICD-O T27	8000/3
+#26	ICD-O T28	C77.0 8000/3
+#27	ICD-O T29	C77.0
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	C22.0 8000/6;C42.2 8000/6;C77.9 8000/6
+#30	ICD-O T32	C22.0
+#31	ICD-O T33	C42.2
+#32	ICD-O T34	C77.9
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	C34.1 8000/1
+#35	ICD-O T37	C34.1
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	C22.0 8000/6;C42.2 8000/6;C77.9 8000/6
+#38	ICD-O T40	C22.0
+#39	ICD-O T41	C42.2
+#40	ICD-O T42	C77.9
+#41	ICD-O T43	8000/1
+#42	ICD-O T44	C34.9 8000/1
+#43	ICD-O T45	C34.9
+#44	ICD-O T46	8041/3
+#45	ICD-O T47	C34.9 8041/3
+#46	ICD-O T48	C34.9
+#47	ICD-O T49	8041/3
+#48	ICD-O T50	C34.9 8041/3
+#49	ICD-O T51	C34.9

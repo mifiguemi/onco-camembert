@@ -1,0 +1,34 @@
+T2	morphologie 489 501	adénopathies
+T4	morphologie 700 705	masse
+T5	morphologie 1433 1439	lésion
+T9	morphologie 1561 1568	ostéome
+T10	morphologie 1675 1681	lésion
+T12	topographie 1740 1750	os iliaque
+T13	morphologie 1855 1861	masses
+T15	topographie 1865 1876	tissus mous
+T17	morphologie 1903 1917	lésion bénigne
+T18	morphologie 1937 1943	lésion
+T20	topographie 1982 1992	os iliaque
+T21	morphologie 2015 2027	infiltration
+T23	topographie 2032 2043	tissus mous
+T24	topographie 2051 2058	fessier
+T25	morphologie 2101 2107	tumeur
+T27	topographie 2108 2115	osseuse
+T29	morphologie 2184 2198	tumeur bénigne
+T31	morphologie 2284 2290	tumeur
+T33	morphologie 2673 2695	ostéoblastome agressif
+T35	morphologie 2707 2726	ostéoblastome malin
+T37	morphologie 2743 2755	ostéosarcome
+T39	morphologie 2768 2781	ostéoblastome
+T40	morphologie 2824 2837	ostéoblastome
+T42	topographie 2838 2845	iliaque
+T43	morphologie 2862 2875	ostéoblastome
+T56	morphologie 2890 2895	malin
+T45	topographie 2876 2883	iliaque
+T47	morphologie 2899 2911	ostéosarcome
+T48	morphologie 2924 2937	ostéoblastome
+T50	topographie 2938 2945	iliaque
+T51	morphologie 2983 2989	lésion
+T53	topographie 2990 2997	iliaque
+T55	morphologie 3638 3649	lit tumoral
+T7	topographie 1521 1533	lame iliaque

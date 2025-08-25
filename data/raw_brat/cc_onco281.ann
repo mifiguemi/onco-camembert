@@ -1,0 +1,127 @@
+T1	expression_CIM 738 750	adénopathies
+T2	morphologie 738 750	adénopathies
+T3	expression_CIM 789 794	masse
+T4	morphologie 789 794	masse
+T5	morphologie 885 913	adénocarcinome endométrioïde
+T6	expression_CIM 885 930	adénocarcinome endométrioïde bien différencié
+T7	differenciation 914 930	bien différencié
+T8	expression_CIM 1067 1085	maladie à distance
+T9	morphologie 1067 1085	maladie à distance
+T10	morphologie 1169 1183;1199 1220	Adénocarcinome de type endométrioïde
+T11	expression_CIM 1169 1220	Adénocarcinome de l'endomètre de type endométrioïde
+T12	topographie 1189 1198	endomètre
+T13	morphologie 1468 1504	adénocarcinome de type endométrioïde
+T14	expression_CIM 1468 1531	adénocarcinome de type endométrioïde modérément différencié (G2
+T15	differenciation 1505 1527	modérément différencié
+T16	differenciation 1529 1531	G2
+T17	morphologie 1608 1618	métastases
+T18	expression_CIM 1608 1735	métastases dans 1 des 11 ganglions lymphatiques de la chaîne iliaque droite et dans 1 des ganglions lymphatiques para-aortiques
+T19	topographie 1633 1676	ganglions lymphatiques de la chaîne iliaque
+T20	topographie 1698 1735	ganglions lymphatiques para-aortiques
+T21	morphologie 1758 1772	adénocarcinome
+T22	expression_CIM 1758 1784	adénocarcinome endométrial
+T23	topographie 1773 1784	endométrial
+T24	expression_CIM 2259 2267	récidive
+T25	morphologie 2259 2267	récidive
+T26	morphologie 2335 2351	lésion polypoïde
+T27	expression_CIM 2335 2382	lésion polypoïde au niveau de la voûte vaginale
+T28	topographie 2368 2382	voûte vaginale
+T29	expression_CIM 2505 2513	récidive
+T30	morphologie 2505 2513	récidive
+T31	morphologie 2516 2530	adénocarcinome
+T32	expression_CIM 2516 2542	adénocarcinome endométrial
+T33	topographie 2531 2542	endométrial
+T34	morphologie 2558 2574	lésion polypoïde
+T35	expression_CIM 2558 2595	lésion polypoïde de la voûte vaginale
+T36	topographie 2581 2595	voûte vaginale
+T37	morphologie 2617 2633	néoplasme solide
+T38	expression_CIM 2617 2649	néoplasme solide peu différencié
+T39	differenciation 2634 2649	peu différencié
+T40	morphologie 2705 2748	carcinome neuroendocrine à petites cellules
+T41	expression_CIM 2705 2771	carcinome neuroendocrine à petites cellules d'origine endométriale
+T42	topographie 2759 2771	endométriale
+T43	expression_CIM 2903 2919	tumeur primitive
+T44	morphologie 2903 2919	tumeur primitive
+T45	expression_CIM 3023 3029	tumeur
+T46	morphologie 3023 3029	tumeur
+T47	morphologie 3054 3064	récurrence
+T48	expression_CIM 3054 3087	récurrence dans la paroi vaginale
+T50	expression_CIM 3133 3142	néoplasme
+T51	morphologie 3133 3142	néoplasme
+T52	morphologie 3158 3168	récurrence
+T53	expression_CIM 3158 3191	récurrence dans la voûte vaginale
+T54	topographie 3177 3191	voûte vaginale
+T55	expression_CIM 3220 3259	zones de différenciation neuroendocrine
+T56	morphologie 3220 3259	zones de différenciation neuroendocrine
+T57	expression_CIM 3295 3304	néoplasme
+T58	morphologie 3295 3304	néoplasme
+T59	expression_CIM 3433 3442	métastase
+T60	morphologie 3433 3442	métastase
+T61	expression_CIM 3456 3474	maladie à distance
+T62	morphologie 3456 3474	maladie à distance
+T63	morphologie 3593 3599	lésion
+T64	expression_CIM 3593 3620	lésion de la voûte vaginale
+T65	topographie 3606 3620	voûte vaginale
+T49	topographie 3073 3087	paroi vaginale
+#1	ICD-O T1	C77.9 8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8380/3
+#6	ICD-O T6	8380/31
+#7	ICD-O T7	1
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8380/3
+#11	ICD-O T11	C54.1 8380/3
+#12	ICD-O T12	C54.1
+#13	ICD-O T13	8380/3
+#14	ICD-O T14	8380/32
+#15	ICD-O T15	2
+#16	ICD-O T16	2
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C41.4 8000/6;C77.2 8000/6;C77.5 8000/6;C77.9 8000/6
+#19	ICD-O T19	C77.5
+#20	ICD-O T20	C77.2
+#21	ICD-O T21	8140/3
+#22	ICD-O T22	C54.1 8140/3
+#23	ICD-O T23	C54.1
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	8210/1
+#27	ICD-O T27	C52.9 8210/1
+#28	ICD-O T28	C52.9
+#29	ICD-O T29	8000/6
+#30	ICD-O T30	8000/6
+#31	ICD-O T31	8140/3
+#32	ICD-O T32	C54.1 8140/3
+#33	ICD-O T33	C54.1
+#34	ICD-O T34	8210/1
+#35	ICD-O T35	C52.9 8210/1
+#36	ICD-O T36	C52.9
+#37	ICD-O T37	8000/3
+#38	ICD-O T38	8000/13
+#39	ICD-O T39	3
+#40	ICD-O T40	8041/3
+#41	ICD-O T41	C54.1 8041/3
+#42	ICD-O T42	C54.1
+#43	ICD-O T43	8000/3
+#44	ICD-O T44	8000/3
+#45	ICD-O T45	8000/1
+#46	ICD-O T46	8000/1
+#47	ICD-O T47	8000/9
+#48	ICD-O T50	8000/1
+#49	ICD-O T51	8000/1
+#50	ICD-O T52	8000/9
+#51	ICD-O T54	C52.9
+#52	ICD-O T55	8246/3
+#53	ICD-O T56	8246/3
+#54	ICD-O T57	8000/1
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	8000/6
+#57	ICD-O T60	8000/6
+#58	ICD-O T61	8000/6
+#59	ICD-O T62	8000/6
+#60	ICD-O T63	8000/1
+#61	ICD-O T64	C52.9 8000/1
+#62	ICD-O T65	C52.9

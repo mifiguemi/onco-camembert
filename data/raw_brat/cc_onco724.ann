@@ -1,0 +1,107 @@
+T32	topographie 2945 2959	muscle iliaque
+T42	topographie 3981 3994	psoas iliaque
+T1	morphologie 294 300	cancer
+T2	expression_CIM 294 309	cancer du côlon
+T3	topographie 304 309	côlon
+T4	morphologie 378 384	cancer
+T5	expression_CIM 378 393	cancer du côlon
+T6	topographie 388 393	côlon
+T7	morphologie 510 524	adénocarcinome
+T8	expression_CIM 510 556	adénocarcinome modérément différencié du cæcum
+T9	differenciation 525 547	modérément différencié
+T10	topographie 551 556	cæcum
+T11	morphologie 857 862	masse
+T12	expression_CIM 857 876	masse dans le flanc
+T13	topographie 871 876	flanc
+T14	expression_CIM 1157 1169	adénopathies
+T15	morphologie 1157 1169	adénopathies
+T16	expression_CIM 1210 1230	métastase à distance
+T17	morphologie 1210 1230	métastase à distance
+T18	expression_CIM 1435 1441	tumeur
+T19	morphologie 1435 1441	tumeur
+T20	morphologie 1538 1544	tumeur
+T21	expression_CIM 1538 1577	tumeur au niveau de la paroi abdominale
+T22	topographie 1561 1577	paroi abdominale
+T23	morphologie 1670 1684	adénocarcinome
+T24	expression_CIM 1670 1693	adénocarcinome du cæcum
+T25	topographie 1688 1693	cæcum
+T26	expression_CIM 1818 1842	adénopathie pathologique
+T27	morphologie 1818 1842	adénopathie pathologique
+T28	morphologie 2881 2886	masse
+T29	expression_CIM 2881 2959	masse des tissus mous touchant la région distale du psoas et le muscle iliaque
+T30	topographie 2891 2901	tissus mou
+T31	topographie 2933 2938	psoas
+T33	morphologie 3274 3279	masse
+T34	expression_CIM 3274 3288	masse du psoas
+T35	topographie 3283 3288	psoas
+T36	morphologie 3445 3450	masse
+T37	expression_CIM 3445 3464	masse dans le psoas
+T38	topographie 3459 3464	psoas
+T39	morphologie 3936 3941	masse
+T40	expression_CIM 3936 3994	masse des tissus mous avec épicentre dans le psoas iliaque
+T41	topographie 3946 3957	tissus mous
+T43	expression_CIM 4172 4178	tumeur
+T44	morphologie 4172 4178	tumeur
+T45	expression_CIM 4347 4353	tumeur
+T46	morphologie 4347 4353	tumeur
+T47	expression_CIM 4452 4458	tumeur
+T48	morphologie 4452 4458	tumeur
+T49	morphologie 5113 5118	masse
+T50	expression_CIM 5113 5127	masse du psoas
+T51	topographie 5122 5127	psoas
+T52	expression_CIM 5271 5276	masse
+T53	morphologie 5271 5276	masse
+T54	morphologie 5313 5321	atteinte
+T55	expression_CIM 5313 5338	atteinte des os du bassin
+T56	topographie 5326 5338	os du bassin
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C18.9 8000/3
+#6	ICD-O T6	C18.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C18.0 8140/32
+#9	ICD-O T9	2
+#10	ICD-O T10	C18.0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C76.7 8000/1
+#13	ICD-O T13	C76.7
+#14	ICD-O T14	C77.9 8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C76.2 8000/1
+#21	ICD-O T22	C76.2
+#22	ICD-O T23	8140/3
+#23	ICD-O T24	C18.0 8140/3
+#24	ICD-O T25	C18.0
+#25	ICD-O T26	C77.9 8000/1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T30	C49.9
+#29	ICD-O T31	C49.4
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	C49.4 8000/1
+#32	ICD-O T35	C49.4
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	C49.4 8000/1
+#35	ICD-O T38	C49.4
+#36	ICD-O T39	8000/1
+#37	ICD-O T41	C49.9
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	8000/1
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C49.4 8000/1
+#46	ICD-O T51	C49.4
+#47	ICD-O T52	8000/1
+#48	ICD-O T53	8000/1
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	C41.4 8000/1
+#51	ICD-O T56	C41.4

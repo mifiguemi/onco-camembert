@@ -1,0 +1,92 @@
+T1	expression_CIM 320 326	lésion
+T2	morphologie 320 326	lésion
+T3	expression_CIM 385 415	maladie de Paget extramammaire
+T4	morphologie 385 415	maladie de Paget extramammaire
+T5	expression_CIM 660 669	métastase
+T6	morphologie 660 669	métastase
+T7	expression_CIM 672 686	adénocarcinome
+T8	morphologie 672 686	adénocarcinome
+T9	expression_CIM 822 828	lésion
+T10	morphologie 822 828	lésion
+T11	expression_CIM 1031 1037	masses
+T12	morphologie 1031 1037	masses
+T13	morphologie 1171 1182	adénopathie
+T14	expression_CIM 1171 1192	adénopathie inguinale
+T15	topographie 1183 1192	inguinale
+T16	expression_CIM 1489 1498	néoplasme
+T17	morphologie 1489 1498	néoplasme
+T18	morphologie 1530 1537	tumeurs
+T19	expression_CIM 1530 1568	tumeurs génito-urinaires ou digestives
+T20	topographie 1538 1554	génito-urinaires
+T21	topographie 1558 1568	digestives
+T22	expression_CIM 1891 1898	lésions
+T23	morphologie 1891 1898	lésions
+T24	morphologie 2050 2080	adénopathies hypermétaboliques
+T25	expression_CIM 2050 2148	adénopathies hypermétaboliques au niveau de la chaîne iliaque commune, externe droite et inguinale
+T26	topographie 2097 2119	chaîne iliaque commune
+T28	topographie 2139 2148	inguinale
+T29	expression_CIM 2188 2202	tumeur maligne
+T30	morphologie 2188 2202	tumeur maligne
+T31	morphologie 2216 2232	Maladie de Paget
+T32	expression_CIM 2216 2243	Maladie de Paget du scrotum
+T33	topographie 2236 2243	scrotum
+T34	morphologie 2249 2257	atteinte
+T35	expression_CIM 2249 2298	atteinte des ganglions lymphatiques extrapelviens
+T36	topographie 2262 2298	ganglions lymphatiques extrapelviens
+T37	expression_CIM 2376 2383	maladie
+T38	morphologie 2376 2383	maladie
+T39	morphologie 2413 2419	lésion
+T40	expression_CIM 2413 2428	lésion scrotale
+T41	topographie 2420 2428	scrotale
+T42	expression_CIM 2530 2536	lésion
+T43	morphologie 2530 2536	lésion
+T44	morphologie 2719 2731	adénopathies
+T45	expression_CIM 2719 2742	adénopathies inguinales
+T46	topographie 2732 2742	inguinales
+T47	expression_CIM 2854 2876	foyer hypermétabolique
+T48	morphologie 2854 2876	foyer hypermétabolique
+T27	topographie 2121 2128	externe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T4	8542/3
+#4	ICD-O T5	8000/6
+#5	ICD-O T6	8000/6
+#6	ICD-O T7	8140/3
+#7	ICD-O T8	8140/3
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.4 8000/1
+#14	ICD-O T15	C76.3
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	C26.9 8000/1;C76.3 8000/1
+#19	ICD-O T20	C76.3
+#20	ICD-O T21	C26.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	8000/6
+#24	ICD-O T26	C77.5 
+#25	ICD-O T28	C76.3
+#26	ICD-O T29	8000/3
+#27	ICD-O T30	8000/3
+#28	ICD-O T31	8542/3
+#29	ICD-O T32	C63.2 8542/3
+#30	ICD-O T33	C63.2
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	C77.8 8000/1
+#33	ICD-O T36	C77.8
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8000/6
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	C63.2 8000/1
+#38	ICD-O T41	C63.2
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	8000/1
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	C77.4 8000/1
+#43	ICD-O T46	C76.3
+#44	ICD-O T48	8000/9

@@ -1,0 +1,46 @@
+T1	morphologie 192 197	masse
+T3	topographie 198 207	pelvienne
+T4	topographie 222 232	appendices
+T5	morphologie 429 434	masse
+T8	morphologie 527 564	cystoadénocarcinome papillaire séreux
+T10	differenciation 568 578	haut grade
+T12	morphologie 679 689	métastases
+T13	morphologie 1362 1385	carcinome inflammatoire
+T15	topographie 1389 1393	sein
+T16	morphologie 2163 2175	infiltration
+T18	topographie 2176 2184	dermique
+T20	morphologie 2227 2233	tumeur
+T21	morphologie 2249 2260	adénopathie
+T23	topographie 2261 2270	axillaire
+T25	morphologie 2294 2300	lésion
+T26	morphologie 2486 2513	images multiples d'invasion
+T28	topographie 2518 2552	vaisseaux sanguins et lymphatiques
+T29	morphologie 2560 2569	carcinome
+T67	morphologie 2584 2609	de type papillaire séreux
+T31	differenciation 2573 2583	haut grade
+T32	morphologie 2669 2679	métastases
+T34	morphologie 2683 2692	carcinome
+T35	topographie 2706 2728	ganglions lymphatiques
+T36	morphologie 2763 2771	invasion
+T38	topographie 2776 2810	vaisseaux sanguins et lymphatiques
+T39	morphologie 3016 3023	lésions
+T41	topographie 3024 3032	cutanées
+T42	morphologie 3035 3062	infiltration carcinomateuse
+T46	morphologie 3458 3464	foyers
+T47	morphologie 3478 3486	Invasion
+T68	morphologie 3496 3508	métastatique
+T49	topographie 3487 3495	dermique
+T50	topographie 3512 3516	sein
+T51	morphologie 3534 3543	carcinome
+T69	morphologie 3552 3558	séreux
+T53	topographie 3544 3551	ovarien
+T54	morphologie 4011 4016	masse
+T56	topographie 4020 4024	sein
+T57	morphologie 4091 4100	captation
+T59	topographie 4125 4129	sein
+T60	morphologie 4483 4493	léthargies
+T62	topographie 4508 4513	seins
+T64	morphologie 4966 4991	progression de la maladie
+T66	morphologie 5074 5081	lésions
+T44	topographie 3067 3087	lymphatiques du sein
+T7	topographie 443 459	poche de Douglas

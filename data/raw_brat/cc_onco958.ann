@@ -1,0 +1,141 @@
+T22	topographie 1303 1318	glande parotide
+T1	morphologie 111 117	cancer
+T2	expression_CIM 111 132	cancer de la prostate
+T3	topographie 124 132	prostate
+T4	morphologie 365 371	cancer
+T5	expression_CIM 365 381	cancer du poumon
+T6	topographie 375 381	poumon
+T7	morphologie 399 405	cancer
+T8	expression_CIM 399 409	cancer ORL
+T9	topographie 406 409	ORL
+T10	morphologie 427 433	cancer
+T11	expression_CIM 427 447	cancer gynécologique
+T12	topographie 434 447	gynécologique
+T13	morphologie 552 563	adénopathie
+T14	expression_CIM 552 593	adénopathie cervicale ou sus-claviculaire
+T15	topographie 564 573	cervicale
+T16	topographie 577 593	sus-claviculaire
+T17	morphologie 604 612	Grosseur
+T18	expression_CIM 604 623	Grosseur scapulaire
+T19	topographie 613 623	scapulaire
+T20	morphologie 1254 1296	augmentation de la taille et de la densité
+T21	expression_CIM 1254 1318	augmentation de la taille et de la densité de la glande parotide
+T23	expression_CIM 1335 1346	adénopathie
+T24	morphologie 1335 1346	adénopathie
+T25	morphologie 1366 1372	lésion
+T26	expression_CIM 1366 1411	lésion expansive et sclérosée dans l'omoplate
+T27	topographie 1403 1411	omoplate
+T28	expression_CIM 1744 1750	lésion
+T29	morphologie 1744 1750	lésion
+T30	morphologie 1776 1785	extension
+T31	expression_CIM 1776 1829	extension aux fosses supra-épineuse et infra-épineuse
+T32	topographie 1797 1811	supra-épineuse
+T33	topographie 1815 1829	infra-épineuse
+T34	morphologie 2060 2065	masse
+T35	expression_CIM 2060 2076	masse scapulaire
+T36	topographie 2066 2076	scapulaire
+T37	expression_CIM 2152 2161	métastase
+T38	morphologie 2152 2161	métastase
+T39	expression_CIM 2164 2178	adénocarcinome
+T40	morphologie 2164 2178	adénocarcinome
+T41	morphologie 2362 2376	adénocarcinome
+T42	expression_CIM 2362 2410	adénocarcinome d'origine urothéliale ou mammaire
+T43	topographie 2387 2398	urothéliale
+T44	topographie 2402 2410	mammaire
+T45	morphologie 2429 2439	métastases
+T46	expression_CIM 2429 2448	métastases osseuses
+T47	topographie 2440 2448	osseuses
+T48	expression_CIM 2627 2648	cellules néoplasiques
+T49	morphologie 2627 2648	cellules néoplasiques
+T50	expression_CIM 2803 2810	lésions
+T51	morphologie 2803 2810	lésions
+T52	morphologie 2852 2864	adénopathies
+T53	expression_CIM 2852 2908	adénopathies d'allure pathologique au niveau IV cervical
+T54	topographie 2900 2908	cervical
+T55	morphologie 3019 3044	carcinome mucoépidermoïde
+T56	expression_CIM 3019 3126	carcinome mucoépidermoïde de haut grade affectant les deux lobes et le ganglion lymphatique intraparotidien
+T57	differenciation 3048 3058	haut grade
+T58	topographie 3090 3126	ganglion lymphatique intraparotidien
+T59	morphologie 3432 3461	carcinome sécrétoire analogue
+T60	expression_CIM 3432 3469	carcinome sécrétoire analogue au sein
+T61	topographie 3465 3469	sein
+T62	expression_CIM 3471 3475	MASC
+T63	morphologie 3471 3475	MASC
+T64	expression_CIM 3836 3861	progression de la maladie
+T65	morphologie 3836 3861	progression de la maladie
+T66	morphologie 3918 3924	lésion
+T67	expression_CIM 3918 3943	lésion osseuse scapulaire
+T68	topographie 3925 3943	osseuse scapulaire
+T69	morphologie 3975 3981	lésion
+T70	expression_CIM 3975 4002	lésion dans le corps de D11
+T71	topographie 3990 4002	corps de D11
+T72	expression_CIM 4254 4268	maladie stable
+T73	morphologie 4254 4268	maladie stable
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C61.9 8000/3
+#3	ICD-O T3	C61.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C34.9 8000/3
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C76.0 8000/3
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	C57.9 8000/3
+#12	ICD-O T12	C57.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C77.0 8000/1
+#15	ICD-O T15	C76.0
+#16	ICD-O T16	C76.0
+#17	ICD-O T17	8000/1
+#18	ICD-O T19	C40.0
+#19	ICD-O T20	8000/1
+#20	ICD-O T23	C77.9 8000/1
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	C40.0 8000/1
+#24	ICD-O T27	C40.0
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8000/6
+#28	ICD-O T31	C76.1 8000/6
+#29	ICD-O T32	C76.1
+#30	ICD-O T33	C76.1
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	C40.0 8000/1
+#33	ICD-O T36	C40.0
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8000/6
+#36	ICD-O T39	8140/3
+#37	ICD-O T40	8140/3
+#38	ICD-O T41	8140/3
+#39	ICD-O T42	C49.0 8140/3;C50.9 8140/3
+#40	ICD-O T43	C49.0
+#41	ICD-O T44	C50.9
+#42	ICD-O T45	8000/6
+#43	ICD-O T46	C41.9 8000/6
+#44	ICD-O T47	C41.9
+#45	ICD-O T48	8000/1
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	C77.0 8000/1
+#51	ICD-O T54	C76.0
+#52	ICD-O T55	8430/3
+#53	ICD-O T57	4
+#54	ICD-O T58	C77.0
+#55	ICD-O T59	8502/3
+#56	ICD-O T60	C50.9 8502/3
+#57	ICD-O T61	C50.9
+#58	ICD-O T63	8502/3
+#59	ICD-O T64	8000/1
+#60	ICD-O T65	8000/1
+#61	ICD-O T66	8000/1
+#62	ICD-O T67	C40.0 8000/1;C41.9 8000/1
+#63	ICD-O T68	C41.9
+#64	ICD-O T69	8000/1
+#65	ICD-O T70	C41.2 8000/1
+#66	ICD-O T71	C41.2
+#67	ICD-O T72	8000/6
+#68	ICD-O T73	8000/6

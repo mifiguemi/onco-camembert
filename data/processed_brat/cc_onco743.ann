@@ -1,0 +1,46 @@
+T6	topographie 937 961	paratrachéale inférieure
+T38	topographie 3113 3127	région hilaire
+T1	morphologie 781 786	masse
+T3	topographie 787 794	hilaire
+T4	morphologie 920 936	lymphadénopathie
+T7	morphologie 976 992	lymphadénopathie
+T9	topographie 993 1000	hilaire
+T10	morphologie 1021 1037	lymphadénopathie
+T12	topographie 1038 1052	sous-carénaire
+T14	morphologie 1079 1109	lésion métastatique à distance
+T15	morphologie 1221 1227	cancer
+T17	topographie 1231 1237	poumon
+T18	morphologie 1451 1462	adénopathie
+T20	topographie 1463 1476	sous-carénale
+T22	morphologie 1500 1528	carcinome à petites cellules
+T23	morphologie 1593 1598	masse
+T25	topographie 1599 1621	pulmonaire parahilaire
+T26	morphologie 1679 1690	adénopathie
+T28	topographie 1691 1703	subcarinaire
+T30	morphologie 1960 1981	atteinte métastatique
+T31	morphologie 2112 2134	carcinome microcytaire
+T33	topographie 2138 2144	poumon
+T35	morphologie 2771 2776	masse
+T36	morphologie 3070 3088	lésions nodulaires
+T40	morphologie 3199 3216	récidive tumorale
+T41	morphologie 3279 3286	nodules
+T43	topographie 3287 3298	thyroïdiens
+T44	morphologie 3567 3573	tumeur
+T46	topographie 3613 3621	thyroïde
+T48	morphologie 3838 3844	lésion
+T49	morphologie 3848 3870	foyer hypermétabolique
+T51	topographie 3895 3916	parenchyme pulmonaire
+T52	morphologie 3970 3993	nodule hypermétabolique
+T54	topographie 4025 4040	lobe thyroïdien
+T55	morphologie 4154 4160	nodule
+T57	topographie 4161 4171	thyroïdien
+T59	morphologie 4206 4247	carcinome à petites cellules métastatique
+T60	morphologie 4371 4380	métastase
+T62	topographie 4381 4393	thyroïdienne
+T63	morphologie 4524 4536	infiltration
+T65	topographie 4565 4573	œsophage
+T66	morphologie 4711 4720	Métastase
+T68	topographie 4721 4733	thyroïdienne
+T69	morphologie 4739 4748	carcinome
+T72	morphologie 4760 4778	à petites cellules
+T71	topographie 4749 4759	pulmonaire

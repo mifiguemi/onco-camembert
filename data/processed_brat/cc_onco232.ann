@@ -1,0 +1,20 @@
+T1	morphologie 925 945	carcinome médullaire
+T3	topographie 952 960	thyroïde
+T5	morphologie 1126 1136	néoplasmes
+T7	morphologie 1158 1174	phéochromocytome
+T8	morphologie 1341 1361	carcinome médullaire
+T10	topographie 1368 1376	thyroïde
+T12	morphologie 1409 1417	récidive
+T13	morphologie 1902 1922	carcinome médullaire
+T15	topographie 1929 1937	thyroïde
+T18	morphologie 2197 2206	carcinome
+T20	topographie 2207 2215	mammaire
+T22	morphologie 2474 2490	tumeurs malignes
+T23	morphologie 2946 2952	cancer
+T25	topographie 2958 2964	ovaire
+T26	topographie 2971 2975	sein
+T27	morphologie 3168 3174	cancer
+T29	topographie 3180 3186	ovaire
+T30	morphologie 3529 3535	cancer
+T32	topographie 3539 3543	sein
+T17	morphologie 2076 2129	syndrome du cancer héréditaire du sein et de l'ovaire

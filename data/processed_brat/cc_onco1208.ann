@@ -1,0 +1,20 @@
+T1	morphologie 59 73	adénocarcinome
+T3	topographie 74 84	pulmonaire
+T5	morphologie 986 993	lésions
+T6	morphologie 1002 1007	masse
+T8	topographie 1008 1017	cervicale
+T10	morphologie 1148 1154	masses
+T12	morphologie 1166 1172	lésion
+T13	morphologie 1279 1284	masse
+T15	topographie 1285 1295	pulmonaire
+T16	topographie 1304 1307	LSD
+T18	morphologie 1631 1636	masse
+T19	morphologie 1751 1759	atteinte
+T21	topographie 1760 1772	endocardique
+T22	morphologie 2878 2892	adénocarcinome
+T24	topographie 2893 2903	pulmonaire
+T25	morphologie 2919 2931	infiltration
+T27	topographie 2938 2944	plèvre
+T28	morphologie 2996 3004	atteinte
+T30	topographie 3009 3031	ganglions lymphatiques
+T32	morphologie 3147 3153	lésion

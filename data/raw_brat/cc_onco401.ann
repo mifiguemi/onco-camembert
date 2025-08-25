@@ -1,0 +1,173 @@
+T1	morphologie 200 209	néoplasie
+T2	expression_CIM 200 218	néoplasie du côlon
+T3	topographie 213 218	côlon
+T4	morphologie 848 854	polype
+T5	expression_CIM 848 869	polype dans le rectum
+T6	topographie 863 869	rectum
+T7	topographie 965 971	rectum
+T8	expression_CIM 965 982	rectum, un polype
+T9	morphologie 976 982	polype
+T10	topographie 1041 1046	sigma
+T11	expression_CIM 1041 1071	sigma, on observe deux polypes
+T12	morphologie 1064 1071	polypes
+T13	topographie 1162 1178	côlon descendant
+T14	expression_CIM 1162 1264	côlon descendant, à environ 50 cm de la marge anale, on observe une lésion clairement néoproliférative
+T15	morphologie 1230 1236;1248 1264	lésion néoproliférative
+T16	expression_CIM 1435 1449	adénocarcinome
+T17	morphologie 1435 1449	adénocarcinome
+T18	morphologie 1490 1502	néoformation
+T19	expression_CIM 1490 1527	néoformation dans le côlon transverse
+T20	topographie 1511 1527	côlon transverse
+T21	morphologie 1601 1622	Image pseudonodulaire
+T22	expression_CIM 1601 1679	Image pseudonodulaire mesurant 15 x 12 mm, indéterminée dans le hile splénique
+T23	topographie 1665 1679	hile splénique
+T24	topographie 1758 1772	hile splénique
+T25	expression_CIM 1758 1787	hile splénique : infiltration
+T26	morphologie 1775 1787	infiltration
+T27	expression_CIM 1795 1809	adénocarcinome
+T28	morphologie 1795 1809	adénocarcinome
+T29	morphologie 2040 2096	adénocarcinome à cellules en anneau de Signe et mucineux
+T30	expression_CIM 2040 2123	adénocarcinome à cellules en anneau de Signe et mucineux du côlon transverse distal
+T31	topographie 2100 2123	côlon transverse distal
+T32	morphologie 2161 2177	lymphadénopathie
+T33	expression_CIM 2161 2212	lymphadénopathie infiltrante dans le hile splénique
+T34	topographie 2198 2212	hile splénique
+T35	expression_CIM 2227 2247	extension à distance
+T36	morphologie 2227 2247	extension à distance
+T37	morphologie 2629 2635	tumeur
+T38	expression_CIM 2629 2652	tumeur peu différenciée
+T39	differenciation 2636 2652	peu différenciée
+T40	morphologie 2658 2666	invasion
+T41	expression_CIM 2658 2733	invasion du péritoine viscéral, du péritoine lymphovasculaire et périneural
+T42	topographie 2670 2688	péritoine viscéral
+T43	topographie 2693 2702	péritoine
+T44	topographie 2703 2719	lymphovasculaire
+T46	morphologie 2747 2755	invasion
+T47	expression_CIM 2747 2791	invasion de 17 des 21 ganglions lymphatiques
+T48	topographie 2769 2791	ganglions lymphatiques
+T49	expression_CIM 3172 3178	tumeur
+T50	morphologie 3172 3178	tumeur
+T51	morphologie 4783 4791	récidive
+T52	expression_CIM 4783 4803	récidive péritonéale
+T53	topographie 4792 4803	péritonéale
+T54	morphologie 4834 4842	implants
+T55	expression_CIM 4834 4883	implants péritonéaux au pôle inférieur de la rate
+T56	topographie 4843 4854	péritonéaux
+T57	topographie 4879 4883	rate
+T58	morphologie 4934 4952	masse métastatique
+T59	expression_CIM 4934 5013	masse métastatique rétropéritonéale au contact de la partie postérieure du rein
+T60	topographie 4953 4969	rétropéritonéale
+T61	topographie 5009 5013	rein
+T62	morphologie 5071 5079	implants
+T63	expression_CIM 5071 5112	implants sous-phréniques postéro-latéraux
+T65	morphologie 8106 8117	progression
+T66	expression_CIM 8106 8129	progression péritonéale
+T67	topographie 8118 8129	péritonéale
+T68	morphologie 8167 8188	lésions métastatiques
+T69	expression_CIM 8167 8217	lésions métastatiques au pôle inférieur de la rate
+T70	topographie 8213 8217	rate
+T71	morphologie 8242 8250	implants
+T72	expression_CIM 8242 8279	implants pararénaux et périspléniques
+T73	topographie 8251 8261	pararénaux
+T74	topographie 8265 8279	périspléniques
+T75	morphologie 9790 9805	implant tumoral
+T76	expression_CIM 9790 9821	implant tumoral rétropéritonéal
+T77	topographie 9806 9821	rétropéritonéal
+T78	expression_CIM 9832 9839	maladie
+T79	morphologie 9832 9839	maladie
+T80	morphologie 9851 9858	lésions
+T81	expression_CIM 9851 9869	lésions spléniques
+T82	topographie 9859 9869	spléniques
+T83	expression_CIM 10448 10468	progression tumorale
+T84	morphologie 10448 10468	progression tumorale
+T85	morphologie 10473 10481	implants
+T86	expression_CIM 10473 10493	implants péritonéaux
+T87	topographie 10482 10493	péritonéaux
+T88	morphologie 10509 10516	lésions
+T89	expression_CIM 10509 10527	lésions spléniques
+T90	topographie 10517 10527	spléniques
+T91	expression_CIM 12281 12304	stabilité de la maladie
+T92	morphologie 12281 12304	stabilité de la maladie
+T45	topographie 2723 2733	périneural
+T64	topographie 5080 5112	sous-phréniques postéro-latéraux
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C18.9 8000/1
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8210/0
+#5	ICD-O T5	C20.9 8210/0
+#6	ICD-O T6	C20.9
+#7	ICD-O T7	C20.9
+#8	ICD-O T9	8210/1
+#9	ICD-O T10	C18.7
+#10	ICD-O T12	8210/1
+#11	ICD-O T13	C18.6 
+#12	ICD-O T15	8000/3
+#13	ICD-O T16	8140/3
+#14	ICD-O T17	8140/3
+#15	ICD-O T18	8000/3
+#16	ICD-O T19	C18.4 8000/3
+#17	ICD-O T20	C18.4
+#18	ICD-O T21	8000/1
+#19	ICD-O T23	C42.2
+#20	ICD-O T24	C42.2
+#21	ICD-O T26	8000/1
+#22	ICD-O T27	8140/3
+#23	ICD-O T28	8140/3
+#24	ICD-O T29	8490/3
+#25	ICD-O T31	C18.4
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	C77.2 8000/1
+#28	ICD-O T34	C42.2
+#29	ICD-O T35	8000/6
+#30	ICD-O T36	8000/6
+#31	ICD-O T37	8000/3
+#32	ICD-O T38	8000/13
+#33	ICD-O T39	3
+#34	ICD-O T40	8000/9
+#35	ICD-O T42	C48.2
+#36	ICD-O T43	C48.2 
+#37	ICD-O T44	C49.9
+#38	ICD-O T46	8000/9
+#39	ICD-O T47	C77.9 8000/1
+#40	ICD-O T48	C77.9
+#41	ICD-O T49	8000/1
+#42	ICD-O T50	8000/3
+#43	ICD-O T51	8000/9
+#44	ICD-O T52	C48.2 8000/6
+#45	ICD-O T53	C48.2
+#46	ICD-O T54	8000/6
+#47	ICD-O T55	C42.2 8000/6;C48.2 8000/6
+#48	ICD-O T56	C48.2
+#49	ICD-O T57	C42.2
+#50	ICD-O T58	8000/6
+#51	ICD-O T60	C48.0
+#52	ICD-O T61	C64.9
+#53	ICD-O T62	8000/6
+#54	ICD-O T65	8000/9
+#55	ICD-O T66	C48.2 8000/6
+#56	ICD-O T67	C48.2
+#57	ICD-O T68	8000/6
+#58	ICD-O T69	C42.2 8000/6
+#59	ICD-O T70	C42.2
+#60	ICD-O T71	8000/6
+#61	ICD-O T72	C76.2 8000/6
+#62	ICD-O T73	C76.2
+#63	ICD-O T74	C76.2
+#64	ICD-O T75	8000/6
+#65	ICD-O T76	C48.0 8000/6
+#66	ICD-O T77	C48.0
+#67	ICD-O T79	8000/9
+#68	ICD-O T80	8000/1
+#69	ICD-O T81	C42.2 8000/1
+#70	ICD-O T82	C42.2
+#71	ICD-O T83	8000/3
+#72	ICD-O T84	8000/9
+#73	ICD-O T85	8000/6
+#74	ICD-O T86	C48.2 8000/6
+#75	ICD-O T87	C48.2
+#76	ICD-O T88	8000/1
+#77	ICD-O T89	C42.2 8000/1
+#78	ICD-O T90	C42.2
+#79	ICD-O T91	8000/6
+#80	ICD-O T92	8000/9
+#81	AnnotatorNotes T29	trad

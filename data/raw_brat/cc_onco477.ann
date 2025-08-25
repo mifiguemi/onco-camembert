@@ -1,0 +1,105 @@
+T38	topographie 3735 3749	espace vermien
+T1	morphologie 85 91	nodule
+T2	expression_CIM 85 104	nodule dans le sein
+T3	topographie 100 104	sein
+T4	morphologie 177 183	cancer
+T5	expression_CIM 177 191	cancer du sein
+T6	topographie 187 191	sein
+T7	morphologie 278 308	carcinome canalaire infiltrant
+T8	expression_CIM 278 316	carcinome canalaire infiltrant du sein
+T9	topographie 312 316	sein
+T10	morphologie 884 914	carcinome canalaire infiltrant
+T11	expression_CIM 884 922	carcinome canalaire infiltrant du sein
+T12	topographie 918 922	sein
+T13	morphologie 1591 1597	nodule
+T14	expression_CIM 1591 1645	nodule hypoéchogène dans le lit de mastectomie du sein
+T15	topographie 1641 1645	sein
+T16	morphologie 1767 1776;1786 1806	carcinome canalaire infiltrant
+T17	expression_CIM 1767 1817	carcinome mammaire canalaire infiltrant de grade 3
+T18	topographie 1777 1785	mammaire
+T19	differenciation 1810 1817	grade 3
+T20	morphologie 2294 2301	lésions
+T21	expression_CIM 2294 2326	lésions dans la région pectorale
+T23	morphologie 2374 2386	infiltration
+T24	expression_CIM 2374 2395	infiltration dermique
+T25	topographie 2387 2395	dermique
+T26	morphologie 2401 2407	cancer
+T27	expression_CIM 2401 2415	cancer du sein
+T28	topographie 2411 2415	sein
+T29	morphologie 2939 2945	lésion
+T30	expression_CIM 2939 3010	lésion occupant l'espace a été observée au niveau du vermis cérébelleux
+T32	morphologie 3059 3068	métastase
+T33	expression_CIM 3059 3081	métastase cérébelleuse
+T34	topographie 3069 3081	cérébelleuse
+T35	expression_CIM 3119 3125	lésion
+T36	morphologie 3119 3125	lésion
+T37	expression_CIM 3717 3764	lésion occupant l'espace vermien et cérébelleux
+T39	topographie 3753 3764	cérébelleux
+T40	expression_CIM 3845 3851	lésion
+T41	morphologie 3845 3851	lésion
+T42	expression_CIM 4647 4675	maladie locale ou à distance
+T43	morphologie 4647 4675	maladie locale ou à distance
+T44	morphologie 4689 4695	Cancer
+T45	expression_CIM 4689 4703	Cancer du sein
+T46	topographie 4699 4703	sein
+T47	expression_CIM 4763 4788	Progression de la maladie
+T48	morphologie 4763 4788	Progression de la maladie
+T49	morphologie 4804 4813	métastase
+T50	expression_CIM 4804 4826	métastase cérébelleuse
+T51	topographie 4814 4826	cérébelleuse
+T52	morphologie 4895 4901	lésion
+T53	expression_CIM 4895 4914	lésion cérébelleuse
+T54	topographie 4902 4914	cérébelleuse
+T55	expression_CIM 5404 5412	récidive
+T56	morphologie 5404 5412	récidive
+T22	topographie 2310 2326	région pectorale
+T31	topographie 2992 3010	vermis cérébelleux
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8500/3
+#8	ICD-O T8	C50.9 8500/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8500/3
+#11	ICD-O T11	C50.9 8500/3
+#12	ICD-O T12	C50.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C50.9 8000/1
+#15	ICD-O T15	C50.9
+#16	ICD-O T16	8500/3
+#17	ICD-O T17	C50.9 8500/33
+#18	ICD-O T18	C50.9
+#19	ICD-O T19	3
+#20	ICD-O T20	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	C44.9 8000/1
+#23	ICD-O T25	C44.9
+#24	ICD-O T26	8000/3
+#25	ICD-O T27	C50.9 8000/3
+#26	ICD-O T28	C50.9
+#27	ICD-O T29	8000/1
+#28	ICD-O T32	8000/6
+#29	ICD-O T33	C71.6 8000/6
+#30	ICD-O T34	C71.6
+#31	ICD-O T35	8000/1
+#32	ICD-O T36	8000/1
+#33	ICD-O T39	C71.6
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T43	8000/9
+#37	ICD-O T44	8000/3
+#38	ICD-O T45	C50.9 8000/3
+#39	ICD-O T46	C50.9
+#40	ICD-O T47	8000/1
+#41	ICD-O T48	8000/9
+#42	ICD-O T49	8000/6
+#43	ICD-O T50	C71.6 8000/6
+#44	ICD-O T51	C71.6
+#45	ICD-O T52	8000/1
+#46	ICD-O T53	C71.6 8000/1
+#47	ICD-O T54	C71.6
+#48	ICD-O T55	8000/6
+#49	ICD-O T56	8000/9

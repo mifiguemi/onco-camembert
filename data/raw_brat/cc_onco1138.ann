@@ -1,0 +1,8 @@
+T1	morphologie 62 76	adénocarcinome
+T2	expression_CIM 62 104	adénocarcinome de stade IV du moyen rectum
+T3	expression_CIM 80 88	stade IV
+T4	topographie 98 104	rectum
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C20.9 8140/3
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	C20.9

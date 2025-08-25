@@ -1,0 +1,47 @@
+T1	expression_CIM 1528 1533	masse
+T2	morphologie 1528 1533	masse
+T3	morphologie 2008 2013	masse
+T4	expression_CIM 2008 2156	masse multiloculaire, solide, hétérogène, hypoéchogène, hypoéchogène, bien circonscrite avec de multiples septa fibreux dans la région hypogastrique
+T7	expression_CIM 2449 2471	hypogastre d'une masse
+T8	morphologie 2466 2471	masse
+T9	expression_CIM 2615 2624	extension
+T10	morphologie 2615 2624	extension
+T11	morphologie 2709 2715	Tumeur
+T12	expression_CIM 2709 2727	Tumeur de l'urètre
+T13	topographie 2721 2727	urètre
+T14	morphologie 2897 2903	tumeur
+T15	expression_CIM 2897 2916	tumeur de la vessie
+T16	topographie 2910 2916	vessie
+T17	morphologie 3235 3258	adénocarcinome mucineux
+T18	expression_CIM 3235 3270	adénocarcinome mucineux de l'utérus
+T19	topographie 3264 3270	utérus
+T20	expression_CIM 3913 3919	tumeur
+T21	morphologie 3913 3919	tumeur
+T22	morphologie 4661 4677	lymphadénopathie
+T23	expression_CIM 4661 4724	lymphadénopathie rétropéritonéale millimétrique interaorto-cave
+T24	topographie 4678 4694;4709 4724	rétropéritonéale interaorto-cave
+T25	expression_CIM 5726 5742	maladie tumorale
+T26	morphologie 5726 5742	maladie tumorale
+T6	topographie 2449 2459	hypogastre
+T5	topographie 2136 2156	région hypogastrique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T8	8000/1
+#5	ICD-O T9	8000/6
+#6	ICD-O T10	8000/6
+#7	ICD-O T11	8000/1
+#8	ICD-O T12	C68.0 8000/1
+#9	ICD-O T13	C68.0
+#10	ICD-O T14	8000/1
+#11	ICD-O T15	C67.9 8000/1
+#12	ICD-O T16	C67.9
+#13	ICD-O T17	8480/3
+#14	ICD-O T18	C55.9 8480/3
+#15	ICD-O T19	C55.9
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	8000/1
+#19	ICD-O T24	C48.0
+#20	ICD-O T25	8000/3
+#21	ICD-O T26	8000/3

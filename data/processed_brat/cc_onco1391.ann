@@ -1,0 +1,32 @@
+T2	morphologie 330 342	adénopathies
+T3	morphologie 695 700	masse
+T5	topographie 729 743	lobe inférieur
+T6	topographie 751 754	LID
+T7	morphologie 803 815	Adénopathies
+T9	topographie 816 829	médiastinales
+T10	morphologie 831 838	Lésions
+T12	topographie 839 847	osseuses
+T13	topographie 861 878	manubrium sternal
+T14	topographie 888 896	vertèbre
+T16	morphologie 940 946	lipome
+T18	morphologie 953 961	tératome
+T20	morphologie 987 1013	dissémination métastatique
+T22	morphologie 1076 1090	adénocarcinome
+T23	morphologie 1154 1168	Adénocarcinome
+T25	topographie 1172 1178	poumon
+T27	morphologie 1188 1196	stade IV
+T28	morphologie 1208 1218	métastases
+T30	topographie 1219 1230	pulmonaires
+T31	morphologie 1262 1272	métastases
+T33	topographie 1273 1281	osseuses
+T34	morphologie 1486 1491	masse
+T36	topographie 1492 1505	paracardiaque
+T38	morphologie 1557 1565	tératome
+T39	morphologie 1841 1855	masse tumorale
+T41	topographie 1856 1859	LID
+T42	morphologie 1892 1899	nodules
+T44	topographie 1900 1911	pulmonaires
+T45	morphologie 2494 2506	infiltration
+T47	topographie 2515 2537	cortico-sous-corticale
+T48	topographie 2545 2565	ganglions de la base
+T50	morphologie 2585 2600	micrométastases

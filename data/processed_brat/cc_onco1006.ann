@@ -1,0 +1,53 @@
+T1	morphologie 816 828	néoformation
+T3	topographie 837 842	sigma
+T5	morphologie 852 876	composante adénopathique
+T6	morphologie 898 905	lésions
+T80	morphologie 919 932	métastatiques
+T10	morphologie 1004 1010	lésion
+T11	morphologie 1164 1178	adénocarcinome
+T13	differenciation 1179 1195	bien différencié
+T14	morphologie 1656 1668	néoformation
+T16	topographie 1677 1682	sigma
+T17	morphologie 1738 1745	lésions
+T81	morphologie 1759 1772	métastatiques
+T21	morphologie 1844 1850	lésion
+T22	morphologie 2004 2018	adénocarcinome
+T24	differenciation 2019 2035	bien différencié
+T25	morphologie 2212 2226	adénocarcinome
+T27	topographie 2227 2237	sigmoïdien
+T28	morphologie 2275 2283	atteinte
+T30	topographie 2284 2293	hépatique
+T32	morphologie 2469 2484	tumeur primaire
+T33	morphologie 2579 2589	métastases
+T35	topographie 2590 2600	hépatiques
+T36	morphologie 2710 2715	masse
+T38	topographie 2724 2740	sus-claviculaire
+T39	morphologie 2908 2917	métastase
+T41	topographie 2918 2931	ganglionnaire
+T42	morphologie 2941 2955	adénocarcinome
+T44	topographie 2959 2964	côlon
+T46	morphologie 3029 3044	tumeur primaire
+T47	morphologie 3144 3158	adénocarcinome
+T49	topographie 3162 3167	côlon
+T50	morphologie 3460 3479	masse adénopathique
+T52	topographie 3480 3496	sus-claviculaire
+T53	morphologie 3632 3657	progression de la maladie
+T55	topographie 3668 3685	supraclaviculaire
+T56	morphologie 3766 3773	lésions
+T58	topographie 3774 3784	hépatiques
+T59	morphologie 4091 4110	masse adénopathique
+T61	topographie 4111 4127	sus-claviculaire
+T62	morphologie 4311 4323	adénopathies
+T64	topographie 4324 4342	supraclaviculaires
+T65	morphologie 4360 4370	métastases
+T67	topographie 4371 4381	hépatiques
+T68	morphologie 4421 4431	métastases
+T70	topographie 4432 4442	hépatiques
+T72	morphologie 4566 4591	progression de la maladie
+T74	morphologie 4768 4795	stabilisation de la maladie
+T75	morphologie 5438 5449	progression
+T77	topographie 5460 5477	supraclaviculaire
+T78	topographie 5479 5489	pulmonaire
+T79	topographie 5503 5520	hilaire hépatique
+T8	topographie 942 959	segments II et VI
+T19	topographie 1782 1799	segments II et VI

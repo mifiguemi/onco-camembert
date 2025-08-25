@@ -1,0 +1,27 @@
+T1	morphologie 88 94	cancer
+T3	topographie 98 102	sein
+T4	morphologie 109 115	cancer
+T6	topographie 121 127	ovaire
+T7	morphologie 155 161	cancer
+T9	topographie 165 169	sein
+T10	morphologie 212 218	cancer
+T12	topographie 224 230	ovaire
+T14	morphologie 792 813	processus néoplasique
+T16	morphologie 906 921	tumeur primaire
+T17	morphologie 940 947	implant
+T19	topographie 948 955	omental
+T20	morphologie 1015 1031	carcinome séreux
+T22	differenciation 1035 1045	haut grade
+T23	topographie 1056 1065	ovarienne
+T24	morphologie 1339 1347	atteinte
+T28	morphologie 1514 1530	atteinte étendue
+T29	morphologie 1537 1543	tumeur
+T31	topographie 1544 1555	péritonéale
+T33	morphologie 1813 1819	tumeur
+T35	morphologie 2194 2200	tumeur
+T36	morphologie 2881 2889	implants
+T38	topographie 2890 2901	péritonéaux
+T39	morphologie 3069 3075	cancer
+T41	topographie 3081 3087	ovaire
+T43	morphologie 3219 3243	infiltration néoplasique
+T26	topographie 1368 1387	racine du mésentère

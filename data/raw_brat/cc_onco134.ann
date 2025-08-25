@@ -1,0 +1,53 @@
+T1	morphologie 1804 1823	Croissance tumorale
+T2	expression_CIM 1804 1856	Croissance tumorale étendue de la paroi de la vessie
+T3	topographie 1838 1856	paroi de la vessie
+T4	expression_CIM 1902 1913	adénopathie
+T5	morphologie 1902 1913	adénopathie
+T6	expression_CIM 1921 1932	adénopathie
+T7	morphologie 1921 1932	adénopathie
+T8	expression_CIM 2202 2223	carcinome épidermoïde
+T9	morphologie 2202 2223	carcinome épidermoïde
+T10	expression_CIM 2466 2500	carcinome urothélial conventionnel
+T11	morphologie 2466 2500	carcinome urothélial conventionnel
+T12	expression_CIM 2513 2547	zones de différenciation squameuse
+T13	morphologie 2513 2547	zones de différenciation squameuse
+T14	expression_CIM 2562 2581	zones sarcomatoïdes
+T15	morphologie 2562 2581	zones sarcomatoïdes
+T16	morphologie 2605 2612	lésions
+T17	expression_CIM 2605 2623	lésions hépatiques
+T18	topographie 2613 2623	hépatiques
+T19	morphologie 2728 2750	carcinome sarcomatoïde
+T20	expression_CIM 2728 2763	carcinome sarcomatoïde de la vessie
+T21	topographie 2757 2763	vessie
+T22	morphologie 3379 3386	lésions
+T23	expression_CIM 3379 3397	lésions hépatiques
+T24	topographie 3387 3397	hépatiques
+T25	morphologie 3457 3465	implants
+T26	expression_CIM 3457 3477	implants péritonéaux
+T27	topographie 3466 3477	péritonéaux
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C67.9 8000/3
+#3	ICD-O T3	C67.9
+#4	ICD-O T4	C77.9 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.9 8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8070/3
+#9	ICD-O T9	8070/3
+#10	ICD-O T11	8120/3
+#11	ICD-O T12	8560/3
+#12	ICD-O T13	8560/3
+#13	ICD-O T14	8033/3
+#14	ICD-O T15	8033/3
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C22.0 8000/1
+#17	ICD-O T18	C22.0
+#18	ICD-O T19	8033/3
+#19	ICD-O T20	C67.9 8033/3
+#20	ICD-O T21	C67.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C22.0 8000/1
+#23	ICD-O T24	C22.0
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	C48.2 8000/6
+#26	ICD-O T27	C48.2

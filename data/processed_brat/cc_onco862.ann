@@ -1,0 +1,49 @@
+T17	topographie 1116 1125	mésosigme
+T1	morphologie 181 195	adénocarcinome
+T3	topographie 217 223	rectum
+T4	morphologie 395 401	tumeur
+T6	topographie 457 463	rectum
+T7	morphologie 590 602	adénopathies
+T9	topographie 603 613	inguinales
+T10	topographie 617 627	présacrées
+T12	topographie 678 717	ganglions lymphatiques rétropéritonéaux
+T14	morphologie 740 748	stade IV
+T15	morphologie 1100 1107	implant
+T19	morphologie 1195 1204	carcinome
+T21	morphologie 1493 1523	cellules épithéliales malignes
+T23	morphologie 1895 1901	tumeur
+T24	morphologie 1935 1948	dissémination
+T26	topographie 1949 1960	péritonéale
+T27	morphologie 2010 2026	lymphadénopathie
+T29	topographie 2027 2043	rétropéritonéale
+T30	morphologie 2310 2317	lésions
+T32	topographie 2318 2326	osseuses
+T33	morphologie 2459 2495	augmentation diffuse de la captation
+T37	morphologie 2598 2605	lésions
+T39	morphologie 3010 3017	lésions
+T40	morphologie 3049 3060	progression
+T42	topographie 3075 3082	osseuse
+T43	morphologie 3347 3354	nodules
+T45	topographie 3355 3362	cutanés
+T47	morphologie 3529 3548	atteinte secondaire
+T48	morphologie 3687 3694	Nodules
+T50	topographie 3695 3707	sous-cutanés
+T51	morphologie 4158 4165	Nodules
+T53	topographie 4166 4178	sous-cutanés
+T54	morphologie 4682 4689	nodules
+T56	topographie 4699 4710	pulmonaires
+T57	morphologie 4855 4862	lésions
+T59	topographie 4863 4871	osseuses
+T60	morphologie 5424 5433	Métastase
+T62	topographie 5434 5441	cutanée
+T63	morphologie 5447 5461	adénocarcinome
+T76	morphologie 5484 5516	avec cellules en anneau de Signe
+T65	topographie 5472 5483	intestinale
+T66	morphologie 5548 5568	progression tumorale
+T68	topographie 5579 5585	cutané
+T69	morphologie 5805 5812	lésions
+T71	topographie 5813 5821	cutanées
+T72	morphologie 5985 5993	atteinte
+T74	topographie 5994 6005	péritonéale
+T75	topographie 6009 6022	adénopathique
+T35	topographie 2515 2524	squelette

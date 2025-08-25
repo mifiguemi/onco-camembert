@@ -1,0 +1,238 @@
+T17	topographie 2879 2900	espaces prévasculaire
+T18	topographie 2910 2922	paratrachéal
+T19	topographie 2932 2943	rétrocrural
+T1	morphologie 776 781	masse
+T2	expression_CIM 776 794	masse testiculaire
+T3	topographie 782 794	testiculaire
+T4	expression_CIM 1236 1241	masse
+T5	morphologie 1236 1241	masse
+T6	expression_CIM 2125 2131	tumeur
+T7	morphologie 2125 2131	tumeur
+T8	expression_CIM 2382 2404	néoplasie testiculaire
+T9	topographie 2392 2404	testiculaire
+T10	expression_CIM 2447 2455	lymphome
+T11	morphologie 2447 2455	lymphome
+T12	morphologie 2600 2609;2623 2631	néoplasme primaire
+T13	expression_CIM 2600 2631	néoplasme testiculaire primaire
+T14	topographie 2610 2622	testiculaire
+T15	morphologie 2768 2786	lésions nodulaires
+T16	expression_CIM 2768 2943	lésions nodulaires solides aux limites bien définies et au centre hypodense sont identifiées, situées dans les espaces prévasculaire (34 mm), paratrachéal droit et rétrocrural
+T20	morphologie 3043 3068	conglomérat adénopathique
+T21	expression_CIM 3043 3084	conglomérat adénopathique rétropéritonéal
+T22	topographie 3069 3084	rétropéritonéal
+T23	expression_CIM 3144 3156	adénopathies
+T24	morphologie 3144 3156	adénopathies
+T25	morphologie 3219 3229	métastases
+T26	expression_CIM 3219 3244	métastases ganglionnaires
+T27	topographie 3230 3244	ganglionnaires
+T28	morphologie 3251 3260	néoplasie
+T29	expression_CIM 3251 3273	néoplasie testiculaire
+T30	topographie 3261 3273	testiculaire
+T31	expression_CIM 3282 3299	lymphome primaire
+T32	morphologie 3282 3299	lymphome primaire
+T33	expression_CIM 3319 3448	foyers hypermétaboliques en corrélation avec les résultats de la tomodensitométrie, situés dans le médiastin et le rétropéritoine
+T34	topographie 3418 3427	médiastin
+T35	topographie 3434 3448	rétropéritoine
+T36	expression_CIM 3464 3485	activité métastatique
+T37	morphologie 3464 3485	activité métastatique
+T38	expression_CIM 3524 3542	séminome classique
+T39	morphologie 3524 3542	séminome classique
+T40	morphologie 3622 3630	invasion
+T41	expression_CIM 3622 3641	invasion vasculaire
+T42	topographie 3631 3641	vasculaire
+T43	expression_CIM 3725 3731	tumeur
+T44	morphologie 3725 3731	tumeur
+T45	morphologie 3790 3799;3813 3821	néoplasie primaire
+T46	expression_CIM 3790 3821	néoplasie testiculaire primaire
+T47	topographie 3800 3812	testiculaire
+T48	expression_CIM 3830 3838	séminome
+T49	morphologie 3830 3838	séminome
+T50	expression_CIM 3914 3922	séminome
+T51	morphologie 3914 3922	séminome
+T52	expression_CIM 3926 3934	stade IV
+T53	morphologie 3926 3934	stade IV
+T54	expression_CIM 3993 4011	tumeurs germinales
+T55	morphologie 3993 4011	tumeurs germinales
+T56	morphologie 4627 4652	conglomérat adénopathique
+T57	expression_CIM 4627 4668	conglomérat adénopathique rétropéritonéal
+T58	topographie 4653 4668	rétropéritonéal
+T59	morphologie 4676 4688	adénopathies
+T60	expression_CIM 4676 4702	adénopathies médiastinales
+T61	topographie 4689 4702	médiastinales
+T62	expression_CIM 4720 4742	captation pathologique
+T63	morphologie 4720 4742	captation pathologique
+T64	expression_CIM 4758 4779	activité métastatique
+T65	morphologie 4758 4779	activité métastatique
+T66	expression_CIM 5329 5336	lésions
+T67	morphologie 5329 5336	lésions
+T68	morphologie 5409 5420	conglomérat
+T69	expression_CIM 5409 5436	conglomérat rétropéritonéal
+T70	topographie 5421 5436	rétropéritonéal
+T71	morphologie 5478 5484	lésion
+T72	expression_CIM 5478 5537	lésion était apparue dans l'articulation sternoclaviculaire
+T73	topographie 5506 5537	articulation sternoclaviculaire
+T74	expression_CIM 5601 5607	masses
+T75	morphologie 5601 5607	masses
+T76	expression_CIM 5668 5677	séminomes
+T77	morphologie 5668 5677	séminomes
+T78	morphologie 5827 5833	lésion
+T79	expression_CIM 5827 5869	lésion la plus accessible (hile pulmonaire
+T80	topographie 5854 5869	hile pulmonaire
+T81	expression_CIM 5884 5902	cellules tumorales
+T82	morphologie 5884 5902	cellules tumorales
+T83	morphologie 5989 6010	carcinome épidermoïde
+T84	expression_CIM 5989 6020	carcinome épidermoïde du poumon
+T85	topographie 6014 6020	poumon
+T86	morphologie 6044 6050	tumeur
+T87	expression_CIM 6044 6061	tumeur pulmonaire
+T88	topographie 6051 6061	pulmonaire
+T89	expression_CIM 6113 6123	métastases
+T90	morphologie 6113 6123	métastases
+T91	expression_CIM 6137 6145	séminome
+T92	morphologie 6137 6145	séminome
+T93	expression_CIM 6207 6215	séminome
+T94	morphologie 6207 6215	séminome
+T95	morphologie 6237 6258	Carcinome épidermoïde
+T96	expression_CIM 6237 6268	Carcinome épidermoïde du poumon
+T97	topographie 6262 6268	poumon
+T98	expression_CIM 6269 6273	E-IV
+T99	morphologie 6269 6273	E-IV
+T100	expression_CIM 6376 6397	carcinome épidermoïde
+T101	morphologie 6376 6397	carcinome épidermoïde
+T102	morphologie 6776 6783	lésions
+T103	expression_CIM 6776 6797	lésions médiastinales
+T104	topographie 6784 6797	médiastinales
+T105	morphologie 6859 6864	masse
+T106	expression_CIM 6859 6872	masse hilaire
+T107	topographie 6865 6872	hilaire
+T108	expression_CIM 6961 6967	tumeur
+T109	morphologie 6961 6967	tumeur
+T110	morphologie 7012 7018	tumeur
+T111	expression_CIM 7012 7029	tumeur pulmonaire
+T112	topographie 7019 7029	pulmonaire
+T113	morphologie 7123 7129	cancer
+T114	expression_CIM 7123 7139	cancer du poumon
+T115	topographie 7133 7139	poumon
+T116	expression_CIM 7205 7212	lésions
+T117	morphologie 7205 7212	lésions
+T118	expression_CIM 7321 7348	stabilisation de la maladie
+T119	morphologie 7321 7348	stabilisation de la maladie
+T120	morphologie 7641 7658	atteinte tumorale
+T121	expression_CIM 7641 7670	atteinte tumorale des poumons
+T122	topographie 7663 7670	poumons
+T123	expression_CIM 7846 7854	séminome
+T124	morphologie 7846 7854	séminome
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C62.9 8000/1
+#3	ICD-O T3	C62.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C62.9 8000/1
+#9	ICD-O T9	C62.9
+#10	ICD-O T10	9590/3
+#11	ICD-O T11	9590/3
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	C62.9 8000/3
+#14	ICD-O T14	C62.9
+#15	ICD-O T15	8000/1
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	C77.2 8000/1
+#18	ICD-O T22	C48.0
+#19	ICD-O T23	C77.9 8000/1
+#20	ICD-O T24	8000/1
+#21	ICD-O T25	8000/6
+#22	ICD-O T26	C77.9 8000/6
+#23	ICD-O T27	C77.9
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	C62.9 8000/1
+#26	ICD-O T30	C62.9
+#27	ICD-O T31	9590/3
+#28	ICD-O T32	9590/3
+#29	ICD-O T33	C38.3 8000/1;C48.0 8000/1
+#30	ICD-O T34	C38.3
+#31	ICD-O T35	C48.0
+#32	ICD-O T37	8000/6
+#33	ICD-O T38	9061/3
+#34	ICD-O T39	9061/3
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	C49.9 8000/1
+#37	ICD-O T42	C49.9
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	8000/3
+#41	ICD-O T46	C62.9 8000/3
+#42	ICD-O T47	C62.9
+#43	ICD-O T48	9061/3
+#44	ICD-O T49	9061/3
+#45	ICD-O T50	9061/3
+#46	ICD-O T51	9061/3
+#47	ICD-O T52	8000/6
+#48	ICD-O T53	8000/6
+#49	ICD-O T54	8064/3
+#50	ICD-O T55	8064/3
+#51	ICD-O T56	8000/1
+#52	ICD-O T57	C77.2 8000/1
+#53	ICD-O T58	C48.0
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	C77.1 8000/1
+#56	ICD-O T61	C38.3
+#57	ICD-O T63	8000/9
+#58	ICD-O T65	8000/6
+#59	ICD-O T66	8000/1
+#60	ICD-O T67	8000/1
+#61	ICD-O T68	8000/1
+#62	ICD-O T70	C48.0
+#63	ICD-O T71	8000/1
+#64	ICD-O T73	C41.3
+#65	ICD-O T74	8000/1
+#66	ICD-O T75	8000/1
+#67	ICD-O T76	9061/3
+#68	ICD-O T77	9061/3
+#69	ICD-O T78	8000/1
+#70	ICD-O T80	C34.0
+#71	ICD-O T81	8001/1
+#72	ICD-O T82	8001/1
+#73	ICD-O T83	8070/3
+#74	ICD-O T84	C34.9 8070/3
+#75	ICD-O T85	C34.9
+#76	ICD-O T86	8000/1
+#77	ICD-O T87	C34.9 8000/1
+#78	ICD-O T88	C34.9
+#79	ICD-O T89	8000/6
+#80	ICD-O T90	8000/6
+#81	ICD-O T91	9061/3
+#82	ICD-O T92	9061/3
+#83	ICD-O T93	9061/3
+#84	ICD-O T94	9061/3
+#85	ICD-O T95	8070/3
+#86	ICD-O T96	C34.9 8070/3
+#87	ICD-O T97	C34.9
+#88	ICD-O T99	8000/6
+#89	ICD-O T100	8070/3
+#90	ICD-O T101	8070/3
+#91	ICD-O T102	8000/1
+#92	ICD-O T103	C38.3 8000/1
+#93	ICD-O T104	C38.3
+#94	ICD-O T105	8000/1
+#95	ICD-O T106	C34.0 8000/1
+#96	ICD-O T107	C34.0
+#97	ICD-O T108	8000/1
+#98	ICD-O T109	8000/3
+#99	ICD-O T110	8000/3
+#100	ICD-O T111	C34.9 8000/1
+#101	ICD-O T112	C34.9
+#102	ICD-O T113	8000/3
+#103	ICD-O T114	C34.9 8000/3
+#104	ICD-O T115	C34.9
+#105	ICD-O T116	8000/1
+#106	ICD-O T117	8000/1
+#107	ICD-O T118	8000/6
+#108	ICD-O T119	8000/9
+#109	ICD-O T120	8000/9
+#110	ICD-O T121	C34.9 8000/6
+#111	ICD-O T122	C34.9
+#112	ICD-O T123	9061/3
+#113	ICD-O T124	9061/3
+#114	AnnotatorNotes T99	trad

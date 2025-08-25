@@ -1,0 +1,73 @@
+T1	morphologie 457 463	nodule
+T2	expression_CIM 457 489	nodule auto-palpable sur le sein
+T3	topographie 485 489	sein
+T4	morphologie 541 557	image hétérogène
+T5	expression_CIM 541 602	image hétérogène de 50x23 mm dans le quadrant externe du sein
+T7	morphologie 665 674	néoplasie
+T8	expression_CIM 665 710	néoplasie mammaire CDI grade histologique III
+T9	topographie 675 683	mammaire
+T10	morphologie 684 687	CDI
+T11	differenciation 688 710	grade histologique III
+T12	morphologie 774 786	adénopathies
+T13	expression_CIM 774 856	adénopathies dans les territoires axillaire, mammaire interne et supraclaviculaire
+T16	topographie 839 856	supraclaviculaire
+T17	morphologie 895 905	métastases
+T18	expression_CIM 895 917	métastases systémiques
+T20	expression_CIM 1173 1176	IDC
+T21	morphologie 1173 1176	IDC
+T22	expression_CIM 1214 1232	ganglions atteints
+T23	morphologie 1214 1232	ganglions atteints
+T24	expression_CIM 1268 1275	pT1N3M0
+T25	morphologie 1268 1275	pT1N3M0
+T26	stadeTNM 1268 1275	pT1N3M0
+T27	morphologie 1598 1609	progression
+T28	expression_CIM 1598 1619	progression hépatique
+T29	topographie 1610 1619	hépatique
+T30	morphologie 1648 1658	métastases
+T31	expression_CIM 1648 1669	métastases hépatiques
+T32	topographie 1659 1669	hépatiques
+T33	expression_CIM 1713 1733	maladie métastatique
+T34	morphologie 1713 1733	maladie métastatique
+T35	morphologie 2969 2975	lésion
+T36	expression_CIM 2969 2987	lésion myocardique
+T37	topographie 2976 2987	myocardique
+T38	morphologie 5496 5502	cancer
+T39	expression_CIM 5496 5510	cancer du sein
+T40	topographie 5506 5510	sein
+T41	expression_CIM 6592 6610	cellules tumorales
+T42	morphologie 6592 6610	cellules tumorales
+T15	topographie 819 835	mammaire interne
+T6	topographie 578 602	quadrant externe du sein
+T19	topographie 906 917	systémiques
+T14	topographie 796 817	territoires axillaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C50.9
+#3	ICD-O T4	tocheck
+#4	ICD-O T7	8000/1
+#5	ICD-O T9	C50.9
+#6	ICD-O T10	8500/3
+#7	ICD-O T11	3
+#8	ICD-O T12	8000/1
+#9	ICD-O T16	C76.0
+#10	ICD-O T17	8000/6
+#11	ICD-O T20	8500/3
+#12	ICD-O T21	8500/3
+#13	ICD-O T23	tocheck
+#14	ICD-O T25	todelete
+#15	ICD-O T26	todelete
+#16	ICD-O T27	8000/6
+#17	ICD-O T28	C22.0 8000/6
+#18	ICD-O T29	C22.0
+#19	ICD-O T30	8000/6
+#20	ICD-O T31	C22.0 8000/6
+#21	ICD-O T32	C22.0
+#22	ICD-O T33	8000/6
+#23	ICD-O T34	8000/6
+#24	ICD-O T35	8000/1
+#25	ICD-O T36	C38.0 8000/1
+#26	ICD-O T37	C38.0
+#27	ICD-O T38	8000/3
+#28	ICD-O T39	C50.9 8000/3
+#29	ICD-O T40	C50.9
+#30	ICD-O T41	8001/1
+#31	ICD-O T42	8001/1

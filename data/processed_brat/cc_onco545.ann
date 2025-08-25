@@ -1,0 +1,40 @@
+T37	topographie 3738 3751	fosse iliaque
+T38	topographie 3775 3795	iléon-jéjunum distal
+T12	topographie 611 637	médiastinale paratrachéale
+T32	topographie 1512 1524	métastatique
+T1	morphologie 372 401	lymphadénopathie pathologique
+T3	topographie 421 433	mésentérique
+T4	morphologie 439 452	carcinomatose
+T6	topographie 453 464	péritonéale
+T7	morphologie 471 477	nodule
+T10	morphologie 594 610	lymphadénopathie
+T13	morphologie 661 677	lésion nodulaire
+T15	topographie 694 704	oreillette
+T16	morphologie 829 844	lésion tumorale
+T18	topographie 861 871	oreillette
+T19	morphologie 949 958	néoplasme
+T61	morphologie 965 979	pigmenté malin
+T21	topographie 959 964	iléal
+T23	morphologie 1048 1062	mélanome malin
+T24	morphologie 1290 1296	lésion
+T26	topographie 1297 1305	frontale
+T27	morphologie 1374 1380	lésion
+T29	topographie 1381 1388	cutanée
+T30	morphologie 1503 1511	mélanome
+T34	morphologie 2985 2991	masses
+T35	morphologie 3701 3717	maladie tumorale
+T39	morphologie 4217 4231	masse tumorale
+T41	topographie 4232 4243	intestinale
+T43	morphologie 4392 4398	tumeur
+T45	morphologie 5077 5083	tumeur
+T46	morphologie 6036 6041	masse
+T48	topographie 6042 6048	iléale
+T50	morphologie 6733 6748	charge tumorale
+T51	morphologie 6771 6778	lésions
+T53	topographie 6779 6786	iléales
+T54	topographie 6788 6799	pulmonaires
+T55	topographie 6803 6813	cérébrales
+T57	morphologie 7084 7108	progression de la tumeur
+T58	morphologie 7118 7131	carcinomatose
+T60	topographie 7132 7145	leptoméningée
+T9	topographie 478 514	sous-cutané dans la paroi abdominale

@@ -1,0 +1,344 @@
+T1	expression_CIM 273 281	mélanome
+T2	morphologie 273 281	mélanome
+T3	expression_CIM 354 357	LNH
+T4	morphologie 354 357	LNH
+T5	expression_CIM 379 387	mélanome
+T6	morphologie 379 387	mélanome
+T7	morphologie 467 473	lésion
+T8	expression_CIM 467 497	lésion verruqueuse dans le dos
+T9	topographie 494 497	dos
+T10	expression_CIM 561 567	lésion
+T11	morphologie 561 567	lésion
+T12	expression_CIM 603 611	mélanome
+T13	morphologie 603 611	mélanome
+T14	expression_CIM 757 766	métastase
+T15	morphologie 757 766	métastase
+T16	expression_CIM 1041 1048	nodules
+T17	morphologie 1041 1048	nodules
+T18	morphologie 1530 1536	lésion
+T19	expression_CIM 1530 1569	lésion nodulaire dans le lobe hépatique
+T20	topographie 1555 1569	lobe hépatique
+T21	expression_CIM 1619 1628	métastase
+T22	morphologie 1619 1628	métastase
+T23	topographie 1766 1780	lobe hépatique
+T24	expression_CIM 1766 1799	lobe hépatique gauche, une lésion
+T25	morphologie 1793 1799	lésion
+T26	expression_CIM 2188 2198	métastases
+T27	morphologie 2188 2198	métastases
+T28	morphologie 2767 2773	lésion
+T29	expression_CIM 2767 2783	lésion hépatique
+T30	topographie 2774 2783	hépatique
+T31	expression_CIM 2854 2868	tumeur maligne
+T32	morphologie 2854 2868	tumeur maligne
+T33	expression_CIM 2889 2898	métastase
+T34	morphologie 2889 2898	métastase
+T35	expression_CIM 2902 2910	mélanome
+T36	morphologie 2902 2910	mélanome
+T37	expression_CIM 2986 2992	lésion
+T38	morphologie 2986 2992	lésion
+T39	expression_CIM 3102 3111	métastase
+T40	morphologie 3102 3111	métastase
+T41	expression_CIM 3115 3123	mélanome
+T42	morphologie 3115 3123	mélanome
+T43	morphologie 3295 3304	métastase
+T44	expression_CIM 3295 3314	métastase hépatique
+T45	topographie 3305 3314	hépatique
+T46	morphologie 3369 3375;3387 3399	nodule métastatique
+T47	expression_CIM 3369 3438	nodule pulmonaire métastatique dans le segment apicopostérieur du LSI
+T48	topographie 3376 3386	pulmonaire
+T49	topographie 3435 3438	LSI
+T50	morphologie 3450 3457	nodules
+T51	expression_CIM 3450 3469	nodules pulmonaires
+T52	topographie 3458 3469	pulmonaires
+T53	morphologie 3903 3913	métastases
+T54	expression_CIM 3903 3924	métastases hépatiques
+T55	topographie 3914 3924	hépatiques
+T56	morphologie 3996 4005	métastase
+T57	expression_CIM 3996 4024	métastase cérébrale frontale
+T58	topographie 4006 4024	cérébrale frontale
+T59	morphologie 4180 4205	progression de la maladie
+T60	expression_CIM 4180 4239	progression de la maladie au niveau pulmonaire et hépatique
+T61	topographie 4216 4226	pulmonaire
+T62	topographie 4230 4239	hépatique
+T63	morphologie 4280 4289	métastase
+T64	expression_CIM 4280 4299	métastase cérébrale
+T65	topographie 4290 4299	cérébrale
+T66	morphologie 4482 4491	métastase
+T67	expression_CIM 4482 4510	métastase cérébrale frontale
+T68	topographie 4492 4510	cérébrale frontale
+T69	expression_CIM 4793 4800	lésions
+T70	morphologie 4793 4800	lésions
+T71	expression_CIM 5364 5369	masse
+T72	morphologie 5364 5369	masse
+T73	morphologie 5803 5809	lésion
+T74	expression_CIM 5803 5842	lésion nodulaire dans le lobe hépatique
+T75	topographie 5828 5842	lobe hépatique
+T76	expression_CIM 5893 5902	métastase
+T77	morphologie 5893 5902	métastase
+T78	topographie 5946 5960	lobe hépatique
+T79	expression_CIM 5946 5979	lobe hépatique gauche, une lésion
+T80	morphologie 5973 5979	lésion
+T81	morphologie 6106 6112	lésion
+T82	expression_CIM 6106 6122	lésion hépatique
+T83	topographie 6113 6122	hépatique
+T84	morphologie 6233 6242	métastase
+T85	expression_CIM 6233 6252	métastase hépatique
+T86	topographie 6243 6252	hépatique
+T87	morphologie 6513 6519	lésion
+T88	expression_CIM 6513 6535	lésion du segment III,
+T90	topographie 6688 6700	lobe frontal
+T91	expression_CIM 6688 6725	lobe frontal droit, il y a une lésion
+T92	morphologie 6719 6725	lésion
+T93	morphologie 6814 6824	métastases
+T94	expression_CIM 6814 6835	métastases cérébrales
+T95	topographie 6825 6835	cérébrales
+T96	topographie 6886 6898	lobe frontal
+T97	expression_CIM 6886 6929	lobe frontal droit, on identifie une lésion
+T98	morphologie 6923 6929	lésion
+T99	morphologie 7156 7162	nodule
+T100	expression_CIM 7156 7174	nodule dans le LSI
+T101	topographie 7171 7174	LSI
+T102	morphologie 7203 7210	lésions
+T103	expression_CIM 7203 7221	lésions hépatiques
+T104	topographie 7211 7221	hépatiques
+T105	expression_CIM 7261 7268	lésions
+T106	morphologie 7261 7268	lésions
+T107	morphologie 7335 7342	lésions
+T108	expression_CIM 7335 7380	lésions hépatiques, pulmonaires et cérébrales
+T109	topographie 7343 7353	hépatiques
+T110	topographie 7355 7366	pulmonaires
+T111	topographie 7370 7380	cérébrales
+T112	morphologie 7457 7468	Progression
+T113	expression_CIM 7457 7478	Progression cérébrale
+T114	topographie 7469 7478	cérébrale
+T115	expression_CIM 7484 7492	mélanome
+T116	morphologie 7484 7492	mélanome
+T117	expression_CIM 7496 7504	stade IV
+T118	morphologie 7496 7504	stade IV
+T119	morphologie 7751 7757	lésion
+T120	expression_CIM 7751 7785	lésion nodulaire du lobe hépatique
+T121	topographie 7771 7785	lobe hépatique
+T122	expression_CIM 7813 7822	métastase
+T123	morphologie 7813 7822	métastase
+T124	morphologie 8002 8012	métastases
+T125	expression_CIM 8002 8023	métastases hépatiques
+T126	topographie 8013 8023	hépatiques
+T127	morphologie 8051 8057	nodule
+T128	expression_CIM 8051 8068	nodule pulmonaire
+T129	topographie 8058 8068	pulmonaire
+T130	morphologie 8261 8270	métastase
+T131	expression_CIM 8261 8280	métastase hépatique
+T132	topographie 8271 8280	hépatique
+T133	morphologie 8303 8312	métastase
+T134	expression_CIM 8303 8331	métastase cérébrale frontale
+T135	topographie 8313 8331	cérébrale frontale
+T136	morphologie 8590 8601	progression
+T137	expression_CIM 8590 8642	progression a été observée dans le poumon et le foie
+T138	topographie 8625 8631	poumon
+T139	topographie 8638 8642	foie
+T140	expression_CIM 8661 8668	lésions
+T141	morphologie 8661 8668	lésions
+T142	topographie 8681 8688	cerveau
+T143	expression_CIM 8681 8716	cerveau, une croissance des lésions
+T144	morphologie 8709 8716	lésions
+T145	morphologie 8806 8816	métastases
+T146	expression_CIM 8806 8827	métastases cérébrales
+T147	topographie 8817 8827	cérébrales
+T148	expression_CIM 9064 9071	lésions
+T149	morphologie 9064 9071	lésions
+T150	expression_CIM 9181 9189	mélanome
+T151	morphologie 9181 9189	mélanome
+T152	morphologie 9430 9440	métastases
+T153	expression_CIM 9430 9451	métastases hépatiques
+T154	topographie 9441 9451	hépatiques
+T155	morphologie 9576 9586	métastases
+T156	expression_CIM 9576 9597	métastases hépatiques
+T157	topographie 9587 9597	hépatiques
+T158	morphologie 9622 9628	nodule
+T159	expression_CIM 9622 9639	nodule pulmonaire
+T160	topographie 9629 9639	pulmonaire
+T161	expression_CIM 9806 9813	lésions
+T162	morphologie 9806 9813	lésions
+T163	expression_CIM 10009 10016	lésions
+T164	morphologie 10009 10016	lésions
+T165	morphologie 10125 10134	métastase
+T166	expression_CIM 10125 10165	métastase cérébrale dans le lobe frontal
+T167	topographie 10135 10165	cérébrale dans le lobe frontal
+T168	morphologie 10215 10238	progression des lésions
+T169	expression_CIM 10215 10276	progression des lésions dans le cerveau, le poumon et le foie
+T170	topographie 10247 10254	cerveau
+T171	topographie 10259 10265	poumon
+T172	topographie 10272 10276	foie
+T173	morphologie 10385 10395	métastases
+T174	expression_CIM 10385 10406	métastases cérébrales
+T175	topographie 10396 10406	cérébrales
+T176	expression_CIM 10695 10702	lésions
+T177	morphologie 10695 10702	lésions
+T89	topographie 6523 6534	segment III
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	8720/3
+#3	ICD-O T3	9591/3
+#4	ICD-O T4	9591/3
+#5	ICD-O T5	8720/3
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C76.7 
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8720/3
+#12	ICD-O T13	8720/3
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	C22.0 8000/1
+#19	ICD-O T20	C22.0
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	C22.0
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C22.0 8000/1
+#28	ICD-O T30	C22.0
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	8000/3
+#31	ICD-O T33	8000/6
+#32	ICD-O T34	8000/6
+#33	ICD-O T35	8720/3
+#34	ICD-O T36	8720/3
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	8000/6
+#39	ICD-O T41	8720/3
+#40	ICD-O T42	8720/3
+#41	ICD-O T43	8000/6
+#42	ICD-O T44	C22.0 8000/6
+#43	ICD-O T45	C22.0
+#44	ICD-O T46	8000/6
+#45	ICD-O T47	C34.1 8000/6;C34.9 8000/6
+#46	ICD-O T48	C34.9
+#47	ICD-O T49	C34.1
+#48	ICD-O T50	8000/1
+#49	ICD-O T51	C34.9 8000/1
+#50	ICD-O T52	C34.9
+#51	ICD-O T53	8000/6
+#52	ICD-O T54	C22.0 8000/6
+#53	ICD-O T55	C22.0
+#54	ICD-O T56	8000/6
+#55	ICD-O T57	C71.1 8000/6
+#56	ICD-O T58	C71.1
+#57	ICD-O T59	8000/1
+#58	ICD-O T60	C22.0 8000/1;C34.9 8000/1
+#59	ICD-O T61	C34.9
+#60	ICD-O T62	C22.0
+#61	ICD-O T63	8000/6
+#62	ICD-O T64	C71.0 8000/6
+#63	ICD-O T65	C71.0
+#64	ICD-O T66	8000/6
+#65	ICD-O T67	C71.1 8000/6
+#66	ICD-O T68	C71.1
+#67	ICD-O T69	8000/1
+#68	ICD-O T70	8000/1
+#69	ICD-O T71	8000/1
+#70	ICD-O T72	8000/1
+#71	ICD-O T73	8000/1
+#72	ICD-O T74	C22.0 8000/1
+#73	ICD-O T75	C22.0
+#74	ICD-O T76	8000/6
+#75	ICD-O T77	8000/6
+#76	ICD-O T78	C22.0
+#77	ICD-O T80	8000/1
+#78	ICD-O T81	8000/1
+#79	ICD-O T82	C22.0 8000/1
+#80	ICD-O T83	C22.0
+#81	ICD-O T84	8000/6
+#82	ICD-O T85	C22.0 8000/6
+#83	ICD-O T86	C22.0
+#84	ICD-O T87	8000/1
+#85	ICD-O T90	C71.1
+#86	ICD-O T92	8000/1
+#87	ICD-O T93	8000/6
+#88	ICD-O T94	C71.0 8000/6
+#89	ICD-O T95	C71.0
+#90	ICD-O T96	C71.1
+#91	ICD-O T98	8000/1
+#92	ICD-O T99	8000/1
+#93	ICD-O T100	C34.1 8000/1
+#94	ICD-O T101	C34.1
+#95	ICD-O T102	8000/1
+#96	ICD-O T103	C22.0 8000/1
+#97	ICD-O T104	C22.0
+#98	ICD-O T105	8000/1
+#99	ICD-O T106	8000/1
+#100	ICD-O T107	8000/1
+#101	ICD-O T108	C22.0 8000/1;C34.9 8000/1;C71.0 8000/1
+#102	ICD-O T109	C22.0
+#103	ICD-O T110	C34.9
+#104	ICD-O T111	C71.0
+#105	ICD-O T112	8000/6
+#106	ICD-O T113	C71.0 8000/6
+#107	ICD-O T114	C71.0
+#108	ICD-O T115	8720/3
+#109	ICD-O T116	8720/3
+#110	ICD-O T117	8000/6
+#111	ICD-O T118	8000/6
+#112	ICD-O T119	8000/1
+#113	ICD-O T120	C22.0 8000/1
+#114	ICD-O T121	C22.0
+#115	ICD-O T122	8000/6
+#116	ICD-O T123	8000/6
+#117	ICD-O T124	8000/6
+#118	ICD-O T125	C22.0 8000/6
+#119	ICD-O T126	C22.0
+#120	ICD-O T127	8000/1
+#121	ICD-O T128	C34.9 8000/1
+#122	ICD-O T129	C34.9
+#123	ICD-O T130	8000/6
+#124	ICD-O T131	C22.0 8000/6
+#125	ICD-O T132	C22.0
+#126	ICD-O T133	8000/6
+#127	ICD-O T134	C71.0 8000/6;C71.1 8000/6
+#128	ICD-O T135	C71.1
+#129	ICD-O T136	8000/9
+#130	ICD-O T138	C34.9
+#131	ICD-O T139	C22.0
+#132	ICD-O T140	8000/1
+#133	ICD-O T141	8000/1
+#134	ICD-O T142	C71.9
+#135	ICD-O T144	8000/1
+#136	ICD-O T145	8000/6
+#137	ICD-O T146	C71.0 8000/6
+#138	ICD-O T147	C71.0
+#139	ICD-O T148	8000/1
+#140	ICD-O T149	8000/1
+#141	ICD-O T150	8720/3
+#142	ICD-O T151	8720/3
+#143	ICD-O T152	8000/6
+#144	ICD-O T153	C22.0 8000/6
+#145	ICD-O T154	C22.0
+#146	ICD-O T155	8000/6
+#147	ICD-O T156	C22.0 8000/6
+#148	ICD-O T157	C22.0
+#149	ICD-O T158	8000/1
+#150	ICD-O T159	C34.9 8000/1
+#151	ICD-O T160	C34.9
+#152	ICD-O T161	8000/1
+#153	ICD-O T162	8000/1
+#154	ICD-O T163	8000/1
+#155	ICD-O T164	8000/1
+#156	ICD-O T165	8000/6
+#157	ICD-O T166	C71.0 8000/6;C71.1 8000/6
+#158	ICD-O T167	C71.1
+#159	ICD-O T168	8000/9
+#160	ICD-O T170	C71.0
+#161	ICD-O T171	C34.9
+#162	ICD-O T172	C22.0
+#163	ICD-O T173	8000/6
+#164	ICD-O T174	C71.0 8000/6
+#165	ICD-O T175	C71.0
+#166	ICD-O T176	8000/1
+#167	ICD-O T177	8000/1

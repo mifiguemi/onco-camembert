@@ -1,0 +1,135 @@
+T21	topographie 2032 2056	extension sous-glottique
+T1	morphologie 1044 1065	carcinome épidermoïde
+T2	expression_CIM 1044 1098	carcinome épidermoïde de haut grade de la corde vocale
+T3	topographie 1086 1098	corde vocale
+T4	morphologie 1146 1152	lésion
+T5	expression_CIM 1146 1200	lésion a été observée dans la corde vocale gauche (CVI
+T6	topographie 1176 1188	corde vocale
+T7	topographie 1197 1200	CVI
+T8	morphologie 1247 1256	extension
+T9	expression_CIM 1247 1286	extension à la corde vocale droite (CVD
+T10	topographie 1262 1274	corde vocale
+T11	topographie 1283 1286	CVD
+T12	expression_CIM 1399 1407	récidive
+T13	morphologie 1399 1407	récidive
+T14	morphologie 1889 1910	carcinome épidermoïde
+T15	expression_CIM 1889 1933	carcinome épidermoïde modérément différencié
+T16	differenciation 1911 1933	modérément différencié
+T17	morphologie 1982 1990	invasion
+T18	expression_CIM 1982 2089	invasion du sinus piriforme, de la glotte et de l'extension sous-glottique, ainsi que du cartilage thyroïde
+T19	topographie 1994 2009	sinus piriforme
+T20	topographie 2017 2023	glotte
+T22	topographie 2071 2089	cartilage thyroïde
+T23	morphologie 2097 2106	extension
+T24	expression_CIM 2097 2136	extension aux tissus mous pré-trachéaux
+T25	topographie 2111 2136	tissus mous pré-trachéaux
+T26	morphologie 2149 2161	infiltration
+T27	expression_CIM 2149 2187	infiltration périneurale et vasculaire
+T28	topographie 2162 2173	périneurale
+T29	topographie 2177 2187	vasculaire
+T30	expression_CIM 2264 2270	cancer
+T31	morphologie 2264 2270	cancer
+T32	morphologie 2552 2560	récidive
+T33	expression_CIM 2552 2575	récidive, ganglionnaire
+T34	topographie 2562 2575	ganglionnaire
+T35	morphologie 2640 2646	lésion
+T36	expression_CIM 2640 2685	lésion mal délimitée au niveau IV du ganglion
+T37	topographie 2677 2685	ganglion
+T38	expression_CIM 2726 2732	lésion
+T39	morphologie 2726 2732	lésion
+T40	expression_CIM 2779 2796	cellules malignes
+T41	morphologie 2779 2796	cellules malignes
+T42	expression_CIM 3214 3222	récidive
+T43	morphologie 3214 3222	récidive
+T44	expression_CIM 3415 3432	récidive tumorale
+T45	morphologie 3415 3432	récidive tumorale
+T46	morphologie 3467 3479	infiltration
+T47	expression_CIM 3467 3514	infiltration du muscle sterno-cléido-mastoïdien
+T48	topographie 3483 3514	muscle sterno-cléido-mastoïdien
+T49	morphologie 3724 3733	carcinome
+T50	expression_CIM 3724 3749	carcinome peu différencié
+T51	differenciation 3734 3749	peu différencié
+T52	expression_CIM 4089 4097	récidive
+T53	morphologie 4089 4097	récidive
+T54	expression_CIM 4267 4289	récidive locorégionale
+T55	morphologie 4267 4289	récidive locorégionale
+T56	expression_CIM 4478 4484	lésion
+T57	morphologie 4478 4484	lésion
+T58	morphologie 4557 4568	adénopathie
+T59	expression_CIM 4557 4619	adénopathie palpable dans le cou ou la région sus-claviculaire
+T60	topographie 4586 4589	cou
+T61	topographie 4596 4619	région sus-claviculaire
+T62	expression_CIM 4943 4965	récidive locorégionale
+T63	morphologie 4943 4965	récidive locorégionale
+T64	expression_CIM 5307 5329	récidive locorégionale
+T65	morphologie 5307 5329	récidive locorégionale
+T66	expression_CIM 6198 6223	progression de la maladie
+T67	morphologie 6198 6223	progression de la maladie
+T68	morphologie 6255 6267	adénopathies
+T69	expression_CIM 6255 6281	adénopathies médiastinales
+T70	topographie 6268 6281	médiastinales
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	C32.0 8070/34
+#3	ICD-O T3	C32.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C32.0 8000/1
+#6	ICD-O T6	C32.0
+#7	ICD-O T7	C32.0
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C32.0 8000/6
+#10	ICD-O T10	C32.0
+#11	ICD-O T11	C32.0
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8070/3
+#15	ICD-O T15	8070/32
+#16	ICD-O T16	2
+#17	ICD-O T17	8000/1
+#18	ICD-O T19	C12.9
+#19	ICD-O T20	C32.0
+#20	ICD-O T22	C32.3
+#21	ICD-O T23	8000/9
+#22	ICD-O T24	C49.0 8000/6
+#23	ICD-O T25	C49.0
+#24	ICD-O T26	8000/9
+#25	ICD-O T27	C47.9 8000/1;C49.9 8000/1
+#26	ICD-O T28	C47.9
+#27	ICD-O T29	C49.9
+#28	ICD-O T30	8000/3
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	8000/9
+#31	ICD-O T33	C77.9 8000/6
+#32	ICD-O T34	C77.9
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	C77.9 8000/1
+#35	ICD-O T37	C77.9
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8001/3
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	8000/9
+#42	ICD-O T44	8000/6
+#43	ICD-O T45	8000/9
+#44	ICD-O T46	8000/9
+#45	ICD-O T47	C49.0 8000/1
+#46	ICD-O T48	C49.0
+#47	ICD-O T49	8010/3
+#48	ICD-O T50	8010/33
+#49	ICD-O T51	3
+#50	ICD-O T52	8000/6
+#51	ICD-O T53	8000/9
+#52	ICD-O T55	8000/3
+#53	ICD-O T56	8000/1
+#54	ICD-O T57	8000/1
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	C77.0 8000/1
+#57	ICD-O T60	C76.0
+#58	ICD-O T61	C76.0
+#59	ICD-O T63	8000/3
+#60	ICD-O T65	8000/3
+#61	ICD-O T66	8000/1
+#62	ICD-O T67	8000/9
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	C77.1 8000/1
+#65	ICD-O T70	C38.3

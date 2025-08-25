@@ -1,0 +1,55 @@
+T2	morphologie 95 120	microcarcinome papillaire
+T3	morphologie 1186 1192	lésion
+T6	morphologie 1511 1517	lésion
+T8	topographie 1526 1534	cervelet
+T9	morphologie 1596 1602	lésion
+T11	topographie 1610 1620	hémithorax
+T12	morphologie 1798 1803	masse
+T14	topographie 1804 1814	pulmonaire
+T15	topographie 1823 1830	lingula
+T16	morphologie 1840 1849	extension
+T18	topographie 1850 1857	hilaire
+T19	morphologie 1863 1870	nodules
+T21	topographie 1871 1882	pulmonaires
+T22	morphologie 1901 1913	adénopathies
+T25	morphologie 2062 2067	masse
+T27	topographie 2076 2090	lobe supérieur
+T28	topographie 2099 2102	LSI
+T29	morphologie 2111 2127	lymphadénopathie
+T31	topographie 2128 2141	paratrachéale
+T33	morphologie 2190 2204	adénocarcinome
+T34	morphologie 2298 2312	adénocarcinome
+T36	topographie 2313 2323	pulmonaire
+T38	morphologie 2337 2345	stade IV
+T39	morphologie 2376 2384	atteinte
+T41	topographie 2399 2406	cerveau
+T42	topographie 2414 2421	poumons
+T43	morphologie 2587 2595	atteinte
+T45	topographie 2599 2622	système nerveux central
+T46	topographie 2624 2627	SNC
+T47	morphologie 2828 2834	lésion
+T49	topographie 2835 2847	cérébelleuse
+T50	morphologie 2946 2952	lésion
+T52	topographie 2953 2961	frontale
+T53	morphologie 3470 3494	progression radiologique
+T55	topographie 3512 3522	pulmonaire
+T56	morphologie 3723 3737	adénocarcinome
+T58	topographie 3738 3748	pulmonaire
+T59	morphologie 4019 4030	progression
+T61	topographie 4055 4062	poumons
+T63	topographie 4091 4094	SNC
+T65	morphologie 4441 4463	progression systémique
+T66	morphologie 4473 4484	implication
+T68	topographie 4491 4507	glande surrénale
+T70	morphologie 4803 4831	carcinome à petites cellules
+T72	morphologie 4894 4900	tumeur
+T74	morphologie 4919 4930	progression
+T75	morphologie 5076 5087	progression
+T77	topographie 5101 5104	SNC
+T78	morphologie 5465 5479	adénocarcinome
+T80	topographie 5480 5490	pulmonaire
+T82	morphologie 5886 5895	néoplasie
+T84	morphologie 5914 5942	carcinome à petites cellules
+T86	morphologie 5948 5962	adénocarcinome
+T24	topographie 1946 1966	région paratrachéale
+T5	topographie 1193 1230	supratentorielle paramédiane frontale

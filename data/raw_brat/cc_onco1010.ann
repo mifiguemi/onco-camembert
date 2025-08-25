@@ -1,0 +1,190 @@
+T1	morphologie 137 152	médulloblastome
+T2	expression_CIM 137 176	médulloblastome de la fosse postérieure
+T3	topographie 159 176	fosse postérieure
+T4	morphologie 542 554	adénopathies
+T5	expression_CIM 542 572	adénopathies latéro-cervicales
+T6	topographie 555 572	latéro-cervicales
+T7	morphologie 1153 1165	adénopathies
+T8	expression_CIM 1153 1182	adénopathies latérocervicales
+T9	topographie 1166 1182	latérocervicales
+T10	morphologie 1392 1398	tumeur
+T11	expression_CIM 1392 1411	tumeur thyroïdienne
+T12	topographie 1399 1411	thyroïdienne
+T13	morphologie 1461 1482	masses adénopathiques
+T14	expression_CIM 1461 1553	masses adénopathiques endothoraciques au niveau souscarinal et aux deux hilaires pulmonaires
+T15	topographie 1483 1498	endothoraciques
+T18	morphologie 1555 1561	Tumeur
+T19	expression_CIM 1555 1590	Tumeur ovale dans le lobe supérieur
+T20	topographie 1576 1590	lobe supérieur
+T21	expression_CIM 1646 1674	processus lymphoprolifératif
+T22	morphologie 1646 1674	processus lymphoprolifératif
+T23	expression_CIM 1692 1695	LNH
+T24	morphologie 1692 1695	LNH
+T25	morphologie 1752 1759;1774 1783	tumeurs primaires
+T26	expression_CIM 1752 1783	tumeurs thyroïdiennes primaires
+T27	topographie 1760 1773	thyroïdiennes
+T28	morphologie 1789 1799	métastases
+T29	expression_CIM 1789 1872	métastases dans les ganglions lymphatiques médiastinaux et le parenchyme pulmonaire
+T30	topographie 1809 1844	ganglions lymphatiques médiastinaux
+T31	topographie 1851 1872	parenchyme pulmonaire
+T32	expression_CIM 1927 1944	cellules malignes
+T33	morphologie 1927 1944	cellules malignes
+T34	morphologie 1946 1955	Carcinome
+T35	expression_CIM 1946 1966	Carcinome thyroïdien
+T36	topographie 1956 1966	thyroïdien
+T37	morphologie 2011 2020	carcinome
+T38	expression_CIM 2011 2036	carcinome peu différencié
+T39	differenciation 2021 2036	peu différencié
+T40	expression_CIM 2055 2061	tumeur
+T41	morphologie 2055 2061	tumeur
+T42	morphologie 2171 2182	adénopathie
+T43	expression_CIM 2171 2199	adénopathie latéro-cervicale
+T44	topographie 2183 2199	latéro-cervicale
+T45	expression_CIM 2207 2216	métastase
+T46	morphologie 2207 2216	métastase
+T47	morphologie 2222 2231	carcinome
+T48	expression_CIM 2222 2247	carcinome peu différencié
+T49	differenciation 2232 2247	peu différencié
+T50	expression_CIM 2253 2271	cellules tumorales
+T51	morphologie 2253 2271	cellules tumorales
+T52	topographie 2486 2498	thyroïdienne
+T53	expression_CIM 2486 2511	thyroïdienne de la tumeur
+T54	morphologie 2505 2511	tumeur
+T55	morphologie 2534 2555	infiltration tumorale
+T56	expression_CIM 2534 2570	infiltration tumorale de la thyroïde
+T57	topographie 2562 2570	thyroïde
+T58	morphologie 2574 2586	infiltration
+T59	expression_CIM 2574 2597	infiltration pulmonaire
+T60	topographie 2587 2597	pulmonaire
+T61	morphologie 2601 2627	infiltration adénopathique
+T62	expression_CIM 2601 2703	infiltration adénopathique latérocervicale bilatérale, sus-claviculaire/nuchale droite et médiastinale
+T63	topographie 2628 2643	latérocervicale
+T64	topographie 2656 2672	sus-claviculaire
+T65	topographie 2673 2680	nuchale
+T66	topographie 2691 2703	médiastinale
+T67	morphologie 2731 2740	carcinome
+T68	expression_CIM 2731 2767	carcinome thyroïdien peu différencié
+T69	differenciation 2752 2767	peu différencié
+T70	expression_CIM 2799 2807	stade IV
+T71	morphologie 2799 2807	stade IV
+T72	morphologie 2813 2835	atteinte adénopathique
+T73	expression_CIM 2813 2877	atteinte adénopathique (endothoracique sous-carénaire et hilaire
+T74	topographie 2837 2866	endothoracique sous-carénaire
+T75	topographie 2870 2877	hilaire
+T76	morphologie 2893 2902	métastase
+T77	expression_CIM 2893 2913	métastase pulmonaire
+T78	topographie 2903 2913	pulmonaire
+T79	morphologie 2915 2921	nodule
+T80	expression_CIM 2915 2951	nodule unique dans le lobe supérieur
+T81	topographie 2937 2951	lobe supérieur
+T82	morphologie 3383 3392	carcinome
+T83	expression_CIM 3383 3417	carcinome thyroïdien indifférencié
+T84	topographie 3393 3403	thyroïdien
+T85	differenciation 3404 3417	indifférencié
+T86	expression_CIM 3443 3455	adénopathies
+T87	morphologie 3443 3455	adénopathies
+T88	morphologie 3967 3979	adénopathies
+T89	expression_CIM 3967 4005	adénopathies médiastinales et hilaires
+T90	topographie 3980 3993	médiastinales
+T91	topographie 3997 4005	hilaires
+T92	morphologie 4040 4046	lésion
+T93	expression_CIM 4040 4079	lésion nodulaire dans le lobe supérieur
+T94	topographie 4065 4079	lobe supérieur
+T95	morphologie 4117 4128	adénopathie
+T96	expression_CIM 4117 4136	adénopathie hilaire
+T97	topographie 4129 4136	hilaire
+T17	topographie 1528 1553	deux hilaires pulmonaires
+T16	topographie 1509 1520	souscarinal
+#1	ICD-O T1	9470/3
+#2	ICD-O T2	C71.9 9470/3
+#3	ICD-O T3	C71.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.0 8000/1
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C73.9 8000/1
+#12	ICD-O T12	C73.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T15	C76.1
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	C34.1 8000/1
+#17	ICD-O T20	C34.1
+#18	ICD-O T21	9970/1
+#19	ICD-O T22	9970/1
+#20	ICD-O T23	9591/3
+#21	ICD-O T24	9591/3
+#22	ICD-O T25	8000/3
+#23	ICD-O T26	C73.9 8000/3
+#24	ICD-O T27	C73.9
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	C34.9 8000/6;C77.1 8000/6
+#27	ICD-O T30	C77.1
+#28	ICD-O T31	C34.9
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	8010/3
+#32	ICD-O T35	C73.9 8010/3
+#33	ICD-O T36	C73.9
+#34	ICD-O T37	8010/3
+#35	ICD-O T38	8010/33
+#36	ICD-O T39	3
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C77.0 8000/1
+#41	ICD-O T44	C76.0
+#42	ICD-O T45	8000/6
+#43	ICD-O T46	8000/6
+#44	ICD-O T47	8010/3
+#45	ICD-O T48	8010/33
+#46	ICD-O T49	3
+#47	ICD-O T50	8001/1
+#48	ICD-O T51	8001/1
+#49	ICD-O T52	C73.9
+#50	ICD-O T54	8000/1
+#51	ICD-O T55	8000/6
+#52	ICD-O T56	C73.9 8000/6
+#53	ICD-O T57	C73.9
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	C34.9 8000/1
+#56	ICD-O T60	C34.9
+#57	ICD-O T61	8000/6
+#58	ICD-O T62	C38.3 8000/1;C76.0 8000/1;C77.9 8000/1
+#59	ICD-O T63	C76.0
+#60	ICD-O T64	C76.0
+#61	ICD-O T65	C76.0
+#62	ICD-O T66	C38.3
+#63	ICD-O T67	8010/3
+#64	ICD-O T68	C73.9 8010/33
+#65	ICD-O T69	3
+#66	ICD-O T70	8000/6
+#67	ICD-O T71	8000/6
+#68	ICD-O T72	8000/1
+#69	ICD-O T73	C77.1 8000/1
+#70	ICD-O T74	C71.6
+#71	ICD-O T75	C76.1
+#72	ICD-O T76	8000/6
+#73	ICD-O T77	C34.9 8000/6
+#74	ICD-O T78	C34.9
+#75	ICD-O T79	8000/1
+#76	ICD-O T80	C34.1 8000/1
+#77	ICD-O T81	C34.1
+#78	ICD-O T82	8010/3
+#79	ICD-O T83	C73.9 8010/34
+#80	ICD-O T84	C73.9
+#81	ICD-O T85	4
+#82	ICD-O T86	C77.9 8000/1
+#83	ICD-O T87	8000/1
+#84	ICD-O T88	8000/1
+#85	ICD-O T89	C77.1 8000/1
+#86	ICD-O T90	C38.3
+#87	ICD-O T91	C76.1
+#88	ICD-O T92	8000/1
+#89	ICD-O T93	C34.1 8000/1
+#90	ICD-O T94	C34.1
+#91	ICD-O T95	8000/1
+#92	ICD-O T96	C77.1 8000/1
+#93	ICD-O T97	C76.1

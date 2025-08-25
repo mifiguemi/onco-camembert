@@ -1,0 +1,153 @@
+T59	topographie 3830 3853	parenchyme testiculaire
+T1	morphologie 312 318	lésion
+T2	expression_CIM 312 367	lésion solide d'environ 96 mm au pôle inférieur du rein
+T3	topographie 363 367	rein
+T4	morphologie 379 391	infiltration
+T5	expression_CIM 379 415	infiltration de la graisse périnéale
+T6	topographie 398 415	graisse périnéale
+T7	morphologie 517 526	métastase
+T8	expression_CIM 517 540	métastase surrénalienne
+T9	topographie 527 540	surrénalienne
+T10	morphologie 553 577	adénopathie pathologique
+T11	expression_CIM 553 585	adénopathie pathologique hilaire
+T12	topographie 578 585	hilaire
+T13	morphologie 728 733	masse
+T14	expression_CIM 728 740	masse rénale
+T15	topographie 734 740	rénale
+T16	morphologie 874 885	adénopathie
+T17	expression_CIM 874 896	adénopathie thoracique
+T18	topographie 886 896	thoracique
+T19	morphologie 958 967;974 992	carcinome à cellules claires
+T20	expression_CIM 958 992	carcinome rénal à cellules claires
+T21	topographie 968 973	rénal
+T22	morphologie 1299 1308;1315 1333	carcinome à cellules claires
+T23	expression_CIM 1299 1333	carcinome rénal à cellules claires
+T24	topographie 1309 1314	rénal
+T25	morphologie 1779 1785	lésion
+T26	expression_CIM 1779 1823	lésion hyperdense dans le segment II du foie
+T27	topographie 1819 1823	foie
+T28	expression_CIM 1855 1862	angiome
+T29	morphologie 1855 1862	angiome
+T30	morphologie 1871 1878	nodules
+T31	expression_CIM 1871 1931	nodules pulmonaires subcentimétriques dans le lobe supérieur
+T32	topographie 1879 1890	pulmonaires
+T33	topographie 1917 1931	lobe supérieur
+T34	morphologie 2059 2066	nodules
+T35	expression_CIM 2059 2119	nodules pulmonaires subcentimétriques dans le lobe inférieur
+T36	topographie 2067 2078	pulmonaires
+T37	topographie 2105 2119	lobe inférieur
+T38	expression_CIM 2151 2158	nodules
+T39	morphologie 2151 2158	nodules
+T40	expression_CIM 2191 2197	tumeur
+T41	morphologie 2191 2197	tumeur
+T42	morphologie 2508 2515	nodules
+T43	expression_CIM 2508 2527	nodules pulmonaires
+T44	topographie 2516 2527	pulmonaires
+T45	morphologie 2586 2597	adénopathie
+T46	expression_CIM 2586 2605	adénopathie hilaire
+T47	topographie 2598 2605	hilaire
+T48	morphologie 3051 3058	lésions
+T49	expression_CIM 3051 3070	lésions pulmonaires
+T50	topographie 3059 3070	pulmonaires
+T51	morphologie 3089 3100	adénopathie
+T52	expression_CIM 3089 3108	adénopathie du hile
+T53	topographie 3104 3108	hile
+T54	morphologie 3559 3565	lésion
+T55	expression_CIM 3559 3608	lésion hypervasculaire de 13 mm dans le testicule
+T56	topographie 3599 3608	testicule
+T57	morphologie 3812 3821	métastase
+T58	expression_CIM 3812 3853	métastase dans le parenchyme testiculaire
+T60	morphologie 3859 3887	carcinome à cellules claires
+T61	expression_CIM 3859 3904	carcinome à cellules claires d'origine rénale
+T62	topographie 3898 3904	rénale
+T63	morphologie 4144 4155	progression
+T64	expression_CIM 4144 4178	progression au niveau testiculaire
+T65	topographie 4166 4178	testiculaire
+T66	morphologie 4403 4409	lésion
+T67	expression_CIM 4403 4424	lésion lytique en D11
+T68	topographie 4421 4424	D11
+T69	morphologie 4489 4498	métastase
+T70	expression_CIM 4489 4505	métastase en D11
+T71	topographie 4502 4505	D11
+T72	morphologie 4525 4536	progression
+T73	expression_CIM 4525 4544	progression osseuse
+T74	topographie 4537 4544	osseuse
+T75	morphologie 4712 4718	lésion
+T76	expression_CIM 4712 4725	lésion axiale
+T77	topographie 4719 4725	axiale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C49.5 8000/1
+#6	ICD-O T6	C49.5
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	C74.9 8000/6
+#9	ICD-O T9	C74.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.1 8000/1
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C64.9 8000/1
+#15	ICD-O T15	C64.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C77.1 8000/1
+#18	ICD-O T18	C76.1
+#19	ICD-O T19	8310/3
+#20	ICD-O T20	C64.9 8310/3
+#21	ICD-O T21	C64.9
+#22	ICD-O T22	8310/3
+#23	ICD-O T23	C64.9 8310/3
+#24	ICD-O T24	C64.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C22.0 8000/1
+#27	ICD-O T27	C22.0
+#28	ICD-O T28	9120/0
+#29	ICD-O T29	9120/0
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C34.1 8000/1;C34.9 8000/1
+#32	ICD-O T32	C34.9
+#33	ICD-O T33	C34.1
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	C34.3 8000/1;C34.9 8000/1
+#36	ICD-O T36	C34.9
+#37	ICD-O T37	C34.3
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	8000/1
+#42	ICD-O T42	8000/1
+#43	ICD-O T43	C34.9 8000/1
+#44	ICD-O T44	C34.9
+#45	ICD-O T45	8000/1
+#46	ICD-O T46	C77.1 8000/1
+#47	ICD-O T47	C76.1
+#48	ICD-O T48	8000/1
+#49	ICD-O T49	C34.9 8000/1
+#50	ICD-O T50	C34.9
+#51	ICD-O T51	8000/1
+#52	ICD-O T52	C77.1 8000/1
+#53	ICD-O T53	C76.1
+#54	ICD-O T54	8000/1
+#55	ICD-O T55	C62.9 8000/1
+#56	ICD-O T56	C62.9
+#57	ICD-O T57	8000/6
+#58	ICD-O T58	C62.9 8000/6
+#59	ICD-O T60	8310/3
+#60	ICD-O T61	C64.9 8310/3
+#61	ICD-O T62	C64.9
+#62	ICD-O T63	8000/6
+#63	ICD-O T64	C62.9 8000/6
+#64	ICD-O T65	C62.9
+#65	ICD-O T66	8000/1
+#66	ICD-O T67	C41.2 8000/1
+#67	ICD-O T68	C41.2
+#68	ICD-O T69	8000/6
+#69	ICD-O T70	C41.2 8000/6
+#70	ICD-O T71	C41.2
+#71	ICD-O T72	8000/6
+#72	ICD-O T73	C41.9 8000/6
+#73	ICD-O T74	C41.9
+#74	ICD-O T75	8000/1
+#75	ICD-O T76	C41.2 8000/1
+#76	ICD-O T77	C41.2

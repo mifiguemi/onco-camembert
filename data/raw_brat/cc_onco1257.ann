@@ -1,0 +1,156 @@
+T1	morphologie 44 53	néoplasie
+T2	expression_CIM 44 66	néoplasie sigmoïdienne
+T3	topographie 54 66	sigmoïdienne
+T4	morphologie 151 165	adénocarcinome
+T5	expression_CIM 151 201	adénocarcinome de bas grade modérément différencié
+T6	differenciation 169 178	bas grade
+T7	differenciation 179 201	modérément différencié
+T8	morphologie 203 211	invasion
+T9	expression_CIM 203 243	invasion périneurale et angiolymphatique
+T10	topographie 212 223	périneurale
+T11	topographie 227 243	angiolymphatique
+T12	morphologie 491 497	tumeur
+T13	expression_CIM 491 530	tumeur dans la région antérieure du cou
+T14	topographie 527 530	cou
+T16	expression_CIM 595 630	suprasternale, il y avait une masse
+T17	morphologie 625 630	masse
+T18	topographie 981 989	thyroïde
+T19	expression_CIM 981 1016	thyroïde hypertrophiée avec nodules
+T20	morphologie 1009 1016	nodules
+T21	morphologie 1049 1056	Nodules
+T22	expression_CIM 1049 1068	Nodules pulmonaires
+T23	topographie 1057 1068	pulmonaires
+T24	morphologie 1103 1109	Nodule
+T25	expression_CIM 1103 1153	Nodule suspect de 10 mm dans le segment II du foie
+T26	topographie 1149 1153	foie
+T27	expression_CIM 1155 1166	Adénopathie
+T28	morphologie 1155 1166	Adénopathie
+T29	morphologie 1204 1229	lésions hypermétaboliques
+T30	expression_CIM 1204 1327	lésions hypermétaboliques dans le lobe droit (diamètre supérieur à 17 mm et SUVmax de 8,4 g/ml) et dans l'isthme thyroïdien
+T31	topographie 1317 1327	thyroïdien
+T32	morphologie 1380 1410	Adénopathies hypermétaboliques
+T33	expression_CIM 1380 1433	Adénopathies hypermétaboliques jugulaires inférieures
+T35	morphologie 1457 1464	nodules
+T36	expression_CIM 1457 1506	nodules infracentimétriques dans les deux poumons
+T37	topographie 1499 1506	poumons
+T38	expression_CIM 1528 1549	atteinte métastatique
+T39	morphologie 1528 1549	atteinte métastatique
+T40	morphologie 1551 1560	Métastase
+T41	expression_CIM 1551 1594	Métastase unique dans le segment II du foie
+T42	topographie 1590 1594	foie
+T43	morphologie 1647 1675	Adénopathie hypermétabolique
+T44	expression_CIM 1647 1693	Adénopathie hypermétabolique dans le mésocôlon
+T45	topographie 1684 1693	mésocôlon
+T46	expression_CIM 1775 1784	métastase
+T47	morphologie 1775 1784	métastase
+T48	morphologie 1786 1796	Métastases
+T49	expression_CIM 1786 1857	Métastases osseuses dans l'ischion (SUVmax de 5,1 g/ml) et l'os iliaque
+T50	topographie 1797 1805	osseuses
+T51	topographie 1813 1820	ischion
+T52	topographie 1847 1857	os iliaque
+T53	morphologie 1934 1940	tumeur
+T54	expression_CIM 1934 1959	tumeur du lobe thyroïdien
+T55	topographie 1944 1959	lobe thyroïdien
+T56	morphologie 1976 1982	lésion
+T57	expression_CIM 1976 1992	lésion hépatique
+T58	topographie 1983 1992	hépatique
+T59	morphologie 2041 2047	lésion
+T60	expression_CIM 2041 2060	lésion thyroïdienne
+T61	topographie 2048 2060	thyroïdienne
+T62	morphologie 2074 2086	infiltration
+T63	expression_CIM 2074 2118	infiltration des tissus mous et du cartilage
+T64	topographie 2091 2102	tissus mous
+T65	topographie 2109 2118	cartilage
+T66	expression_CIM 2135 2168	adénocarcinome de type intestinal
+T67	morphologie 2135 2168	adénocarcinome de type intestinal
+T68	expression_CIM 2189 2199	métastases
+T69	morphologie 2189 2199	métastases
+T70	morphologie 2216 2225	carcinome
+T71	expression_CIM 2216 2236	carcinome sigmoïdien
+T72	topographie 2226 2236	sigmoïdien
+T73	morphologie 2268 2274	lésion
+T74	expression_CIM 2268 2284	lésion hépatique
+T75	topographie 2275 2284	hépatique
+T76	expression_CIM 2303 2317	tumeur maligne
+T77	morphologie 2303 2317	tumeur maligne
+T78	expression_CIM 2347 2364	récidive tumorale
+T79	morphologie 2347 2364	récidive tumorale
+T80	morphologie 2715 2721	lésion
+T81	expression_CIM 2715 2734	lésion thyroïdienne
+T82	topographie 2722 2734	thyroïdienne
+T34	topographie 1411 1433	jugulaires inférieures
+T15	topographie 595 608	suprasternale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C18.7 8000/1
+#3	ICD-O T3	C18.7
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	8140/31
+#6	ICD-O T6	1
+#7	ICD-O T7	2
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C47.9 8000/1;C49.9 8000/1
+#10	ICD-O T10	C47.9
+#11	ICD-O T11	C49.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C76.0 8000/1
+#14	ICD-O T14	C76.0
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	C73.9 
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	C34.9 8000/1
+#20	ICD-O T23	C34.9
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	C22.0 8000/1
+#23	ICD-O T26	C22.0
+#24	ICD-O T27	C77.9 8000/1
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	8000/9
+#27	ICD-O T31	C73.9
+#28	ICD-O T32	8000/6
+#29	ICD-O T35	8000/1
+#30	ICD-O T36	C34.9 8000/1
+#31	ICD-O T37	C34.9
+#32	ICD-O T38	8000/6
+#33	ICD-O T39	8000/6
+#34	ICD-O T40	8000/6
+#35	ICD-O T41	C22.0 8000/6
+#36	ICD-O T42	C22.0
+#37	ICD-O T43	8000/6
+#38	ICD-O T44	C77.2 8000/1
+#39	ICD-O T45	C48.1
+#40	ICD-O T46	8000/6
+#41	ICD-O T47	8000/6
+#42	ICD-O T48	8000/6
+#43	ICD-O T50	C41.9
+#44	ICD-O T51	C41.4
+#45	ICD-O T52	C41.4
+#46	ICD-O T53	8000/1
+#47	ICD-O T55	C73.9
+#48	ICD-O T56	8000/1
+#49	ICD-O T57	C22.0 8000/1
+#50	ICD-O T58	C22.0
+#51	ICD-O T59	8000/1
+#52	ICD-O T60	C73.9 8000/1
+#53	ICD-O T61	C73.9
+#54	ICD-O T62	8000/1
+#55	ICD-O T63	C41.9 8000/1;C49.9 8000/1
+#56	ICD-O T64	C49.9
+#57	ICD-O T65	C41.9
+#58	ICD-O T66	C26.0 8140/3
+#59	ICD-O T67	8144/3
+#60	ICD-O T68	8000/6
+#61	ICD-O T69	8000/6
+#62	ICD-O T70	8010/3
+#63	ICD-O T71	C18.7 8010/3
+#64	ICD-O T72	C18.7
+#65	ICD-O T73	8000/1
+#66	ICD-O T74	C22.0 8000/1
+#67	ICD-O T75	C22.0
+#68	ICD-O T76	8000/3
+#69	ICD-O T77	8000/3
+#70	ICD-O T78	8000/6
+#71	ICD-O T79	8000/6
+#72	ICD-O T80	8000/1
+#73	ICD-O T81	C73.9 8000/1
+#74	ICD-O T82	C73.9

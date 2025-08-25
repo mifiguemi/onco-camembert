@@ -1,0 +1,24 @@
+T25	topographie 1683 1702	bifurcation portale
+T1	morphologie 64 70	tumeur
+T3	topographie 74 88	biceps fémoral
+T4	morphologie 191 197	lésion
+T6	topographie 244 258	biceps fémoral
+T7	morphologie 718 725	Sarcome
+T9	differenciation 729 738	bas grade
+T10	morphologie 833 840	nodules
+T12	topographie 841 852	pulmonaires
+T14	morphologie 952 961	métastase
+T15	morphologie 986 993	lésions
+T17	topographie 1020 1024	foie
+T19	morphologie 1133 1156	extension de la maladie
+T20	morphologie 1370 1377	sarcome
+T22	differenciation 1381 1390	bas grade
+T23	morphologie 1651 1657	lésion
+T28	morphologie 1816 1823	lésions
+T30	morphologie 1999 2029	néoplasme stromal fibromyxoïde
+T32	morphologie 2298 2337	hémangioendothéliome épithélioïde malin
+T34	morphologie 2606 2612	tumeur
+T35	morphologie 2720 2726	lésion
+T39	morphologie 3007 3014	lésions
+T37	topographie 2730 2740	segment VI
+T26	topographie 1738 1749	segment VII

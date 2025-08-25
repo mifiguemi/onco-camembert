@@ -1,0 +1,142 @@
+T32	topographie 3111 3184	articulations (scapulo-humérale, sternoclaviculaire et ceinture pelvienne
+T1	morphologie 78 84	cancer
+T2	expression_CIM 78 92	cancer du sein
+T3	topographie 88 92	sein
+T4	morphologie 142 148	cancer
+T5	expression_CIM 142 156	cancer du sein
+T6	topographie 152 156	sein
+T7	morphologie 196 202;213 220	tumeur bénigne
+T8	expression_CIM 196 220	tumeur cérébrale bénigne
+T9	topographie 203 212	cérébrale
+T10	morphologie 394 424	carcinome canalaire infiltrant
+T11	expression_CIM 394 437	carcinome canalaire infiltrant de grade III
+T12	differenciation 428 437	grade III
+T13	morphologie 1124 1133	néoplasme
+T14	expression_CIM 1124 1142	néoplasme mammaire
+T15	topographie 1134 1142	mammaire
+T16	morphologie 1228 1234	tumeur
+T17	expression_CIM 1228 1242	tumeur du sein
+T18	topographie 1238 1242	sein
+T19	morphologie 1293 1323	carcinome canalaire infiltrant
+T20	expression_CIM 1293 1336	carcinome canalaire infiltrant de grade III
+T21	differenciation 1327 1336	grade III
+T22	morphologie 2333 2342	néoplasme
+T23	expression_CIM 2333 2351	néoplasme mammaire
+T24	topographie 2343 2351	mammaire
+T25	morphologie 2512 2518	nodule
+T26	expression_CIM 2512 2558	nodule dans le quadrant supéro-externe du sein
+T27	topographie 2527 2558	quadrant supéro-externe du sein
+T28	expression_CIM 3031 3052	atteinte métastatique
+T29	morphologie 3031 3052	atteinte métastatique
+T30	morphologie 3054 3093	Augmentation de la captation du traceur
+T31	expression_CIM 3054 3184	Augmentation de la captation du traceur dans les grosses articulations (scapulo-humérale, sternoclaviculaire et ceinture pelvienne
+T33	expression_CIM 3211 3225	tumeur maligne
+T34	morphologie 3211 3225	tumeur maligne
+T35	expression_CIM 3287 3308	atteinte métastatique
+T36	morphologie 3287 3308	atteinte métastatique
+T37	expression_CIM 3492 3513	mammaire du néoplasme
+T38	morphologie 3504 3513	néoplasme
+T39	morphologie 3875 3905	Carcinome canalaire infiltrant
+T40	expression_CIM 3875 3932	Carcinome canalaire infiltrant peu différencié, grade III
+T41	differenciation 3906 3932	peu différencié, grade III
+T42	expression_CIM 3934 3946	Néoformation
+T43	morphologie 3934 3946	Néoformation
+T44	expression_CIM 4059 4074	macrométastases
+T45	morphologie 4059 4074	macrométastases
+T46	expression_CIM 4078 4087	carcinome
+T47	morphologie 4078 4087	carcinome
+T48	expression_CIM 4102 4117	micrométastases
+T49	morphologie 4102 4117	micrométastases
+T50	topographie 4307 4315	mammaire
+T51	expression_CIM 4307 4328	mammaire du néoplasme
+T52	morphologie 4319 4328	néoplasme
+T53	expression_CIM 4443 4463	maladie métastatique
+T54	morphologie 4443 4463	maladie métastatique
+T55	morphologie 4465 4477	infiltration
+T56	expression_CIM 4465 4498	infiltration de la moelle osseuse
+T57	topographie 4484 4498	moelle osseuse
+T58	morphologie 4504 4512	atteinte
+T59	expression_CIM 4504 4520	atteinte osseuse
+T60	topographie 4513 4520	osseuse
+T61	morphologie 5152 5164	infiltration
+T62	expression_CIM 5152 5185	infiltration de la moelle osseuse
+T63	topographie 5171 5185	moelle osseuse
+T64	morphologie 5998 6005	lésions
+T65	expression_CIM 5998 6014	lésions osseuses
+T66	topographie 6006 6014	osseuses
+T67	expression_CIM 6020 6027	lésions
+T68	morphologie 6020 6027	lésions
+T69	expression_CIM 6064 6071	lésions
+T70	morphologie 6064 6071	lésions
+T71	expression_CIM 6147 6154	lésions
+T72	morphologie 6147 6154	lésions
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/0
+#8	ICD-O T8	C71.0 8000/0
+#9	ICD-O T9	C71.0
+#10	ICD-O T10	8500/3
+#11	ICD-O T11	8500/33
+#12	ICD-O T12	3
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C50.9 8000/1
+#15	ICD-O T15	C50.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C50.9 8000/1
+#18	ICD-O T18	C50.9
+#19	ICD-O T19	8500/3
+#20	ICD-O T20	8500/33
+#21	ICD-O T21	3
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C50.9 8000/1
+#24	ICD-O T24	C50.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C50.4 8000/1
+#27	ICD-O T27	C50.4
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	8000/6
+#30	ICD-O T30	8000/1
+#31	ICD-O T33	8000/3
+#32	ICD-O T34	8000/3
+#33	ICD-O T35	8000/6
+#34	ICD-O T36	8000/6
+#35	ICD-O T37	C50.9 8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8500/3
+#38	ICD-O T40	8500/33
+#39	ICD-O T41	3
+#40	ICD-O T42	8000/3
+#41	ICD-O T43	8000/3
+#42	ICD-O T44	8000/6
+#43	ICD-O T45	8000/6
+#44	ICD-O T46	8010/3
+#45	ICD-O T47	8010/3
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	8000/6
+#48	ICD-O T50	C50.9
+#49	ICD-O T51	C50.9 8000/1
+#50	ICD-O T52	8000/1
+#51	ICD-O T53	8000/6
+#52	ICD-O T54	8000/6
+#53	ICD-O T55	8000/1
+#54	ICD-O T56	C42.1 8000/1
+#55	ICD-O T57	C42.1
+#56	ICD-O T58	8000/1
+#57	ICD-O T59	C41.9 8000/1
+#58	ICD-O T60	C41.9
+#59	ICD-O T61	8000/1
+#60	ICD-O T62	C42.1 8000/1
+#61	ICD-O T63	C42.1
+#62	ICD-O T64	8000/1
+#63	ICD-O T65	C41.9 8000/1
+#64	ICD-O T66	C41.9
+#65	ICD-O T67	8000/1
+#66	ICD-O T68	8000/1
+#67	ICD-O T69	8000/1
+#68	ICD-O T70	8000/1
+#69	ICD-O T71	8000/1
+#70	ICD-O T72	8000/1

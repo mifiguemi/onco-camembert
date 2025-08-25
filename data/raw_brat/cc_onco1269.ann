@@ -1,0 +1,67 @@
+T1	morphologie 170 176	lésion
+T2	expression_CIM 170 186	lésion hépatique
+T3	topographie 177 186	hépatique
+T4	expression_CIM 199 209	hémangiome
+T5	morphologie 199 209	hémangiome
+T6	expression_CIM 460 476	lymphadénopathie
+T7	morphologie 460 476	lymphadénopathie
+T8	morphologie 898 904	tumeur
+T9	expression_CIM 898 959	tumeur pédiculée de 5 cm dépendant du segment hépatique II-II
+T11	morphologie 991 1001	hémangiome
+T12	expression_CIM 991 1011	hémangiome hépatique
+T13	topographie 1002 1011	hépatique
+T14	morphologie 1099 1129	hépatocarcinome multinodulaire
+T15	expression_CIM 1099 1152	hépatocarcinome multinodulaire modérément différencié
+T16	differenciation 1130 1152	modérément différencié
+T17	expression_CIM 1394 1409	Hépatocarcinome
+T18	morphologie 1394 1409	Hépatocarcinome
+T19	morphologie 1626 1633;1645 1669	lésions évocatrices de malignité
+T20	expression_CIM 1626 1669	lésions hépatiques évocatrices de malignité
+T21	topographie 1634 1644	hépatiques
+T22	expression_CIM 1756 1763	nodules
+T23	morphologie 1756 1763	nodules
+T24	expression_CIM 1802 1817	hépatocarcinome
+T25	morphologie 1802 1817	hépatocarcinome
+T26	morphologie 2015 2026	progression
+T27	expression_CIM 2015 2066	progression des ganglions lymphatiques médiastinaux
+T28	topographie 2031 2066	ganglions lymphatiques médiastinaux
+T29	expression_CIM 2086 2110	progression métastatique
+T30	morphologie 2086 2110	progression métastatique
+T31	morphologie 2290 2309	lésion métastatique
+T32	expression_CIM 2290 2349	lésion métastatique est apparue au niveau du hile hépatique
+T33	topographie 2335 2349	hile hépatique
+T34	expression_CIM 2476 2491	hépatocarcinome
+T35	morphologie 2476 2491	hépatocarcinome
+T10	topographie 936 959	segment hépatique II-II
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	9120/0
+#5	ICD-O T5	9120/0
+#6	ICD-O T6	C77.9 8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T11	9120/0
+#10	ICD-O T12	C22.0 9120/0
+#11	ICD-O T13	C22.0
+#12	ICD-O T14	8170/3
+#13	ICD-O T15	8170/32
+#14	ICD-O T16	2
+#15	ICD-O T17	8170/3
+#16	ICD-O T18	8170/3
+#17	ICD-O T19	8000/3
+#18	ICD-O T21	C22.0
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8170/3
+#22	ICD-O T25	8170/3
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	C77.1 8000/6
+#25	ICD-O T28	C77.1
+#26	ICD-O T29	8000/6
+#27	ICD-O T30	8000/6
+#28	ICD-O T31	8000/6
+#29	ICD-O T32	C22.0 8000/6
+#30	ICD-O T33	C22.0
+#31	ICD-O T34	8170/3
+#32	ICD-O T35	8170/3

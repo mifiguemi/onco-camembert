@@ -1,0 +1,95 @@
+T1	morphologie 252 260	mélanome
+T2	expression_CIM 252 282	mélanome choroïdien dans l'œil
+T3	topographie 261 271	choroïdien
+T4	topographie 279 282	œil
+T5	expression_CIM 465 480	récidive locale
+T6	morphologie 465 480	récidive locale
+T7	morphologie 569 577	mélanome
+T8	expression_CIM 569 588	mélanome choroïdien
+T9	topographie 578 588	choroïdien
+T10	morphologie 691 694	LOE
+T11	expression_CIM 691 727	LOE sous-capsulaire segment VII-VIII
+T13	expression_CIM 762 782	maladie métastatique
+T14	morphologie 762 782	maladie métastatique
+T15	morphologie 847 853	lésion
+T16	expression_CIM 847 880	lésion focale du segment VIII-VII
+T18	expression_CIM 961 970	métastase
+T19	morphologie 961 970	métastase
+T20	morphologie 983 990	lésions
+T21	expression_CIM 983 1013	lésions dans le lobe hépatique
+T22	topographie 999 1013	lobe hépatique
+T23	expression_CIM 1102 1108	lésion
+T24	morphologie 1102 1108	lésion
+T25	morphologie 1169 1177	atteinte
+T26	expression_CIM 1169 1187	atteinte viscérale
+T27	topographie 1178 1187	viscérale
+T28	morphologie 1242 1248	lésion
+T29	expression_CIM 1242 1263	lésion du segment VII
+T31	expression_CIM 1305 1317	infiltration
+T32	morphologie 1305 1317	infiltration
+T33	expression_CIM 1329 1337	mélanome
+T34	morphologie 1329 1337	mélanome
+T35	morphologie 1465 1472	lésions
+T36	expression_CIM 1465 1483	lésions hépatiques
+T37	topographie 1473 1483	hépatiques
+T38	morphologie 1742 1769	stabilisation de la maladie
+T39	expression_CIM 1742 1779	stabilisation de la maladie hépatique
+T40	topographie 1770 1779	hépatique
+T41	expression_CIM 2752 2770	maladie secondaire
+T42	morphologie 2752 2770	maladie secondaire
+T43	topographie 2797 2811	temporo-basale
+T44	expression_CIM 2797 2856	temporo-basale droite compatible avec une lésion secondaire
+T45	morphologie 2839 2856	lésion secondaire
+T46	morphologie 2859 2867	Mélanome
+T47	expression_CIM 2859 2878	Mélanome choroïdien
+T48	topographie 2868 2878	choroïdien
+T49	morphologie 3775 3782	lésions
+T50	expression_CIM 3775 3793	lésions hépatiques
+T51	topographie 3783 3793	hépatiques
+T30	topographie 1252 1263	segment VII
+T17	topographie 864 880	segment VIII-VII
+T12	topographie 711 727	segment VII-VIII
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C69.3 8720/3;C69.9 8720/3
+#3	ICD-O T3	C69.3
+#4	ICD-O T4	C69.9
+#5	ICD-O T6	8000/3
+#6	ICD-O T7	8720/3
+#7	ICD-O T8	C69.3 8720/3
+#8	ICD-O T9	C69.3
+#9	ICD-O T10	8000/1
+#10	ICD-O T13	8000/6
+#11	ICD-O T14	8000/6
+#12	ICD-O T15	8000/1
+#13	ICD-O T18	8000/6
+#14	ICD-O T19	8000/6
+#15	ICD-O T20	8000/1
+#16	ICD-O T21	C22.0 8000/1
+#17	ICD-O T22	C22.0
+#18	ICD-O T23	8000/1
+#19	ICD-O T24	8000/1
+#20	ICD-O T25	8000/9
+#21	ICD-O T26	C49.4 8000/1
+#22	ICD-O T27	C49.4
+#23	ICD-O T28	8000/1
+#24	ICD-O T31	8000/6
+#25	ICD-O T32	8000/9
+#26	ICD-O T33	8720/3
+#27	ICD-O T34	8720/3
+#28	ICD-O T35	8000/1
+#29	ICD-O T36	C22.0 8000/1
+#30	ICD-O T37	C22.0
+#31	ICD-O T38	8000/9
+#32	ICD-O T39	C22.0 8000/6
+#33	ICD-O T40	C22.0
+#34	ICD-O T41	8000/6
+#35	ICD-O T42	8000/6
+#36	ICD-O T43	C71.8
+#37	ICD-O T44	C71.8 8000/6
+#38	ICD-O T45	8000/6
+#39	ICD-O T46	8720/3
+#40	ICD-O T47	C69.3 8720/3
+#41	ICD-O T48	C69.3
+#42	ICD-O T49	8000/1
+#43	ICD-O T50	C22.0 8000/1
+#44	ICD-O T51	C22.0

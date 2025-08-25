@@ -1,0 +1,88 @@
+T6	topographie 285 293	amygdale
+T42	morphologie 2364 2378;2390 2446	adénocarcinome mixte (carcinome mucineux et cellules en bague de signet
+T9	topographie 529 555	cornets supérieur et moyen
+T1	morphologie 206 218	adénopathies
+T2	expression_CIM 206 229	adénopathies cervicales
+T3	topographie 219 229	cervicales
+T4	morphologie 246 252	lésion
+T5	expression_CIM 246 293	lésion de 0,5 cm a été détectée dans l'amygdale
+T7	morphologie 481 487	lésion
+T8	expression_CIM 481 555	lésion de 3 cm de densité de tissu mou dans les cornets supérieur et moyen
+T10	morphologie 781 791	métastases
+T11	expression_CIM 781 828	métastases dans 4 des 14 ganglions lymphatiques
+T12	topographie 806 828	ganglions lymphatiques
+T13	expression_CIM 834 857	adénocarcinome mucineux
+T14	morphologie 834 857	adénocarcinome mucineux
+T15	morphologie 1023 1038	tumeur primaire
+T16	expression_CIM 1023 1058	tumeur primaire d'origine digestive
+T17	topographie 1049 1058	digestive
+T18	expression_CIM 1120 1134	tumeur maligne
+T19	morphologie 1120 1134	tumeur maligne
+T20	expression_CIM 1189 1195	tumeur
+T21	morphologie 1189 1195	tumeur
+T22	morphologie 1614 1620	tumeur
+T23	expression_CIM 1614 1644	tumeur charnue dans l'ethmoïde
+T24	topographie 1636 1644	ethmoïde
+T25	morphologie 1829 1844	lésion tumorale
+T26	expression_CIM 1829 1886	lésion tumorale hypercapillaire dans le toit de la narine
+T27	topographie 1880 1886	narine
+T28	morphologie 1899 1908	extension
+T29	expression_CIM 1899 1933	extension aux cellules ethmoïdales
+T30	topographie 1913 1933	cellules ethmoïdales
+T31	morphologie 1953 1961	atteinte
+T32	expression_CIM 1953 1983	atteinte de la fosse crânienne
+T33	topographie 1968 1983	fosse crânienne
+T34	morphologie 2008 2022	Adénocarcinome
+T35	expression_CIM 2008 2036	Adénocarcinome de l'ethmoïde
+T36	topographie 2028 2036	ethmoïde
+T37	morphologie 2042 2052	métastases
+T38	expression_CIM 2042 2078	métastases ganglionnaires cervicales
+T39	topographie 2053 2078	ganglionnaires cervicales
+T40	expression_CIM 2203 2209	tumeur
+T41	morphologie 2203 2209	tumeur
+T43	expression_CIM 2364 2446	adénocarcinome intestinal mixte (carcinome mucineux et cellules en bague de signet
+T44	topographie 2379 2389	intestinal
+T45	expression_CIM 2482 2498	résidus tumoraux
+T46	morphologie 2482 2498	résidus tumoraux
+#1	ICD-O T42	8140/3
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C77.0 8000/1
+#4	ICD-O T3	C76.0
+#5	ICD-O T4	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T10	8000/6
+#8	ICD-O T11	C77.9 8000/6
+#9	ICD-O T12	C77.9
+#10	ICD-O T13	8480/3
+#11	ICD-O T14	8480/3
+#12	ICD-O T15	8000/3
+#13	ICD-O T16	C26.9 8000/3
+#14	ICD-O T17	C26.9
+#15	ICD-O T18	8000/3
+#16	ICD-O T19	8000/3
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	C41.0 8000/1
+#21	ICD-O T24	C41.0
+#22	ICD-O T25	8000/3
+#23	ICD-O T26	C30.0 8000/3
+#24	ICD-O T27	C30.0
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	C31.9 8000/6
+#27	ICD-O T30	C31.9
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	C41.0 8000/1
+#30	ICD-O T33	C41.0 
+#31	ICD-O T34	8140/3
+#32	ICD-O T35	C41.0 8140/3
+#33	ICD-O T36	C41.0
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	C77.0 8000/6
+#36	ICD-O T39	C77.0
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T44	C26.0
+#40	ICD-O T45	8000/3
+#41	ICD-O T46	8000/3
+#42	AnnotatorNotes T42	trad

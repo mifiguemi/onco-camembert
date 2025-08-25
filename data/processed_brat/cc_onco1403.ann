@@ -1,0 +1,30 @@
+T1	morphologie 667 676	néoplasie
+T3	topographie 682 688	ovaire
+T4	morphologie 868 874	tumeur
+T6	topographie 875 885	annexielle
+T8	morphologie 1036 1045	métastase
+T9	morphologie 1051 1103	adénocarcinome avec des cellules en anneau de signet
+T11	morphologie 1104 1114	infiltrant
+T12	topographie 1136 1143	ovaires
+T13	morphologie 1145 1165	tumeur de Krukenberg
+T15	topographie 1186 1198	lymphatiques
+T16	topographie 1205 1215	mésorectum
+T18	morphologie 1320 1325	masse
+T19	morphologie 1458 1465	Implant
+T21	topographie 1466 1476	péritonéal
+T22	topographie 1485 1495	mésorectum
+T24	morphologie 1557 1577	tumeur de Krukenberg
+T25	morphologie 1625 1639	adénocarcinome
+T27	topographie 1640 1649	gastrique
+T29	morphologie 1653 1661	stade IV
+T31	morphologie 1663 1683	tumeur de Krukenberg
+T32	morphologie 1730 1738	atteinte
+T34	topographie 1739 1746	osseuse
+T35	morphologie 2419 2430	progression
+T37	topographie 2431 2438	osseuse
+T38	morphologie 2486 2505	lésion ostéolytique
+T40	topographie 2514 2528	fémur proximal
+T41	morphologie 2592 2603	progression
+T43	topographie 2604 2614	pulmonaire
+T45	morphologie 3001 3027	lymphangite carcinomateuse
+T14	topographie 1171 1180	paramètre

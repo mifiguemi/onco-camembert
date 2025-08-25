@@ -1,0 +1,33 @@
+T1	morphologie 165 171	nodule
+T3	topographie 181 185	sein
+T4	morphologie 225 255	carcinome canalaire infiltrant
+T6	topographie 259 263	sein
+T7	topographie 641 661	ganglions axillaires
+T9	morphologie 662 670	atteints
+T10	morphologie 963 972	néoplasie
+T12	topographie 973 981	mammaire
+T14	morphologie 1190 1211	récidive métastatique
+T15	morphologie 1349 1357	récidive
+T17	topographie 1398 1413	hile pulmonaire
+T18	morphologie 1425 1436	adénopathie
+T20	topographie 1437 1457	supradiaphragmatique
+T21	topographie 1464 1466	os
+T23	morphologie 1669 1691	tumeur mésenchymateuse
+T25	morphologie 1714 1720	PECome
+T27	morphologie 1722 1772	néoplasme à cellules épithélioïdes périvasculaires
+T28	morphologie 1835 1844	néoplasie
+T30	topographie 1845 1853	mammaire
+T32	morphologie 1881 1887	PECome
+T33	morphologie 2328 2334	cancer
+T35	topographie 2338 2342	sein
+T37	morphologie 2508 2514	PEComa
+T38	morphologie 2797 2805	récidive
+T40	topographie 2841 2845	foie
+T41	morphologie 2912 2921	néoplasie
+T43	topographie 2922 2930	mammaire
+T44	morphologie 3030 3037	lésions
+T46	topographie 3038 3048	hépatiques
+T47	morphologie 3140 3149	néoplasie
+T49	topographie 3150 3158	mammaire
+T51	morphologie 3177 3185	récidive
+T53	morphologie 3189 3195	PECome

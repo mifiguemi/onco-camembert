@@ -1,0 +1,63 @@
+T56	morphologie 4012 4014	RC
+T1	morphologie 345 351	cancer
+T3	topographie 358 366	prostate
+T4	morphologie 424 430	cancer
+T6	topographie 434 439	côlon
+T7	morphologie 1005 1008	LOE
+T94	morphologie 1028 1051	évoquant des métastases
+T10	morphologie 1182 1199	tumeur végétative
+T11	morphologie 1374 1388	adénocarcinome
+T13	differenciation 1400 1416	bien différencié
+T14	morphologie 1478 1492	Adénocarcinome
+T16	topographie 1496 1501	côlon
+T17	morphologie 1508 1518	métastases
+T19	topographie 1519 1529	hépatiques
+T20	morphologie 1900 1910	métastases
+T22	topographie 1911 1921	hépatiques
+T23	morphologie 1963 1973	métastases
+T26	morphologie 2130 2139	métastase
+T30	morphologie 2196 2205	métastase
+T32	morphologie 2208 2222	adénocarcinome
+T34	morphologie 2234 2241	lésions
+T35	morphologie 2417 2431	adénocarcinome
+T37	differenciation 2432 2434	G1
+T39	morphologie 2446 2458	adénopathies
+T40	morphologie 2492 2517	progression de la maladie
+T42	topographie 2541 2545	foie
+T43	morphologie 3013 3024	progression
+T45	topographie 3025 3034	hépatique
+T46	morphologie 3424 3449	progression de la maladie
+T48	topographie 3458 3462	foie
+T49	morphologie 3470 3482	adénopathies
+T51	topographie 3483 3500	rétropéritonéales
+T52	morphologie 3751 3762	progression
+T54	topographie 3776 3782	poumon
+T55	topographie 3789 3793	foie
+T58	topographie 4015 4024	hépatique
+T59	topographie 4028 4038	pulmonaire
+T61	morphologie 4309 4319	métastases
+T62	morphologie 4330 4344	adénocarcinome
+T64	topographie 4345 4355	intestinal
+T65	morphologie 4361 4369	atteinte
+T67	topographie 4370 4379	ovarienne
+T68	morphologie 4527 4535	récidive
+T70	topographie 4549 4555	poumon
+T71	topographie 4560 4564	foie
+T72	topographie 4570 4608	ganglions lymphatiques interaortocaves
+T73	topographie 4615 4629	hile hépatique
+T74	morphologie 4796 4803	lésions
+T76	topographie 4804 4814	hépatiques
+T77	morphologie 4998 5005	nodules
+T79	topographie 5006 5017	pulmonaires
+T80	morphologie 5041 5049	atteinte
+T82	topographie 5054 5107	ganglions lymphatiques supra et infradiaphragmatiques
+T83	morphologie 5310 5321	progression
+T85	topographie 5322 5331	hépatique
+T86	morphologie 5455 5466	progression
+T88	topographie 5467 5476	hépatique
+T89	topographie 5478 5488	pulmonaire
+T90	topographie 5492 5505	para-aortique
+T91	morphologie 5637 5648	progression
+T93	topographie 5649 5658	hépatique
+T28	topographie 2148 2157	segment 4
+T25	topographie 1983 2007	segments 2, 2-3, 3 et 4b

@@ -1,0 +1,227 @@
+T1	morphologie 76 85	néoplasie
+T2	expression_CIM 76 94	néoplasie mammaire
+T3	topographie 86 94	mammaire
+T4	morphologie 541 547	tumeur
+T5	expression_CIM 541 555	tumeur au sein
+T6	topographie 551 555	sein
+T7	morphologie 666 672	nodule
+T8	expression_CIM 666 744	nodule dense de contour régulier de 37 mm en situation rétro-aréolaire du sein
+T10	expression_CIM 790 796	nodule
+T11	morphologie 790 796	nodule
+T12	expression_CIM 823 835	néoformation
+T13	morphologie 823 835	néoformation
+T14	expression_CIM 913 919	nodule
+T15	morphologie 913 919	nodule
+T16	expression_CIM 1036 1042	nodule
+T17	morphologie 1036 1042	nodule
+T18	morphologie 1098 1109	Adénopathie
+T19	expression_CIM 1098 1119	Adénopathie axillaire
+T20	topographie 1110 1119	axillaire
+T21	expression_CIM 1180 1186	nodule
+T22	morphologie 1180 1186	nodule
+T23	expression_CIM 1280 1297	CELLULES MALIGNES
+T24	morphologie 1280 1297	CELLULES MALIGNES
+T25	expression_CIM 1318 1352	CARCINOME ÉPIDERMOÏDE KÉRATINISANT
+T26	morphologie 1318 1352	CARCINOME ÉPIDERMOÏDE KÉRATINISANT
+T27	morphologie 1438 1443	Masse
+T28	expression_CIM 1438 1471	Masse rétroaréolaire dans le sein
+T29	topographie 1444 1458	rétroaréolaire
+T30	topographie 1467 1471	sein
+T31	expression_CIM 1542 1563	processus néoplasique
+T32	morphologie 1542 1563	processus néoplasique
+T33	morphologie 1884 1889	masse
+T34	expression_CIM 1884 1920	masse mesurant 8 x 6 cm dans le sein
+T35	topographie 1916 1920	sein
+T36	morphologie 1972 1997	conglomérat adénopathique
+T37	expression_CIM 1972 2035	conglomérat adénopathique mesurant 3,5 x 4,5 cm dans l'aisselle
+T38	topographie 2027 2035	aisselle
+T39	morphologie 2418 2438	carcinome malpighien
+T40	expression_CIM 2418 2454	carcinome malpighien cT4bN2a du sein
+T41	stadeTNM 2439 2446	cT4bN2a
+T42	topographie 2450 2454	sein
+T43	morphologie 2904 2909	masse
+T44	expression_CIM 2904 2924	masse en USI du sein
+T46	expression_CIM 3019 3025	nodule
+T47	morphologie 3019 3025	nodule
+T48	morphologie 3077 3102	conglomérat adénopathique
+T49	expression_CIM 3077 3112	conglomérat adénopathique axillaire
+T50	topographie 3103 3112	axillaire
+T51	expression_CIM 3212 3226	masse tumorale
+T52	morphologie 3212 3226	masse tumorale
+T53	morphologie 3275 3287	adénopathies
+T54	expression_CIM 3275 3298	adénopathies axillaires
+T55	topographie 3288 3298	axillaires
+T56	expression_CIM 3365 3371	tumeur
+T57	morphologie 3365 3371	tumeur
+T58	expression_CIM 3488 3494	tumeur
+T59	morphologie 3488 3494	tumeur
+T60	expression_CIM 3529 3535	lésion
+T61	morphologie 3529 3535	lésion
+T62	expression_CIM 3565 3571	lésion
+T63	morphologie 3565 3571	lésion
+T64	expression_CIM 3756 3778	carcinome métaplasique
+T65	morphologie 3756 3778	carcinome métaplasique
+T66	expression_CIM 3859 3868	néoplasie
+T67	morphologie 3859 3868	néoplasie
+T68	expression_CIM 4006 4034	différenciation malpighienne
+T69	morphologie 4006 4034	différenciation malpighienne
+T70	expression_CIM 4064 4070	tumeur
+T71	morphologie 4064 4070	tumeur
+T72	expression_CIM 4146 4158	adénopathies
+T73	morphologie 4146 4158	adénopathies
+T74	expression_CIM 4164 4179	macrométastases
+T75	morphologie 4164 4179	macrométastases
+T76	expression_CIM 4339 4354	macrométastases
+T77	morphologie 4339 4354	macrométastases
+T78	expression_CIM 4517 4532	macrométastases
+T79	morphologie 4517 4532	macrométastases
+T80	expression_CIM 4552 4574	Carcinome métaplasique
+T81	morphologie 4552 4574	Carcinome métaplasique
+T82	expression_CIM 4609 4621	adénopathies
+T83	morphologie 4609 4621	adénopathies
+T84	morphologie 4954 4960	nodule
+T85	expression_CIM 4954 4972	nodule dans le LSD
+T86	topographie 4969 4972	LSD
+T87	morphologie 5051 5061	métastases
+T88	expression_CIM 5051 5073	métastases pulmonaires
+T89	topographie 5062 5073	pulmonaires
+T90	morphologie 5090 5098	atteinte
+T91	expression_CIM 5090 5108	atteinte axillaire
+T92	topographie 5099 5108	axillaire
+T93	morphologie 5122 5130	atteinte
+T94	expression_CIM 5122 5138	atteinte osseuse
+T95	topographie 5131 5138	osseuse
+T96	expression_CIM 5254 5260	tumeur
+T97	morphologie 5254 5260	tumeur
+T98	morphologie 5750 5760	métastases
+T99	expression_CIM 5750 5772	métastases pulmonaires
+T100	topographie 5761 5772	pulmonaires
+T101	expression_CIM 6231 6271	masse aux caractéristiques néoformatives
+T102	morphologie 6231 6271	masse aux caractéristiques néoformatives
+T103	morphologie 6407 6416	métastase
+T104	expression_CIM 6407 6464	métastase endobronchique dans le segment apical de la LID
+T105	topographie 6417 6431	endobronchique
+T106	topographie 6461 6464	LID
+T107	expression_CIM 6486 6495	métastase
+T108	morphologie 6486 6495	métastase
+T109	morphologie 6499 6508;6518 6530	carcinome métaplasique
+T110	expression_CIM 6499 6530	carcinome mammaire métaplasique
+T111	topographie 6509 6517	mammaire
+T112	expression_CIM 6570 6595	progression de la maladie
+T113	morphologie 6570 6595	progression de la maladie
+T114	morphologie 6993 6999	lésion
+T115	expression_CIM 6993 7014	lésion endobronchique
+T116	topographie 7000 7014	endobronchique
+T9	topographie 721 744	rétro-aréolaire du sein
+T45	topographie 2913 2924	USI du sein
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	8000/3
+#11	ICD-O T13	8000/3
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C77.3 8000/1
+#18	ICD-O T20	C76.1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8071/3
+#24	ICD-O T26	8071/3
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	C50.9 8000/1
+#27	ICD-O T29	C50.9
+#28	ICD-O T30	C50.9
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	8000/3
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	C50.9 8000/1
+#33	ICD-O T35	C50.9
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	C77.3 8000/1
+#36	ICD-O T38	C76.1
+#37	ICD-O T39	8070/3
+#38	ICD-O T40	C50.9 8070/3
+#39	ICD-O T41	todelete
+#40	ICD-O T42	C50.9
+#41	ICD-O T43	8000/1
+#42	ICD-O T46	8000/1
+#43	ICD-O T47	8000/1
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	C77.3 8000/1
+#46	ICD-O T50	C76.1
+#47	ICD-O T51	8000/3
+#48	ICD-O T52	8000/3
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	C77.3 8000/1
+#51	ICD-O T55	C76.1
+#52	ICD-O T56	8000/1
+#53	ICD-O T57	8000/1
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	8000/1
+#56	ICD-O T60	8000/1
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	8000/1
+#59	ICD-O T63	8000/1
+#60	ICD-O T64	8575/3
+#61	ICD-O T65	8575/3
+#62	ICD-O T66	8000/1
+#63	ICD-O T67	8000/1
+#64	ICD-O T68	8070/3
+#65	ICD-O T69	8070/3
+#66	ICD-O T70	8000/1
+#67	ICD-O T71	8000/1
+#68	ICD-O T72	C77.9 8000/1
+#69	ICD-O T73	8000/1
+#70	ICD-O T74	8000/6
+#71	ICD-O T75	8000/6
+#72	ICD-O T76	8000/6
+#73	ICD-O T77	8000/6
+#74	ICD-O T78	8000/6
+#75	ICD-O T79	8000/6
+#76	ICD-O T80	8575/3
+#77	ICD-O T81	8575/3
+#78	ICD-O T82	C77.9 8000/1
+#79	ICD-O T83	8000/1
+#80	ICD-O T84	8000/1
+#81	ICD-O T85	C34.1 8000/1
+#82	ICD-O T86	C34.1
+#83	ICD-O T87	8000/6
+#84	ICD-O T88	C34.9 8000/6
+#85	ICD-O T89	C34.9
+#86	ICD-O T90	8000/1
+#87	ICD-O T91	C76.1 8000/1
+#88	ICD-O T92	C76.1
+#89	ICD-O T93	8000/1
+#90	ICD-O T94	C41.9 8000/1
+#91	ICD-O T95	C41.9
+#92	ICD-O T96	8000/1
+#93	ICD-O T97	8000/1
+#94	ICD-O T98	8000/6
+#95	ICD-O T99	C34.9 8000/6
+#96	ICD-O T100	C34.9
+#97	ICD-O T102	8000/3
+#98	ICD-O T103	8000/6
+#99	ICD-O T104	C34.3 8000/6;C34.9 8000/6
+#100	ICD-O T105	C34.9
+#101	ICD-O T106	C34.3
+#102	ICD-O T107	8000/6
+#103	ICD-O T108	8000/6
+#104	ICD-O T109	8575/3
+#105	ICD-O T110	C50.9 8575/3
+#106	ICD-O T111	C50.9
+#107	ICD-O T112	8000/1
+#108	ICD-O T113	8000/1
+#109	ICD-O T114	8000/1
+#110	ICD-O T115	C34.9 8000/1
+#111	ICD-O T116	C34.9

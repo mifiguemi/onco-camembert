@@ -1,0 +1,37 @@
+T9	topographie 817 840	région sus-claviculaire
+T1	morphologie 151 181	carcinome canalaire infiltrant
+T3	topographie 185 189	sein
+T4	morphologie 656 672	lymphadénopathie
+T6	topographie 673 689	sus-claviculaire
+T7	morphologie 797 808	adénopathie
+T10	morphologie 1054 1065	adénopathie
+T12	topographie 1066 1082	sus-claviculaire
+T13	morphologie 1132 1143	adénopathie
+T15	topographie 1144 1160	sus-claviculaire
+T17	morphologie 1181 1190	métastase
+T18	morphologie 1194 1203	carcinome
+T20	topographie 1204 1212	mammaire
+T21	morphologie 1332 1340	Récidive
+T23	topographie 1341 1371	ganglionnaire sus-claviculaire
+T24	morphologie 1377 1407	carcinome canalaire infiltrant
+T26	topographie 1424 1428	sein
+T27	morphologie 1514 1521	rechute
+T29	topographie 1525 1562	ganglion lymphatique sus-claviculaire
+T30	morphologie 2155 2166	progression
+T32	topographie 2167 2176	hépatique
+T33	topographie 2178 2187	splénique
+T34	topographie 2191 2204	ganglionnaire
+T35	morphologie 2705 2721	lésion nodulaire
+T37	topographie 2751 2754	LSD
+T38	morphologie 2814 2835	atteinte métastatique
+T40	topographie 2836 2845	hépatique
+T41	topographie 2847 2856	splénique
+T42	topographie 2860 2873	ganglionnaire
+T43	morphologie 2988 2994	lésion
+T45	topographie 2995 3005	pulmonaire
+T46	morphologie 3051 3060	carcinome
+T52	morphologie 3072 3084	microcytaire
+T48	topographie 3061 3071	pulmonaire
+T49	morphologie 3115 3124	carcinome
+T53	morphologie 3136 3148	microcytaire
+T51	topographie 3125 3135	pulmonaire

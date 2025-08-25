@@ -1,0 +1,53 @@
+T1	morphologie 273 282	néoplasie
+T2	expression_CIM 273 292	néoplasie gastrique
+T3	topographie 283 292	gastrique
+T4	morphologie 337 346	néoplasie
+T5	expression_CIM 337 361	néoplasie de la prostate
+T6	topographie 353 361	prostate
+T7	morphologie 908 922	adénocarcinome
+T8	expression_CIM 908 937	adénocarcinome de la prostate
+T9	topographie 929 937	prostate
+T10	expression_CIM 1147 1182	maladie locorégionale ou à distance
+T11	morphologie 1147 1182	maladie locorégionale ou à distance
+T12	expression_CIM 1940 1961	rechute de la maladie
+T13	morphologie 1940 1961	rechute de la maladie
+T14	morphologie 1990 2002	infiltration
+T15	expression_CIM 1990 2024	infiltration du corps de la vessie
+T16	topographie 2018 2024	vessie
+T17	expression_CIM 2030 2050	métastase à distance
+T18	morphologie 2030 2050	métastase à distance
+T19	morphologie 2320 2330	métastases
+T20	expression_CIM 2320 2351	métastases osseuses vertébrales
+T21	topographie 2331 2351	osseuses vertébrales
+T22	morphologie 2640 2649	métastase
+T23	expression_CIM 2640 2669	métastase dans cette vertèbre
+T24	topographie 2661 2669	vertèbre
+T25	expression_CIM 2941 2966	progression de la maladie
+T26	morphologie 2941 2966	progression de la maladie
+T27	expression_CIM 3009 3016	lésions
+T28	morphologie 3009 3016	lésions
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C16.9 8000/1
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C61.9 8000/1
+#6	ICD-O T6	C61.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C61.9 8140/3
+#9	ICD-O T9	C61.9
+#10	ICD-O T11	8000/9
+#11	ICD-O T13	8000/9
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	C67.9 8000/1
+#14	ICD-O T16	C67.9
+#15	ICD-O T18	8000/6
+#16	ICD-O T19	8000/6
+#17	ICD-O T20	C41.2 8000/6;C41.9 8000/6
+#18	ICD-O T21	C41.9
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	C41.2 8000/6
+#21	ICD-O T24	C41.2
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	8000/1
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	8000/1

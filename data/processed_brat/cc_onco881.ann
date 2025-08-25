@@ -1,0 +1,30 @@
+T2	morphologie 254 284	carcinome canalaire infiltrant
+T4	morphologie 460 467	maladie
+T5	morphologie 490 509	pathologie tumorale
+T7	topographie 510 518	mammaire
+T8	morphologie 946 957	adénopathie
+T10	topographie 967 982	latérocervicale
+T11	topographie 986 1003	supraclaviculaire
+T13	morphologie 1194 1200	masses
+T14	morphologie 1584 1591	nodules
+T16	topographie 1592 1603	pulmonaires
+T17	morphologie 1718 1725	nodules
+T19	topographie 1744 1754	hémithorax
+T20	morphologie 1877 1897	maladie métastatique
+T22	topographie 1898 1908	pulmonaire
+T23	morphologie 1935 1940	masse
+T25	topographie 1941 1947	rénale
+T27	morphologie 2042 2062	maladie métastatique
+T28	morphologie 2075 2093	néoplasie primaire
+T30	topographie 2097 2101	rein
+T31	morphologie 2589 2596	lésions
+T33	topographie 2597 2608	pulmonaires
+T35	morphologie 2683 2704	lésions métastatiques
+T36	morphologie 2718 2724	lésion
+T38	topographie 2725 2731	rénale
+T39	morphologie 2756 2762	tumeur
+T41	topographie 2763 2769	rénale
+T42	morphologie 2875 2881	lésion
+T44	topographie 2882 2888	rénale
+T45	morphologie 3330 3335	masse
+T47	topographie 3336 3342	rénale

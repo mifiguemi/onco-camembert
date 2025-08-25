@@ -1,0 +1,38 @@
+T29	topographie 3370 3383	extragonadale
+T1	morphologie 697 709	adénopathies
+T3	topographie 710 726	latérocervicales
+T4	topographie 730 748	supraclaviculaires
+T5	morphologie 1357 1364	nodules
+T7	topographie 1365 1376	pulmonaires
+T8	topographie 1488 1492	foie
+T10	morphologie 1506 1512	tumeur
+T11	morphologie 1613 1620	nodules
+T13	topographie 1740 1756	lobes hépatiques
+T14	morphologie 2010 2026	lymphadénopathie
+T16	topographie 2027 2043	rétropéritonéale
+T17	morphologie 2476 2483	lésions
+T19	topographie 2484 2494	hépatiques
+T21	morphologie 2570 2576	tumeur
+T23	morphologie 2972 2987	hépatocarcinome
+T25	morphologie 3314 3332	cholangiocarcinome
+T26	morphologie 3340 3356	tumeur germinale
+T28	topographie 3357 3369	testiculaire
+T30	morphologie 3448 3453	masse
+T34	morphologie 4121 4153	infiltration néoplasique maligne
+T36	morphologie 4215 4231	tumeur germinale
+T38	morphologie 4670 4686	tumeur germinale
+T39	morphologie 4696 4714	maladie secondaire
+T41	topographie 4725 4735	pulmonaire
+T42	topographie 4739 4748	hépatique
+T43	morphologie 4764 4770	tumeur
+T45	topographie 4781 4793	testiculaire
+T46	morphologie 5070 5078	atteinte
+T48	topographie 5079 5089	pulmonaire
+T50	morphologie 5783 5808	progression de la maladie
+T51	morphologie 5835 5842	lésions
+T53	topographie 5843 5854	pulmonaires
+T54	morphologie 5903 5910	lésions
+T56	topographie 5911 5921	hépatiques
+T57	morphologie 6121 6134	carcinomatose
+T59	topographie 6135 6146	péritonéale
+T32	topographie 3479 3486	scrotal

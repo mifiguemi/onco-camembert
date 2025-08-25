@@ -1,0 +1,71 @@
+T1	morphologie 325 331	nodule
+T2	expression_CIM 325 371	nodule dans le lobe inférieur gauche du poumon
+T3	topographie 340 354	lobe inférieur
+T4	topographie 365 371	poumon
+T5	morphologie 541 555	adénocarcinome
+T6	expression_CIM 541 566	adénocarcinome pulmonaire
+T7	topographie 556 566	pulmonaire
+T8	morphologie 747 756	métastase
+T9	expression_CIM 747 767	métastase occipitale
+T10	topographie 757 767	occipitale
+T11	morphologie 923 929	lésion
+T12	expression_CIM 923 940	lésion occipitale
+T13	topographie 930 940	occipitale
+T14	morphologie 1014 1023	métastase
+T15	expression_CIM 1014 1035	métastase du primitif
+T16	morphologie 1027 1035	primitif
+T17	expression_CIM 1151 1164	tissu tumoral
+T18	morphologie 1151 1164	tissu tumoral
+T19	morphologie 1445 1500	lésions avec des caractéristiques métaboliques malignes
+T20	expression_CIM 1445 1529	lésions avec des caractéristiques métaboliques malignes au niveau du hile pulmonaire
+T21	topographie 1514 1529	hile pulmonaire
+T22	morphologie 1553 1560	lésions
+T23	expression_CIM 1553 1569	lésions osseuses
+T24	topographie 1561 1569	osseuses
+T25	morphologie 1635 1641	lésion
+T26	expression_CIM 1635 1654	lésion de la hanche
+T27	topographie 1648 1654	hanche
+T28	morphologie 2186 2197	progression
+T29	expression_CIM 2186 2218	progression au niveau pulmonaire
+T30	topographie 2208 2218	pulmonaire
+T31	morphologie 2667 2678	progression
+T32	expression_CIM 2667 2709	progression ganglionnaire et surrénalienne
+T33	topographie 2679 2692	ganglionnaire
+T34	topographie 2696 2709	surrénalienne
+T35	expression_CIM 2891 2909	cellules tumorales
+T36	morphologie 2891 2909	cellules tumorales
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.3 8000/1;C34.9 8000/1
+#3	ICD-O T3	C34.3
+#4	ICD-O T4	C34.9
+#5	ICD-O T5	8140/3
+#6	ICD-O T6	C34.9 8140/3
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C41.0 8000/6
+#10	ICD-O T10	C41.0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C41.0 8000/1
+#13	ICD-O T13	C41.0
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/3
+#17	ICD-O T17	8000/3
+#18	ICD-O T18	8000/3
+#19	ICD-O T19	8000/9
+#20	ICD-O T21	C34.0
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C41.9 8000/1
+#23	ICD-O T24	C41.9
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C76.5 8000/1
+#26	ICD-O T27	C76.5
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	C34.9 8000/6
+#29	ICD-O T30	C34.9
+#30	ICD-O T31	8000/6
+#31	ICD-O T32	C74.9 8000/6;C77.9 8000/6
+#32	ICD-O T33	C77.9
+#33	ICD-O T34	C74.9
+#34	ICD-O T35	8001/1
+#35	ICD-O T36	8001/1

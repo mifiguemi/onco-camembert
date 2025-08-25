@@ -1,0 +1,51 @@
+T6	topographie 893 904	marge anale
+T1	morphologie 612 626	adénocarcinome
+T3	topographie 634 640	rectum
+T5	morphologie 866 886	implication tumorale
+T7	morphologie 975 989	adénocarcinome
+T9	differenciation 990 1013	moyennement différencié
+T10	morphologie 1230 1236	lésion
+T12	topographie 1237 1246	hépatique
+T13	morphologie 1578 1584	lésion
+T15	topographie 1591 1606	veine surrénale
+T17	morphologie 1683 1695	infiltration
+T18	morphologie 1703 1717	adénocarcinome
+T20	topographie 1718 1728	intestinal
+T22	morphologie 1749 1770	atteinte métastatique
+T23	morphologie 2476 2484	récidive
+T25	topographie 2485 2498	paracardiaque
+T26	topographie 2502 2511	hépatique
+T27	morphologie 2517 2531	adénocarcinome
+T29	topographie 2535 2541	rectum
+T30	morphologie 2889 2894	masse
+T33	morphologie 3032 3041	métastase
+T35	topographie 3042 3054	péricardique
+T37	morphologie 3068 3074	nodule
+T39	morphologie 3390 3411	récidive métastatique
+T41	morphologie 3445 3463	cholangiocarcinome
+T42	morphologie 3486 3497	adénopathie
+T44	topographie 3505 3521	espace portocave
+T46	morphologie 3785 3793	récidive
+T47	morphologie 3838 3857	pathologie tumorale
+T49	morphologie 3873 3884	adénopathie
+T50	topographie 3885 3898	paratrachéale
+T52	morphologie 3920 3925	masse
+T53	morphologie 3932 3938	nodule
+T55	topographie 3939 3952	précardiaques
+T56	morphologie 3958 3983	lésions hypermétaboliques
+T59	morphologie 4030 4036	lésion
+T61	topographie 4041 4059	tissus mous sacrés
+T62	morphologie 4443 4454	adénopathie
+T64	topographie 4455 4467	médiastinale
+T66	morphologie 4488 4507	nodule métastatique
+T67	morphologie 4525 4532	implant
+T69	topographie 4533 4545	péricardique
+T70	morphologie 4624 4632	récidive
+T72	topographie 4633 4646	paracardiaque
+T73	topographie 4650 4659	hépatique
+T74	morphologie 4711 4725	adénocarcinome
+T76	topographie 4729 4735	rectum
+T77	morphologie 5265 5276	progression
+T79	topographie 5277 5290	paracardiaque
+T32	topographie 2931 2950	région précardiaque
+T58	topographie 3993 4012	segments hépatiques

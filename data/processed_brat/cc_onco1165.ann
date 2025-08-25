@@ -1,0 +1,48 @@
+T1	morphologie 68 76	mélanome
+T3	topographie 77 83	cutané
+T4	morphologie 177 183	cancer
+T6	topographie 187 193	poumon
+T7	morphologie 214 220	cancer
+T9	topographie 224 235	nasopharynx
+T10	morphologie 267 273	cancer
+T12	topographie 277 282	côlon
+T13	morphologie 640 651	adénopathie
+T15	topographie 652 661	cervicale
+T16	morphologie 688 694	lésion
+T18	topographie 720 734	cavité buccale
+T19	topographie 741 754	cavité nasale
+T20	morphologie 834 840	tumeur
+T22	topographie 868 876	ethmoïde
+T23	morphologie 1203 1208	masse
+T25	topographie 1225 1240	sinus ethmoïdes
+T26	morphologie 1272 1281	extension
+T28	topographie 1282 1296	intracrânienne
+T30	morphologie 1366 1374	atteinte
+T32	topographie 1378 1401	système nerveux central
+T33	morphologie 1443 1452	extension
+T35	topographie 1457 1478	endocrâne frontobasal
+T36	morphologie 1494 1506	infiltration
+T38	topographie 1521 1533	encéphalique
+T39	morphologie 1650 1662	infiltration
+T41	topographie 1667 1674	muscles
+T42	morphologie 1803 1811	atteinte
+T44	topographie 1816 1838	ganglions lymphatiques
+T46	morphologie 1846 1856	métastases
+T48	morphologie 1872 1877	masse
+T49	morphologie 2027 2036	carcinome
+T73	morphologie 2051 2073	non à petites cellules
+T51	differenciation 2037 2050	indifférencié
+T52	morphologie 2180 2189	carcinome
+T54	differenciation 2190 2203	indifférencié
+T55	topographie 2214 2228	nasosinusienne
+T57	morphologie 2230 2234	SNUC
+T59	morphologie 3535 3540	masse
+T60	morphologie 3563 3571	atteinte
+T62	topographie 3572 3581	orbitaire
+T64	morphologie 4643 4668	progression de la maladie
+T65	morphologie 4672 4685	carcinomatose
+T67	topographie 4686 4694	méningée
+T69	morphologie 4926 4941	lésion primaire
+T70	morphologie 4959 4972	carcinomatose
+T72	topographie 4973 4981	méningée
+T29	topographie 1304 1318	fosses nasales

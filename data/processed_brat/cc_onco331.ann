@@ -1,0 +1,37 @@
+T26	morphologie 2243 2272	microcalcifications suspectes
+T1	morphologie 273 280	lésions
+T3	topographie 305 311	visage
+T4	topographie 316 321	tronc
+T5	topographie 327 336	phalanges
+T6	topographie 344 353	paupières
+T7	morphologie 798 805	lésions
+T9	topographie 825 834	paupières
+T10	topographie 840 849	pommettes
+T11	topographie 856 872	paroi thoracique
+T13	morphologie 1005 1011	nodule
+T15	morphologie 1753 1765	adénopathies
+T17	morphologie 1946 1952	nodule
+T19	morphologie 2006 2018	adénopathies
+T20	morphologie 2126 2135	extension
+T22	topographie 2136 2145	axillaire
+T25	topographie 2192 2220	quadrant supéro-externe (CSE
+T28	morphologie 2320 2327	lésions
+T29	morphologie 2451 2481	carcinome canalaire infiltrant
+T31	differenciation 2483 2509	grade histologique (GH) II
+T32	morphologie 2625 2652	carcinome canalaire in situ
+T34	differenciation 2656 2675	grade nucléaire 2-3
+T36	morphologie 2702 2713	Adénopathie
+T38	morphologie 2741 2750	métastase
+T39	morphologie 2760 2769	carcinome
+T41	topographie 2780 2788	mammaire
+T42	morphologie 3130 3137	lésions
+T44	topographie 3138 3146	cutanées
+T45	morphologie 3527 3557	carcinome canalaire infiltrant
+T47	topographie 3561 3565	sein
+T49	morphologie 3591 3598	lésions
+T50	morphologie 3658 3675	carcinome in situ
+T52	topographie 3679 3683	sein
+T53	morphologie 3920 3927	lésions
+T55	topographie 3928 3936	cutanées
+T57	morphologie 4296 4314	maladie à distance
+T23	topographie 2168 2182	sein droit (MD

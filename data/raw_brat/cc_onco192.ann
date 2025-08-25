@@ -1,0 +1,175 @@
+T88	topographie 5675 5703	en arrière du globe oculaire
+T1	morphologie 268 282	lésion bénigne
+T2	expression_CIM 268 294	lésion bénigne de l'ovaire
+T3	topographie 288 294	ovaire
+T4	morphologie 432 446	adénocarcinome
+T5	expression_CIM 432 455	adénocarcinome du cæcum
+T6	topographie 450 455	cæcum
+T7	morphologie 607 621	adénocarcinome
+T8	expression_CIM 607 633	adénocarcinome du cæcum G3
+T9	topographie 625 630	cæcum
+T10	differenciation 631 633	G3
+T11	morphologie 1456 1465	Métastase
+T12	expression_CIM 1456 1479	Métastase rétrooculaire
+T13	topographie 1466 1479	rétrooculaire
+T14	expression_CIM 1486 1507	tumeur neuroendocrine
+T15	morphologie 1486 1507	tumeur neuroendocrine
+T16	expression_CIM 1509 1512	TNE
+T17	morphologie 1509 1512	TNE
+T18	morphologie 1786 1805	lésion métastatique
+T19	expression_CIM 1786 1819	lésion métastatique rétrooculaire
+T20	topographie 1806 1819	rétrooculaire
+T21	morphologie 1890 1896	lésion
+T22	expression_CIM 1890 1941	lésion BIRADS 4 de 1 cm a été observée dans le sein
+T23	topographie 1937 1941	sein
+T24	expression_CIM 2031 2034	CID
+T25	morphologie 2031 2034	CID
+T26	morphologie 2888 2894	lésion
+T27	expression_CIM 2888 2929	lésion a été observée dans le CSI du sein
+T28	topographie 2918 2929	CSI du sein
+T29	morphologie 2976 2982	lésion
+T30	expression_CIM 2976 3048	lésion hypoéchogène BIRADS 2 de 14 mm a été observée dans le CSC du sein
+T31	topographie 3037 3048	CSC du sein
+T32	morphologie 3131 3137	lésion
+T33	expression_CIM 3131 3149	lésion dans le CSC
+T34	topographie 3146 3149	CSC
+T35	morphologie 3210 3217	lésions
+T36	expression_CIM 3210 3227	lésions mammaires
+T37	topographie 3218 3227	mammaires
+T38	morphologie 3250 3256	lésion
+T39	expression_CIM 3250 3264	lésion du sein
+T40	topographie 3260 3264	sein
+T41	morphologie 3321 3327	lésion
+T42	expression_CIM 3321 3335	lésion du sein
+T43	topographie 3331 3335	sein
+T44	expression_CIM 3369 3390	tumeur neuroendocrine
+T45	morphologie 3369 3390	tumeur neuroendocrine
+T46	morphologie 3392 3395	TNE
+T47	expression_CIM 3392 3407	TNE) de type G1
+T48	differenciation 3405 3407	G1
+T49	expression_CIM 3616 3622	lésion
+T50	morphologie 3616 3622	lésion
+T51	morphologie 3703 3706	NER
+T52	expression_CIM 3703 3729	NER multicentrique du sein
+T53	topographie 3725 3729	sein
+T54	expression_CIM 3937 3962	foyers d'hyperenhancement
+T55	morphologie 3937 3962	foyers d'hyperenhancement
+T56	expression_CIM 3976 3979	TNE
+T57	morphologie 3976 3979	TNE
+T58	morphologie 4194 4200	nodule
+T59	expression_CIM 4194 4245	nodule vascularisé a été trouvé dans le CSE du sein
+T60	topographie 4234 4245	CSE du sein
+T61	morphologie 4337 4340	TNE
+T62	expression_CIM 4337 4351	TNE de grade I
+T63	differenciation 4344 4351	grade I
+T64	expression_CIM 4502 4508	lésion
+T65	morphologie 4502 4508	lésion
+T66	expression_CIM 4523 4526	TNE
+T67	morphologie 4523 4526	TNE
+T68	expression_CIM 4615 4618	TNE
+T69	morphologie 4615 4618	TNE
+T70	expression_CIM 4689 4692	TNE
+T71	morphologie 4689 4692	TNE
+T72	morphologie 4882 4888	lésion
+T73	expression_CIM 4882 4900	lésion de l'ovaire
+T74	topographie 4894 4900	ovaire
+T75	morphologie 4915 4921	lésion
+T76	expression_CIM 4915 4940	lésion cæcale et mammaire
+T77	topographie 4922 4928	cæcale
+T78	topographie 4932 4940	mammaire
+T79	expression_CIM 4970 5017	tumeur aux caractéristiques neuroendocriniennes
+T80	morphologie 4970 5017	tumeur aux caractéristiques neuroendocriniennes
+T81	morphologie 5244 5250	nodule
+T82	expression_CIM 5244 5266	nodule rétro-orbitaire
+T83	topographie 5251 5266	rétro-orbitaire
+T84	expression_CIM 5470 5473	NER
+T86	morphologie 5651 5657	nodule
+T87	expression_CIM 5651 5703	nodule persistant situé en arrière du globe oculaire
+T89	expression_CIM 5901 5910	lésion M1
+T90	morphologie 5901 5910	lésion M1
+T85	morphologie 5470 5473	NER
+#1	ICD-O T1	8000/0
+#2	ICD-O T2	C56.9 8000/0
+#3	ICD-O T3	C56.9
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	C18.0 8140/3
+#6	ICD-O T6	C18.0
+#7	ICD-O T7	8140/3
+#8	ICD-O T9	C18.0
+#9	ICD-O T10	3
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	C76.0 8000/6
+#12	ICD-O T13	C76.0
+#13	ICD-O T14	8246/3
+#14	ICD-O T15	8246/3
+#15	ICD-O T16	8246/3
+#16	ICD-O T17	8246/3
+#17	ICD-O T18	8000/6
+#18	ICD-O T19	C76.0 8000/6
+#19	ICD-O T20	C76.0
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C50.9 8000/1
+#22	ICD-O T23	C50.9
+#23	ICD-O T24	8500/3
+#24	ICD-O T25	8500/3
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C50.2 8000/1
+#27	ICD-O T28	C50.2
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1 C50.4
+#30	ICD-O T31	C50.4
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	C50.4 8000/1
+#33	ICD-O T34	C50.4
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	C50.9 8000/1
+#36	ICD-O T37	C50.9
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	C50.9 8000/1
+#39	ICD-O T40	C50.9
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	C50.9 8000/1
+#42	ICD-O T43	C50.9
+#43	ICD-O T44	8246/3
+#44	ICD-O T45	8246/3
+#45	ICD-O T46	8246/3
+#46	ICD-O T47	8246/31
+#47	ICD-O T48	1
+#48	ICD-O T49	8000/1
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	8246/3
+#51	ICD-O T52	C50.9 8246/3
+#52	ICD-O T53	C50.9
+#53	ICD-O T55	8000/9
+#54	ICD-O T56	8246/3
+#55	ICD-O T57	8246/3
+#56	ICD-O T58	8000/1
+#57	ICD-O T59	8000/1 C50.4
+#58	ICD-O T60	C50.4
+#59	ICD-O T61	8246/3
+#60	ICD-O T62	8246/31
+#61	ICD-O T63	1
+#62	ICD-O T64	8000/1
+#63	ICD-O T65	8000/1
+#64	ICD-O T66	8246/3
+#65	ICD-O T67	8246/3
+#66	ICD-O T68	8246/3
+#67	ICD-O T69	8246/3
+#68	ICD-O T70	8246/3
+#69	ICD-O T71	8246/3
+#70	ICD-O T72	8000/1
+#71	ICD-O T73	C56.9 8000/1
+#72	ICD-O T74	C56.9
+#73	ICD-O T75	8000/1
+#74	ICD-O T76	C18.0 8000/1;C50.9 8000/1
+#75	ICD-O T77	C18.0
+#76	ICD-O T78	C50.9
+#77	ICD-O T79	8246/3
+#78	ICD-O T80	8246/3
+#79	ICD-O T81	8000/1
+#80	ICD-O T82	C76.0 8000/1
+#81	ICD-O T83	C76.0
+#82	ICD-O T86	8000/1
+#83	ICD-O T87	C69.4 8000/1
+#84	ICD-O T90	8000/6
+#85	ICD-O T85	tocheck

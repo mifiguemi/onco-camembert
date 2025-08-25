@@ -1,0 +1,143 @@
+T46	topographie 3409 3441	péritoine de la poche de Douglas
+T1	morphologie 527 536	carcinome
+T2	expression_CIM 527 545	carcinome mammaire
+T3	topographie 537 545	mammaire
+T4	morphologie 607 616	carcinome
+T5	expression_CIM 607 624	carcinome du sein
+T6	topographie 620 624	sein
+T7	expression_CIM 815 821	tumeur
+T8	morphologie 815 821	tumeur
+T9	morphologie 826 856	carcinome canalaire infiltrant
+T10	expression_CIM 826 909	carcinome canalaire infiltrant du sein droit (controlatéral) (pT1c pN0 [0/10] M0 G3
+T11	topographie 860 864	sein
+T12	differenciation 907 909	G3
+T13	expression_CIM 1075 1084	néoplasme
+T14	morphologie 1075 1084	néoplasme
+T15	expression_CIM 1135 1143	implants
+T16	morphologie 1135 1143	implants
+T17	morphologie 1155 1168	carcinomatose
+T18	expression_CIM 1155 1180	carcinomatose péritonéale
+T19	topographie 1169 1180	péritonéale
+T20	morphologie 1200 1205	masse
+T21	expression_CIM 1200 1216	masse annexielle
+T22	topographie 1206 1216	annexielle
+T23	morphologie 1237 1251	tumeur maligne
+T24	expression_CIM 1237 1289	tumeur maligne compatible avec une origine ovarienne
+T25	topographie 1280 1289	ovarienne
+T26	morphologie 1354 1363	carcinome
+T27	expression_CIM 1354 1371	carcinome ovarien
+T28	topographie 1364 1371	ovarien
+T29	expression_CIM 1941 1955	carcinosarcome
+T30	morphologie 1941 1955	carcinosarcome
+T31	morphologie 1957 1989	tumeur müllérienne mixte maligne
+T32	expression_CIM 1957 2002	tumeur müllérienne mixte maligne) de l'ovaire
+T33	topographie 1996 2002	ovaire
+T34	morphologie 2465 2477	adénopathies
+T35	expression_CIM 2465 2516	adénopathies latérocervicales ou supraclaviculaires
+T36	topographie 2478 2494	latérocervicales
+T37	topographie 2498 2516	supraclaviculaires
+T38	expression_CIM 3250 3264	carcinosarcome
+T39	morphologie 3250 3264	carcinosarcome
+T40	morphologie 3266 3298	tumeur müllérienne mixte maligne
+T41	expression_CIM 3266 3311	tumeur müllérienne mixte maligne) de l'ovaire
+T42	topographie 3305 3311	ovaire
+T43	morphologie 3371 3388	implants tumoraux
+T44	expression_CIM 3371 3486	implants tumoraux dans l'épiploon, le péritoine de la poche de Douglas, la fosse iliaque gauche et le mésoappendice
+T45	topographie 3396 3404	épiploon
+T47	topographie 3446 3459	fosse iliaque
+T48	topographie 3473 3486	mésoappendice
+T49	morphologie 3536 3543	nodules
+T50	expression_CIM 3536 3552	nodules omentaux
+T51	topographie 3544 3552	omentaux
+T52	morphologie 3665 3678	carcinomatose
+T53	expression_CIM 3665 3690	carcinomatose péritonéale
+T54	topographie 3679 3690	péritonéale
+T55	morphologie 3901 3914	carcinomatose
+T56	expression_CIM 3901 3926	carcinomatose péritonéale
+T57	topographie 3915 3926	péritonéale
+T58	morphologie 4375 4386	progression
+T59	expression_CIM 4375 4398	progression péritonéale
+T60	topographie 4387 4398	péritonéale
+T61	expression_CIM 4446 4464	maladie systémique
+T62	morphologie 4446 4464	maladie systémique
+T63	morphologie 4648 4655	implant
+T64	expression_CIM 4648 4666	implant péritonéal
+T65	topographie 4656 4666	péritonéal
+T66	morphologie 5276 5283	implant
+T67	expression_CIM 5276 5294	implant péritonéal
+T68	topographie 5284 5294	péritonéal
+T69	expression_CIM 5395 5419	tumeur müllérienne mixte
+T70	morphologie 5395 5419	tumeur müllérienne mixte
+T71	expression_CIM 5426 5440	carcinosarcome
+T72	morphologie 5426 5440	carcinosarcome
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C50.9 8010/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C50.9 8010/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8500/3
+#10	ICD-O T11	C50.9
+#11	ICD-O T12	3
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8010/9
+#17	ICD-O T18	C48.2 8010/9
+#18	ICD-O T19	C48.2
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C56.9 8000/1
+#21	ICD-O T22	C56.9
+#22	ICD-O T23	8000/3
+#23	ICD-O T24	C56.9 8000/3
+#24	ICD-O T25	C56.9
+#25	ICD-O T26	8010/3
+#26	ICD-O T27	C56.9 8010/3
+#27	ICD-O T28	C56.9
+#28	ICD-O T29	8980/3
+#29	ICD-O T30	8980/3
+#30	ICD-O T31	8950/3
+#31	ICD-O T32	C56.9 8950/3
+#32	ICD-O T33	C56.9
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	C77.0 8000/1
+#35	ICD-O T36	C76.0
+#36	ICD-O T37	C76.0
+#37	ICD-O T38	8980/3
+#38	ICD-O T39	8980/3
+#39	ICD-O T40	8950/3
+#40	ICD-O T41	C56.9 8950/3
+#41	ICD-O T42	C56.9
+#42	ICD-O T43	8000/6
+#43	ICD-O T45	C48.1
+#44	ICD-O T47	C76.2
+#45	ICD-O T48	C49.4
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	C48.1 8000/1
+#48	ICD-O T51	C48.1
+#49	ICD-O T52	8000/6
+#50	ICD-O T53	C48.2 8010/9
+#51	ICD-O T54	C48.2
+#52	ICD-O T55	8000/6
+#53	ICD-O T56	C48.2 8010/9
+#54	ICD-O T57	C48.2
+#55	ICD-O T58	8000/9
+#56	ICD-O T59	C48.2 8000/6
+#57	ICD-O T60	C48.2
+#58	ICD-O T61	8000/6
+#59	ICD-O T62	8000/6
+#60	ICD-O T63	8000/6
+#61	ICD-O T64	C48.2 8000/6
+#62	ICD-O T65	C48.2
+#63	ICD-O T66	8000/6
+#64	ICD-O T67	C48.2 8000/6
+#65	ICD-O T68	C48.2
+#66	ICD-O T69	8950/3
+#67	ICD-O T70	8950/3
+#68	ICD-O T71	8980/3
+#69	ICD-O T72	8980/3
+#70	AnnotatorNotes T52	trad
+#71	AnnotatorNotes T55	trad

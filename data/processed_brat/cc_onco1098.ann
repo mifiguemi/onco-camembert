@@ -1,0 +1,79 @@
+T1	morphologie 86 94	fibromes
+T3	topographie 95 102	utérins
+T4	morphologie 237 243	tumeur
+T7	morphologie 439 445	tumeur
+T11	morphologie 701 710	extension
+T12	morphologie 757 763	lésion
+T14	topographie 764 771	buccale
+T15	morphologie 786 800	léiomyosarcome
+T17	differenciation 804 811	grade 2
+T18	morphologie 889 895	lésion
+T21	topographie 953 972	région rétromolaire
+T23	morphologie 1167 1182	néoplasme malin
+T24	morphologie 1218 1232	léiomyosarcome
+T26	differenciation 1236 1243	grade 2
+T28	morphologie 1253 1264	adénopathie
+T29	morphologie 1314 1320	Nodule
+T31	topographie 1334 1337	LTD
+T32	morphologie 1450 1465	image nodulaire
+T36	morphologie 1672 1681	métastase
+T38	morphologie 1782 1792	métastases
+T39	morphologie 1873 1879	lésion
+T41	topographie 1880 1892	mandibulaire
+T42	morphologie 2055 2069	Leiomyosarcome
+T44	topographie 2145 2154	mandibule
+T45	morphologie 2194 2202	atteinte
+T47	topographie 2209 2216	gencive
+T49	morphologie 2286 2307	infiltration tumorale
+T51	morphologie 2721 2727	myomes
+T53	morphologie 3034 3040	nodule
+T55	morphologie 3082 3088	nodule
+T57	morphologie 3129 3136	nodules
+T59	morphologie 3247 3254	nodules
+T60	morphologie 3510 3516	nodule
+T64	morphologie 3637 3643	lésion
+T66	morphologie 3841 3847	tumeur
+T68	morphologie 4139 4145	lésion
+T70	morphologie 4202 4209	nodules
+T72	morphologie 4650 4664	léiomyosarcome
+T73	morphologie 5000 5009	métastase
+T75	topographie 5010 5080	osseuse touchant toute l'aile sacrée et l'hémicorps droit des S2 et S3
+T76	morphologie 5124 5129	masse
+T78	topographie 5133 5142	tissu mou
+T79	morphologie 5183 5193	Métastases
+T81	topographie 5194 5294	osseuses dans l'aileron sacré gauche et dans la région postéro-supérieure et le pédicule droit de L5
+T82	morphologie 5582 5592	métastases
+T84	topographie 5593 5604	pulmonaires
+T85	topographie 5608 5618	hépatiques
+T86	morphologie 5620 5631	Adénopathie
+T88	topographie 5632 5639	iliaque
+T89	morphologie 5670 5680	Métastases
+T91	topographie 5681 5708	osseuses dans l'aile sacrée
+T92	morphologie 5783 5789	lésion
+T94	topographie 5806 5825	corps vertébral D10
+T96	morphologie 5844 5853	métastase
+T97	morphologie 5855 5861	Lésion
+T99	topographie 5893 5897	côte
+T100	morphologie 5948 5954	foyers
+T102	topographie 6007 6015	mâchoire
+T104	morphologie 6150 6176	dissémination métastatique
+T105	morphologie 6738 6745	lésions
+T125	morphologie 6757 6787	hypervasculaires métastatiques
+T107	topographie 6746 6756	hépatiques
+T108	morphologie 6812 6829	lésions kystiques
+T126	morphologie 6841 6862	probablement bénignes
+T110	morphologie 6868 6878	métastases
+T112	topographie 6879 6886	rénales
+T113	morphologie 6931 6940	métastase
+T115	topographie 6941 6947	sacrée
+T116	morphologie 7001 7008	lésions
+T118	topographie 7009 7017	costales
+T119	morphologie 7029 7035	lésion
+T121	topographie 7039 7042	D10
+T122	morphologie 7048 7058	métastases
+T124	topographie 7059 7070	pulmonaires
+T20	topographie 916 929	hémimandibule
+T9	topographie 531 568	muqueuse gingivale de la zone molaire
+T62	topographie 3517 3527	myométrial
+T6	topographie 250 268	région madibulaire
+T34	topographie 1507 1543	segment postérieur du lobe inférieur

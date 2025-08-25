@@ -1,0 +1,31 @@
+T34	topographie 3014 3029	région vulvaire
+T1	morphologie 251 257	nodule
+T3	topographie 275 279	sein
+T5	morphologie 289 319	carcinome canalaire infiltrant
+T7	morphologie 321 324	CDI
+T9	morphologie 737 745	récidive
+T10	morphologie 845 851	lésion
+T12	topographie 852 860	vulvaire
+T13	morphologie 1114 1121	nodules
+T15	topographie 1140 1144	sein
+T17	morphologie 1214 1219	masse
+T18	morphologie 1256 1262	nodule
+T20	topographie 1312 1317	vulve
+T22	morphologie 1710 1725	lésion tumorale
+T23	morphologie 1776 1782	tumeur
+T25	topographie 1783 1791	vulvaire
+T26	morphologie 1925 1931	tumeur
+T28	topographie 1932 1940	vulvaire
+T29	morphologie 2385 2396	angiomyxome
+T49	morphologie 2406 2414	agressif
+T31	topographie 2397 2405	vulvaire
+T32	morphologie 2999 3005	nodule
+T36	morphologie 3247 3253	lésion
+T38	morphologie 3351 3362	angiomyxome
+T40	morphologie 3586 3594	récidive
+T41	morphologie 3629 3632	IDC
+T43	topographie 3636 3640	sein
+T45	morphologie 3770 3778	récidive
+T46	morphologie 3800 3811	Angiomyxome
+T50	morphologie 3841 3849	agressif
+T48	topographie 3812 3820	vulvaire

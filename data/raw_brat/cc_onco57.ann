@@ -1,0 +1,121 @@
+T1	morphologie 146 151	masse
+T2	expression_CIM 146 168	masse latéro-cervicale
+T3	topographie 152 168	latéro-cervicale
+T4	morphologie 258 263	Masse
+T5	expression_CIM 258 292	Masse polylobulée latéro-cervicale
+T6	topographie 276 292	latéro-cervicale
+T7	expression_CIM 483 488	masse
+T8	morphologie 483 488	masse
+T9	morphologie 596 601	masse
+T10	expression_CIM 596 633	masse de 6 cm dans le lobe thyroïdien
+T11	expression_CIM 653 678	conglomérat adénopathique
+T12	morphologie 653 678	conglomérat adénopathique
+T13	morphologie 859 879	carcinome papillaire
+T14	expression_CIM 859 894	carcinome papillaire de la thyroïde
+T15	topographie 886 894	thyroïde
+T16	morphologie 908 928	Carcinome papillaire
+T17	expression_CIM 908 943	Carcinome papillaire de la thyroïde
+T18	topographie 935 943	thyroïde
+T19	expression_CIM 952 960	stade IV
+T20	morphologie 952 960	stade IV
+T21	expression_CIM 1034 1059	conglomérat adénopathique
+T22	morphologie 1034 1059	conglomérat adénopathique
+T23	expression_CIM 1095 1121	positive pour la malignité
+T24	morphologie 1095 1121	positive pour la malignité
+T25	morphologie 1403 1432	lymphadénopathie métastatique
+T26	expression_CIM 1403 1442	lymphadénopathie métastatique cervicale
+T27	topographie 1433 1442	cervicale
+T28	morphologie 1462 1482	carcinome papillaire
+T29	expression_CIM 1462 1497	carcinome papillaire de la thyroïde
+T30	topographie 1489 1497	thyroïde
+T31	morphologie 1733 1740	maladie
+T32	expression_CIM 1733 1773	maladie a progressé au niveau pulmonaire
+T33	topographie 1763 1773	pulmonaire
+T34	morphologie 1788 1795	nodules
+T35	expression_CIM 1788 1860	nodules allant jusqu'à 13 mm répartis dans tout le parenchyme pulmonaire
+T36	topographie 1839 1860	parenchyme pulmonaire
+T37	morphologie 1891 1897	lésion
+T38	expression_CIM 1891 1921	lésion ganglionnaire cervicale
+T39	topographie 1898 1921	ganglionnaire cervicale
+T40	expression_CIM 1977 1984	tumeurs
+T41	morphologie 1977 1984	tumeurs
+T42	expression_CIM 2226 2235	néoplasme
+T43	morphologie 2226 2235	néoplasme
+T44	morphologie 2287 2312	conglomérat adénopathique
+T45	expression_CIM 2287 2321	conglomérat adénopathique cervical
+T46	topographie 2313 2321	cervical
+T47	morphologie 2847 2853	lésion
+T48	expression_CIM 2847 2899	lésion cavitaire à paroi fine dans le lobe supérieur
+T49	topographie 2885 2899	lobe supérieur
+T50	morphologie 3220 3241	maladie ganglionnaire
+T51	expression_CIM 3220 3251	maladie ganglionnaire cervicale
+T52	topographie 3242 3251	cervicale
+T53	morphologie 3265 3271	lésion
+T54	expression_CIM 3265 3311	lésion de 5 mm au niveau sous-cortical frontal
+T56	expression_CIM 3473 3479	lésion
+T57	morphologie 3473 3479	lésion
+T58	expression_CIM 3528 3548	maladie métastatique
+T59	morphologie 3528 3548	maladie métastatique
+T60	expression_CIM 3625 3631	lésion
+T61	morphologie 3625 3631	lésion
+T62	expression_CIM 3682 3702	maladie métastatique
+T63	morphologie 3682 3702	maladie métastatique
+T55	topographie 3290 3311	sous-cortical frontal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C76.0
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C73.9 8000/1
+#10	ICD-O T11	C77.9 8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8050/3
+#13	ICD-O T14	C73.9 8050/3
+#14	ICD-O T15	C73.9
+#15	ICD-O T16	8050/3
+#16	ICD-O T17	C73.9 8050/3
+#17	ICD-O T18	C73.9
+#18	ICD-O T19	8000/6
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	C77.9 8000/1
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/3
+#23	ICD-O T24	8000/3
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	C77.0 8000/6
+#26	ICD-O T27	C76.0
+#27	ICD-O T28	8050/3
+#28	ICD-O T29	C73.9 8050/3
+#29	ICD-O T30	C73.9
+#30	ICD-O T31	8000/9
+#31	ICD-O T33	C34.9
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	C34.9 8000/1
+#34	ICD-O T36	C34.9
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	C77.0 8000/1
+#37	ICD-O T39	C77.0
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	8000/1
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	C77.0 8000/1
+#44	ICD-O T46	C76.0
+#45	ICD-O T47	8000/1
+#46	ICD-O T49	C34.1
+#47	ICD-O T50	tocheck
+#48	ICD-O T52	C76.0
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	C71.0 8000/1;C71.1 8000/1
+#51	ICD-O T56	8000/1
+#52	ICD-O T57	8000/1
+#53	ICD-O T58	8000/6
+#54	ICD-O T59	8000/6
+#55	ICD-O T60	8000/1
+#56	ICD-O T61	8000/1
+#57	ICD-O T62	8000/6
+#58	ICD-O T63	8000/6

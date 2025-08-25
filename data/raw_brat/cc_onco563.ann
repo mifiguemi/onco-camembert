@@ -1,0 +1,90 @@
+T1	expression_CIM 345 364	maladie oncologique
+T2	morphologie 345 364	maladie oncologique
+T3	expression_CIM 973 978	masse
+T4	morphologie 973 978	masse
+T5	expression_CIM 1274 1286	néoformation
+T6	morphologie 1274 1286	néoformation
+T7	expression_CIM 1514 1526	adénopathies
+T8	morphologie 1514 1526	adénopathies
+T9	morphologie 1600 1614	adénocarcinome
+T10	expression_CIM 1600 1646	adénocarcinome modérément différencié du côlon
+T11	differenciation 1615 1637	modérément différencié
+T12	topographie 1641 1646	côlon
+T13	morphologie 1787 1793	tumeur
+T14	expression_CIM 1787 1802	tumeur du côlon
+T15	topographie 1797 1802	côlon
+T16	morphologie 1924 1938	adénocarcinome
+T17	expression_CIM 1924 1965	adénocarcinome modérément différencié (G2
+T18	differenciation 1939 1961	modérément différencié
+T19	differenciation 1963 1965	G2
+T20	morphologie 2087 2099	infiltration
+T21	expression_CIM 2087 2111	infiltration périneurale
+T22	topographie 2100 2111	périneurale
+T23	expression_CIM 2328 2334	tumeur
+T24	morphologie 2328 2334	tumeur
+T25	morphologie 2970 2975	masse
+T26	expression_CIM 2970 3106	masse mesurant 39 x 34 x 40 mm (respectivement antéropostérieure, transversale et craniocaudale) dans le lobe inférieur gauche du poumon
+T27	topographie 3075 3089	lobe inférieur
+T28	topographie 3100 3106	poumon
+T29	morphologie 3294 3308	adénocarcinome
+T30	expression_CIM 3294 3326	adénocarcinome d'origine colique
+T31	topographie 3319 3326	colique
+T32	expression_CIM 3409 3421	adénopathies
+T33	morphologie 3409 3421	adénopathies
+T34	morphologie 3827 3833	nodule
+T35	expression_CIM 3827 3885	nodule de 3-4 cm dans la région latérocervicale inférieure
+T37	expression_CIM 3960 3966	tumeur
+T38	morphologie 3960 3966	tumeur
+T39	morphologie 4041 4050	métastase
+T40	expression_CIM 4041 4064	métastase ganglionnaire
+T41	topographie 4051 4064	ganglionnaire
+T42	morphologie 4114 4122	invasion
+T43	expression_CIM 4114 4152	invasion de la veine jugulaire interne
+T45	morphologie 4296 4310	adénocarcinome
+T46	expression_CIM 4296 4319	adénocarcinome du côlon
+T47	topographie 4314 4319	côlon
+T36	topographie 3852 3885	région latérocervicale inférieure
+T44	topographie 4129 4152	veine jugulaire interne
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	8000/3
+#7	ICD-O T7	C77.9 8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8140/3
+#10	ICD-O T10	C18.9 8140/32
+#11	ICD-O T11	2
+#12	ICD-O T12	C18.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C18.9 8000/1
+#15	ICD-O T15	C18.9
+#16	ICD-O T16	8140/3
+#17	ICD-O T17	8140/32
+#18	ICD-O T18	2
+#19	ICD-O T19	2
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C47.9 8000/1
+#22	ICD-O T22	C47.9
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C34.3 8000/1;C34.9 8000/1
+#27	ICD-O T27	C34.3
+#28	ICD-O T28	C34.9
+#29	ICD-O T29	8140/3
+#30	ICD-O T30	C18.9 8140/3
+#31	ICD-O T31	C18.9
+#32	ICD-O T32	C77.9 8000/1
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	8000/1
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	C77.9 8000/6
+#39	ICD-O T41	C77.9
+#40	ICD-O T42	8000/1
+#41	ICD-O T45	8140/3
+#42	ICD-O T46	C18.9 8140/3
+#43	ICD-O T47	C18.9

@@ -1,0 +1,77 @@
+T23	topographie 2154 2172	espace intercostal
+T107	topographie 5947 5963	intra-abdominale
+T1	morphologie 597 602	masse
+T3	topographie 647 663	paroi thoracique
+T4	morphologie 1151 1156	Masse
+T6	topographie 1201 1217	paroi thoracique
+T8	morphologie 1329 1334	masse
+T9	morphologie 1584 1590	tumeur
+T11	topographie 1595 1606	tissus mous
+T13	morphologie 1820 1826	tumeur
+T15	topographie 1884 1888	rein
+T17	morphologie 1932 1945	hypernéphrome
+T18	morphologie 1960 1966	tumeur
+T20	topographie 2034 2039	iléon
+T21	morphologie 2140 2146	tumeur
+T24	morphologie 2565 2571	lésion
+T26	topographie 2624 2628	rein
+T27	morphologie 2664 2669	masse
+T29	topographie 2673 2682	tissu mou
+T30	topographie 2689 2705	paroi thoracique
+T31	morphologie 2715 2722	sarcome
+T33	differenciation 2726 2736	haut grade
+T35	morphologie 2756 2783	rhabdomyosarcome pléomorphe
+T36	morphologie 2798 2805	Sarcome
+T38	differenciation 2809 2819	haut grade
+T39	topographie 2826 2842	paroi thoracique
+T41	morphologie 2870 2897	rhabdomyosarcome pléomorphe
+T42	morphologie 2900 2905	Masse
+T44	topographie 2906 2912	rénale
+T46	morphologie 2957 2970	hypernéphrome
+T47	morphologie 2984 2990	Tumeur
+T49	topographie 2991 2997	iléale
+T51	morphologie 3089 3097	sarcomes
+T52	morphologie 3151 3156	masse
+T54	topographie 3157 3167	thoracique
+T55	morphologie 3196 3203	lésions
+T57	topographie 3204 3211	rénales
+T58	topographie 3215 3222	iléales
+T59	morphologie 3247 3253	tumeur
+T61	topographie 3274 3290	paroi thoracique
+T63	morphologie 3480 3507	rhabdomyosarcome pléomorphe
+T65	morphologie 3643 3675	adénopathie indemne de malignité
+T66	morphologie 4182 4203	récidive de la lésion
+T68	topographie 4204 4214	thoracique
+T69	morphologie 4261 4267	lésion
+T71	topographie 4268 4274	rénale
+T73	morphologie 4286 4305	tumeur sous-séreuse
+T74	morphologie 4484 4490	nodule
+T77	morphologie 4715 4723	implants
+T79	topographie 4741 4755	intestin grêle
+T80	morphologie 4778 4786	implants
+T83	topographie 4907 4935	bord mésentérique de l'iléon
+T84	topographie 4964 4973	mésentère
+T85	morphologie 5036 5050	adénocarcinome
+T118	morphologie 5057 5075	à cellules claires
+T87	topographie 5051 5056	rénal
+T88	differenciation 5077 5105	grade nucléaire de Fuhrman 3
+T90	morphologie 5107 5113	Lésion
+T91	morphologie 5364 5372	implants
+T93	topographie 5376 5385	mésentère
+T94	morphologie 5388 5452	tumeur stromale gastro-intestinale (GIST) de cellules fusiformes
+T96	differenciation 5456 5465	bas grade
+T98	morphologie 5473 5479	foyers
+T100	morphologie 5610 5630	cellularité tumorale
+T101	morphologie 5804 5810	nodule
+T104	morphologie 5901 5907	lésion
+T106	topographie 5927 5943	paroi thoracique
+T109	morphologie 6006 6012	nodule
+T110	morphologie 6164 6201	tumeur stromale à cellules fusiformes
+T112	differenciation 6205 6214	bas grade
+T113	differenciation 6224 6226	G1
+T115	morphologie 6573 6577	GIST
+T117	morphologie 6990 6994	GIST
+T12	topographie 1680 1693	paroi costale
+T103	topographie 5849 5888	paroi de la quatrième portion duodénale
+T76	topographie 4570 4597	quatrième portion duodénale
+T82	topographie 4794 4821	séreuse de l'intestin grêle

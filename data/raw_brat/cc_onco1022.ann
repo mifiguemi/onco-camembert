@@ -1,0 +1,97 @@
+T1	morphologie 1106 1121;1141 1144	sarcome d'Ewing ESS
+T2	expression_CIM 1106 1162	sarcome d'Ewing extrasquelettique (ESS) dans la prostate
+T4	topographie 1154 1162	prostate
+T5	expression_CIM 1897 1908	adénopathie
+T6	morphologie 1897 1908	adénopathie
+T7	morphologie 2447 2455	atteinte
+T8	expression_CIM 2447 2492	atteinte mixte lytique-scléreuse de l'hémipel
+T10	expression_CIM 2512 2528	maladie de Paget
+T11	morphologie 2512 2528	maladie de Paget
+T12	expression_CIM 2578 2598	maladie métastatique
+T13	morphologie 2578 2598	maladie métastatique
+T14	morphologie 2963 2984	atteinte métastatique
+T15	expression_CIM 2963 3005	atteinte métastatique au niveau thoracique
+T16	topographie 2995 3005	thoracique
+T17	morphologie 3960 3967	tumeurs
+T18	expression_CIM 3960 3982	tumeurs de la prostate
+T19	topographie 3974 3982	prostate
+T20	expression_CIM 4889 4905	maladie de Paget
+T21	morphologie 4889 4905	maladie de Paget
+T22	morphologie 4976 4997	atteinte métastatique
+T23	expression_CIM 4976 5007	atteinte métastatique pelvienne
+T24	topographie 4998 5007	pelvienne
+T25	expression_CIM 5048 5064	maladie de Paget
+T26	morphologie 5048 5064	maladie de Paget
+T27	expression_CIM 5382 5393	adénopathie
+T28	morphologie 5382 5393	adénopathie
+T29	expression_CIM 5554 5611	prolifération néoplasique infiltrante de petites cellules
+T30	morphologie 5554 5611	prolifération néoplasique infiltrante de petites cellules
+T31	expression_CIM 6120 6135	sarcome d'Ewing
+T32	morphologie 6120 6135	sarcome d'Ewing
+T33	morphologie 6158 6192	tumeur neuroectodermique primitive
+T34	expression_CIM 6158 6216	tumeur neuroectodermique primitive (PNET) dans la prostate
+T35	morphologie 6194 6198	PNET
+T36	topographie 6208 6216	prostate
+T37	morphologie 6222 6230	atteinte
+T38	expression_CIM 6222 6257	atteinte des ganglions lymphatiques
+T39	topographie 6235 6257	ganglions lymphatiques
+T40	morphologie 7606 7617	progression
+T41	expression_CIM 7606 7628	progression pulmonaire
+T42	topographie 7618 7628	pulmonaire
+T43	morphologie 7714 7721	nodules
+T44	expression_CIM 7714 7733	nodules pulmonaires
+T45	topographie 7722 7733	pulmonaires
+T46	morphologie 8926 8937	progression
+T47	expression_CIM 8926 8948	progression pulmonaire
+T48	topographie 8938 8948	pulmonaire
+T49	morphologie 9026 9033	nodules
+T50	expression_CIM 9026 9047	nodules sous-pleuraux
+T51	topographie 9034 9047	sous-pleuraux
+T3	topographie 1122 1139	extrasquelettique
+T9	topographie 2485 2492	hémipel
+#1	ICD-O T1	9260/3
+#2	ICD-O T2	C61.9 9260/3
+#3	ICD-O T4	C61.9
+#4	ICD-O T5	C77.9 8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T10	8542/3
+#8	ICD-O T11	8542/3
+#9	ICD-O T12	8000/6
+#10	ICD-O T13	8000/6
+#11	ICD-O T14	8000/6
+#12	ICD-O T15	C76.1 8000/6
+#13	ICD-O T16	C76.1
+#14	ICD-O T17	8000/3
+#15	ICD-O T18	C61.9 8000/1
+#16	ICD-O T19	C61.9
+#17	ICD-O T20	8542/3
+#18	ICD-O T21	8542/3
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	C76.3 8000/6
+#21	ICD-O T24	C76.3
+#22	ICD-O T25	8542/3
+#23	ICD-O T26	8542/3
+#24	ICD-O T27	C77.9 8000/1
+#25	ICD-O T28	8000/1
+#26	ICD-O T30	8002/3
+#27	ICD-O T31	9260/3
+#28	ICD-O T32	9260/3
+#29	ICD-O T33	8246/3
+#30	ICD-O T35	9364/3
+#31	ICD-O T36	C61.9
+#32	ICD-O T37	8000/9
+#33	ICD-O T38	C77.9 8000/1
+#34	ICD-O T39	C77.9
+#35	ICD-O T40	8000/9
+#36	ICD-O T41	C34.9 8000/6
+#37	ICD-O T42	C34.9
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	C34.9 8000/1
+#40	ICD-O T45	C34.9
+#41	ICD-O T46	8000/9
+#42	ICD-O T47	C34.9 8000/6
+#43	ICD-O T48	C34.9
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C38.8 8000/1
+#46	ICD-O T51	C38.8

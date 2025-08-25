@@ -1,0 +1,44 @@
+T12	topographie 2513 2535	ganglions lymphatiques
+T68	topographie 2558 2577	dans tout l'abdomen
+T64	topographie 3989 4003	paroi du côlon
+T2	morphologie 1427 1452	lésions occupant l'espace
+T3	morphologie 1930 1944	adénocarcinome
+T5	differenciation 1945 1960	peu différencié
+T6	morphologie 2199 2206	nodules
+T8	topographie 2216 2242	quadrants internes du sein
+T9	morphologie 2250 2262	Adénopathies
+T11	topographie 2263 2273	axillaires
+T14	morphologie 2536 2557	suspects de malignité
+T15	morphologie 2579 2586	Lésions
+T17	topographie 2587 2595	osseuses
+T18	morphologie 2627 2645	néoplasme probable
+T20	topographie 2649 2654	côlon
+T21	morphologie 2656 2666	métastases
+T23	topographie 2667 2675	osseuses
+T24	morphologie 2756 2771	tumeur primaire
+T26	topographie 2775 2779	sein
+T27	morphologie 2878 2883	masse
+T30	morphologie 2969 2975	nodule
+T32	topographie 3033 3067	quadrant supérieur externe du sein
+T33	morphologie 3080 3096	lymphadénopathie
+T35	topographie 3139 3148	aisselles
+T37	morphologie 3178 3185	nodules
+T38	morphologie 3257 3264	nodules
+T40	topographie 3265 3274	mammaires
+T42	morphologie 3288 3318	carcinome lobulaire infiltrant
+T44	morphologie 3368 3375	nodules
+T45	morphologie 3538 3557	carcinome lobulaire
+T47	topographie 3561 3565	sein
+T48	morphologie 3579 3598	Carcinome lobulaire
+T50	topographie 3605 3609	sein
+T51	morphologie 3615 3623	atteinte
+T53	topographie 3624 3631	osseuse
+T54	morphologie 3633 3646	carcinomatose
+T56	topographie 3647 3658	péritonéale
+T57	morphologie 3662 3674	infiltration
+T59	topographie 3675 3682	colique
+T61	morphologie 3828 3842	adénocarcinome
+T62	morphologie 3965 3980	implant tumoral
+T65	morphologie 4373 4392	carcinome lobulaire
+T67	topographie 4396 4400	sein
+T29	topographie 2930 2958	quadrants inférieurs du sein

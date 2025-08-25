@@ -1,0 +1,119 @@
+T1	expression_CIM 343 348	masse
+T2	morphologie 343 348	masse
+T3	morphologie 657 663	polype
+T4	expression_CIM 657 701	polype de 3 cm inséré dans le fundus du côté
+T5	topographie 687 701	fundus du côté
+T6	expression_CIM 843 849	tumeur
+T7	morphologie 843 849	tumeur
+T8	morphologie 862 890	adénocarcinome endométrioïde
+T9	expression_CIM 862 907	adénocarcinome endométrioïde bien différencié
+T10	differenciation 891 907	bien différencié
+T11	morphologie 921 935	Adénocarcinome
+T12	expression_CIM 921 950	Adénocarcinome de l'endomètre
+T13	topographie 941 950	endomètre
+T14	expression_CIM 1100 1125	adénocarcinome infiltrant
+T15	morphologie 1100 1125	adénocarcinome infiltrant
+T16	morphologie 1297 1309	infiltration
+T17	expression_CIM 1297 1336	infiltration des structures vasculaires
+T18	topographie 1314 1336	structures vasculaires
+T19	morphologie 1463 1491	adénocarcinome endométrioïde
+T20	expression_CIM 1463 1502	adénocarcinome endométrioïde de grade 2
+T21	expression_CIM 1713 1721	récidive
+T22	morphologie 1713 1721	récidive
+T23	morphologie 1776 1782	nodule
+T24	expression_CIM 1776 1837	nodule de 1,5 cm dans le lobe pulmonaire inférieur droit (LID
+T25	topographie 1801 1826	lobe pulmonaire inférieur
+T26	topographie 1834 1837	LID
+T27	morphologie 1944 1951	nodules
+T28	expression_CIM 1944 1973	nodules sous-diaphragmatiques
+T29	topographie 1952 1973	sous-diaphragmatiques
+T30	morphologie 1998 2015	implants tumoraux
+T31	expression_CIM 1998 2027	implants tumoraux péritonéaux
+T32	topographie 2016 2027	péritonéaux
+T33	morphologie 2298 2304	lésion
+T34	expression_CIM 2298 2315	lésion pulmonaire
+T35	topographie 2305 2315	pulmonaire
+T36	morphologie 2358 2367	métastase
+T37	expression_CIM 2358 2378	métastase pulmonaire
+T38	topographie 2368 2378	pulmonaire
+T39	expression_CIM 2596 2602	lésion
+T40	morphologie 2596 2602	lésion
+T41	morphologie 2747 2775	adénocarcinome endométrioïde
+T42	expression_CIM 2747 2792	adénocarcinome endométrioïde bien différencié
+T43	differenciation 2776 2792	bien différencié
+T44	expression_CIM 2811 2821	métastases
+T45	morphologie 2811 2821	métastases
+T46	expression_CIM 2828 2843	tumeur primaire
+T47	morphologie 2828 2843	tumeur primaire
+T48	morphologie 2897 2903	nodule
+T49	expression_CIM 2897 2957	nodule pulmonaire de 9 mm à 12 mm a été observée dans la LID
+T50	topographie 2904 2914	pulmonaire
+T51	topographie 2954 2957	LID
+T52	expression_CIM 3084 3109	adénocarcinome infiltrant
+T53	morphologie 3084 3109	adénocarcinome infiltrant
+T54	expression_CIM 3163 3172	métastase
+T55	morphologie 3163 3172	métastase
+T56	morphologie 3178 3206	adénocarcinome endométrioïde
+T57	expression_CIM 3178 3223	adénocarcinome endométrioïde bien différencié
+T58	differenciation 3207 3223	bien différencié
+T59	expression_CIM 3491 3499	récidive
+T60	morphologie 3491 3499	récidive
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8210/1
+#4	ICD-O T5	C16.1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8380/3
+#8	ICD-O T9	8380/31
+#9	ICD-O T10	1
+#10	ICD-O T11	8140/3
+#11	ICD-O T12	C54.1 8140/3
+#12	ICD-O T13	C54.1
+#13	ICD-O T14	8140/3
+#14	ICD-O T15	8140/3
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C49.9 8000/1
+#17	ICD-O T18	C49.9
+#18	ICD-O T19	8380/3
+#19	ICD-O T20	8380/32
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	C34.3 8000/1
+#24	ICD-O T25	C34.3
+#25	ICD-O T26	C34.3
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	C76.2 8000/1
+#28	ICD-O T29	C76.2
+#29	ICD-O T30	8000/6
+#30	ICD-O T31	C48.2 8000/6
+#31	ICD-O T32	C48.2
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	C34.9 8000/1
+#34	ICD-O T35	C34.9
+#35	ICD-O T36	8000/6
+#36	ICD-O T37	C34.9 8000/6
+#37	ICD-O T38	C34.9
+#38	ICD-O T39	8000/1
+#39	ICD-O T40	8000/1
+#40	ICD-O T41	8380/3
+#41	ICD-O T42	8380/31
+#42	ICD-O T43	1
+#43	ICD-O T44	8000/6
+#44	ICD-O T45	8000/6
+#45	ICD-O T46	8000/3
+#46	ICD-O T47	8000/3
+#47	ICD-O T48	8000/1
+#48	ICD-O T49	C34.3 8000/1;C34.9 8000/1
+#49	ICD-O T50	C34.9
+#50	ICD-O T51	C34.3
+#51	ICD-O T52	8140/3
+#52	ICD-O T53	8140/3
+#53	ICD-O T54	8000/6
+#54	ICD-O T55	8000/6
+#55	ICD-O T56	8380/3
+#56	ICD-O T57	8380/31
+#57	ICD-O T58	1
+#58	ICD-O T59	8000/6
+#59	ICD-O T60	8000/6

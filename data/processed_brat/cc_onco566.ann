@@ -1,0 +1,26 @@
+T1	morphologie 388 393	masse
+T3	topographie 394 404	abdominale
+T4	morphologie 650 655	masse
+T6	topographie 692 696	rein
+T7	morphologie 925 934	carcinome
+T39	morphologie 941 959	à cellules claires
+T9	topographie 935 940	rénal
+T10	morphologie 1080 1087	lésions
+T40	morphologie 1100 1110	nodulaires
+T12	topographie 1088 1099	pulmonaires
+T13	morphologie 1146 1158	adénopathies
+T15	topographie 1159 1172	médiastinales
+T16	morphologie 1788 1799	progression
+T18	topographie 1800 1810	pulmonaire
+T19	morphologie 1997 2008	progression
+T21	topographie 2009 2019	pulmonaire
+T23	morphologie 2054 2072	lâchage de ballons
+T25	morphologie 3199 3204	masse
+T26	morphologie 4269 4276	lésions
+T28	topographie 4283 4300	substance blanche
+T29	morphologie 4446 4453	lésions
+T31	topographie 4454 4464	corticales
+T33	morphologie 4515 4531	lésion nodulaire
+T34	morphologie 4739 4745	cancer
+T36	topographie 4749 4753	rein
+T38	morphologie 5731 5749	lésions nodulaires

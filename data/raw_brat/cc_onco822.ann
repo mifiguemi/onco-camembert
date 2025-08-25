@@ -1,0 +1,128 @@
+T45	topographie 3236 3270	médiastinale rétrocavopretrachéale
+T1	morphologie 323 329	cancer
+T2	expression_CIM 323 338	cancer du côlon
+T3	topographie 333 338	côlon
+T4	expression_CIM 886 892	masses
+T5	morphologie 886 892	masses
+T6	morphologie 993 1004	adénopathie
+T7	expression_CIM 993 1057	adénopathie cervicale, supraclaviculaire, axillaire ou inguinale
+T8	topographie 1005 1014	cervicale
+T9	topographie 1016 1033	supraclaviculaire
+T10	topographie 1035 1044	axillaire
+T11	topographie 1048 1057	inguinale
+T12	morphologie 1349 1355	tumeur
+T13	expression_CIM 1349 1400	tumeur de 7,5 cm x 7 cm a été détectée dans le rein
+T14	topographie 1396 1400	rein
+T15	morphologie 1603 1631	carcinome à cellules claires
+T16	expression_CIM 1603 1639	carcinome à cellules claires du rein
+T17	topographie 1635 1639	rein
+T18	expression_CIM 1926 1933	lésions
+T19	morphologie 1926 1933	lésions
+T20	morphologie 1955 1965	métastases
+T21	expression_CIM 1955 1997	métastases soient détectées dans le poumon
+T22	topographie 1991 1997	poumon
+T23	expression_CIM 2203 2210	lésions
+T24	morphologie 2203 2210	lésions
+T25	morphologie 2293 2299	cancer
+T26	expression_CIM 2293 2307	cancer du rein
+T27	topographie 2303 2307	rein
+T28	expression_CIM 2396 2402	nodule
+T29	morphologie 2396 2402	nodule
+T30	morphologie 2423 2429	nodule
+T31	expression_CIM 2423 2453	nodule de 15 mm à côté du hile
+T32	topographie 2449 2453	hile
+T33	morphologie 2464 2470	nodule
+T34	expression_CIM 2464 2520	nodule de 9 mm dans la lingula et dans le lobe supérieur
+T35	topographie 2487 2494	lingula
+T36	topographie 2506 2520	lobe supérieur
+T37	expression_CIM 2587 2599	adénopathies
+T38	morphologie 2587 2599	adénopathies
+T39	expression_CIM 2725 2731	tumeur
+T40	morphologie 2725 2731	tumeur
+T41	expression_CIM 2813 2820	nodules
+T42	morphologie 2813 2820	nodules
+T43	morphologie 3219 3235	lymphadénopathie
+T44	expression_CIM 3219 3270	lymphadénopathie médiastinale rétrocavopretrachéale
+T46	morphologie 3333 3340	nodules
+T47	expression_CIM 3333 3352	nodules pulmonaires
+T48	topographie 3341 3352	pulmonaires
+T49	morphologie 3392 3408	lymphadénopathie
+T50	expression_CIM 3392 3446	lymphadénopathie para-aortique adjacente au hile rénal
+T51	topographie 3409 3422	para-aortique
+T52	topographie 3436 3446	hile rénal
+T53	expression_CIM 3575 3581	tumeur
+T54	morphologie 3575 3581	tumeur
+T55	morphologie 3925 3932	lésions
+T56	expression_CIM 3925 3944	lésions pulmonaires
+T57	topographie 3933 3944	pulmonaires
+T58	morphologie 4046 4057	Adénopathie
+T59	expression_CIM 4046 4071	Adénopathie para-aortique
+T60	topographie 4058 4071	para-aortique
+T61	morphologie 4134 4144	Métastases
+T62	expression_CIM 4134 4200	Métastases osseuses dans la lame iliaque gauche et le col du fémur
+T63	topographie 4145 4153	osseuses
+T64	topographie 4162 4174	lame iliaque
+T65	topographie 4188 4200	col du fémur
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C77.0 8000/1;C77.3 8000/1;C77.4 8000/1
+#8	ICD-O T8	C76.0
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	C76.1
+#11	ICD-O T11	C76.3
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C64.9 8000/1
+#14	ICD-O T14	C64.9
+#15	ICD-O T15	8310/3
+#16	ICD-O T16	C64.9 8310/3
+#17	ICD-O T17	C64.9
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C34.9 8000/6
+#22	ICD-O T22	C34.9
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/3
+#26	ICD-O T26	C64.9 8000/3
+#27	ICD-O T27	C64.9
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C34.0 8000/1
+#32	ICD-O T32	C34.0
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	C34.1 8000/1
+#35	ICD-O T35	C34.1
+#36	ICD-O T36	C34.1
+#37	ICD-O T37	C77.9 8000/1
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	8000/1
+#42	ICD-O T42	8000/1
+#43	ICD-O T43	8000/1
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	C34.9 8000/1
+#46	ICD-O T48	C34.9
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	C77.2 8000/1
+#49	ICD-O T51	C49.4
+#50	ICD-O T52	C64.9
+#51	ICD-O T53	8000/1
+#52	ICD-O T54	8000/1
+#53	ICD-O T55	8000/1
+#54	ICD-O T56	C34.9 8000/1
+#55	ICD-O T57	C34.9
+#56	ICD-O T58	8000/1
+#57	ICD-O T59	C77.2 8000/1
+#58	ICD-O T60	C49.4
+#59	ICD-O T61	8000/6
+#60	ICD-O T62	C40.2 8000/6;C41.4 8000/6;C41.9 8000/6
+#61	ICD-O T63	C41.9
+#62	ICD-O T64	C41.4
+#63	ICD-O T65	C40.2

@@ -1,0 +1,27 @@
+T3	morphologie 119 125	cancer
+T5	topographie 129 134	côlon
+T7	morphologie 175 182	adénome
+T9	morphologie 564 582	lésion néoplasique
+T10	morphologie 783 792	carcinome
+T12	topographie 793 804	endométrial
+T13	topographie 810 819	endomètre
+T14	morphologie 1027 1055	adénocarcinome endométrioïde
+T16	differenciation 1056 1058	G3
+T17	topographie 1064 1073	endomètre
+T22	morphologie 1457 1473	lymphadénopathie
+T24	morphologie 1558 1578	récidive néoplasique
+T25	morphologie 1600 1617	Récidive tumorale
+T27	topographie 1618 1627	pelvienne
+T28	morphologie 1633 1647	adénocarcinome
+T30	topographie 1648 1659	endométrial
+T32	morphologie 1872 1888	réponse tumorale
+T33	morphologie 2134 2144	métastases
+T35	topographie 2176 2183	frontal
+T38	topographie 2237 2248	cérébelleux
+T39	morphologie 2943 2953	métastases
+T41	topographie 2954 2964	cérébrales
+T37	topographie 2225 2233	pariétal
+T20	topographie 1417 1428	pré-rectale
+T2	morphologie 40 57	syndrome de Lynch
+T18	morphologie 1398 1416	tumeur polylobulée
+T36	topographie 2192 2216	suprasellaire paramédian

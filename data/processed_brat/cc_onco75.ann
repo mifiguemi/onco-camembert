@@ -1,0 +1,41 @@
+T16	topographie 1692 1714	creux sus-claviculaire
+T21	topographie 1910 1943	jonction des quadrants inférieurs
+T14	topographie 1643 1659	région axillaire
+T15	topographie 1664 1685	région sous-pectorale
+T1	morphologie 159 189	hyperplasie canalaire atypique
+T3	topographie 193 197	sein
+T5	morphologie 334 342	fibromes
+T6	morphologie 584 616	lésions d'occupation de l'espace
+T58	morphologie 627 630	LOE
+T8	topographie 617 625	cérébral
+T9	morphologie 1158 1165	lésions
+T11	topographie 1166 1183	supratentorielles
+T12	morphologie 1583 1607	adénopathie pathologique
+T59	morphologie 1740 1762	d'origine métastatique
+T18	morphologie 1783 1802	atteinte à distance
+T19	morphologie 1860 1866	nodule
+T23	morphologie 2009 2035	adénopathies pathologiques
+T24	morphologie 2290 2301	adénopathie
+T26	topographie 2302 2311	axillaire
+T27	morphologie 2348 2368	carcinome infiltrant
+T29	topographie 2379 2387	mammaire
+T30	morphologie 5444 5451	nodules
+T32	topographie 5511 5525	lobe supérieur
+T33	morphologie 6185 6191	cancer
+T35	topographie 6195 6199	sein
+T37	morphologie 6203 6211	stade IV
+T38	morphologie 6213 6223	métastases
+T40	topographie 6224 6234	cérébrales
+T41	morphologie 7785 7815	carcinome canalaire infiltrant
+T43	differenciation 7816 7831	peu différencié
+T44	topographie 7835 7839	sein
+T45	morphologie 7856 7864	invasion
+T49	morphologie 8013 8031	cellules tumorales
+T50	morphologie 8061 8071	métastases
+T52	topographie 8095 8099	foie
+T53	topographie 8104 8108	rate
+T54	topographie 8114 8119	reins
+T55	topographie 8125 8143	glandes surrénales
+T56	topographie 8148 8162	moelle osseuse
+T57	topographie 8169 8176	cerveau
+T47	topographie 7865 7887	vasculaire lymphatique

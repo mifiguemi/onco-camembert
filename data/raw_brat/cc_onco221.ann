@@ -1,0 +1,50 @@
+T21	topographie 5809 5832	hypophysaire postérieur
+T1	expression_CIM 466 471	masse
+T2	morphologie 466 471	masse
+T3	morphologie 936 950	adénocarcinome
+T4	expression_CIM 936 982	adénocarcinome modérément différencié du côlon
+T5	differenciation 951 973	modérément différencié
+T6	topographie 977 982	côlon
+T7	expression_CIM 988 1000	infiltration
+T8	morphologie 988 1000	infiltration
+T9	expression_CIM 1025 1040	invasion focale
+T10	morphologie 1025 1040	invasion focale
+T11	morphologie 1108 1116	invasion
+T12	expression_CIM 1108 1133	invasion lymphovasculaire
+T13	topographie 1117 1133	lymphovasculaire
+T14	expression_CIM 1203 1224	atteinte métastatique
+T15	morphologie 1203 1224	atteinte métastatique
+T16	morphologie 2755 2775	atteinte néoplasique
+T17	expression_CIM 2755 2787	atteinte néoplasique du pancréas
+T18	topographie 2779 2787	pancréas
+T19	morphologie 5796 5808	microadénome
+T20	expression_CIM 5796 5832	microadénome hypophysaire postérieur
+T22	morphologie 5849 5863	Adénocarcinome
+T23	expression_CIM 5849 5874	Adénocarcinome colorectal
+T24	topographie 5864 5874	colorectal
+T25	morphologie 6484 6496	microadénome
+T26	expression_CIM 6484 6517	microadénome de la neurohypophyse
+T27	topographie 6503 6517	neurohypophyse
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8140/3
+#4	ICD-O T4	C18.9 8140/32
+#5	ICD-O T5	2
+#6	ICD-O T6	C18.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C49.9 8000/1
+#13	ICD-O T13	C49.9
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C25.9 8000/6
+#18	ICD-O T18	C25.9
+#19	ICD-O T19	8140/0
+#20	ICD-O T22	8140/3
+#21	ICD-O T23	C19.9 8140/3
+#22	ICD-O T24	C19.9
+#23	ICD-O T25	8140/0

@@ -1,0 +1,100 @@
+T1	morphologie 3323 3328	masse
+T2	expression_CIM 3323 3360	masse palpable dans le fornix vaginal
+T3	topographie 3346 3360	fornix vaginal
+T4	morphologie 3378 3387	extension
+T5	expression_CIM 3378 3405	extension vers le paramètre
+T6	topographie 3396 3405	paramètre
+T7	morphologie 3513 3522	néoplasie
+T8	expression_CIM 3513 3532	néoplasie cervicale
+T9	topographie 3523 3532	cervicale
+T10	morphologie 3641 3650	néoplasme
+T11	expression_CIM 3641 3659	néoplasme cervical
+T12	topographie 3651 3659	cervical
+T13	morphologie 3685 3693	invasion
+T14	expression_CIM 3685 3716	invasion extensive du paramètre
+T15	topographie 3707 3716	paramètre
+T16	morphologie 3900 3911	adénopathie
+T17	expression_CIM 3900 3951	adénopathie dans les chaînes iliaques ou inguinales
+T18	topographie 3921 3937	chaînes iliaques
+T19	topographie 3941 3951	inguinales
+T20	expression_CIM 3977 3983	lésion
+T21	morphologie 3977 3983	lésion
+T22	morphologie 4028 4049	carcinome épidermoïde
+T23	expression_CIM 4028 4085	carcinome épidermoïde bien différencié du col de l'utérus
+T24	differenciation 4050 4066	bien différencié
+T25	topographie 4070 4085	col de l'utérus
+T26	morphologie 4095 4103	invasion
+T27	expression_CIM 4095 4120	invasion lymphovasculaire
+T28	topographie 4104 4120	lymphovasculaire
+T29	morphologie 4262 4282	Carcinome malpighien
+T30	expression_CIM 4262 4301	Carcinome malpighien du col de l'utérus
+T31	topographie 4286 4301	col de l'utérus
+T32	expression_CIM 4323 4336	stade IIIB/IV
+T33	morphologie 4323 4336	stade IIIB/IV
+T34	morphologie 5942 5950	invasion
+T35	expression_CIM 5942 5978	invasion de la muqueuse de la vessie
+T37	expression_CIM 6073 6082	métastase
+T38	morphologie 6073 6082	métastase
+T39	morphologie 6086 6107	carcinome épidermoïde
+T40	expression_CIM 6086 6121	carcinome épidermoïde (interiliaque
+T41	topographie 6109 6121	interiliaque
+T42	expression_CIM 6270 6288	maladie à distance
+T43	morphologie 6270 6288	maladie à distance
+T44	morphologie 6313 6322	Carcinome
+T45	expression_CIM 6313 6331	Carcinome cervical
+T46	topographie 6323 6331	cervical
+T47	morphologie 6905 6910	masse
+T48	expression_CIM 6905 6939	masse au niveau du col de l'utérus
+T49	topographie 6924 6939	col de l'utérus
+T50	morphologie 6951 6957	tumeur
+T51	expression_CIM 6951 7022	tumeur macroscopique résiduelle persistant au niveau du col de l'utérus
+T52	topographie 7007 7022	col de l'utérus
+T36	topographie 5957 5978	muqueuse de la vessie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C52.9 8000/1
+#3	ICD-O T3	C52.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C54.8 8000/6
+#6	ICD-O T6	C54.8
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C76.0 8000/1
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C76.0 8000/1
+#12	ICD-O T12	C76.0
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C54.8 8000/1
+#15	ICD-O T15	C54.8
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C77.4 8000/1;C77.5 8000/1
+#18	ICD-O T18	C77.5
+#19	ICD-O T19	C76.3
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8070/3
+#23	ICD-O T23	C53.9 8070/31
+#24	ICD-O T24	1
+#25	ICD-O T25	C53.9
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C49.9 8000/1
+#28	ICD-O T28	C49.9
+#29	ICD-O T29	8070/3
+#30	ICD-O T30	C53.9 8070/3
+#31	ICD-O T31	C53.9
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	C67.9 8000/1
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	8070/3
+#38	ICD-O T41	C76.3
+#39	ICD-O T42	8000/6
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8010/3
+#42	ICD-O T45	C76.0 8010/3
+#43	ICD-O T46	C76.0
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C53.9 8000/1
+#46	ICD-O T49	C53.9
+#47	ICD-O T50	8000/1
+#48	ICD-O T52	C53.9

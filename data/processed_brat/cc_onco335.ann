@@ -1,0 +1,31 @@
+T41	morphologie 2544 2547	ADK
+T11	topographie 926 949	fosse crânienne moyenne
+T1	morphologie 142 161	hyperplasie bénigne
+T3	topographie 168 176	prostate
+T4	morphologie 670 676	lésion
+T6	topographie 677 686	temporale
+T8	morphologie 713 723	méningiome
+T9	morphologie 889 895	lésion
+T12	topographie 971 980	sphénoïde
+T14	morphologie 1280 1290	méningiome
+T16	morphologie 1418 1427	métastase
+T17	morphologie 1487 1496	métastase
+T19	topographie 1525 1538	lobe temporal
+T20	morphologie 1544 1556	infiltration
+T22	topographie 1571 1576	crâne
+T24	morphologie 1689 1699	METASTASIS
+T26	morphologie 1705 1720	ADENOCARCINOMME
+T27	morphologie 1724 1736	infiltration
+T29	topographie 1749 1751	os
+T31	morphologie 1758 1772	adénocarcinome
+T32	morphologie 2285 2292	lésions
+T34	topographie 2325 2336	vertébrales
+T35	topographie 2355 2368	iliopubiennes
+T36	topographie 2372 2387	ischiopubiennes
+T38	morphologie 2411 2421	métastases
+T40	morphologie 2500 2517	cellules malignes
+T43	topographie 2548 2559	prostatique
+T45	morphologie 2563 2571	stade IV
+T46	morphologie 2596 2609	dissémination
+T48	topographie 2610 2617	osseuse
+T49	topographie 2621 2629	méningée

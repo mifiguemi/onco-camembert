@@ -1,0 +1,47 @@
+T18	topographie 1588 1597	axillaire
+T22	topographie 1661 1669	inguinal
+T1	morphologie 438 445	lésions
+T3	topographie 446 454	cutanées
+T5	morphologie 475 492	sarcome de Kaposi
+T6	morphologie 524 531	lésions
+T8	topographie 559 562	cou
+T9	topographie 567 571	joue
+T10	topographie 591 594	nez
+T11	topographie 599 604	tronc
+T12	topographie 609 612	dos
+T13	topographie 616 623	abdomen
+T14	topographie 631 638	membres
+T15	morphologie 1534 1550	polyadénopathies
+T19	topographie 1612 1626	tronc cœliaque
+T20	topographie 1628 1640	mésentérique
+T21	topographie 1642 1657	rétropéritonéal
+T24	morphologie 1803 1820	sarcome de Kaposi
+T25	morphologie 1976 1982	lésion
+T27	topographie 1983 1990	cutanée
+T29	morphologie 2037 2054	sarcome de Kaposi
+T31	morphologie 2431 2449	lésions nodulaires
+T32	morphologie 2517 2534	sarcome de Kaposi
+T34	topographie 2536 2544	duodénum
+T35	morphologie 2608 2626	lésions nodulaires
+T37	topographie 2700 2716	cavité gastrique
+T38	morphologie 2732 2749	sarcome de Kaposi
+T40	topographie 2778 2784	rectum
+T41	morphologie 2855 2861	lésion
+T43	topographie 2862 2882	gastro-oesophagienne
+T45	morphologie 2987 3004	sarcome de Kaposi
+T47	morphologie 3337 3354	sarcome de Kaposi
+T48	morphologie 3360 3368	atteinte
+T50	topographie 3369 3376	cutanée
+T51	topographie 3380 3388	muqueuse
+T52	morphologie 3670 3677	lésions
+T54	topographie 3678 3686	cutanées
+T55	morphologie 3719 3726	lésions
+T57	topographie 3727 3737	entériques
+T59	morphologie 3815 3832	sarcome de Kaposi
+T60	topographie 3904 3911	Estomac
+T62	morphologie 3918 3936	lésions nodulaires
+T63	morphologie 4117 4124	lésions
+T65	topographie 4150 4156	rectal
+T66	morphologie 4761 4768	lésions
+T68	topographie 4769 4777	cutanées
+T17	topographie 1561 1576	sous-maxillaire

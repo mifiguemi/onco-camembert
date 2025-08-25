@@ -1,0 +1,73 @@
+T1	morphologie 153 159	tumeur
+T2	expression_CIM 153 169	tumeur axillaire
+T3	topographie 160 169	axillaire
+T4	expression_CIM 273 279	lésion
+T5	morphologie 273 279	lésion
+T6	expression_CIM 352 361	métastase
+T7	morphologie 352 361	métastase
+T8	expression_CIM 365 373	mélanome
+T9	morphologie 365 373	mélanome
+T10	morphologie 706 712;745 768	naevus sans signe de malignité
+T11	expression_CIM 706 768	naevus répartis sur le tronc et le dos sans signe de malignité
+T12	topographie 729 734	tronc
+T13	topographie 741 744	dos
+T14	expression_CIM 845 857	adénopathies
+T15	morphologie 845 857	adénopathies
+T16	morphologie 1185 1201	lymphadénopathie
+T17	expression_CIM 1185 1242	lymphadénopathie de 1,2 cm dans la région submandibulaire
+T18	topographie 1227 1242	submandibulaire
+T19	morphologie 1253 1269	lymphadénopathie
+T20	expression_CIM 1253 1279	lymphadénopathie axillaire
+T21	topographie 1270 1279	axillaire
+T22	morphologie 1332 1343	adénopathie
+T23	expression_CIM 1332 1353	adénopathie axillaire
+T24	topographie 1344 1353	axillaire
+T25	expression_CIM 1391 1408	atteinte tumorale
+T26	morphologie 1391 1408	atteinte tumorale
+T27	morphologie 1422 1439	Mélanome primaire
+T28	expression_CIM 1422 1479	Mélanome primaire non affilié ou de localisation inconnue
+T29	topographie 1458 1479	localisation inconnue
+T30	morphologie 1485 1493	atteinte
+T31	expression_CIM 1485 1503	atteinte axillaire
+T32	topographie 1494 1503	axillaire
+T33	morphologie 1654 1664	métastases
+T34	expression_CIM 1654 1703	métastases de mélanome dans l'un des 10 ganglions
+T35	expression_CIM 1668 1676	mélanome
+T36	morphologie 1668 1676	mélanome
+T37	topographie 1694 1703	ganglions
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.1 8000/1
+#3	ICD-O T3	C76.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8720/3
+#9	ICD-O T9	8720/3
+#10	ICD-O T10	8720/0
+#11	ICD-O T12	C76.7
+#12	ICD-O T13	C76.7
+#13	ICD-O T14	C77.9 8000/1
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C77.0 8000/1
+#17	ICD-O T18	C71.0
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C77.3 8000/1
+#20	ICD-O T21	C76.1
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C77.3 8000/1
+#23	ICD-O T24	C76.1
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	8000/6
+#26	ICD-O T27	8720/3
+#27	ICD-O T28	C80.9 8720/3
+#28	ICD-O T29	C80.9
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C76.1 8000/1
+#31	ICD-O T32	C76.1
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	C77.9 8000/6
+#34	ICD-O T35	8720/3
+#35	ICD-O T36	8720/3
+#36	ICD-O T37	C77.9

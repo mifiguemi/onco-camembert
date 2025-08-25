@@ -1,0 +1,52 @@
+T2	morphologie 216 222	tumeur
+T4	morphologie 380 392	adénopathies
+T5	morphologie 458 464	Tumeur
+T7	topographie 482 487	fesse
+T8	morphologie 646 652	lésion
+T10	topographie 707 720	grand fessier
+T11	morphologie 776 782	tumeur
+T13	topographie 797 804	fessier
+T14	morphologie 829 838	ganglions
+T17	morphologie 861 872	micronodule
+T19	topographie 873 883	pulmonaire
+T80	topographie 918 932	lobe supérieur
+T20	topographie 897 909	sous-pleural
+T21	topographie 940 943	LSD
+T22	morphologie 946 952	lésion
+T24	topographie 996 1005	hépatique
+T25	morphologie 1044 1062	sarcome pléomorphe
+T27	topographie 1069 1074	fesse
+T29	morphologie 1262 1296	fibrohistiocytome malin pléomorphe
+T30	morphologie 1310 1317	Sarcome
+T81	morphologie 1337 1347	pléomorphe
+T32	topographie 1324 1329	fesse
+T34	morphologie 1546 1580	fibrohistiocytome malin pléomorphe
+T36	morphologie 1635 1641	lésion
+T38	morphologie 1685 1719	fibrohistiocytome malin pléomorphe
+T39	morphologie 1989 2000	progression
+T41	topographie 2011 2021	pulmonaire
+T42	morphologie 2157 2164	nodules
+T44	topographie 2165 2176	pulmonaires
+T46	morphologie 2282 2292	métastases
+T48	morphologie 2296 2313	fibrohistiocytome
+T50	morphologie 2676 2682	lésion
+T51	morphologie 2717 2723	lésion
+T53	topographie 2724 2733	axillaire
+T54	morphologie 2980 3015	carcinome canalaire infiltrant (CDI
+T56	topographie 3020 3024	sein
+T57	differenciation 3031 3033	G2
+T58	morphologie 3203 3206	IDC
+T60	topographie 3218 3222	sein
+T61	morphologie 3871 3892	carcinome intraductal
+T63	differenciation 3896 3906	haut grade
+T64	topographie 3939 3943	sein
+T66	morphologie 3964 3971	lésions
+T68	morphologie 3994 4006	adénopathies
+T69	morphologie 4091 4094	CDI
+T71	differenciation 4095 4097	G2
+T72	morphologie 4400 4415	tumeur primaire
+T74	topographie 4419 4423	sein
+T75	morphologie 4794 4800	tumeur
+T77	topographie 4801 4809	mammaire
+T79	morphologie 4875 4894	maladie néoplasique
+T16	topographie 839 848	inguinaux

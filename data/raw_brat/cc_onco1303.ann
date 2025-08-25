@@ -1,0 +1,70 @@
+T1	morphologie 129 149	carcinome papillaire
+T2	expression_CIM 129 164	carcinome papillaire de la thyroïde
+T3	morphologie 329 350	carcinome épidermoïde
+T4	expression_CIM 329 363	carcinome épidermoïde G2 du larynx
+T5	differenciation 351 353	G2
+T6	topographie 357 363	larynx
+T7	morphologie 473 487	adénocarcinome
+T8	expression_CIM 473 497	adénocarcinome du rectum
+T9	topographie 491 497	rectum
+T10	morphologie 720 726	nodule
+T11	expression_CIM 720 765	nodule dans le lobe supérieur droit du poumon
+T12	topographie 735 749	lobe supérieur
+T13	topographie 759 765	poumon
+T14	morphologie 905 926	carcinome épidermoïde
+T15	expression_CIM 905 929	carcinome épidermoïde G2
+T16	differenciation 927 929	G2
+T17	morphologie 1527 1533	tumeur
+T18	expression_CIM 1527 1550	tumeur infratentorielle
+T19	topographie 1534 1550	infratentorielle
+T20	morphologie 1820 1829	Métastase
+T21	expression_CIM 1820 1842	Métastase cérébelleuse
+T22	topographie 1830 1842	cérébelleuse
+T23	morphologie 1885 1894	métastase
+T24	expression_CIM 1885 1904	métastase cérébrale
+T25	topographie 1895 1904	cérébrale
+T26	expression_CIM 1919 1926	maladie
+T27	morphologie 1919 1926	maladie
+T28	morphologie 2183 2189	tumeur
+T29	expression_CIM 2183 2199	tumeur cérébrale
+T30	topographie 2190 2199	cérébrale
+T31	morphologie 2365 2374	métastase
+T32	expression_CIM 2365 2387	métastase cérébelleuse
+T33	topographie 2375 2387	cérébelleuse
+T34	expression_CIM 2397 2411	adénocarcinome
+T35	morphologie 2397 2411	adénocarcinome
+#1	ICD-O T1	8050/3
+#2	ICD-O T2	C73.9 8050/3
+#3	ICD-O T3	8070/3
+#4	ICD-O T4	C32.9 8070/32
+#5	ICD-O T5	2
+#6	ICD-O T6	C32.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C20.9 8140/3
+#9	ICD-O T9	C20.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C34.1 8000/1;C34.9 8000/1
+#12	ICD-O T12	C34.1
+#13	ICD-O T13	C34.9
+#14	ICD-O T14	8070/3
+#15	ICD-O T15	8070/32
+#16	ICD-O T16	2
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C71.0 8000/1
+#19	ICD-O T19	C71.0
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C71.6 8000/6
+#22	ICD-O T22	C71.6
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	C71.0 8000/6
+#25	ICD-O T25	C71.0
+#26	ICD-O T26	8000/6
+#27	ICD-O T27	8000/6
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C71.0 8000/1
+#30	ICD-O T30	C71.0
+#31	ICD-O T31	8000/6
+#32	ICD-O T32	C71.6 8000/6
+#33	ICD-O T33	C71.6
+#34	ICD-O T34	8140/3
+#35	ICD-O T35	8140/3

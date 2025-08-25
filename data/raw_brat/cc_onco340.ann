@@ -1,0 +1,105 @@
+T1	morphologie 598 604	tumeur
+T2	expression_CIM 598 615	tumeur au cerveau
+T3	topographie 608 615	cerveau
+T4	morphologie 707 713	cancer
+T5	expression_CIM 707 721	cancer du sein
+T6	topographie 717 721	sein
+T7	topographie 1087 1101	lobe hépatique
+T8	expression_CIM 1087 1115	lobe hépatique gauche, masse
+T9	morphologie 1110 1115	masse
+T10	morphologie 1346 1355	extension
+T11	expression_CIM 1346 1369	extension au diaphragme
+T12	topographie 1359 1369	diaphragme
+T13	morphologie 1402 1415	Carcinomatose
+T14	expression_CIM 1402 1427	Carcinomatose péritonéale
+T15	topographie 1416 1427	péritonéale
+T16	morphologie 1465 1471	tumeur
+T17	expression_CIM 1465 1481	tumeur hépatique
+T18	topographie 1472 1481	hépatique
+T19	expression_CIM 1483 1498	hépatocarcinome
+T20	morphologie 1483 1498	hépatocarcinome
+T21	morphologie 1585 1591	tumeur
+T22	expression_CIM 1585 1601	tumeur hépatique
+T23	topographie 1592 1601	hépatique
+T24	morphologie 1742 1748	tumeur
+T25	expression_CIM 1742 1758	tumeur hépatique
+T26	topographie 1749 1758	hépatique
+T27	expression_CIM 1920 1926	lésion
+T28	morphologie 1920 1926	lésion
+T29	expression_CIM 2085 2111	carcinome hépatocellulaire
+T30	morphologie 2085 2111	carcinome hépatocellulaire
+T31	morphologie 2113 2116	CHC
+T32	expression_CIM 2113 2140	CHC) modérément différencié
+T33	differenciation 2118 2140	modérément différencié
+T34	morphologie 2187 2195	invasion
+T35	expression_CIM 2187 2204	invasion veineuse
+T36	topographie 2196 2204	veineuse
+T37	topographie 2247 2254	Omentum
+T38	expression_CIM 2247 2263	Omentum : tumeur
+T39	morphologie 2257 2263	tumeur
+T40	expression_CIM 2290 2297	implant
+T41	morphologie 2290 2297	implant
+T42	expression_CIM 2300 2315	hépatocarcinome
+T43	morphologie 2300 2315	hépatocarcinome
+T44	expression_CIM 2542 2545	CHC
+T45	morphologie 2542 2545	CHC
+T46	morphologie 2576 2584	implants
+T47	expression_CIM 2576 2596	implants péritonéaux
+T48	topographie 2585 2596	péritonéaux
+T49	morphologie 3274 3280	nodule
+T50	expression_CIM 3274 3297	nodule pulmonaire basal
+T51	topographie 3281 3297	pulmonaire basal
+T52	morphologie 3599 3605	nodule
+T53	expression_CIM 3599 3622	nodule pulmonaire basal
+T54	topographie 3606 3622	pulmonaire basal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C71.0 8000/1
+#3	ICD-O T3	C71.0
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	C22.0
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	C49.3 8000/6
+#11	ICD-O T12	C49.3
+#12	ICD-O T13	8010/9
+#13	ICD-O T14	C48.2 8010/9
+#14	ICD-O T15	C48.2
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C22.0 8000/1
+#17	ICD-O T18	C22.0
+#18	ICD-O T19	8170/3
+#19	ICD-O T20	8170/3
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C22.0 8000/1
+#22	ICD-O T23	C22.0
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	C22.0 8000/1
+#25	ICD-O T26	C22.0
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8170/3
+#29	ICD-O T30	8170/3
+#30	ICD-O T31	8170/3
+#31	ICD-O T32	8170/32
+#32	ICD-O T33	2
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	C49.9 8000/1
+#35	ICD-O T36	C49.9
+#36	ICD-O T37	C48.1
+#37	ICD-O T38	C48.1 8000/1
+#38	ICD-O T39	8000/1
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	8000/6
+#41	ICD-O T42	8170/3
+#42	ICD-O T43	8170/3
+#43	ICD-O T44	8170/3
+#44	ICD-O T45	8170/3
+#45	ICD-O T46	8000/6
+#46	ICD-O T47	C48.2 8000/6
+#47	ICD-O T48	C48.2
+#48	ICD-O T49	8000/1
+#49	ICD-O T51	C34.3
+#50	ICD-O T52	8000/1
+#51	ICD-O T54	C34.3

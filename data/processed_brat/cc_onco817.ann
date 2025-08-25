@@ -1,0 +1,20 @@
+T1	morphologie 867 879	adénopathies
+T3	topographie 880 896	latérocervicales
+T5	morphologie 1007 1013	masses
+T6	morphologie 1295 1301	tumeur
+T8	topographie 1320 1328	frontale
+T9	morphologie 1666 1675	néoplasme
+T11	topographie 1692 1699	frontal
+T12	morphologie 1718 1727	néoplasme
+T33	morphologie 1737 1762	primaire de lignée gliale
+T14	topographie 1728 1736	cérébral
+T16	topographie 1898 1905	frontal
+T18	morphologie 1913 1916	LOE
+T19	morphologie 1949 1952	LOE
+T21	topographie 1953 1961	frontale
+T22	morphologie 2622 2651	épendymome à cellules claires
+T24	differenciation 2655 2710	grade II selon l'Organisation mondiale de la santé (OMS
+T26	morphologie 2756 2762	tumeur
+T28	morphologie 2828 2841	foyer tumoral
+T30	morphologie 3016 3031	lésion tumorale
+T32	morphologie 3362 3381	récidives tumorales

@@ -1,0 +1,47 @@
+T21	topographie 4631 4646;4657 4675	intramédullaire au niveau D 11-D12
+T1	morphologie 1122 1131	captation
+T2	expression_CIM 1122 1145	captation leptoméningée
+T3	topographie 1132 1145	leptoméningée
+T4	morphologie 2107 2129	captation radiologique
+T5	expression_CIM 2107 2147	captation radiologique au niveau méningé
+T6	topographie 2140 2147	méningé
+T7	morphologie 2580 2592	infiltration
+T8	expression_CIM 2580 2630	infiltration méningée par un carcinome épidermoïde
+T9	topographie 2593 2601	méningée
+T10	morphologie 2609 2630	carcinome épidermoïde
+T11	morphologie 2843 2852	néoplasie
+T12	expression_CIM 2843 2862	néoplasie cérébrale
+T13	topographie 2853 2862	cérébrale
+T14	morphologie 2863 2873	disséminée
+T15	expression_CIM 2863 2896	disséminée au niveau leptoméningé
+T16	topographie 2884 2896	leptoméningé
+T17	expression_CIM 4030 4055	lésions occupant l'espace
+T18	morphologie 4030 4055	lésions occupant l'espace
+T19	morphologie 4624 4630;4647 4656	Lésion nodulaire
+T20	expression_CIM 4624 4675	Lésion intramédullaire nodulaire au niveau D 11-D12
+T22	expression_CIM 4806 4827	carcinome épidermoïde
+T23	morphologie 4806 4827	carcinome épidermoïde
+T24	morphologie 4831 4844	dissémination
+T25	expression_CIM 4831 4858	dissémination leptoméningée
+T26	topographie 4845 4858	leptoméningée
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C70.9
+#3	ICD-O T4	8000/9
+#4	ICD-O T6	C70.0
+#5	ICD-O T7	8000/1
+#6	ICD-O T9	C70.9
+#7	ICD-O T10	8070/3
+#8	ICD-O T11	8000/1
+#9	ICD-O T12	C71.0 8000/1
+#10	ICD-O T13	C71.0
+#11	ICD-O T14	8000/6
+#12	ICD-O T15	C70.9 8000/6
+#13	ICD-O T16	C70.9
+#14	ICD-O T18	8000/1
+#15	ICD-O T19	8000/1
+#16	ICD-O T22	8070/3
+#17	ICD-O T23	8070/3
+#18	ICD-O T24	8000/6
+#19	ICD-O T25	C70.9 8000/6
+#20	ICD-O T26	C70.9
+#21	AnnotatorNotes T18	trad

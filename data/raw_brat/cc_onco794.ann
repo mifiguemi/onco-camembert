@@ -1,0 +1,66 @@
+T1	morphologie 689 694	masse
+T2	expression_CIM 689 701	masse rénale
+T3	topographie 695 701	rénale
+T4	morphologie 777 786	carcinome
+T5	expression_CIM 777 792	carcinome rénal
+T6	topographie 787 792	rénal
+T7	expression_CIM 805 823	maladie à distance
+T8	morphologie 805 823	maladie à distance
+T9	morphologie 1012 1021;1028 1046	carcinome à cellules claires
+T10	expression_CIM 1012 1106	carcinome rénal à cellules claires, stade pathologique pT1b, grade nucléaire de Fuhrman III/IV
+T11	topographie 1022 1027	rénal
+T12	differenciation 1073 1106	grade nucléaire de Fuhrman III/IV
+T13	expression_CIM 1262 1279	récidive tumorale
+T14	morphologie 1262 1279	récidive tumorale
+T15	morphologie 1319 1331	adénopathies
+T16	expression_CIM 1319 1345	adénopathies médiastinales
+T17	topographie 1332 1345	médiastinales
+T18	morphologie 1365 1372	nodules
+T19	expression_CIM 1365 1400	nodules pulmonaires et surrénaliens
+T20	topographie 1373 1384	pulmonaires
+T21	topographie 1388 1400	surrénaliens
+T22	morphologie 1451 1460;1467 1485	carcinome à cellules claires
+T23	expression_CIM 1451 1485	carcinome rénal à cellules claires
+T24	topographie 1461 1466	rénal
+T25	expression_CIM 2139 2188	progression de la maladie pulmonaire et hépatique
+T26	topographie 2165 2175	pulmonaire
+T27	topographie 2179 2188	hépatique
+T28	morphologie 2831 2842	progression
+T29	expression_CIM 2831 2901	progression au niveau pulmonaire, hépatique, surrénalien et musculaire
+T30	topographie 2853 2863	pulmonaire
+T31	topographie 2865 2874	hépatique
+T32	topographie 2876 2887	surrénalien
+T33	topographie 2891 2901	musculaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C64.9 8010/3
+#6	ICD-O T6	C64.9
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8310/3
+#10	ICD-O T10	C64.9 8310/34
+#11	ICD-O T11	C64.9
+#12	ICD-O T12	4
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C77.1 8000/1
+#17	ICD-O T17	C38.3
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C34.9 8000/1;C74.9 8000/1
+#20	ICD-O T20	C34.9
+#21	ICD-O T21	C74.9
+#22	ICD-O T22	8310/3
+#23	ICD-O T23	C64.9 8310/3
+#24	ICD-O T24	C64.9
+#25	ICD-O T25	C22.0 8000/1;C34.9 8000/1
+#26	ICD-O T26	C34.9
+#27	ICD-O T27	C22.0
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	C22.0 8000/6;C34.9 8000/6;C49.9 8000/6;C74.9 8000/6
+#30	ICD-O T30	C34.9
+#31	ICD-O T31	C22.0
+#32	ICD-O T32	C74.9
+#33	ICD-O T33	C49.9

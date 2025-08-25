@@ -1,0 +1,112 @@
+T30	topographie 2827 2846	masaretroscapulaire
+T1	morphologie 261 277	lésion pigmentée
+T2	expression_CIM 261 322	lésion pigmentée de longue date se développant sur l'omoplate
+T3	topographie 314 322	omoplate
+T4	expression_CIM 383 389	lésion
+T5	morphologie 383 389	lésion
+T6	expression_CIM 437 451	mélanome malin
+T7	morphologie 437 451	mélanome malin
+T8	expression_CIM 471 497	atteinte micrométastatique
+T9	morphologie 471 497	atteinte micrométastatique
+T10	expression_CIM 507 518	adénopathie
+T11	morphologie 507 518	adénopathie
+T12	expression_CIM 1644 1665	rechute locorégionale
+T13	morphologie 1644 1665	rechute locorégionale
+T14	morphologie 1885 1896	adénopathie
+T15	expression_CIM 1885 1933	adénopathie latérocervicale ou supraclaviculaire
+T16	topographie 1897 1912	latérocervicale
+T17	topographie 1916 1933	supraclaviculaire
+T18	expression_CIM 2352 2375	masses pseudonodulaires
+T19	morphologie 2352 2375	masses pseudonodulaires
+T20	expression_CIM 2457 2465	récidive
+T21	morphologie 2457 2465	récidive
+T22	morphologie 2553 2558;2574 2605	Image à considérer comme métastatique
+T23	expression_CIM 2553 2605	Image en LID de 9 mm à considérer comme métastatique
+T24	topographie 2562 2565	LID
+T25	morphologie 2607 2619;2637 2650	Adénopathies pathologiques
+T26	expression_CIM 2607 2669	Adénopathies hypervasculaires pathologiques supraclaviculaires
+T27	topographie 2651 2669	supraclaviculaires
+T28	morphologie 2821 2826	masse
+T29	expression_CIM 2821 2846	masse masaretroscapulaire
+T31	morphologie 2860 2872	infiltration
+T32	expression_CIM 2860 2947	infiltration osseuse apparente du bord latéral de l'omoplate et du muscle infra-épineux
+T33	topographie 2873 2880	osseuse
+T34	topographie 2912 2920	omoplate
+T35	topographie 2927 2947	muscle infra-épineux
+T36	expression_CIM 2963 2971	récidive
+T37	morphologie 2963 2971	récidive
+T38	morphologie 2991 2997	nodule
+T39	expression_CIM 2991 3028	nodule pulmonaire de 9 mm dans le LID
+T40	topographie 2998 3008	pulmonaire
+T41	topographie 3025 3028	LID
+T42	morphologie 3051 3063	adénopathies
+T43	expression_CIM 3051 3163	adénopathies latérocervicales bilatérales, supraclaviculaires bilatérales, rétropectorales gauches et axillaires
+T44	topographie 3064 3080	latérocervicales
+T45	topographie 3094 3112	supraclaviculaires
+T46	topographie 3126 3141	rétropectorales
+T47	topographie 3153 3163	axillaires
+T48	morphologie 3229 3250	Rechute locorégionale
+T49	expression_CIM 3229 3279	Rechute locorégionale, ganglionnaire et pulmonaire
+T50	topographie 3252 3265	ganglionnaire
+T51	topographie 3269 3279	pulmonaire
+T52	morphologie 3285 3299	mélanome malin
+T53	expression_CIM 3285 3306	mélanome malin cutané
+T54	topographie 3300 3306	cutané
+T55	expression_CIM 3866 3891	progression de la maladie
+T56	morphologie 3866 3891	progression de la maladie
+T57	expression_CIM 4285 4310	progression de la maladie
+T58	morphologie 4285 4310	progression de la maladie
+#1	ICD-O T1	8720/1
+#2	ICD-O T2	C40.0 8000/1
+#3	ICD-O T3	C40.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	8720/3
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	C77.9 8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T13	8000/3
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	C77.0 8000/1
+#15	ICD-O T16	C76.0
+#16	ICD-O T17	C76.0
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/6
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	C34.3 8000/6
+#22	ICD-O T24	C34.3
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	C77.0 8000/1
+#25	ICD-O T27	C76.0
+#26	ICD-O T28	8000/1
+#27	ICD-O T31	8000/9
+#28	ICD-O T32	C40.0 8000/1;C41.9 8000/1;C49.3 8000/1
+#29	ICD-O T33	C41.9
+#30	ICD-O T34	C40.0
+#31	ICD-O T35	C49.3
+#32	ICD-O T36	8000/6
+#33	ICD-O T37	8000/9
+#34	ICD-O T38	8000/1
+#35	ICD-O T39	C34.3 8000/1;C34.9 8000/1
+#36	ICD-O T40	C34.9
+#37	ICD-O T41	C34.3
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	C77.0 8000/1;C77.1 8000/1;C77.3 8000/1
+#40	ICD-O T44	C76.0
+#41	ICD-O T45	C76.0
+#42	ICD-O T46	C76.1
+#43	ICD-O T47	C76.1
+#44	ICD-O T48	8000/3
+#45	ICD-O T49	C34.9 8000/3;C77.9 8000/3
+#46	ICD-O T50	C77.9
+#47	ICD-O T51	C34.9
+#48	ICD-O T52	8720/3
+#49	ICD-O T53	C44.9 8720/3
+#50	ICD-O T54	C44.9
+#51	ICD-O T55	8000/1
+#52	ICD-O T56	8000/9
+#53	ICD-O T57	8000/1
+#54	ICD-O T58	8000/9

@@ -1,0 +1,17 @@
+T1	morphologie 2124 2136	Adénopathies
+T3	topographie 2137 2150	médiastinales
+T5	morphologie 2375 2426	cellules aux caractéristiques cytologiques malignes
+T7	morphologie 3223 3245	sarcome granulocytaire
+T9	morphologie 3572 3594	sarcome granulocytaire
+T11	morphologie 3903 3925	sarcome granulocytaire
+T12	morphologie 4113 4122	Néoplasme
+T14	differenciation 4123 4136	indifférencié
+T16	morphologie 4205 4227	sarcome granulocytaire
+T18	morphologie 4304 4326	sarcome granulocytaire
+T20	morphologie 5222 5246	tumeur neuroectodermique
+T22	morphologie 5681 5687	tumeur
+T24	morphologie 5724 5729	masse
+T26	morphologie 6362 6386	progression de la tumeur
+T27	morphologie 6397 6418	infiltration tumorale
+T29	topographie 6427 6431	sein
+T30	topographie 6444 6448	foie

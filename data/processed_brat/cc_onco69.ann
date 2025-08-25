@@ -1,0 +1,35 @@
+T5	topographie 1709 1718	péricarde
+T2	morphologie 1290 1295	masse
+T3	morphologie 1669 1695	augmentation de la densité
+T7	morphologie 1746 1760	masse tumorale
+T8	morphologie 1839 1844	masse
+T10	topographie 1845 1857	médiastinale
+T11	morphologie 1923 1931	implants
+T13	topographie 1932 1940	pleuraux
+T14	topographie 1944 1955	pulmonaires
+T16	morphologie 2014 2019	masse
+T17	morphologie 2075 2083	lymphome
+T60	morphologie 2096 2123	diffus à grandes cellules B
+T19	topographie 2084 2095	médiastinal
+T21	morphologie 2131 2136	LBDCG
+T23	morphologie 2149 2154	masse
+T25	morphologie 2207 2215	stade IV
+T26	morphologie 2221 2229	implants
+T28	topographie 2230 2238	pleuraux
+T29	topographie 2242 2253	pulmonaires
+T31	morphologie 2270 2275	DLBCL
+T33	morphologie 2283 2291	lymphome
+T35	morphologie 2339 2362	lymphome non hodgkinien
+T37	morphologie 2364 2367	LNH
+T39	morphologie 2791 2796	masse
+T41	morphologie 2837 2873	ganglions lymphatiques hypertrophiés
+T42	morphologie 3300 3308	atteinte
+T44	topographie 3315 3329	moelle osseuse
+T46	morphologie 4432 4437	DLBCL
+T47	morphologie 4493 4501	atteinte
+T49	topographie 4502 4512	pulmonaire
+T51	morphologie 5568 5573	DLBCL
+T53	morphologie 5975 5980	LBDCG
+T55	morphologie 5990 5995	masse
+T57	morphologie 6234 6242	récidive
+T59	morphologie 6506 6511	LBDCG

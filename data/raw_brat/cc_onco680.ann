@@ -1,0 +1,48 @@
+T1	morphologie 1808 1838	carcinome canalaire infiltrant
+T2	expression_CIM 1808 1895	carcinome canalaire infiltrant de haut grade de stade IV du pancréas muqueux-sécrétoire
+T3	differenciation 1842 1852	haut grade
+T4	expression_CIM 1856 1864	stade IV
+T5	morphologie 1856 1864	stade IV
+T6	topographie 1868 1895	pancréas muqueux-sécrétoire
+T7	morphologie 1912 1920	atteinte
+T8	expression_CIM 1912 1930	atteinte hépatique
+T9	topographie 1921 1930	hépatique
+T10	expression_CIM 2041 2058	processus tumoral
+T11	morphologie 2041 2058	processus tumoral
+T12	morphologie 2084 2114	carcinome canalaire infiltrant
+T13	expression_CIM 2084 2172	carcinome canalaire infiltrant de haut grade, de stade IV, du pancréas muqueux-sécrétant
+T14	differenciation 2118 2128	haut grade
+T15	expression_CIM 2133 2141	stade IV
+T16	morphologie 2133 2141	stade IV
+T17	topographie 2146 2172	pancréas muqueux-sécrétant
+T18	morphologie 2190 2198	atteinte
+T19	expression_CIM 2190 2208	atteinte hépatique
+T20	topographie 2199 2208	hépatique
+T21	expression_CIM 3144 3149	masse
+T22	morphologie 3144 3149	masse
+T23	expression_CIM 3996 4012	maladie tumorale
+T24	morphologie 3996 4012	maladie tumorale
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C25.4 8500/34
+#3	ICD-O T3	4
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	C25.4
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C22.0 8000/1
+#9	ICD-O T9	C22.0
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	8000/3
+#12	ICD-O T12	8500/3
+#13	ICD-O T13	C25.4 8500/34
+#14	ICD-O T14	4
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C25.4
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C22.0 8000/1
+#20	ICD-O T20	C22.0
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8000/3
+#24	ICD-O T24	8000/3

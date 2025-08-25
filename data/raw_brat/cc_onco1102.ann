@@ -1,0 +1,35 @@
+T1	morphologie 40 46	cancer
+T2	expression_CIM 40 54	cancer du sein
+T3	topographie 50 54	sein
+T4	morphologie 1258 1263	masse
+T5	expression_CIM 1258 1321	masse évocatrice de néoformation a été visualisée dans le cæcum
+T6	morphologie 1278 1290	néoformation
+T7	topographie 1316 1321	cæcum
+T8	morphologie 1397 1411	adénocarcinome
+T9	expression_CIM 1397 1422	adénocarcinome intestinal
+T10	topographie 1412 1422	intestinal
+T11	morphologie 1485 1499	adénocarcinome
+T12	expression_CIM 1485 1508	adénocarcinome du cæcum
+T13	topographie 1503 1508	cæcum
+T14	morphologie 1750 1764	adénocarcinome
+T15	expression_CIM 1750 1773	adénocarcinome du cæcum
+T16	topographie 1768 1773	cæcum
+T17	expression_CIM 1796 1802	tumeur
+T18	morphologie 1796 1802	tumeur
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	8000/3
+#6	ICD-O T7	C18.0
+#7	ICD-O T8	8140/3
+#8	ICD-O T9	C26.0 8140/3
+#9	ICD-O T10	C26.0
+#10	ICD-O T11	8140/3
+#11	ICD-O T12	C18.0 8140/3
+#12	ICD-O T13	C18.0
+#13	ICD-O T14	8140/3
+#14	ICD-O T15	C18.0 8140/3
+#15	ICD-O T16	C18.0
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1

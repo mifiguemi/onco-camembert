@@ -1,0 +1,95 @@
+T1	morphologie 131 176	carcinome canalaire infiltrant multicentrique
+T2	expression_CIM 131 184	carcinome canalaire infiltrant multicentrique du sein
+T3	topographie 180 184	sein
+T4	expression_CIM 204 225	carcinome intraductal
+T5	morphologie 204 225	carcinome intraductal
+T6	morphologie 519 524	masse
+T7	expression_CIM 519 534	masse pelvienne
+T8	topographie 525 534	pelvienne
+T9	morphologie 638 643	masse
+T10	expression_CIM 638 653	masse pelvienne
+T11	topographie 644 653	pelvienne
+T12	morphologie 834 850	carcinome séreux
+T13	expression_CIM 834 858	carcinome séreux ovarien
+T14	topographie 851 858	ovarien
+T15	expression_CIM 995 1039	cystadénocarcinome ovarien séreux papillaire
+T16	topographie 1014 1021	ovarien
+T17	morphologie 1022 1039;995 1013	séreux papillaire cystadénocarcinome
+T18	morphologie 1065 1073	implants
+T19	expression_CIM 1065 1098	implants à la surface de l'ovaire
+T20	topographie 1092 1098	ovaire
+T21	morphologie 1195 1206	adénopathie
+T22	expression_CIM 1195 1214	adénopathie iliaque
+T23	topographie 1207 1214	iliaque
+T24	morphologie 1420 1432	adénopathies
+T25	expression_CIM 1420 1450	adénopathies rétropéritonéales
+T26	topographie 1433 1450	rétropéritonéales
+T27	morphologie 1793 1805	adénopathies
+T28	expression_CIM 1793 1823	adénopathies rétropéritonéales
+T29	topographie 1806 1823	rétropéritonéales
+T30	expression_CIM 2050 2087	foyer d'hypermétabolisme pathologique
+T31	morphologie 2050 2087	foyer d'hypermétabolisme pathologique
+T32	morphologie 2169 2180;2198 2210	adénopathie métastatique
+T33	expression_CIM 2169 2210	adénopathie rétropéritonéale métastatique
+T34	topographie 2181 2197	rétropéritonéale
+T35	morphologie 2226 2235	Carcinome
+T36	expression_CIM 2226 2244	Carcinome mammaire
+T37	topographie 2236 2244	mammaire
+T38	morphologie 2298 2307	Carcinome
+T39	expression_CIM 2298 2315	Carcinome ovarien
+T40	topographie 2308 2315	ovarien
+T41	morphologie 2352 2360	Récidive
+T42	expression_CIM 2352 2377	Récidive rétropéritonéale
+T43	topographie 2361 2377	rétropéritonéale
+T44	morphologie 3229 3235	cancer
+T45	expression_CIM 3229 3243	cancer du sein
+T46	topographie 3239 3243	sein
+T47	expression_CIM 3555 3563	récidive
+T48	morphologie 3555 3563	récidive
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T5	8500/3
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C76.3 8000/1
+#7	ICD-O T8	C76.3
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C76.3 8000/1
+#10	ICD-O T11	C76.3
+#11	ICD-O T12	8441/3
+#12	ICD-O T13	C56.9 8441/3
+#13	ICD-O T14	C56.9
+#14	ICD-O T15	C56.9 8460/3
+#15	ICD-O T16	C56.9
+#16	ICD-O T17	8460/3
+#17	ICD-O T18	8000/6
+#18	ICD-O T19	C56.9 8000/6
+#19	ICD-O T20	C56.9
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C77.5 8000/1
+#22	ICD-O T23	C41.4
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	C77.2 8000/1
+#25	ICD-O T26	C48.0
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	C77.2 8000/1
+#28	ICD-O T29	C48.0
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/9
+#31	ICD-O T32	8000/6
+#32	ICD-O T33	C77.2 8000/6
+#33	ICD-O T34	C48.0
+#34	ICD-O T35	8010/3
+#35	ICD-O T36	C50.9 8010/3
+#36	ICD-O T37	C50.9
+#37	ICD-O T38	8010/3
+#38	ICD-O T39	C56.9 8010/3
+#39	ICD-O T40	C56.9
+#40	ICD-O T41	8000/9
+#41	ICD-O T42	C48.0 8000/6
+#42	ICD-O T43	C48.0
+#43	ICD-O T44	8000/3
+#44	ICD-O T45	C50.9 8000/3
+#45	ICD-O T46	C50.9
+#46	ICD-O T47	8000/6
+#47	ICD-O T48	8000/9

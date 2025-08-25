@@ -1,0 +1,18 @@
+T1	morphologie 293 302	carcinome
+T3	topographie 309 315	glotte
+T4	morphologie 531 545	adénocarcinome
+T6	topographie 549 554	cæcum
+T7	morphologie 560 573	dissémination
+T9	topographie 574 583	hépatique
+T11	morphologie 600 607	lésions
+T13	morphologie 696 712	maladie primaire
+T14	morphologie 722 729	maladie
+T16	topographie 730 739	hépatique
+T17	morphologie 893 907	adénocarcinome
+T19	differenciation 911 920	bas grade
+T20	morphologie 1026 1033	lésions
+T22	topographie 1034 1044	hépatiques
+T24	morphologie 1059 1073	adénocarcinome
+T26	morphologie 1094 1104	métastases
+T28	morphologie 1117 1125	primitif
+T30	morphologie 1697 1703	masses

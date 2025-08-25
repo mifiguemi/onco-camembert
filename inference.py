@@ -55,10 +55,12 @@ print(f"Using model: {dir_model_name}")
 
 PROJECT_ROOT = Path.cwd()
 MODEL_PATH = PROJECT_ROOT / "models" / dir_model_name
-INPUT_BRAT_DIR   = "data/brat_format_inference"
-OUTPUT_DIR       = "output/test"
+INPUT_BRAT_DIR = PROJECT_ROOT / "data/processed_data/txt_files"
+OUTPUT_DIR = PROJECT_ROOT / "inference" / dir_model_name
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+for p in [MODEL_PATH, Path(INPUT_BRAT_DIR), OUTPUT_DIR]:
+    p.mkdir(parents=True, exist_ok=True)
+
 
 # load model & tokenizer
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)

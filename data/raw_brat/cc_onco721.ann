@@ -1,0 +1,148 @@
+T18	topographie 1103 1115	lame iliaque
+T1	morphologie 617 656	lésions compatibles avec des métastases
+T2	expression_CIM 617 691	lésions compatibles avec des métastases osseuses au niveau de L3, L4 et L5
+T3	topographie 657 665	osseuses
+T4	topographie 679 681	L3
+T5	topographie 683 685	L4
+T6	topographie 689 691	L5
+T7	morphologie 858 863	masse
+T8	expression_CIM 858 912	masse pulmonaire de 45 mm située au niveau parahilaire
+T9	topographie 864 874	pulmonaire
+T10	topographie 901 912	parahilaire
+T11	morphologie 933 945	adénopathies
+T12	expression_CIM 933 954	adénopathies hilaires
+T13	topographie 946 954	hilaires
+T14	morphologie 1007 1022	images lytiques
+T15	expression_CIM 1007 1115	images lytiques au niveau des vertèbres dorsales et lombaires, de l'aile sacrée droite et de la lame iliaque
+T16	topographie 1037 1068	vertèbres dorsales et lombaires
+T17	topographie 1075 1086	aile sacrée
+T19	expression_CIM 1488 1502	adénocarcinome
+T20	morphologie 1488 1502	adénocarcinome
+T21	morphologie 1541 1555	adénocarcinome
+T22	expression_CIM 1541 1566	adénocarcinome pulmonaire
+T23	topographie 1556 1566	pulmonaire
+T24	morphologie 1600 1609	atteintes
+T25	expression_CIM 1600 1618	atteintes osseuses
+T26	topographie 1610 1618	osseuses
+T27	expression_CIM 1624 1632	stade IV
+T28	morphologie 1624 1632	stade IV
+T29	morphologie 1794 1808	adénocarcinome
+T30	expression_CIM 1794 1819	adénocarcinome pulmonaire
+T31	topographie 1809 1819	pulmonaire
+T32	morphologie 2526 2537	progression
+T33	expression_CIM 2526 2578	progression pulmonaire et ganglionnaire médiastinale
+T34	topographie 2538 2548	pulmonaire
+T35	topographie 2552 2578	ganglionnaire médiastinale
+T36	morphologie 2909 2920	progression
+T37	expression_CIM 2909 2941	progression au niveau pulmonaire
+T38	topographie 2931 2941	pulmonaire
+T39	morphologie 3543 3554	progression
+T40	expression_CIM 3543 3593	progression minime au niveau des poumons et des os
+T41	topographie 3576 3583	poumons
+T42	topographie 3591 3593	os
+T43	morphologie 3746 3753	maladie
+T44	expression_CIM 3746 3761	maladie osseuse
+T45	topographie 3754 3761	osseuse
+T46	morphologie 4033 4047	adénocarcinome
+T47	expression_CIM 4033 4058	adénocarcinome pulmonaire
+T48	topographie 4048 4058	pulmonaire
+T49	expression_CIM 4242 4256	tumeur maligne
+T50	morphologie 4242 4256	tumeur maligne
+T51	morphologie 4843 4854	progression
+T52	expression_CIM 4843 4876	progression osseuse et pulmonaire
+T53	topographie 4855 4862	osseuse
+T54	topographie 4866 4876	pulmonaire
+T55	morphologie 5162 5173	progression
+T56	expression_CIM 5162 5184	progression pulmonaire
+T57	topographie 5174 5184	pulmonaire
+T58	morphologie 5379 5390	progression
+T59	expression_CIM 5379 5412	progression pulmonaire et osseuse
+T60	topographie 5391 5401	pulmonaire
+T61	topographie 5405 5412	osseuse
+T62	morphologie 5729 5739	métastases
+T63	expression_CIM 5729 5758	métastases au niveau du fémur
+T64	topographie 5753 5758	fémur
+T65	expression_CIM 5794 5802	primitif
+T66	morphologie 5794 5802	primitif
+T67	morphologie 6005 6019	adénocarcinome
+T68	expression_CIM 6005 6030	adénocarcinome pulmonaire
+T69	topographie 6020 6030	pulmonaire
+T70	morphologie 6426 6437	progression
+T71	expression_CIM 6426 6490	progression pulmonaire, ganglionnaire médiastinale et musculaire
+T72	topographie 6438 6448	pulmonaire
+T73	topographie 6450 6476	ganglionnaire médiastinale
+T74	topographie 6480 6490	musculaire
+T75	expression_CIM 8140 8163	stabilité de la maladie
+T76	morphologie 8140 8163	stabilité de la maladie
+#1	ICD-O T1	8000/6
+#2	ICD-O T3	C41.9
+#3	ICD-O T4	C41.2
+#4	ICD-O T5	C41.2
+#5	ICD-O T6	C41.2
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	C34.9 8000/1;C76.1 8000/1
+#8	ICD-O T9	C34.9
+#9	ICD-O T10	C76.1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C77.1 8000/1
+#12	ICD-O T13	C76.1
+#13	ICD-O T14	tocheck
+#14	ICD-O T16	C41.2
+#15	ICD-O T17	C41.4
+#16	ICD-O T19	8140/3
+#17	ICD-O T20	8140/3
+#18	ICD-O T21	8140/3
+#19	ICD-O T22	C34.9 8140/3
+#20	ICD-O T23	C34.9
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	C41.9 8000/1
+#23	ICD-O T26	C41.9
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	8140/3
+#27	ICD-O T30	C34.9 8140/3
+#28	ICD-O T31	C34.9
+#29	ICD-O T32	8000/6
+#30	ICD-O T33	C34.9 8000/6;C77.1 8000/6
+#31	ICD-O T34	C34.9
+#32	ICD-O T35	C77.1
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	C34.9 8000/6
+#35	ICD-O T38	C34.9
+#36	ICD-O T39	8000/6
+#37	ICD-O T40	C34.9 8000/6;C41.9 8000/6
+#38	ICD-O T41	C34.9
+#39	ICD-O T42	C41.9
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	C41.9 8000/6
+#42	ICD-O T45	C41.9
+#43	ICD-O T46	8140/3
+#44	ICD-O T47	C34.9 8140/3
+#45	ICD-O T48	C34.9
+#46	ICD-O T49	8000/3
+#47	ICD-O T50	8000/3
+#48	ICD-O T51	8000/6
+#49	ICD-O T52	C34.9 8000/6;C41.9 8000/6
+#50	ICD-O T53	C41.9
+#51	ICD-O T54	C34.9
+#52	ICD-O T55	8000/6
+#53	ICD-O T56	C34.9 8000/6
+#54	ICD-O T57	C34.9
+#55	ICD-O T58	8000/6
+#56	ICD-O T59	C34.9 8000/6;C41.9 8000/6
+#57	ICD-O T60	C34.9
+#58	ICD-O T61	C41.9
+#59	ICD-O T62	8000/6
+#60	ICD-O T63	C40.2 8000/6
+#61	ICD-O T64	C40.2
+#62	ICD-O T65	8000/3
+#63	ICD-O T66	8000/3
+#64	ICD-O T67	8140/3
+#65	ICD-O T68	C34.9 8140/3
+#66	ICD-O T69	C34.9
+#67	ICD-O T70	8000/6
+#68	ICD-O T72	C34.9
+#69	ICD-O T73	C77.1
+#70	ICD-O T74	C49.9
+#71	ICD-O T75	8000/6
+#72	ICD-O T76	8000/6

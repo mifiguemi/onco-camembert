@@ -1,0 +1,62 @@
+T15	topographie 495 503	inguinal
+T1	morphologie 63 79	lymphadénopathie
+T3	topographie 80 89	inguinale
+T4	morphologie 205 211	nodule
+T6	topographie 220 224	sein
+T7	morphologie 407 418	adénopathie
+T9	topographie 419 435	sus-claviculaire
+T10	morphologie 448 459	adénopathie
+T12	topographie 460 469	axillaire
+T13	morphologie 483 494	conglomérat
+T17	morphologie 543 550	nodules
+T18	morphologie 746 753	lésions
+T20	topographie 754 762	osseuses
+T22	morphologie 779 791	adénopathies
+T24	morphologie 850 865	tumeur primaire
+T25	morphologie 972 982	métastases
+T27	topographie 983 999	osseuses axiales
+T28	topographie 1003 1018	appendiculaires
+T29	morphologie 1162 1173	adénopathie
+T31	topographie 1174 1183	inguinale
+T33	morphologie 1328 1349	cellules néoplasiques
+T34	morphologie 1728 1737	carcinome
+T36	differenciation 1738 1751	indifférencié
+T37	topographie 1762 1770	mammaire
+T38	morphologie 2003 2012	carcinome
+T40	topographie 2013 2021	mammaire
+T42	morphologie 2040 2048	stade IV
+T43	morphologie 2231 2238	maladie
+T45	topographie 2239 2246	osseuse
+T46	topographie 2250 2263	ganglionnaire
+T47	morphologie 2435 2451	lymphadénopathie
+T49	topographie 2452 2461	axillaire
+T50	topographie 2465 2481	rétropéritonéale
+T51	morphologie 2509 2525	lymphadénopathie
+T53	topographie 2526 2535	inguinale
+T54	morphologie 2601 2608	lésions
+T56	topographie 2609 2617	osseuses
+T57	morphologie 2724 2744	maladie métastatique
+T59	topographie 2745 2752	osseuse
+T60	morphologie 2968 2974	nodule
+T62	topographie 3007 3011	sein
+T63	morphologie 3037 3042	masse
+T65	topographie 3043 3052	ovarienne
+T66	morphologie 3100 3107	lésions
+T68	topographie 3108 3116	osseuses
+T69	morphologie 3308 3313	masse
+T71	topographie 3314 3323	ovarienne
+T72	morphologie 3447 3456	carcinome
+T74	morphologie 3457 3469	métastatique
+T77	topographie 3503 3510	annexes
+T78	topographie 3522 3539	trompe de Fallope
+T80	morphologie 3595 3601	nodule
+T81	morphologie 3664 3673	carcinome
+T83	topographie 3674 3682	mammaire
+T84	morphologie 4086 4111	progression de la maladie
+T86	topographie 4112 4121	pelvienne
+T87	morphologie 4452 4458	lésion
+T91	morphologie 4594 4603	métastase
+T92	morphologie 4607 4616	carcinome
+T94	topographie 4617 4625	mammaire
+T76	topographie 3472 3488	origine mammaire
+T89	topographie 4478 4497	paupière inférieure

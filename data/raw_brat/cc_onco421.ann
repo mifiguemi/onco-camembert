@@ -1,0 +1,53 @@
+T1	expression_CIM 75 90	hépatocarcinome
+T2	morphologie 75 90	hépatocarcinome
+T3	morphologie 640 646	lésion
+T4	expression_CIM 640 706	lésion d'excroissance conjonctivale à croissance rapide dans l'œil
+T5	topographie 703 706	œil
+T6	topographie 913 916	œil
+T7	expression_CIM 913 940	œil droit révèle une lésion
+T8	morphologie 934 940	lésion
+T9	morphologie 1331 1337	lésion
+T10	expression_CIM 1331 1351	lésion conjonctivale
+T11	topographie 1338 1351	conjonctivale
+T12	expression_CIM 1623 1657	carcinome épidermoïde kératinisant
+T13	morphologie 1623 1657	carcinome épidermoïde kératinisant
+T14	morphologie 1749 1770	Carcinome épidermoïde
+T15	expression_CIM 1749 1783	Carcinome épidermoïde conjonctival
+T16	topographie 1771 1783	conjonctival
+T17	morphologie 1810 1825	atteinte totale
+T18	expression_CIM 1810 1848	atteinte totale d'un quadrant oculaire
+T19	topographie 1840 1848	oculaire
+T20	morphologie 1911 1917	lésion
+T21	expression_CIM 1911 1931	lésion conjonctivale
+T22	topographie 1918 1931	conjonctivale
+T23	expression_CIM 1980 1986	lésion
+T24	morphologie 1980 1986	lésion
+T25	morphologie 2131 2143	infiltration
+T26	expression_CIM 2131 2161	infiltration de la sclérotique
+T27	topographie 2150 2161	sclérotique
+#1	ICD-O T1	8170/3
+#2	ICD-O T2	8170/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C69.9 8000/1
+#5	ICD-O T5	C69.9
+#6	ICD-O T6	C69.9
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C69.0 8000/1
+#10	ICD-O T11	C69.0
+#11	ICD-O T12	8071/3
+#12	ICD-O T13	8071/3
+#13	ICD-O T14	8070/3
+#14	ICD-O T15	C69.0 8070/3
+#15	ICD-O T16	C69.0
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	C69.4 8000/6
+#18	ICD-O T19	C69.4
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C69.0 8000/1
+#21	ICD-O T22	C69.0
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C69.4 8000/1
+#26	ICD-O T27	C69.4

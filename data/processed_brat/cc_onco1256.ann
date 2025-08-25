@@ -1,0 +1,32 @@
+T2	morphologie 549 554	masse
+T4	morphologie 729 736	lésions
+T5	topographie 872 876	foie
+T7	morphologie 899 906	lésions
+T9	morphologie 1014 1024	métastases
+T10	morphologie 1137 1146	extension
+T12	topographie 1152 1159	graisse
+T13	morphologie 1174 1185	Adénopathie
+T15	topographie 1186 1198	mésentérique
+T16	morphologie 1284 1290	lésion
+T18	topographie 1309 1324	angle splénique
+T20	morphologie 1354 1368	adénocarcinome
+T21	morphologie 1393 1407	Adénocarcinome
+T23	topographie 1411 1427	côlon transverse
+T24	morphologie 1456 1466	métastases
+T26	topographie 1467 1477	hépatiques
+T27	morphologie 1638 1640	M1
+T29	topographie 1641 1650	hépatique
+T30	morphologie 1992 2006	adénocarcinome
+T32	differenciation 2010 2019	bas grade
+T33	differenciation 2020 2042	modérément différencié
+T34	morphologie 2048 2056	invasion
+T36	topographie 2057 2073	lymphovasculaire
+T37	topographie 2077 2088	périneurale
+T38	morphologie 2207 2221	adénocarcinome
+T40	topographie 2222 2232	intestinal
+T41	morphologie 2524 2532	récidive
+T43	topographie 2555 2559	foie
+T45	morphologie 2691 2701	métastases
+T47	morphologie 2704 2718	adénocarcinome
+T48	morphologie 2769 2778	métastase
+T50	topographie 2779 2790	colorectale

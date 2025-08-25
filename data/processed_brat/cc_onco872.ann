@@ -1,0 +1,16 @@
+T2	morphologie 1199 1205	lésion
+T3	morphologie 1278 1308	carcinome canalaire infiltrant
+T5	morphologie 1310 1313	CDI
+T6	morphologie 1529 1535	tumeur
+T8	differenciation 1536 1550	indifférenciée
+T9	differenciation 1560 1589	grade nucléaire élevé (G) (G3
+T11	morphologie 5332 5352	progression tumorale
+T12	morphologie 6405 6415	métastases
+T14	topographie 6416 6426	cérébrales
+T15	morphologie 6436 6449	carcinomatose
+T17	topographie 6450 6458	méningée
+T18	morphologie 6676 6689	carcinomatose
+T20	topographie 6690 6698	méningée
+T21	morphologie 7903 7922	régression tumorale
+T23	topographie 7923 7937	rétroaréolaire
+T25	morphologie 7966 7972	tumeur

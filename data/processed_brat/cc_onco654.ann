@@ -1,0 +1,50 @@
+T35	topographie 3435 3454	muscle squelettique
+T1	morphologie 300 306	cancer
+T3	topographie 310 318	pancréas
+T5	morphologie 457 468	neurilémome
+T6	morphologie 672 686	adénocarcinome
+T8	topographie 693 701	prostate
+T9	morphologie 902 908	tumeur
+T11	topographie 933 949	région inguinale
+T13	morphologie 1087 1096	formation
+T14	morphologie 1353 1359	lésion
+T16	topographie 1396 1415	muscles grand droit
+T17	topographie 1419 1426	pectiné
+T19	morphologie 1463 1470	lésions
+T21	morphologie 1595 1613	mésothéliome malin
+T23	morphologie 2013 2019	tumeur
+T25	morphologie 2544 2549	masse
+T26	morphologie 2699 2704	masse
+T28	topographie 2726 2742	région inguinale
+T29	morphologie 3023 3029	lésion
+T32	morphologie 3207 3219	Adénopathies
+T34	topographie 3220 3230	inguinales
+T37	morphologie 3460 3472	infiltration
+T39	morphologie 3481 3487	tumeur
+T41	morphologie 3748 3757	néoplasme
+T43	morphologie 3774 3786	mésothéliome
+T45	morphologie 3847 3860	sarcomatoïdes
+T47	morphologie 3862 3874	mésothéliome
+T48	morphologie 4189 4211	récidive locorégionale
+T50	topographie 4228 4267	musculature antérieure droite du pelvis
+T51	morphologie 4362 4374	infiltration
+T53	topographie 4375 4386	péritonéale
+T54	morphologie 4569 4581	mésothéliome
+T56	topographie 4582 4590	inguinal
+T58	morphologie 4850 4857	nodules
+T59	morphologie 4906 4919	Carcinomatose
+T61	topographie 4920 4931	péritonéale
+T62	morphologie 4950 4960	nodularité
+T64	topographie 4964 4978	grand épiploon
+T65	topographie 4993 5002	péritoine
+T66	morphologie 5569 5576	lésions
+T68	topographie 5577 5588	pulmonaires
+T70	morphologie 5594 5605	adénopathie
+T71	morphologie 5873 5891	Mésothéliome malin
+T73	topographie 5892 5900	inguinal
+T74	morphologie 6693 6705	infiltration
+T76	topographie 6706 6717	péritonéale
+T77	morphologie 6770 6781	progression
+T79	topographie 6782 6793	péritonéale
+T81	morphologie 7628 7655	stabilisation de la maladie
+T31	topographie 3078 3147	tissus mous, dépendant des muscles grand droit de l'abdomen/pectinéus

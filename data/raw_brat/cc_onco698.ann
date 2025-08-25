@@ -1,0 +1,126 @@
+T10	topographie 342 370	quadrants supérieurs du sein
+T1	morphologie 154 160	cancer
+T2	expression_CIM 154 193	cancer de la thyroïde et de la prostate
+T3	topographie 167 175	thyroïde
+T4	topographie 185 193	prostate
+T5	morphologie 234 240	cancer
+T6	expression_CIM 234 252	cancer du pancréas
+T7	topographie 244 252	pancréas
+T8	morphologie 327 332	masse
+T9	expression_CIM 327 370	masse dans les quadrants supérieurs du sein
+T11	morphologie 395 400	masse
+T12	expression_CIM 395 479	masse polylobée étendue mesurant 8,7 x 4,6 x 5 cm dans le quadrant supérieur externe
+T13	topographie 453 479	quadrant supérieur externe
+T14	expression_CIM 499 506	nodules
+T15	morphologie 499 506	nodules
+T16	morphologie 523 535	adénopathies
+T17	expression_CIM 523 595	adénopathies axillaires et des ganglions lymphatiques mammaires internes
+T18	topographie 536 546	axillaires
+T19	topographie 554 595	ganglions lymphatiques mammaires internes
+T20	expression_CIM 629 659	carcinome canalaire infiltrant
+T21	morphologie 629 659	carcinome canalaire infiltrant
+T22	expression_CIM 807 825	maladie à distance
+T23	morphologie 807 825	maladie à distance
+T24	expression_CIM 1397 1409	adénopathies
+T25	morphologie 1397 1409	adénopathies
+T26	expression_CIM 1431 1442	adénopathie
+T27	morphologie 1431 1442	adénopathie
+T28	morphologie 1487 1511	carcinome neuroendocrine
+T29	expression_CIM 1487 1519	carcinome neuroendocrine du sein
+T30	topographie 1515 1519	sein
+T31	morphologie 2074 2086	adénopathies
+T32	expression_CIM 2074 2118	adénopathies dans la chaîne mammaire interne
+T33	topographie 2095 2118	chaîne mammaire interne
+T34	morphologie 2470 2478	atteinte
+T35	expression_CIM 2470 2507	atteinte accrue de la région mammaire
+T36	topographie 2499 2507	mammaire
+T37	expression_CIM 2976 3003	cellules tumorales malignes
+T38	morphologie 2976 3003	cellules tumorales malignes
+T39	morphologie 3163 3172	carcinome
+T40	expression_CIM 3163 3227	carcinome morphologiquement compatible avec une origine mammaire
+T41	topographie 3219 3227	mammaire
+T42	expression_CIM 4034 4079	récidive tumorale locorégionale ou à distance
+T43	morphologie 4034 4079	récidive tumorale locorégionale ou à distance
+T44	morphologie 4341 4349	récidive
+T45	expression_CIM 4341 4357	récidive cutanée
+T46	topographie 4350 4357	cutanée
+T47	morphologie 4417 4441	carcinome neuroendocrine
+T48	expression_CIM 4417 4449	carcinome neuroendocrine du sein
+T49	topographie 4445 4449	sein
+T50	morphologie 5128 5135;5145 5158	lésions métastatiques
+T51	expression_CIM 5128 5184	lésions osseuses métastatiques sont apparues en D2 et S4
+T52	topographie 5136 5144	osseuses
+T53	topographie 5176 5184	D2 et S4
+T54	morphologie 5191 5197	masses
+T55	expression_CIM 5191 5213	masses des tissus mous
+T56	morphologie 5467 5474	lésions
+T57	expression_CIM 5467 5510	lésions hépatiques, pulmonaires et osseuses
+T58	topographie 5475 5485	hépatiques
+T59	topographie 5487 5498	pulmonaires
+T60	topographie 5502 5510	osseuses
+T61	morphologie 5649 5670	tumeur neuroendocrine
+T62	expression_CIM 5649 5684	tumeur neuroendocrine de haut grade
+T63	differenciation 5674 5684	haut grade
+T64	morphologie 6026 6050	carcinome neuroendocrine
+T65	expression_CIM 6026 6064	carcinome neuroendocrine de haut grade
+T66	differenciation 6054 6064	haut grade
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C61.9 8000/3;C73.9 8000/3
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	C61.9
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	C25.9 8000/3
+#7	ICD-O T7	C25.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	C50.4 8000/1
+#11	ICD-O T13	C50.4
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T18	C76.1
+#16	ICD-O T19	C77.1
+#17	ICD-O T20	8500/3
+#18	ICD-O T21	8500/3
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	C77.9 8000/1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	C77.9 8000/1
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	8246/3
+#26	ICD-O T29	C50.9 8246/3
+#27	ICD-O T30	C50.9
+#28	ICD-O T31	8000/1
+#29	ICD-O T33	C77.1
+#30	ICD-O T34	8000/1
+#31	ICD-O T35	C50.9 8000/1
+#32	ICD-O T36	C50.9
+#33	ICD-O T37	8001/3
+#34	ICD-O T38	8001/3
+#35	ICD-O T39	8010/3
+#36	ICD-O T40	C50.9 8010/3
+#37	ICD-O T41	C50.9
+#38	ICD-O T43	8000/9
+#39	ICD-O T44	8000/6
+#40	ICD-O T45	C44.9 8000/6
+#41	ICD-O T46	C44.9
+#42	ICD-O T47	8246/3
+#43	ICD-O T48	C50.9 8246/3
+#44	ICD-O T49	C50.9
+#45	ICD-O T50	8000/6
+#46	ICD-O T52	C41.9
+#47	ICD-O T53	C41.2
+#48	ICD-O T54	8000/1
+#49	ICD-O T55	C49.9 8000/1
+#50	ICD-O T56	8000/1
+#51	ICD-O T57	C22.0 8000/1;C34.9 8000/1;C41.9 8000/1
+#52	ICD-O T58	C22.0
+#53	ICD-O T59	C34.9
+#54	ICD-O T60	C41.9
+#55	ICD-O T61	8246/3
+#56	ICD-O T62	8246/34
+#57	ICD-O T63	4
+#58	ICD-O T64	8246/3
+#59	ICD-O T65	8246/34
+#60	ICD-O T66	4

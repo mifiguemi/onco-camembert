@@ -1,0 +1,29 @@
+T1	morphologie 289 295	lésion
+T3	topographie 296 304	frontale
+T4	morphologie 508 513	masse
+T6	topographie 522 536	lobe supérieur
+T7	topographie 544 547	LSD
+T8	morphologie 861 867	lésion
+T10	topographie 871 874	LSD
+T11	morphologie 932 946	adénocarcinome
+T13	topographie 950 956	poumon
+T14	morphologie 997 1011	adénocarcinome
+T16	topographie 1012 1022	pulmonaire
+T17	morphologie 1100 1110	métastases
+T19	topographie 1111 1121	cérébrales
+T20	morphologie 1484 1509	progression de la maladie
+T22	topographie 1510 1519	cérébrale
+T23	morphologie 1573 1579	lésion
+T25	topographie 1580 1588	frontale
+T26	morphologie 1657 1664	lésions
+T28	topographie 1667 1675	frontale
+T29	topographie 1686 1695	pariétale
+T30	morphologie 1731 1756	conglomérat adénopathique
+T32	topographie 1757 1772	rétropéritonéal
+T33	morphologie 1843 1848	masse
+T43	morphologie 1866 1882	hypermétabolique
+T35	topographie 1849 1865	rétropéritonéale
+T37	morphologie 2019 2029	métastases
+T38	morphologie 2035 2049	adénocarcinome
+T40	topographie 2050 2060	pulmonaire
+T42	morphologie 2124 2144	maladie métastatique

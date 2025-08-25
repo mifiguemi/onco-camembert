@@ -1,0 +1,35 @@
+T1	morphologie 141 165	adénocarcinome canalaire
+T2	expression_CIM 141 188	adénocarcinome canalaire de la tête du pancréas
+T3	topographie 172 188	tête du pancréas
+T4	expression_CIM 390 405	récidive locale
+T5	morphologie 390 405	récidive locale
+T6	expression_CIM 423 429	lésion
+T7	morphologie 423 429	lésion
+T8	expression_CIM 641 647	lésion
+T9	morphologie 641 647	lésion
+T10	expression_CIM 806 824	maladie à distance
+T11	morphologie 806 824	maladie à distance
+T12	morphologie 4689 4697	Atteinte
+T13	expression_CIM 4689 4704	Atteinte rénale
+T14	topographie 4698 4704	rénale
+T15	expression_CIM 5019 5028	néoplasme
+T16	morphologie 5019 5028	néoplasme
+T17	expression_CIM 7102 7110	récidive
+T18	morphologie 7102 7110	récidive
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C25.0 8500/3
+#3	ICD-O T3	C25.0
+#4	ICD-O T5	8000/3
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C64.9 8000/1
+#13	ICD-O T14	C64.9
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	8000/6

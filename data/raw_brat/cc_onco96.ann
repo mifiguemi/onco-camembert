@@ -1,0 +1,101 @@
+T49	topographie 3715 3729	intracavitaire
+T1	expression_CIM 12 28	rhabdomyosarcome
+T2	morphologie 12 28	rhabdomyosarcome
+T3	expression_CIM 37 43	tumeur
+T4	morphologie 37 43	tumeur
+T5	morphologie 780 786	cancer
+T6	expression_CIM 780 796	cancer du poumon
+T7	topographie 790 796	poumon
+T8	morphologie 1699 1704	Masse
+T9	expression_CIM 1699 1722	Masse dans le médiastin
+T10	topographie 1713 1722	médiastin
+T11	expression_CIM 1735 1743	lymphome
+T12	morphologie 1735 1743	lymphome
+T13	morphologie 1855 1860	masse
+T14	expression_CIM 1855 1886	masse importante de tissus mous
+T15	expression_CIM 2011 2019	lymphome
+T16	morphologie 2011 2019	lymphome
+T17	morphologie 2021 2033	Adénopathies
+T18	expression_CIM 2021 2065	Adénopathies médiastinales et para-aortiques
+T19	topographie 2034 2047	médiastinales
+T20	topographie 2051 2065	para-aortiques
+T21	expression_CIM 2091 2096	masse
+T22	morphologie 2091 2096	masse
+T23	expression_CIM 2206 2214	lymphome
+T24	morphologie 2206 2214	lymphome
+T25	morphologie 2598 2607	métastase
+T26	expression_CIM 2598 2621	métastase ganglionnaire
+T27	topographie 2608 2621	ganglionnaire
+T28	expression_CIM 2628 2652	tumeur à cellules rondes
+T29	morphologie 2628 2652	tumeur à cellules rondes
+T30	morphologie 2705 2721	rhabdomyosarcome
+T31	expression_CIM 2705 2731	rhabdomyosarcome cardiaque
+T32	topographie 2722 2731	cardiaque
+T33	morphologie 2852 2868	rhabdomyosarcome
+T34	expression_CIM 2852 2878	rhabdomyosarcome cardiaque
+T35	topographie 2869 2878	cardiaque
+T36	morphologie 2935 2941	myxome
+T37	expression_CIM 2935 2953	myxome auriculaire
+T38	topographie 2942 2953	auriculaire
+T39	expression_CIM 2960 2968	lymphome
+T40	morphologie 2960 2968	lymphome
+T41	morphologie 3635 3640	masse
+T42	expression_CIM 3635 3653	masse médiastinale
+T43	topographie 3641 3653	médiastinale
+T44	morphologie 3659 3671	infiltration
+T45	expression_CIM 3659 3683	infiltration épicardique
+T46	topographie 3672 3683	épicardique
+T47	morphologie 3709 3714	masse
+T48	expression_CIM 3709 3729	masse intracavitaire
+T50	morphologie 4086 4093	tumeurs
+T51	expression_CIM 4086 4105	tumeurs thoraciques
+T52	topographie 4094 4105	thoraciques
+#1	ICD-O T1	8900/3
+#2	ICD-O T2	8900/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	C34.9 8000/3
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C38.3 8000/1
+#10	ICD-O T10	C38.3
+#11	ICD-O T11	9590/3
+#12	ICD-O T12	9590/3
+#13	ICD-O T13	8000/1
+#14	ICD-O T15	9590/3
+#15	ICD-O T16	9590/3
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C77.1 8000/1
+#18	ICD-O T19	C38.3
+#19	ICD-O T20	C49.4
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	9590/3
+#23	ICD-O T24	9590/3
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	C77.9 8000/6
+#26	ICD-O T27	C77.9
+#27	ICD-O T28	8041/3
+#28	ICD-O T29	8041/3
+#29	ICD-O T30	8900/3
+#30	ICD-O T31	C38.0 8900/3
+#31	ICD-O T32	C38.0
+#32	ICD-O T33	8900/3
+#33	ICD-O T34	C38.0 8900/3
+#34	ICD-O T35	C38.0
+#35	ICD-O T36	8840/0
+#36	ICD-O T37	C44.2 8840/0
+#37	ICD-O T38	C44.2
+#38	ICD-O T39	9590/3
+#39	ICD-O T40	9590/3
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	C38.3 8000/1
+#42	ICD-O T43	C38.3
+#43	ICD-O T44	8000/1
+#44	ICD-O T45	C38.0 8000/1
+#45	ICD-O T46	C38.0
+#46	ICD-O T47	8000/1
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	C76.1 8000/1
+#49	ICD-O T52	C76.1

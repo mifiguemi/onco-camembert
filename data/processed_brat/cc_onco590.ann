@@ -1,0 +1,73 @@
+T3	morphologie 972 986	adénocarcinome
+T105	morphologie 998 1019	infiltrant papillaire
+T26	topographie 2715 2746	graisse péricardique antérieure
+T78	topographie 4902 4921	iliaque postérieure
+T8	topographie 1248 1262	lobe inférieur
+T106	topographie 1271 1274	LII
+T35	topographie 2949 2958	mésosigme
+T21	topographie 2371 2376	nuque
+T43	morphologie 3174 3195	prise focale suspecte
+T5	topographie 987 997	pulmonaire
+T6	morphologie 1215 1221	lésion
+T9	morphologie 1282 1287	signe
+T107	morphologie 1294 1306	de malignité
+T11	morphologie 1957 1963	lésion
+T13	topographie 2008 2011	LII
+T14	morphologie 2155 2172	images nodulaires
+T16	topographie 2215 2239	ligament gastrosplénique
+T17	topographie 2259 2265	bassin
+T18	morphologie 2322 2339	lésions suspectes
+T20	topographie 2349 2360	tissus mous
+T22	topographie 2486 2514	paroi thoracique postérieure
+T23	topographie 2580 2585	fesse
+T24	morphologie 2680 2696	lésion nodulaire
+T28	morphologie 2768 2788	suspect de malignité
+T29	morphologie 2823 2829	lésion
+T31	topographie 2833 2852	tissu mou pararénal
+T32	morphologie 2898 2905	lésions
+T34	topographie 2909 2933	ligament gastrosplénique
+T37	morphologie 3049 3063	tumeur maligne
+T38	morphologie 3066 3072	Lésion
+T40	topographie 3097 3102	fémur
+T42	morphologie 3119 3159	prise pathologique suspecte de malignité
+T45	topographie 3204 3212	corps T2
+T46	morphologie 3344 3359	lésion kystique
+T48	topographie 3363 3366	LII
+T49	morphologie 3647 3653	lésion
+T51	topographie 3658 3685	tissus mous sous-occipitaux
+T53	morphologie 3704 3732	tumeur à cellules fusiformes
+T55	morphologie 3966 3994	tumeur à cellules fusiformes
+T57	morphologie 4038 4060	carcinome sarcomatoïde
+T59	morphologie 4087 4096	métastase
+T60	morphologie 4111 4120	carcinome
+T62	topographie 4121 4131	pulmonaire
+T63	morphologie 4235 4257	Carcinome sarcomatoïde
+T65	topographie 4268 4278	pulmonaire
+T66	morphologie 4319 4327	atteinte
+T68	topographie 4341 4352	tissus mous
+T69	topographie 4360 4362	os
+T70	morphologie 4746 4770	progression radiologique
+T72	topographie 4781 4787	osseux
+T73	morphologie 4803 4810	lésions
+T75	topographie 4811 4819	osseuses
+T76	morphologie 4845 4886	augmentation pathologique de la captation
+T79	topographie 4938 4949	vertèbre S1
+T80	morphologie 5173 5184	progression
+T82	topographie 5210 5216	osseux
+T83	topographie 5218 5225	sternum
+T84	topographie 5227 5239	aile iliaque
+T85	topographie 5250 5261	aile sacrée
+T86	topographie 5274 5283	péricarde
+T87	topographie 5288 5292	rein
+T88	morphologie 5312 5319	lésions
+T90	topographie 5332 5343	tissus mous
+T91	morphologie 5815 5822	lésions
+T94	morphologie 5871 5877	nodule
+T96	topographie 5878 5900	graisseux péricardique
+T97	morphologie 5902 5908	nodule
+T99	topographie 5909 5924	rétropéritonéal
+T100	morphologie 5961 5968	lésions
+T102	topographie 5969 5977	osseuses
+T2	morphologie 788 861	syndrome lymphoprolifératif T chronique de type lymphocytes à gros grains
+T104	morphologie 6004 6024	tissu tumoral viable
+T93	topographie 5835 5869	tissus mous (cou, paroi thoracique

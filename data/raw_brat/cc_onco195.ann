@@ -1,0 +1,80 @@
+T1	morphologie 697 709	adénopathies
+T2	expression_CIM 697 766	adénopathies latérocervicales, supraclaviculaires ou submandibulaires
+T3	topographie 710 726	latérocervicales
+T4	topographie 728 746	supraclaviculaires
+T5	topographie 750 766	submandibulaires
+T6	morphologie 1005 1010	masse
+T7	expression_CIM 1005 1021	masse abdominale
+T8	topographie 1011 1021	abdominale
+T9	morphologie 1534 1551	images nodulaires
+T10	expression_CIM 1534 1579	images nodulaires bilatérales dans le pharynx
+T11	topographie 1572 1579	pharynx
+T12	morphologie 1735 1741	tumeur
+T13	expression_CIM 1735 1786	tumeur solide et hétérogène dans le sinus sphénoïde
+T14	topographie 1771 1786	sinus sphénoïde
+T15	morphologie 1950 1956	lésion
+T16	expression_CIM 1950 1975	lésion du sinus sphénoïde
+T17	topographie 1960 1975	sinus sphénoïde
+T18	morphologie 1982 1989	lésions
+T19	expression_CIM 1982 2001	lésions pulmonaires
+T20	topographie 1990 2001	pulmonaires
+T21	expression_CIM 2520 2534	adénocarcinome
+T22	morphologie 2520 2534	adénocarcinome
+T23	expression_CIM 2570 2597	maladie tumorale disséminée
+T24	morphologie 2570 2597	maladie tumorale disséminée
+T25	expression_CIM 2847 2861	adénocarcinome
+T26	morphologie 2847 2861	adénocarcinome
+T27	morphologie 3054 3060	lésion
+T28	expression_CIM 3054 3070	lésion hépatique
+T29	topographie 3061 3070	hépatique
+T30	expression_CIM 3123 3140	cellules malignes
+T31	morphologie 3123 3140	cellules malignes
+T32	expression_CIM 3162 3171	métastase
+T33	morphologie 3162 3171	métastase
+T34	morphologie 3174 3188	adénocarcinome
+T35	expression_CIM 3174 3210	adénocarcinome d'origine intestinale
+T36	topographie 3199 3210	intestinale
+T37	expression_CIM 3323 3337	adénocarcinome
+T38	morphologie 3323 3337	adénocarcinome
+T39	expression_CIM 3341 3349	stade IV
+T40	morphologie 3341 3349	stade IV
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	C76.0
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C76.2 8000/1
+#8	ICD-O T8	C76.2
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C14.0 8000/1
+#11	ICD-O T11	C14.0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C31.3 8000/1
+#14	ICD-O T14	C31.3
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C31.3 8000/1
+#17	ICD-O T17	C31.3
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C34.9 8000/1
+#20	ICD-O T20	C34.9
+#21	ICD-O T21	8140/3
+#22	ICD-O T22	8140/3
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8140/3
+#26	ICD-O T26	8140/3
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	C22.0 8000/1
+#29	ICD-O T29	C22.0
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8140/3
+#35	ICD-O T35	C26.0 8140/3
+#36	ICD-O T36	C26.0
+#37	ICD-O T37	8140/3
+#38	ICD-O T38	8140/3
+#39	ICD-O T39	8000/6
+#40	ICD-O T40	8000/6

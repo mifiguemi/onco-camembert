@@ -1,0 +1,141 @@
+T64	topographie 2787 2803	non pancréatique
+T1	morphologie 386 395	néoplasie
+T2	expression_CIM 386 405	néoplasie gastrique
+T3	topographie 396 405	gastrique
+T4	morphologie 450 459	néoplasie
+T5	expression_CIM 450 469	néoplasie ovarienne
+T6	topographie 460 469	ovarienne
+T7	morphologie 499 508	carcinome
+T8	expression_CIM 499 521	carcinome de la vessie
+T9	topographie 515 521	vessie
+T10	morphologie 790 797	lésions
+T11	expression_CIM 790 808	lésions hépatiques
+T12	topographie 798 808	hépatiques
+T13	expression_CIM 814 826	adénopathies
+T14	morphologie 814 826	adénopathies
+T15	expression_CIM 857 878	lésions métastatiques
+T16	morphologie 857 878	lésions métastatiques
+T17	expression_CIM 931 938	lésions
+T18	morphologie 931 938	lésions
+T19	morphologie 988 991	TNE
+T20	expression_CIM 988 1016	TNE G2 OMS bien différenciée
+T21	differenciation 992 998	G2 OMS
+T22	differenciation 999 1016	bien différenciée
+T23	morphologie 1228 1235	lésions
+T24	expression_CIM 1228 1246	lésions hépatiques
+T25	topographie 1236 1246	hépatiques
+T26	morphologie 1267 1279	adénopathies
+T27	expression_CIM 1267 1311	adénopathies médiastinales et para-aortiques
+T28	topographie 1280 1293	médiastinales
+T29	topographie 1297 1311	para-aortiques
+T30	expression_CIM 1397 1412	lésion primaire
+T31	morphologie 1397 1412	lésion primaire
+T32	morphologie 1529 1551	hypermétabolisme focal
+T33	expression_CIM 1529 1564	hypermétabolisme focal dans l'iléon
+T34	topographie 1559 1564	iléon
+T35	expression_CIM 1582 1597	tumeur primaire
+T36	morphologie 1582 1597	tumeur primaire
+T37	morphologie 1616 1619	TNE
+T38	expression_CIM 1616 1652	TNE métastatique de l'intestin grêle
+T39	morphologie 1620 1632	métastatique
+T40	topographie 1638 1652	intestin grêle
+T41	morphologie 1672 1691	Octreoscan® positif
+T42	expression_CIM 1672 1728	Octreoscan® positif au niveau hépatique et adénopathique
+T43	topographie 1702 1711	hépatique
+T44	topographie 1715 1728	adénopathique
+T45	expression_CIM 1935 1951	tumeur primitive
+T46	morphologie 1935 1951	tumeur primitive
+T47	morphologie 2056 2059	TNE
+T48	expression_CIM 2056 2066	TNE OMS G2
+T49	differenciation 2060 2066	OMS G2
+T50	morphologie 2084 2092	atteinte
+T51	expression_CIM 2084 2106	atteinte ganglionnaire
+T52	morphologie 2465 2473	implants
+T53	expression_CIM 2465 2503	implants au niveau de l'intestin grêle
+T54	topographie 2489 2503	intestin grêle
+T55	expression_CIM 2511 2523	adénopathies
+T56	morphologie 2511 2523	adénopathies
+T57	morphologie 2566 2569	TNE
+T58	expression_CIM 2566 2576	TNE G2 OMS
+T59	differenciation 2570 2576	G2 OMS
+T60	expression_CIM 2607 2632	progression de la maladie
+T61	morphologie 2607 2632	progression de la maladie
+T62	morphologie 2770 2773	TNE
+T63	expression_CIM 2770 2812	TNE et d'origine non pancréatique G1/2 OMS
+T65	differenciation 2804 2812	G1/2 OMS
+T66	morphologie 3142 3149	maladie
+T67	expression_CIM 3142 3159	maladie hépatique
+T68	topographie 3150 3159	hépatique
+T69	morphologie 5237 5244	lésions
+T70	expression_CIM 5237 5273	lésions hépatiques et adénopathiques
+T71	topographie 5245 5255	hépatiques
+T72	topographie 5259 5273	adénopathiques
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C16.9 8000/1
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C56.9 8000/1
+#6	ICD-O T6	C56.9
+#7	ICD-O T7	8010/3
+#8	ICD-O T8	C67.9 8010/3
+#9	ICD-O T9	C67.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C22.0 8000/1
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	C77.9 8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8246/3
+#20	ICD-O T20	8246/32
+#21	ICD-O T21	2
+#22	ICD-O T22	1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C22.0 8000/1
+#25	ICD-O T25	C22.0
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C77.1 8000/1
+#28	ICD-O T28	C38.3
+#29	ICD-O T29	C49.4
+#30	ICD-O T30	8000/3
+#31	ICD-O T31	8000/3
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C17.2 8000/1
+#34	ICD-O T34	C17.2
+#35	ICD-O T35	8000/3
+#36	ICD-O T36	8000/3
+#37	ICD-O T37	8246/3
+#38	ICD-O T38	C17.9 8246/3
+#39	ICD-O T39	8000/6
+#40	ICD-O T40	C17.9
+#41	ICD-O T41	8000/9
+#42	ICD-O T43	C22.0
+#43	ICD-O T44	C77.9
+#44	ICD-O T45	8000/3
+#45	ICD-O T46	8000/3
+#46	ICD-O T47	8246/3
+#47	ICD-O T48	8246/32
+#48	ICD-O T49	2
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	C77.9 8000/1
+#51	ICD-O T52	8000/6
+#52	ICD-O T53	C17.9 8000/6
+#53	ICD-O T54	C17.9
+#54	ICD-O T55	C77.9 8000/1
+#55	ICD-O T56	8000/1
+#56	ICD-O T57	8246/3
+#57	ICD-O T58	8246/32
+#58	ICD-O T59	2
+#59	ICD-O T60	8000/1
+#60	ICD-O T61	8000/1
+#61	ICD-O T62	8246/3
+#62	ICD-O T65	2
+#63	ICD-O T66	8000/6
+#64	ICD-O T67	C22.0 8000/6
+#65	ICD-O T68	C22.0
+#66	ICD-O T69	8000/1
+#67	ICD-O T70	C77.9 8000/1;C22.0 8000/1
+#68	ICD-O T71	C22.0
+#69	ICD-O T72	8000/3

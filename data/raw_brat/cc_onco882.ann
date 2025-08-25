@@ -1,0 +1,55 @@
+T26	topographie 2618 2704	ganglions lymphatiques rétrocruraux, rétropéritonéaux et de la fosse supraclaviculaire
+T1	morphologie 192 206	adénocarcinome
+T2	expression_CIM 192 216	adénocarcinome gastrique
+T3	topographie 207 216	gastrique
+T4	morphologie 739 744	masse
+T5	expression_CIM 739 751	masse rénale
+T6	topographie 745 751	rénale
+T7	morphologie 902 908	tumeur
+T8	expression_CIM 902 946	tumeur située dans le pôle supérieur du rein
+T9	topographie 942 946	rein
+T10	morphologie 1033 1049	lymphadénopathie
+T11	expression_CIM 1033 1081	lymphadénopathie pathologique dans le hile rénal
+T12	topographie 1071 1081	hile rénal
+T13	morphologie 1283 1310	angiomyolipome épithélioïde
+T14	expression_CIM 1283 1316	angiomyolipome épithélioïde rénal
+T15	topographie 1311 1316	rénal
+T16	morphologie 1394 1400	tumeur
+T17	expression_CIM 1394 1407	tumeur rénale
+T18	topographie 1401 1407	rénale
+T19	morphologie 1579 1589	métastases
+T20	expression_CIM 1579 1622	métastases ganglionnaires rétropéritonéales
+T21	topographie 1590 1622	ganglionnaires rétropéritonéales
+T22	expression_CIM 1834 1854	maladie métastatique
+T23	morphologie 1834 1854	maladie métastatique
+T24	morphologie 2592 2603	progression
+T25	expression_CIM 2592 2704	progression au niveau des ganglions lymphatiques rétrocruraux, rétropéritonéaux et de la fosse supraclaviculaire
+T27	expression_CIM 2721 2748	conglomérats adénopathiques
+T28	morphologie 2721 2748	conglomérats adénopathiques
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C16.9 8140/3
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C64.9 8000/1
+#6	ICD-O T6	C64.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C64.9 8000/1
+#9	ICD-O T9	C64.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.2 8000/1
+#12	ICD-O T12	C65.9
+#13	ICD-O T13	8860/0
+#14	ICD-O T14	C64.9 8860/0
+#15	ICD-O T15	C64.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C64.9 8000/1
+#18	ICD-O T18	C64.9
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	C77.2 8000/6
+#21	ICD-O T21	C77.2
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	C76.0 8000/6;C77.2 8000/6;C77.4 8000/6
+#26	ICD-O T27	C77.9 8000/1
+#27	ICD-O T28	8000/1

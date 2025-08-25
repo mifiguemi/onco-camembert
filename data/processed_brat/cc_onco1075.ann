@@ -1,0 +1,36 @@
+T1	morphologie 244 250	nodule
+T3	topographie 254 258	sein
+T4	morphologie 347 353	nodule
+T6	topographie 399 433	quadrant supérieur externe du sein
+T7	morphologie 487 503	lymphadénopathie
+T9	topographie 504 513	axillaire
+T10	morphologie 601 607	nodule
+T12	topographie 616 650	quadrant supérieur externe du sein
+T13	topographie 872 876	sein
+T16	topographie 920 943	quadrant supéro-externe
+T17	morphologie 1074 1086	adénopathies
+T19	topographie 1087 1097	axillaires
+T20	morphologie 1265 1271	nodule
+T22	topographie 1275 1279	sein
+T23	morphologie 1326 1352	néoplasme épithélial malin
+T25	differenciation 1353 1368	peu différencié
+T26	morphologie 1437 1463	néoplasme épithélial malin
+T28	differenciation 1464 1479	peu différencié
+T29	morphologie 1674 1680	lésion
+T31	topographie 1699 1725	quadrant supérieur externe
+T32	topographie 1729 1733	sein
+T33	morphologie 1754 1779	conglomérat adénopathique
+T35	topographie 1780 1789	axillaire
+T37	morphologie 1867 1882	maladie maligne
+T38	morphologie 1938 1961	Carcinome inflammatoire
+T40	topographie 1965 1969	sein
+T41	morphologie 1982 1990	atteinte
+T43	topographie 1991 2000	axillaire
+T45	morphologie 2579 2584	masse
+T46	morphologie 2588 2599	adénopathie
+T48	topographie 2600 2609	axillaire
+T49	morphologie 2695 2701	nodule
+T52	morphologie 3061 3093	carcinome épidermoïde infiltrant
+T54	differenciation 3094 3116	modérément différencié
+T15	morphologie 896 911	nodule kystique
+T51	topographie 2710 2743	quadrant supérieur gauche du sein

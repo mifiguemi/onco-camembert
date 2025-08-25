@@ -1,0 +1,26 @@
+T31	topographie 1914 1921	hilaire
+T2	morphologie 166 180	tumeur bénigne
+T4	morphologie 215 224	cavernome
+T5	morphologie 284 290	naevus
+T7	topographie 294 322	ramus mandibulaire ascendant
+T8	morphologie 699 710	adénopathie
+T10	topographie 711 728	rétro-auriculaire
+T11	topographie 732 741	cervicale
+T13	morphologie 891 899	mélanome
+T15	morphologie 948 983	Tumeur de mélanocytes épithélioïdes
+T17	morphologie 1138 1147	néoplasie
+T19	morphologie 1257 1276	maladie néoplasique
+T21	morphologie 1448 1456	Mélanome
+T23	morphologie 1502 1510	mélanome
+T24	morphologie 1757 1767	métastases
+T26	topographie 1768 1779	pulmonaires
+T27	morphologie 1862 1884	captation pathologique
+T29	topographie 1885 1897	médiastinale
+T32	morphologie 1944 1951	nodules
+T34	topographie 1952 1963	pulmonaires
+T36	morphologie 2342 2350	mélanome
+T38	morphologie 2367 2375	stade IV
+T39	morphologie 2381 2389	atteinte
+T41	topographie 2390 2400	pulmonaire
+T42	topographie 2404 2417	adénopathique
+T30	topographie 1899 1910	subcarinale

@@ -1,0 +1,70 @@
+T9	topographie 1381 1414	ganglion lymphatique sous-clavier
+T1	morphologie 323 337	adénocarcinome
+T2	expression_CIM 323 348	adénocarcinome pulmonaire
+T3	topographie 338 348	pulmonaire
+T4	morphologie 1057 1068	progression
+T5	expression_CIM 1057 1106	progression des ganglions lymphatiques axillaires
+T6	topographie 1073 1106	ganglions lymphatiques axillaires
+T7	morphologie 1366 1377	progression
+T8	expression_CIM 1366 1414	progression du ganglion lymphatique sous-clavier
+T10	expression_CIM 1623 1713	progression de la maladie dans les ganglions lymphatiques axillaires et supraclaviculaires
+T11	topographie 1658 1691	ganglions lymphatiques axillaires
+T12	topographie 1695 1713	supraclaviculaires
+T13	morphologie 2016 2027	progression
+T14	expression_CIM 2016 2082	progression des ganglions lymphatiques hilaires et sous-carénaires
+T15	topographie 2032 2082	ganglions lymphatiques hilaires et sous-carénaires
+T16	morphologie 2476 2488	adénopathies
+T17	expression_CIM 2476 2506	adénopathies rétropéritonéales
+T18	topographie 2489 2506	rétropéritonéales
+T19	morphologie 2516 2521	masse
+T20	expression_CIM 2516 2609	masse pulmonaire apicale dans le lobe supérieur gauche compatible avec un primitif pulmonaire
+T21	topographie 2522 2532	pulmonaire
+T22	topographie 2549 2563	lobe supérieur
+T23	morphologie 2590 2598	primitif
+T24	topographie 2599 2609	pulmonaire
+T25	morphologie 2724 2738	adénocarcinome
+T26	expression_CIM 2724 2759	adénocarcinome d'origine pulmonaire
+T27	topographie 2749 2759	pulmonaire
+T28	expression_CIM 3042 3067	progression de la maladie
+T29	morphologie 3042 3067	progression de la maladie
+T30	morphologie 3101 3106	masse
+T31	expression_CIM 3101 3117	masse pulmonaire
+T32	topographie 3107 3117	pulmonaire
+T33	morphologie 3132 3144	adénopathies
+T34	expression_CIM 3132 3162	adénopathies rétropéritonéales
+T35	topographie 3145 3162	rétropéritonéales
+T36	expression_CIM 5361 5377	réponse tumorale
+T37	morphologie 5361 5377	réponse tumorale
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C34.9 8140/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C77.3 8000/6
+#6	ICD-O T6	C77.3
+#7	ICD-O T7	8000/6
+#8	ICD-O T10	C76.0 8000/1;C77.3 8000/1
+#9	ICD-O T11	C77.3
+#10	ICD-O T12	C76.0
+#11	ICD-O T13	8000/6
+#12	ICD-O T15	C77.1 
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C77.2 8000/1
+#15	ICD-O T18	C48.0
+#16	ICD-O T19	8000/1
+#17	ICD-O T21	C34.9
+#18	ICD-O T22	C34.1
+#19	ICD-O T23	8000/3
+#20	ICD-O T24	C34.9
+#21	ICD-O T25	8140/3
+#22	ICD-O T26	C34.9 8140/3
+#23	ICD-O T27	C34.9
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	8000/1
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	C34.9 8000/1
+#28	ICD-O T32	C34.9
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	C77.2 8000/1
+#31	ICD-O T35	C48.0
+#32	ICD-O T36	8000/3
+#33	ICD-O T37	8000/3

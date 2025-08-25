@@ -1,0 +1,96 @@
+T1	morphologie 702 708	tumeur
+T2	expression_CIM 702 726	tumeur sous-mandibulaire
+T3	topographie 709 726	sous-mandibulaire
+T4	morphologie 901 906	masse
+T5	expression_CIM 901 932	masse dans l'angle mandibulaire
+T6	topographie 914 932	angle mandibulaire
+T7	expression_CIM 985 997	adénopathies
+T8	morphologie 985 997	adénopathies
+T10	expression_CIM 1403 1454	région cervicale droite, coïncidant avec une lésion
+T11	morphologie 1448 1454	lésion
+T12	morphologie 1480 1487	lésions
+T13	expression_CIM 1480 1502	lésions ganglionnaires
+T14	topographie 1488 1502	ganglionnaires
+T15	morphologie 1609 1614	Masse
+T16	expression_CIM 1609 1631	Masse latéro-cervicale
+T17	topographie 1615 1631	latéro-cervicale
+T18	expression_CIM 1899 1924	adénomégalie métastatique
+T19	morphologie 1899 1924	adénomégalie métastatique
+T20	expression_CIM 2213 2230	cellules malignes
+T21	morphologie 2213 2230	cellules malignes
+T22	morphologie 2377 2382	masse
+T23	expression_CIM 2377 2399	masse latéro-cervicale
+T24	topographie 2383 2399	latéro-cervicale
+T25	morphologie 2427 2436	carcinome
+T26	expression_CIM 2427 2452	carcinome peu différencié
+T27	differenciation 2437 2452	peu différencié
+T28	expression_CIM 2633 2644	adénopathie
+T29	morphologie 2633 2644	adénopathie
+T30	morphologie 2712 2721	Carcinome
+T31	expression_CIM 2712 2781	Carcinome métastatique adénopathique indifférencié d'origine inconnue
+T32	morphologie 2722 2734	métastatique
+T33	expression_CIM 2722 2748	métastatique adénopathique
+T34	topographie 2735 2748	adénopathique
+T35	differenciation 2749 2762	indifférencié
+T36	topographie 2765 2781	origine inconnue
+T37	morphologie 3029 3038	carcinome
+T38	expression_CIM 3029 3054	carcinome peu différencié
+T39	differenciation 3039 3054	peu différencié
+T40	morphologie 3089 3098	carcinome
+T41	expression_CIM 3089 3114	carcinome peu différencié
+T42	differenciation 3099 3114	peu différencié
+T43	morphologie 3320 3329	carcinome
+T44	expression_CIM 3320 3418	carcinome adénopathique métastatique indifférencié d'origine probablement oto-rhino-laryngologique
+T45	topographie 3330 3343	adénopathique
+T46	morphologie 3344 3356	métastatique
+T47	differenciation 3357 3370	indifférencié
+T48	topographie 3394 3418	oto-rhino-laryngologique
+T49	expression_CIM 5310 5316	foyers
+T50	morphologie 5310 5316	foyers
+T9	topographie 1403 1419	région cervicale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C49.0 8000/1
+#3	ICD-O T3	C49.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C41.1
+#6	ICD-O T7	C77.9 8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T11	8000/1
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	C77.9 8000/1
+#11	ICD-O T14	C77.9
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	C76.0 8000/1
+#14	ICD-O T17	C76.0
+#15	ICD-O T18	8000/6
+#16	ICD-O T19	8000/6
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	C76.0 8000/1
+#21	ICD-O T24	C76.0
+#22	ICD-O T25	8010/3
+#23	ICD-O T26	8010/33
+#24	ICD-O T27	3
+#25	ICD-O T28	C77.9 8000/1
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8010/3
+#28	ICD-O T31	C80.9 8010/34
+#29	ICD-O T32	8000/6
+#30	ICD-O T34	C77.9
+#31	ICD-O T35	4
+#32	ICD-O T36	C80.9
+#33	ICD-O T37	8010/3
+#34	ICD-O T38	8010/33
+#35	ICD-O T39	3
+#36	ICD-O T40	8010/3
+#37	ICD-O T41	8010/33
+#38	ICD-O T42	3
+#39	ICD-O T43	8010/3
+#40	ICD-O T44	C76.0 8010/34
+#41	ICD-O T45	C77.9
+#42	ICD-O T46	8000/6
+#43	ICD-O T47	4
+#44	ICD-O T48	C76.0
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	8000/1

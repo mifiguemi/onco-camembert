@@ -1,0 +1,38 @@
+T2	morphologie 1264 1269	masse
+T3	morphologie 1694 1699	masse
+T5	topographie 1716 1731	petite courbure
+T7	morphologie 1859 1873	adénocarcinome
+T8	morphologie 1902 1907	Masse
+T10	topographie 1924 1952	petite courbure de l'estomac
+T11	morphologie 1963 1975	adénopathies
+T13	topographie 1984 2009	ligament gastro-hépatique
+T14	topographie 2014 2028	tronc cœliaque
+T15	topographie 2034 2050	espace portocave
+T16	morphologie 2079 2089	hémangiome
+T18	topographie 2090 2099	hépatique
+T19	morphologie 2177 2191	Adénocarcinome
+T21	topographie 2192 2201	gastrique
+T22	morphologie 2248 2260	adénopathies
+T24	topographie 2261 2278	rétropéritonéales
+T26	morphologie 2378 2383	masse
+T28	morphologie 2400 2412	adénopathies
+T30	morphologie 2473 2485	adénopathies
+T32	morphologie 2607 2617	métastases
+T33	morphologie 2813 2822	captation
+T35	topographie 2848 2857	gastrique
+T36	morphologie 2875 2887	adénopathies
+T38	topographie 2888 2905	rétropéritonéales
+T39	morphologie 4138 4143	masse
+T41	topographie 4151 4158	estomac
+T42	morphologie 4166 4178	adénopathies
+T44	topographie 4179 4196	rétropéritonéales
+T45	morphologie 4240 4245	masse
+T47	topographie 4253 4260	estomac
+T49	morphologie 4270 4282	adénopathies
+T51	morphologie 4372 4389	lymphadénopathies
+T53	morphologie 4451 4467	maladie tumorale
+T54	morphologie 4681 4695	adénocarcinome
+T56	differenciation 4696 4711	peu différencié
+T57	differenciation 4725 4749	modérément différenciées
+T58	topographie 4824 4846	ganglions lymphatiques
+T60	morphologie 4858 4868	métastases

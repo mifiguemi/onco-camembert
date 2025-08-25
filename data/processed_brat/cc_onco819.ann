@@ -1,0 +1,34 @@
+T1	morphologie 356 362	cancer
+T3	topographie 366 371	côlon
+T4	morphologie 709 721	néoformation
+T6	topographie 743 759	côlon descendant
+T7	morphologie 957 963	tumeur
+T9	topographie 1000 1016	côlon descendant
+T10	morphologie 1129 1141	adénopathies
+T12	topographie 1142 1150	hilaires
+T13	topographie 1152 1165	médiastinales
+T14	topographie 1169 1180	abdominales
+T16	morphologie 1451 1479	processus lymphoprolifératif
+T18	morphologie 1515 1527	adénopathies
+T20	morphologie 1627 1644	cellules malignes
+T21	morphologie 1903 1917	adénocarcinome
+T23	topographie 1921 1926	côlon
+T25	morphologie 1943 1962	tumeur villositaire
+T27	morphologie 2272 2283	adénopathie
+T29	morphologie 2420 2445	progression de la maladie
+T30	morphologie 2481 2505	foyers hypermétaboliques
+T32	topographie 2514 2528	lobe hépatique
+T33	morphologie 2609 2634	Progression de la maladie
+T35	topographie 2645 2654	hépatique
+T37	morphologie 2673 2683	métastases
+T38	morphologie 2833 2843	métastases
+T40	topographie 2844 2854	hépatiques
+T42	morphologie 2926 2932	tumeur
+T43	morphologie 3219 3237	viabilité tumorale
+T45	topographie 3246 3266	parenchyme hépatique
+T46	morphologie 3347 3357	métastases
+T48	topographie 3358 3368	hépatiques
+T50	morphologie 3488 3495	lésions
+T52	morphologie 3831 3841	métastases
+T53	morphologie 3844 3858	adénocarcinome
+T55	topographie 3874 3881	colique

@@ -1,0 +1,33 @@
+T2	morphologie 117 123	myomes
+T3	morphologie 325 337	adénopathies
+T5	topographie 338 351	médiastinales
+T6	morphologie 373 380	lésions
+T8	topographie 381 391	hépatiques
+T10	morphologie 488 523	carcinome médullaire de la thyroïde
+T11	morphologie 975 987	adénopathies
+T13	topographie 1002 1017	lobe thyroïdien
+T14	topographie 1070 1085	lobe thyroïdien
+T16	morphologie 1100 1106	nodule
+T17	morphologie 1187 1198	adénopathie
+T19	topographie 1199 1208	cervicale
+T20	morphologie 1227 1252	conglomérat adénopathique
+T22	topographie 1253 1265	paratrachéal
+T24	morphologie 1331 1363	nodules évocateurs de métastases
+T25	morphologie 1367 1377	métastases
+T27	topographie 1378 1386	osseuses
+T28	topographie 1389 1392	D10
+T29	topographie 1394 1397	D12
+T30	topographie 1405 1412	humérus
+T33	morphologie 1660 1680	Carcinome médullaire
+T35	topographie 1687 1695	thyroïde
+T36	morphologie 1699 1707	stade IV
+T38	topographie 1709 1711	os
+T39	topographie 1713 1717	foie
+T40	topographie 1719 1741	ganglions lymphatiques
+T41	morphologie 2338 2363	conglomérat adénopathique
+T43	topographie 2364 2375	médiastinal
+T44	morphologie 2395 2405	métastases
+T46	topographie 2406 2416	hépatiques
+T47	morphologie 2664 2676	adénopathies
+T49	topographie 2677 2690	médiastinales
+T32	morphologie 1481 1521	néoplasies endocriniennes multiples (MEN

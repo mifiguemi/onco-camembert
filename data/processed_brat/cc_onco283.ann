@@ -1,0 +1,33 @@
+T1	morphologie 710 722	infiltration
+T3	topographie 737 746	vertèbres
+T4	morphologie 769 774	masse
+T6	topographie 778 789	tissus mous
+T7	morphologie 805 813	atteinte
+T9	topographie 820 835	moelle épinière
+T10	morphologie 983 989	tumeur
+T12	topographie 990 999	épidurale
+T14	morphologie 1064 1073	métastase
+T16	morphologie 1077 1085	séminome
+T17	morphologie 1191 1197	lésion
+T19	topographie 1198 1210	testiculaire
+T20	morphologie 1319 1325	tumeur
+T22	topographie 1339 1348	testicule
+T23	morphologie 1566 1582	tumeur germinale
+T54	morphologie 1596 1601	mixte
+T25	topographie 1583 1595	testiculaire
+T27	morphologie 1617 1625	séminome
+T29	morphologie 1647 1675	tératome monodermique mature
+T31	morphologie 1690 1723	néoplasme germinal intratubulaire
+T33	morphologie 1725 1728	GIN
+T35	morphologie 1732 1735	CIS
+T36	morphologie 1770 1778	invasion
+T38	topographie 1779 1798	vasculo-lymphatique
+T39	morphologie 2024 2029	masse
+T43	morphologie 2105 2126	atteinte métastatique
+T45	morphologie 2296 2318	tumeur germinale mixte
+T46	morphologie 3147 3152	masse
+T48	topographie 3153 3169	rétropéritonéale
+T49	morphologie 3357 3362	masse
+T51	topographie 3363 3379	rétropéritonéale
+T53	morphologie 3431 3437	tumeur
+T41	topographie 2030 2060	para-aortique rétropéritonéale

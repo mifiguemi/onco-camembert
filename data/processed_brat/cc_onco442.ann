@@ -1,0 +1,19 @@
+T1	morphologie 624 633	néoplasie
+T3	topographie 637 642	côlon
+T4	morphologie 724 731	nodules
+T6	topographie 732 743	pulmonaires
+T7	morphologie 989 1015	adénopathies pathologiques
+T9	topographie 1016 1047	supra- et infradiaphragmatiques
+T10	morphologie 1310 1324	adénocarcinome
+T12	topographie 1335 1345	pulmonaire
+T13	morphologie 1471 1485	adénocarcinome
+T15	topographie 1486 1496	pulmonaire
+T17	morphologie 1500 1508	stade IV
+T19	morphologie 2060 2085	progression de la maladie
+T21	morphologie 2742 2767	progression de la maladie
+T22	morphologie 2851 2859	atteinte
+T24	topographie 2860 2869	hépatique
+T26	morphologie 5270 5295	progression de la maladie
+T28	morphologie 5477 5492	lésion tumorale
+T30	morphologie 6291 6316	progression de la maladie
+T32	morphologie 7834 7843	néoplasie

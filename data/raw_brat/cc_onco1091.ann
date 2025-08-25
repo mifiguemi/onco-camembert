@@ -1,0 +1,88 @@
+T1	expression_CIM 1106 1129	lymphome B de type MALT
+T2	morphologie 1106 1129	lymphome B de type MALT
+T3	morphologie 1179 1187;1198 1202	Lymphome MALT
+T4	expression_CIM 1179 1202	Lymphome gastrique MALT
+T5	topographie 1188 1197	gastrique
+T6	expression_CIM 1280 1296	lymphome du MALT
+T7	morphologie 1280 1296	lymphome du MALT
+T8	morphologie 1590 1606	lymphome du MALT
+T9	expression_CIM 1590 1616	lymphome du MALT gastrique
+T10	topographie 1607 1616	gastrique
+T11	expression_CIM 2023 2030	lésions
+T12	morphologie 2023 2030	lésions
+T13	morphologie 2393 2405	adénopathies
+T14	expression_CIM 2393 2440	adénopathies rétropéritonéales et médiastinales
+T15	topographie 2406 2423	rétropéritonéales
+T16	topographie 2427 2440	médiastinales
+T17	morphologie 2809 2819	lymphome B
+T18	expression_CIM 2809 2832	lymphome B de bas grade
+T19	differenciation 2823 2832	bas grade
+T20	expression_CIM 2914 2939	progression de la maladie
+T21	morphologie 2914 2939	progression de la maladie
+T22	expression_CIM 2957 2965	stade IV
+T23	morphologie 2957 2965	stade IV
+T24	expression_CIM 3725 3733	lymphome
+T25	morphologie 3725 3733	lymphome
+T26	expression_CIM 3855 3861	lésion
+T27	morphologie 3855 3861	lésion
+T28	expression_CIM 4117 4124	lésions
+T29	morphologie 4117 4124	lésions
+T30	expression_CIM 4322 4338	tumeurs malignes
+T31	morphologie 4322 4338	tumeurs malignes
+T32	expression_CIM 4376 4384	lymphome
+T33	morphologie 4376 4384	lymphome
+T34	expression_CIM 4685 4691	lésion
+T35	morphologie 4685 4691	lésion
+T36	morphologie 4744 4757	lymphome MALT
+T37	expression_CIM 4744 4767	lymphome MALT gastrique
+T38	topographie 4758 4767	gastrique
+T39	morphologie 4850 4866	lymphome du MALT
+T40	expression_CIM 4850 4876	lymphome du MALT gastrique
+T41	topographie 4867 4876	gastrique
+T42	morphologie 5397 5405	lymphome
+T43	expression_CIM 5397 5415	lymphome gastrique
+T44	topographie 5406 5415	gastrique
+#1	ICD-O T1	9699/3
+#2	ICD-O T2	9699/3
+#3	ICD-O T3	9699/3
+#4	ICD-O T4	C16.9 9699/3
+#5	ICD-O T5	C16.9
+#6	ICD-O T7	9699/3
+#7	ICD-O T8	9699/3
+#8	ICD-O T10	C16.9
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C77.1 8000/1;C77.2 8000/1
+#13	ICD-O T15	C48.0
+#14	ICD-O T16	C38.3
+#15	ICD-O T17	9591/3
+#16	ICD-O T18	9591/31
+#17	ICD-O T19	1
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/9
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	9590/3
+#23	ICD-O T25	9590/3
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	8000/3
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	9590/3
+#31	ICD-O T33	9590/3
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	9699/3
+#35	ICD-O T37	C16.9 9699/3
+#36	ICD-O T38	C16.9
+#37	ICD-O T39	9699/3
+#38	ICD-O T41	C16.9
+#39	ICD-O T42	9590/3
+#40	ICD-O T43	C16.9 9590/3
+#41	ICD-O T44	C16.9
+#42	AnnotatorNotes T7	trad
+#43	AnnotatorNotes T8	trad
+#44	AnnotatorNotes T39	trad

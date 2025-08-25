@@ -1,0 +1,16 @@
+T1	morphologie 239 253	adénocarcinome
+T2	expression_CIM 239 263	adénocarcinome gastrique
+T3	topographie 254 263	gastrique
+T4	expression_CIM 303 311	stade IV
+T5	morphologie 303 311	stade IV
+T6	morphologie 343 351	atteinte
+T7	expression_CIM 343 410	atteinte des ganglions lymphatiques supra- et infradiaphragmatiques
+T8	topographie 356 410	ganglions lymphatiques supra- et infradiaphragmatiques
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C16.9 8140/3
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C77.8 8000/1
+#8	ICD-O T8	C77.8

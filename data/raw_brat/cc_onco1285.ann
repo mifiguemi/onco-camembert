@@ -1,0 +1,76 @@
+T1	morphologie 40 46	tumeur
+T2	expression_CIM 40 62	tumeur de la surrénale
+T3	topographie 53 62	surrénale
+T4	morphologie 112 118	cancer
+T5	expression_CIM 112 130	cancer du pancréas
+T6	topographie 122 130	pancréas
+T7	morphologie 153 162	néoplasie
+T8	expression_CIM 153 170	néoplasie rectale
+T9	topographie 163 170	rectale
+T10	morphologie 210 219	néoplasie
+T11	expression_CIM 210 227	néoplasie du sein
+T12	topographie 223 227	sein
+T13	expression_CIM 237 245	stade IV
+T14	morphologie 237 245	stade IV
+T15	morphologie 247 255	atteinte
+T16	expression_CIM 247 263	atteinte osseuse
+T17	topographie 256 263	osseuse
+T18	morphologie 926 951	progression de la maladie
+T19	expression_CIM 926 963	progression de la maladie dans le SNC
+T20	topographie 960 963	SNC
+T21	morphologie 1248 1259	adénopathie
+T22	expression_CIM 1248 1269	adénopathie cervicale
+T23	topographie 1260 1269	cervicale
+T24	morphologie 1664 1670	lésion
+T25	expression_CIM 1664 1689	lésion temporo-occipitale
+T26	topographie 1671 1689	temporo-occipitale
+T27	expression_CIM 1718 1724	lésion
+T28	morphologie 1718 1724	lésion
+T29	morphologie 2238 2243	masse
+T30	expression_CIM 2238 2261	masse sphéno-ethmoïdale
+T31	topographie 2244 2261	sphéno-ethmoïdale
+T32	morphologie 2369 2382	dissémination
+T33	expression_CIM 2369 2394	dissémination périneurale
+T34	topographie 2383 2394	périneurale
+T35	expression_CIM 2482 2488	lésion
+T36	morphologie 2482 2488	lésion
+T37	expression_CIM 2639 2660	Esthésioneuroblastome
+T38	morphologie 2639 2660	Esthésioneuroblastome
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C74.9 8000/1
+#3	ICD-O T3	C74.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C25.9 8000/3
+#6	ICD-O T6	C25.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C20.9 8000/1
+#9	ICD-O T9	C20.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C50.9 8000/1
+#12	ICD-O T12	C50.9
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C41.9 8000/1
+#17	ICD-O T17	C41.9
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C72.9 8000/1
+#20	ICD-O T20	C72.9
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C77.0 8000/1
+#23	ICD-O T23	C76.0
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	C71.8 8000/1
+#26	ICD-O T26	C71.8
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C31.8 8000/1
+#31	ICD-O T31	C31.8
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	C47.9 8000/6
+#34	ICD-O T34	C47.9
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	8980/3
+#38	ICD-O T38	8980/3

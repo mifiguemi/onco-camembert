@@ -1,0 +1,39 @@
+T1	morphologie 538 543	masse
+T3	topographie 544 557	surrénalienne
+T4	morphologie 579 586	nodules
+T6	topographie 587 598	pulmonaires
+T7	morphologie 617 629	adénopathies
+T9	topographie 630 643	médiastinales
+T10	morphologie 848 857	carcinome
+T12	topographie 858 869	surrénalien
+T13	morphologie 1152 1157	masse
+T15	topographie 1158 1170	sous-costale
+T16	topographie 2654 2670	glande surrénale
+T18	morphologie 2676 2682	lésion
+T19	morphologie 2745 2754	carcinome
+T21	topographie 2755 2773	corticosurrénalien
+T22	morphologie 2988 2997	Carcinome
+T24	topographie 2998 3016	corticosurrénalien
+T25	morphologie 3061 3071	métastases
+T27	topographie 3072 3083	pulmonaires
+T28	topographie 3097 3105	osseuses
+T29	topographie 3109 3137	ganglionnaires médiastinales
+T31	morphologie 3745 3751	tumeur
+T32	morphologie 4415 4425	métastases
+T34	topographie 4426 4437	pulmonaires
+T35	topographie 4441 4454	médiastinales
+T36	morphologie 4479 4486	lésions
+T38	topographie 4487 4497	hépatiques
+T40	morphologie 4543 4549	tumeur
+T41	morphologie 5653 5660	nodules
+T43	topographie 5661 5672	pulmonaires
+T44	morphologie 5680 5692	adénopathies
+T46	topographie 5693 5706	médiastinales
+T47	morphologie 6182 6192	métastases
+T49	topographie 6193 6204	pulmonaires
+T50	morphologie 6210 6222	adénopathies
+T52	topographie 6223 6236	médiastinales
+T53	morphologie 6260 6267	lésions
+T55	topographie 6268 6278	hépatiques
+T56	morphologie 6839 6861	ganglions lymphatiques
+T58	topographie 6862 6878	rétropéritonéaux

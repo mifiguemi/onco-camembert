@@ -1,0 +1,60 @@
+T19	topographie 1967 1975;1998 2010	cutanées sur la jambe
+T1	morphologie 106 112	lésion
+T2	expression_CIM 106 129	lésion cutanée au talon
+T3	topographie 113 120	cutanée
+T4	topographie 124 129	talon
+T5	expression_CIM 158 172	mélanome malin
+T6	morphologie 158 172	mélanome malin
+T7	expression_CIM 339 365	MELANOMA LENTIGINEUX ACRAL
+T8	morphologie 339 365	MELANOMA LENTIGINEUX ACRAL
+T9	expression_CIM 807 812	masse
+T10	morphologie 807 812	masse
+T12	expression_CIM 1202 1367	selle turcique et de façon bilatérale identifiée dans la série avec des nodules hypointense au gadolinium de 5 mm à droite et 4 à gauche, évocateurs de microadénomes
+T14	morphologie 1452 1478	Mélanome lentigineux acral
+T15	expression_CIM 1452 1491	Mélanome lentigineux acral sur le talon
+T16	topographie 1486 1491	talon
+T17	morphologie 1959 1966	lésions
+T18	expression_CIM 1959 2010	lésions cutanées papulo-érythémateuses sur la jambe
+T20	morphologie 2105 2114	métastase
+T21	expression_CIM 2105 2122	métastase cutanée
+T22	topographie 2115 2122	cutanée
+T23	expression_CIM 2139 2157	maladie à distance
+T24	morphologie 2139 2157	maladie à distance
+T25	morphologie 2491 2511	maladie métastatique
+T26	expression_CIM 2491 2522	maladie métastatique du cerveau
+T27	topographie 2515 2522	cerveau
+T28	morphologie 2629 2639	métastases
+T29	expression_CIM 2629 2650	métastases cérébrales
+T30	topographie 2640 2650	cérébrales
+T31	expression_CIM 3528 3538	métastases
+T32	morphologie 3528 3538	métastases
+T13	morphologie 1274 1281;1340 1367	nodules évocateurs de microadénomes
+T11	topographie 1202 1216	selle turcique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1;C76.5 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C76.5
+#5	ICD-O T5	8720/3
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	8744/3
+#8	ICD-O T8	8744/3
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T14	8744/3
+#12	ICD-O T15	C76.5 8744/3
+#13	ICD-O T16	C76.5
+#14	ICD-O T17	8000/1
+#15	ICD-O T20	8000/6
+#16	ICD-O T21	C44.9 8000/6
+#17	ICD-O T22	C44.9
+#18	ICD-O T23	8000/6
+#19	ICD-O T24	8000/6
+#20	ICD-O T25	8000/6
+#21	ICD-O T26	C71.0 8000/6
+#22	ICD-O T27	C71.0
+#23	ICD-O T28	8000/6
+#24	ICD-O T29	C71.0 8000/6
+#25	ICD-O T30	C71.0
+#26	ICD-O T31	8000/6
+#27	ICD-O T32	8000/6
+#28	ICD-O T13	8140/0

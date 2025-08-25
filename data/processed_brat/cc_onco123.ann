@@ -1,0 +1,24 @@
+T2	morphologie 162 192	carcinome canalaire infiltrant
+T3	morphologie 218 226	atteinte
+T5	topographie 231 253	ganglions lymphatiques
+T6	morphologie 536 542	Nodule
+T8	topographie 543 552	axillaire
+T9	morphologie 695 704	carcinome
+T13	morphologie 753 758	foyer
+T14	topographie 831 835	sein
+T16	morphologie 856 862	foyers
+T18	morphologie 983 989	foyers
+T20	morphologie 1083 1090	nodules
+T21	morphologie 1136 1147	adénopathie
+T23	topographie 1156 1179	chaîne mammaire interne
+T25	morphologie 1197 1203	lésion
+T26	morphologie 1218 1248	carcinome canalaire infiltrant
+T28	differenciation 1249 1251	G1
+T30	morphologie 1352 1361	carcinome
+T31	morphologie 1483 1513	carcinome canalaire infiltrant
+T33	differenciation 1528 1548	grade histologique 1
+T35	morphologie 1594 1609	macrométastases
+T36	morphologie 1696 1704	atteinte
+T38	topographie 1705 1718	ganglionnaire
+T40	morphologie 1915 1921	tumeur
+T11	topographie 713 729	région axillaire

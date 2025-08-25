@@ -1,0 +1,48 @@
+T1	morphologie 1266 1272	lésion
+T3	topographie 1314 1320	cardia
+T4	morphologie 1497 1502	masse
+T6	topographie 1503 1516	sous-cardiale
+T7	morphologie 1561 1570	néoplasie
+T9	topographie 1571 1580	gastrique
+T10	morphologie 1586 1595	extension
+T12	topographie 1601 1608	graisse
+T13	morphologie 1625 1636	adénopathie
+T15	topographie 1650 1675	ligament gastro-hépatique
+T16	morphologie 1710 1724	adénocarcinome
+T73	morphologie 1758 1776	de type intestinal
+T18	topographie 1725 1734	gastrique
+T19	differenciation 1735 1757	modérément différencié
+T20	morphologie 2009 2015	lésion
+T22	topographie 2057 2063	cardia
+T23	morphologie 2215 2220	masse
+T25	topographie 2221 2234	sous-cardiale
+T26	morphologie 2279 2288	néoplasie
+T28	topographie 2289 2298	gastrique
+T29	morphologie 2304 2313	extension
+T31	topographie 2319 2326	graisse
+T32	morphologie 2343 2354	adénopathie
+T34	topographie 2368 2393	ligament gastro-hépatique
+T35	morphologie 2559 2582	lésion hypermétabolique
+T37	topographie 2599 2603	foie
+T38	morphologie 2714 2730	lésion nodulaire
+T42	morphologie 2790 2799	métastase
+T44	morphologie 3061 3068	lésions
+T45	morphologie 3107 3119	infiltration
+T47	topographie 3120 3129	hépatique
+T49	morphologie 3137 3151	adénocarcinome
+T51	morphologie 3165 3172	lésions
+T52	morphologie 3440 3443	LOE
+T54	topographie 3444 3454	hépatiques
+T55	morphologie 4013 4019	lésion
+T57	topographie 4020 4029	hépatique
+T58	morphologie 4202 4209	implant
+T60	topographie 4210 4220	péritonéal
+T61	topographie 4229 4239	mésogastre
+T62	morphologie 4256 4268	adénopathies
+T64	topographie 4277 4292	hile pulmonaire
+T65	morphologie 4750 4756	lésion
+T67	topographie 4770 4784	dôme hépatique
+T68	morphologie 4977 5001	foyer d'hypermétabolisme
+T70	topographie 5105 5114	hépatique
+T72	morphologie 5375 5383	récidive
+T40	topographie 2734 2746	segment VIII

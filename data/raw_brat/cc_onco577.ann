@@ -1,0 +1,89 @@
+T1	morphologie 140 148	mélanome
+T2	expression_CIM 140 175	mélanome cutané sur le cuir chevelu
+T3	topographie 149 155	cutané
+T4	topographie 163 175	cuir chevelu
+T5	expression_CIM 232 263	maladie au niveau loco-régional
+T6	morphologie 232 263	maladie au niveau loco-régional
+T7	morphologie 273 293	maladie métastatique
+T8	expression_CIM 273 324	maladie métastatique au niveau pulmonaire et osseux
+T9	topographie 304 314	pulmonaire
+T10	topographie 318 324	osseux
+T11	expression_CIM 386 401	tumeur primaire
+T12	morphologie 386 401	tumeur primaire
+T13	morphologie 1314 1337;1345 1366	mélanome desmoplastique à cellules fusiformes
+T14	expression_CIM 1314 1366	mélanome desmoplastique ulcéré à cellules fusiformes
+T15	morphologie 1479 1485	lésion
+T16	expression_CIM 1479 1513	lésion cutanée sur le cuir chevelu
+T17	topographie 1486 1493	cutanée
+T18	topographie 1501 1513	cuir chevelu
+T19	expression_CIM 1553 1573	maladie métastatique
+T20	morphologie 1553 1573	maladie métastatique
+T21	expression_CIM 1682 1689	lésions
+T22	morphologie 1682 1689	lésions
+T23	expression_CIM 1860 1887	mélanome non desmoplastique
+T24	morphologie 1860 1887	mélanome non desmoplastique
+T25	morphologie 1966 1976	métastases
+T26	expression_CIM 1966 1985	métastases cutanées
+T27	topographie 1977 1985	cutanées
+T28	morphologie 2203 2239	nodules compatibles avec une rechute
+T29	expression_CIM 2203 2259	nodules compatibles avec une rechute sur le cuir chevelu
+T30	topographie 2247 2259	cuir chevelu
+T31	morphologie 2516 2534	prise pathologique
+T32	expression_CIM 2516 2582	prise pathologique dans le cuir chevelu, le poumon et l'os iliaque
+T33	topographie 2543 2555	cuir chevelu
+T34	topographie 2560 2566	poumon
+T35	topographie 2572 2582	os iliaque
+T36	expression_CIM 2603 2611	Mélanome
+T37	morphologie 2603 2611	Mélanome
+T38	morphologie 2617 2627	métastases
+T39	expression_CIM 2617 2660	métastases dans les poumons et l'os iliaque
+T40	topographie 2637 2644	poumons
+T41	topographie 2650 2660	os iliaque
+T42	morphologie 3504 3511	lésions
+T43	expression_CIM 3504 3535	lésions cutanées et pulmonaires
+T44	topographie 3512 3520	cutanées
+T45	topographie 3524 3535	pulmonaires
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C44.4 8720/3;C44.9 8720/3
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C44.4
+#5	ICD-O T6	8000/3
+#6	ICD-O T7	8000/6
+#7	ICD-O T8	C34.9 8000/6;C41.9 8000/6
+#8	ICD-O T9	C34.9
+#9	ICD-O T10	C41.9
+#10	ICD-O T11	8000/3
+#11	ICD-O T12	8000/3
+#12	ICD-O T13	8745/3
+#13	ICD-O T14	8745/3
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C44.4 8000/1;C44.9 8000/1
+#16	ICD-O T17	C44.9
+#17	ICD-O T18	C44.4
+#18	ICD-O T19	8000/6
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8720/3
+#23	ICD-O T24	8720/3
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	C44.9 8000/6
+#26	ICD-O T27	C44.9
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	C44.4 8000/6
+#29	ICD-O T30	C44.4
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	C34.9 8000/1;C41.4 8000/1;C44.4 8000/1
+#32	ICD-O T33	C44.4
+#33	ICD-O T34	C34.9
+#34	ICD-O T35	C41.4
+#35	ICD-O T36	8720/3
+#36	ICD-O T37	8720/3
+#37	ICD-O T38	8000/6
+#38	ICD-O T39	C34.9 8000/6;C41.4 8000/6
+#39	ICD-O T40	C34.9
+#40	ICD-O T41	C41.4
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	C34.9 8000/1;C44.9 8000/1
+#43	ICD-O T44	C44.9
+#44	ICD-O T45	C34.9

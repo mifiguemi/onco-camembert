@@ -1,0 +1,26 @@
+T1	morphologie 109 115	nodule
+T3	topographie 119 123	sein
+T4	morphologie 214 220	nodule
+T6	topographie 236 273	quadrant supéro-interne (CSI) du sein
+T7	morphologie 287 295	atteinte
+T9	topographie 302 306	peau
+T10	morphologie 523 529	nodule
+T12	topographie 550 554	sein
+T13	morphologie 715 745	carcinome canalaire infiltrant
+T15	morphologie 747 750	CDI
+T16	differenciation 753 762	grade III
+T18	morphologie 1183 1189	lésion
+T20	morphologie 1629 1661	mélanome amélanotique non cutané
+T22	morphologie 1790 1796	tumeur
+T24	morphologie 1849 1855	tumeur
+T26	morphologie 1937 1952	tumeur primaire
+T28	morphologie 1964 1979	lésion suspecte
+T30	morphologie 2058 2076	maladie à distance
+T31	morphologie 2219 2246	mélanome malin amélanotique
+T33	topographie 2261 2265	sein
+T35	morphologie 2553 2561	récidive
+T37	morphologie 2680 2701	mélanome amélanotique
+T38	morphologie 2707 2719	infiltration
+T40	topographie 2723 2728	derme
+T42	morphologie 2850 2860	métastases
+T44	morphologie 3163 3171	récidive

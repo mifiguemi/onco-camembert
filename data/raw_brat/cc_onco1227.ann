@@ -1,0 +1,175 @@
+T1	morphologie 227 236	néoplasie
+T2	expression_CIM 227 243	néoplasie rénale
+T3	topographie 237 243	rénale
+T4	morphologie 283 293	métastases
+T5	expression_CIM 283 305	métastases pulmonaires
+T6	topographie 294 305	pulmonaires
+T7	morphologie 518 527;534 552	carcinome à cellules claires
+T8	expression_CIM 518 580	carcinome rénal à cellules claires pT3aNxMx. Grade nucléaire 3
+T9	topographie 528 533	rénal
+T10	stadeTNM 553 561	pT3aNxMx
+T11	differenciation 563 580	Grade nucléaire 3
+T12	expression_CIM 624 632	invasion
+T13	morphologie 624 632	invasion
+T14	morphologie 653 659	tumeur
+T15	expression_CIM 653 680	tumeur dans la veine rénale
+T16	topographie 668 680	veine rénale
+T17	morphologie 684 692	invasion
+T18	expression_CIM 684 717	invasion veineuse (gros vaisseaux
+T19	topographie 693 701	veineuse
+T20	topographie 703 717	gros vaisseaux
+T21	morphologie 881 890	métastase
+T22	expression_CIM 881 909	métastase cérébrale frontale
+T23	topographie 891 909	cérébrale frontale
+T24	morphologie 2464 2470	lésion
+T25	expression_CIM 2464 2527	lésion pédiculée asymptomatique dans le sillon balano-préputial
+T26	topographie 2504 2527	sillon balano-préputial
+T27	expression_CIM 3010 3016	lésion
+T28	morphologie 3010 3016	lésion
+T29	morphologie 3236 3243	nodules
+T30	expression_CIM 3236 3255	nodules pulmonaires
+T31	topographie 3244 3255	pulmonaires
+T32	expression_CIM 3426 3451	progression de la maladie
+T33	morphologie 3426 3451	progression de la maladie
+T34	morphologie 3496 3506	métastases
+T35	expression_CIM 3496 3518	métastases pulmonaires
+T36	topographie 3507 3518	pulmonaires
+T37	morphologie 3538 3544	lésion
+T38	expression_CIM 3538 3629	lésion nodulaire d'environ 1 cm intraaxiale, sous-corticale, située dans l'opercule frontal
+T39	topographie 3613 3629	opercule frontal
+T40	expression_CIM 3827 3834	lésions
+T41	morphologie 3827 3834	lésions
+T42	expression_CIM 4045 4052	lésions
+T43	morphologie 4045 4052	lésions
+T44	morphologie 4220 4229	métastase
+T45	expression_CIM 4220 4238	métastase frontale
+T46	topographie 4230 4238	frontale
+T47	expression_CIM 4301 4308	lésions
+T48	morphologie 4301 4308	lésions
+T49	morphologie 4448 4454	lésion
+T50	expression_CIM 4448 4463	lésion du pénis
+T51	topographie 4458 4463	pénis
+T52	morphologie 4466 4478	infiltration
+T53	expression_CIM 4466 4508	infiltration au niveau du tissu conjonctif
+T54	topographie 4492 4508	tissu conjonctif
+T55	morphologie 4532 4560	carcinome à cellules claires
+T56	expression_CIM 4532 4574	carcinome à cellules claires de haut grade
+T57	differenciation 4564 4574	haut grade
+T58	expression_CIM 4596 4605	métastase
+T59	morphologie 4596 4605	métastase
+T60	morphologie 4611 4620;4627 4660	carcinome conventionnel (à cellules claires
+T61	expression_CIM 4611 4660	carcinome rénal conventionnel (à cellules claires
+T62	topographie 4621 4626	rénal
+T63	expression_CIM 4675 4696	cellules néoplasiques
+T64	morphologie 4675 4696	cellules néoplasiques
+T65	morphologie 4897 4906;4920 4938	Carcinome à cellules claires
+T66	expression_CIM 4897 4938	Carcinome rénal gauche à cellules claires
+T67	topographie 4907 4912	rénal
+T68	expression_CIM 4940 4948	stade IV
+T69	morphologie 4940 4948	stade IV
+T70	morphologie 4950 4952	M1
+T71	expression_CIM 4950 4970	M1 poumon et cerveau
+T72	topographie 4953 4959	poumon
+T73	topographie 4963 4970	cerveau
+T74	morphologie 4975 4986	progression
+T75	expression_CIM 4975 5028	progression pulmonaire et dermique au niveau du pénis
+T76	topographie 4987 4997	pulmonaire
+T77	topographie 5001 5009	dermique
+T78	topographie 5023 5028	pénis
+T79	expression_CIM 5736 5742	tumeur
+T80	morphologie 5736 5742	tumeur
+T81	morphologie 5787 5793	lésion
+T82	expression_CIM 5787 5802	lésion du pénis
+T83	topographie 5797 5802	pénis
+T84	expression_CIM 5873 5882	métastase
+T85	morphologie 5873 5882	métastase
+T86	morphologie 5886 5895	carcinome
+T87	expression_CIM 5886 5901	carcinome rénal
+T88	topographie 5896 5901	rénal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C34.9 8000/6
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	8310/3
+#8	ICD-O T9	C64.9
+#9	ICD-O T10	todelete
+#10	ICD-O T11	3
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	C49.4 8000/1
+#15	ICD-O T16	C49.4
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C49.3 8000/1;C49.9 8000/1
+#18	ICD-O T19	C49.9
+#19	ICD-O T20	C49.3
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	C71.0 8000/6;C71.1 8000/6
+#22	ICD-O T23	C71.1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	C60.8 8000/1
+#25	ICD-O T26	C60.8
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C34.9 8000/1
+#30	ICD-O T31	C34.9
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	C34.9 8000/6
+#35	ICD-O T36	C34.9
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	C71.0 8000/1;C71.1 8000/1
+#38	ICD-O T39	C71.1
+#39	ICD-O T40	8000/1
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	8000/1
+#43	ICD-O T44	8000/6
+#44	ICD-O T45	C71.1 8000/6
+#45	ICD-O T46	C71.1
+#46	ICD-O T47	8000/1
+#47	ICD-O T48	8000/1
+#48	ICD-O T49	8000/1
+#49	ICD-O T50	C60.9 8000/1
+#50	ICD-O T51	C60.9
+#51	ICD-O T52	8000/1
+#52	ICD-O T53	C49.9 8000/1
+#53	ICD-O T54	C49.9
+#54	ICD-O T55	8310/3
+#55	ICD-O T56	8310/34
+#56	ICD-O T57	4
+#57	ICD-O T58	8000/6
+#58	ICD-O T59	8000/6
+#59	ICD-O T60	8310/3
+#60	ICD-O T61	C64.9 8310/3
+#61	ICD-O T62	C64.9
+#62	ICD-O T63	8000/1
+#63	ICD-O T64	8000/1
+#64	ICD-O T65	8310/3
+#65	ICD-O T66	C64.9 8310/3
+#66	ICD-O T67	C64.9
+#67	ICD-O T68	8000/6
+#68	ICD-O T69	8000/6
+#69	ICD-O T70	8000/6
+#70	ICD-O T71	C34.9 8000/6;C71.0 8000/6
+#71	ICD-O T72	C34.9
+#72	ICD-O T73	C71.0
+#73	ICD-O T74	8000/6
+#74	ICD-O T75	C34.9 8000/6;C44.9 8000/6;C60.9 8000/6
+#75	ICD-O T76	C34.9
+#76	ICD-O T77	C44.9
+#77	ICD-O T78	C60.9
+#78	ICD-O T79	8000/1
+#79	ICD-O T80	8000/1
+#80	ICD-O T81	8000/1
+#81	ICD-O T82	C60.9 8000/1
+#82	ICD-O T83	C60.9
+#83	ICD-O T84	8000/6
+#84	ICD-O T85	8000/6
+#85	ICD-O T86	8010/3
+#86	ICD-O T87	C64.9 8010/3
+#87	ICD-O T88	C64.9

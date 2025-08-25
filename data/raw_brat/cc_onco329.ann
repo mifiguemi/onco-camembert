@@ -1,0 +1,174 @@
+T1	morphologie 559 568	carcinome
+T2	expression_CIM 559 574	carcinome rénal
+T3	topographie 569 574	rénal
+T4	expression_CIM 647 667	carcinome papillaire
+T5	morphologie 647 667	carcinome papillaire
+T6	expression_CIM 717 745	carcinome à cellules claires
+T7	morphologie 717 745	carcinome à cellules claires
+T8	morphologie 782 791	néoplasie
+T9	expression_CIM 782 804	néoplasie de la vessie
+T10	topographie 798 804	vessie
+T11	morphologie 853 873	carcinome urothélial
+T12	expression_CIM 853 894	carcinome urothélial de la vessie, pT1 G3
+T13	topographie 880 886	vessie
+T14	differenciation 892 894	G3
+T15	expression_CIM 1124 1142	maladie disséminée
+T16	morphologie 1124 1142	maladie disséminée
+T17	morphologie 1148 1156	récidive
+T18	expression_CIM 1148 1187	récidive dans le pôle inférieur du rein
+T19	topographie 1183 1187	rein
+T20	morphologie 1207 1213	nodule
+T21	expression_CIM 1207 1230	nodule pulmonaire basal
+T22	topographie 1214 1230	pulmonaire basal
+T23	morphologie 1245 1251	lésion
+T24	expression_CIM 1245 1272	lésion lytique iliopubienne
+T25	topographie 1260 1272	iliopubienne
+T26	morphologie 1752 1764	adénopathies
+T27	expression_CIM 1752 1801	adénopathies cervicales, axillaires ou inguinales
+T28	topographie 1765 1775	cervicales
+T29	topographie 1777 1787	axillaires
+T30	topographie 1791 1801	inguinales
+T31	expression_CIM 1921 1927	masses
+T32	morphologie 1921 1927	masses
+T33	morphologie 2325 2331	Nodule
+T34	expression_CIM 2325 2338	Nodule en LII
+T35	topographie 2335 2338	LII
+T36	expression_CIM 2511 2519	récidive
+T37	morphologie 2511 2519	récidive
+T38	topographie 2536 2556	pôle rénal inférieur
+T39	expression_CIM 2536 2573	pôle rénal inférieur droit, un nodule
+T40	morphologie 2567 2573	nodule
+T41	morphologie 2732 2744	Adénopathies
+T42	expression_CIM 2732 2802	Adénopathies subcentimétriques dans le tronc cœliaque et para-aortique
+T43	topographie 2771 2785	tronc cœliaque
+T44	topographie 2789 2802	para-aortique
+T45	topographie 2968 2972	rein
+T46	expression_CIM 2968 2989	rein droit, un nodule
+T47	morphologie 2983 2989	nodule
+T48	morphologie 3323 3329	nodule
+T49	expression_CIM 3323 3340	nodule pulmonaire
+T50	topographie 3330 3340	pulmonaire
+T51	morphologie 3346 3352	nodule
+T52	expression_CIM 3346 3383	nodule dans le pôle inférieur du rein
+T53	topographie 3379 3383	rein
+T54	morphologie 3391 3398	lésions
+T55	expression_CIM 3391 3436	lésions osseuses dans la branche iliopubienne
+T56	topographie 3399 3407	osseuses
+T57	topographie 3416 3436	branche iliopubienne
+T58	expression_CIM 3465 3474	métastase
+T59	morphologie 3465 3474	métastase
+T60	morphologie 3527 3536;3543 3548;3562 3593	Carcinome mixte cellules claires et papillaires
+T61	expression_CIM 3527 3593	Carcinome rénal mixte de stade IV (cellules claires et papillaires
+T62	topographie 3537 3542	rénal
+T63	expression_CIM 3552 3560	stade IV
+T64	morphologie 3552 3560	stade IV
+T65	morphologie 3623 3638	Charge tumorale
+T66	expression_CIM 3623 3715	Charge tumorale : pôle rénal inférieur droit, poumon en LII, os dans la branche iliopubienne
+T67	topographie 3641 3651	pôle rénal
+T69	topographie 3695 3715	branche iliopubienne
+T70	morphologie 4382 4388	lésion
+T71	expression_CIM 4382 4399	lésion pulmonaire
+T72	topographie 4389 4399	pulmonaire
+T73	morphologie 4416 4422	lésion
+T74	expression_CIM 4416 4446	lésion au niveau du pôle rénal
+T75	topographie 4436 4446	pôle rénal
+T76	morphologie 5014 5020	nodule
+T77	expression_CIM 5014 5024	nodule LII
+T78	topographie 5021 5024	LII
+T79	morphologie 5128 5150	foyer hypermétabolique
+T80	expression_CIM 5128 5192	foyer hypermétabolique n'a été observé dans la cavité abdominale
+T81	topographie 5175 5192	cavité abdominale
+T82	morphologie 5248 5257	métastase
+T83	expression_CIM 5248 5265	métastase osseuse
+T84	topographie 5258 5265	osseuse
+T85	morphologie 5837 5843	Nodule
+T86	expression_CIM 5837 5850	Nodule en LII
+T87	topographie 5847 5850	LII
+T88	morphologie 5956 5962	lésion
+T89	expression_CIM 5956 6007	lésion osseuse décrite dans la branche iliopubienne
+T90	topographie 5963 5970;5979 6007	osseuse dans la branche iliopubienne
+T68	topographie 3669 3682	poumon en LII
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C64.9 8010/3
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8050/3
+#5	ICD-O T5	8050/3
+#6	ICD-O T6	8310/3
+#7	ICD-O T7	8310/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C67.9 8000/1
+#10	ICD-O T10	C67.9
+#11	ICD-O T11	8120/3
+#12	ICD-O T12	C67.9 8120/33
+#13	ICD-O T13	C67.9
+#14	ICD-O T14	3
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C64.9 8000/6
+#19	ICD-O T19	C64.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T22	C34.3
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	C41.4 8000/1
+#24	ICD-O T25	C41.4
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C77.0 8000/1;C77.3 8000/1;C77.4 8000/1
+#27	ICD-O T28	C76.0
+#28	ICD-O T29	C76.1
+#29	ICD-O T30	C76.3
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	C34.3 8000/1
+#34	ICD-O T35	C34.3
+#35	ICD-O T36	8000/6
+#36	ICD-O T37	8000/6
+#37	ICD-O T38	C64.9 
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	C77.2 8000/1
+#41	ICD-O T43	C49.4
+#42	ICD-O T44	C49.4
+#43	ICD-O T45	C64.9
+#44	ICD-O T46	C64.9 8000/1
+#45	ICD-O T47	8000/1
+#46	ICD-O T48	8000/1
+#47	ICD-O T49	C34.9 8000/1
+#48	ICD-O T50	C34.9
+#49	ICD-O T51	8000/1
+#50	ICD-O T52	C64.9 8000/1
+#51	ICD-O T53	C64.9
+#52	ICD-O T54	8000/1
+#53	ICD-O T55	C41.4 8000/1;C41.9 8000/1
+#54	ICD-O T56	C41.9
+#55	ICD-O T57	C41.4
+#56	ICD-O T58	8000/6
+#57	ICD-O T59	8000/6
+#58	ICD-O T60	8310/3
+#59	ICD-O T61	C64.9 8310/3
+#60	ICD-O T62	C64.9
+#61	ICD-O T63	8000/6
+#62	ICD-O T64	8000/6
+#63	ICD-O T65	8000/3
+#64	ICD-O T67	C64.9 
+#65	ICD-O T69	C41.4
+#66	ICD-O T70	8000/1
+#67	ICD-O T71	C34.9 8000/1
+#68	ICD-O T72	C34.9
+#69	ICD-O T73	8000/1
+#70	ICD-O T74	C64.9 8000/1
+#71	ICD-O T75	C64.9 
+#72	ICD-O T76	8000/1
+#73	ICD-O T77	C34.3 8000/1
+#74	ICD-O T78	C34.3
+#75	ICD-O T79	8000/9
+#76	ICD-O T81	C76.2
+#77	ICD-O T82	8000/6
+#78	ICD-O T83	C41.9 8000/6
+#79	ICD-O T84	C41.9
+#80	ICD-O T85	8000/1
+#81	ICD-O T86	C34.3 8000/1
+#82	ICD-O T87	C34.3
+#83	ICD-O T88	8000/1
+#84	ICD-O T90	C41.9

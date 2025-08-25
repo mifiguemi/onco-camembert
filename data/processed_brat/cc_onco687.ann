@@ -1,0 +1,76 @@
+T26	topographie 2258 2274	intra-abdominale
+T77	topographie 6026 6038	intra-axiale
+T23	topographie 2027 2039	pli inguinal
+T64	topographie 5525 5543	région de la fesse
+T91	topographie 6492 6512	région interglutéale
+T2	morphologie 346 365	maladie néoplasique
+T3	morphologie 446 452	tumeur
+T5	topographie 461 477	région inguinale
+T7	morphologie 689 695	lésion
+T9	morphologie 766 789	tumeur de type desmoïde
+T10	morphologie 1162 1168	lésion
+T12	topographie 1169 1176	cutanée
+T13	morphologie 1436 1443	lésions
+T120	morphologie 1453 1463	mélaniques
+T15	topographie 1444 1452	cutanées
+T16	morphologie 1486 1503	lésion amélanique
+T20	morphologie 1731 1737	lésion
+T24	morphologie 2246 2257	adénopathie
+T27	topographie 2278 2294	rétropéritonéale
+T29	morphologie 2329 2335	lésion
+T31	morphologie 2406 2412	tumeur
+T32	morphologie 2445 2506	tumeur maligne de la gaine du nerf périphérique, épithélioïde
+T34	differenciation 2508 2515	OMS G-3
+T36	morphologie 2814 2822	mélanome
+T38	morphologie 3285 3294	métastase
+T40	morphologie 3298 3306	mélanome
+T42	morphologie 3367 3376	néoplasme
+T44	morphologie 3528 3542	tumeur maligne
+T46	morphologie 3644 3652	récidive
+T48	morphologie 3666 3684	maladie à distance
+T50	morphologie 3822 3830	récidive
+T51	morphologie 3997 4024	Tumeur épithélioïde maligne
+T121	morphologie 4036 4068	de la gaine du nerf périphérique
+T53	differenciation 4028 4035	grade 3
+T54	topographie 4077 4093	région inguinale
+T56	morphologie 4131 4152	mélanome métastatique
+T57	morphologie 4261 4268	sarcome
+T59	topographie 4273 4284	tissus mous
+T61	morphologie 5024 5038	tumeur maligne
+T62	morphologie 5510 5516	tumeur
+T66	morphologie 5625 5631	lésion
+T67	morphologie 5680 5689	métastase
+T69	topographie 5690 5697	cutanée
+T70	differenciation 5698 5714	peu différenciée
+T72	morphologie 5736 5745	métastase
+T74	morphologie 5749 5763	mélanome malin
+T75	morphologie 6009 6014	masse
+T79	morphologie 6143 6149	lésion
+T81	topographie 6186 6194	thalamus
+T82	topographie 6201 6206	caudé
+T84	morphologie 6219 6226	lésions
+T85	morphologie 6321 6348	augmentation du métabolisme
+T88	topographie 6433 6450	colonne cervicale
+T89	topographie 6452 6473	cuisse antérolatérale
+T90	topographie 6475 6481	épaule
+T92	morphologie 6551 6558	lésions
+T94	topographie 6559 6569	cérébrales
+T96	morphologie 6583 6593	métastases
+T98	morphologie 7080 7089	néoplasme
+T100	morphologie 7307 7315	mélanome
+T102	morphologie 7322 7327	TMVNP
+T103	morphologie 7989 7996	lésions
+T105	topographie 7997 8005	cutanées
+T106	morphologie 8482 8489	lésions
+T108	topographie 8490 8500	cérébrales
+T109	morphologie 8568 8575	nodules
+T111	topographie 8584 8635	tissu cellulaire sous-cutané des membres inférieurs
+T112	morphologie 8672 8679	lésions
+T115	morphologie 8969 8975	lésion
+T117	topographie 8976 8984	frontale
+T119	morphologie 9092 9098	lésion
+T21	morphologie 1998 2011	tumeur ovoïde
+T18	topographie 1570 1593	région supramalléolaire
+T114	topographie 8689 8716	régions frontale et caudale
+T87	topographie 6380 6408	tissu cellulaire sous-cutané
+T78	topographie 6047 6067	topographie frontale

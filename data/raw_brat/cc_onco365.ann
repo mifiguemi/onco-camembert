@@ -1,0 +1,11 @@
+T1	expression_CIM 1154 1183	séminome classique infiltrant
+T2	morphologie 1154 1183	séminome classique infiltrant
+T3	expression_CIM 1240 1256	séminome in situ
+T4	morphologie 1240 1256	séminome in situ
+T5	expression_CIM 1270 1276	Tumeur
+T6	morphologie 1270 1276	Tumeur
+#1	ICD-O T2	9061/3
+#2	ICD-O T3	9061/2
+#3	ICD-O T4	9061/2
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1

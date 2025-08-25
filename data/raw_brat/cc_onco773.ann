@@ -1,0 +1,50 @@
+T1	expression_CIM 321 331	néoplasmes
+T2	morphologie 321 331	néoplasmes
+T3	morphologie 613 619	masses
+T4	expression_CIM 613 632	masses péritonéales
+T5	topographie 620 632	péritonéales
+T6	expression_CIM 652 667	tumeur primaire
+T7	morphologie 652 667	tumeur primaire
+T8	morphologie 728 746	prise pathologique
+T9	expression_CIM 728 764	prise pathologique dans le péritoine
+T10	topographie 755 764	péritoine
+T11	expression_CIM 843 885	mésothéliome malin épithélioïde papillaire
+T12	morphologie 843 885	mésothéliome malin épithélioïde papillaire
+T13	expression_CIM 1165 1191	MP épithélioïde papillaire
+T14	morphologie 1165 1191	MP épithélioïde papillaire
+T15	morphologie 1255 1268	carcinomatose
+T16	expression_CIM 1255 1280	carcinomatose péritonéale
+T17	topographie 1269 1280	péritonéale
+T18	morphologie 2178 2186	implants
+T19	expression_CIM 2178 2209	implants dans le grand épiploon
+T20	topographie 2195 2209	grand épiploon
+T21	morphologie 2211 2218	Lésions
+T22	expression_CIM 2211 2229	Lésions hépatiques
+T23	topographie 2219 2229	hépatiques
+T24	morphologie 3443 3455;3467 3472	mésothéliome malin
+T25	expression_CIM 3443 3472	mésothéliome péritonéal malin
+T26	topographie 3456 3466	péritonéal
+#1	ICD-O T2	8000/3
+#2	ICD-O T3	8000/1
+#3	ICD-O T4	C48.2 8000/1
+#4	ICD-O T5	C48.2
+#5	ICD-O T6	8000/3
+#6	ICD-O T7	8000/3
+#7	ICD-O T8	8000/9
+#8	ICD-O T10	C48.2 
+#9	ICD-O T11	9052/3
+#10	ICD-O T12	9052/3
+#11	ICD-O T13	9052/3
+#12	ICD-O T14	9052/3
+#13	ICD-O T15	8010/9
+#14	ICD-O T16	C48.2 8010/9
+#15	ICD-O T17	C48.2
+#16	ICD-O T18	8000/6
+#17	ICD-O T19	C48.1 8000/6
+#18	ICD-O T20	C48.1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C22.0 8000/1
+#21	ICD-O T23	C22.0
+#22	ICD-O T24	9050/3
+#23	ICD-O T25	C48.2 9050/3
+#24	ICD-O T26	C48.2

@@ -1,0 +1,21 @@
+T1	morphologie 157 187	carcinome canalaire infiltrant
+T3	topographie 191 195	sein
+T4	differenciation 204 226	modérément différencié
+T6	morphologie 566 593	leucémie myéloïde chronique
+T7	morphologie 782 788	cancer
+T9	topographie 792 796	sein
+T10	morphologie 886 893	rechute
+T12	topographie 894 901	osseuse
+T13	morphologie 1162 1173	progression
+T15	topographie 1188 1195	osseuse
+T16	morphologie 1385 1392	lésions
+T18	topographie 1393 1413	osseuses vertébrales
+T19	morphologie 1419 1427	atteinte
+T21	topographie 1434 1449	moelle épinière
+T22	topographie 1460 1466	dorsal
+T23	morphologie 5921 5951	Carcinome canalaire infiltrant
+T25	topographie 5955 5959	sein
+T27	morphologie 5963 5971	stade IV
+T28	morphologie 5981 6001	maladie métastatique
+T30	topographie 6025 6027	os
+T32	morphologie 6112 6118	lésion

@@ -1,0 +1,50 @@
+T1	morphologie 154 182	adénocarcinome endométrioïde
+T3	topographie 188 197	endomètre
+T4	morphologie 202 230	adénocarcinome endométrioïde
+T6	topographie 236 245	endomètre
+T7	morphologie 392 398	nodule
+T9	topographie 399 409	pulmonaire
+T10	topographie 432 446	lobe supérieur
+T11	topographie 454 457	LSD
+T13	morphologie 490 507	lésion secondaire
+T14	morphologie 513 527	adénocarcinome
+T16	topographie 528 539	endométrial
+T17	morphologie 1200 1207	nodules
+T19	topographie 1225 1228	LSI
+T20	topographie 1261 1264	LSD
+T21	morphologie 1289 1295	lésion
+T23	topographie 1296 1306	pulmonaire
+T24	topographie 1324 1338	lobe supérieur
+T25	topographie 1346 1349	LSD
+T26	morphologie 1358 1364	lésion
+T28	topographie 1365 1376	parahilaire
+T29	morphologie 1395 1402	nodules
+T31	topographie 1411 1414	LSI
+T32	morphologie 1596 1610	adénocarcinome
+T73	morphologie 1616 1650	à prédominance solide et tubulaire
+T74	morphologie 1676 1686	infiltrant
+T34	topographie 1611 1614	LSD
+T35	differenciation 1652 1674	modérément différencié
+T36	morphologie 1695 1703	invasion
+T38	topographie 1704 1720	lymphovasculaire
+T39	morphologie 1758 1766	atteinte
+T41	topographie 1771 1806	ganglions lymphatiques médiastinaux
+T42	morphologie 2182 2189	nodules
+T44	topographie 2190 2201	pulmonaires
+T46	morphologie 2462 2482	progression tumorale
+T48	morphologie 2497 2507	métastases
+T49	morphologie 2702 2709	nodules
+T51	topographie 2710 2721	pulmonaires
+T52	morphologie 2864 2871	nodules
+T54	topographie 2872 2883	pulmonaires
+T56	morphologie 3891 3897	tumeur
+T57	morphologie 4044 4058	adénocarcinome
+T59	topographie 4059 4069	pulmonaire
+T61	morphologie 4073 4081	stade IV
+T63	morphologie 4229 4249	progression tumorale
+T64	morphologie 4260 4270	métastases
+T66	topographie 4281 4288	sternal
+T67	morphologie 4540 4550	métastases
+T69	topographie 4551 4562	pulmonaires
+T70	morphologie 4586 4595	métastase
+T72	topographie 4596 4604	sternale

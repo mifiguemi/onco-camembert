@@ -1,0 +1,31 @@
+T1	morphologie 129 135	tumeur
+T3	topographie 148 157	inguinale
+T5	morphologie 312 341	tumeur à cellules granuleuses
+T7	morphologie 343 346	GCT
+T8	morphologie 660 670	métastases
+T10	topographie 671 699	ganglionnaires médiastinales
+T11	morphologie 740 750	métastases
+T13	topographie 751 762	pulmonaires
+T15	morphologie 951 960	malignité
+T16	morphologie 975 981	lésion
+T18	topographie 1010 1020	œsophagien
+T19	topographie 1028 1038	oreillette
+T21	morphologie 1073 1078	foyer
+T23	morphologie 1228 1234	lésion
+T24	morphologie 1251 1257	tumeur
+T26	topographie 1289 1297	œsophage
+T28	morphologie 1375 1384	léiomyome
+T30	morphologie 1386 1400	léiomyosarcome
+T32	morphologie 1455 1500	tumeur à cellules granuleuses (T. d'Abrikosof
+T33	morphologie 1583 1589	Tumeur
+T50	morphologie 1598 1620	à cellules granuleuses
+T35	topographie 1590 1597	cutanée
+T36	morphologie 1626 1648	captation pathologique
+T38	topographie 1664 1672	œsophage
+T40	morphologie 1772 1778	tumeur
+T43	topographie 1998 2006	œsophage
+T44	morphologie 2012 2020	invasion
+T47	morphologie 2251 2257	Nodule
+T49	topographie 2258 2268	pulmonaire
+T46	topographie 2027 2037	musculeuse
+T41	morphologie 1959 1982	tumeur maligne atypique

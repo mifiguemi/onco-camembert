@@ -1,0 +1,69 @@
+T1	morphologie 67 83;96 108	tumeur germinale embryonnaire
+T2	expression_CIM 67 108	tumeur germinale extragonale embryonnaire
+T4	morphologie 114 124	métastases
+T5	expression_CIM 114 189	métastases pulmonaires et ganglionnaires médiastinales et rétropéritonéales
+T6	topographie 125 136	pulmonaires
+T7	topographie 140 189	ganglionnaires médiastinales et rétropéritonéales
+T8	expression_CIM 584 600	lésion pigmentée
+T9	morphologie 584 600	lésion pigmentée
+T10	expression_CIM 830 836	lésion
+T11	morphologie 830 836	lésion
+T12	expression_CIM 1271 1277	lésion
+T13	morphologie 1271 1277	lésion
+T14	expression_CIM 1370 1383	porocarcinome
+T15	morphologie 1370 1383	porocarcinome
+T16	morphologie 1596 1606	métastases
+T17	expression_CIM 1596 1649	métastases dans l'un des trois ganglions lymphatiques
+T18	topographie 1627 1649	ganglions lymphatiques
+T19	expression_CIM 1830 1836	tumeur
+T20	morphologie 1830 1836	tumeur
+T21	expression_CIM 1850 1871	Porocarcinome eccrine
+T22	morphologie 1850 1871	Porocarcinome eccrine
+T23	morphologie 1907 1915	atteinte
+T24	expression_CIM 1907 1942	atteinte des ganglions lymphatiques
+T25	topographie 1920 1941	ganglions lymphatique
+T26	expression_CIM 1970 2001	maladie métastatique à distance
+T27	morphologie 1970 2001	maladie métastatique à distance
+T28	morphologie 2465 2470	prise
+T29	expression_CIM 2465 2477	prise rénale
+T30	topographie 2471 2477	rénale
+T31	morphologie 2530 2536	lésion
+T32	expression_CIM 2530 2555	lésion dans le pôle rénal
+T33	topographie 2545 2555	pôle rénal
+T34	expression_CIM 2633 2643	oncocytome
+T35	morphologie 2633 2643	oncocytome
+T36	expression_CIM 2877 2895	maladie à distance
+T37	morphologie 2877 2895	maladie à distance
+T3	topographie 84 95	extragonale
+#1	ICD-O T1	9070/3
+#2	ICD-O T4	8000/6
+#3	ICD-O T5	C34.9 8000/6;C77.1 8000/6;C77.2 8000/6
+#4	ICD-O T6	C34.9
+#5	ICD-O T7	C77.1 
+#6	ICD-O T9	8720/1
+#7	ICD-O T10	8000/1
+#8	ICD-O T11	8000/1
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	8000/1
+#11	ICD-O T14	8409/3
+#12	ICD-O T15	8409/3
+#13	ICD-O T16	8000/6
+#14	ICD-O T17	C77.9 8000/6
+#15	ICD-O T18	C77.9
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	8000/3
+#18	ICD-O T21	8409/3
+#19	ICD-O T22	8409/3
+#20	ICD-O T23	8000/9
+#21	ICD-O T24	C77.9 8000/1
+#22	ICD-O T25	C77.9
+#23	ICD-O T27	8000/6
+#24	ICD-O T28	tocheck
+#25	ICD-O T30	C64.9
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	C64.9 8000/1
+#28	ICD-O T33	C64.9 
+#29	ICD-O T34	8290/0
+#30	ICD-O T35	8290/0
+#31	ICD-O T36	8000/6
+#32	ICD-O T37	8000/6

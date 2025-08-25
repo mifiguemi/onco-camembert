@@ -1,0 +1,70 @@
+T1	morphologie 177 191	adénocarcinome
+T2	expression_CIM 177 202	adénocarcinome pulmonaire
+T3	topographie 192 202	pulmonaire
+T4	expression_CIM 206 214	stade IV
+T5	morphologie 206 214	stade IV
+T6	expression_CIM 216 219	ADC
+T7	morphologie 216 219	ADC
+T8	expression_CIM 237 254	atteinte pleurale
+T9	topographie 246 254	pleurale
+T10	morphologie 271 281	métastases
+T11	expression_CIM 271 300	métastases osseuses (costales
+T12	topographie 282 290	osseuses
+T13	topographie 292 300	costales
+T14	morphologie 1471 1487	lymphadénopathie
+T15	expression_CIM 1471 1497	lymphadénopathie axillaire
+T16	topographie 1488 1497	axillaire
+T17	morphologie 1638 1644	lésion
+T18	expression_CIM 1638 1661	lésion paramédiastinale
+T19	topographie 1645 1661	paramédiastinale
+T20	morphologie 1794 1805	progression
+T21	expression_CIM 1794 1846	progression pulmonaire et des ganglions lymphatiques
+T22	topographie 1806 1816	pulmonaire
+T23	topographie 1824 1846	ganglions lymphatiques
+T24	morphologie 2169 2172	ADC
+T25	expression_CIM 2169 2193	ADC d'origine pulmonaire
+T26	topographie 2183 2193	pulmonaire
+T27	morphologie 2224 2227	ADC
+T28	expression_CIM 2224 2238	ADC pulmonaire
+T29	topographie 2228 2238	pulmonaire
+T30	morphologie 2239 2251	métastatique
+T31	expression_CIM 2239 2289	métastatique au niveau pulmonaire et ganglionnaire
+T32	topographie 2262 2272	pulmonaire
+T33	topographie 2276 2289	ganglionnaire
+T34	expression_CIM 3000 3035	atteinte parenchymateuse pulmonaire
+T35	topographie 3025 3035	pulmonaire
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C34.9 8140/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8140/3
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C38.4 8000/1
+#9	ICD-O T9	C38.4
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	C41.3 8000/6;C41.9 8000/6
+#12	ICD-O T12	C41.9
+#13	ICD-O T13	C41.3
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C77.3 8000/1
+#16	ICD-O T16	C76.1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C38.8 8000/1
+#19	ICD-O T19	C38.8
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C34.9 8000/6;C77.9 8000/6
+#22	ICD-O T22	C34.9
+#23	ICD-O T23	C77.9
+#24	ICD-O T24	8140/3
+#25	ICD-O T25	C34.9 8140/3
+#26	ICD-O T26	C34.9
+#27	ICD-O T27	8140/3
+#28	ICD-O T28	C34.9 8140/3
+#29	ICD-O T29	C34.9
+#30	ICD-O T30	8000/6
+#31	ICD-O T31	C34.9 8000/6;C77.9 8000/6
+#32	ICD-O T32	C34.9
+#33	ICD-O T33	C77.9
+#34	ICD-O T34	C34.9 8000/1
+#35	ICD-O T35	C34.9

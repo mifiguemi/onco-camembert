@@ -1,0 +1,16 @@
+T1	morphologie 84 105	carcinome épidermoïde
+T3	topographie 109 124	col de l'utérus
+T4	morphologie 314 335	carcinome épidermoïde
+T6	topographie 339 354	col de l'utérus
+T7	morphologie 361 369	atteinte
+T9	topographie 370 382	paramétriale
+T11	morphologie 393 419	adénopathies pathologiques
+T13	morphologie 667 674	lésions
+T14	morphologie 689 701	adénopathies
+T16	topographie 702 712	cervicales
+T17	topographie 716 729	médiastinales
+T18	morphologie 736 746	métastases
+T20	topographie 747 757	viscérales
+T21	topographie 768 778	pulmonaire
+T22	topographie 782 788	osseux
+T24	morphologie 1400 1424	progression de la tumeur

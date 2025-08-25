@@ -1,0 +1,34 @@
+T24	topographie 1188 1204	région cervicale
+T1	morphologie 145 151	nodule
+T3	topographie 152 162	thyroïdien
+T4	morphologie 256 262	Nodule
+T6	topographie 263 273	thyroïdien
+T7	topographie 321 336	lobe thyroïdien
+T8	morphologie 352 368	lymphadénopathie
+T10	topographie 369 384	latérocervicale
+T11	topographie 386 403	supraclaviculaire
+T12	topographie 405 414	axillaire
+T13	topographie 418 427	inguinale
+T14	morphologie 775 781	Nodule
+T16	topographie 782 792	thyroïdien
+T18	morphologie 806 820	tumeur maligne
+T19	morphologie 1018 1038	carcinome médullaire
+T21	topographie 1045 1053	thyroïde
+T23	morphologie 1172 1178	tumeur
+T26	morphologie 1227 1237	métastases
+T28	morphologie 1241 1244	CMT
+T29	morphologie 1259 1270	adénopathie
+T30	topographie 1385 1423	ganglions du triangle cervical central
+T32	morphologie 1440 1450	métastases
+T34	morphologie 1454 1457	MTC
+T35	topographie 1469 1478	ganglions
+T37	morphologie 1507 1510	MTC
+T38	morphologie 1523 1544	atteinte métastatique
+T40	topographie 1549 1571	ganglions lymphatiques
+T42	morphologie 1690 1712	foyer hypermétabolique
+T43	morphologie 1719 1730	adénopathie
+T45	topographie 1731 1746	latérocervicale
+T47	morphologie 2113 2120	maladie
+T48	morphologie 2444 2451	nodules
+T50	topographie 2452 2463	pulmonaires
+T52	morphologie 2511 2521	métastases

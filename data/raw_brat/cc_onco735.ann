@@ -1,0 +1,70 @@
+T6	topographie 701 727	cérébrale pariétotemporale
+T37	topographie 5265 5327	convexité inférieure et des structures operculaires sylviennes
+T1	morphologie 533 539	cancer
+T2	expression_CIM 533 547	cancer du sein
+T3	topographie 543 547	sein
+T4	morphologie 694 700	lésion
+T5	expression_CIM 694 727	lésion cérébrale pariétotemporale
+T7	morphologie 822 833	astrocytome
+T8	expression_CIM 822 845	astrocytome de grade II
+T9	differenciation 837 845	grade II
+T10	morphologie 866 883	oligodendrogliome
+T11	expression_CIM 866 895	oligodendrogliome de grade II
+T12	differenciation 887 895	grade II
+T13	morphologie 1071 1082	astrocytome
+T14	expression_CIM 1071 1094	astrocytome de grade II
+T15	differenciation 1086 1094	grade II
+T16	expression_CIM 1126 1132	lésion
+T17	morphologie 1126 1132	lésion
+T18	morphologie 1577 1597	progression tumorale
+T19	expression_CIM 1577 1623	progression tumorale au niveau du lobe frontal
+T20	topographie 1611 1623	lobe frontal
+T21	expression_CIM 2776 2782	lésion
+T22	morphologie 2776 2782	lésion
+T23	morphologie 2939 2950	astrocytome
+T24	expression_CIM 2939 2971	astrocytome cérébral de grade II
+T25	topographie 2951 2959	cérébral
+T26	differenciation 2963 2971	grade II
+T27	expression_CIM 3049 3055	tumeur
+T28	morphologie 3049 3055	tumeur
+T29	morphologie 3398 3404	tumeur
+T30	expression_CIM 3398 3436	tumeur au niveau sous-cortical frontal
+T31	topographie 3415 3436	sous-cortical frontal
+T32	morphologie 4457 4464	lésions
+T33	expression_CIM 4457 4474	lésions frontales
+T34	topographie 4465 4474	frontales
+T35	morphologie 5201 5221	progression tumorale
+T36	expression_CIM 5201 5327	progression tumorale importante, principalement au niveau de la convexité inférieure et des structures operculaires sylviennes
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C71.0 8000/1;C71.8 8000/1
+#6	ICD-O T7	9400/3
+#7	ICD-O T8	9400/32
+#8	ICD-O T9	2
+#9	ICD-O T10	9450/3
+#10	ICD-O T11	9450/32
+#11	ICD-O T12	2
+#12	ICD-O T13	9400/3
+#13	ICD-O T14	9400/32
+#14	ICD-O T15	2
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/3
+#18	ICD-O T20	C71.1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	9400/3
+#22	ICD-O T24	C71.0 9400/32
+#23	ICD-O T25	C71.0
+#24	ICD-O T26	2
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C71.1 8000/1
+#29	ICD-O T31	C71.1
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	C71.1 8000/1
+#32	ICD-O T34	C71.1
+#33	ICD-O T35	8000/3

@@ -1,0 +1,66 @@
+T1	morphologie 576 582	tumeur
+T2	expression_CIM 576 616	tumeur au niveau de l'ethmoïde supérieur
+T3	topographie 598 616	ethmoïde supérieur
+T4	expression_CIM 713 734	infiltration tumorale
+T5	morphologie 713 734	infiltration tumorale
+T6	expression_CIM 844 863	atteinte à distance
+T7	morphologie 844 863	atteinte à distance
+T8	morphologie 1012 1026	adénocarcinome
+T9	expression_CIM 1012 1059	adénocarcinome entérique modérément différencié
+T10	topographie 1027 1036	entérique
+T11	differenciation 1037 1059	modérément différencié
+T12	expression_CIM 1192 1204	adénopathies
+T13	morphologie 1192 1204	adénopathies
+T14	morphologie 1546 1551	masse
+T15	expression_CIM 1546 1566	masse dans la narine
+T16	topographie 1560 1566	narine
+T17	morphologie 1613 1621	atteinte
+T18	expression_CIM 1613 1649	atteinte focale de la cloison nasale
+T19	topographie 1635 1649	cloison nasale
+T20	morphologie 1827 1857	extension du processus tumoral
+T21	expression_CIM 1827 1866	extension du processus tumoral au crâne
+T22	topographie 1861 1866	crâne
+T23	expression_CIM 1871 1877	lésion
+T24	morphologie 1871 1877	lésion
+T25	expression_CIM 2053 2060	nodules
+T26	morphologie 2053 2060	nodules
+T27	expression_CIM 2066 2078	adénopathies
+T28	morphologie 2066 2078	adénopathies
+T29	morphologie 2100 2132	Adénocarcinome de type entérique
+T30	expression_CIM 2100 2145	Adénocarcinome de type entérique de la narine
+T31	topographie 2139 2145	narine
+T32	expression_CIM 2644 2650	lésion
+T33	morphologie 2644 2650	lésion
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C41.0 8000/1
+#3	ICD-O T3	C41.0
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8140/3
+#9	ICD-O T9	C26.0 8140/32
+#10	ICD-O T10	C26.0
+#11	ICD-O T11	2
+#12	ICD-O T12	C77.9 8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C30.0 8000/1
+#16	ICD-O T16	C30.0
+#17	ICD-O T17	8000/9
+#18	ICD-O T18	C30.0 8000/6
+#19	ICD-O T19	C30.0
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C41.0
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C77.9 8000/1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8144/3
+#30	ICD-O T30	C30.0 8144/3
+#31	ICD-O T31	C30.0
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	8000/1

@@ -1,0 +1,92 @@
+T108	topographie 5050 5090	fenêtre paratrachéale et aortopulmonaire
+T82	topographie 4203 4222	intraparenchymateux
+T72	topographie 3670 3701	intrathoracique extrapulmonaire
+T89	topographie 4339 4342	LII
+T41	topographie 2151 2173	paratrachéal supérieur
+T116	topographie 5288 5349	région extrathoracique au contact du muscle serratus anterior
+T1	morphologie 166 196	carcinome canalaire infiltrant
+T3	topographie 200 204	sein
+T4	morphologie 522 536	adénocarcinome
+T6	topographie 540 554	lobe supérieur
+T7	topographie 564 570	poumon
+T8	morphologie 594 605	adénopathie
+T10	topographie 606 613	hilaire
+T11	morphologie 644 655	adénopathie
+T13	topographie 656 669	pré-trachéale
+T14	morphologie 744 749	masse
+T16	topographie 750 760	pulmonaire
+T17	morphologie 766 777	adénopathie
+T19	topographie 778 790	médiastinale
+T20	morphologie 939 950	adénopathie
+T22	topographie 951 963	médiastinale
+T24	morphologie 989 1004	lésion primaire
+T26	morphologie 1189 1203	adénocarcinome
+T27	morphologie 1700 1712	micronodules
+T29	topographie 1713 1724	pulmonaires
+T30	morphologie 1772 1778	nodule
+T32	topographie 1779 1790	surrénalien
+T34	morphologie 1934 1940	lésion
+T36	morphologie 2002 2016	adénocarcinome
+T37	morphologie 2069 2081	adénopathies
+T42	morphologie 2203 2208	foyer
+T44	topographie 2209 2215	osseux
+T45	topographie 2224 2237	tête fémorale
+T46	morphologie 2261 2268	nodules
+T48	topographie 2269 2280	pulmonaires
+T49	morphologie 2635 2646	progression
+T51	topographie 2647 2656	cérébrale
+T52	morphologie 2668 2678	métastases
+T54	topographie 2679 2689	cérébrales
+T55	morphologie 2698 2710	adénopathies
+T57	topographie 2718 2732	paratrachéales
+T58	morphologie 2756 2766	métastases
+T60	topographie 2767 2778	pulmonaires
+T61	morphologie 3157 3164	lésions
+T63	topographie 3209 3218	corticale
+T64	morphologie 3514 3525	Adénopathie
+T66	topographie 3526 3540	rétropectorale
+T67	morphologie 3573 3580	lésions
+T69	topographie 3628 3643	muscle pectoral
+T70	morphologie 3654 3659	masse
+T73	morphologie 3891 3903	Adénopathies
+T75	topographie 3904 3918	paratrachéales
+T76	morphologie 4053 4065	adénopathies
+T78	topographie 4066 4074	hilaires
+T79	morphologie 4124 4131	nodules
+T81	topographie 4132 4143	pulmonaires
+T85	morphologie 4262 4272	métastases
+T86	morphologie 4278 4285	nodules
+T88	topographie 4329 4332	LID
+T90	morphologie 4496 4503	lésions
+T92	topographie 4504 4514	hépatiques
+T93	morphologie 4581 4593	adénopathies
+T95	topographie 4594 4620	intra ou rétropéritonéales
+T96	topographie 4703 4716	tête fémorale
+T98	morphologie 4739 4745	lésion
+T100	morphologie 4885 4894	métastase
+T101	morphologie 4927 4934	nodules
+T103	topographie 4935 4946	pulmonaires
+T105	morphologie 5013 5022	métastase
+T106	morphologie 5024 5035	Adénopathie
+T109	morphologie 5140 5151	Adénopathie
+T111	topographie 5152 5166	rétropectorale
+T112	morphologie 5210 5217	Lésions
+T114	morphologie 5230 5235	masse
+T115	topographie 5255 5270	muscle pectoral
+T117	morphologie 5357 5363	Lésion
+T119	topographie 5372 5386	sous-chondrale
+T121	morphologie 5453 5462	métastase
+T123	morphologie 5503 5514	adénopathie
+T125	morphologie 5571 5589	cellules tumorales
+T126	morphologie 5591 5605	adénocarcinome
+T128	topographie 5616 5626	pulmonaire
+T129	morphologie 5717 5731	Adénocarcinome
+T131	topographie 5732 5742	pulmonaire
+T133	morphologie 5761 5781	maladie métastatique
+T134	morphologie 6214 6221	lésions
+T136	topographie 6222 6232	cérébrales
+T137	morphologie 6540 6551	progression
+T139	topographie 6552 6561	cérébrale
+T83	topographie 4226 4239	sous-pleuraux
+T39	topographie 2111 2121	subcarinal
+T40	topographie 2123 2140	trachéobronchique

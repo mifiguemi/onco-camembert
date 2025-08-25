@@ -1,0 +1,120 @@
+T1	morphologie 146 152	nodule
+T2	expression_CIM 146 182	nodule hypoactif dans l'hémithyroïde
+T3	topographie 170 182	hémithyroïde
+T4	expression_CIM 236 242	nodule
+T5	morphologie 236 242	nodule
+T6	morphologie 285 294	extension
+T7	expression_CIM 285 310	extension intrathoracique
+T8	topographie 295 310	intrathoracique
+T9	expression_CIM 368 385	cellules malignes
+T10	morphologie 368 385	cellules malignes
+T11	expression_CIM 470 476	nodule
+T12	morphologie 470 476	nodule
+T13	morphologie 542 559	cellules malignes
+T14	expression_CIM 542 578	cellules malignes d'origine mammaire
+T15	topographie 570 578	mammaire
+T16	expression_CIM 646 655	métastase
+T17	morphologie 646 655	métastase
+T18	morphologie 661 696	carcinome lobulaire infiltrant (ILC
+T19	expression_CIM 661 705	carcinome lobulaire infiltrant (ILC) du sein
+T20	topographie 701 705	sein
+T21	morphologie 787 793	nodule
+T22	expression_CIM 787 806	nodule dans le sein
+T23	topographie 802 806	sein
+T24	expression_CIM 902 905	ILC
+T25	morphologie 902 905	ILC
+T26	expression_CIM 1088 1099	adénopathie
+T27	morphologie 1088 1099	adénopathie
+T28	morphologie 1120 1128	atteinte
+T29	expression_CIM 1120 1136	atteinte cutanée
+T30	topographie 1129 1136	cutanée
+T31	morphologie 1151 1157	nodule
+T32	expression_CIM 1151 1200	nodule de 4 cm dans le quadrant supérieur externe
+T33	topographie 1174 1200	quadrant supérieur externe
+T34	expression_CIM 1665 1668	CLI
+T35	morphologie 1665 1668	CLI
+T36	expression_CIM 1691 1712	cellules néoplasiques
+T37	morphologie 1691 1712	cellules néoplasiques
+T38	morphologie 1884 1890	foyers
+T39	expression_CIM 1884 1983	foyers dans le sein droit dans le quadrant supéro-externe (plus de 33 x 25 mm et un rétro-aréolaire
+T40	topographie 1899 1903	sein
+T41	topographie 1918 1941	quadrant supéro-externe
+T42	topographie 1968 1983	rétro-aréolaire
+T43	morphologie 2060 2070	métastases
+T44	expression_CIM 2060 2079	métastases osseuses
+T45	topographie 2071 2079	osseuses
+T46	morphologie 2103 2133	Carcinome lobulaire infiltrant
+T47	expression_CIM 2103 2141	Carcinome lobulaire infiltrant du sein
+T48	topographie 2137 2141	sein
+T49	expression_CIM 2151 2159	stade IV
+T50	morphologie 2151 2159	stade IV
+T51	morphologie 2161 2171	métastases
+T52	expression_CIM 2161 2197	métastases osseuses et thyroïdiennes
+T53	topographie 2172 2180	osseuses
+T54	topographie 2184 2197	thyroïdiennes
+T55	morphologie 2756 2764	atteinte
+T56	expression_CIM 2756 2778	atteinte ganglionnaire
+T57	topographie 2765 2778	ganglionnaire
+T58	morphologie 3052 3062	métastases
+T59	expression_CIM 3052 3071	métastases osseuses
+T60	topographie 3063 3071	osseuses
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C73.9 8000/1
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C76.1 8000/6
+#8	ICD-O T8	C76.1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C50.9 8000/1
+#15	ICD-O T15	C50.9
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	8520/3
+#19	ICD-O T19	C50.9 8520/3
+#20	ICD-O T20	C50.9
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C50.9 8000/1
+#23	ICD-O T23	C50.9
+#24	ICD-O T24	8520/3
+#25	ICD-O T25	8520/3
+#26	ICD-O T26	C77.9 8000/1
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C44.9 8000/1
+#30	ICD-O T30	C44.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	C50.4 8000/1
+#33	ICD-O T33	C50.4
+#34	ICD-O T34	8520/2
+#35	ICD-O T35	8520/2
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	C50.1 8000/1;C50.4 8000/1;C50.9 8000/1
+#40	ICD-O T40	C50.9
+#41	ICD-O T41	C50.4
+#42	ICD-O T42	C50.1
+#43	ICD-O T43	8000/6
+#44	ICD-O T44	C41.9 8000/6
+#45	ICD-O T45	C41.9
+#46	ICD-O T46	8520/3
+#47	ICD-O T47	C50.9 8520/3
+#48	ICD-O T48	C50.9
+#49	ICD-O T49	8000/6
+#50	ICD-O T50	8000/6
+#51	ICD-O T51	8000/6
+#52	ICD-O T52	C41.9 8000/6;C73.9 8000/6
+#53	ICD-O T53	C41.9
+#54	ICD-O T54	C73.9
+#55	ICD-O T55	8000/1
+#56	ICD-O T56	C77.9 8000/1
+#57	ICD-O T57	C77.9
+#58	ICD-O T58	8000/6
+#59	ICD-O T59	C41.9 8000/6
+#60	ICD-O T60	C41.9

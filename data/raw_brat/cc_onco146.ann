@@ -1,0 +1,121 @@
+T1	morphologie 567 573	tumeur
+T2	expression_CIM 567 588	tumeur sur l'hémiface
+T3	topographie 580 588	hémiface
+T4	morphologie 963 969	tumeur
+T5	expression_CIM 963 1010	tumeur solide dans l'angle trigone mandibulaire
+T6	topographie 984 1010	angle trigone mandibulaire
+T7	morphologie 1437 1443	lésion
+T8	expression_CIM 1437 1495	lésion osseuse lytique expansive dans l'angle mandibulaire
+T9	topographie 1444 1451;1470 1495	osseuse dans l'angle mandibulaire
+T10	expression_CIM 1760 1790	tumeur odontogène sarcomateuse
+T11	morphologie 1760 1790	tumeur odontogène sarcomateuse
+T12	morphologie 1815 1821	tumeur
+T13	expression_CIM 1815 1860	tumeur dans le ramus expansif de la mandibule
+T14	topographie 1851 1860	mandibule
+T15	morphologie 1892 1903	destruction
+T16	expression_CIM 1892 1911	destruction osseuse
+T17	topographie 1904 1911	osseuse
+T18	expression_CIM 2100 2116	lymphadénopathie
+T19	morphologie 2100 2116	lymphadénopathie
+T20	expression_CIM 2581 2593	ostéosarcome
+T21	morphologie 2581 2593	ostéosarcome
+T22	morphologie 2731 2743	ostéosarcome
+T23	expression_CIM 2731 2776	ostéosarcome localement avancé de la mâchoire
+T24	topographie 2768 2776	mâchoire
+T25	morphologie 2938 2950	ostéosarcome
+T26	expression_CIM 2938 2965	ostéosarcome de la mâchoire
+T27	topographie 2957 2965	mâchoire
+T28	morphologie 3010 3041	dépôts pathologiques d'activité
+T29	expression_CIM 3010 3205	dépôts pathologiques d'activité dans le squelette, mettant en évidence les deux omoplates, la colonne vertébrale, la cage thoracique, les deux iliaques et les deux métaphyses fémorales proximales
+T31	topographie 3090 3099	omoplates
+T32	topographie 3104 3122	colonne vertébrale
+T33	topographie 3127 3142	cage thoracique
+T36	morphologie 3296 3303	lésions
+T37	expression_CIM 3296 3312	lésions osseuses
+T38	topographie 3304 3312	osseuses
+T39	morphologie 3366 3374	atteinte
+T40	expression_CIM 3366 3382	atteinte osseuse
+T41	topographie 3375 3382	osseuse
+T42	morphologie 3389 3399	métastases
+T43	expression_CIM 3389 3408	métastases osseuses
+T44	topographie 3400 3408	osseuses
+T45	expression_CIM 3472 3479	lésions
+T46	morphologie 3472 3479	lésions
+T47	expression_CIM 3567 3585	cellules tumorales
+T48	morphologie 3567 3585	cellules tumorales
+T49	morphologie 3634 3644	sarcoïdose
+T50	expression_CIM 3634 3652	sarcoïdose osseuse
+T51	topographie 3645 3652	osseuse
+T52	morphologie 3675 3683;3692 3704	atteinte métastatique
+T53	expression_CIM 3675 3704	atteinte osseuse métastatique
+T54	topographie 3684 3691	osseuse
+T55	morphologie 3714 3726	ostéosarcome
+T56	expression_CIM 3714 3739	ostéosarcome mandibulaire
+T57	topographie 3727 3739	mandibulaire
+T58	expression_CIM 4393 4405	adénopathies
+T59	morphologie 4393 4405	adénopathies
+T60	expression_CIM 4492 4504	ostéosarcome
+T61	morphologie 4492 4504	ostéosarcome
+T62	morphologie 5423 5435	ostéosarcome
+T63	expression_CIM 5423 5448	ostéosarcome mandibulaire
+T64	topographie 5436 5448	mandibulaire
+T34	topographie 3153 3161	iliaques
+T35	topographie 3174 3205	métaphyses fémorales proximales
+T30	topographie 3050 3059	squelette
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C41.1 8000/1
+#6	ICD-O T6	C41.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C41.9
+#9	ICD-O T10	9270/3
+#10	ICD-O T11	9270/3
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C41.1 8000/1
+#13	ICD-O T14	C41.1
+#14	ICD-O T15	tocheck
+#15	ICD-O T17	C41.9
+#16	ICD-O T18	C77.9 8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	9180/3
+#19	ICD-O T21	9180/3
+#20	ICD-O T22	9180/3
+#21	ICD-O T23	C41.1 9180/3
+#22	ICD-O T24	C41.1
+#23	ICD-O T25	9180/3
+#24	ICD-O T26	C41.1 9180/3
+#25	ICD-O T27	C41.1
+#26	ICD-O T28	8000/6
+#27	ICD-O T31	C40.0 
+#28	ICD-O T32	C41.2
+#29	ICD-O T33	C76.1
+#30	ICD-O T36	8000/1
+#31	ICD-O T37	C41.9 8000/1
+#32	ICD-O T38	C41.9
+#33	ICD-O T39	8000/1
+#34	ICD-O T40	C41.9 8000/1
+#35	ICD-O T41	C41.9
+#36	ICD-O T42	8000/6
+#37	ICD-O T43	C41.9 8000/6
+#38	ICD-O T44	C41.9
+#39	ICD-O T45	8000/1
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	8001/1
+#42	ICD-O T48	8001/1
+#43	ICD-O T49	todelete
+#44	ICD-O T51	C41.9
+#45	ICD-O T52	8000/6
+#46	ICD-O T53	C41.9 8000/6
+#47	ICD-O T54	C41.9
+#48	ICD-O T55	9180/3
+#49	ICD-O T56	C41.1 9180/3
+#50	ICD-O T57	C41.1
+#51	ICD-O T58	C77.9 8000/1
+#52	ICD-O T59	8000/1
+#53	ICD-O T60	9180/3
+#54	ICD-O T61	9180/3
+#55	ICD-O T62	9180/3
+#56	ICD-O T63	C41.1 9180/3
+#57	ICD-O T64	C41.1

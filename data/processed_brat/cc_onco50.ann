@@ -1,0 +1,26 @@
+T1	morphologie 140 146	lésion
+T3	topographie 155 189	quadrant inférieur externe du sein
+T5	morphologie 225 231	lésion
+T7	morphologie 473 479	foyers
+T8	morphologie 483 513	carcinome canalaire infiltrant
+T10	morphologie 515 518	CDI
+T11	differenciation 523 532	grade III
+T12	morphologie 557 565	invasion
+T14	topographie 566 576	vasculaire
+T16	morphologie 865 883	maladie à distance
+T17	morphologie 908 938	carcinome canalaire infiltrant
+T19	differenciation 942 949	grade 3
+T20	topographie 964 968	sein
+T22	morphologie 1708 1714	Tumeur
+T24	morphologie 2661 2673	angiosarcome
+T25	morphologie 2782 2788	nodule
+T27	topographie 2789 2801	sous-pleural
+T28	morphologie 2817 2823	lésion
+T30	topographie 2824 2833	hépatique
+T31	morphologie 2934 2963	lésion métaboliquement active
+T33	topographie 2991 3002	DCI du sein
+T34	morphologie 3068 3080	Angiosarcome
+T36	topographie 3084 3088	sein
+T38	morphologie 3221 3230	néoplasme
+T39	morphologie 3494 3500	lésion
+T41	topographie 3538 3544	MD ICD

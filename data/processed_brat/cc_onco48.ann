@@ -1,0 +1,42 @@
+T1	morphologie 237 246	néoplasie
+T3	topographie 247 256	ovarienne
+T4	morphologie 366 372	nodule
+T6	topographie 373 381	mammaire
+T7	morphologie 388 397	carcinome
+T9	topographie 398 406	mammaire
+T10	morphologie 581 587	cancer
+T12	topographie 591 595	sein
+T13	differenciation 605 614	grade III
+T14	stadeTNM 616 622	pT1aN0
+T15	topographie 624 628	sein
+T16	morphologie 672 678	cancer
+T18	topographie 682 686	sein
+T19	differenciation 697 706	grade III
+T21	morphologie 1217 1236	atteinte à distance
+T22	morphologie 1250 1253	CDI
+T24	topographie 1257 1261	sein
+T25	differenciation 1268 1277	grade III
+T26	morphologie 1332 1335	CDI
+T28	topographie 1339 1343	sein
+T29	differenciation 1351 1360	grade III
+T30	topographie 1504 1524	ganglions axillaires
+T32	morphologie 1533 1542	impliqués
+T33	morphologie 1990 1996	cancer
+T35	topographie 2000 2004	sein
+T36	topographie 2013 2019	ovaire
+T37	morphologie 2021 2027	cancer
+T39	topographie 2031 2035	sein
+T40	morphologie 2240 2246	tumeur
+T42	topographie 2250 2266	membre inférieur
+T43	morphologie 2291 2305	léiomyosarcome
+T45	topographie 2310 2341	tissus mous du membre inférieur
+T46	differenciation 2354 2362	grade II
+T47	morphologie 2691 2727	cystadénocarcinome papillaire séreux
+T49	differenciation 2731 2741	haut grade
+T50	morphologie 2912 2921	carcinome
+T52	topographie 2922 2929	ovarien
+T53	morphologie 2947 2961	adénocarcinome
+T60	morphologie 2973 2978	mixte
+T55	topographie 2962 2972	pulmonaire
+T57	morphologie 3223 3230	tumeurs
+T59	morphologie 3686 3692	tumeur

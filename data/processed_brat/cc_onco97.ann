@@ -1,0 +1,14 @@
+T1	morphologie 1168 1184	lésion nodulaire
+T3	topographie 1192 1201	hémicavum
+T4	morphologie 1286 1297	adénopathie
+T6	topographie 1298 1307	cervicale
+T8	morphologie 2092 2115	pathologie néoformative
+T9	morphologie 2611 2620	carcinome
+T11	differenciation 2621 2636	peu différencié
+T12	morphologie 2655 2671	lésion nodulaire
+T14	topographie 2679 2688	hémicavum
+T16	morphologie 2708 2732	lésion tumorale primaire
+T17	morphologie 2746 2755	Carcinome
+T19	differenciation 2756 2771	peu différencié
+T20	topographie 2777 2786	hémicavum
+T22	morphologie 4930 4941	lit tumoral

@@ -1,0 +1,97 @@
+T17	topographie 1030 1041	axe iliaque
+T1	morphologie 346 360	adénocarcinome
+T2	expression_CIM 346 374	adénocarcinome du col utérin
+T3	topographie 364 374	col utérin
+T4	morphologie 593 598	masse
+T5	expression_CIM 593 660	masse d'environ 50 x 32 mm a été visualisée dans le col de l'utérus
+T6	topographie 645 660	col de l'utérus
+T7	morphologie 695 709	adénocarcinome
+T8	expression_CIM 695 770	adénocarcinome modérément différencié, probablement d'origine endocervicale
+T9	differenciation 710 732	modérément différencié
+T10	topographie 757 770	endocervicale
+T11	morphologie 778 786	invasion
+T12	expression_CIM 778 818	invasion lymphovasculaire ou périneurale
+T13	topographie 787 803	lymphovasculaire
+T14	topographie 807 818	périneurale
+T15	morphologie 952 964	adénopathies
+T16	expression_CIM 952 1041	adénopathies d'aspect pathologique, dont la plus importante se situait dans l'axe iliaque
+T18	expression_CIM 1682 1688	masses
+T19	morphologie 1682 1688	masses
+T20	expression_CIM 2538 2556	processus expansif
+T21	morphologie 2538 2556	processus expansif
+T22	morphologie 2911 2925	adénocarcinome
+T23	expression_CIM 2911 2944	adénocarcinome du col de l'utérus
+T24	topographie 2929 2944	col de l'utérus
+T25	morphologie 4561 4584	lésion hypermétabolique
+T26	expression_CIM 4561 4603	lésion hypermétabolique du col de l'utérus
+T27	topographie 4588 4603	col de l'utérus
+T28	morphologie 4711 4723	infiltration
+T29	expression_CIM 4711 4737	infiltration du mésorectum
+T30	topographie 4727 4737	mésorectum
+T31	morphologie 4749 4779	adénopathies hypermétaboliques
+T32	expression_CIM 4749 4834	adénopathies hypermétaboliques rétrocrurales, rétropéritonéales et supraclaviculaires
+T33	topographie 4780 4793	rétrocrurales
+T34	topographie 4795 4812	rétropéritonéales
+T35	topographie 4816 4834	supraclaviculaires
+T36	morphologie 6569 6576	lésions
+T37	expression_CIM 6569 6587	lésions cérébrales
+T38	topographie 6577 6587	cérébrales
+T39	morphologie 6810 6819	carcinome
+T40	expression_CIM 6810 6828	carcinome cervical
+T41	topographie 6820 6828	cervical
+T42	expression_CIM 6832 6840	stade IV
+T43	morphologie 6832 6840	stade IV
+T44	morphologie 6842 6854	adénopathies
+T45	expression_CIM 6842 6872	adénopathies sus-claviculaires
+T46	topographie 6855 6872	sus-claviculaires
+T47	morphologie 6884 6896	infiltration
+T48	expression_CIM 6884 6908	infiltration mésorectale
+T49	topographie 6897 6908	mésorectale
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C53.9 8140/3
+#3	ICD-O T3	C53.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C53.9 8000/1
+#6	ICD-O T6	C53.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C53.0 8140/32
+#9	ICD-O T9	2
+#10	ICD-O T10	C53.0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C47.9 8000/1;C49.9 8000/1
+#13	ICD-O T13	C49.9
+#14	ICD-O T14	C47.9
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C77.5 8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8000/3
+#20	ICD-O T21	8000/3
+#21	ICD-O T22	8140/3
+#22	ICD-O T23	C53.9 8140/3
+#23	ICD-O T24	C53.9
+#24	ICD-O T25	8000/9
+#25	ICD-O T26	C53.9 8000/1
+#26	ICD-O T27	C53.9
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	C49.5 8000/1
+#29	ICD-O T30	C49.5
+#30	ICD-O T31	8000/6
+#31	ICD-O T32	C77.0 8000/1;C77.2 8000/1;C77.4 8000/1
+#32	ICD-O T33	C76.3
+#33	ICD-O T34	C48.0
+#34	ICD-O T35	C76.0
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	C71.0 8000/1
+#37	ICD-O T38	C71.0
+#38	ICD-O T39	8010/3
+#39	ICD-O T40	C76.0 8010/3
+#40	ICD-O T41	C76.0
+#41	ICD-O T42	8000/6
+#42	ICD-O T43	8000/6
+#43	ICD-O T44	8000/1
+#44	ICD-O T45	C77.0 8000/1
+#45	ICD-O T46	C76.0
+#46	ICD-O T47	8000/1
+#47	ICD-O T48	C49.5 8000/1
+#48	ICD-O T49	C49.5

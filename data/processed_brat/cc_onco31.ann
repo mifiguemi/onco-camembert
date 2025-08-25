@@ -1,0 +1,27 @@
+T33	topographie 5123 5132	épigastre
+T26	topographie 3902 3927	espace gastropancréatique
+T2	morphologie 1346 1353	lésions
+T3	morphologie 1809 1815	tumeur
+T5	topographie 1864 1877	anse jéjunale
+T7	morphologie 2046 2052	lésion
+T8	morphologie 2195 2201	tumeur
+T10	topographie 2245 2258	anse jéjunale
+T11	morphologie 2319 2331	adénopathies
+T13	topographie 2340 2360	territoire aortocave
+T15	morphologie 2408 2414	tumeur
+T17	morphologie 2680 2714	tumeur stromale gastro-intestinale
+T19	morphologie 3008 3026	maladie à distance
+T21	morphologie 3418 3430	adénopathies
+T23	morphologie 3793 3802	néoplasie
+T24	morphologie 3878 3883	masse
+T28	morphologie 4006 4015	néoplasie
+T30	morphologie 4158 4162	GIST
+T31	morphologie 5045 5050	masse
+T34	morphologie 5429 5441	Adénopathies
+T36	topographie 5457 5487	adjacentes à l'antre gastrique
+T37	morphologie 6004 6012	récidive
+T47	morphologie 6028 6043	tumeur primaire
+T40	morphologie 6521 6551	tumeur inflammatoire chronique
+T42	morphologie 7784 7805	processus néoplasique
+T44	morphologie 7807 7818	Adénopathie
+T46	morphologie 7875 7884	néoplasie

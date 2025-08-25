@@ -1,0 +1,150 @@
+T12	topographie 742 752	dos du nez
+T66	topographie 3844 3875	fosse nasale postéro-supérieure
+T1	morphologie 186 192	tumeur
+T2	expression_CIM 186 199	tumeur nasale
+T3	topographie 193 199	nasale
+T4	morphologie 303 309	tumeur
+T5	expression_CIM 303 357	tumeur molle au niveau bilatéral de la pyramide nasale
+T6	topographie 342 357	pyramide nasale
+T7	morphologie 402 408	lésion
+T8	expression_CIM 402 463	lésion blanchâtre d'aspect malpighien médiane du cornet moyen
+T9	topographie 451 463	cornet moyen
+T10	morphologie 715 720	masse
+T11	expression_CIM 715 752	masse de tissu mou dans le dos du nez
+T13	morphologie 855 864	carcinome
+T14	expression_CIM 855 891	carcinome nasosinusien indifférencié
+T15	topographie 865 877	nasosinusien
+T16	differenciation 878 891	indifférencié
+T17	expression_CIM 1138 1144	lésion
+T18	morphologie 1138 1144	lésion
+T19	morphologie 1196 1205	carcinome
+T20	expression_CIM 1196 1232	carcinome nasosinusien indifférencié
+T21	topographie 1206 1218	nasosinusien
+T22	differenciation 1219 1232	indifférencié
+T23	morphologie 1238 1250	infiltration
+T24	expression_CIM 1238 1264	infiltration de l'ethmoïde
+T25	topographie 1256 1264	ethmoïde
+T26	expression_CIM 1483 1491	récidive
+T27	morphologie 1483 1491	récidive
+T28	expression_CIM 1617 1625	récidive
+T29	morphologie 1617 1625	récidive
+T30	expression_CIM 1687 1693	lésion
+T31	morphologie 1687 1693	lésion
+T32	morphologie 1708 1716	récidive
+T33	expression_CIM 1708 1730	récidive dans le cavum
+T34	topographie 1725 1730	cavum
+T35	morphologie 1829 1841	adénopathies
+T36	expression_CIM 1829 1857	adénopathies rétropharyngées
+T37	topographie 1842 1857	rétropharyngées
+T38	morphologie 1904 1913	carcinome
+T39	expression_CIM 1904 1927	carcinome indifférencié
+T40	differenciation 1914 1927	indifférencié
+T41	expression_CIM 1950 1993	carcinome neuroendocrine à petites cellules
+T42	morphologie 1950 1993	carcinome neuroendocrine à petites cellules
+T43	morphologie 2528 2540	adénopathies
+T44	expression_CIM 2528 2557	adénopathies latérocervicales
+T45	topographie 2541 2557	latérocervicales
+T46	expression_CIM 2602 2616	tumeur maligne
+T47	morphologie 2602 2616	tumeur maligne
+T48	morphologie 2643 2649	lésion
+T49	expression_CIM 2643 2670	lésion du septum postérieur
+T50	topographie 2653 2670	septum postérieur
+T51	expression_CIM 3063 3087	infiltration néoplasique
+T52	morphologie 3063 3087	infiltration néoplasique
+T53	morphologie 3171 3183	adénopathies
+T54	expression_CIM 3171 3194	adénopathies cervicales
+T55	topographie 3184 3194	cervicales
+T56	expression_CIM 3226 3252	adénopathies pathologiques
+T57	morphologie 3226 3252	adénopathies pathologiques
+T58	expression_CIM 3282 3294	adénopathies
+T59	morphologie 3282 3294	adénopathies
+T60	expression_CIM 3361 3369	récidive
+T61	morphologie 3361 3369	récidive
+T62	expression_CIM 3700 3706	lésion
+T63	morphologie 3700 3706	lésion
+T64	morphologie 3829 3835	tumeur
+T65	expression_CIM 3829 3875	tumeur dans la fosse nasale postéro-supérieure
+T67	morphologie 4149 4173	carcinome neuroendocrine
+T68	expression_CIM 4149 4179	carcinome neuroendocrine nasal
+T69	topographie 4174 4179	nasal
+T70	morphologie 4956 4964	atteinte
+T71	expression_CIM 4956 5061	atteinte des cellules ethmoïdales, des sinus sphénoïdes, de la selle turcique et de l'apophyse ptérygoïde
+T72	topographie 4969 4989	cellules ethmoïdales
+T73	topographie 4995 5011	sinus sphénoïdes
+T74	topographie 5019 5033	selle turcique
+T75	topographie 5042 5061	apophyse ptérygoïde
+T76	expression_CIM 5783 5800	atteinte tumorale
+T77	morphologie 5783 5800	atteinte tumorale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C30.0 8000/1
+#3	ICD-O T3	C30.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C30.0 8000/1
+#9	ICD-O T9	C30.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T13	8010/3
+#12	ICD-O T14	C31.8 8010/34
+#13	ICD-O T15	C31.8
+#14	ICD-O T16	4
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8010/3
+#18	ICD-O T20	C31.8 8010/34
+#19	ICD-O T21	C31.8
+#20	ICD-O T22	4
+#21	ICD-O T23	8000/9
+#22	ICD-O T24	C41.0 8000/1
+#23	ICD-O T25	C41.0
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/9
+#26	ICD-O T28	8000/6
+#27	ICD-O T29	8000/9
+#28	ICD-O T30	8000/1
+#29	ICD-O T31	8000/1
+#30	ICD-O T32	8000/9
+#31	ICD-O T33	C11.9 8000/6
+#32	ICD-O T34	C11.9
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	C77.0 8000/1
+#35	ICD-O T37	C14.0
+#36	ICD-O T38	8010/3
+#37	ICD-O T39	8010/34
+#38	ICD-O T40	4
+#39	ICD-O T41	8041/3
+#40	ICD-O T42	8041/3
+#41	ICD-O T43	8000/1
+#42	ICD-O T44	C77.0 8000/1
+#43	ICD-O T45	C76.0
+#44	ICD-O T46	8000/3
+#45	ICD-O T47	8000/3
+#46	ICD-O T48	8000/1
+#47	ICD-O T49	C11.3 8000/1
+#48	ICD-O T50	C11.3
+#49	ICD-O T51	8000/1
+#50	ICD-O T52	8000/9
+#51	ICD-O T53	8000/1
+#52	ICD-O T54	C77.0 8000/1
+#53	ICD-O T55	C76.0
+#54	ICD-O T56	C77.9 8000/1
+#55	ICD-O T57	8000/6
+#56	ICD-O T58	C77.9 8000/1
+#57	ICD-O T59	8000/1
+#58	ICD-O T60	8000/6
+#59	ICD-O T61	8000/9
+#60	ICD-O T62	8000/1
+#61	ICD-O T63	8000/1
+#62	ICD-O T64	8000/3
+#63	ICD-O T67	8246/3
+#64	ICD-O T68	C30.0 8246/3
+#65	ICD-O T69	C30.0
+#66	ICD-O T70	8000/9
+#67	ICD-O T71	C31.3 8000/1;C31.9 8000/1;C41.0 8000/1;C75.1 8000/1
+#68	ICD-O T72	C31.9
+#69	ICD-O T73	C31.3
+#70	ICD-O T74	C75.1
+#71	ICD-O T75	C41.0
+#72	ICD-O T76	8000/6
+#73	ICD-O T77	8000/9

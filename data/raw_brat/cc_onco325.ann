@@ -1,0 +1,32 @@
+T1	morphologie 107 116;128 150	carcinome non à petites cellules
+T2	expression_CIM 107 150	carcinome pulmonaire non à petites cellules
+T3	topographie 117 127	pulmonaire
+T4	morphologie 163 170	nodules
+T5	expression_CIM 163 182	nodules pulmonaires
+T6	topographie 171 182	pulmonaires
+T7	morphologie 2458 2464	tumeur
+T8	expression_CIM 2458 2475	tumeur pulmonaire
+T9	topographie 2465 2475	pulmonaire
+T10	expression_CIM 2496 2505	néoplasme
+T11	morphologie 2496 2505	néoplasme
+T12	morphologie 2774 2783	néoplasie
+T13	expression_CIM 2774 2794	néoplasie pulmonaire
+T14	topographie 2784 2794	pulmonaire
+T15	expression_CIM 5387 5408	processus néoplasique
+T16	morphologie 5387 5408	processus néoplasique
+#1	ICD-O T1	8046/3
+#2	ICD-O T2	C34.9 8046/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C34.9 8000/1
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C34.9 8000/1
+#9	ICD-O T9	C34.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.9 8000/1
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	8000/3
+#16	ICD-O T16	8000/3

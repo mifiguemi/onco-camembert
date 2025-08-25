@@ -1,0 +1,21 @@
+T1	morphologie 189 195	tumeur
+T3	topographie 196 206	pulmonaire
+T5	morphologie 318 350	carninome de type neuroendocrine
+T7	morphologie 528 538	carcinoïde
+T8	morphologie 1088 1095	nodules
+T10	topographie 1096 1106	hépatiques
+T11	morphologie 1113 1120	lésions
+T13	topographie 1121 1129	osseuses
+T15	morphologie 1151 1161	métastases
+T17	morphologie 2056 2062	tumeur
+T18	morphologie 2591 2598	lésions
+T32	morphologie 2610 2620	nodulaires
+T20	topographie 2599 2609	hépatiques
+T21	morphologie 2708 2715	lésions
+T23	topographie 2736 2762	corps vertébraux lombaires
+T24	topographie 2770 2781	os iliaques
+T25	morphologie 2802 2808	masses
+T27	morphologie 2855 2861	tumeur
+T33	morphologie 2873 2887	neuroendocrine
+T29	topographie 2862 2872	pulmonaire
+T31	morphologie 3785 3801	maladie tumorale

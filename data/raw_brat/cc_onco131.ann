@@ -1,0 +1,43 @@
+T1	morphologie 597 603	lésion
+T2	expression_CIM 597 680	lésion occupant l'espace avec des caractéristiques solides dans la région inguinale
+T3	topographie 664 680	région inguinale
+T4	morphologie 992 999	sarcome
+T5	expression_CIM 992 1015	sarcome des tissus mous
+T6	morphologie 1158 1172	léiomyosarcome
+T7	expression_CIM 1158 1243	léiomyosarcome indifférencié, 8 cm de diamètre maximal, bords libres, grade tumoral 3
+T8	differenciation 1173 1186	indifférencié
+T9	differenciation 1228 1243	grade tumoral 3
+T10	morphologie 1501 1508	nodules
+T11	expression_CIM 1501 1535	nodules millimétriques pulmonaires
+T12	topographie 1524 1535	pulmonaires
+T13	expression_CIM 1548 1558	métastases
+T14	morphologie 1548 1558	métastases
+T15	morphologie 1680 1691	progression
+T16	expression_CIM 1680 1702	progression pulmonaire
+T17	topographie 1692 1702	pulmonaire
+T18	expression_CIM 2821 2837	réponse tumorale
+T19	morphologie 2821 2837	réponse tumorale
+T20	morphologie 3136 3143;3156 3169	nodules métastatiques
+T21	expression_CIM 3136 3169	nodules pulmonaires métastatiques
+T22	topographie 3144 3155	pulmonaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C76.3
+#3	ICD-O T4	8800/3
+#4	ICD-O T5	C49.9 8800/3
+#5	ICD-O T6	8890/3
+#6	ICD-O T7	8890/34
+#7	ICD-O T8	4
+#8	ICD-O T9	3
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C34.9 8000/1
+#11	ICD-O T12	C34.9
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	C34.9 8000/6
+#16	ICD-O T17	C34.9
+#17	ICD-O T18	8000/3
+#18	ICD-O T19	8000/3
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	C34.9 8000/6
+#21	ICD-O T22	C34.9

@@ -1,0 +1,63 @@
+T51	topographie 3164 3174	annexielle
+T81	topographie 6508 6526	région de la fesse
+T94	topographie 6966 6985	région pré-sternale
+T2	morphologie 48 77	maladie de von Recklinghausen
+T4	morphologie 139 155	nodules de Lysch
+T5	morphologie 178 190	neurofibrome
+T7	topographie 191 199	cervical
+T8	morphologie 334 340	cancer
+T10	topographie 344 348	rein
+T11	morphologie 1168 1175	nodules
+T14	morphologie 1217 1223	nodule
+T16	topographie 1224 1237	paravertébral
+T18	morphologie 1262 1274	neurofibrome
+T19	morphologie 1318 1333	tumeur kystique
+T21	topographie 1351 1360	ovarienne
+T22	morphologie 1459 1472	carcinomatose
+T24	topographie 1473 1484	péritonéale
+T25	morphologie 1538 1546	implants
+T27	topographie 1547 1557	hépatiques
+T28	morphologie 1925 1941	carcinome séreux
+T30	differenciation 1945 1955	haut grade
+T31	morphologie 2051 2059	invasion
+T33	topographie 2060 2067	tubaire
+T34	morphologie 2074 2081	implant
+T36	topographie 2082 2092	péritonéal
+T38	morphologie 2145 2171	neurofibromatose de type 1
+T39	morphologie 2303 2312	carcinome
+T96	morphologie 2336 2342	séreux
+T41	topographie 2313 2320	ovarien
+T42	differenciation 2346 2356	haut grade
+T43	morphologie 2661 2667	cancer
+T45	topographie 2673 2679	ovaire
+T46	morphologie 3106 3115	neurinome
+T48	topographie 3116 3129	paravertébral
+T49	morphologie 3145 3154	formation
+T52	morphologie 3542 3558	carcinome séreux
+T54	differenciation 3571 3581	haut grade
+T56	morphologie 3586 3603	tumeur résiduelle
+T57	morphologie 4515 4531	lymphadénopathie
+T59	topographie 4532 4541	axillaire
+T61	morphologie 4654 4675	cellules néoplasiques
+T63	morphologie 4678 4692	adénocarcinome
+T64	morphologie 4892 4908	lymphadénopathie
+T66	topographie 4909 4918	axillaire
+T67	morphologie 4924 4940	lymphadénopathie
+T69	topographie 4941 4953	parasternale
+T70	morphologie 5415 5424	carcinome
+T72	topographie 5435 5444	ovarienne
+T73	topographie 5462 5484	ganglions lymphatiques
+T75	morphologie 6209 6226	récidive tumorale
+T76	morphologie 6414 6426	adénopathies
+T78	topographie 6427 6437	inguinales
+T79	morphologie 6457 6472	image nodulaire
+T82	morphologie 6548 6559	adénopathie
+T84	topographie 6560 6569	inguinale
+T86	morphologie 6626 6643	cellules malignes
+T87	morphologie 6658 6667	carcinome
+T89	topographie 6697 6706	ovarienne
+T90	morphologie 6924 6931	lésions
+T92	topographie 6932 6940	cutanées
+T93	topographie 6948 6961	dos des mains
+T95	topographie 6989 6996	dorsale
+T13	topographie 1176 1198	sous-cutanés cervicaux

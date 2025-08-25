@@ -1,0 +1,45 @@
+T1	topographie 1656 1660	rein
+T3	morphologie 1686 1692	tumeur
+T4	morphologie 1737 1743	Lésion
+T6	topographie 1825 1841	bassinet du rein
+T7	morphologie 1867 1879	Adénopathies
+T9	topographie 1880 1897	rétropéritonéales
+T10	topographie 1911 1921	hile rénal
+T11	morphologie 1961 1971	métastases
+T13	topographie 1999 2014	corps vertébral
+T14	morphologie 2067 2076	Métastase
+T16	topographie 2084 2094	os iliaque
+T17	morphologie 2205 2212	nodules
+T19	topographie 2255 2261	poumon
+T21	morphologie 2424 2453	carcinome du canal collecteur
+T22	morphologie 2468 2477	extension
+T24	topographie 2487 2494	calices
+T25	topographie 2501 2515	bassinet rénal
+T26	morphologie 2622 2633	adénopathie
+T28	topographie 2634 2641	hilaire
+T29	morphologie 2656 2667	conglomérat
+T67	morphologie 2700 2712	métastatisés
+T31	topographie 2671 2693	ganglions lymphatiques
+T33	morphologie 2720 2749	carcinome du canal collecteur
+T34	morphologie 2763 2772	Carcinome
+T68	morphologie 2779 2789	de Bellini
+T36	topographie 2773 2778	rénal
+T38	morphologie 2793 2801	stade IV
+T39	morphologie 2807 2815	atteinte
+T69	morphologie 2824 2836	métastatique
+T41	topographie 2816 2823	osseuse
+T43	morphologie 2917 2946	carcinome du canal collecteur
+T45	morphologie 2950 2958	stade IV
+T47	morphologie 3139 3175	cancer des cellules transitionnelles
+T48	morphologie 3497 3504	maladie
+T50	topographie 3505 3512	osseuse
+T51	morphologie 3734 3740	lésion
+T53	topographie 3741 3748	osseuse
+T55	morphologie 3834 3859	progression de la maladie
+T56	morphologie 3881 3891	métastases
+T58	topographie 3906 3924	glandes surrénales
+T59	morphologie 4026 4033	maladie
+T61	topographie 4034 4041	osseuse
+T63	morphologie 4306 4322	maladie tumorale
+T64	morphologie 4359 4366	maladie
+T66	topographie 4367 4377	pulmonaire

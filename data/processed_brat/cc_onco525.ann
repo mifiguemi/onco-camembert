@@ -1,0 +1,23 @@
+T1	morphologie 51 57	cancer
+T3	topographie 61 67	poumon
+T4	morphologie 191 196	masse
+T6	topographie 219 224	sigma
+T7	morphologie 598 603	masse
+T9	topographie 612 628	côlon transverse
+T11	morphologie 644 650	tumeur
+T12	morphologie 727 732	Masse
+T14	topographie 736 744	sigmoïde
+T15	morphologie 747 771	adénocarcinome entéroïde
+T17	differenciation 772 788	bien différencié
+T18	morphologie 836 841	Masse
+T20	topographie 845 861	côlon transverse
+T21	morphologie 864 888	adénocarcinome entéroïde
+T23	differenciation 889 905	bien différencié
+T24	morphologie 1002 1012	Métastases
+T26	topographie 1023 1032	ganglions
+T27	morphologie 1036 1044	implants
+T31	morphologie 1084 1115	maladie métastatique à distance
+T33	morphologie 3154 3180	dissémination de la tumeur
+T35	morphologie 3517 3523	masses
+T37	morphologie 3769 3786	atteinte tumorale
+T29	topographie 1053 1060	séreuse

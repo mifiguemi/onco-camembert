@@ -1,0 +1,74 @@
+T1	morphologie 110 115	masse
+T2	expression_CIM 110 149	masse non douloureuse dans le testicule
+T3	topographie 140 149	testicule
+T4	expression_CIM 226 231	masse
+T5	morphologie 226 231	masse
+T6	expression_CIM 310 328	maladie à distance
+T7	morphologie 310 328	maladie à distance
+T8	morphologie 556 562	tumeur
+T9	expression_CIM 556 575	tumeur testiculaire
+T10	topographie 563 575	testiculaire
+T11	expression_CIM 686 726	tumeur germinale mixte non séminomateuse
+T12	morphologie 686 726	tumeur germinale mixte non séminomateuse
+T13	expression_CIM 728 733	NSGCT
+T14	morphologie 728 733	NSGCT
+T15	expression_CIM 743 765	carcinome embryonnaire
+T16	morphologie 743 765	carcinome embryonnaire
+T17	expression_CIM 773 801	tumeur du sinus endodermique
+T18	morphologie 773 801	tumeur du sinus endodermique
+T19	morphologie 1181 1189	atteinte
+T20	expression_CIM 1181 1227	atteinte résiduelle des ganglions lymphatiques
+T21	topographie 1205 1227	ganglions lymphatiques
+T22	morphologie 1951 1973	ganglions lymphatiques
+T23	expression_CIM 1951 1990	ganglions lymphatiques rétropéritonéaux
+T24	topographie 1974 1990	rétropéritonéaux
+T25	expression_CIM 2008 2022	tumeur maligne
+T26	morphologie 2008 2022	tumeur maligne
+T27	expression_CIM 2252 2256	NSTE
+T28	morphologie 2252 2256	NSTE
+T29	expression_CIM 2270 2278	Récidive
+T30	morphologie 2270 2278	Récidive
+T31	morphologie 2293 2309	tumeur germinale
+T32	expression_CIM 2293 2322	tumeur germinale testiculaire
+T33	topographie 2310 2322	testiculaire
+T34	morphologie 4068 4091	stabilité de la maladie
+T35	expression_CIM 4068 4155	stabilité de la maladie localisée au niveau des ganglions lymphatiques rétropéritonéaux
+T36	topographie 4116 4155	ganglions lymphatiques rétropéritonéaux
+T37	expression_CIM 4346 4361	tératome mature
+T38	morphologie 4346 4361	tératome mature
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C62.9 8000/1
+#3	ICD-O T3	C62.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C62.9 8000/1
+#10	ICD-O T10	C62.9
+#11	ICD-O T11	9065/3
+#12	ICD-O T12	9065/3
+#13	ICD-O T13	9065/3
+#14	ICD-O T14	9065/3
+#15	ICD-O T15	9070/3
+#16	ICD-O T16	9070/3
+#17	ICD-O T17	9071/3
+#18	ICD-O T18	9071/3
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C77.9 8000/1
+#21	ICD-O T21	C77.9
+#22	ICD-O T22	tocheck
+#23	ICD-O T24	C48.0
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	8000/3
+#26	ICD-O T28	tocheck
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	8000/9
+#29	ICD-O T31	9064/3
+#30	ICD-O T32	C62.9 9064/3
+#31	ICD-O T33	C62.9
+#32	ICD-O T34	8000/9
+#33	ICD-O T35	C77.2 8000/6
+#34	ICD-O T36	C77.2
+#35	ICD-O T37	9080/0
+#36	ICD-O T38	9080/0

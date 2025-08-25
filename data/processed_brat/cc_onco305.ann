@@ -1,0 +1,59 @@
+T1	morphologie 364 369	masse
+T3	topographie 400 408	pancréas
+T4	morphologie 428 459	lésions occupant l'espace (LOE)
+T6	topographie 468 488	parenchyme hépatique
+T8	morphologie 637 644	sarcome
+T9	morphologie 832 837	masse
+T11	topographie 881 892	hypochondre
+T12	morphologie 1035 1038	LOE
+T14	topographie 1039 1048	hépatique
+T15	morphologie 1186 1192	tumeur
+T17	topographie 1196 1204	pancréas
+T18	morphologie 1214 1217	LOE
+T20	topographie 1218 1228	hépatiques
+T22	morphologie 1262 1269	sarcome
+T24	morphologie 1342 1348	tumeur
+T25	morphologie 1439 1445	nodule
+T27	topographie 1446 1455	hépatique
+T29	morphologie 1509 1534	léiomyosarcome pléomorphe
+T30	morphologie 1567 1573	nodule
+T32	topographie 1574 1583	hépatique
+T34	morphologie 1600 1614	léiomyosarcome
+T36	morphologie 1755 1779	ANGIOMYOLIPOMA MALIGNANT
+T38	morphologie 1781 1784	MLA
+T40	morphologie 1838 1853	tumeur primaire
+T41	morphologie 1861 1871	métastases
+T43	topographie 1872 1882	hépatiques
+T45	morphologie 2022 2029	lésions
+T47	morphologie 2067 2074	lésions
+T48	morphologie 2274 2284	métastases
+T50	topographie 2285 2296	pulmonaires
+T51	topographie 2300 2310	hépatiques
+T53	morphologie 2686 2713	stabilisation de la maladie
+T55	morphologie 2837 2864	stabilisation de la maladie
+T56	morphologie 2947 2968	lésions métastatiques
+T58	topographie 2969 2980	pulmonaires
+T59	morphologie 3087 3093	lésion
+T61	topographie 3094 3103	hépatique
+T63	morphologie 3142 3148	tumeur
+T64	morphologie 3309 3330	atteinte métastatique
+T66	topographie 3331 3341	pulmonaire
+T67	morphologie 3373 3394	atteinte métastatique
+T69	topographie 3395 3404	hépatique
+T70	morphologie 3558 3568	métastases
+T72	topographie 3569 3579	hépatiques
+T74	morphologie 3680 3687	lésions
+T76	morphologie 3725 3732	lésions
+T81	morphologie 4151 4162	progression
+T83	topographie 4176 4180	foie
+T84	morphologie 4219 4226	lésions
+T86	topographie 4243 4255	dôme du foie
+T87	morphologie 4416 4437	atteinte métastatique
+T89	topographie 4441 4445	foie
+T91	morphologie 4462 4468	lésion
+T92	morphologie 4520 4528	atteinte
+T94	topographie 4541 4561	parenchyme hépatique
+T96	morphologie 4871 4898	stabilisation de la maladie
+T98	morphologie 5051 5078	stabilisation de la maladie
+T78	morphologie 3830 3836	PECome
+T80	morphologie 3923 3929	PECome

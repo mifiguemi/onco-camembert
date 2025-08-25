@@ -1,0 +1,34 @@
+T53	morphologie 2737 2754	cellules d'avoine
+T1	morphologie 77 91	adénocarcinome
+T3	topographie 92 102	pulmonaire
+T5	morphologie 285 291	tumeur
+T6	morphologie 717 729	infiltration
+T8	topographie 730 749	pleuro-péricardique
+T9	morphologie 757 765	atteinte
+T11	topographie 782 817	ganglions lymphatiques médiastinaux
+T13	morphologie 856 864	stade IV
+T14	morphologie 1050 1061	progression
+T16	topographie 1062 1072	pulmonaire
+T17	morphologie 1288 1299	progression
+T19	topographie 1300 1310	pulmonaire
+T20	morphologie 1535 1546	progression
+T22	topographie 1547 1556	hépatique
+T23	topographie 1560 1569	cérébrale
+T24	topographie 1791 1795	foie
+T26	morphologie 1860 1867	lésions
+T27	morphologie 1997 2003	nodule
+T31	morphologie 2163 2172	métastase
+T33	morphologie 2178 2206	carcinome à petites cellules
+T34	morphologie 2208 2232	carcinome neuroendocrine
+T36	differenciation 2236 2246	haut grade
+T37	morphologie 2369 2383	adénocarcinome
+T39	topographie 2384 2394	pulmonaire
+T41	morphologie 2398 2406	stade IV
+T42	morphologie 2423 2431	atteinte
+T44	topographie 2432 2451	pleuro-péricardique
+T45	topographie 2455 2465	pulmonaire
+T47	morphologie 2528 2556	carcinome à petites cellules
+T48	morphologie 2622 2633	progression
+T50	topographie 2634 2643	hépatique
+T51	topographie 2647 2656	cérébrale
+T29	topographie 2020 2034	segment V-VIII

@@ -1,0 +1,137 @@
+T68	topographie 3643 3660	iliaques communes
+T20	topographie 1779 1796	iliaques externes
+T1	expression_CIM 691 697	masses
+T2	morphologie 691 697	masses
+T3	morphologie 1019 1024	masse
+T4	expression_CIM 1019 1083	masse au contenu hétérogène a été observée dans le bas du bassin
+T5	topographie 1077 1083	bassin
+T6	expression_CIM 1310 1316	tumeur
+T7	morphologie 1310 1316	tumeur
+T8	expression_CIM 1457 1463	tumeur
+T9	morphologie 1457 1463	tumeur
+T10	morphologie 1646 1652	masses
+T11	expression_CIM 1646 1674	masses ovariennes pelviennes
+T12	topographie 1653 1663	ovariennes
+T13	topographie 1664 1674	pelviennes
+T14	morphologie 1717 1723	masses
+T15	expression_CIM 1717 1750	masses péritonéales dans le flanc
+T16	topographie 1724 1736	péritonéales
+T17	topographie 1745 1750	flanc
+T18	morphologie 1766 1778	adénopathies
+T19	expression_CIM 1766 1796	adénopathies iliaques externes
+T21	morphologie 2085 2091	tumeur
+T22	expression_CIM 2085 2101	tumeur ovarienne
+T23	topographie 2092 2101	ovarienne
+T24	expression_CIM 2113 2128	non épithéliale
+T26	expression_CIM 2150 2194	tumeur juvénile des cellules de la granulosa
+T27	morphologie 2150 2194	tumeur juvénile des cellules de la granulosa
+T28	morphologie 2196 2203	Implant
+T29	expression_CIM 2196 2223	Implant dans le fond utérin
+T30	topographie 2212 2223	fond utérin
+T31	expression_CIM 2232 2249	foyer néoplasique
+T32	morphologie 2232 2249	foyer néoplasique
+T33	morphologie 2265 2284	Implant néoplasique
+T34	expression_CIM 2265 2324	Implant néoplasique dans la sous-séreuse du col de l'utérus
+T35	topographie 2309 2324	col de l'utérus
+T36	morphologie 2365 2398;2409 2417	tumeur à cellules de la granulosa juvénile
+T37	expression_CIM 2365 2417	tumeur à cellules de la granulosa ovarienne juvénile
+T38	topographie 2399 2408	ovarienne
+T39	expression_CIM 2430 2433	GCT
+T40	morphologie 2430 2433	GCT
+T41	expression_CIM 2778 2803	progression de la maladie
+T42	morphologie 2778 2803	progression de la maladie
+T43	morphologie 2832 2842	métastases
+T44	expression_CIM 2832 2855	métastases dans le sein
+T45	topographie 2851 2855	sein
+T46	morphologie 2867 2877	métastases
+T47	expression_CIM 2867 2899	métastases cutanées dans le bras
+T48	topographie 2878 2886	cutanées
+T49	topographie 2895 2899	bras
+T50	morphologie 2910 2920	métastases
+T51	expression_CIM 2910 2931	métastases spléniques
+T52	topographie 2921 2931	spléniques
+T53	morphologie 2941 2946	masse
+T54	expression_CIM 2941 2956	masse périnéale
+T55	topographie 2947 2956	périnéale
+T56	expression_CIM 3477 3502	progression de la maladie
+T57	morphologie 3477 3502	progression de la maladie
+T58	morphologie 3512 3520	atteinte
+T59	expression_CIM 3512 3530	atteinte hépatique
+T60	topographie 3521 3530	hépatique
+T61	morphologie 3566 3576	métastases
+T62	expression_CIM 3566 3587	métastases spléniques
+T63	topographie 3577 3587	spléniques
+T64	morphologie 3593 3605	adénopathies
+T65	expression_CIM 3593 3660	adénopathies rétropéritonéales, para-aortiques et iliaques communes
+T66	topographie 3606 3623	rétropéritonéales
+T67	topographie 3625 3639	para-aortiques
+T69	morphologie 3692 3712	foyers métastatiques
+T70	expression_CIM 3692 3760	foyers métastatiques dans la peau et le tissu cellulaire sous-cutané
+T71	topographie 3721 3725	peau
+T72	topographie 3732 3760	tissu cellulaire sous-cutané
+T25	morphologie 2113 2128	non épithéliale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T5	C41.4
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C56.9 8000/1;C76.3 8000/1
+#11	ICD-O T12	C56.9
+#12	ICD-O T13	C76.3
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	C48.2 8000/1;C76.7 8000/1
+#15	ICD-O T16	C48.2
+#16	ICD-O T17	C76.7
+#17	ICD-O T18	8000/1
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	C56.9 8000/1
+#20	ICD-O T23	C56.9
+#21	ICD-O T26	8622/1
+#22	ICD-O T27	8622/1
+#23	ICD-O T28	8000/6
+#24	ICD-O T29	C54.3 8000/6
+#25	ICD-O T30	C54.3
+#26	ICD-O T31	8000/3
+#27	ICD-O T32	8000/3
+#28	ICD-O T33	8000/6
+#29	ICD-O T34	C53.9 8000/6
+#30	ICD-O T35	C53.9
+#31	ICD-O T36	8620/3
+#32	ICD-O T37	C56.9 8620/3
+#33	ICD-O T38	C56.9
+#34	ICD-O T39	9064/3
+#35	ICD-O T40	9064/3
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	8000/1
+#38	ICD-O T43	8000/6
+#39	ICD-O T44	C50.9 8000/6
+#40	ICD-O T45	C50.9
+#41	ICD-O T46	8000/6
+#42	ICD-O T48	C49 
+#43	ICD-O T49	C50.9
+#44	ICD-O T50	8000/6
+#45	ICD-O T51	C42.2 8000/6
+#46	ICD-O T52	C42.2
+#47	ICD-O T53	8000/1
+#48	ICD-O T54	C76.3 8000/1
+#49	ICD-O T55	C76.3
+#50	ICD-O T56	8000/1
+#51	ICD-O T57	8000/1
+#52	ICD-O T58	8000/1
+#53	ICD-O T59	C22.0 8000/1
+#54	ICD-O T60	C22.0
+#55	ICD-O T61	8000/6
+#56	ICD-O T62	C42.2 8000/6
+#57	ICD-O T63	C42.2
+#58	ICD-O T64	8000/1
+#59	ICD-O T66	C48.0
+#60	ICD-O T67	C49.4
+#61	ICD-O T69	8000/6
+#62	ICD-O T70	C44.9 8000/6;C49.9 8000/6
+#63	ICD-O T71	C44.9
+#64	ICD-O T72	C49.9
+#65	ICD-O T25	tocheck

@@ -1,0 +1,29 @@
+T12	topographie 1459 1488	canal biliaire extrahépatique
+T30	topographie 2290 2305	extra-hépatique
+T1	morphologie 243 252	néoplasme
+T3	topographie 255 271	origine inconnue
+T4	morphologie 277 287	métastases
+T6	topographie 288 299	pulmonaires
+T7	morphologie 677 689	adénopathies
+T9	topographie 690 706	latérocervicales
+T10	morphologie 1437 1442	masse
+T14	morphologie 1548 1566	cholangiocarcinome
+T16	morphologie 1568 1596	tumeur de type I de Klatskin
+T18	morphologie 1603 1612	extension
+T20	morphologie 1711 1729	maladie à distance
+T21	morphologie 1984 1998	adénocarcinome
+T23	differenciation 1999 2014	peu différencié
+T24	differenciation 2016 2018	G3
+T25	morphologie 2179 2187	invasion
+T27	topographie 2188 2199	périneurale
+T28	morphologie 2271 2289	Cholangiocarcinome
+T31	differenciation 2306 2311	GHIII
+T32	morphologie 2317 2325	invasion
+T34	topographie 2326 2337	périneurale
+T35	morphologie 2558 2561	LOE
+T37	topographie 2562 2572	hépatiques
+T39	morphologie 2595 2605	métastases
+T40	morphologie 2613 2625	adénopathies
+T42	topographie 2643 2657	tronc cœliaque
+T43	topographie 2661 2669	hilaires
+T45	morphologie 3234 3241	lésions

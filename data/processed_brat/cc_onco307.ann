@@ -1,0 +1,54 @@
+T16	topographie 664 677	fosse iliaque
+T1	morphologie 241 243	Ca
+T3	topographie 245 253	Pancréas
+T4	morphologie 282 288	cancer
+T80	morphologie 299 311	microcytaire
+T6	topographie 292 298	poumon
+T7	morphologie 313 319	Cancer
+T81	morphologie 330 342	microcytaire
+T9	topographie 323 329	poumon
+T10	morphologie 428 433	masse
+T12	topographie 439 455	infra-ombilicale
+T13	morphologie 558 563	masse
+T15	topographie 648 660	mésentère de
+T18	morphologie 697 705	lymphome
+T20	morphologie 713 728	tumeur desmoïde
+T22	morphologie 758 764	lésion
+T24	morphologie 815 828	neuroblastome
+T25	morphologie 847 852	masse
+T27	topographie 853 863	abdominale
+T28	topographie 877 895	péritoine pariétal
+T30	morphologie 929 940	adénopathie
+T32	morphologie 997 1010	neuroblastome
+T33	morphologie 1695 1702	rechute
+T35	topographie 1703 1729	ganglionnaire pré-aortique
+T36	morphologie 1737 1742	masse
+T38	topographie 1743 1756	para-aortique
+T39	morphologie 1766 1774	atteinte
+T41	topographie 1775 1781	sacrée
+T42	topographie 1789 1833	tissus mous de la musculature paravertébrale
+T43	morphologie 2005 2015	métastases
+T45	topographie 2016 2024	osseuses
+T47	morphologie 2028 2041	neuroblastome
+T48	morphologie 2656 2668	infiltration
+T50	topographie 2675 2689	moelle osseuse
+T51	morphologie 2717 2728	adénopathie
+T53	topographie 2729 2742	para-aortique
+T55	morphologie 2777 2788	adénopathie
+T56	morphologie 2807 2815	atteinte
+T58	topographie 2822 2836	moelle osseuse
+T59	morphologie 2854 2859	masse
+T61	topographie 2860 2873	prévertébrale
+T62	topographie 2878 2889	tissus mous
+T63	morphologie 2967 2980	Neuroblastome
+T65	topographie 2981 2990	abdominal
+T66	morphologie 3003 3024	récidive métastatique
+T68	topographie 3039 3061	ganglions lymphatiques
+T69	topographie 3067 3069	os
+T70	topographie 3077 3088	tissus mous
+T72	morphologie 3485 3494	métastase
+T73	morphologie 3552 3558	lésion
+T75	topographie 3559 3565	sacrée
+T76	morphologie 3595 3600	masse
+T78	topographie 3605 3616	tissus mous
+T79	topographie 3624 3633	ganglions

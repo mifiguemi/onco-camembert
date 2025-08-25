@@ -1,0 +1,133 @@
+T1	expression_CIM 1500 1525	lésions occupant l'espace
+T2	morphologie 1500 1525	lésions occupant l'espace
+T3	morphologie 1798 1804	nodule
+T4	expression_CIM 1798 1846	nodule spiculé dans le segment postérieur du LSD
+T5	topographie 1843 1846	LSD
+T6	morphologie 1878 1890	adénopathies
+T7	expression_CIM 1878 1937	adénopathies médiastinales, paratrachéales, sous-carénaires
+T8	topographie 1891 1904	médiastinales
+T9	topographie 1906 1920	paratrachéales
+T10	topographie 1922 1937	sous-carénaires
+T11	morphologie 1959 1968	néoplasie
+T12	expression_CIM 1959 1979	néoplasie pulmonaire
+T13	topographie 1969 1979	pulmonaire
+T14	expression_CIM 2024 2031	lésions
+T15	morphologie 2024 2031	lésions
+T16	morphologie 2159 2166	lésions
+T17	expression_CIM 2159 2182	lésions endobronchiques
+T18	topographie 2167 2182	endobronchiques
+T19	expression_CIM 2242 2259	cellules malignes
+T20	morphologie 2242 2259	cellules malignes
+T21	morphologie 2331 2343	adénopathies
+T22	expression_CIM 2331 2357	adénopathies médiastinales
+T23	topographie 2344 2357	médiastinales
+T24	morphologie 2378 2387	métastase
+T25	expression_CIM 2378 2401	métastase ganglionnaire
+T26	topographie 2388 2401	ganglionnaire
+T27	expression_CIM 2407 2429	carcinome microcytaire
+T28	morphologie 2407 2429	carcinome microcytaire
+T29	morphologie 2540 2546	nodule
+T30	expression_CIM 2540 2570	nodule pulmonaire connu en LSD
+T31	topographie 2547 2557	pulmonaire
+T32	topographie 2567 2570	LSD
+T33	morphologie 2691 2697	nodule
+T34	expression_CIM 2691 2708	nodule pulmonaire
+T35	topographie 2698 2708	pulmonaire
+T36	morphologie 2753 2765	adénopathies
+T37	expression_CIM 2753 2779	adénopathies médiastinales
+T38	topographie 2766 2779	médiastinales
+T39	topographie 2824 2828	foie
+T40	expression_CIM 2824 2896	foie ne présente aucune lésion focale évoquant une atteinte métastatique
+T41	morphologie 2848 2854;2862 2896	lésion évoquant une atteinte métastatique
+T42	morphologie 2914 2921	lésions
+T43	expression_CIM 2914 2930	lésions osseuses
+T44	topographie 2922 2930	osseuses
+T45	expression_CIM 2945 2966	atteinte métastatique
+T46	morphologie 2945 2966	atteinte métastatique
+T47	morphologie 3056 3064	atteinte
+T48	expression_CIM 3056 3088	atteinte des cordons postérieurs
+T49	topographie 3069 3088	cordons postérieurs
+T50	morphologie 3234 3243;3255 3273	carcinome à petites cellules
+T51	expression_CIM 3234 3273	carcinome pulmonaire à petites cellules
+T52	topographie 3244 3254	pulmonaire
+T53	morphologie 4462 4468	nodule
+T54	expression_CIM 4462 4510	nodule spiculé dans le segment postérieur du LSD
+T55	topographie 4507 4510	LSD
+T56	morphologie 4545 4557	adénopathies
+T57	expression_CIM 4545 4603	adénopathies médiastinales, paratrachéales et subcarinales
+T58	topographie 4558 4571	médiastinales
+T59	topographie 4573 4587	paratrachéales
+T61	morphologie 4620 4632	adénopathies
+T62	expression_CIM 4620 4646	adénopathies médiastinales
+T63	topographie 4633 4646	médiastinales
+T64	expression_CIM 4673 4682	métastase
+T65	morphologie 4673 4682	métastase
+T66	morphologie 4688 4710	carcinome microcytaire
+T67	expression_CIM 4688 4720	carcinome microcytaire du poumon
+T68	topographie 4714 4720	poumon
+T60	topographie 4591 4603	subcarinales
+#1	ICD-O T2	8000/1
+#2	ICD-O T3	8000/1
+#3	ICD-O T4	C34.1 8000/1
+#4	ICD-O T5	C34.1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C77.1 8000/1
+#7	ICD-O T8	C38.3
+#8	ICD-O T9	C33.9
+#9	ICD-O T10	C76.1
+#10	ICD-O T11	8000/3
+#11	ICD-O T12	C34.9 8000/1
+#12	ICD-O T13	C34.9
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C34.9 8000/1
+#17	ICD-O T18	C34.9
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8001/3
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C77.1 8000/1
+#22	ICD-O T23	C38.3
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	C77.9 8000/6
+#25	ICD-O T26	C77.9
+#26	ICD-O T27	8041/3
+#27	ICD-O T28	8041/3
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C34.1 8000/1;C34.9 8000/1
+#30	ICD-O T31	C34.9
+#31	ICD-O T32	C34.1
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	C34.9 8000/1
+#34	ICD-O T35	C34.9
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	C77.1 8000/1
+#37	ICD-O T38	C38.3
+#38	ICD-O T39	C22.0
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	C41.9 8000/1
+#42	ICD-O T44	C41.9
+#43	ICD-O T45	8000/6
+#44	ICD-O T46	8000/6
+#45	ICD-O T47	8000/9
+#46	ICD-O T48	C72.0 8000/1
+#47	ICD-O T49	C72.0
+#48	ICD-O T50	8041/3
+#49	ICD-O T51	C34.9 8041/3
+#50	ICD-O T52	C34.9
+#51	ICD-O T53	8000/1
+#52	ICD-O T54	C34.1 8000/1
+#53	ICD-O T55	C34.1
+#54	ICD-O T56	8000/1
+#55	ICD-O T58	C38.3
+#56	ICD-O T59	C33.9
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	C77.1 8000/1
+#59	ICD-O T63	C38.3
+#60	ICD-O T64	8000/6
+#61	ICD-O T65	8000/6
+#62	ICD-O T66	8041/3
+#63	ICD-O T67	C34.9 8041/3
+#64	ICD-O T68	C34.9
+#65	AnnotatorNotes T2	trad

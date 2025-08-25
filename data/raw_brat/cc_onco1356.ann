@@ -1,0 +1,90 @@
+T1	morphologie 1146 1156	métastases
+T2	expression_CIM 1146 1165	métastases osseuses
+T3	topographie 1157 1165	osseuses
+T4	morphologie 1327 1339	adénopathies
+T5	expression_CIM 1327 1357	adénopathies rétropéritonéales
+T6	topographie 1340 1357	rétropéritonéales
+T7	morphologie 1604 1609	masse
+T8	expression_CIM 1604 1629	masse dans le sinus rénal
+T9	topographie 1618 1629	sinus rénal
+T10	morphologie 1657 1663	tumeur
+T11	expression_CIM 1657 1684	tumeur dans le bassin rénal
+T12	topographie 1672 1684	bassin rénal
+T13	morphologie 1699 1711	adénopathies
+T14	expression_CIM 1699 1729	adénopathies rétropéritonéales
+T15	topographie 1712 1729	rétropéritonéales
+T16	morphologie 1765 1775	métastases
+T17	expression_CIM 1765 1815	métastases pulmonaires, osseuses et surrénaliennes
+T18	topographie 1776 1787	pulmonaires
+T19	topographie 1789 1797	osseuses
+T20	topographie 1801 1815	surrénaliennes
+T21	morphologie 1838 1844;1883 1898;1914 1924	lésion compatible avec une tumeur
+T22	expression_CIM 1838 1958	lésion hypodense d'environ 11 mm de diamètre compatible avec un thrombus ou une tumeur a été observée dans le ventricule
+T24	expression_CIM 2120 2125	masse
+T25	morphologie 2120 2125	masse
+T26	morphologie 2177 2187	métastases
+T27	expression_CIM 2177 2203	métastases intracardiaques
+T28	topographie 2188 2203	intracardiaques
+T29	morphologie 2234 2239	masse
+T30	expression_CIM 2234 2246	masse rénale
+T31	topographie 2240 2246	rénale
+T32	expression_CIM 2320 2368	carcinome urothélial à cellules transitionnelles
+T33	morphologie 2320 2368	carcinome urothélial à cellules transitionnelles
+T34	morphologie 2382 2402	Carcinome urothélial
+T35	expression_CIM 2382 2430	Carcinome urothélial de stade IV du bassin rénal
+T36	expression_CIM 2406 2414	stade IV
+T37	morphologie 2406 2414	stade IV
+T38	topographie 2418 2430	bassin rénal
+T39	morphologie 2438 2448	Métastases
+T40	expression_CIM 2438 2513	Métastases osseuses, pulmonaires, surrénaliennes droites et intracardiaques
+T41	topographie 2449 2457	osseuses
+T42	topographie 2459 2470	pulmonaires
+T43	topographie 2472 2486	surrénaliennes
+T44	topographie 2498 2513	intracardiaques
+T45	morphologie 2547 2566	tumeur métastatique
+T46	expression_CIM 2547 2586	tumeur métastatique du bassinet du rein
+T47	topographie 2570 2586	bassinet du rein
+T23	topographie 1948 1958	ventricule
+#1	ICD-O T1	8000/6
+#2	ICD-O T2	C41.9 8000/6
+#3	ICD-O T3	C41.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.2 8000/1
+#6	ICD-O T6	C48.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C65.9 8000/1
+#9	ICD-O T9	C65.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C65.9 
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.2 8000/1
+#14	ICD-O T15	C48.0
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	C34.9 8000/6;C41.9 8000/6;C74.9 8000/6
+#17	ICD-O T18	C34.9
+#18	ICD-O T19	C41.9
+#19	ICD-O T20	C74.9
+#20	ICD-O T21	8000/3
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	C38.0 8000/6
+#25	ICD-O T28	C38.0
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	C64.9 8000/1
+#28	ICD-O T31	C64.9
+#29	ICD-O T32	8120/3
+#30	ICD-O T33	8120/3
+#31	ICD-O T34	8120/3
+#32	ICD-O T36	8000/6
+#33	ICD-O T37	8000/6
+#34	ICD-O T38	C65.9 
+#35	ICD-O T39	8000/6
+#36	ICD-O T40	C34.9 8000/6;C38.0 8000/6;C41.9 8000/6;C74.9 8000/6
+#37	ICD-O T41	C41.9
+#38	ICD-O T42	C34.9
+#39	ICD-O T43	C74.9
+#40	ICD-O T44	C38.0
+#41	ICD-O T45	8000/6
+#42	ICD-O T46	C65.9 8000/1
+#43	ICD-O T47	C65.9

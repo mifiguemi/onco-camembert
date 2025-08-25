@@ -1,0 +1,59 @@
+T58	topographie 2756 2805	ganglions lymphatiques para-aortiques et pelviens
+T1	morphologie 1301 1307	tumeur
+T3	topographie 1308 1317	pelvienne
+T4	morphologie 1419 1436	images nodulaires
+T6	topographie 1445 1454	mésentère
+T7	topographie 1460 1468	épiploon
+T9	morphologie 1513 1521	implants
+T11	morphologie 1561 1569	implants
+T12	morphologie 1616 1625	néoplasie
+T14	topographie 1626 1635	ovarienne
+T15	morphologie 1726 1732	tumeur
+T17	topographie 1733 1743	annexielle
+T19	morphologie 1756 1769	dissémination
+T20	morphologie 1773 1791	implants miliaires
+T22	topographie 1805 1814	péritoine
+T23	topographie 1821 1829	épiploon
+T24	topographie 1839 1859	graisse mésentérique
+T25	morphologie 1945 1953	implants
+T27	topographie 1956 1964	épiploon
+T28	morphologie 2014 2046	adénocarcinome papillaire séreux
+T30	topographie 2057 2066	ovarienne
+T32	morphologie 2235 2249	Carcinosarcome
+T33	morphologie 2251 2283	tumeur müllérienne mixte maligne
+T35	topographie 2290 2296	ovaire
+T36	morphologie 2344 2365	adénocarcinome séreux
+T38	differenciation 2369 2379	haut grade
+T39	morphologie 2422 2443	sarcome indifférencié
+T41	differenciation 2447 2457	haut grade
+T42	morphologie 2460 2476	Carcinome séreux
+T44	differenciation 2480 2490	haut grade
+T45	topographie 2518 2524	trompe
+T46	morphologie 2537 2562	carcinome intraépithélial
+T48	topographie 2584 2590	trompe
+T49	morphologie 2600 2616	Carcinome séreux
+T51	differenciation 2620 2630	haut grade
+T52	topographie 2658 2664	trompe
+T53	morphologie 2686 2711	carcinome intraépithélial
+T55	topographie 2725 2731	trompe
+T56	morphologie 2743 2751	atteinte
+T59	morphologie 2855 2863	implants
+T61	topographie 2872 2881	péritoine
+T62	topographie 2886 2893	Douglas
+T63	topographie 2898 2907	mésocôlon
+T64	topographie 2912 2929	vésicule biliaire
+T65	topographie 2936 2952	paroi abdominale
+T66	morphologie 2966 2978	infiltration
+T68	topographie 2982 3005	ligament rond hépatique
+T69	topographie 3012 3026	recto-sigmoïde
+T70	morphologie 3034 3055	adénocarcinome séreux
+T72	differenciation 3059 3069	haut grade
+T74	morphologie 3099 3107	stade IV
+T75	morphologie 3222 3229	tumeurs
+T77	topographie 3230 3238	tubaires
+T78	morphologie 3278 3292	carcinosarcome
+T80	topographie 3293 3300	ovarien
+T81	morphologie 3377 3386	néoplasie
+T83	topographie 3393 3399	trompe
+T85	morphologie 3448 3455	tumeurs
+T87	morphologie 3702 3710	stade IV

@@ -1,0 +1,97 @@
+T24	topographie 2318 2333	intramédullaire
+T28	topographie 2600 2629	muscles adducteurs et cruraux
+T1	expression_CIM 258 268	néoplasmes
+T2	morphologie 258 268	néoplasmes
+T3	expression_CIM 387 397	néoplasmes
+T4	morphologie 387 397	néoplasmes
+T5	morphologie 695 717	lésion de type tumoral
+T6	expression_CIM 695 796	lésion de type tumoral affectant la diaphyse fémorale proximale de la jambe gauche et les tissus mous
+T7	topographie 731 748	diaphyse fémorale
+T9	morphologie 1173 1182	métastase
+T10	expression_CIM 1173 1192	métastase cérébrale
+T11	topographie 1183 1192	cérébrale
+T12	expression_CIM 1619 1630	adénopathie
+T13	morphologie 1619 1630	adénopathie
+T14	morphologie 1764 1769	masse
+T15	expression_CIM 1764 1916	masse mesurant 9-10 centimètres (cm) de longueur maximale, dure, fixée aux plans profonds et indolore, était palpable dans le tiers proximal de la fesse
+T16	topographie 1911 1916	fesse
+T17	morphologie 2202 2219	images nodulaires
+T18	expression_CIM 2202 2245	images nodulaires hyperintenses pulmonaires
+T19	topographie 2234 2245	pulmonaires
+T20	expression_CIM 2262 2279	lâcher de ballons
+T21	morphologie 2262 2279	lâcher de ballons
+T22	morphologie 2303 2317	lésion lytique
+T23	expression_CIM 2303 2380	lésion lytique intramédullaire dans le tiers proximal de la diaphyse fémorale
+T25	topographie 2363 2380	diaphyse fémorale
+T26	morphologie 2558 2563	Masse
+T27	expression_CIM 2558 2629	Masse de tissu mou (11 x 7,5 cm) dans les muscles adducteurs et cruraux
+T29	morphologie 2779 2785	lésion
+T30	expression_CIM 2779 2838	lésion hémorragique temporale droite (2,8 cm) et occipitale
+T31	topographie 2799 2808	temporale
+T32	topographie 2828 2838	occipitale
+T33	morphologie 2856 2862	Nodule
+T34	expression_CIM 2856 2893	Nodule leptoméningé pariéto-occipital
+T35	topographie 2863 2893	leptoméningé pariéto-occipital
+T36	morphologie 3197 3228	ostéosarcome à petites cellules
+T37	expression_CIM 3197 3242	ostéosarcome à petites cellules de haut grade
+T38	differenciation 3232 3242	haut grade
+T39	expression_CIM 3256 3287	Ostéosarcome à petites cellules
+T40	morphologie 3256 3287	Ostéosarcome à petites cellules
+T41	expression_CIM 3300 3308	stade IV
+T42	morphologie 3300 3308	stade IV
+T43	morphologie 3310 3318	atteinte
+T44	expression_CIM 3310 3344	atteinte du cerveau et des poumons
+T45	topographie 3322 3329	cerveau
+T46	topographie 3337 3344	poumons
+T47	expression_CIM 3636 3642	tumeur
+T48	morphologie 3636 3642	tumeur
+T49	morphologie 3664 3670	lésion
+T50	expression_CIM 3664 3683	lésion de la cuisse
+T51	topographie 3677 3683	cuisse
+T8	topographie 785 796	tissus mous
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/3
+#6	ICD-O T7	C40.2
+#7	ICD-O T9	8000/6
+#8	ICD-O T10	C71.0 8000/6
+#9	ICD-O T11	C71.0
+#10	ICD-O T12	C77.9 8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	C76.3 8000/1
+#14	ICD-O T16	C76.3
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	C34.9 8000/1
+#17	ICD-O T19	C34.9
+#18	ICD-O T20	8000/6
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	tocheck
+#21	ICD-O T25	C40.2
+#22	ICD-O T26	8000/1
+#23	ICD-O T27	C49.3 8000/1;C49.9 8000/1
+#24	ICD-O T29	8000/1
+#25	ICD-O T30	C41.0 8000/1
+#26	ICD-O T31	C41.0
+#27	ICD-O T32	C41.0
+#28	ICD-O T33	8000/1
+#29	ICD-O T34	C70.9 8000/1;C71.8 8000/1
+#30	ICD-O T35	C70.1 
+#31	ICD-O T36	9185/3
+#32	ICD-O T37	9185/34
+#33	ICD-O T38	4
+#34	ICD-O T39	9185/3
+#35	ICD-O T40	9185/3
+#36	ICD-O T41	8000/6
+#37	ICD-O T42	8000/6
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	C34.9 8000/1;C71.0 8000/1
+#40	ICD-O T45	C71.0
+#41	ICD-O T46	C34.9
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	8000/1
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C76.5 8000/1
+#46	ICD-O T51	C76.5

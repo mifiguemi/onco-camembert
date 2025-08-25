@@ -1,0 +1,23 @@
+T1	morphologie 1409 1426	lâcher de ballons
+T3	topographie 1443 1450	poumons
+T4	morphologie 1555 1562	nodules
+T6	topographie 1563 1574	pulmonaires
+T8	morphologie 1591 1608	lâcher de ballons
+T10	morphologie 1632 1642	métastases
+T11	morphologie 1767 1779	infiltration
+T13	topographie 1792 1817	ligament gastro-hépatique
+T14	morphologie 2241 2250	néoplasie
+T16	topographie 2256 2271	œsophage distal
+T18	morphologie 2380 2405	adénocarcinome infiltrant
+T19	morphologie 2419 2433	Adénocarcinome
+T21	topographie 2440 2469	jonction gastro-oesophagienne
+T23	morphologie 2471 2479	stade IV
+T24	morphologie 2481 2483	M1
+T26	topographie 2484 2494	pulmonaire
+T28	morphologie 2964 2972	récidive
+T29	morphologie 3039 3046	lésions
+T31	topographie 3047 3058	pulmonaires
+T34	morphologie 3744 3755	progression
+T36	topographie 3756 3763	osseuse
+T32	morphologie 3682 3688	lésion
+T37	morphologie 3702 3720	d'origine tumorale

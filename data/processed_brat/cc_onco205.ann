@@ -1,0 +1,43 @@
+T1	morphologie 88 109	mélanome épithélioïde
+T3	differenciation 113 132	niveau III de Clark
+T4	topographie 139 149	avant-bras
+T6	morphologie 296 310	mélanome malin
+T7	morphologie 554 562	grosseur
+T9	topographie 585 593	aisselle
+T11	morphologie 701 711	métastases
+T13	morphologie 715 723	mélanome
+T15	morphologie 798 816	maladie à distance
+T16	morphologie 1056 1062	nodule
+T18	topographie 1100 1110	lobe moyen
+T20	morphologie 1613 1620	nodules
+T22	topographie 1629 1635	poumon
+T23	topographie 1657 1660	LID
+T25	morphologie 1697 1706	métastase
+T26	morphologie 1711 1717	nodule
+T28	topographie 1721 1723	LM
+T29	morphologie 1792 1807	lésion kystique
+T31	topographie 1827 1843	espace hépatique
+T33	morphologie 1857 1878	Mélanome métastatique
+T35	morphologie 1993 2018	progression de la maladie
+T36	morphologie 2417 2423	lésion
+T38	topographie 2424 2434	pulmonaire
+T39	topographie 2452 2455	LII
+T40	morphologie 2692 2714	atteinte adénopathique
+T42	topographie 2715 2727	médiastinale
+T43	morphologie 2749 2755	nodule
+T45	topographie 2756 2766	pulmonaire
+T47	morphologie 2806 2813	nodules
+T48	morphologie 2830 2837	plaques
+T50	topographie 2838 2847	pleurales
+T52	morphologie 3219 3240	cellules néoplasiques
+T54	morphologie 3749 3769	progression tumorale
+T55	morphologie 3799 3805	masses
+T57	topographie 3806 3815	pleurales
+T58	morphologie 3829 3838	métastase
+T60	topographie 3839 3852	surrénalienne
+T61	morphologie 3871 3883	adénopathies
+T63	topographie 3884 3897	médiastinales
+T64	topographie 3899 3907	hilaires
+T65	topographie 3911 3922	abdominales
+T67	morphologie 4375 4391	réponse tumorale
+T19	topographie 1112 1115	LM)

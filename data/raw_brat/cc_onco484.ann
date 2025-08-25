@@ -1,0 +1,149 @@
+T66	morphologie 6681 6712	foyer nodulaire de rehaussement
+T1	expression_CIM 597 618	néoformation primaire
+T2	morphologie 597 618	néoformation primaire
+T3	expression_CIM 620 643	glioblastome multiforme
+T4	morphologie 620 643	glioblastome multiforme
+T5	expression_CIM 920 926	masses
+T6	morphologie 920 926	masses
+T7	expression_CIM 1303 1309	lésion
+T8	morphologie 1303 1309	lésion
+T9	expression_CIM 1731 1737	lésion
+T10	morphologie 1731 1737	lésion
+T11	morphologie 1748 1757;1787 1795	néoplasme primaire
+T12	expression_CIM 1748 1813	néoplasme intracérébral supratentoriel primaire, temporo-pariétal
+T13	topographie 1758 1786	intracérébral supratentoriel
+T14	topographie 1797 1813	temporo-pariétal
+T15	expression_CIM 1878 1889	astrocytome
+T16	morphologie 1878 1889	astrocytome
+T17	morphologie 2001 2007	lésion
+T18	expression_CIM 2001 2030	lésion intra-axiale temporale
+T19	topographie 2008 2030	intra-axiale temporale
+T20	expression_CIM 2151 2157	lésion
+T21	morphologie 2151 2157	lésion
+T22	expression_CIM 2406 2427	néoformation primaire
+T23	morphologie 2406 2427	néoformation primaire
+T24	expression_CIM 2445 2468	glioblastome multiforme
+T25	morphologie 2445 2468	glioblastome multiforme
+T26	morphologie 2501 2507;2518 2530	lésion métastatique
+T27	expression_CIM 2501 2530	lésion cérébrale métastatique
+T28	topographie 2508 2517	cérébrale
+T29	morphologie 2559 2565	gliome
+T30	expression_CIM 2559 2579	gliome de haut grade
+T31	differenciation 2569 2579	haut grade
+T32	morphologie 2599 2610	gliosarcome
+T33	expression_CIM 2599 2637	gliosarcome (GS) de grade IV (OMS 2007
+T34	morphologie 2612 2614	GS
+T35	differenciation 2619 2637	grade IV (OMS 2007
+T36	expression_CIM 2670 2676	lésion
+T37	morphologie 2670 2676	lésion
+T38	expression_CIM 2838 2859	tumeur gliale maligne
+T39	morphologie 2838 2859	tumeur gliale maligne
+T40	expression_CIM 2885 2895	métastases
+T41	morphologie 2885 2895	métastases
+T42	morphologie 2913 2919	gliome
+T43	expression_CIM 2913 2933	gliome de haut grade
+T44	differenciation 2923 2933	haut grade
+T45	morphologie 2953 2964	gliosarcome
+T46	expression_CIM 2953 2991	gliosarcome (GS) de grade IV (OMS 2007
+T47	morphologie 2966 2968	GS
+T48	differenciation 2973 2991	grade IV (OMS 2007
+T49	morphologie 3452 3458	gliome
+T50	expression_CIM 3452 3472	gliome de haut grade
+T51	differenciation 3462 3472	haut grade
+T52	expression_CIM 3886 3903	récidive tumorale
+T53	morphologie 3886 3903	récidive tumorale
+T54	expression_CIM 4209 4215	lésion
+T55	morphologie 4209 4215	lésion
+T56	morphologie 4328 4339	gliosarcome
+T57	expression_CIM 4328 4351	gliosarcome de grade IV
+T58	differenciation 4343 4351	grade IV
+T59	expression_CIM 5510 5518	récidive
+T60	morphologie 5510 5518	récidive
+T61	expression_CIM 6490 6505	restes tumoraux
+T62	morphologie 6490 6505	restes tumoraux
+T63	expression_CIM 6588 6594	foyers
+T64	morphologie 6588 6594	foyers
+T65	expression_CIM 6681 6712	foyer nodulaire de rehaussement
+T67	expression_CIM 6873 6879	tumeur
+T68	morphologie 6873 6879	tumeur
+T69	expression_CIM 6884 6892	récidive
+T70	morphologie 6884 6892	récidive
+T71	expression_CIM 6928 6943	foyer nodulaire
+T72	morphologie 6928 6943	foyer nodulaire
+T73	morphologie 7050 7063;7076 7088	dissémination de la tumeur
+T74	expression_CIM 7050 7088	dissémination épendymaire de la tumeur
+T75	topographie 7064 7075	épendymaire
+T76	expression_CIM 7362 7368	tumeur
+T77	morphologie 7362 7368	tumeur
+#1	ICD-O T66	8000/9
+#2	ICD-O T1	8000/3
+#3	ICD-O T2	8000/3
+#4	ICD-O T3	9440/3
+#5	ICD-O T4	9440/3
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	8000/1
+#8	ICD-O T7	8000/1
+#9	ICD-O T8	8000/1
+#10	ICD-O T9	8000/1
+#11	ICD-O T10	8000/1
+#12	ICD-O T11	8000/3
+#13	ICD-O T12	C71.0 8000/3;C71.8 8000/3
+#14	ICD-O T13	C71.0
+#15	ICD-O T14	C71.8
+#16	ICD-O T15	9400/3
+#17	ICD-O T16	9400/3
+#18	ICD-O T17	8000/1
+#19	ICD-O T18	C71.2 8000/1
+#20	ICD-O T19	C71.2
+#21	ICD-O T20	8000/1
+#22	ICD-O T21	8000/1
+#23	ICD-O T22	8000/3
+#24	ICD-O T23	8000/3
+#25	ICD-O T24	9440/3
+#26	ICD-O T25	9440/3
+#27	ICD-O T26	8000/6
+#28	ICD-O T27	C71.0 8000/6
+#29	ICD-O T28	C71.9
+#30	ICD-O T29	9380/3
+#31	ICD-O T30	9380/34
+#32	ICD-O T31	4
+#33	ICD-O T32	9442/3
+#34	ICD-O T34	9442/3
+#35	ICD-O T35	4
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	9380/3
+#39	ICD-O T39	9380/3
+#40	ICD-O T40	8000/6
+#41	ICD-O T41	8000/6
+#42	ICD-O T42	9380/3
+#43	ICD-O T43	9380/34
+#44	ICD-O T44	4
+#45	ICD-O T45	9442/3
+#46	ICD-O T47	9442/3
+#47	ICD-O T48	4
+#48	ICD-O T49	9380/3
+#49	ICD-O T50	9380/34
+#50	ICD-O T51	4
+#51	ICD-O T52	8000/6
+#52	ICD-O T53	8000/9
+#53	ICD-O T54	8000/1
+#54	ICD-O T55	8000/1
+#55	ICD-O T56	9442/3
+#56	ICD-O T57	9442/34
+#57	ICD-O T58	4
+#58	ICD-O T59	8000/6
+#59	ICD-O T60	8000/9
+#60	ICD-O T61	8000/3
+#61	ICD-O T62	8000/3
+#62	ICD-O T63	8000/1
+#63	ICD-O T64	8000/1
+#64	ICD-O T67	8000/1
+#65	ICD-O T68	8000/3
+#66	ICD-O T69	8000/6
+#67	ICD-O T70	8000/9
+#68	ICD-O T72	8000/1
+#69	ICD-O T73	8000/6
+#70	ICD-O T75	C71.5
+#71	ICD-O T76	8000/1
+#72	ICD-O T77	8000/3

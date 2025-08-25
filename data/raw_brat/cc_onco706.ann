@@ -1,0 +1,93 @@
+T36	topographie 1512 1528	muscles obliques
+T37	topographie 1535 1553	quadratus lumborum
+T1	expression_CIM 265 277	mésothéliome
+T2	morphologie 265 277	mésothéliome
+T3	expression_CIM 281 289	stade IV
+T4	morphologie 281 289	stade IV
+T5	morphologie 383 391	implants
+T6	expression_CIM 383 400	implants pleuraux
+T7	topographie 392 400	pleuraux
+T8	expression_CIM 416 434	maladie disséminée
+T9	morphologie 416 434	maladie disséminée
+T10	morphologie 941 950	progresse
+T11	expression_CIM 941 968	progresse au niveau pleural
+T12	topographie 961 968	pleural
+T13	morphologie 981 986	masse
+T14	expression_CIM 981 1002	masse des tissus mous
+T15	topographie 991 1002	tissus mous
+T16	morphologie 1129 1140	progression
+T17	expression_CIM 1129 1149	progression pleurale
+T18	topographie 1141 1149	pleurale
+T19	morphologie 1153 1165	infiltration
+T20	expression_CIM 1153 1194	infiltration de la paroi de l'hypochondre
+T21	topographie 1183 1194	hypochondre
+T22	morphologie 1207 1212	masse
+T23	expression_CIM 1207 1228	masse des tissus mous
+T24	topographie 1217 1228	tissus mous
+T25	expression_CIM 1321 1344	stabilité de la maladie
+T26	morphologie 1321 1344	stabilité de la maladie
+T27	morphologie 1374 1385	progression
+T28	expression_CIM 1374 1420	progression au niveau pleural et ganglionnaire
+T29	topographie 1396 1403	pleural
+T30	topographie 1407 1420	ganglionnaire
+T31	morphologie 1422 1432	infiltrant
+T32	expression_CIM 1422 1553	infiltrant l'œsophage distal, la paroi thoracique, le 12e deuxième arc costal gauche, les muscles obliques et le quadratus lumborum
+T33	topographie 1435 1450	œsophage distal
+T34	topographie 1455 1471	paroi thoracique
+T35	topographie 1476 1499	12e deuxième arc costal
+T38	topographie 2238 2254	paroi thoracique
+T39	expression_CIM 2238 2289	paroi thoracique gauche, il présentait trois masses
+T40	morphologie 2283 2289	masses
+T41	expression_CIM 2377 2389	adénopathies
+T42	morphologie 2377 2389	adénopathies
+T43	expression_CIM 2542 2548	masses
+T44	morphologie 2542 2548	masses
+T45	expression_CIM 2946 2953	nodules
+T46	morphologie 2946 2953	nodules
+T47	morphologie 3685 3692	rechute
+T48	expression_CIM 3685 3700	rechute cutanée
+T49	topographie 3693 3700	cutanée
+#1	ICD-O T1	9050/3
+#2	ICD-O T2	9050/3
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	C38.4 8000/6
+#7	ICD-O T7	C38.4
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/9
+#11	ICD-O T12	C38.4
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C49.9 8000/1
+#14	ICD-O T15	C49.9
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	C38.4 8000/6
+#17	ICD-O T18	C38.4
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C76.2 8000/1
+#20	ICD-O T21	C76.2
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C49.9 8000/1
+#23	ICD-O T24	C49.9
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	8000/6
+#26	ICD-O T27	8000/6
+#27	ICD-O T28	C38.4 8000/6;C77.9 8000/6
+#28	ICD-O T29	C38.4
+#29	ICD-O T30	C77.9
+#30	ICD-O T31	8000/9
+#31	ICD-O T33	C15.5
+#32	ICD-O T34	C76.1
+#33	ICD-O T35	C41.3
+#34	ICD-O T38	C76.1
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	C77.9 8000/1
+#37	ICD-O T42	8000/1
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	8000/3
+#43	ICD-O T48	C44.9 8000/3
+#44	ICD-O T49	C44.9

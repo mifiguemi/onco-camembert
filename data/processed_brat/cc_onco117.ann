@@ -1,0 +1,53 @@
+T1	morphologie 525 530	masse
+T3	topographie 531 544	surrénalienne
+T5	morphologie 558 576	maladie à distance
+T7	morphologie 821 826	masse
+T8	morphologie 862 875	neuroblastome
+T10	differenciation 876 887	anaplasique
+T11	morphologie 1007 1020	neuroblastome
+T13	differenciation 1021 1032	anaplasique
+T15	morphologie 1626 1641	récidive locale
+T16	morphologie 1674 1681	nodules
+T18	topographie 1682 1696	périspléniques
+T20	morphologie 1763 1770	nodules
+T21	morphologie 1845 1853	implants
+T23	topographie 1892 1896	rate
+T26	morphologie 2317 2322	masse
+T28	morphologie 2624 2648	infiltration néoplasique
+T30	morphologie 2877 2894	récidive tumorale
+T31	morphologie 2936 2943	nodules
+T33	topographie 2951 2962	hypochondre
+T35	morphologie 3252 3260	implants
+T36	morphologie 3264 3298	tumeur neuroectodermique primitive
+T38	topographie 3337 3341	rate
+T39	morphologie 3358 3366	implants
+T41	topographie 3375 3405	graisse périhilaire de la rate
+T43	morphologie 3426 3434	implants
+T45	morphologie 3617 3637	cellularité tumorale
+T48	topographie 4147 4163	glande surrénale
+T49	morphologie 4193 4200	rechute
+T51	topographie 4201 4210	splénique
+T52	morphologie 4250 4257	maladie
+T54	topographie 4280 4289	abdominal
+T55	morphologie 4306 4314	implants
+T57	topographie 4315 4326	péritonéaux
+T58	morphologie 4353 4366	neuroblastome
+T60	differenciation 4367 4378	anaplasique
+T61	morphologie 4634 4642	récidive
+T63	topographie 4643 4654	péritonéale
+T65	morphologie 4762 4770	sarcomes
+T66	morphologie 4801 4809	implants
+T68	topographie 4810 4830	péritonéaux pelviens
+T69	morphologie 4836 4844	implants
+T73	morphologie 4928 4943	sarcome d'Ewing
+T74	morphologie 5668 5675	nodules
+T76	topographie 5676 5687	péritonéaux
+T77	morphologie 5929 5935	nodule
+T79	topographie 5936 5943	pelvien
+T80	topographie 6119 6127	épiploon
+T82	morphologie 6139 6146	nodules
+T83	morphologie 6183 6191	implants
+T85	topographie 6200 6217	péritoine pelvien
+T24	topographie 1908 1932	ligament gastrosplénique
+T71	topographie 4853 4872	péritoine antérieur
+T46	morphologie 4080 4137	sarcome Ewing-PNET (tumeur neuroectodermique périphérique

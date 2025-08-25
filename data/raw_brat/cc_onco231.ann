@@ -1,0 +1,100 @@
+T1	morphologie 650 660	Oncocytome
+T2	expression_CIM 650 666	Oncocytome rénal
+T3	topographie 661 666	rénal
+T4	morphologie 1211 1225	adénocarcinome
+T5	expression_CIM 1211 1235	adénocarcinome gastrique
+T6	topographie 1226 1235	gastrique
+T7	morphologie 1241 1253	infiltration
+T8	expression_CIM 1241 1281	infiltration de la muqueuse œsophagienne
+T9	topographie 1260 1281	muqueuse œsophagienne
+T10	morphologie 1413 1425	adénopathies
+T11	expression_CIM 1413 1476	adénopathies locorégionales, rétropéritonéales et médiastinales
+T12	topographie 1442 1459	rétropéritonéales
+T13	topographie 1463 1476	médiastinales
+T14	morphologie 1482 1492	métastases
+T15	expression_CIM 1482 1503	métastases hépatiques
+T16	topographie 1493 1503	hépatiques
+T17	morphologie 1564 1570	nodule
+T18	expression_CIM 1564 1581	nodule thyroïdien
+T19	topographie 1571 1581	thyroïdien
+T20	expression_CIM 1847 1874	stabilisation de la maladie
+T21	morphologie 1847 1874	stabilisation de la maladie
+T22	morphologie 1939 1964	progression de la maladie
+T23	expression_CIM 1939 1997	progression de la maladie a été observée au niveau du foie
+T24	topographie 1993 1997	foie
+T25	expression_CIM 2005 2017	adénopathies
+T26	morphologie 2005 2017	adénopathies
+T27	morphologie 2035 2042	nodules
+T28	expression_CIM 2035 2054	nodules pulmonaires
+T29	topographie 2043 2054	pulmonaires
+T30	morphologie 2304 2315	progression
+T31	expression_CIM 2304 2367	progression après 3 cycles au niveau hépatique et adénopathique
+T32	topographie 2341 2350	hépatique
+T33	topographie 2354 2367	adénopathique
+T34	morphologie 2377 2390	stabilisation
+T35	expression_CIM 2377 2401	stabilisation pulmonaire
+T36	topographie 2391 2401	pulmonaire
+T37	expression_CIM 4206 4212	masses
+T38	morphologie 4206 4212	masses
+T39	morphologie 5369 5377	Atteinte
+T40	expression_CIM 5369 5424	Atteinte adénopathique médiastinale et sus-claviculaire
+T41	topographie 5392 5404	médiastinale
+T42	topographie 5408 5424	sus-claviculaire
+T43	morphologie 5433 5440	Nodules
+T44	expression_CIM 5433 5452	Nodules pulmonaires
+T45	topographie 5441 5452	pulmonaires
+T46	morphologie 5501 5515	Adénocarcinome
+T47	expression_CIM 5501 5562	Adénocarcinome de stade IV de la jonction gastro-œsophagienne
+T48	expression_CIM 5519 5527	stade IV
+T49	morphologie 5519 5527	stade IV
+T50	topographie 5534 5562	jonction gastro-œsophagienne
+#1	ICD-O T1	8290/0
+#2	ICD-O T2	C64.9 8290/0
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	C16.9 8140/3
+#6	ICD-O T6	C16.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C15.9 8000/1
+#9	ICD-O T9	C15.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.1 8000/1;C77.2 8000/1
+#12	ICD-O T12	C48.0
+#13	ICD-O T13	C38.3
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	C22.0 8000/6
+#16	ICD-O T16	C22.0
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C73.9 8000/1
+#19	ICD-O T19	C73.9
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C22.0 8000/1
+#24	ICD-O T24	C22.0
+#25	ICD-O T25	C77.9 8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	C34.9 8000/1
+#29	ICD-O T29	C34.9
+#30	ICD-O T30	8000/6
+#31	ICD-O T31	C22.0 8000/6;C77.9 8000/6
+#32	ICD-O T32	C22.0
+#33	ICD-O T33	C77.9
+#34	ICD-O T34	8000/3
+#35	ICD-O T35	C34.9 8000/3
+#36	ICD-O T36	C34.9
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	C38.3 8000/1;C76.0 8000/1;C77.9 8000/1
+#41	ICD-O T41	C38.3
+#42	ICD-O T42	C76.0
+#43	ICD-O T43	8000/1
+#44	ICD-O T44	C34.9 8000/1
+#45	ICD-O T45	C34.9
+#46	ICD-O T46	8140/3
+#47	ICD-O T47	C16.0 8140/3
+#48	ICD-O T48	8000/6
+#49	ICD-O T49	8000/6
+#50	ICD-O T50	C16.0

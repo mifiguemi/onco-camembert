@@ -1,0 +1,251 @@
+T72	topographie 5284 5297	extra-osseuse
+T1	morphologie 265 301	carcinome basocellulaire superficiel
+T2	expression_CIM 265 343	carcinome basocellulaire superficiel a été diagnostiqué dans la région malaire
+T4	morphologie 664 670	tumeur
+T5	expression_CIM 664 709	tumeur dans le quadrant super-externe du sein
+T6	topographie 679 709	quadrant super-externe du sein
+T7	expression_CIM 1015 1021	masses
+T8	morphologie 1015 1021	masses
+T9	morphologie 1120 1126	nodule
+T10	expression_CIM 1120 1229	nodule adhérent et non douloureux d'environ 4 cm de diamètre dans le quadrant supérieur externe (CSE) du sein
+T11	topographie 1189 1229	quadrant supérieur externe (CSE) du sein
+T12	morphologie 1242 1258	lymphadénopathie
+T13	expression_CIM 1242 1297	lymphadénopathie axillaire, supra- ou infraclaviculaire
+T14	topographie 1259 1268	axillaire
+T15	topographie 1270 1297	supra- ou infraclaviculaire
+T16	morphologie 1316 1322	tumeur
+T17	expression_CIM 1316 1335	tumeur dans le sein
+T18	topographie 1331 1335	sein
+T19	morphologie 1597 1612;1644 1674	image nodulaire hautement suspect de malignité
+T20	expression_CIM 1597 1674	image nodulaire de 5 cm dans le sein droit CSE hautement suspect de malignité
+T22	morphologie 1699 1714;1748 1779	image nodulaire modérément suspect de malignité
+T23	expression_CIM 1699 1779	image nodulaire de 17 mm dans le sein gauche CSE modérément suspect de malignité
+T25	expression_CIM 1885 1915	carcinome canalaire infiltrant
+T26	morphologie 1885 1915	carcinome canalaire infiltrant
+T27	morphologie 2273 2282	carcinome
+T28	expression_CIM 2273 2291	carcinome mammaire
+T29	topographie 2283 2291	mammaire
+T30	expression_CIM 2498 2504	lésion
+T31	morphologie 2498 2504	lésion
+T32	morphologie 2690 2696	tumeur
+T33	expression_CIM 2690 2709	tumeur dans le sein
+T34	topographie 2705 2709	sein
+T35	morphologie 2788 2821	carcinome canalaire in situ (CCIS
+T36	expression_CIM 2788 2852	carcinome canalaire in situ (CCIS) de 1,2 cm, de grade non élevé
+T37	differenciation 2834 2852	de grade non élevé
+T38	expression_CIM 2905 2915	métastases
+T39	morphologie 2905 2915	métastases
+T40	morphologie 3211 3220	carcinome
+T41	expression_CIM 3211 3229	carcinome mammaire
+T42	topographie 3221 3229	mammaire
+T43	expression_CIM 3270 3303	carcinome canalaire in situ (CCIS
+T44	morphologie 3270 3303	carcinome canalaire in situ (CCIS
+T45	morphologie 3315 3345	carcinome canalaire infiltrant
+T46	expression_CIM 3315 3353	carcinome canalaire infiltrant du sein
+T47	topographie 3349 3353	sein
+T48	morphologie 3550 3556	tumeur
+T49	expression_CIM 3550 3569	tumeur dans le sein
+T50	topographie 3565 3569	sein
+T51	morphologie 3756 3762	tumeur
+T52	expression_CIM 3756 3782	tumeur dans le SCC du sein
+T54	expression_CIM 3856 3862	tumeur
+T55	morphologie 3856 3862	tumeur
+T56	morphologie 3920 3926	nodule
+T57	expression_CIM 3920 3934	nodule du sein
+T58	topographie 3930 3934	sein
+T59	morphologie 4157 4187	carcinome canalaire infiltrant
+T60	expression_CIM 4157 4198	carcinome canalaire infiltrant de grade I
+T61	differenciation 4191 4198	grade I
+T62	expression_CIM 4711 4724	lits tumoraux
+T63	morphologie 4711 4724	lits tumoraux
+T64	expression_CIM 5074 5099	progression de la maladie
+T65	morphologie 5074 5099	progression de la maladie
+T66	morphologie 5109 5117;5126 5138	atteinte métastatique
+T67	expression_CIM 5109 5159	atteinte osseuse métastatique des corps vertébraux
+T68	topographie 5118 5125	osseuse
+T69	topographie 5143 5159	corps vertébraux
+T70	morphologie 5263 5283	maladie métastatique
+T71	expression_CIM 5263 5297	maladie métastatique extra-osseuse
+T73	expression_CIM 5473 5483	métastases
+T74	morphologie 5473 5483	métastases
+T75	morphologie 5489 5498	carcinome
+T76	expression_CIM 5489 5507	carcinome mammaire
+T77	topographie 5499 5507	mammaire
+T78	morphologie 5767 5774	lésions
+T79	expression_CIM 5767 5783	lésions osseuses
+T80	topographie 5775 5783	osseuses
+T81	morphologie 5805 5811	lésion
+T82	expression_CIM 5805 5835	lésion subsistant au niveau L1
+T83	topographie 5833 5835	L1
+T84	expression_CIM 6038 6063	progression de la maladie
+T85	morphologie 6038 6063	progression de la maladie
+T86	morphologie 6221 6227	tumeur
+T87	expression_CIM 6221 6263	tumeur est apparue dans la muqueuse jugale
+T88	topographie 6248 6263	muqueuse jugale
+T89	expression_CIM 6388 6411	prolifération lymphoïde
+T90	morphologie 6388 6411	prolifération lymphoïde
+T91	morphologie 6424 6447	lymphome non hodgkinien
+T92	expression_CIM 6424 6461	lymphome non hodgkinien de haut grade
+T93	differenciation 6451 6461	haut grade
+T94	expression_CIM 6528 6534	lésion
+T95	morphologie 6528 6534	lésion
+T96	expression_CIM 6582 6594	infiltration
+T97	morphologie 6582 6594	infiltration
+T98	expression_CIM 6602 6651	processus lymphoprolifératif à grandes cellules B
+T99	morphologie 6602 6651	processus lymphoprolifératif à grandes cellules B
+T100	morphologie 7142 7150	atteinte
+T101	expression_CIM 7142 7192	atteinte lymphatique supra et infradiaphragmatique
+T102	topographie 7151 7192	lymphatique supra et infradiaphragmatique
+T103	morphologie 7198 7206	atteinte
+T104	expression_CIM 7198 7216	atteinte splénique
+T105	topographie 7207 7216	splénique
+T106	morphologie 7234 7259	lésions hypermétaboliques
+T107	expression_CIM 7234 7276	lésions hypermétaboliques au niveau osseux
+T108	topographie 7270 7276	osseux
+T109	expression_CIM 7424 7460	lymphome diffus à grandes cellules B
+T110	morphologie 7424 7460	lymphome diffus à grandes cellules B
+T111	expression_CIM 7464 7472	stade IV
+T112	morphologie 7464 7472	stade IV
+T113	expression_CIM 7574 7582	atteinte
+T114	morphologie 7574 7582	atteinte
+T115	expression_CIM 7598 7606	stade IV
+T116	morphologie 7598 7606	stade IV
+T117	morphologie 8272 8278	lésion
+T118	expression_CIM 8272 8300	lésion de la muqueuse jugale
+T119	topographie 8285 8300	muqueuse jugale
+T120	morphologie 8552 8572	dépôts pathologiques
+T121	expression_CIM 8552 8658	dépôts pathologiques dans les régions lymphatiques supra- et infradiaphragmatiques, spléniques et osseuses
+T123	morphologie 8794 8803	carcinome
+T124	expression_CIM 8794 8812	carcinome mammaire
+T125	topographie 8804 8812	mammaire
+T126	morphologie 9440 9452	adénopathies
+T127	expression_CIM 9440 9480	adénopathies axillaires ou médiastinales
+T128	topographie 9453 9463	axillaires
+T129	topographie 9467 9480	médiastinales
+T130	expression_CIM 9489 9496	lésions
+T131	morphologie 9489 9496	lésions
+T132	morphologie 9527 9539	adénopathies
+T133	expression_CIM 9527 9551	adénopathies abdominales
+T134	topographie 9540 9551	abdominales
+T3	topographie 329 343	région malaire
+T122	topographie 8582 8658	régions lymphatiques supra- et infradiaphragmatiques, spléniques et osseuses
+T53	topographie 3771 3782	SCC du sein
+T21	topographie 1629 1643	sein droit CSE
+T24	topographie 1732 1747	sein gauche CSE
+#1	ICD-O T1	8090/3
+#2	ICD-O T4	8000/1
+#3	ICD-O T5	C50.4 8000/1
+#4	ICD-O T6	C50.4
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/1
+#8	ICD-O T11	C50.4
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	C77.0 8000/1;C77.3 8000/1
+#11	ICD-O T14	C76.1
+#12	ICD-O T15	C76.8
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C50.9 8000/1
+#15	ICD-O T18	C50.9
+#16	ICD-O T19	8000/9
+#17	ICD-O T22	8000/1
+#18	ICD-O T25	8500/3
+#19	ICD-O T26	8500/3
+#20	ICD-O T27	8010/3
+#21	ICD-O T28	C50.9 8010/3
+#22	ICD-O T29	C50.9
+#23	ICD-O T30	8000/1
+#24	ICD-O T31	8000/1
+#25	ICD-O T32	8000/3
+#26	ICD-O T33	C50.9 8000/1
+#27	ICD-O T34	C50.9
+#28	ICD-O T35	8500/2
+#29	ICD-O T37	1
+#30	ICD-O T38	8000/6
+#31	ICD-O T39	8000/6
+#32	ICD-O T40	8010/3
+#33	ICD-O T41	C50.9 8010/3
+#34	ICD-O T42	C50.9
+#35	ICD-O T44	8500/2
+#36	ICD-O T45	8500/3
+#37	ICD-O T46	C50.9 8500/3
+#38	ICD-O T47	C50.9
+#39	ICD-O T48	8000/3
+#40	ICD-O T49	C50.9 8000/1
+#41	ICD-O T50	C50.9
+#42	ICD-O T51	8000/3
+#43	ICD-O T54	8000/1
+#44	ICD-O T55	8000/3
+#45	ICD-O T56	8000/1
+#46	ICD-O T57	C50.9 8000/1
+#47	ICD-O T58	C50.9
+#48	ICD-O T59	8500/3
+#49	ICD-O T60	8500/31
+#50	ICD-O T61	1
+#51	ICD-O T62	8000/3
+#52	ICD-O T63	8000/3
+#53	ICD-O T64	8000/1
+#54	ICD-O T65	8000/9
+#55	ICD-O T66	8000/6
+#56	ICD-O T67	C41.2 8000/6;C41.9 8000/6
+#57	ICD-O T68	C41.9
+#58	ICD-O T69	C41.2
+#59	ICD-O T70	8000/6
+#60	ICD-O T73	8000/6
+#61	ICD-O T74	8000/6
+#62	ICD-O T75	8010/3
+#63	ICD-O T76	C50.9 8010/3
+#64	ICD-O T77	C50.9
+#65	ICD-O T78	8000/1
+#66	ICD-O T79	C41.9 8000/1
+#67	ICD-O T80	C41.9
+#68	ICD-O T81	8000/1
+#69	ICD-O T82	C41.2 8000/1
+#70	ICD-O T83	C41.2
+#71	ICD-O T84	8000/1
+#72	ICD-O T85	8000/9
+#73	ICD-O T86	8000/3
+#74	ICD-O T88	C06.0
+#75	ICD-O T89	9970/1
+#76	ICD-O T90	9970/1
+#77	ICD-O T91	9591/3
+#78	ICD-O T92	9591/34
+#79	ICD-O T93	4
+#80	ICD-O T94	8000/1
+#81	ICD-O T95	8000/1
+#82	ICD-O T96	8000/1
+#83	ICD-O T97	8000/9
+#84	ICD-O T98	9680/3
+#85	ICD-O T99	9680/3
+#86	ICD-O T100	8000/9
+#87	ICD-O T101	C77.8 8000/1
+#88	ICD-O T102	C77.8
+#89	ICD-O T103	8000/9
+#90	ICD-O T104	C42.2 8000/1
+#91	ICD-O T105	C42.2
+#92	ICD-O T106	8000/9
+#93	ICD-O T107	C41.9 8000/1
+#94	ICD-O T108	C41.9
+#95	ICD-O T109	9680/3
+#96	ICD-O T110	9680/3
+#97	ICD-O T111	8000/6
+#98	ICD-O T112	8000/6
+#99	ICD-O T114	8000/9
+#100	ICD-O T115	8000/6
+#101	ICD-O T116	8000/6
+#102	ICD-O T117	8000/1
+#103	ICD-O T118	C06.0 8000/1
+#104	ICD-O T119	C06.0
+#105	ICD-O T120	8000/6
+#106	ICD-O T123	8010/3
+#107	ICD-O T124	C50.9 8010/3
+#108	ICD-O T125	C50.9
+#109	ICD-O T126	8000/1
+#110	ICD-O T127	C77.1 8000/1;C77.3 8000/1
+#111	ICD-O T128	C76.1
+#112	ICD-O T129	C38.3
+#113	ICD-O T130	8000/1
+#114	ICD-O T131	8000/1
+#115	ICD-O T132	8000/1
+#116	ICD-O T133	C77.2 8000/1
+#117	ICD-O T134	C76.2

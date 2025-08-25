@@ -1,0 +1,88 @@
+T54	topographie 3213 3224	col fémoral
+T16	topographie 1705 1709	dôme
+T55	topographie 3237 3249	lame iliaque
+T91	topographie 5467 5479	lame iliaque
+T109	topographie 7322 7335	niveau osseux
+T2	morphologie 676 682	masses
+T4	morphologie 1009 1021	adénopathies
+T5	morphologie 1432 1437	masse
+T7	topographie 1473 1477	rein
+T8	morphologie 1544 1549	masse
+T10	topographie 1580 1584	rein
+T11	morphologie 1613 1620	Lésions
+T13	topographie 1621 1631	hépatiques
+T14	morphologie 1661 1670	métastase
+T17	morphologie 1740 1745	masse
+T19	topographie 1746 1762	rétropéritonéale
+T20	morphologie 1805 1838	tumeur maligne à petites cellules
+T23	morphologie 1958 2010	tumeur neuroectodermique primitive extrasquelettique
+T25	morphologie 2012 2016	PNET
+T26	morphologie 2484 2489	masse
+T28	topographie 2490 2507	rétro-péritonéale
+T29	morphologie 2650 2657	lésions
+T31	topographie 2658 2668	hépatiques
+T33	morphologie 2692 2707	lésion kystique
+T34	morphologie 2719 2734	Lésion kystique
+T36	topographie 2759 2763	rate
+T37	morphologie 2829 2834	masse
+T39	topographie 2841 2848	uretère
+T40	morphologie 2859 2867	Atteinte
+T42	topographie 2868 2875	osseuse
+T44	morphologie 2909 2916	lésions
+T45	morphologie 2949 2959	métastases
+T47	topographie 2960 2968	osseuses
+T48	topographie 2970 2986	corps vertébraux
+T49	topographie 2990 2996	bassin
+T50	morphologie 3089 3124	augmentation de la captation focale
+T135	morphologie 3257 3287	compatible avec des métastases
+T53	topographie 3166 3173	ischion
+T56	topographie 3288 3296	osseuses
+T58	morphologie 3695 3709	tumeur maligne
+T60	morphologie 3730 3734	PNET
+T62	morphologie 4016 4020	PNET
+T63	morphologie 4051 4057	Tumeur
+T136	morphologie 4073 4091	à petites cellules
+T65	differenciation 4058 4072	indifférenciée
+T67	morphologie 4102 4106	PNET
+T69	morphologie 4128 4136	stade IV
+T70	morphologie 4138 4148	métastases
+T72	topographie 4149 4157	osseuses
+T73	topographie 4161 4171	hépatiques
+T74	morphologie 4183 4195	infiltration
+T76	topographie 4202 4216	moelle osseuse
+T77	morphologie 4218 4223	masse
+T79	topographie 4224 4240	rétropéritonéale
+T80	morphologie 4907 4912	Masse
+T82	topographie 4913 4929	rétropéritonéale
+T84	morphologie 5110 5116	Lésion
+T85	morphologie 5195 5216	Atteinte métastatique
+T87	topographie 5238 5253	squelette axial
+T88	morphologie 5413 5422	captation
+T92	morphologie 5978 5982	PNET
+T94	topographie 5983 5998	rétropéritonéal
+T96	morphologie 6002 6010	stade IV
+T97	morphologie 6608 6613	masse
+T99	topographie 6614 6630	rétropéritonéale
+T101	morphologie 6730 6740	Métastases
+T102	morphologie 7082 7100	prise pathologique
+T104	topographie 7101 7111	abdominale
+T106	morphologie 7227 7252	processus néoprolifératif
+T107	morphologie 7283 7301	prise pathologique
+T111	morphologie 7351 7355	PNET
+T113	morphologie 7372 7380	stade IV
+T114	morphologie 7431 7436	masse
+T116	topographie 7437 7453	rétropéritonéale
+T118	morphologie 7524 7529	masse
+T120	morphologie 7672 7677	masse
+T122	morphologie 7798 7813	tératome mature
+T123	morphologie 7831 7843	infiltration
+T125	topographie 7844 7850	rénale
+T126	topographie 7854 7863	urétérale
+T127	morphologie 8148 8159	adénopathie
+T129	topographie 8168 8187	bifurcation iliaque
+T130	morphologie 8224 8231	lésions
+T132	topographie 8232 8240	osseuses
+T133	topographie 8250 8266	corps vertébraux
+T134	topographie 8273 8279	bassin
+T52	topographie 3133 3155	région supra-orbitaire
+T90	topographie 5438 5453	supra-orbitaire

@@ -1,0 +1,45 @@
+T69	topographie 5722 5782	région épiphysométaphysaire du fémur distal interne du fémur
+T1	morphologie 737 743	cancer
+T3	topographie 747 752	colon
+T4	morphologie 765 771	cancer
+T6	topographie 775 781	poumon
+T7	morphologie 852 858	cancer
+T9	topographie 862 868	poumon
+T10	morphologie 912 918	cancer
+T12	topographie 922 926	sein
+T13	morphologie 974 980	cancer
+T15	topographie 984 992	pancréas
+T17	morphologie 1151 1163	adénopathies
+T19	morphologie 1397 1403	masses
+T21	topographie 2039 2054	condyle fémoral
+T23	morphologie 2189 2195	lésion
+T25	morphologie 2415 2421	lésion
+T27	morphologie 2478 2505	lésion néoplasique primaire
+T29	morphologie 2566 2580	chondrosarcome
+T31	morphologie 2607 2619	ostéosarcome
+T33	morphologie 3273 3291	maladie à distance
+T34	morphologie 3366 3372	Tumeur
+T36	topographie 3373 3380	osseuse
+T37	topographie 3423 3428	fémur
+T39	morphologie 3551 3562	microfoyers
+T41	morphologie 3593 3599	foyers
+T43	morphologie 3722 3728	foyers
+T45	morphologie 3745 3767	extension de la tumeur
+T47	morphologie 3855 3861	lésion
+T49	morphologie 3925 3931	tumeur
+T51	morphologie 4018 4037	masse intratumorale
+T52	morphologie 4256 4262	tumeur
+T54	topographie 4263 4270	osseuse
+T55	topographie 4311 4334	condyle fémoral interne
+T57	morphologie 4390 4415	tumeur à cellules géantes
+T58	morphologie 4535 4541	lésion
+T60	topographie 4558 4581	condyle fémoral interne
+T61	topographie 4585 4590	genou
+T63	morphologie 4669 4694	tumeur à cellules géantes
+T64	morphologie 4708 4733	Tumeur à cellules géantes
+T66	topographie 4742 4757	condyle fémoral
+T67	morphologie 5699 5705	Tumeur
+T71	morphologie 5829 5854	tumeur à cellules géantes
+T73	morphologie 6023 6029	tumeur
+T75	morphologie 6152 6158	lésion
+T77	morphologie 6579 6585	tumeur

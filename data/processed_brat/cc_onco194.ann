@@ -1,0 +1,33 @@
+T1	morphologie 271 295	carcinome basocellulaire
+T3	topographie 302 306	joue
+T5	morphologie 832 837	masse
+T7	morphologie 986 992	lésion
+T9	morphologie 1188 1194	lésion
+T10	morphologie 1223 1237	adénocarcinome
+T12	differenciation 1238 1251	indifférencié
+T13	morphologie 1344 1350	tumeur
+T15	topographie 1367 1389	jonction œso-gastrique
+T16	morphologie 1397 1409	adénopathies
+T18	topographie 1410 1429	juxta-œsophagiennes
+T19	topographie 1452 1477	ligament gastro-hépatique
+T21	morphologie 1486 1506	métastase à distance
+T22	morphologie 1641 1653	adécarcinome
+T24	differenciation 1654 1667	indifférencié
+T26	morphologie 2051 2072	adénocarcinome diffus
+T50	morphologie 2101 2137	avec des cellules en bague de signet
+T28	differenciation 2076 2083	grade 3
+T29	differenciation 2084 2099	peu différencié
+T32	morphologie 2218 2244	lymphangite carcinomateuse
+T33	morphologie 2270 2282	infiltration
+T35	topographie 2287 2299	lymphatiques
+T36	morphologie 2319 2344	infiltration métastatique
+T38	topographie 2358 2367	ganglions
+T40	morphologie 2395 2409	adénocarcinome
+T42	morphologie 2819 2860	tumeur une différenciation neuroendocrine
+T44	morphologie 2980 2992	tumeur mixte
+T45	morphologie 2995 3009	adénocarcinome
+T51	morphologie 3026 3059	avec cellules en anneau de signet
+T47	differenciation 3010 3025	peu différencié
+T49	morphologie 3063 3087	carcinome neuroendocrine
+T25	topographie 1691 1694	UGE
+T30	topographie 2143 2146	UGE

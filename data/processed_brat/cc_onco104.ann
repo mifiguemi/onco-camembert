@@ -1,0 +1,32 @@
+T1	morphologie 736 745	carcinome
+T3	topographie 746 752	cutané
+T4	morphologie 959 964	masse
+T6	topographie 965 981	intra-abdominale
+T8	morphologie 1104 1119	cellule maligne
+T10	morphologie 1535 1552	tératome kystique
+T12	morphologie 1821 1845	tératome kystique mature
+T14	morphologie 1900 1909	néoplasie
+T15	morphologie 2833 2839	nodule
+T17	topographie 2840 2850	pulmonaire
+T18	topographie 2951 2958	abdomen
+T20	morphologie 2975 2980	masse
+T21	morphologie 3443 3456	dissémination
+T23	topographie 3457 3468	péritonéale
+T25	morphologie 3477 3500	ganglions pathologiques
+T26	morphologie 3506 3514	atteinte
+T28	topographie 3515 3524	viscérale
+T29	morphologie 3578 3583	masse
+T31	topographie 3631 3637	ovaire
+T33	morphologie 3743 3749	nodule
+T35	morphologie 3877 3901	tératome kystique mature
+T37	morphologie 4048 4065	cellules malignes
+T38	morphologie 4103 4124	carcinome épidermoïde
+T40	differenciation 4125 4140	peu différencié
+T41	morphologie 4154 4168	kyste dermoïde
+T43	topographie 4169 4176	ovarien
+T44	morphologie 4247 4278	ganglions lymphatiques réactifs
+T47	morphologie 4439 4460	carcinome épidermoïde
+T49	differenciation 4461 4476	peu différencié
+T50	morphologie 4484 4498	kyste dermoïde
+T52	topographie 4499 4506	ovarien
+T46	topographie 4284 4291	omentum

@@ -1,0 +1,114 @@
+T42	topographie 4016 4034	ramus mandibulaire
+T1	morphologie 474 480	cancer
+T2	expression_CIM 474 488	cancer du sein
+T3	topographie 484 488	sein
+T4	expression_CIM 831 847	lymphadénopathie
+T5	morphologie 831 847	lymphadénopathie
+T6	expression_CIM 948 954	nodule
+T7	morphologie 948 954	nodule
+T8	expression_CIM 1149 1179	carcinome canalaire infiltrant
+T9	morphologie 1149 1179	carcinome canalaire infiltrant
+T10	expression_CIM 1181 1184	CDI
+T11	morphologie 1181 1184	CDI
+T12	morphologie 1285 1288	IDC
+T13	expression_CIM 1285 1299	IDC, Grade III
+T14	differenciation 1290 1299	Grade III
+T15	expression_CIM 1432 1435	IDC
+T16	morphologie 1432 1435	IDC
+T17	morphologie 2112 2121	métastase
+T18	expression_CIM 2112 2156	métastase osseuse unique au niveau du sacrum
+T19	topographie 2122 2129	osseuse
+T20	topographie 2150 2156	sacrum
+T21	expression_CIM 2327 2341	adénocarcinome
+T22	morphologie 2327 2341	adénocarcinome
+T23	expression_CIM 2343 2346	ADC
+T24	morphologie 2343 2346	ADC
+T25	expression_CIM 2411 2436	localisation métastatique
+T26	morphologie 2411 2436	localisation métastatique
+T27	expression_CIM 2694 2700	lésion
+T28	morphologie 2694 2700	lésion
+T29	expression_CIM 3152 3175	stabilité de la maladie
+T30	morphologie 3152 3175	stabilité de la maladie
+T31	expression_CIM 3598 3604	lésion
+T32	morphologie 3598 3604	lésion
+T33	morphologie 3670 3679	métastase
+T34	expression_CIM 3670 3687	métastase osseuse
+T35	topographie 3680 3687	osseuse
+T36	expression_CIM 3801 3810	métastase
+T37	morphologie 3801 3810	métastase
+T38	expression_CIM 3811 3814	ADC
+T39	morphologie 3811 3814	ADC
+T40	morphologie 3989 4007	prise pathologique
+T41	expression_CIM 3989 4091	prise pathologique dans le ramus mandibulaire gauche, dans la vertèbre D8 et dans la diaphyse du fémur
+T43	topographie 4051 4059	vertèbre
+T44	topographie 4074 4091	diaphyse du fémur
+T45	morphologie 4125 4136	progression
+T46	expression_CIM 4125 4144	progression osseuse
+T47	topographie 4137 4144	osseuse
+T48	morphologie 4499 4506	lésions
+T49	expression_CIM 4499 4515	lésions osseuses
+T50	topographie 4507 4515	osseuses
+T51	morphologie 4626 4637	progression
+T52	expression_CIM 4626 4645	progression osseuse
+T53	topographie 4638 4645	osseuse
+T54	morphologie 4681 4719	augmentation de l'activité métabolique
+T55	expression_CIM 4681 4744	augmentation de l'activité métabolique au niveau de la vertèbre
+T56	topographie 4736 4744	vertèbre
+T57	morphologie 4790 4800	métastases
+T58	expression_CIM 4790 4812	métastases vertébrales
+T59	topographie 4801 4812	vertébrales
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	C77.9 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8500/3
+#9	ICD-O T9	8500/3
+#10	ICD-O T10	8500/3
+#11	ICD-O T11	8500/3
+#12	ICD-O T12	8500/3
+#13	ICD-O T13	8500/33
+#14	ICD-O T14	3
+#15	ICD-O T15	8500/3
+#16	ICD-O T16	8500/3
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C41.4 8000/6;C41.9 8000/6
+#19	ICD-O T19	C41.9
+#20	ICD-O T20	C41.4
+#21	ICD-O T21	8140/3
+#22	ICD-O T22	8140/3
+#23	ICD-O T23	8140/3
+#24	ICD-O T24	8140/3
+#25	ICD-O T26	8000/6
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8000/6
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	C41.9 8000/6
+#34	ICD-O T35	C41.9
+#35	ICD-O T36	8000/6
+#36	ICD-O T37	8000/6
+#37	ICD-O T38	8140/3
+#38	ICD-O T39	8140/3
+#39	ICD-O T40	8000/9
+#40	ICD-O T43	C41.2
+#41	ICD-O T44	C40.2
+#42	ICD-O T45	8000/6
+#43	ICD-O T46	C41.9 8000/6
+#44	ICD-O T47	C41.9
+#45	ICD-O T48	8000/1
+#46	ICD-O T49	C41.9 8000/1
+#47	ICD-O T50	C41.9
+#48	ICD-O T51	8000/6
+#49	ICD-O T52	C41.9 8000/6
+#50	ICD-O T53	C41.9
+#51	ICD-O T54	8000/1
+#52	ICD-O T56	C41.2
+#53	ICD-O T57	8000/6
+#54	ICD-O T58	C41.2 8000/6
+#55	ICD-O T59	C41.2

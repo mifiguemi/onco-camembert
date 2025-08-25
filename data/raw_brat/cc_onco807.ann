@@ -1,0 +1,125 @@
+T1	morphologie 235 242	lésions
+T2	expression_CIM 235 253	lésions hépatiques
+T3	topographie 243 253	hépatiques
+T4	morphologie 350 359	carcinome
+T5	expression_CIM 350 375	carcinome peu différencié
+T6	differenciation 360 375	peu différencié
+T7	expression_CIM 460 475	cancer primaire
+T8	morphologie 460 475	cancer primaire
+T9	morphologie 481 489	atteinte
+T10	expression_CIM 481 499	atteinte hépatique
+T11	topographie 490 499	hépatique
+T12	expression_CIM 671 676	masse
+T13	morphologie 671 676	masse
+T14	morphologie 1807 1825	prise pathologique
+T15	expression_CIM 1807 1874	prise pathologique a été observée dans tout le parenchyme hépatique
+T16	topographie 1854 1874	parenchyme hépatique
+T17	expression_CIM 1898 1905	lésions
+T18	morphologie 1898 1905	lésions
+T19	morphologie 1991 1998	lésions
+T20	expression_CIM 1991 2066	lésions osseuses réparties dans la colonne vertébrale et la cage thoracique
+T21	topographie 1999 2007	osseuses
+T22	topographie 2026 2044	colonne vertébrale
+T23	topographie 2051 2066	cage thoracique
+T24	expression_CIM 2459 2474	tumeur primaire
+T25	morphologie 2459 2474	tumeur primaire
+T26	expression_CIM 2857 2865	primitif
+T27	morphologie 2857 2865	primitif
+T28	morphologie 3292 3301	carcinome
+T29	expression_CIM 3292 3334	carcinome indifférencié d'origine inconnue
+T30	differenciation 3302 3315	indifférencié
+T31	topographie 3318 3334	origine inconnue
+T32	topographie 3340 3355	voies biliaires
+T33	expression_CIM 3340 3411	voies biliaires étant l'origine la plus probable de la tumeur primitive
+T34	morphologie 3395 3411	tumeur primitive
+T35	morphologie 3486 3495	carcinome
+T36	expression_CIM 3486 3509	carcinome indifférencié
+T37	differenciation 3496 3509	indifférencié
+T38	morphologie 3753 3763	carcinomes
+T39	expression_CIM 3753 3783	carcinomes des voies biliaires
+T40	topographie 3768 3783	voies biliaires
+T41	morphologie 3831 3838	tumeurs
+T42	expression_CIM 3831 3857	tumeurs d'origine inconnue
+T43	topographie 3841 3857	origine inconnue
+T44	morphologie 4316 4323	lésions
+T45	expression_CIM 4316 4334	lésions hépatiques
+T46	topographie 4324 4334	hépatiques
+T47	morphologie 4363 4370	lésions
+T48	expression_CIM 4363 4379	lésions osseuses
+T49	topographie 4371 4379	osseuses
+T50	morphologie 4653 4658	prise
+T51	expression_CIM 4653 4679	prise hépatique et osseuse
+T52	topographie 4659 4668	hépatique
+T53	topographie 4672 4679	osseuse
+T54	expression_CIM 4700 4725	progression de la maladie
+T55	morphologie 4700 4725	progression de la maladie
+T56	morphologie 4733 4741	atteinte
+T57	expression_CIM 4733 4751	atteinte hépatique
+T58	topographie 4742 4751	hépatique
+T59	morphologie 5083 5090	tumeurs
+T60	expression_CIM 5083 5109	tumeurs d'origine inconnue
+T61	topographie 5093 5109	origine inconnue
+T62	morphologie 5201 5208	tumeurs
+T63	expression_CIM 5201 5228	tumeurs des voies biliaires
+T64	topographie 5213 5228	voies biliaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	8010/33
+#6	ICD-O T6	3
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	8000/3
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C22.0 8000/1
+#11	ICD-O T11	C22.0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/9
+#15	ICD-O T16	C22.0
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C41.2 8000/1;C41.9 8000/1;C76.1 8000/1
+#20	ICD-O T21	C41.9
+#21	ICD-O T22	C41.2
+#22	ICD-O T23	C76.1
+#23	ICD-O T24	8000/3
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	8000/3
+#26	ICD-O T27	8000/3
+#27	ICD-O T28	8010/3
+#28	ICD-O T29	C80.9 8010/34
+#29	ICD-O T30	4
+#30	ICD-O T31	C80.9
+#31	ICD-O T32	C24.9
+#32	ICD-O T33	C24.9 8000/3
+#33	ICD-O T34	8000/3
+#34	ICD-O T35	8010/3
+#35	ICD-O T36	8010/34
+#36	ICD-O T37	4
+#37	ICD-O T38	8010/3
+#38	ICD-O T39	C24.9 8010/3
+#39	ICD-O T40	C24.9
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	C80.9 8000/1
+#42	ICD-O T43	C80.9
+#43	ICD-O T44	8000/1
+#44	ICD-O T45	C22.0 8000/1
+#45	ICD-O T46	C22.0
+#46	ICD-O T47	8000/1
+#47	ICD-O T48	C41.9 8000/1
+#48	ICD-O T49	C41.9
+#49	ICD-O T50	tocheck
+#50	ICD-O T52	C22.0
+#51	ICD-O T53	C41.9
+#52	ICD-O T54	8000/1
+#53	ICD-O T55	8000/1
+#54	ICD-O T56	8000/1
+#55	ICD-O T57	C22.0 8000/1
+#56	ICD-O T58	C22.0
+#57	ICD-O T59	8000/3
+#58	ICD-O T60	C80.9 8000/1
+#59	ICD-O T61	C80.9
+#60	ICD-O T62	8000/3
+#61	ICD-O T64	C24.9

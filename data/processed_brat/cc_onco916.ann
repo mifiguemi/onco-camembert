@@ -1,0 +1,84 @@
+T98	topographie 5400 5416	espace pararénal
+T123	topographie 6503 6519	espace pararénal
+T15	topographie 1504 1516	médiastinale
+T124	topographie 1544 1556	suprahilaire
+T1	morphologie 409 418	néoplasie
+T3	topographie 422 427	côlon
+T5	morphologie 918 930	adénopathies
+T6	morphologie 1334 1340	cancer
+T8	topographie 1344 1350	poumon
+T9	morphologie 1423 1428	masse
+T11	topographie 1429 1439	pulmonaire
+T12	topographie 1473 1476	LSD
+T13	morphologie 1498 1503	masse
+T125	morphologie 1517 1530	adénopathique
+T16	morphologie 1701 1706	masse
+T18	topographie 1707 1720	surrénalienne
+T19	morphologie 1802 1807	masse
+T21	topographie 1808 1818	pulmonaire
+T23	morphologie 1876 1919	tumeur maligne avec des cellules fusiformes
+T25	morphologie 1940 1962	carcinome sarcomatoïde
+T27	topographie 2055 2065	pulmonaire
+T28	topographie 2069 2072	LSD
+T29	morphologie 2099 2111	infiltration
+T31	topographie 2127 2147	graisse médiastinale
+T32	morphologie 2214 2224	métastases
+T34	topographie 2225 2246	musculaires fessières
+T35	morphologie 2254 2264	métastases
+T37	topographie 2265 2273	osseuses
+T38	morphologie 2347 2356	néoplasie
+T126	morphologie 2378 2402	à caractère sarcomatoïde
+T40	topographie 2367 2377	pulmonaire
+T41	morphologie 2408 2418	métastases
+T43	topographie 2419 2427	osseuses
+T44	topographie 2429 2440	musculaires
+T45	topographie 2444 2458	surrénaliennes
+T47	morphologie 2999 3020	tumeurs sarcomatoïdes
+T48	morphologie 3455 3460	masse
+T50	topographie 3469 3472	LSD
+T51	morphologie 3531 3537	lésion
+T53	topographie 3538 3551	surrénalienne
+T54	morphologie 3874 3880	lésion
+T56	topographie 3881 3897	paramédiastinale
+T58	morphologie 3943 3975	carcinome non à petites cellules
+T60	morphologie 3977 3982	NSCLC
+T62	morphologie 3997 4011	adénocarcinome
+T64	morphologie 4162 4167	NSCLC
+T66	morphologie 4171 4179	stade IV
+T67	morphologie 4195 4203	atteinte
+T69	topographie 4204 4211	osseuse
+T70	topographie 4215 4228	surrénalienne
+T71	morphologie 4258 4266	atteinte
+T73	topographie 4267 4274	osseuse
+T74	morphologie 4304 4310	lésion
+T76	topographie 4311 4321	pulmonaire
+T77	morphologie 4345 4351	lésion
+T79	topographie 4352 4365	surrénalienne
+T80	morphologie 4925 4936	adénopathie
+T82	topographie 4937 4953	sus-claviculaire
+T83	morphologie 5065 5090	progression de la maladie
+T85	topographie 5101 5114	ganglionnaire
+T86	morphologie 5133 5152	masse adénopathique
+T88	topographie 5153 5168	latérocervicale
+T89	topographie 5172 5189	sous-claviculaire
+T90	topographie 5213 5223	pulmonaire
+T91	morphologie 5244 5250	lésion
+T93	topographie 5251 5267	paramédiastinale
+T94	topographie 5271 5274	LSD
+T95	topographie 5306 5319	surrénalienne
+T96	morphologie 5386 5392	nodule
+T100	morphologie 5448 5469	implantation tumorale
+T101	morphologie 5496 5515	masse adénopathique
+T103	topographie 5516 5531	latérocervicale
+T104	topographie 5532 5549	sous-claviculaire
+T106	morphologie 5742 5748	tumeur
+T108	morphologie 5826 5844	cellules tumorales
+T109	morphologie 6000 6005	masse
+T111	topographie 6009 6029	ganglion lymphatique
+T112	morphologie 6261 6286	conglomérat adénopathique
+T114	topographie 6287 6301	latérocervical
+T115	morphologie 6343 6348	masse
+T117	topographie 6369 6372	LSD
+T118	morphologie 6424 6430	lésion
+T120	topographie 6431 6444	surrénalienne
+T121	morphologie 6489 6495	nodule

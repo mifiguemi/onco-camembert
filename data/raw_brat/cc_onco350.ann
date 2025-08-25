@@ -1,0 +1,61 @@
+T1	morphologie 189 195	tumeur
+T2	expression_CIM 189 206	tumeur pulmonaire
+T3	topographie 196 206	pulmonaire
+T4	expression_CIM 318 350	carninome de type neuroendocrine
+T5	morphologie 318 350	carninome de type neuroendocrine
+T6	expression_CIM 528 538	carcinoïde
+T7	morphologie 528 538	carcinoïde
+T8	morphologie 1088 1095	nodules
+T9	expression_CIM 1088 1106	nodules hépatiques
+T10	topographie 1096 1106	hépatiques
+T11	morphologie 1113 1120	lésions
+T12	expression_CIM 1113 1129	lésions osseuses
+T13	topographie 1121 1129	osseuses
+T14	expression_CIM 1151 1161	métastases
+T15	morphologie 1151 1161	métastases
+T16	expression_CIM 2056 2062	tumeur
+T17	morphologie 2056 2062	tumeur
+T18	morphologie 2591 2598;2610 2620	lésions nodulaires
+T19	expression_CIM 2591 2609	lésions hépatiques
+T20	topographie 2599 2609	hépatiques
+T21	morphologie 2708 2715	lésions
+T22	expression_CIM 2708 2781	lésions blastiques dans les corps vertébraux lombaires et les os iliaques
+T23	topographie 2736 2762	corps vertébraux lombaires
+T24	topographie 2770 2781	os iliaques
+T25	morphologie 2802 2808	masses
+T26	expression_CIM 2802 2823	masses de tissus mous
+T27	morphologie 2855 2861;2873 2887	tumeur neuroendocrine
+T28	expression_CIM 2855 2887	tumeur pulmonaire neuroendocrine
+T29	topographie 2862 2872	pulmonaire
+T30	expression_CIM 3785 3801	maladie tumorale
+T31	morphologie 3785 3801	maladie tumorale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T5	8246/3
+#5	ICD-O T6	8240/3
+#6	ICD-O T7	8240/3
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C22.0 8000/1
+#9	ICD-O T10	C22.0
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C41.9 8000/1
+#12	ICD-O T13	C41.9
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/3
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	C22.0 8000/1
+#19	ICD-O T20	C22.0
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C41.2 8000/1;C41.4 8000/1
+#22	ICD-O T23	C41.2
+#23	ICD-O T24	C41.4
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C49.9 8000/1
+#26	ICD-O T27	8246/3
+#27	ICD-O T28	C34.9 8246/3
+#28	ICD-O T29	C34.9
+#29	ICD-O T30	8000/3
+#30	ICD-O T31	8000/9

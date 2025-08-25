@@ -1,0 +1,76 @@
+T1	expression_CIM 62 79	oligodendrogliome
+T2	morphologie 62 79	oligodendrogliome
+T3	morphologie 1027 1036	néoplasie
+T4	expression_CIM 1027 1046	néoplasie cervicale
+T5	topographie 1037 1046	cervicale
+T6	morphologie 1061 1070	extension
+T7	expression_CIM 1061 1098	extension au tiers supérieur du vagin
+T8	topographie 1093 1098	vagin
+T9	morphologie 1100 1108	invasion
+T10	expression_CIM 1100 1121	invasion de la vessie
+T11	topographie 1115 1121	vessie
+T12	morphologie 1160 1167	nodules
+T13	expression_CIM 1160 1179	nodules pulmonaires
+T14	topographie 1168 1179	pulmonaires
+T15	expression_CIM 1201 1211	métastases
+T16	morphologie 1201 1211	métastases
+T17	expression_CIM 1327 1350	progression néoplasique
+T18	morphologie 1327 1350	progression néoplasique
+T19	morphologie 1385 1399	adénocarcinome
+T20	expression_CIM 1385 1426	adénocarcinome endocervical indifférencié
+T21	topographie 1400 1412	endocervical
+T22	differenciation 1413 1426	indifférencié
+T23	expression_CIM 1444 1452	stade IV
+T24	morphologie 1444 1452	stade IV
+T25	morphologie 1454 1464	métastases
+T26	expression_CIM 1454 1476	métastases pulmonaires
+T27	topographie 1465 1476	pulmonaires
+T28	expression_CIM 1479 1508	Oligodendrogliome anaplasique
+T29	morphologie 1479 1508	Oligodendrogliome anaplasique
+T30	morphologie 2072 2077	masse
+T31	expression_CIM 2072 2085	masse utérine
+T32	topographie 2078 2085	utérine
+T33	morphologie 2168 2182	adénocarcinome
+T34	expression_CIM 2168 2209	adénocarcinome endocervical indifférencié
+T35	topographie 2183 2195	endocervical
+T36	differenciation 2196 2209	indifférencié
+T37	expression_CIM 2546 2569	progression néoplasique
+T38	morphologie 2546 2569	progression néoplasique
+#1	ICD-O T1	9450/3
+#2	ICD-O T2	9450/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C76.0 8000/1
+#5	ICD-O T5	C76.0
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C52.9 8000/6
+#8	ICD-O T8	C52.9
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C67.9 8000/1
+#11	ICD-O T11	C67.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.9 8000/1
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8140/3
+#20	ICD-O T20	C53.0 8140/34
+#21	ICD-O T21	C53.0
+#22	ICD-O T22	4
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	C34.9 8000/6
+#27	ICD-O T27	C34.9
+#28	ICD-O T28	9451/3
+#29	ICD-O T29	9451/3
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C55.9 8000/1
+#32	ICD-O T32	C55.9
+#33	ICD-O T33	8140/3
+#34	ICD-O T34	C53.0 8140/34
+#35	ICD-O T35	C53.0
+#36	ICD-O T36	4
+#37	ICD-O T37	8000/6
+#38	ICD-O T38	8000/6

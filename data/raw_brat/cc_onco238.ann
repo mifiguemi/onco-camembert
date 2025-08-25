@@ -1,0 +1,145 @@
+T46	topographie 4323 4340	iliaques externes
+T1	expression_CIM 729 741	adénopathies
+T2	morphologie 729 741	adénopathies
+T3	expression_CIM 960 965	masse
+T4	morphologie 960 965	masse
+T5	morphologie 1100 1112	adénopathies
+T6	expression_CIM 1100 1123	adénopathies inguinales
+T7	topographie 1113 1123	inguinales
+T8	morphologie 1295 1300	masse
+T9	expression_CIM 1295 1339	masse hétérogène est observée dans le bassin
+T10	topographie 1333 1339	bassin
+T11	morphologie 1977 1991	Carcinosarcome
+T12	expression_CIM 1977 2009	Carcinosarcome d'origine utérine
+T13	topographie 2002 2009	utérine
+T14	morphologie 2119 2125	tumeur
+T15	expression_CIM 2119 2173	tumeur a été trouvée qui semblait dépendre de l'utérus
+T16	topographie 2167 2173	utérus
+T17	morphologie 2609 2624	néoplasme malin
+T18	expression_CIM 2609 2667	néoplasme malin peu différencié de haut grade histologique
+T19	differenciation 2625 2640	peu différencié
+T20	differenciation 2644 2667	haut grade histologique
+T21	morphologie 2673 2685	infiltration
+T22	expression_CIM 2673 2755	infiltration transmurale de l'intestin grêle et sigma dans l'utérus et les ovaires
+T23	topographie 2703 2717	intestin grêle
+T24	topographie 2721 2726	sigma
+T25	topographie 2734 2740	utérus
+T26	topographie 2748 2755	ovaires
+T27	expression_CIM 2844 2853	néoplasme
+T28	morphologie 2844 2853	néoplasme
+T29	expression_CIM 2991 3000	néoplasme
+T30	morphologie 2991 3000	néoplasme
+T31	morphologie 3028 3042	carcinosarcome
+T32	expression_CIM 3028 3146	carcinosarcome d'origine utérine probable avec des composants épithéliaux et mésenchymateux de haut grade histologique
+T33	topographie 3053 3060	utérine
+T34	differenciation 3123 3146	haut grade histologique
+T35	morphologie 3869 3881	adénopathies
+T36	expression_CIM 3869 3896	adénopathies para-aortiques
+T37	topographie 3882 3896	para-aortiques
+T38	morphologie 4150 4167	récidive tumorale
+T39	expression_CIM 4150 4196	récidive tumorale importante au niveau pelvien
+T40	topographie 4189 4196	pelvien
+T41	morphologie 4272 4280;4293 4306	implants métastatiques
+T42	expression_CIM 4272 4306	implants péritonéaux métastatiques
+T43	topographie 4281 4292	péritonéaux
+T44	morphologie 4310 4322	adénopathies
+T45	expression_CIM 4310 4358	adénopathies iliaques externes et para-aortiques
+T47	topographie 4344 4358	para-aortiques
+T48	morphologie 4372 4382	métastases
+T49	expression_CIM 4372 4408	métastases pulmonaires et hépatiques
+T50	topographie 4383 4394	pulmonaires
+T51	topographie 4398 4408	hépatiques
+T52	expression_CIM 4461 4482	infiltration tumorale
+T53	morphologie 4461 4482	infiltration tumorale
+T54	morphologie 5289 5296	lésions
+T55	expression_CIM 5289 5307	lésions hépatiques
+T56	topographie 5297 5307	hépatiques
+T57	morphologie 5313 5321	implants
+T58	expression_CIM 5313 5333	implants péritonéaux
+T59	topographie 5322 5333	péritonéaux
+T60	morphologie 5339 5351	adénopathies
+T61	expression_CIM 5339 5369	adénopathies rétropéritonéales
+T62	topographie 5352 5369	rétropéritonéales
+T63	morphologie 5377 5387	métastases
+T64	expression_CIM 5377 5399	métastases pulmonaires
+T65	topographie 5388 5399	pulmonaires
+T66	morphologie 5411 5417	lésion
+T67	expression_CIM 5411 5468	lésion pelvienne de 3 cm persistant dans la fosse iliaque
+T68	topographie 5418 5427	pelvienne
+T69	topographie 5455 5468	fosse iliaque
+T70	morphologie 5711 5717	lésion
+T71	expression_CIM 5711 5760	lésion pelvienne résiduelle dans la fosse iliaque
+T72	topographie 5718 5727	pelvienne
+T73	topographie 5747 5760	fosse iliaque
+T74	expression_CIM 6023 6031	récidive
+T75	morphologie 6023 6031	récidive
+#1	ICD-O T1	C77.9 8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.4 8000/1
+#7	ICD-O T7	C76.3
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C41.4
+#10	ICD-O T11	8980/3
+#11	ICD-O T12	C55.9 8980/3
+#12	ICD-O T13	C55.9
+#13	ICD-O T14	8000/1
+#14	ICD-O T16	C55.9
+#15	ICD-O T17	8000/3
+#16	ICD-O T18	8000/33
+#17	ICD-O T19	3
+#18	ICD-O T20	4
+#19	ICD-O T21	8000/1
+#20	ICD-O T23	C17.9
+#21	ICD-O T24	C18.7
+#22	ICD-O T25	C55.9
+#23	ICD-O T26	C56.9
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	8000/3
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8000/3
+#28	ICD-O T31	8980/3
+#29	ICD-O T33	C55.9
+#30	ICD-O T34	4
+#31	ICD-O T35	8000/1
+#32	ICD-O T36	C77.1 8000/1
+#33	ICD-O T37	C49.4
+#34	ICD-O T38	8000/9
+#35	ICD-O T39	C76.3 8000/6
+#36	ICD-O T40	C76.3
+#37	ICD-O T41	8000/6
+#38	ICD-O T42	C48.2 8000/6
+#39	ICD-O T43	C48.2
+#40	ICD-O T44	8000/1
+#41	ICD-O T45	C77.1 8000/1;C77.4 8000/1
+#42	ICD-O T47	C49.4
+#43	ICD-O T48	8000/6
+#44	ICD-O T49	C22.0 8000/6;C34.9 8000/6
+#45	ICD-O T50	C34.9
+#46	ICD-O T51	C22.0
+#47	ICD-O T52	8000/6
+#48	ICD-O T53	8000/9
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	C22.0 8000/1
+#51	ICD-O T56	C22.0
+#52	ICD-O T57	8000/6
+#53	ICD-O T58	C48.2 8000/6
+#54	ICD-O T59	C48.2
+#55	ICD-O T60	8000/1
+#56	ICD-O T61	C77.2 8000/1
+#57	ICD-O T62	C48.0
+#58	ICD-O T63	8000/6
+#59	ICD-O T64	C34.9 8000/6
+#60	ICD-O T65	C34.9
+#61	ICD-O T66	8000/1
+#62	ICD-O T67	C76.2 8000/1;C76.3 8000/1
+#63	ICD-O T68	C76.3
+#64	ICD-O T69	C76.2
+#65	ICD-O T70	8000/1
+#66	ICD-O T71	C76.2 8000/1;C76.3 8000/1
+#67	ICD-O T72	C76.3
+#68	ICD-O T73	C76.2
+#69	ICD-O T74	8000/6
+#70	ICD-O T75	8000/9

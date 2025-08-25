@@ -1,0 +1,68 @@
+T1	morphologie 2467 2472	masse
+T2	expression_CIM 2467 2485	masse médiastinale
+T3	topographie 2473 2485	médiastinale
+T4	morphologie 2769 2774	masse
+T5	expression_CIM 2769 2787	masse médiastinale
+T6	topographie 2775 2787	médiastinale
+T7	morphologie 2811 2816	masse
+T8	expression_CIM 2811 2865	masse dans le médiastin antérieur, moyen ou postérieur
+T9	topographie 2825 2844	médiastin antérieur
+T10	morphologie 3938 3943	masse
+T11	expression_CIM 3938 4003	masse de 20 cm de diamètre dans la graisse du médiastin antérieur
+T12	topographie 3973 3993	graisse du médiastin
+T13	morphologie 4099 4109	infiltrant
+T14	expression_CIM 4099 4148	infiltrant la veine cave supérieure, l'oreillette
+T15	topographie 4113 4134	veine cave supérieure
+T16	topographie 4138 4148	oreillette
+T17	expression_CIM 4173 4188	masse polypoïde
+T18	morphologie 4173 4188	masse polypoïde
+T19	topographie 4316 4323	poumons
+T20	expression_CIM 4316 4348	poumons présentaient des nodules
+T22	morphologie 4449 4457	implants
+T23	expression_CIM 4449 4550	implants sur la surface hépatique, les surrénales bilatérales, les reins et le paravertébral lombaire
+T24	topographie 4473 4482	hépatique
+T25	topographie 4488 4498	surrénales
+T26	topographie 4516 4521	reins
+T27	topographie 4528 4550	paravertébral lombaire
+T28	morphologie 4610 4615	masse
+T29	expression_CIM 4610 4624	masse lombaire
+T30	topographie 4616 4624	lombaire
+T31	expression_CIM 4807 4846	tumeur germinale pure de type séminome,
+T32	morphologie 4807 4846	tumeur germinale pure de type séminome,
+T33	expression_CIM 4873 4910	néoplasme germinatif non séminomateux
+T34	morphologie 4873 4910	néoplasme germinatif non séminomateux
+T35	expression_CIM 5373 5391	séminome classique
+T36	morphologie 5373 5391	séminome classique
+T21	morphologie 4341 4348;4364 4380	nodules d'aspect tumoral
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C38.3 8000/1
+#3	ICD-O T3	C38.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C38.3 8000/1
+#6	ICD-O T6	C38.3
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C38.1 8000/1;C38.2 8000/1;C38.3 8000/1
+#9	ICD-O T9	C38.1
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C49.3
+#12	ICD-O T13	8000/9
+#13	ICD-O T15	C49.3
+#14	ICD-O T16	C38.0
+#15	ICD-O T17	8210/1
+#16	ICD-O T18	8210/1
+#17	ICD-O T19	C34.9
+#18	ICD-O T20	C34.9 8000/1
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	C22.0 8000/6;C64.9 8000/6;C74.9 8000/6;C76.3 8000/6
+#21	ICD-O T24	C22.0
+#22	ICD-O T25	C74.9
+#23	ICD-O T26	C64.9
+#24	ICD-O T27	C76.3
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C76.2 8000/1
+#27	ICD-O T30	C76.2
+#28	ICD-O T32	9061/3
+#29	ICD-O T33	9065/3
+#30	ICD-O T34	9065/3
+#31	ICD-O T36	9061/3
+#32	ICD-O T21	8000/9

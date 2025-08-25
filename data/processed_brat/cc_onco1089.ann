@@ -1,0 +1,63 @@
+T1	morphologie 413 418	masse
+T3	topographie 419 428	hépatique
+T5	morphologie 635 640	masse
+T6	morphologie 747 753	lésion
+T8	topographie 754 763	hépatique
+T10	morphologie 1851 1858	nodules
+T11	morphologie 2179 2185	nodule
+T13	topographie 2230 2244	lobe supérieur
+T15	morphologie 2272 2281	métastase
+T16	morphologie 2290 2301	adénopathie
+T18	topographie 2302 2311	axillaire
+T19	topographie 2313 2325	médiastinale
+T20	topographie 2329 2336	hilaire
+T22	morphologie 2513 2519	lésion
+T24	morphologie 2651 2668	lésions kystiques
+T25	morphologie 2778 2787	carcinome
+T27	topographie 2794 2811	vésicule biliaire
+T28	morphologie 2817 2825	invasion
+T30	topographie 2826 2835	hépatique
+T32	morphologie 2879 2885	lésion
+T33	morphologie 2957 2965	invasion
+T35	topographie 2969 2978	mésentère
+T36	morphologie 3009 3020	Adénopathie
+T38	topographie 3051 3065	hile hépatique
+T39	morphologie 3162 3171	carcinome
+T41	topographie 3178 3195	vésicule biliaire
+T42	morphologie 3357 3380	lésion tumorale maligne
+T106	morphologie 3396 3414	à petites cellules
+T44	differenciation 3381 3395	indifférenciée
+T46	morphologie 3446 3453	tumeurs
+T48	morphologie 3479 3497	cellules tumorales
+T50	morphologie 3589 3617	carcinome à petites cellules
+T52	morphologie 3779 3785	tumeur
+T53	morphologie 3823 3829	lésion
+T55	topographie 3830 3839	hépatique
+T57	morphologie 3852 3860	primitif
+T59	morphologie 3939 3957	néoplasme primaire
+T61	morphologie 4007 4013	lésion
+T63	morphologie 4163 4169	foyers
+T65	morphologie 4214 4242	néoplasme à petites cellules
+T67	morphologie 4324 4352	carcinome à petites cellules
+T68	morphologie 4362 4368	tumeur
+T70	topographie 4369 4376	neurale
+T72	morphologie 4385 4393	mélanome
+T73	morphologie 4632 4641	métastase
+T75	topographie 4642 4651	hépatique
+T77	morphologie 4662 4673	tumeur PNET
+T79	morphologie 4728 4743	sarcome d'Ewing
+T81	morphologie 4768 4783	sarcome d'Ewing
+T83	morphologie 4800 4808	stade IV
+T85	morphologie 4854 4869	sarcome d'Ewing
+T87	morphologie 4886 4894	stade IV
+T89	morphologie 4992 5017	progression de la maladie
+T90	morphologie 5092 5102	métastases
+T92	topographie 5103 5114	pulmonaires
+T93	morphologie 5189 5202	carcinomatose
+T95	topographie 5203 5214	péritonéale
+T97	morphologie 6121 6127	tumeur
+T99	morphologie 6345 6370	progression de la maladie
+T100	morphologie 6429 6436	nodules
+T102	topographie 6437 6448	pulmonaires
+T103	morphologie 6508 6513	masse
+T105	topographie 6514 6523	hépatique

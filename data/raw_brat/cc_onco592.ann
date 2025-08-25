@@ -1,0 +1,32 @@
+T1	expression_CIM 732 765	synovite villonodulaire pigmentée
+T2	morphologie 732 765	synovite villonodulaire pigmentée
+T3	expression_CIM 1452 1485	synovite villonodulaire pigmentée
+T4	morphologie 1452 1485	synovite villonodulaire pigmentée
+T5	expression_CIM 2025 2031	masses
+T6	morphologie 2025 2031	masses
+T7	expression_CIM 2966 2999	synovite villonodulaire pigmentée
+T8	morphologie 2966 2999	synovite villonodulaire pigmentée
+T9	expression_CIM 3320 3337	maladie synoviale
+T10	morphologie 3320 3337	maladie synoviale
+T11	morphologie 3680 3696	zones nodulaires
+T12	expression_CIM 3680 3750	zones nodulaires associées identifiées dans la région rétro-patellaire
+T14	morphologie 5999 6007;6018 6025	atteinte diffuse
+T15	expression_CIM 5999 6025	atteinte synoviale diffuse
+T16	topographie 6008 6017	synoviale
+T17	expression_CIM 6161 6194	synovite villonodulaire pigmentée
+T18	morphologie 6161 6194	synovite villonodulaire pigmentée
+T13	topographie 3727 3750	région rétro-patellaire
+#1	ICD-O T1	9252/0
+#2	ICD-O T2	9252/0
+#3	ICD-O T3	9252/0
+#4	ICD-O T4	9252/0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	9252/0
+#8	ICD-O T8	9252/0
+#9	ICD-O T10	9040/3
+#10	ICD-O T11	8000/1
+#11	ICD-O T14	tocheck
+#12	ICD-O T16	C49.9
+#13	ICD-O T17	9252/0
+#14	ICD-O T18	9252/0

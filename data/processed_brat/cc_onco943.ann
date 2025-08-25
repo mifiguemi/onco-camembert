@@ -1,0 +1,24 @@
+T3	topographie 721 746	région pariéto-occipitale
+T1	morphologie 688 712	lésion occupant l'espace
+T5	morphologie 979 985	lésion
+T6	morphologie 1150 1173	glioblastome multiforme
+T8	differenciation 1177 1194	grade IV de l'OMS
+T10	morphologie 1722 1728	lésion
+T11	morphologie 2411 2430	lésion ostéolytique
+T13	topographie 2451 2460	calvarium
+T14	topographie 2474 2480	vertex
+T15	morphologie 2683 2692	atteintes
+T17	topographie 2693 2701	osseuses
+T18	morphologie 2707 2714	lésions
+T20	topographie 2812 2828	vertèbre dorsale
+T21	topographie 2833 2839	sacrum
+T22	topographie 2857 2867	acétabulum
+T23	morphologie 2929 2934	masse
+T26	morphologie 3072 3078	lésion
+T28	morphologie 3327 3350	néoplasme plasmocytaire
+T30	morphologie 3352 3364	plasmocytome
+T31	morphologie 3404 3416	infiltration
+T33	topographie 3417 3424	osseuse
+T35	morphologie 3588 3600	glioblastome
+T36	morphologie 4016 4022	lésion
+T38	topographie 4023 4032	cérébrale

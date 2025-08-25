@@ -1,0 +1,44 @@
+T1	morphologie 524 538	adénocarcinome
+T3	topographie 539 550	prostatique
+T4	differenciation 554 568	Gleason 9 (4+5
+T5	morphologie 728 740	adénopathies
+T7	topographie 764 770	pelvis
+T8	topographie 777 791	rétropéritoine
+T9	morphologie 826 860	atteintes blastiques métastatiques
+T11	topographie 881 890	squelette
+T12	morphologie 930 940	métastases
+T14	topographie 941 949	osseuses
+T15	topographie 968 985	colonne cervicale
+T16	topographie 1011 1017	bassin
+T17	topographie 1022 1029	sternum
+T18	topographie 1035 1044	omoplates
+T19	topographie 1050 1060	clavicules
+T20	topographie 1085 1092	humérus
+T21	topographie 1098 1104	fémurs
+T22	morphologie 1624 1630	cancer
+T24	topographie 1637 1645	prostate
+T26	morphologie 1649 1657	stade IV
+T27	morphologie 1674 1682	atteinte
+T29	topographie 1683 1690	osseuse
+T30	morphologie 2161 2168	maladie
+T32	topographie 2169 2176	osseuse
+T34	morphologie 2356 2381	progression de la maladie
+T36	morphologie 2823 2835	infiltration
+T38	morphologie 2906 2913	lésions
+T40	morphologie 3011 3017	lésion
+T41	morphologie 3241 3248	lésions
+T43	topographie 3277 3285	cervelet
+T44	morphologie 3481 3506	infiltration métastatique
+T46	topographie 3507 3513	durale
+T47	topographie 3517 3524	osseuse
+T49	morphologie 3759 3767	atteinte
+T64	morphologie 3776 3788	métastatique
+T50	topographie 3768 3775	osseuse
+T52	morphologie 3799 3808	néoplasme
+T54	morphologie 4079 4093	tumeur maligne
+T55	morphologie 4449 4462	carcinomatose
+T57	topographie 4463 4471	méningée
+T58	morphologie 6133 6139	cancer
+T60	topographie 6146 6154	prostate
+T61	morphologie 6188 6201	carcinomatose
+T63	topographie 6202 6210	méningée

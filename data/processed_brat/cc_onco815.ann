@@ -1,0 +1,25 @@
+T20	topographie 3124 3142	pulmonaire hilaire
+T1	morphologie 547 556	néoplasie
+T3	topographie 557 567	pulmonaire
+T4	morphologie 776 788	adénopathies
+T6	topographie 789 799	cervicales
+T7	topographie 800 818	supraclaviculaires
+T9	morphologie 1089 1095	masses
+T11	morphologie 1753 1765	infiltration
+T13	morphologie 2536 2557	cellules néoplasiques
+T15	morphologie 2602 2616	adénocarcinome
+T17	morphologie 2727 2745	cellules tumorales
+T18	morphologie 3114 3123	néoplasme
+T21	morphologie 3337 3349	adénopathies
+T23	topographie 3358 3381	fenêtre aortopulmonaire
+T24	morphologie 3794 3801	nodules
+T26	topographie 3802 3813	pulmonaires
+T27	topographie 3829 3836	lingula
+T28	topographie 3838 3850	sous-pleural
+T29	topographie 3885 3888	LII
+T30	topographie 3931 3934	LSD
+T31	morphologie 3957 3971	Adénocarcinome
+T33	topographie 3980 3995	hile pulmonaire
+T35	morphologie 4004 4012	Stade IV
+T36	morphologie 4075 4085	métastases
+T38	topographie 4086 4097	pulmonaires

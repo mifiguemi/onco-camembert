@@ -1,0 +1,62 @@
+T1	morphologie 200 209	néoplasie
+T3	topographie 213 218	côlon
+T4	morphologie 848 854	polype
+T6	topographie 863 869	rectum
+T7	topographie 965 971	rectum
+T9	morphologie 976 982	polype
+T10	topographie 1041 1046	sigma
+T12	morphologie 1064 1071	polypes
+T13	topographie 1162 1178	côlon descendant
+T15	morphologie 1230 1236	lésion
+T93	morphologie 1248 1264	néoproliférative
+T17	morphologie 1435 1449	adénocarcinome
+T18	morphologie 1490 1502	néoformation
+T20	topographie 1511 1527	côlon transverse
+T21	morphologie 1601 1622	Image pseudonodulaire
+T23	topographie 1665 1679	hile splénique
+T24	topographie 1758 1772	hile splénique
+T26	morphologie 1775 1787	infiltration
+T28	morphologie 1795 1809	adénocarcinome
+T29	morphologie 2040 2096	adénocarcinome à cellules en anneau de Signe et mucineux
+T31	topographie 2100 2123	côlon transverse distal
+T32	morphologie 2161 2177	lymphadénopathie
+T34	topographie 2198 2212	hile splénique
+T36	morphologie 2227 2247	extension à distance
+T37	morphologie 2629 2635	tumeur
+T39	differenciation 2636 2652	peu différenciée
+T40	morphologie 2658 2666	invasion
+T42	topographie 2670 2688	péritoine viscéral
+T43	topographie 2693 2702	péritoine
+T44	topographie 2703 2719	lymphovasculaire
+T46	morphologie 2747 2755	invasion
+T48	topographie 2769 2791	ganglions lymphatiques
+T50	morphologie 3172 3178	tumeur
+T51	morphologie 4783 4791	récidive
+T53	topographie 4792 4803	péritonéale
+T54	morphologie 4834 4842	implants
+T56	topographie 4843 4854	péritonéaux
+T57	topographie 4879 4883	rate
+T58	morphologie 4934 4952	masse métastatique
+T60	topographie 4953 4969	rétropéritonéale
+T61	topographie 5009 5013	rein
+T62	morphologie 5071 5079	implants
+T65	morphologie 8106 8117	progression
+T67	topographie 8118 8129	péritonéale
+T68	morphologie 8167 8188	lésions métastatiques
+T70	topographie 8213 8217	rate
+T71	morphologie 8242 8250	implants
+T73	topographie 8251 8261	pararénaux
+T74	topographie 8265 8279	périspléniques
+T75	morphologie 9790 9805	implant tumoral
+T77	topographie 9806 9821	rétropéritonéal
+T79	morphologie 9832 9839	maladie
+T80	morphologie 9851 9858	lésions
+T82	topographie 9859 9869	spléniques
+T84	morphologie 10448 10468	progression tumorale
+T85	morphologie 10473 10481	implants
+T87	topographie 10482 10493	péritonéaux
+T88	morphologie 10509 10516	lésions
+T90	topographie 10517 10527	spléniques
+T92	morphologie 12281 12304	stabilité de la maladie
+T45	topographie 2723 2733	périneural
+T64	topographie 5080 5112	sous-phréniques postéro-latéraux

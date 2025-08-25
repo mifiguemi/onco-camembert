@@ -1,0 +1,56 @@
+T1	morphologie 119 125	tumeur
+T3	topographie 126 135	cervicale
+T4	morphologie 319 325	lésion
+T6	topographie 326 336	pulmonaire
+T7	morphologie 352 359	nodules
+T9	topographie 374 390	lobes inférieurs
+T10	morphologie 396 412	lymphadénopathie
+T12	topographie 413 429	sus-claviculaire
+T13	morphologie 444 452	atteinte
+T15	topographie 453 466	surrénalienne
+T16	morphologie 639 648	néoplasie
+T18	topographie 649 659	pulmonaire
+T20	morphologie 1123 1128	masse
+T21	morphologie 1274 1293	masse adénopathique
+T23	topographie 1294 1311	supraclaviculaire
+T25	morphologie 1527 1536	ganglions
+T26	morphologie 1642 1647	masse
+T28	topographie 1664 1688	lobe inférieur du poumon
+T29	morphologie 1718 1725	nodules
+T31	topographie 1740 1756	lobes inférieurs
+T32	topographie 1764 1805	ganglions lymphatiques supraclaviculaires
+T33	topographie 1817 1833	glande surrénale
+T35	morphologie 1845 1853	atteinte
+T36	morphologie 2008 2014	lésion
+T38	topographie 2015 2029	endobronchique
+T40	morphologie 2083 2097	tumeur maligne
+T41	morphologie 2306 2315	néoplasie
+T43	topographie 2316 2326	pulmonaire
+T44	morphologie 2460 2469	néoplasie
+T84	morphologie 2481 2489	primaire
+T46	topographie 2470 2480	pulmonaire
+T48	morphologie 2671 2680	métastase
+T49	morphologie 2887 2893	lésion
+T51	topographie 2894 2904	pulmonaire
+T53	morphologie 3004 3032	processus lymphoprolifératif
+T54	morphologie 3106 3117	adénopathie
+T56	topographie 3118 3134	sus-claviculaire
+T57	morphologie 3973 3994	lymphome folliculaire
+T59	differenciation 3998 4006	grade 3A
+T60	morphologie 4047 4052	masse
+T62	topographie 4061 4085	lobe inférieur du poumon
+T63	morphologie 4150 4158	atteinte
+T65	topographie 4159 4170	lymphatique
+T66	topographie 4172 4184	médiastinale
+T67	topographie 4188 4205	supraclaviculaire
+T68	morphologie 4227 4248	atteinte métastatique
+T70	topographie 4249 4262	surrénalienne
+T71	topographie 4266 4276	pulmonaire
+T72	morphologie 4628 4649	lymphome folliculaire
+T74	differenciation 4653 4661	grade 3A
+T76	morphologie 4662 4671	stade IVA
+T77	morphologie 4673 4683	métastases
+T79	topographie 4684 4695	pulmonaires
+T80	topographie 4699 4713	surrénaliennes
+T81	morphologie 5517 5529	adénopathies
+T83	topographie 5530 5547	sus-claviculaires

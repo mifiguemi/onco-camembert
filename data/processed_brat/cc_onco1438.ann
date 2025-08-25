@@ -1,0 +1,57 @@
+T34	topographie 2720 2749	corps de la queue du pancréas
+T40	topographie 3145 3176	corps vers la queue du pancréas
+T1	morphologie 271 292	carcinome épidermoïde
+T3	topographie 296 302	poumon
+T5	morphologie 692 711	pathologie tumorale
+T6	morphologie 740 752	infiltration
+T8	topographie 767 783	arbre bronchique
+T9	topographie 973 983	bronchique
+T11	morphologie 986 1007	carcinome épidermoïde
+T12	morphologie 1442 1447	masse
+T14	topographie 1448 1460	médiastinale
+T15	topographie 1464 1471	hilaire
+T16	morphologie 1727 1732	masse
+T18	topographie 1733 1736	LSD
+T19	morphologie 1746 1751	masse
+T21	topographie 1752 1773	ganglionnaire hilaire
+T22	topographie 1777 1789	médiastinale
+T23	morphologie 2050 2056	lésion
+T25	topographie 2102 2119	corps du pancréas
+T27	morphologie 2172 2178	tumeur
+T29	morphologie 2358 2370	adénopathies
+T31	morphologie 2531 2536	masse
+T32	morphologie 2669 2675	tumeur
+T35	morphologie 2856 2874	néoplasme mucineux
+T37	topographie 2885 2897	pancréatique
+T38	morphologie 3013 3038	néoplasme kystique solide
+T42	morphologie 3185 3196	adénopathie
+T44	morphologie 3369 3387	cellules tumorales
+T46	morphologie 3404 3413	métastase
+T48	morphologie 3419 3440	carcinome épidermoïde
+T49	morphologie 3469 3490	carcinome épidermoïde
+T51	topographie 3494 3500	poumon
+T53	morphologie 3508 3516	stade IV
+T54	morphologie 3533 3542	métastase
+T56	topographie 3543 3555	pancréatique
+T58	morphologie 3596 3602	tumeur
+T60	morphologie 3826 3835	métastase
+T62	morphologie 3841 3862	carcinome épidermoïde
+T63	morphologie 4252 4257	masse
+T65	topographie 4258 4270	pancréatique
+T66	morphologie 4443 4448	masse
+T68	topographie 4449 4456	hilaire
+T69	morphologie 4513 4518	masse
+T71	topographie 4519 4531	pancréatique
+T73	morphologie 4901 4906	masse
+T75	morphologie 4916 4923	maladie
+T77	morphologie 4974 4980	tumeur
+T78	morphologie 5208 5213	masse
+T80	topographie 5214 5226	pancréatique
+T82	morphologie 5670 5679	métastase
+T83	morphologie 5685 5706	carcinome épidermoïde
+T85	differenciation 5707 5729	modérément différencié
+T86	topographie 5757 5767	pulmonaire
+T87	topographie 5884 5906	ganglions lymphatiques
+T89	morphologie 5907 5915	atteints
+T90	morphologie 5922 5934	infiltration
+T92	topographie 5941 5957	glande surrénale

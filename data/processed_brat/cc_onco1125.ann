@@ -1,0 +1,16 @@
+T1	morphologie 187 193	nodule
+T3	topographie 202 206	sein
+T4	morphologie 299 305	tumeur
+T7	morphologie 379 388	extension
+T9	topographie 394 410	paroi thoracique
+T10	morphologie 979 985	lésion
+T13	morphologie 1194 1200	nodule
+T15	topographie 1204 1208	sein
+T17	morphologie 1445 1451	lésion
+T18	morphologie 1583 1594	adénopathie
+T20	topographie 1595 1611	intra-abdominale
+T22	morphologie 1712 1739	carcinome canalaire invasif
+T24	morphologie 1979 2006	carcinome canalaire invasif
+T26	morphologie 2337 2343	tumeur
+T6	topographie 314 330	région aréolaire
+T12	topographie 1051 1075	région aréolaire du sein

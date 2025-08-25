@@ -1,0 +1,315 @@
+T1	morphologie 2422 2433	adénopathie
+T2	expression_CIM 2422 2474	adénopathie cervicale, sus-claviculaire ou axillaire
+T3	topographie 2434 2443	cervicale
+T4	topographie 2445 2461	sus-claviculaire
+T5	topographie 2465 2474	axillaire
+T6	expression_CIM 2798 2803	masse
+T7	morphologie 2798 2803	masse
+T8	morphologie 5417 5424	nodules
+T9	expression_CIM 5417 5436	nodules pulmonaires
+T10	topographie 5425 5436	pulmonaires
+T11	expression_CIM 5493 5500	tumeurs
+T12	morphologie 5493 5500	tumeurs
+T13	expression_CIM 5649 5661	adénopathies
+T14	morphologie 5649 5661	adénopathies
+T15	expression_CIM 5814 5830	maladie tumorale
+T16	morphologie 5814 5830	maladie tumorale
+T17	morphologie 5985 5997	adénopathies
+T18	expression_CIM 5985 6117	adénopathies médiastinales pré-vasculaires, en fenêtre aorto-pulmonaire, hilaires gauches, paratrachéales gauches et sous-carénaires
+T19	topographie 5998 6011	médiastinales
+T20	topographie 6012 6027	pré-vasculaires
+T21	topographie 6058 6066	hilaires
+T22	topographie 6076 6090	paratrachéales
+T24	morphologie 6253 6262	néoplasie
+T25	expression_CIM 6253 6273	néoplasie pulmonaire
+T26	topographie 6263 6273	pulmonaire
+T27	morphologie 6275 6299	Adénopathie métastatique
+T28	expression_CIM 6275 6317	Adénopathie métastatique supraclaviculaire
+T29	topographie 6300 6317	supraclaviculaire
+T30	expression_CIM 6340 6347	nodules
+T31	morphologie 6340 6347	nodules
+T32	expression_CIM 6454 6467	lésion focale
+T33	morphologie 6454 6467	lésion focale
+T34	morphologie 6974 6984	métastases
+T35	expression_CIM 6974 7011	métastases surrénaliennes ou osseuses
+T36	topographie 6985 6999	surrénaliennes
+T37	topographie 7003 7011	osseuses
+T38	morphologie 7705 7716	adénopathie
+T39	expression_CIM 7705 7741	adénopathie hilaire ou paratrachéale
+T40	topographie 7717 7724	hilaire
+T41	topographie 7728 7741	paratrachéale
+T42	morphologie 10030 10042	Adénopathies
+T43	expression_CIM 10030 10123	Adénopathies médiastinales, hilaires et paratrachéales gauches, médiastinales sous-carénaires
+T44	topographie 10043 10056	médiastinales
+T45	topographie 10058 10066	hilaires
+T46	topographie 10070 10084	paratrachéales
+T47	topographie 10094 10123	médiastinales sous-carénaires
+T48	expression_CIM 10185 10194	néoplasme
+T49	morphologie 10185 10194	néoplasme
+T50	morphologie 10229 10238	néoplasme
+T51	expression_CIM 10229 10252	néoplasme hématologique
+T52	topographie 10239 10252	hématologique
+T53	morphologie 10329 10339	néoplasmes
+T54	expression_CIM 10329 10351	néoplasmes pulmonaires
+T55	topographie 10340 10351	pulmonaires
+T56	morphologie 10394 10403;10415 10433	carcinome à petites cellules
+T57	expression_CIM 10394 10433	carcinome pulmonaire à petites cellules
+T58	topographie 10404 10414	pulmonaire
+T59	morphologie 10450 10457	nodules
+T60	expression_CIM 10450 10469	nodules pulmonaires
+T61	topographie 10458 10469	pulmonaires
+T62	morphologie 10501 10523	ganglions lymphatiques
+T63	expression_CIM 10501 10536	ganglions lymphatiques thoraciques,
+T64	topographie 10524 10535	thoraciques
+T65	expression_CIM 10582 10592	néoplasmes
+T66	morphologie 10582 10592	néoplasmes
+T67	expression_CIM 10673 10679	cancer
+T68	morphologie 10673 10679	cancer
+T69	expression_CIM 10715 10738	lymphome non hodgkinien
+T70	morphologie 10715 10738	lymphome non hodgkinien
+T71	expression_CIM 10880 10896	lymphadénopathie
+T72	morphologie 10880 10896	lymphadénopathie
+T73	morphologie 10971 10981	néoplasmes
+T74	expression_CIM 10971 10991	néoplasmes digestifs
+T75	topographie 10982 10991	digestifs
+T76	expression_CIM 11003 11018	hépatocarcinome
+T77	morphologie 11003 11018	hépatocarcinome
+T78	expression_CIM 11023 11041	cholangiocarcinome
+T79	morphologie 11023 11041	cholangiocarcinome
+T80	morphologie 11045 11059	adénocarcinome
+T81	expression_CIM 11045 11071	adénocarcinome du pancréas
+T82	topographie 11063 11071	pancréas
+T83	morphologie 11076 11082	cancer
+T84	expression_CIM 11076 11092	cancer gastrique
+T85	topographie 11083 11092	gastrique
+T86	morphologie 11097 11103	cancer
+T87	expression_CIM 11097 11112	cancer du côlon
+T88	topographie 11107 11112	côlon
+T89	morphologie 11151 11163	adénopathies
+T90	expression_CIM 11151 11193	adénopathies principalement dans le thorax
+T91	topographie 11187 11193	thorax
+T92	expression_CIM 11335 11350	hépatocarcinome
+T93	morphologie 11335 11350	hépatocarcinome
+T94	morphologie 11388 11394	cancer
+T95	expression_CIM 11388 11402	cancer du sein
+T96	topographie 11398 11402	sein
+T97	morphologie 11407 11414	sarcome
+T98	expression_CIM 11407 11430	sarcome des tissus mous
+T99	topographie 11419 11430	tissus mous
+T100	expression_CIM 11443 11466	tumeurs neuroendocrines
+T101	morphologie 11443 11466	tumeurs neuroendocrines
+T102	expression_CIM 11471 11479	mélanome
+T103	morphologie 11471 11479	mélanome
+T104	morphologie 11485 11495	néoplasmes
+T105	expression_CIM 11485 11543	néoplasmes rénaux, thyroïdiens et de l'appareil urogénital
+T106	topographie 11496 11502	rénaux
+T107	topographie 11504 11515	thyroïdiens
+T108	topographie 11524 11543	appareil urogénital
+T109	morphologie 11634 11644	métastases
+T110	expression_CIM 11634 11655	métastases hépatiques
+T111	topographie 11645 11655	hépatiques
+T112	morphologie 11817 11824	nodules
+T113	expression_CIM 11817 11836	nodules pulmonaires
+T114	topographie 11825 11836	pulmonaires
+T115	morphologie 11842 11858	lymphadénopathie
+T116	expression_CIM 11842 11869	lymphadénopathie thoracique
+T117	topographie 11859 11869	thoracique
+T118	expression_CIM 12196 12220	infiltration néoplasique
+T119	morphologie 12196 12220	infiltration néoplasique
+T120	expression_CIM 12298 12305	tumeurs
+T121	morphologie 12298 12305	tumeurs
+T122	morphologie 12335 12359	carcinomes microcytaires
+T123	expression_CIM 12335 12388	carcinomes microcytaires du poumon, du côlon, du sein
+T124	topographie 12363 12369	poumon
+T125	topographie 12374 12379	côlon
+T126	topographie 12384 12388	sein
+T127	morphologie 12394 12401	tumeurs
+T128	expression_CIM 12394 12430	tumeurs d'origine gastro-intestinale
+T129	topographie 12412 12430	gastro-intestinale
+T130	expression_CIM 12436 12445	mélanomes
+T131	morphologie 12436 12445	mélanomes
+T132	expression_CIM 12451 12460	lymphomes
+T133	morphologie 12451 12460	lymphomes
+T134	morphologie 12587 12593	cancer
+T135	expression_CIM 12587 12601	cancer du rein
+T136	topographie 12597 12601	rein
+T137	expression_CIM 12627 12656	syndromes lymphoprolifératifs
+T138	morphologie 12627 12656	syndromes lymphoprolifératifs
+T139	morphologie 15049 15092	carcinome neuroendocrine à petites cellules
+T140	expression_CIM 15049 15116	carcinome neuroendocrine à petites cellules de haut grade du poumon
+T141	differenciation 15096 15106	haut grade
+T142	topographie 15110 15116	poumon
+T143	morphologie 15118 15124	nodule
+T144	expression_CIM 15118 15185	nodule de 2,5 x 2,7 cm dans le lobe supérieur droit, péribronchique
+T145	topographie 15149 15163	lobe supérieur
+T146	topographie 15171 15185	péribronchique
+T147	morphologie 15188 15208	Maladie métastatique
+T148	expression_CIM 15188 15370	Maladie métastatique dans les ganglions lymphatiques, le foie (4100 grammes et infiltration tumorale multinodulaire massive et diffuse du parenchyme hépatique) et focale dans la rate
+T149	topographie 15218 15240	ganglions lymphatiques
+T150	topographie 15245 15249	foie
+T151	morphologie 15267 15288	infiltration tumorale
+T152	expression_CIM 15267 15346	infiltration tumorale multinodulaire massive et diffuse du parenchyme hépatique
+T153	topographie 15326 15346	parenchyme hépatique
+T154	topographie 15366 15370	rate
+T155	expression_CIM 15492 15524	maladie néoplasique métastatique
+T156	morphologie 15492 15524	maladie néoplasique métastatique
+T157	morphologie 15534 15577	carcinome neuroendocrine à petites cellules
+T158	expression_CIM 15534 15601	carcinome neuroendocrine à petites cellules de haut grade du poumon
+T159	differenciation 15581 15591	haut grade
+T160	topographie 15595 15601	poumon
+T23	topographie 6102 6117	sous-carénaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1;C77.3 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	C76.1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C34.9 8000/1
+#10	ICD-O T10	C34.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.9 8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/3
+#16	ICD-O T16	8000/3
+#17	ICD-O T17	8000/1
+#18	ICD-O T19	C38.3
+#19	ICD-O T20	C49.8
+#20	ICD-O T21	C76.1
+#21	ICD-O T22	C33.9
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	C34.9 8000/1
+#24	ICD-O T26	C34.9
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	C77.0 8000/6
+#27	ICD-O T29	C76.0
+#28	ICD-O T30	8000/1
+#29	ICD-O T31	8000/1
+#30	ICD-O T33	tocheck
+#31	ICD-O T34	8000/6
+#32	ICD-O T35	C41.9 8000/6;C74.9 8000/6
+#33	ICD-O T36	C74.9
+#34	ICD-O T37	C41.9
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	C77.1 8000/1
+#37	ICD-O T40	C76.1
+#38	ICD-O T41	C33.9
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C77.1 8000/1
+#41	ICD-O T44	C38.3
+#42	ICD-O T45	C76.1
+#43	ICD-O T46	C33.9
+#44	ICD-O T47	C76.1
+#45	ICD-O T48	8000/1
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	C42.0 8000/1
+#49	ICD-O T52	C42.0
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	C34.9 8000/1
+#52	ICD-O T55	C34.9
+#53	ICD-O T56	8041/3
+#54	ICD-O T57	C34.9 8041/3
+#55	ICD-O T58	C34.9
+#56	ICD-O T59	8000/1
+#57	ICD-O T60	C34.9 8000/1
+#58	ICD-O T61	C34.9
+#59	ICD-O T62	tocheck
+#60	ICD-O T64	C76.1
+#61	ICD-O T65	8000/1
+#62	ICD-O T66	8000/1
+#63	ICD-O T67	8000/3
+#64	ICD-O T68	8000/3
+#65	ICD-O T69	9591/3
+#66	ICD-O T70	9591/3
+#67	ICD-O T71	C77.9 8000/1
+#68	ICD-O T72	8000/1
+#69	ICD-O T73	8000/1
+#70	ICD-O T74	C26.9 8000/1
+#71	ICD-O T75	C26.9
+#72	ICD-O T76	8170/3
+#73	ICD-O T77	8170/3
+#74	ICD-O T78	8160/3
+#75	ICD-O T79	8160/3
+#76	ICD-O T80	8140/3
+#77	ICD-O T81	C25.9 8140/3
+#78	ICD-O T82	C25.9
+#79	ICD-O T83	8000/3
+#80	ICD-O T84	C16.9 8000/3
+#81	ICD-O T85	C16.9
+#82	ICD-O T86	8000/3
+#83	ICD-O T87	C18.9 8000/3
+#84	ICD-O T88	C18.9
+#85	ICD-O T89	8000/1
+#86	ICD-O T90	C77.1 8000/1
+#87	ICD-O T91	C76.1
+#88	ICD-O T92	8170/3
+#89	ICD-O T93	8170/3
+#90	ICD-O T94	8000/3
+#91	ICD-O T95	C50.9 8000/3
+#92	ICD-O T96	C50.9
+#93	ICD-O T97	8800/3
+#94	ICD-O T98	C49.9 8800/3
+#95	ICD-O T99	C49.9
+#96	ICD-O T100	8000/3
+#97	ICD-O T101	8000/3
+#98	ICD-O T102	8720/3
+#99	ICD-O T103	8720/3
+#100	ICD-O T104	8000/1
+#101	ICD-O T105	C64.9 8000/1;C73.9 8000/1;C76.3 8000/1
+#102	ICD-O T106	C64.9
+#103	ICD-O T107	C73.9
+#104	ICD-O T108	C76.3
+#105	ICD-O T109	8000/6
+#106	ICD-O T110	C22.0 8000/6
+#107	ICD-O T111	C22.0
+#108	ICD-O T112	8000/1
+#109	ICD-O T113	C34.9 8000/1
+#110	ICD-O T114	C34.9
+#111	ICD-O T115	8000/1
+#112	ICD-O T117	C76.1
+#113	ICD-O T118	8000/1
+#114	ICD-O T119	8000/1
+#115	ICD-O T120	8000/1
+#116	ICD-O T121	8000/1
+#117	ICD-O T122	8041/3
+#118	ICD-O T123	C18.9 8041/3;C34.9 8041/3;C50.9 8041/3
+#119	ICD-O T124	C34.9
+#120	ICD-O T125	C18.9
+#121	ICD-O T126	C50.9
+#122	ICD-O T127	8000/1
+#123	ICD-O T128	C26.9 8000/1
+#124	ICD-O T129	C26.9
+#125	ICD-O T130	8720/3
+#126	ICD-O T131	8720/3
+#127	ICD-O T132	9590/3
+#128	ICD-O T133	9590/3
+#129	ICD-O T134	8000/3
+#130	ICD-O T135	C64.9 8000/3
+#131	ICD-O T136	C64.9
+#132	ICD-O T137	9970/1
+#133	ICD-O T138	9970/1
+#134	ICD-O T139	8041/3
+#135	ICD-O T140	C34.9 8041/34
+#136	ICD-O T141	4
+#137	ICD-O T142	C34.9
+#138	ICD-O T143	8000/1
+#139	ICD-O T144	C34.1 8000/1;C76.1 8000/1
+#140	ICD-O T145	C34.1
+#141	ICD-O T146	C76.1
+#142	ICD-O T147	8000/6
+#143	ICD-O T148	C22.0 8000/6;C42.2 8000/6;C77.9 8000/6
+#144	ICD-O T149	C77.9
+#145	ICD-O T150	C22.0
+#146	ICD-O T151	8000/6
+#147	ICD-O T152	C22.0 8000/6
+#148	ICD-O T153	C22.0
+#149	ICD-O T154	C42.2
+#150	ICD-O T155	8000/6
+#151	ICD-O T156	8000/6
+#152	ICD-O T157	8041/3
+#153	ICD-O T158	C34.9 8041/34
+#154	ICD-O T159	4
+#155	ICD-O T160	C34.9

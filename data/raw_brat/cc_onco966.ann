@@ -1,0 +1,205 @@
+T64	topographie 4173 4195	cérébrale parasellaire
+T1	morphologie 242 254	mélanocytome
+T2	expression_CIM 242 277	mélanocytome de grade intermédiaire
+T3	differenciation 258 277	grade intermédiaire
+T4	morphologie 374 380	tumeur
+T5	expression_CIM 374 393	tumeur de bas grade
+T6	differenciation 384 393	bas grade
+T7	expression_CIM 463 478	récidive locale
+T8	morphologie 463 478	récidive locale
+T9	expression_CIM 485 491	lésion
+T10	morphologie 485 491	lésion
+T11	expression_CIM 680 686	foyers
+T12	morphologie 680 686	foyers
+T13	expression_CIM 731 739	récidive
+T14	morphologie 731 739	récidive
+T15	morphologie 1251 1256	masse
+T16	expression_CIM 1251 1280	masse au niveau suprasellaire
+T17	topographie 1267 1280	suprasellaire
+T18	morphologie 1301 1320	foyers de captation
+T19	expression_CIM 1301 1338	foyers de captation dans la dure-mère
+T20	topographie 1329 1338	dure-mère
+T21	morphologie 1350 1363	dissémination
+T22	expression_CIM 1350 1377	dissémination leptoméningée
+T23	topographie 1364 1377	leptoméningée
+T24	expression_CIM 1491 1497	tumeur
+T25	morphologie 1491 1497	tumeur
+T26	morphologie 1617 1625	récidive
+T27	expression_CIM 1617 1651	récidive étendue au niveau crânien
+T28	topographie 1644 1651	crânien
+T29	expression_CIM 1735 1744	récidives
+T30	morphologie 1735 1744	récidives
+T31	morphologie 1941 1953	mélanocytome
+T32	expression_CIM 1941 1985	mélanocytome cérébral de grade intermédiaire
+T33	topographie 1954 1962	cérébral
+T34	differenciation 1966 1985	grade intermédiaire
+T35	expression_CIM 1990 2009	méningiome pigmenté
+T36	morphologie 1990 2009	méningiome pigmenté
+T37	expression_CIM 2137 2157	néoplasmes pigmentés
+T38	morphologie 2137 2157	néoplasmes pigmentés
+T39	expression_CIM 2204 2222	maladie à distance
+T40	morphologie 2204 2222	maladie à distance
+T41	expression_CIM 2576 2601	progression de la maladie
+T42	morphologie 2576 2601	progression de la maladie
+T43	morphologie 2801 2821	lésions mélanotiques
+T44	expression_CIM 2801 2833	lésions mélanotiques sur la peau
+T45	topographie 2829 2833	peau
+T46	expression_CIM 3435 3460	progression de la maladie
+T47	morphologie 3435 3460	progression de la maladie
+T48	expression_CIM 3505 3512	lésions
+T49	morphologie 3505 3512	lésions
+T50	expression_CIM 3547 3557	métastases
+T51	morphologie 3547 3557	métastases
+T52	morphologie 3615 3622	lésions
+T53	expression_CIM 3615 3633	lésions hépatiques
+T54	topographie 3623 3633	hépatiques
+T55	expression_CIM 3674 3681	lésions
+T56	morphologie 3674 3681	lésions
+T57	expression_CIM 3719 3731	mélanocytome
+T58	morphologie 3719 3731	mélanocytome
+T59	morphologie 3735 3743;3753 3758	mélanome malin
+T60	expression_CIM 3735 3758	mélanome cérébral malin
+T61	topographie 3744 3752	cérébral
+T62	morphologie 4167 4172	masse
+T63	expression_CIM 4167 4195	masse cérébrale parasellaire
+T65	morphologie 4358 4365	lésions
+T66	expression_CIM 4358 4376	lésions hépatiques
+T67	topographie 4366 4376	hépatiques
+T68	expression_CIM 4479 4489	métastases
+T69	morphologie 4479 4489	métastases
+T70	expression_CIM 4571 4591	infiltration maligne
+T71	morphologie 4571 4591	infiltration maligne
+T72	expression_CIM 4731 4739	tumorale
+T73	morphologie 4731 4739	tumorale
+T74	expression_CIM 4760 4770	métastases
+T75	morphologie 4760 4770	métastases
+T76	expression_CIM 4774 4788	mélanome malin
+T77	morphologie 4774 4788	mélanome malin
+T78	morphologie 4949 4959	métastases
+T79	expression_CIM 4949 4970	métastases hépatiques
+T80	topographie 4960 4970	hépatiques
+T81	morphologie 5125 5132	lésions
+T82	expression_CIM 5125 5163	lésions multiples au niveau pulmonaire
+T83	topographie 5153 5163	pulmonaire
+T84	expression_CIM 5187 5197	métastases
+T85	morphologie 5187 5197	métastases
+T86	expression_CIM 5283 5305	transformation maligne
+T87	morphologie 5283 5305	transformation maligne
+T88	morphologie 5572 5584	mélanocytome
+T89	expression_CIM 5572 5593	mélanocytome cérébral
+T90	topographie 5585 5593	cérébral
+T91	expression_CIM 5597 5611	mélanome malin
+T92	morphologie 5597 5611	mélanome malin
+T93	expression_CIM 5810 5831	récidive de la tumeur
+T94	morphologie 5810 5831	récidive de la tumeur
+T95	morphologie 6988 6995	lésions
+T96	expression_CIM 6988 7006	lésions hépatiques
+T97	topographie 6996 7006	hépatiques
+T98	morphologie 7016 7022	lésion
+T99	expression_CIM 7016 7032	lésion cérébrale
+T100	topographie 7023 7032	cérébrale
+T101	morphologie 7075 7082	nodules
+T102	expression_CIM 7075 7094	nodules pulmonaires
+T103	topographie 7083 7094	pulmonaires
+T104	expression_CIM 7109 7119	métastases
+T105	morphologie 7109 7119	métastases
+#1	ICD-O T1	8726/0
+#2	ICD-O T2	8726/02
+#3	ICD-O T3	2
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/11
+#6	ICD-O T6	1
+#7	ICD-O T8	8000/3
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C71.9 8000/1
+#16	ICD-O T17	C71.9
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	C70.9 8000/1
+#19	ICD-O T20	C70.9
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	C70.9 8000/6
+#22	ICD-O T23	C70.9
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	8000/6
+#26	ICD-O T27	C41.0 8000/6
+#27	ICD-O T28	C41.0
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8000/6
+#30	ICD-O T31	8726/0
+#31	ICD-O T32	C71.0 8726/02
+#32	ICD-O T33	C71.0
+#33	ICD-O T34	2
+#34	ICD-O T35	9530/0
+#35	ICD-O T36	9530/0
+#36	ICD-O T37	8000/3
+#37	ICD-O T38	8000/3
+#38	ICD-O T39	8000/6
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	8720/1
+#43	ICD-O T45	C44.9 
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	8000/1
+#46	ICD-O T48	8000/1
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	8000/6
+#49	ICD-O T51	8000/6
+#50	ICD-O T52	8000/1
+#51	ICD-O T53	C22.0 8000/1
+#52	ICD-O T54	C22.0
+#53	ICD-O T55	8000/1
+#54	ICD-O T56	8000/1
+#55	ICD-O T57	8726/0
+#56	ICD-O T58	8726/0
+#57	ICD-O T59	8720/3
+#58	ICD-O T60	C71.0 8720/3
+#59	ICD-O T61	C71.0
+#60	ICD-O T62	8000/1
+#61	ICD-O T63	C71.0 8000/1;C72.9 8000/1
+#62	ICD-O T65	8000/1
+#63	ICD-O T66	C22.0 8000/1
+#64	ICD-O T67	C22.0
+#65	ICD-O T68	8000/6
+#66	ICD-O T69	8000/6
+#67	ICD-O T70	8000/6
+#68	ICD-O T71	8000/6
+#69	ICD-O T72	8000/3
+#70	ICD-O T73	8000/3
+#71	ICD-O T74	8000/6
+#72	ICD-O T75	8000/6
+#73	ICD-O T76	8720/3
+#74	ICD-O T77	8720/3
+#75	ICD-O T78	8000/6
+#76	ICD-O T79	C22.0 8000/6
+#77	ICD-O T80	C22.0
+#78	ICD-O T81	8000/1
+#79	ICD-O T82	C34.9 8000/1
+#80	ICD-O T83	C34.9
+#81	ICD-O T84	8000/6
+#82	ICD-O T85	8000/6
+#83	ICD-O T87	8000/9
+#84	ICD-O T88	8726/0
+#85	ICD-O T89	C71.0 8726/0
+#86	ICD-O T90	C71.0
+#87	ICD-O T91	8720/3
+#88	ICD-O T92	8720/3
+#89	ICD-O T94	8000/3
+#90	ICD-O T95	8000/1
+#91	ICD-O T96	C22.0 8000/1
+#92	ICD-O T97	C22.0
+#93	ICD-O T98	8000/1
+#94	ICD-O T99	C71.0 8000/1
+#95	ICD-O T100	C71.0
+#96	ICD-O T101	8000/1
+#97	ICD-O T102	C34.9 8000/1
+#98	ICD-O T103	C34.9
+#99	ICD-O T104	8000/6
+#100	ICD-O T105	8000/6

@@ -1,0 +1,59 @@
+T89	topographie 4764 4784	corticosurrénalienne
+T86	morphologie 4751 4754	NER
+T25	topographie 1564 1589	région dorsale de la main
+T53	morphologie 2754 2786	Tumeur maligne à cellules rondes
+T1	morphologie 75 82	sarcome
+T3	topographie 83 95	testiculaire
+T4	morphologie 857 871	lésion lytique
+T6	topographie 877 889	os scaphoïde
+T7	morphologie 1002 1008	lésion
+T90	morphologie 1017 1025	primaire
+T9	topographie 1009 1016	osseuse
+T10	morphologie 1035 1041	lésion
+T12	topographie 1046 1057	tissus mous
+T13	topographie 1072 1074	os
+T14	morphologie 1187 1195	sarcomes
+T16	topographie 1200 1211	tissus mous
+T17	morphologie 1291 1297	lésion
+T19	topographie 1301 1310	scaphoïde
+T20	morphologie 1354 1368	tumeur maligne
+T91	morphologie 1384 1401	à cellules rondes
+T22	differenciation 1369 1383	indifférenciée
+T23	morphologie 1522 1528	Tumeur
+T26	morphologie 2318 2328	métastases
+T28	topographie 2329 2337	osseuses
+T29	topographie 2339 2392	ganglions lymphatiques supra et infradiaphragmatiques
+T30	morphologie 2394 2404	métastases
+T32	topographie 2405 2416	pulmonaires
+T33	topographie 2434 2445	tissus mous
+T34	topographie 2447 2454	rénales
+T35	topographie 2458 2472	surrénaliennes
+T37	morphologie 2524 2539	tumeur primaire
+T38	morphologie 2580 2586	lésion
+T40	topographie 2587 2593	rénale
+T42	morphologie 2612 2633	tumeur neuroendocrine
+T44	morphologie 2635 2638	TNE
+T45	morphologie 2643 2651	primitif
+T47	topographie 2652 2659	inconnu
+T49	morphologie 2673 2690	récidive tumorale
+T50	morphologie 2696 2703	sarcome
+T52	topographie 2704 2716	testiculaire
+T55	differenciation 2787 2802	indifférenciées
+T57	morphologie 2831 2834	NST
+T58	morphologie 2838 2846	primitif
+T60	topographie 2847 2854	inconnu
+T62	morphologie 2863 2871	récidive
+T63	morphologie 2875 2882	sarcome
+T65	topographie 2883 2895	testiculaire
+T67	morphologie 2896 2900	E IV
+T68	morphologie 3266 3277	progression
+T70	topographie 3297 3306	abdominal
+T72	morphologie 3421 3428	sarcome
+T74	morphologie 3784 3811	stabilisation de la maladie
+T75	morphologie 3828 3833	masse
+T77	topographie 3890 3902	cuir chevelu
+T79	morphologie 3948 3954	lésion
+T81	morphologie 4032 4035	TNE
+T82	morphologie 4638 4644	lésion
+T84	topographie 4645 4655	palpébrale
+T87	morphologie 4757 4763	tumeur

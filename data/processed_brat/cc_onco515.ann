@@ -1,0 +1,42 @@
+T1	morphologie 693 698	masse
+T3	topographie 707 721	lobe supérieur
+T4	morphologie 841 846	masse
+T6	topographie 865 879	lobe supérieur
+T7	morphologie 899 908	néoplasie
+T9	topographie 909 919	pulmonaire
+T10	morphologie 936 942	nodule
+T12	topographie 957 969	sous-pleural
+T14	morphologie 1057 1062	masse
+T16	morphologie 1137 1147	métastases
+T17	morphologie 1234 1240	lésion
+T19	topographie 1249 1263	lobe supérieur
+T20	morphologie 1305 1319	adénocarcinome
+T22	topographie 1320 1330	pulmonaire
+T23	morphologie 1746 1753	rechute
+T25	topographie 1754 1764	pulmonaire
+T26	morphologie 1778 1787	métastase
+T28	topographie 1788 1797	cérébrale
+T30	morphologie 2269 2275	lésion
+T32	topographie 2276 2285	cérébrale
+T33	morphologie 2320 2326	lésion
+T35	topographie 2327 2336	cérébrale
+T36	morphologie 2593 2599	lésion
+T38	topographie 2600 2609	pariétale
+T39	morphologie 2830 2841	progression
+T41	topographie 2842 2850	pleurale
+T42	topographie 2854 2867	ganglionnaire
+T43	topographie 2891 2901	diaphragme
+T45	morphologie 3175 3200	progression de la maladie
+T47	topographie 3209 3216	cerveau
+T49	morphologie 3255 3262	lésions
+T50	morphologie 3453 3460	lésions
+T52	topographie 3476 3493	supratentorielles
+T53	morphologie 3666 3678	la maladie a
+T61	morphologie 3690 3699	progressé
+T55	topographie 3714 3721	poumons
+T56	topographie 3728 3735	cerveau
+T57	morphologie 3832 3839	lésions
+T59	topographie 3840 3850	cérébrales
+T60	topographie 3854 3865	pulmonaires
+T44	topographie 2908 2922	région hilaire
+T29	topographie 1814 1830	région pariétale

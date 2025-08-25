@@ -1,0 +1,78 @@
+T1	morphologie 176 182	cancer
+T2	expression_CIM 176 190	cancer du sein
+T3	topographie 186 190	sein
+T4	morphologie 340 370	carcinome canalaire infiltrant
+T5	expression_CIM 340 396	carcinome canalaire infiltrant du sein droit de grade II
+T6	topographie 374 378	sein
+T7	differenciation 388 396	grade II
+T8	morphologie 1170 1181	progression
+T9	expression_CIM 1170 1277	progression du cancer du sein a été visualisée au niveau des ganglions lymphatiques, des os et de la plèvre
+T10	morphologie 1185 1191	cancer
+T11	expression_CIM 1185 1199	cancer du sein
+T12	topographie 1195 1199	sein
+T13	topographie 1231 1253	ganglions lymphatiques
+T14	topographie 1259 1261	os
+T15	topographie 1271 1277	plèvre
+T16	expression_CIM 1371 1391	maladie métastatique
+T17	morphologie 1371 1391	maladie métastatique
+T18	morphologie 1503 1517	adénocarcinome
+T19	expression_CIM 1503 1535	adénocarcinome invasif du rectum
+T20	topographie 1529 1535	rectum
+T21	morphologie 2113 2132	maladie néoplasique
+T22	expression_CIM 2113 2140	maladie néoplasique du sein
+T23	topographie 2136 2140	sein
+T24	morphologie 2269 2278	métastase
+T25	expression_CIM 2269 2286	métastase osseuse
+T26	topographie 2279 2286	osseuse
+T27	expression_CIM 3433 3441	récidive
+T28	morphologie 3433 3441	récidive
+T29	morphologie 3449 3455	cancer
+T30	expression_CIM 3449 3469	cancer rectosigmoïde
+T31	topographie 3456 3469	rectosigmoïde
+T32	expression_CIM 3748 3756	récidive
+T33	morphologie 3748 3756	récidive
+T34	morphologie 3764 3773	néoplasme
+T35	expression_CIM 3764 3780	néoplasme rectal
+T36	topographie 3774 3780	rectal
+T37	morphologie 4400 4406	lésion
+T38	expression_CIM 4400 4422	lésion des tissus mous
+T39	topographie 4411 4422	tissus mous
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8500/3
+#5	ICD-O T5	C50.9 8500/32
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	2
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C38.4 8000/6;C41.9 8000/6;C77.9 8000/6
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	C50.9 8000/3
+#12	ICD-O T12	C50.9
+#13	ICD-O T13	C77.9
+#14	ICD-O T14	C41.9
+#15	ICD-O T15	C38.4
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	8140/3
+#19	ICD-O T19	C20.9 8140/3
+#20	ICD-O T20	C20.9
+#21	ICD-O T21	8000/3
+#22	ICD-O T22	C50.9 8000/3
+#23	ICD-O T23	C50.9
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	C41.9 8000/6
+#26	ICD-O T26	C41.9
+#27	ICD-O T27	8000/6
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	8000/3
+#30	ICD-O T30	C19.9 8000/3
+#31	ICD-O T31	C19.9
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	C20.9 8000/1
+#36	ICD-O T36	C20.9
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C49.9 8000/1
+#39	ICD-O T39	C49.9

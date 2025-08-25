@@ -1,0 +1,102 @@
+T1	expression_CIM 532 537	masse
+T2	morphologie 532 537	masse
+T3	topographie 1061 1070	appendice
+T4	expression_CIM 1061 1088	appendice montre une lésion
+T5	morphologie 1082 1088	lésion
+T6	expression_CIM 1166 1195	lésion kystique dans l'ovaire
+T7	topographie 1189 1195	ovaire
+T8	morphologie 1514 1541	cystadénocarcinome mucineux
+T9	expression_CIM 1514 1556	cystadénocarcinome mucineux de l'appendice
+T10	topographie 1547 1556	appendice
+T11	morphologie 1813 1825	pseudomyxome
+T12	expression_CIM 1813 1836	pseudomyxome péritonéal
+T13	topographie 1826 1836	péritonéal
+T14	morphologie 1854 1873	néoplasie mucineuse
+T15	expression_CIM 1854 1888	néoplasie mucineuse appendiculaire
+T16	topographie 1874 1888	appendiculaire
+T17	morphologie 1894 1904	métastases
+T18	expression_CIM 1894 1915	métastases ovariennes
+T19	topographie 1905 1915	ovariennes
+T20	expression_CIM 1917 1925	stade IV
+T21	morphologie 1917 1925	stade IV
+T22	morphologie 2133 2139	cancer
+T23	expression_CIM 2133 2150	cancer péritonéal
+T24	topographie 2140 2150	péritonéal
+T25	morphologie 2207 2215	atteinte
+T26	expression_CIM 2207 2227	atteinte péritonéale
+T27	topographie 2216 2227	péritonéale
+T28	expression_CIM 2235 2241	tumeur
+T29	morphologie 2235 2241	tumeur
+T30	morphologie 2362 2370	implants
+T31	expression_CIM 2362 2382	implants péritonéaux
+T32	topographie 2371 2382	péritonéaux
+T33	morphologie 2891 2918	cystadénocarcinome mucineux
+T34	expression_CIM 2891 2933	cystadénocarcinome mucineux de l'appendice
+T35	topographie 2924 2933	appendice
+T36	morphologie 2996 3006	métastases
+T37	expression_CIM 2996 3017	métastases ovariennes
+T38	topographie 3007 3017	ovariennes
+T39	morphologie 3044 3051	implant
+T40	expression_CIM 3044 3076	implant solide dans le péritoine
+T41	topographie 3067 3076	péritoine
+T42	expression_CIM 3084 3092	atteinte
+T43	morphologie 3084 3092	atteinte
+T44	morphologie 3110 3142	infiltration de matériel mucoïde
+T45	expression_CIM 3110 3287	infiltration de matériel mucoïde acellulaire (dans l'épiploon, la capsule de Glison, la vésicule biliaire, l'utérus, les trompes de Fallope, la capsule splénique et le péritoine
+T46	topographie 3163 3171	épiploon
+T47	topographie 3176 3193	capsule de Glison
+T48	topographie 3198 3215	vésicule biliaire
+T49	topographie 3219 3225	utérus
+T51	topographie 3254 3271	capsule splénique
+T52	topographie 3278 3287	péritoine
+T53	expression_CIM 3318 3320	M1
+T54	morphologie 3318 3320	M1
+T50	topographie 3231 3249	trompes de Fallope
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	C18.1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	C56.9 8000/1
+#6	ICD-O T7	C56.9
+#7	ICD-O T8	8470/3
+#8	ICD-O T9	C18.1 8470/3
+#9	ICD-O T10	C18.1
+#10	ICD-O T11	8480/6
+#11	ICD-O T13	C48.2
+#12	ICD-O T14	8480/3
+#13	ICD-O T15	C18.1 8480/3
+#14	ICD-O T16	C18.1
+#15	ICD-O T17	8000/6
+#16	ICD-O T18	C56.9 8000/6
+#17	ICD-O T19	C56.9
+#18	ICD-O T20	8000/6
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8000/3
+#21	ICD-O T23	C48.2 8000/3
+#22	ICD-O T24	C48.2
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	C48.2 8000/1
+#25	ICD-O T27	C48.2
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	C48.2 8000/6
+#30	ICD-O T32	C48.2
+#31	ICD-O T33	8470/3
+#32	ICD-O T34	C18.1 8470/3
+#33	ICD-O T35	C18.1
+#34	ICD-O T36	8000/6
+#35	ICD-O T37	C56.9 8000/6
+#36	ICD-O T38	C56.9
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	C48.2 8000/6
+#39	ICD-O T41	C48.2
+#40	ICD-O T43	8000/9
+#41	ICD-O T44	8000/6
+#42	ICD-O T46	C48.1
+#43	ICD-O T47	C22.0
+#44	ICD-O T48	C23 
+#45	ICD-O T49	C55.9
+#46	ICD-O T51	C42.2
+#47	ICD-O T52	C48.2
+#48	ICD-O T54	8000/6

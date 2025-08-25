@@ -1,0 +1,46 @@
+T1	morphologie 390 397	lésions
+T2	expression_CIM 390 405	lésions au pied
+T3	topographie 401 405	pied
+T4	expression_CIM 828 845	sarcome de Kaposi
+T5	morphologie 828 845	sarcome de Kaposi
+T6	expression_CIM 933 950	sarcome de Kaposi
+T7	morphologie 933 950	sarcome de Kaposi
+T8	expression_CIM 1261 1278	sarcome de Kaposi
+T9	morphologie 1261 1278	sarcome de Kaposi
+T10	expression_CIM 1548 1555	lésions
+T11	morphologie 1548 1555	lésions
+T12	expression_CIM 1613 1636	stabilité de la maladie
+T13	morphologie 1613 1636	stabilité de la maladie
+T14	expression_CIM 1688 1695	lésions
+T15	morphologie 1688 1695	lésions
+T16	expression_CIM 1847 1854	lésions
+T17	morphologie 1847 1854	lésions
+T18	expression_CIM 1902 1909	lésions
+T19	morphologie 1902 1909	lésions
+T20	expression_CIM 2175 2181	lésion
+T21	morphologie 2175 2181	lésion
+T22	expression_CIM 2206 2225	lésion métastatique
+T23	morphologie 2206 2225	lésion métastatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.5 8000/1
+#3	ICD-O T3	C76.5
+#4	ICD-O T4	9140/3
+#5	ICD-O T5	9140/3
+#6	ICD-O T6	9140/3
+#7	ICD-O T7	9140/3
+#8	ICD-O T8	9140/3
+#9	ICD-O T9	9140/3
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	8000/6

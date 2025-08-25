@@ -1,0 +1,44 @@
+T1	morphologie 977 998	tumeur neuroendocrine
+T3	topographie 1002 1020	corps pancréatique
+T5	morphologie 1022 1033	glucagonome
+T7	morphologie 1037 1045	stade IV
+T8	morphologie 1286 1292	tumeur
+T10	topographie 1312 1329	corps du pancréas
+T11	morphologie 1380 1387	lésions
+T15	morphologie 1513 1522	métastase
+T16	morphologie 1607 1613	tumeur
+T18	topographie 1614 1626	pancréatique
+T19	morphologie 1639 1646	lésions
+T21	topographie 1647 1657	hépatiques
+T22	morphologie 1909 1930	tumeur neuroendocrine
+T24	differenciation 1939 1965	grade de différenciation 2
+T25	morphologie 2637 2658	tumeur neuroendocrine
+T27	differenciation 2679 2705	différenciation de grade 2
+T29	morphologie 2726 2737	glucagonome
+T30	morphologie 2839 2845	tumeur
+T32	topographie 2864 2886	ganglions lymphatiques
+T33	morphologie 2902 2914	infiltration
+T35	topographie 2915 2926	périneurale
+T36	morphologie 2932 2940	invasion
+T38	topographie 2941 2957	lymphovasculaire
+T40	morphologie 3028 3041	foyer tumoral
+T41	morphologie 3064 3072	invasion
+T43	topographie 3073 3082	splénique
+T44	morphologie 3118 3128	métastases
+T46	topographie 3129 3139	hépatiques
+T47	morphologie 3170 3176	nodule
+T49	topographie 3177 3196	péritonéal viscéral
+T51	morphologie 3293 3302	métastase
+T53	morphologie 3306 3330	carcinome neuroendocrine
+T55	morphologie 4939 4955	maladie tumorale
+T56	morphologie 5042 5062	maladie métastatique
+T58	topographie 5071 5075	foie
+T60	morphologie 5099 5106	lésions
+T61	morphologie 5240 5247	nodules
+T63	topographie 5256 5307	tissu cellulaire sous-cutané de la paroi abdominale
+T65	morphologie 5344 5357	dissémination
+T67	morphologie 5503 5509	tumeur
+T69	morphologie 5658 5669	glucagonome
+T71	morphologie 5673 5681	stade IV
+T73	morphologie 7013 7036	stabilité de la maladie
+T13	topographie 1408 1427	segments VI et VIII

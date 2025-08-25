@@ -1,0 +1,78 @@
+T1	morphologie 382 394	condensation
+T2	expression_CIM 382 405	condensation pulmonaire
+T3	topographie 395 405	pulmonaire
+T4	expression_CIM 532 557	condensation néoformative
+T5	morphologie 532 557	condensation néoformative
+T6	morphologie 582 593	adénopathie
+T7	expression_CIM 582 614	adénopathie de 2 cm dans le hile
+T8	topographie 610 614	hile
+T9	expression_CIM 628 647	masse adénopathique
+T10	morphologie 628 647	masse adénopathique
+T11	expression_CIM 772 793	processus néoformatif
+T12	morphologie 772 793	processus néoformatif
+T13	expression_CIM 1277 1328	sarcome synovial monophasique à cellules fusiformes
+T14	morphologie 1277 1328	sarcome synovial monophasique à cellules fusiformes
+T15	expression_CIM 1644 1662	maladie à distance
+T16	morphologie 1644 1662	maladie à distance
+T17	morphologie 1808 1820	infiltration
+T18	expression_CIM 1808 1861	infiltration de la plèvre et du parenchyme pulmonaire
+T19	topographie 1827 1833	plèvre
+T20	topographie 1840 1861	parenchyme pulmonaire
+T21	expression_CIM 2124 2136	infiltration
+T22	morphologie 2124 2136	infiltration
+T23	morphologie 2335 2351	sarcome synovial
+T24	expression_CIM 2335 2363	sarcome synovial médiastinal
+T25	topographie 2352 2363	médiastinal
+T26	morphologie 2385 2397	infiltration
+T27	expression_CIM 2385 2477	infiltration des grands vaisseaux, de la paroi de l'oreillette et du septum interauriculaire
+T28	topographie 2402 2418	grands vaisseaux
+T30	topographie 2454 2477	septum interauriculaire
+T31	morphologie 3620 3625	masse
+T32	expression_CIM 3620 3643	masse rétro-auriculaire
+T33	topographie 3626 3643	rétro-auriculaire
+T34	expression_CIM 3747 3763	sarcome synovial
+T35	morphologie 3747 3763	sarcome synovial
+T36	morphologie 4972 4997	progression de la maladie
+T37	expression_CIM 4972 5019	progression de la maladie au niveau médiastinal
+T38	topographie 5008 5019	médiastinal
+T39	expression_CIM 5026 5046	extension à distance
+T40	morphologie 5026 5046	extension à distance
+T29	topographie 2426 2447	paroi de l'oreillette
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C34.9
+#3	ICD-O T4	8000/3
+#4	ICD-O T5	8000/3
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C77.1 8000/1
+#7	ICD-O T8	C76.1
+#8	ICD-O T9	C77.9 8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	9041/3
+#13	ICD-O T14	9041/3
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C34.9 8000/1;C38.4 8000/1
+#18	ICD-O T19	C38.4
+#19	ICD-O T20	C34.9
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	9040/3
+#23	ICD-O T24	C38.3 9040/3
+#24	ICD-O T25	C38.3
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C38.0 8000/1;C49.3 8000/1
+#27	ICD-O T28	C49.3
+#28	ICD-O T30	C38.0
+#29	ICD-O T31	8000/1
+#30	ICD-O T32	C77.0 8000/1
+#31	ICD-O T33	C77.0
+#32	ICD-O T34	9040/3
+#33	ICD-O T35	9040/3
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	C38.3 8000/1
+#36	ICD-O T38	C38.3
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	8000/6

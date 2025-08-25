@@ -1,0 +1,26 @@
+T1	morphologie 103 109	cancer
+T3	topographie 114 121	poumons
+T4	topographie 129 131	os
+T5	morphologie 136 142	cancer
+T7	topographie 146 152	larynx
+T8	morphologie 179 198	cancer folliculaire
+T39	morphologie 215 242	variante à cellules claires
+T10	topographie 205 213	thyroïde
+T11	morphologie 248 258	métastases
+T13	topographie 259 270	pulmonaires
+T14	morphologie 1175 1180	masse
+T16	topographie 1197 1208	hypochondre
+T19	morphologie 1302 1307	masse
+T21	morphologie 1393 1407	masse tumorale
+T22	morphologie 1702 1705	SCC
+T24	differenciation 1709 1719	haut grade
+T26	morphologie 1990 1996	tumeur
+T27	morphologie 2230 2238	invasion
+T29	topographie 2239 2249	vasculaire
+T30	morphologie 2315 2318	SCC
+T32	differenciation 2322 2332	haut grade
+T33	morphologie 6324 6330	nodule
+T35	topographie 6353 6356	LSD
+T36	morphologie 6487 6494	nodules
+T38	topographie 6503 6506	LSD
+T17	topographie 1255 1276	origine surrénalienne

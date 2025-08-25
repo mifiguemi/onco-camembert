@@ -1,0 +1,73 @@
+T1	morphologie 61 91	carcinome canalaire infiltrant
+T2	expression_CIM 61 99	carcinome canalaire infiltrant du sein
+T3	topographie 95 99	sein
+T4	expression_CIM 363 371	stade IV
+T5	morphologie 363 371	stade IV
+T6	morphologie 415 425	métastases
+T7	expression_CIM 415 458	métastases osseuses dans le squelette axial
+T8	topographie 426 434	osseuses
+T9	topographie 443 458	squelette axial
+T10	morphologie 1160 1166	nodule
+T11	expression_CIM 1160 1186	nodule dans le CSC du sein
+T12	topographie 1175 1186	CSC du sein
+T13	morphologie 1212 1248;1268 1290	carcinome lobulaire infiltrant mixte canalaire et lobulaire
+T14	expression_CIM 1212 1290	carcinome lobulaire infiltrant mixte localement avancé (canalaire et lobulaire
+T15	expression_CIM 1790 1795	masse
+T16	morphologie 1790 1795	masse
+T17	morphologie 2027 2040	carcinomatose
+T18	expression_CIM 2027 2052	carcinomatose péritonéale
+T19	topographie 2041 2052	péritonéale
+T20	morphologie 2061 2067;2079 2092	masses métastatiques
+T21	expression_CIM 2061 2092	masses ovariennes métastatiques
+T22	topographie 2068 2078	ovariennes
+T23	morphologie 2615 2684	carcinome lobulaire infiltrant, de type mixte (canalaire et lobulaire
+T24	expression_CIM 2615 2693	carcinome lobulaire infiltrant, de type mixte (canalaire et lobulaire) du sein
+T25	topographie 2689 2693	sein
+T26	morphologie 2789 2795	tumeur
+T27	expression_CIM 2789 2827	tumeur métachrone apparue dans le sein
+T28	topographie 2823 2827	sein
+T29	morphologie 2845 2865	carcinome infiltrant
+T30	expression_CIM 2845 2873	carcinome infiltrant du sein
+T31	topographie 2869 2873	sein
+T32	morphologie 3496 3509	carcinomatose
+T33	expression_CIM 3496 3521	carcinomatose péritonéale
+T34	topographie 3510 3521	péritonéale
+T35	morphologie 3557 3563	masses
+T36	expression_CIM 3557 3574	masses ovariennes
+T37	topographie 3564 3574	ovariennes
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C41.2 8000/6;C41.9 8000/6
+#8	ICD-O T8	C41.9
+#9	ICD-O T9	C41.2
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C50.2 8000/1
+#12	ICD-O T12	C50.2
+#13	ICD-O T13	8522/3
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8010/9
+#17	ICD-O T18	C48.2 8010/9
+#18	ICD-O T19	C48.2
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	C56.9 8000/6
+#21	ICD-O T22	C56.9
+#22	ICD-O T23	8522/3
+#23	ICD-O T24	C50.9 8522/3
+#24	ICD-O T25	C50.9
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C50.9 8000/1
+#27	ICD-O T28	C50.9
+#28	ICD-O T29	8010/3
+#29	ICD-O T30	C50.9 8010/3
+#30	ICD-O T31	C50.9
+#31	ICD-O T32	8010/9
+#32	ICD-O T33	C48.2 8010/9
+#33	ICD-O T34	C48.2
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	C56.9 8000/1
+#36	ICD-O T37	C56.9

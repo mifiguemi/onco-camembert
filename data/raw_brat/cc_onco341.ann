@@ -1,0 +1,212 @@
+T18	topographie 1117 1128	CSD du sein
+T59	topographie 2538 2541	CSE
+T51	morphologie 2426 2443	foyers nodulaires
+T24	topographie 1532 1535	LII
+T1	morphologie 279 281	Ca
+T2	expression_CIM 279 286	Ca Sein
+T3	topographie 282 286	Sein
+T4	morphologie 305 311	cancer
+T5	expression_CIM 305 326	cancer de la prostate
+T6	topographie 318 326	prostate
+T7	morphologie 367 373	cancer
+T8	expression_CIM 367 381	cancer du sein
+T9	topographie 377 381	sein
+T10	morphologie 424 426	Ca
+T11	expression_CIM 424 433	Ca breast
+T12	topographie 427 433	breast
+T13	morphologie 437 439	Ca
+T14	expression_CIM 437 446	Ca uterus
+T15	topographie 440 446	uterus
+T16	morphologie 1050 1055	masse
+T17	expression_CIM 1050 1128	masse de 8 cm, d'environ 6 mois d'évolution, ulcérée, au niveau du CSD du sein
+T19	morphologie 1166 1177	adénopathie
+T20	expression_CIM 1166 1187	adénopathie axillaire
+T21	topographie 1178 1187	axillaire
+T22	morphologie 1497 1503	nodule
+T23	expression_CIM 1497 1535	nodule spiculé d'environ 1,5 cm en LII
+T25	morphologie 1579 1586	lésions
+T26	expression_CIM 1579 1608	lésions blastiques à L1 et L2
+T27	topographie 1600 1608	L1 et L2
+T28	morphologie 1930 1936	lésion
+T29	expression_CIM 1930 1994	lésion infiltrante à un niveau postérieur du corps vertébral D12
+T30	topographie 1975 1994	corps vertébral D12
+T31	morphologie 2000 2009	extension
+T32	expression_CIM 2000 2078	extension au pédicule, aux deux apophyses transverses et à l'apophyse épineuse
+T34	topographie 2027 2053	deux apophyses transverses
+T35	topographie 2059 2078	l'apophyse épineuse
+T36	morphologie 2084 2093	expansion
+T37	expression_CIM 2084 2101	expansion osseuse
+T38	topographie 2094 2101	osseuse
+T39	morphologie 2105 2113	atteinte
+T40	expression_CIM 2105 2132	atteinte du corps vertébral
+T41	topographie 2117 2132	corps vertébral
+T42	morphologie 2175 2184	expansion
+T43	expression_CIM 2175 2192	expansion osseuse
+T44	topographie 2185 2192	osseuse
+T45	morphologie 2343 2351	atteinte
+T46	expression_CIM 2343 2363	atteinte radiculaire
+T48	morphologie 2380 2388	atteinte
+T49	expression_CIM 2380 2411	atteinte de l'apophyse épineuse
+T50	topographie 2394 2411	apophyse épineuse
+T52	expression_CIM 2426 2450	foyers nodulaires en D11
+T53	topographie 2447 2450	D11
+T54	expression_CIM 2464 2473	métastase
+T55	morphologie 2464 2473	métastase
+T56	morphologie 2503 2508	masse
+T57	expression_CIM 2503 2541	masse de 8x8x5 dans le sein gauche CSE
+T58	topographie 2526 2530	sein
+T60	morphologie 2617 2625	atteinte
+T61	expression_CIM 2617 2633	atteinte cutanée
+T62	topographie 2626 2633	cutanée
+T63	morphologie 2693 2723	carcinome canalaire infiltrant
+T64	expression_CIM 2693 2749	carcinome canalaire infiltrant de grade II de Nottingham
+T65	differenciation 2727 2749	grade II de Nottingham
+T66	morphologie 2880 2905	conglomérat adénopathique
+T67	expression_CIM 2880 2918	conglomérat adénopathique paratrachéal
+T68	topographie 2906 2918	paratrachéal
+T69	morphologie 2942 2949	nodules
+T70	expression_CIM 2942 2961	nodules pulmonaires
+T71	topographie 2950 2961	pulmonaires
+T72	morphologie 3069 3076	lésions
+T73	expression_CIM 3069 3133	lésions à prédominance lytique dans la jonction chondro-sternale
+T74	topographie 3108 3133	jonction chondro-sternale
+T75	morphologie 3304 3334	carcinome canalaire infiltrant
+T76	expression_CIM 3304 3342	carcinome canalaire infiltrant du sein
+T77	topographie 3338 3342	sein
+T78	morphologie 4430 4438	atteinte
+T79	expression_CIM 4430 4517	atteinte de la moelle épinière au niveau du corps vertébral T12 et du plateau vertébral
+T80	topographie 4445 4460	moelle épinière
+T81	topographie 4474 4493	corps vertébral T12
+T83	morphologie 5154 5169	lésion tumorale
+T84	expression_CIM 5154 5182	lésion tumorale dans le sein
+T85	topographie 5178 5182	sein
+T86	expression_CIM 5599 5605	tumeur
+T87	morphologie 5599 5605	tumeur
+T88	expression_CIM 5673 5689	réponse tumorale
+T89	morphologie 5673 5689	réponse tumorale
+T90	morphologie 5707 5713	lésion
+T91	expression_CIM 5707 5724	lésion abdominale
+T92	topographie 5714 5724	abdominale
+T93	morphologie 6227 6235	implants
+T94	expression_CIM 6227 6247	implants péritonéaux
+T95	topographie 6236 6247	péritonéaux
+T96	morphologie 6281 6287;6297 6305	tumeur primaire
+T97	expression_CIM 6281 6305	tumeur mammaire primaire
+T98	topographie 6288 6296	mammaire
+T99	morphologie 6554 6581	carcinome papillaire séreux
+T100	expression_CIM 6554 6601	carcinome papillaire séreux d'origine ovarienne
+T101	topographie 6592 6601	ovarienne
+T102	morphologie 6649 6654	masse
+T103	expression_CIM 6649 6665	masse annexielle
+T104	topographie 6655 6665	annexielle
+T105	morphologie 6704 6712	implants
+T106	expression_CIM 6704 6724	implants péritonéaux
+T107	topographie 6713 6724	péritonéaux
+T108	morphologie 6802 6808	cancer
+T109	expression_CIM 6802 6820	cancer de l'ovaire
+T110	topographie 6814 6820	ovaire
+T111	morphologie 6926 6932	cancer
+T112	expression_CIM 6926 6940	cancer du sein
+T113	topographie 6936 6940	sein
+T114	morphologie 6980 6989	néoplasme
+T115	expression_CIM 6980 6997	néoplasme ovarien
+T116	topographie 6990 6997	ovarien
+T33	topographie 2013 2021	pédicule
+T82	topographie 4500 4517	plateau vertébral
+T47	topographie 2352 2363	radiculaire
+#1	ICD-O T51	8000/1
+#2	ICD-O T1	8010/3
+#3	ICD-O T2	C50.9 8010/3
+#4	ICD-O T3	C50.9
+#5	ICD-O T4	8000/3
+#6	ICD-O T5	C61.9 8000/3
+#7	ICD-O T6	C61.9
+#8	ICD-O T7	8000/3
+#9	ICD-O T8	C50.9 8000/3
+#10	ICD-O T9	C50.9
+#11	ICD-O T10	8010/3
+#12	ICD-O T12	C50 
+#13	ICD-O T13	8010/3
+#14	ICD-O T15	C55.9
+#15	ICD-O T16	8000/1
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C77.3 8000/1
+#18	ICD-O T21	C76.1
+#19	ICD-O T22	8000/1
+#20	ICD-O T25	8000/1
+#21	ICD-O T26	C41.2 8000/1
+#22	ICD-O T27	C41.2
+#23	ICD-O T28	8000/1
+#24	ICD-O T29	C41.2 8000/1
+#25	ICD-O T30	C41.2
+#26	ICD-O T31	8000/9
+#27	ICD-O T34	C41.2
+#28	ICD-O T35	C41.2
+#29	ICD-O T36	8000/9
+#30	ICD-O T38	C41.9
+#31	ICD-O T39	8000/9
+#32	ICD-O T41	C41.2
+#33	ICD-O T42	8000/9
+#34	ICD-O T44	C41.9
+#35	ICD-O T45	8000/9
+#36	ICD-O T48	8000/9
+#37	ICD-O T50	C41.2 
+#38	ICD-O T52	C41.2 8000/1
+#39	ICD-O T53	C41.2
+#40	ICD-O T54	8000/6
+#41	ICD-O T55	8000/6
+#42	ICD-O T56	8000/1
+#43	ICD-O T58	C50.9
+#44	ICD-O T60	8000/9
+#45	ICD-O T61	C44.9 8000/1
+#46	ICD-O T62	C44.9
+#47	ICD-O T63	8500/3
+#48	ICD-O T64	8500/32
+#49	ICD-O T65	2
+#50	ICD-O T66	8000/1
+#51	ICD-O T67	C77.1 8000/1
+#52	ICD-O T68	C71.0
+#53	ICD-O T69	8000/1
+#54	ICD-O T71	C34.9
+#55	ICD-O T72	8000/1
+#56	ICD-O T73	C49.3 8000/1
+#57	ICD-O T74	C49.3
+#58	ICD-O T75	8500/3
+#59	ICD-O T77	C50.9
+#60	ICD-O T78	8000/9
+#61	ICD-O T80	C72.0
+#62	ICD-O T81	C41.2
+#63	ICD-O T83	8000/9
+#64	ICD-O T84	C50.9 8000/3
+#65	ICD-O T85	C50.9
+#66	ICD-O T86	8000/1
+#67	ICD-O T87	8000/3
+#68	ICD-O T88	8000/3
+#69	ICD-O T89	8000/9
+#70	ICD-O T90	8000/1
+#71	ICD-O T91	C76.2 8000/1
+#72	ICD-O T92	C76.2
+#73	ICD-O T93	8000/6
+#74	ICD-O T94	C48.2 8000/6
+#75	ICD-O T95	C48.2
+#76	ICD-O T96	8000/3
+#77	ICD-O T97	C50.9 8000/3
+#78	ICD-O T98	C50.9
+#79	ICD-O T99	8461/3
+#80	ICD-O T100	C56.9 8461/3
+#81	ICD-O T101	C56.9
+#82	ICD-O T102	8000/1
+#83	ICD-O T103	C56.9 8000/1
+#84	ICD-O T104	C56.9
+#85	ICD-O T105	8000/6
+#86	ICD-O T106	C48.2 8000/6
+#87	ICD-O T107	C48.2
+#88	ICD-O T108	8000/3
+#89	ICD-O T109	C56.9 8000/3
+#90	ICD-O T110	C56.9
+#91	ICD-O T111	8000/3
+#92	ICD-O T112	C50.9 8000/3
+#93	ICD-O T113	C50.9
+#94	ICD-O T114	8000/3
+#95	ICD-O T115	C56.9 8000/1
+#96	ICD-O T116	C56.9

@@ -1,0 +1,76 @@
+T17	topographie 1667 1689	cortico-sous-corticale
+T1	morphologie 101 115	masse primaire
+T2	expression_CIM 101 132	masse primaire supratentorielle
+T3	topographie 116 132	supratentorielle
+T4	morphologie 537 555	processus expansif
+T5	expression_CIM 537 568	processus expansif intracrânien
+T6	topographie 556 568	intracrânien
+T7	morphologie 1419 1434	lésion tumorale
+T8	expression_CIM 1419 1478	lésion tumorale frontale bilatérale et ganglions de la base
+T9	topographie 1435 1443	frontale
+T10	topographie 1458 1478	ganglions de la base
+T11	expression_CIM 1570 1578	lymphome
+T12	morphologie 1570 1578	lymphome
+T13	expression_CIM 1582 1588	gliome
+T14	morphologie 1582 1588	gliome
+T15	morphologie 1660 1666	Lésion
+T16	expression_CIM 1660 1746	Lésion cortico-sous-corticale frontale bilatérale basale et parasagittale et temporale
+T18	topographie 1690 1698	frontale
+T20	morphologie 1869 1877;1902 1910	lymphome primaire
+T21	expression_CIM 1869 1910	lymphome cérébral périvasculaire primaire
+T22	topographie 1878 1886	cérébral
+T23	topographie 1887 1901	périvasculaire
+T24	expression_CIM 1969 2027	prolifération de cellules granuleuses d'aspect néoplasique
+T26	morphologie 2314 2336	astrocytome granulaire
+T27	expression_CIM 2314 2348	astrocytome granulaire de grade II
+T28	differenciation 2340 2348	grade II
+T29	morphologie 2408 2430	Astrocytome granulaire
+T30	expression_CIM 2408 2474	Astrocytome granulaire de grade II de localisation frontotemporale
+T31	differenciation 2434 2442	grade II
+T32	topographie 2459 2474	frontotemporale
+T33	expression_CIM 2546 2552	tumeur
+T34	morphologie 2546 2552	tumeur
+T35	morphologie 2901 2906	masse
+T36	expression_CIM 2901 2923	masse au lobe pariétal
+T37	topographie 2910 2923	lobe pariétal
+T38	expression_CIM 3156 3161	foyer
+T39	morphologie 3156 3161	foyer
+T40	expression_CIM 3165 3188	glioblastome multiforme
+T41	morphologie 3165 3188	glioblastome multiforme
+T25	morphologie 1969 2027	prolifération de cellules granuleuses d'aspect néoplasique
+T19	topographie 1737 1746	temporale
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C71.0 8000/3
+#3	ICD-O T3	C71.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C41.0
+#6	ICD-O T7	8000/3
+#7	ICD-O T8	C71.0 8000/3;C71.1 8000/3
+#8	ICD-O T9	C71.1
+#9	ICD-O T10	C71.0
+#10	ICD-O T11	9590/3
+#11	ICD-O T12	9590/3
+#12	ICD-O T13	9380/3
+#13	ICD-O T14	9380/3
+#14	ICD-O T15	8000/1
+#15	ICD-O T18	C71.1
+#16	ICD-O T20	9590/3
+#17	ICD-O T21	C49.9 9590/3;C71.0 9590/3
+#18	ICD-O T22	C71.0
+#19	ICD-O T23	C49.9
+#20	ICD-O T26	9400/3
+#21	ICD-O T28	2
+#22	ICD-O T29	9400/3
+#23	ICD-O T30	C71.8 9400/32
+#24	ICD-O T31	2
+#25	ICD-O T32	C71.8
+#26	ICD-O T33	8000/1
+#27	ICD-O T34	8000/3
+#28	ICD-O T35	8000/1
+#29	ICD-O T36	C71.3 8000/1
+#30	ICD-O T37	C71.3
+#31	ICD-O T38	8000/1
+#32	ICD-O T39	8000/1
+#33	ICD-O T40	9440/3
+#34	ICD-O T41	9440/3
+#35	ICD-O T25	8001/3

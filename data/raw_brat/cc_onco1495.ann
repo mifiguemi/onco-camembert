@@ -1,0 +1,60 @@
+T1	morphologie 2124 2136	Adénopathies
+T2	expression_CIM 2124 2150	Adénopathies médiastinales
+T3	topographie 2137 2150	médiastinales
+T4	expression_CIM 2375 2426	cellules aux caractéristiques cytologiques malignes
+T5	morphologie 2375 2426	cellules aux caractéristiques cytologiques malignes
+T6	expression_CIM 3223 3245	sarcome granulocytaire
+T7	morphologie 3223 3245	sarcome granulocytaire
+T8	expression_CIM 3572 3594	sarcome granulocytaire
+T9	morphologie 3572 3594	sarcome granulocytaire
+T10	expression_CIM 3903 3925	sarcome granulocytaire
+T11	morphologie 3903 3925	sarcome granulocytaire
+T12	morphologie 4113 4122	Néoplasme
+T13	expression_CIM 4113 4136	Néoplasme indifférencié
+T14	differenciation 4123 4136	indifférencié
+T15	expression_CIM 4205 4227	sarcome granulocytaire
+T16	morphologie 4205 4227	sarcome granulocytaire
+T17	expression_CIM 4304 4326	sarcome granulocytaire
+T18	morphologie 4304 4326	sarcome granulocytaire
+T19	expression_CIM 5222 5246	tumeur neuroectodermique
+T20	morphologie 5222 5246	tumeur neuroectodermique
+T21	expression_CIM 5681 5687	tumeur
+T22	morphologie 5681 5687	tumeur
+T23	expression_CIM 5724 5729	masse
+T24	morphologie 5724 5729	masse
+T25	expression_CIM 6362 6386	progression de la tumeur
+T26	morphologie 6362 6386	progression de la tumeur
+T27	morphologie 6397 6418	infiltration tumorale
+T28	expression_CIM 6397 6448	infiltration tumorale dans le sein droit et le foie
+T29	topographie 6427 6431	sein
+T30	topographie 6444 6448	foie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.1 8000/1
+#3	ICD-O T3	C38.3
+#4	ICD-O T4	8001/3
+#5	ICD-O T5	8001/3
+#6	ICD-O T6	9861/3
+#7	ICD-O T7	9861/3
+#8	ICD-O T8	9861/3
+#9	ICD-O T9	9861/3
+#10	ICD-O T10	9861/3
+#11	ICD-O T11	9861/3
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/14
+#14	ICD-O T14	4
+#15	ICD-O T15	9861/3
+#16	ICD-O T16	9861/3
+#17	ICD-O T17	9861/3
+#18	ICD-O T18	9861/3
+#19	ICD-O T19	9364/3
+#20	ICD-O T20	9364/3
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/3
+#26	ICD-O T26	8000/3
+#27	ICD-O T27	8000/6
+#28	ICD-O T28	C22.0 8000/6;C50.9 8000/6
+#29	ICD-O T29	C50.9
+#30	ICD-O T30	C22.0

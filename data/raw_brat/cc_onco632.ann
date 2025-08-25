@@ -1,0 +1,104 @@
+T31	topographie 1788 1808	boucles intestinales
+T24	topographie 1673 1692	espace rectovésical
+T36	topographie 2114 2133	espace rectovésical
+T23	topographie 1643 1658	extrapéritonéal
+T1	morphologie 237 242	masse
+T2	expression_CIM 237 253	masse abdominale
+T3	topographie 243 253	abdominale
+T4	morphologie 379 384	masse
+T5	expression_CIM 379 398	masse hypogastrique
+T6	topographie 385 398	hypogastrique
+T7	expression_CIM 511 563	tumeur à cellules fusiformes d'aspect mésenchymateux
+T8	morphologie 511 563	tumeur à cellules fusiformes d'aspect mésenchymateux
+T9	expression_CIM 601 635	tumeur stromale gastro-intestinale
+T10	morphologie 601 635	tumeur stromale gastro-intestinale
+T11	expression_CIM 637 641	GIST
+T12	morphologie 637 641	GIST
+T13	morphologie 777 783	tumeur
+T14	expression_CIM 777 793	tumeur pelvienne
+T15	topographie 784 793	pelvienne
+T16	morphologie 1053 1058	masse
+T17	expression_CIM 1053 1072	masse hypogastrique
+T18	topographie 1059 1072	hypogastrique
+T19	expression_CIM 1221 1229	sarcomes
+T20	morphologie 1221 1229	sarcomes
+T21	morphologie 1600 1606	tumeur
+T22	expression_CIM 1600 1692	tumeur à croissance expansive survenant en extrapéritonéal à partir de l'espace rectovésical
+T25	morphologie 1702 1714	infiltration
+T26	expression_CIM 1702 1759	infiltration superficielle de la vessie et de la prostate
+T27	topographie 1735 1741	vessie
+T28	topographie 1751 1759	prostate
+T29	morphologie 1771 1783	infiltration
+T30	expression_CIM 1771 1808	infiltration des boucles intestinales
+T32	expression_CIM 1874 1877	TFS
+T33	morphologie 1874 1877	TFS
+T34	morphologie 2077 2082	masse
+T35	expression_CIM 2077 2133	masse principalement kystique dans l'espace rectovésical
+T37	expression_CIM 2272 2275	TFS
+T38	morphologie 2272 2275	TFS
+T39	morphologie 2289 2314	Tumeur fibreuse solitaire
+T40	expression_CIM 2289 2342	Tumeur fibreuse solitaire typique d'origine pelvienne
+T41	topographie 2333 2342	pelvienne
+T42	morphologie 2476 2483	maladie
+T43	expression_CIM 2476 2493	maladie pelvienne
+T44	topographie 2484 2493	pelvienne
+T45	morphologie 2938 2944	lésion
+T46	expression_CIM 2938 2954	lésion pelvienne
+T47	topographie 2945 2954	pelvienne
+T48	morphologie 3602 3607	masse
+T49	expression_CIM 3602 3617	masse pelvienne
+T50	topographie 3608 3617	pelvienne
+T51	expression_CIM 3818 3824	lésion
+T52	morphologie 3818 3824	lésion
+T53	expression_CIM 3891 3903	infiltration
+T54	morphologie 3891 3903	infiltration
+T55	expression_CIM 4044 4052	récidive
+T56	morphologie 4044 4052	récidive
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.2 8000/1
+#3	ICD-O T3	C76.2
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.2 8000/1
+#6	ICD-O T6	C76.2
+#7	ICD-O T8	8004/3
+#8	ICD-O T9	8936/1
+#9	ICD-O T10	8936/1
+#10	ICD-O T11	8936/1
+#11	ICD-O T12	8936/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C76.3 8000/1
+#14	ICD-O T15	C76.3
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C76.2 8000/1
+#17	ICD-O T18	C76.2
+#18	ICD-O T19	8800/3
+#19	ICD-O T20	8800/3
+#20	ICD-O T21	8000/1
+#21	ICD-O T25	8000/1
+#22	ICD-O T26	C61.9 8000/1;C67.9 8000/1
+#23	ICD-O T27	C67.9
+#24	ICD-O T28	C61.9
+#25	ICD-O T29	8000/1
+#26	ICD-O T32	8815/0
+#27	ICD-O T33	8815/0
+#28	ICD-O T34	8000/1
+#29	ICD-O T37	8815/0
+#30	ICD-O T38	8815/0
+#31	ICD-O T39	8815/0
+#32	ICD-O T40	C76.3 8815/0
+#33	ICD-O T41	C76.3
+#34	ICD-O T42	8000/9
+#35	ICD-O T43	C76.3 8000/6
+#36	ICD-O T44	C76.3
+#37	ICD-O T45	8000/1
+#38	ICD-O T46	C76.3 8000/1
+#39	ICD-O T47	C76.3
+#40	ICD-O T48	8000/1
+#41	ICD-O T49	C76.3 8000/1
+#42	ICD-O T50	C76.3
+#43	ICD-O T51	8000/1
+#44	ICD-O T52	8000/1
+#45	ICD-O T53	8000/1
+#46	ICD-O T54	8000/9
+#47	ICD-O T55	8000/6
+#48	ICD-O T56	8000/9

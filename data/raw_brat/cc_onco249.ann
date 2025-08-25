@@ -1,0 +1,106 @@
+T7	topographie 553 566	fosse iliaque
+T1	morphologie 480 487	lésions
+T2	expression_CIM 480 498	lésions hépatiques
+T3	topographie 488 498	hépatiques
+T4	morphologie 522 527	masse
+T5	expression_CIM 522 566	masse intrapéritonéale dans la fosse iliaque
+T6	topographie 528 544	intrapéritonéale
+T8	morphologie 636 643	Lésions
+T9	expression_CIM 636 654	Lésions hépatiques
+T10	topographie 644 654	hépatiques
+T11	expression_CIM 689 699	métastases
+T12	morphologie 689 699	métastases
+T13	morphologie 721 745	carcinome neuroendocrine
+T14	expression_CIM 721 797	carcinome neuroendocrine bien différencié avec Ki 67 <1% d'origine digestive
+T15	differenciation 746 762	bien différencié
+T17	morphologie 853 858	masse
+T18	expression_CIM 853 869	masse abdominale
+T19	topographie 859 869	abdominale
+T20	morphologie 877 884	lésions
+T21	expression_CIM 877 895	lésions hépatiques
+T22	topographie 885 895	hépatiques
+T23	morphologie 972 996	Carcinome neuroendocrine
+T24	expression_CIM 972 1020	Carcinome neuroendocrine de bas grade de l'iléon
+T25	differenciation 1000 1009	bas grade
+T26	topographie 1015 1020	iléon
+T27	morphologie 1026 1036	métastases
+T28	expression_CIM 1026 1047	métastases hépatiques
+T29	topographie 1037 1047	hépatiques
+T30	expression_CIM 1064 1072	Stade IV
+T31	morphologie 1064 1072	Stade IV
+T32	morphologie 1232 1253	tumeur neuroendocrine
+T33	expression_CIM 1232 1277	tumeur neuroendocrine de bas grade de l'iléon
+T34	differenciation 1257 1266	bas grade
+T35	topographie 1272 1277	iléon
+T36	morphologie 1287 1297	métastases
+T37	expression_CIM 1287 1308	métastases hépatiques
+T38	topographie 1298 1308	hépatiques
+T39	morphologie 1471 1495	carcinome neuroendocrine
+T40	expression_CIM 1471 1523	carcinome neuroendocrine bien différencié de l'iléon
+T41	differenciation 1496 1512	bien différencié
+T42	topographie 1518 1523	iléon
+T43	morphologie 1532 1538	nodule
+T44	expression_CIM 1532 1551	nodule mésentérique
+T45	topographie 1539 1551	mésentérique
+T46	expression_CIM 1589 1610	ganglion métastatique
+T47	morphologie 1598 1610	métastatique
+T48	expression_CIM 1615 1621	tumeur
+T49	morphologie 1615 1621	tumeur
+T50	morphologie 1928 1942	maladie stable
+T51	expression_CIM 1928 1970	maladie stable a été observée dans le foie
+T52	topographie 1966 1970	foie
+T53	morphologie 1998 2009	progression
+T54	expression_CIM 1998 2019	progression hépatique
+T55	topographie 2010 2019	hépatique
+T16	topographie 780 797	origine digestive
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C48.2
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	C22.0 8000/1
+#8	ICD-O T10	C22.0
+#9	ICD-O T11	8000/6
+#10	ICD-O T12	8000/6
+#11	ICD-O T13	8246/3
+#12	ICD-O T15	1
+#13	ICD-O T17	8000/1
+#14	ICD-O T18	C76.2 8000/1
+#15	ICD-O T19	C76.2
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	C22.0 8000/1
+#18	ICD-O T22	C22.0
+#19	ICD-O T23	8246/3
+#20	ICD-O T24	C17.2 8246/31
+#21	ICD-O T25	1
+#22	ICD-O T26	C17.2
+#23	ICD-O T27	8000/6
+#24	ICD-O T28	C22.0 8000/6
+#25	ICD-O T29	C22.0
+#26	ICD-O T30	8000/6
+#27	ICD-O T31	8000/6
+#28	ICD-O T32	8246/3
+#29	ICD-O T33	C17.2 8246/31
+#30	ICD-O T34	1
+#31	ICD-O T35	C17.2
+#32	ICD-O T36	8000/6
+#33	ICD-O T37	C22.0 8000/6
+#34	ICD-O T38	C22.0
+#35	ICD-O T39	8246/3
+#36	ICD-O T40	C17.2 8246/31
+#37	ICD-O T41	1
+#38	ICD-O T42	C17.2
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	C48.1 8000/1
+#41	ICD-O T45	C48.1
+#42	ICD-O T46	C77.9 8000/6
+#43	ICD-O T47	8000/6
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	8000/6
+#47	ICD-O T51	C22.0 8000/6
+#48	ICD-O T52	C22.0
+#49	ICD-O T53	8000/6
+#50	ICD-O T54	C22.0 8000/6
+#51	ICD-O T55	C22.0

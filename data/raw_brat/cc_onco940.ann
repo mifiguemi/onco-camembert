@@ -1,0 +1,70 @@
+T26	topographie 4120 4143	épine articulaire T4-T5
+T7	topographie 673 677	lobe
+T25	topographie 4092 4100;4110 4112	pédicule T6
+T24	topographie 4072 4087	pédicules de T5
+T1	morphologie 572 586	adénocarcinome
+T2	expression_CIM 572 638	adénocarcinome de la prostate de grade combiné de Gleason 6 (3 + 3
+T3	topographie 593 601	prostate
+T4	differenciation 602 638	de grade combiné de Gleason 6 (3 + 3
+T5	morphologie 650 656	foyers
+T6	expression_CIM 650 677	foyers minimes dans le lobe
+T8	expression_CIM 867 887	maladie métastatique
+T9	morphologie 867 887	maladie métastatique
+T10	morphologie 3897 3918	lésions métastatiques
+T11	expression_CIM 3897 3930	lésions métastatiques vertébrales
+T12	topographie 3919 3930	vertébrales
+T13	morphologie 3941 3950	carcinome
+T14	expression_CIM 3941 3965	carcinome de la prostate
+T15	topographie 3957 3965	prostate
+T16	morphologie 3992 4000	atteinte
+T17	expression_CIM 3992 4051	atteinte presque complète des corps vertébraux T4, T5 et T6
+T18	topographie 4022 4038	corps vertébraux
+T19	topographie 4039 4041	T4
+T20	topographie 4043 4045	T5
+T21	topographie 4049 4051	T6
+T22	morphologie 4058 4067	extension
+T23	expression_CIM 4058 4143	extension aux pédicules de T5, au pédicule droit de T6 et à l'épine articulaire T4-T5
+T27	morphologie 4159 4164	masse
+T28	expression_CIM 4159 4230	masse bilatérale des tissus mous paravertébraux (2 cm) et prévertébraux
+T29	topographie 4180 4206	tissus mous paravertébraux
+T30	topographie 4217 4230	prévertébraux
+T31	expression_CIM 4865 4885	maladie métastatique
+T32	morphologie 4865 4885	maladie métastatique
+T33	expression_CIM 4972 4987	tumeur primaire
+T34	morphologie 4972 4987	tumeur primaire
+T35	expression_CIM 4994 5014	maladie métastatique
+T36	morphologie 4994 5014	maladie métastatique
+T37	expression_CIM 5503 5522	maladie néoplasique
+T38	morphologie 5503 5522	maladie néoplasique
+#1	ICD-O T1	8140/3
+#2	ICD-O T3	C61.9
+#3	ICD-O T4	1
+#4	ICD-O T5	8000/1
+#5	ICD-O T8	8000/6
+#6	ICD-O T9	8000/6
+#7	ICD-O T10	8000/6
+#8	ICD-O T11	C41.2 8000/6
+#9	ICD-O T12	C41.2
+#10	ICD-O T13	8010/3
+#11	ICD-O T14	C61.9 8010/3
+#12	ICD-O T15	C61.9
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C41.2 8000/1
+#15	ICD-O T18	C41.2
+#16	ICD-O T19	C41.2
+#17	ICD-O T20	C41.2
+#18	ICD-O T21	C41.2
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	C41.2 8000/6
+#21	ICD-O T27	8000/1
+#22	ICD-O T28	C49.3 8000/1;C76.9 8000/1
+#23	ICD-O T29	C49.3
+#24	ICD-O T30	C76.9
+#25	ICD-O T31	8000/6
+#26	ICD-O T32	8000/6
+#27	ICD-O T33	8000/3
+#28	ICD-O T34	8000/3
+#29	ICD-O T35	8000/6
+#30	ICD-O T36	8000/6
+#31	ICD-O T37	8000/3
+#32	ICD-O T38	8000/3

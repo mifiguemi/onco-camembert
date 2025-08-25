@@ -1,0 +1,56 @@
+T1	morphologie 251 257	cancer
+T3	topographie 261 267	poumon
+T4	morphologie 311 317	cancer
+T6	topographie 321 326	côlon
+T7	morphologie 346 352	cancer
+T9	topographie 359 367	thyroïde
+T10	morphologie 861 866	masse
+T12	topographie 867 896	pulmonaire dans le lobe moyen
+T15	topographie 976 990	lobe supérieur
+T16	morphologie 1021 1026	masse
+T18	topographie 1035 1045	lobe moyen
+T20	morphologie 1224 1236	Adénopathies
+T21	morphologie 1353 1371	dépôt pathologique
+T23	topographie 1380 1390	lobe moyen
+T24	morphologie 1457 1462	dépôt
+T26	topographie 1487 1512	lobe pulmonaire supérieur
+T27	morphologie 1603 1608	masse
+T29	topographie 1635 1645	lobe moyen
+T30	topographie 1951 1965	lobe supérieur
+T32	morphologie 1975 1996	carcinome épidermoïde
+T33	topographie 2008 2018	lobe moyen
+T35	morphologie 2021 2049	carcinome à grandes cellules
+T36	morphologie 2070 2076	tumeur
+T38	topographie 2077 2087	pulmonaire
+T39	morphologie 2102 2123	Carcinome épidermoïde
+T41	topographie 2132 2146	lobe supérieur
+T42	morphologie 2166 2194	Carcinome à grandes cellules
+T44	topographie 2203 2213	lobe moyen
+T45	morphologie 2653 2663	néoplasmes
+T47	topographie 2664 2675	pulmonaires
+T48	morphologie 2710 2724	masse spiculée
+T50	topographie 2733 2747	lobe supérieur
+T51	morphologie 2799 2804	masse
+T53	topographie 2813 2823	lobe moyen
+T55	morphologie 2913 2918	masse
+T56	morphologie 3053 3059	tumeur
+T58	topographie 3068 3082	lobe supérieur
+T59	morphologie 3115 3121	lésion
+T61	topographie 3125 3135	lobe moyen
+T64	differenciation 3337 3359	modérément différencié
+T65	morphologie 3387 3395	invasion
+T67	topographie 3402 3418	plèvre viscérale
+T69	morphologie 3943 3949	tumeur
+T70	morphologie 4267 4273	lésion
+T72	topographie 4322 4342	artère sous-clavière
+T73	morphologie 4371 4382	adénopathie
+T75	topographie 4383 4396	paratrachéale
+T76	morphologie 4708 4714	lésion
+T78	topographie 4715 4725	pulmonaire
+T80	morphologie 4956 4967	adénopathie
+T82	morphologie 5044 5055	adénopathie
+T84	morphologie 5226 5243	cellules malignes
+T86	morphologie 5264 5278	adénocarcinome
+T88	morphologie 5378 5392	adénocarcinome
+T62	morphologie 3305 3336	adénocarcinome, variante mixte,
+T13	morphologie 953 967	nodule spiculé

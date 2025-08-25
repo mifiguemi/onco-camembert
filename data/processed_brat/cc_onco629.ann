@@ -1,0 +1,35 @@
+T7	topographie 484 511	confluent biliopancréatique
+T1	morphologie 196 205	néoplasie
+T3	topographie 206 218	endométriale
+T4	morphologie 456 462	lésion
+T6	topographie 463 475	pancréatique
+T8	morphologie 519 552	lymphadénopathie néoproliférative
+T10	topographie 561 575	hile hépatique
+T11	morphologie 2073 2079	lésion
+T13	topographie 2086 2102	tête du pancréas
+T14	morphologie 2392 2397	masse
+T16	topographie 2398 2410	pancréatique
+T18	morphologie 2502 2519	cellules malignes
+T20	morphologie 2540 2554	adénocarcinome
+T21	morphologie 2654 2660	tumeur
+T23	topographie 2661 2673	pancréatique
+T24	morphologie 2749 2765	lymphadénopathie
+T26	topographie 2766 2782	péripancréatique
+T27	morphologie 2797 2807	métastases
+T29	topographie 2808 2818	hépatiques
+T30	morphologie 3405 3411	tumeur
+T32	topographie 3412 3424	pancréatique
+T33	morphologie 3437 3447	métastases
+T35	topographie 3448 3458	hépatiques
+T36	morphologie 3781 3785	pNET
+T38	differenciation 3805 3816	grade 2 (G2
+T40	morphologie 3819 3827	stade IV
+T42	morphologie 4221 4246	progression de la maladie
+T43	morphologie 4419 4425	lésion
+T45	topographie 4426 4438	pancréatique
+T47	morphologie 4446 4458	adénopathies
+T48	morphologie 4528 4538	métastases
+T50	topographie 4539 4549	hépatiques
+T52	morphologie 4913 4917	pNET
+T53	morphologie 4967 4977	métastases
+T55	topographie 4978 4988	hépatiques

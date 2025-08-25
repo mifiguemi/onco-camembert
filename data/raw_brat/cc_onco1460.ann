@@ -1,0 +1,160 @@
+T1	morphologie 55 61	cancer
+T2	expression_CIM 55 69	cancer du sein
+T3	topographie 65 69	sein
+T4	morphologie 473 479	lésion
+T5	expression_CIM 473 510	lésion lytique expansive de la hanche
+T6	topographie 504 510	hanche
+T7	morphologie 536 542;551 559	tumeur primaire
+T8	expression_CIM 536 559	tumeur osseuse primaire
+T9	topographie 543 550	osseuse
+T10	morphologie 630 636	nodule
+T11	expression_CIM 630 692	nodule de 2 cm dans la ligne interquadrantique interne du sein
+T12	topographie 688 692	sein
+T13	morphologie 704 710	nodule
+T14	expression_CIM 704 756	nodule de 4 cm dans les quadrants inférieurs du sein
+T16	morphologie 778 794	lymphadénopathie
+T17	expression_CIM 778 832	lymphadénopathie axillaire gauche et supraclaviculaire
+T18	topographie 795 804	axillaire
+T19	topographie 815 832	supraclaviculaire
+T20	morphologie 925 931	lésion
+T21	expression_CIM 925 980	lésion infiltrante érythémateuse récente dans l'abdomen
+T22	topographie 973 980	abdomen
+T23	morphologie 1011 1018	lésions
+T24	expression_CIM 1011 1028	lésions mammaires
+T25	topographie 1019 1028	mammaires
+T26	morphologie 1066 1077	adénopathie
+T27	expression_CIM 1066 1087	adénopathie axillaire
+T28	topographie 1078 1087	axillaire
+T29	morphologie 1108 1114	lésion
+T30	expression_CIM 1108 1135	lésion cutanée de l'abdomen
+T31	topographie 1115 1135	cutanée de l'abdomen
+T32	morphologie 1150 1180	carcinome canalaire infiltrant
+T33	expression_CIM 1150 1195	carcinome canalaire infiltrant (CDI), grade 3
+T34	morphologie 1182 1185	CDI
+T35	differenciation 1188 1195	grade 3
+T36	morphologie 1238 1245	nodules
+T37	expression_CIM 1238 1255	nodules mammaires
+T38	topographie 1246 1255	mammaires
+T39	expression_CIM 1263 1273	métastases
+T40	morphologie 1263 1273	métastases
+T41	morphologie 1279 1288	carcinome
+T42	expression_CIM 1279 1307	carcinome d'origine mammaire
+T43	topographie 1299 1307	mammaire
+T44	expression_CIM 1315 1326	adénopathie
+T45	morphologie 1315 1326	adénopathie
+T46	morphologie 1333 1339	lésion
+T47	expression_CIM 1333 1347	lésion cutanée
+T48	topographie 1340 1347	cutanée
+T49	morphologie 1406 1422	lymphadénopathie
+T50	expression_CIM 1406 1500	lymphadénopathie sus-claviculaire, rétropectorale bilatérale, axillaire droite et médiastinale
+T51	topographie 1423 1439	sus-claviculaire
+T52	topographie 1441 1455	rétropectorale
+T53	topographie 1468 1477	axillaire
+T54	topographie 1488 1500	médiastinale
+T55	morphologie 1588 1604	lymphadénopathie
+T56	expression_CIM 1588 1645	lymphadénopathie rétropéritonéale au niveau du hile rénal
+T57	topographie 1605 1621	rétropéritonéale
+T58	topographie 1635 1645	hile rénal
+T59	morphologie 1681 1689	implants
+T60	expression_CIM 1681 1728	implants/adénopathies probables dans l'épiploon
+T61	morphologie 1690 1702	adénopathies
+T62	topographie 1720 1728	épiploon
+T63	morphologie 1734 1741	lésions
+T64	expression_CIM 1734 1771	lésions lytiques dans les os iliaques
+T65	topographie 1760 1771	os iliaques
+T66	morphologie 2071 2077	cancer
+T67	expression_CIM 2071 2117	cancer du sein bilatéral synchrone, de grade 3
+T68	topographie 2081 2085	sein
+T69	differenciation 2110 2117	grade 3
+T70	morphologie 2166 2176	métastases
+T71	expression_CIM 2166 2203	métastases ganglionnaires et osseuses
+T72	topographie 2177 2191	ganglionnaires
+T73	topographie 2195 2203	osseuses
+T74	morphologie 2219 2229	métastases
+T75	expression_CIM 2219 2251	métastases cutanées et pleurales
+T76	topographie 2230 2238	cutanées
+T77	topographie 2242 2251	pleurales
+T78	expression_CIM 2253 2261	stade IV
+T79	morphologie 2253 2261	stade IV
+T80	morphologie 4900 4911	Adénopathie
+T81	expression_CIM 4900 4919	Adénopathie iliaque
+T82	topographie 4912 4919	iliaque
+T15	topographie 728 756	quadrants inférieurs du sein
+#1	ICD-O T1	8000/3
+#2	ICD-O T3	C50.9
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C76.5 8000/1
+#5	ICD-O T6	C76.5
+#6	ICD-O T7	8000/3
+#7	ICD-O T8	C41.9 8000/3
+#8	ICD-O T9	C41.9
+#9	ICD-O T10	8000/1
+#10	ICD-O T12	C50.9
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C50.8 8000/1;C50.9 8000/1
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C77.0 8000/1;C77.3 8000/1
+#15	ICD-O T18	C76.1
+#16	ICD-O T19	C76.0
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	C76.2 8000/1
+#19	ICD-O T22	C76.2
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	C50.9 8000/1
+#22	ICD-O T25	C50.9
+#23	ICD-O T26	8000/1
+#24	ICD-O T27	C77.3 8000/1
+#25	ICD-O T28	C76.1
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	C44.5 8000/1
+#28	ICD-O T31	C44.5
+#29	ICD-O T32	8500/3
+#30	ICD-O T33	8500/33
+#31	ICD-O T34	8500/3
+#32	ICD-O T35	3
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	C50.9 8000/1
+#35	ICD-O T38	C50.9
+#36	ICD-O T39	8000/6
+#37	ICD-O T40	8000/6
+#38	ICD-O T41	8010/3
+#39	ICD-O T42	C50.9 8010/3
+#40	ICD-O T43	C50.9
+#41	ICD-O T44	C77.9 8000/1
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	8000/1
+#44	ICD-O T47	C44.9 8000/1
+#45	ICD-O T48	C44.9
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	C77.0 8000/1;C77.1 8000/1;C77.3 8000/1
+#48	ICD-O T51	C76.0
+#49	ICD-O T52	C76.1
+#50	ICD-O T53	C76.1
+#51	ICD-O T54	C38.3
+#52	ICD-O T55	8000/1
+#53	ICD-O T56	C77.2 8000/1
+#54	ICD-O T57	C48.0
+#55	ICD-O T58	C64.9
+#56	ICD-O T59	8000/6
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	C48.1
+#59	ICD-O T63	8000/1
+#60	ICD-O T64	C41.4 8000/1
+#61	ICD-O T65	C41.4
+#62	ICD-O T66	8000/3
+#63	ICD-O T67	C50.9 8000/33
+#64	ICD-O T68	C50.9
+#65	ICD-O T69	3
+#66	ICD-O T70	8000/6
+#67	ICD-O T71	C41.9 8000/6;C77.9 8000/6
+#68	ICD-O T72	C77.9
+#69	ICD-O T73	C41.9
+#70	ICD-O T74	8000/6
+#71	ICD-O T75	C38.4 8000/6;C44.9 8000/6
+#72	ICD-O T76	C44.9
+#73	ICD-O T77	C38.4
+#74	ICD-O T78	8000/6
+#75	ICD-O T79	8000/6
+#76	ICD-O T80	8000/1
+#77	ICD-O T81	C77.5 8000/1
+#78	ICD-O T82	C41.4

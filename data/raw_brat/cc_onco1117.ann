@@ -1,0 +1,151 @@
+T1	morphologie 33 39	cancer
+T2	expression_CIM 33 50	cancer colorectal
+T3	topographie 40 50	colorectal
+T4	expression_CIM 99 120	syndrome de Lynch (LS
+T6	expression_CIM 413 419	tumeur
+T7	morphologie 413 419	tumeur
+T8	morphologie 854 860	cancer
+T9	expression_CIM 854 871	cancer colorectal
+T10	topographie 861 871	colorectal
+T11	morphologie 926 932	cancer
+T12	expression_CIM 926 941	cancer du côlon
+T13	topographie 936 941	côlon
+T14	morphologie 1029 1035	cancer
+T15	expression_CIM 1029 1046	cancer colorectal
+T16	topographie 1036 1046	colorectal
+T17	expression_CIM 1129 1146	syndrome de Lynch
+T19	morphologie 1245 1251	cancer
+T20	expression_CIM 1245 1262	cancer colorectal
+T21	topographie 1252 1262	colorectal
+T22	morphologie 1272 1278	tumeur
+T23	expression_CIM 1272 1343	tumeur associée au syndrome de Lynch (endomètre, ovaire, intestin grêle
+T24	expression_CIM 1291 1308	syndrome de Lynch
+T26	topographie 1310 1319	endomètre
+T27	topographie 1321 1327	ovaire
+T28	topographie 1329 1343	intestin grêle
+T29	morphologie 1603 1609	cancer
+T30	expression_CIM 1603 1620	cancer colorectal
+T31	topographie 1610 1620	colorectal
+T32	expression_CIM 1978 1996	polypose familiale
+T33	morphologie 1978 1996	polypose familiale
+T34	expression_CIM 2016 2022	tumeur
+T35	morphologie 2016 2022	tumeur
+T36	morphologie 2280 2289	carcinome
+T37	expression_CIM 2280 2297	carcinome ovarien
+T38	topographie 2290 2297	ovarien
+T39	morphologie 2314 2320	cancer
+T40	expression_CIM 2314 2335	cancer de l'endomètre
+T41	topographie 2326 2335	endomètre
+T42	expression_CIM 2777 2783	lésion
+T43	morphologie 2777 2783	lésion
+T44	morphologie 2883 2897	adénocarcinome
+T45	expression_CIM 2883 2908	adénocarcinome colorectal
+T46	topographie 2898 2908	colorectal
+T47	morphologie 3208 3217	carcinome
+T48	expression_CIM 3208 3225	carcinome ovarien
+T49	topographie 3218 3225	ovarien
+T50	morphologie 3234 3240	cancer
+T51	expression_CIM 3234 3255	cancer de l'endomètre
+T52	topographie 3246 3255	endomètre
+T53	morphologie 3326 3340	adénocarcinome
+T54	expression_CIM 3326 3349	adénocarcinome du côlon
+T55	topographie 3344 3349	côlon
+T56	expression_CIM 3558 3566	récidive
+T57	morphologie 3558 3566	récidive
+T58	expression_CIM 3582 3588	tumeur
+T59	morphologie 3582 3588	tumeur
+T60	morphologie 4695 4701	lésion
+T61	expression_CIM 4695 4747	lésion hypodense de 2 cm dans le segment hépatique V
+T63	expression_CIM 4843 4860	foyer métabolique
+T64	morphologie 4843 4860	foyer métabolique
+T65	expression_CIM 4875 4894	maladie néoplasique
+T66	morphologie 4875 4894	maladie néoplasique
+T67	morphologie 5278 5292	Adénocarcinome
+T68	expression_CIM 5278 5382	Adénocarcinome peu différencié infiltrant la paroi abdominale et s'étendant au tissu adipeux péricolique
+T69	differenciation 5293 5308	peu différencié
+T70	topographie 5323 5339	paroi abdominale
+T72	expression_CIM 5412 5429	Adénome tubulaire
+T73	morphologie 5412 5429	Adénome tubulaire
+T74	morphologie 5485 5495	métastases
+T75	expression_CIM 5485 5513	métastases dans 12 ganglions
+T76	topographie 5504 5513	ganglions
+T77	expression_CIM 5557 5563	tumeur
+T78	morphologie 5557 5563	tumeur
+T79	expression_CIM 7323 7342	maladie néoplasique
+T80	morphologie 7323 7342	maladie néoplasique
+T18	morphologie 1129 1146	syndrome de Lynch
+T25	morphologie 1291 1308	syndrome de Lynch
+T5	morphologie 99 120	syndrome de Lynch (LS
+T62	topographie 4728 4747	segment hépatique V
+T71	topographie 5357 5382	tissu adipeux péricolique
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C19.9 8000/3
+#3	ICD-O T3	C19.9
+#4	ICD-O T6	8000/1
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/3
+#7	ICD-O T9	C19.9 8000/3
+#8	ICD-O T10	C19.9
+#9	ICD-O T11	8000/3
+#10	ICD-O T12	C18.9 8000/3
+#11	ICD-O T13	C18.9
+#12	ICD-O T14	8000/3
+#13	ICD-O T15	C19.9 8000/3
+#14	ICD-O T16	C19.9
+#15	ICD-O T19	8000/3
+#16	ICD-O T20	C19.9 8000/3
+#17	ICD-O T21	C19.9
+#18	ICD-O T22	8000/1
+#19	ICD-O T26	C54.1
+#20	ICD-O T27	C56.9
+#21	ICD-O T28	C17.9
+#22	ICD-O T29	8000/3
+#23	ICD-O T30	C19.9 8000/3
+#24	ICD-O T31	C19.9
+#25	ICD-O T32	8220/0
+#26	ICD-O T33	8220/0
+#27	ICD-O T34	8000/1
+#28	ICD-O T35	8000/1
+#29	ICD-O T36	8010/3
+#30	ICD-O T37	C56.9 8010/3
+#31	ICD-O T38	C56.9
+#32	ICD-O T39	8000/3
+#33	ICD-O T40	C54.1 8000/3
+#34	ICD-O T41	C54.1
+#35	ICD-O T42	8000/1
+#36	ICD-O T43	8000/1
+#37	ICD-O T44	8140/3
+#38	ICD-O T45	C19.9 8140/3
+#39	ICD-O T46	C19.9
+#40	ICD-O T47	8010/3
+#41	ICD-O T48	C56.9 8010/3
+#42	ICD-O T49	C56.9
+#43	ICD-O T50	8000/3
+#44	ICD-O T51	C54.1 8000/3
+#45	ICD-O T52	C54.1
+#46	ICD-O T53	8140/3
+#47	ICD-O T54	C18.9 8140/3
+#48	ICD-O T55	C18.9
+#49	ICD-O T56	8000/6
+#50	ICD-O T57	8000/6
+#51	ICD-O T58	8000/1
+#52	ICD-O T59	8000/1
+#53	ICD-O T60	8000/1
+#54	ICD-O T64	8000/6
+#55	ICD-O T65	8000/3
+#56	ICD-O T66	8000/3
+#57	ICD-O T67	8140/3
+#58	ICD-O T69	3
+#59	ICD-O T70	C76.2
+#60	ICD-O T72	8211/0
+#61	ICD-O T73	8211/0
+#62	ICD-O T74	8000/6
+#63	ICD-O T75	C77.9 8000/6
+#64	ICD-O T76	C77.9
+#65	ICD-O T77	8000/1
+#66	ICD-O T78	8000/1
+#67	ICD-O T79	8000/3
+#68	ICD-O T80	8000/3
+#69	ICD-O T18	8000/3
+#70	ICD-O T25	8000/3
+#71	ICD-O T5	8000/3

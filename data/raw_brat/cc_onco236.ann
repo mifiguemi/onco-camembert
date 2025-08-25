@@ -1,0 +1,99 @@
+T22	topographie 3032 3050	espace souscarinal
+T25	topographie 3095 3099	hile
+T1	expression_CIM 911 916	masse
+T2	morphologie 911 916	masse
+T3	morphologie 1542 1547	masse
+T4	expression_CIM 1542 1612	masse solide de 66x33x77 mm à bords lisses dans le médiastin antérieur
+T5	topographie 1593 1612	médiastin antérieur
+T6	expression_CIM 1618 1630	adénopathies
+T7	morphologie 1618 1630	adénopathies
+T8	expression_CIM 2063 2070	thymome
+T9	morphologie 2063 2070	thymome
+T10	expression_CIM 2084 2091	Thymome
+T11	morphologie 2084 2091	Thymome
+T12	expression_CIM 2278 2283	masse
+T13	morphologie 2278 2283	masse
+T14	expression_CIM 2429 2450	thymome lymphocytaire
+T15	morphologie 2429 2450	thymome lymphocytaire
+T16	expression_CIM 2491 2496	masse
+T17	morphologie 2491 2496	masse
+T18	expression_CIM 2565 2606	thymome mixte lymphocytaire et épithélial
+T19	morphologie 2565 2606	thymome mixte lymphocytaire et épithélial
+T20	morphologie 2999 3015	lymphadénopathie
+T21	expression_CIM 2999 3050	lymphadénopathie de 16 mm dans l'espace souscarinal
+T23	morphologie 3058 3074	lymphadénopathie
+T24	expression_CIM 3058 3099	lymphadénopathie plus petite dans le hile
+T26	expression_CIM 3170 3178	récidive
+T27	morphologie 3170 3178	récidive
+T28	expression_CIM 3185 3191	tumeur
+T29	morphologie 3185 3191	tumeur
+T30	expression_CIM 3218 3225	thymome
+T31	morphologie 3218 3225	thymome
+T32	expression_CIM 3976 3984	récidive
+T33	morphologie 3976 3984	récidive
+T34	expression_CIM 4077 4085	récidive
+T35	morphologie 4077 4085	récidive
+T36	expression_CIM 4145 4151	lésion
+T37	morphologie 4145 4151	lésion
+T38	morphologie 4369 4375	lésion
+T39	expression_CIM 4369 4384	lésion thymique
+T40	topographie 4376 4384	thymique
+T41	morphologie 4450 4457	nodules
+T42	expression_CIM 4450 4469	nodules pulmonaires
+T43	topographie 4458 4469	pulmonaires
+T44	morphologie 4635 4641	lésion
+T45	expression_CIM 4635 4650	lésion thymique
+T46	topographie 4642 4650	thymique
+T47	morphologie 4668 4675	lésions
+T48	expression_CIM 4668 4687	lésions pulmonaires
+T49	topographie 4676 4687	pulmonaires
+T50	morphologie 5430 5448	lésions nodulaires
+T51	expression_CIM 5430 5505	lésions nodulaires millimétriques disséminées dans le parenchyme pulmonaire
+T52	topographie 5484 5505	parenchyme pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T5	C38.1 
+#5	ICD-O T6	C77.9 8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8580/1
+#8	ICD-O T9	8580/1
+#9	ICD-O T10	8580/1
+#10	ICD-O T11	8580/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8583/1
+#14	ICD-O T15	8583/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8582/1
+#18	ICD-O T19	8582/1
+#19	ICD-O T20	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T26	8000/6
+#22	ICD-O T27	8000/6
+#23	ICD-O T28	8000/1
+#24	ICD-O T29	8000/1
+#25	ICD-O T30	8580/1
+#26	ICD-O T31	8580/1
+#27	ICD-O T32	8000/6
+#28	ICD-O T33	8000/6
+#29	ICD-O T34	8000/6
+#30	ICD-O T35	8000/6
+#31	ICD-O T36	8000/1
+#32	ICD-O T37	8000/1
+#33	ICD-O T38	8000/1
+#34	ICD-O T39	C37.9 8000/1
+#35	ICD-O T40	C37.9
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	C34.9 8000/1
+#38	ICD-O T43	C34.9
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	C37.9 8000/1
+#41	ICD-O T46	C37.9
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	C34.9 8000/1
+#44	ICD-O T49	C34.9
+#45	ICD-O T50	8000/1
+#46	ICD-O T51	C34.9 8000/1
+#47	ICD-O T52	C34.9

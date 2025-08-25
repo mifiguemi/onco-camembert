@@ -1,0 +1,42 @@
+T1	morphologie 985 999	adénocarcinome
+T3	topographie 1000 1009	gastrique
+T5	morphologie 1015 1034	atteinte à distance
+T6	morphologie 1233 1247	adénocarcinome
+T64	morphologie 1258 1288	à cellules en anneau de signet
+T8	topographie 1248 1257	gastrique
+T9	differenciation 1293 1300	grade 3
+T10	differenciation 1302 1317	peu différencié
+T11	morphologie 1327 1335	invasion
+T13	topographie 1336 1347	périneurale
+T15	morphologie 1395 1419	infiltration néoplasique
+T17	morphologie 1858 1873	récidive locale
+T18	morphologie 1883 1894	implication
+T20	topographie 1895 1906	péritonéale
+T22	morphologie 2604 2612	récidive
+T23	morphologie 2781 2793	infiltration
+T25	topographie 2799 2815	anse intestinale
+T26	morphologie 4218 4223	masse
+T28	topographie 4265 4275	oreillette
+T29	morphologie 4545 4557	augmentation
+T31	topographie 4613 4627	lobe inférieur
+T32	morphologie 4890 4898	atteinte
+T34	topographie 4904 4910	artère
+T35	topographie 4914 4928	lobe inférieur
+T36	morphologie 5342 5350	implants
+T65	morphologie 5363 5369	malins
+T38	topographie 5351 5362	péritonéaux
+T39	morphologie 5579 5584	masse
+T41	topographie 5610 5620	oreillette
+T42	morphologie 5921 5935	Adénocarcinome
+T44	topographie 5936 5945	gastrique
+T46	morphologie 5949 5957	stade IV
+T47	morphologie 5967 5977	métastases
+T49	topographie 5978 5990	péritonéales
+T51	morphologie 6214 6223	néoplasie
+T53	morphologie 6489 6514	progression de la maladie
+T54	morphologie 8031 8036	masse
+T56	topographie 8061 8071	oreillette
+T58	morphologie 8584 8607	implication néoplasique
+T60	morphologie 8820 8845	progression de la maladie
+T61	morphologie 9615 9620	masse
+T63	topographie 9621 9632	auriculaire

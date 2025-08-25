@@ -1,0 +1,197 @@
+T48	topographie 3752 3759	iliaque
+T80	morphologie 6263 6316	syndrome du cancer héréditaire du sein et de l'ovaire
+T1	morphologie 923 928	masse
+T2	expression_CIM 923 948	masse occupant le Douglas
+T3	topographie 941 948	Douglas
+T4	expression_CIM 1148 1168	maladie métastatique
+T5	morphologie 1148 1168	maladie métastatique
+T6	morphologie 1229 1235	tumeur
+T7	expression_CIM 1229 1259	tumeur de la trompe de Fallope
+T8	topographie 1242 1259	trompe de Fallope
+T9	morphologie 1531 1537	tumeur
+T10	expression_CIM 1531 1572	tumeur dépendante de la trompe de Fallope
+T11	topographie 1555 1572	trompe de Fallope
+T12	morphologie 1865 1879	carcinosarcome
+T13	expression_CIM 1865 1911	carcinosarcome primaire des trompes de Fallope
+T14	topographie 1893 1911	trompes de Fallope
+T15	morphologie 1944 1965	adénocarcinome séreux
+T16	expression_CIM 1944 1979	adénocarcinome séreux de haut grade
+T17	expression_CIM 2011 2029	sarcome pléomorphe
+T18	morphologie 2011 2029	sarcome pléomorphe
+T19	morphologie 2384 2389	masse
+T20	expression_CIM 2384 2399	masse pelvienne
+T21	topographie 2390 2399	pelvienne
+T22	morphologie 2663 2677	adénocarcinome
+T23	expression_CIM 2663 2690	adénocarcinome de la trompe
+T24	topographie 2684 2690	trompe
+T25	expression_CIM 2735 2750	lésion kystique
+T26	morphologie 2735 2750	lésion kystique
+T27	morphologie 2825 2833	atteinte
+T28	expression_CIM 2825 2844	atteinte annexielle
+T29	topographie 2834 2844	annexielle
+T30	expression_CIM 2969 3001	Tumeur mullérienne mixte maligne
+T31	morphologie 2969 3001	Tumeur mullérienne mixte maligne
+T32	expression_CIM 3003 3017	carcinosarcome
+T33	morphologie 3003 3017	carcinosarcome
+T34	morphologie 3059 3080	adénocarcinome séreux
+T35	expression_CIM 3059 3094	adénocarcinome séreux de haut grade
+T36	expression_CIM 3130 3148	sarcome pléomorphe
+T37	morphologie 3130 3148	sarcome pléomorphe
+T38	expression_CIM 3203 3235	tumeur mullerienne mixte maligne
+T39	morphologie 3203 3235	tumeur mullerienne mixte maligne
+T40	expression_CIM 3338 3358	atteinte néoplasique
+T41	morphologie 3338 3358	atteinte néoplasique
+T42	morphologie 3626 3632;3649 3658	lésion nodulaire
+T43	expression_CIM 3626 3658	lésion hypercapillaire nodulaire
+T44	expression_CIM 3716 3731	récidive locale
+T45	morphologie 3716 3731	récidive locale
+T46	morphologie 3739 3751	adénomégalie
+T47	expression_CIM 3739 3759	adénomégalie iliaque
+T49	morphologie 3773 3779	lésion
+T50	expression_CIM 3773 3796	lésion intrapéritonéale
+T51	topographie 3780 3796	intrapéritonéale
+T52	expression_CIM 3950 3959	métastase
+T53	morphologie 3950 3959	métastase
+T54	expression_CIM 4194 4199	masse
+T55	morphologie 4194 4199	masse
+T56	morphologie 4260 4266	Nodule
+T57	expression_CIM 4260 4299	Nodule adjacent de graisse mésentérique
+T58	topographie 4279 4299	graisse mésentérique
+T59	expression_CIM 4461 4478	récidive tumorale
+T60	morphologie 4461 4478	récidive tumorale
+T61	morphologie 4544 4558	Carcinosarcome
+T62	expression_CIM 4544 4581	Carcinosarcome des trompes de Fallope
+T63	topographie 4563 4581	trompes de Fallope
+T64	morphologie 4608 4622	rechute locale
+T65	expression_CIM 4608 4637	rechute locale et péritonéale
+T66	topographie 4626 4637	péritonéale
+T67	expression_CIM 4669 4675	cancer
+T68	morphologie 4669 4675	cancer
+T69	morphologie 5216 5231	récidive locale
+T70	expression_CIM 5216 5246	récidive locale et péritonéale
+T71	topographie 5235 5246	péritonéale
+T72	morphologie 5717 5742	progression de la maladie
+T73	expression_CIM 5717 5763	progression de la maladie au niveau péritonéal
+T74	topographie 5753 5763	péritonéal
+T75	expression_CIM 5828 5834	tumeur
+T76	morphologie 5828 5834	tumeur
+T77	expression_CIM 6198 6204	cancer
+T78	morphologie 6198 6204	cancer
+T79	expression_CIM 6263 6316	syndrome du cancer héréditaire du sein et de l'ovaire
+T81	morphologie 6412 6418	cancer
+T82	expression_CIM 6412 6431	cancer de l'estomac
+T83	topographie 6424 6431	estomac
+T84	morphologie 6498 6504	cancer
+T85	expression_CIM 6498 6512	cancer du sein
+T86	topographie 6508 6512	sein
+T87	morphologie 6578 6584	cancer
+T88	expression_CIM 6578 6599	cancer de la prostate
+T89	topographie 6591 6599	prostate
+T90	morphologie 6825 6831	cancer
+T91	expression_CIM 6825 6842	cancer colorectal
+T92	topographie 6832 6842	colorectal
+T93	expression_CIM 6902 6920	cholangiocarcinome
+T94	morphologie 6902 6920	cholangiocarcinome
+T95	morphologie 6981 6990	carcinome
+T96	expression_CIM 6981 6998	carcinome ovarien
+T97	topographie 6991 6998	ovarien
+T98	morphologie 7086 7095	carcinome
+T99	expression_CIM 7086 7108	carcinome de la vessie
+T100	topographie 7102 7108	vessie
+T101	expression_CIM 7450 7467	syndrome de Lynch
+T102	morphologie 7450 7467	syndrome de Lynch
+#1	ICD-O T80	8000/3
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C48.1 8000/1
+#4	ICD-O T3	C48.1
+#5	ICD-O T4	8000/6
+#6	ICD-O T5	8000/6
+#7	ICD-O T6	8000/1
+#8	ICD-O T7	C57.0 8000/1
+#9	ICD-O T8	C57.0
+#10	ICD-O T9	8000/1
+#11	ICD-O T10	C57.0 8000/1
+#12	ICD-O T11	C57.0
+#13	ICD-O T12	8980/3
+#14	ICD-O T13	C57.0 8980/3
+#15	ICD-O T14	C57.0
+#16	ICD-O T15	8441/3
+#17	ICD-O T16	8441/34
+#18	ICD-O T17	8802/3
+#19	ICD-O T18	8802/3
+#20	ICD-O T19	8000/1
+#21	ICD-O T20	C76.3 8000/1
+#22	ICD-O T21	C76.3
+#23	ICD-O T22	8140/3
+#24	ICD-O T23	C57.0 8140/3
+#25	ICD-O T24	C57.0
+#26	ICD-O T26	8440/1
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	C56.9 8000/1
+#29	ICD-O T29	C56.9
+#30	ICD-O T30	8950/3
+#31	ICD-O T31	8950/3
+#32	ICD-O T32	8980/3
+#33	ICD-O T33	8980/3
+#34	ICD-O T34	8441/3
+#35	ICD-O T35	8441/34
+#36	ICD-O T36	8802/3
+#37	ICD-O T37	8802/3
+#38	ICD-O T38	8950/3
+#39	ICD-O T39	8950/3
+#40	ICD-O T40	8000/6
+#41	ICD-O T41	8000/6
+#42	ICD-O T42	8000/1
+#43	ICD-O T45	8000/3
+#44	ICD-O T46	8000/1
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	C48.2 8000/1
+#47	ICD-O T51	C48.2
+#48	ICD-O T52	8000/6
+#49	ICD-O T53	8000/6
+#50	ICD-O T54	8000/1
+#51	ICD-O T55	8000/1
+#52	ICD-O T56	8000/1
+#53	ICD-O T57	C48.1 8000/1
+#54	ICD-O T58	C48.1
+#55	ICD-O T59	8000/6
+#56	ICD-O T60	8000/6
+#57	ICD-O T61	8980/3
+#58	ICD-O T62	C57.0 8980/3
+#59	ICD-O T63	C57.0
+#60	ICD-O T64	8000/3
+#61	ICD-O T65	C48.2 8000/3
+#62	ICD-O T66	C48.2
+#63	ICD-O T67	8000/3
+#64	ICD-O T68	8000/3
+#65	ICD-O T69	8000/3
+#66	ICD-O T71	C48.2
+#67	ICD-O T72	8000/1
+#68	ICD-O T73	C48.2 8000/1
+#69	ICD-O T74	C48.2
+#70	ICD-O T75	8000/1
+#71	ICD-O T76	8000/1
+#72	ICD-O T77	8000/3
+#73	ICD-O T78	8000/3
+#74	ICD-O T81	8000/3
+#75	ICD-O T82	C16.9 8000/3
+#76	ICD-O T83	C16.9
+#77	ICD-O T84	8000/3
+#78	ICD-O T85	C50.9 8000/3
+#79	ICD-O T86	C50.9
+#80	ICD-O T87	8000/3
+#81	ICD-O T88	C61.9 8000/3
+#82	ICD-O T89	C61.9
+#83	ICD-O T90	8000/3
+#84	ICD-O T91	C19.9 8000/3
+#85	ICD-O T92	C19.9
+#86	ICD-O T93	8160/3
+#87	ICD-O T94	8160/3
+#88	ICD-O T95	8010/3
+#89	ICD-O T96	C56.9 8010/3
+#90	ICD-O T97	C56.9
+#91	ICD-O T98	8010/3
+#92	ICD-O T99	C67.9 8010/3
+#93	ICD-O T100	C67.9
+#94	ICD-O T101	8000/3
+#95	ICD-O T102	8000/3

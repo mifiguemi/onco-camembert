@@ -1,0 +1,24 @@
+T1	expression_CIM 347 356	néoplasie
+T2	morphologie 347 356	néoplasie
+T3	morphologie 399 413;424 468	adénocarcinome diffus avec des cellules en anneau de signet
+T4	expression_CIM 399 468	adénocarcinome gastrique diffus avec des cellules en anneau de signet
+T5	topographie 414 423	gastrique
+T6	morphologie 526 540	adénocarcinome
+T7	expression_CIM 526 550	adénocarcinome gastrique
+T8	topographie 541 550	gastrique
+T9	expression_CIM 1800 1825	infiltration métastatique
+T10	morphologie 1800 1825	infiltration métastatique
+T11	expression_CIM 2091 2099	récidive
+T12	morphologie 2091 2099	récidive
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8490/3
+#4	ICD-O T5	C16.9
+#5	ICD-O T6	8140/3
+#6	ICD-O T7	C16.9 8140/3
+#7	ICD-O T8	C16.9
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/9
+#12	AnnotatorNotes T3	trad

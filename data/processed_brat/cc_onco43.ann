@@ -1,0 +1,35 @@
+T17	morphologie 1203 1220	lésion papillaire
+T1	morphologie 126 132	nodule
+T3	topographie 133 143	pulmonaire
+T5	morphologie 241 250	malignité
+T6	morphologie 390 410	carcinome urothélial
+T8	differenciation 415 418	GII
+T10	morphologie 504 530	carcinome urothélial mixte
+T12	morphologie 539 553	adénocarcinome
+T13	morphologie 787 807	carcinome urothélial
+T15	differenciation 848 857	bas grade
+T19	morphologie 1323 1340	tumeur papillaire
+T20	morphologie 1507 1527	carcinome urothélial
+T22	differenciation 1531 1544	bas grade OMS
+T24	morphologie 1576 1582	lésion
+T26	morphologie 1632 1652	carcinome urothélial
+T28	morphologie 1711 1728	tumeur papillaire
+T30	morphologie 2044 2064	carcinome urothélial
+T31	morphologie 2233 2239	tumeur
+T33	topographie 2240 2249	urétérale
+T35	morphologie 2277 2298	métastases à distance
+T36	morphologie 2386 2417	carcinome urothélial infiltrant
+T38	topographie 2432 2438	vessie
+T39	morphologie 2552 2558	tumeur
+T41	topographie 2592 2598	vessie
+T42	morphologie 2639 2670	carcinome urothélial infiltrant
+T44	differenciation 2674 2684	haut grade
+T46	morphologie 2858 2878	carcinome urothélial
+T47	morphologie 3140 3148	invasion
+T49	topographie 3149 3159	vasculaire
+T51	morphologie 3244 3250	lésion
+T53	morphologie 3288 3319	carcinome urothélial infiltrant
+T55	morphologie 3581 3601	carcinome urothélial
+T56	morphologie 3925 3932	maladie
+T59	morphologie 3950 3962	métastatique
+T58	topographie 3933 3946	ganglionnaire

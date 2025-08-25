@@ -1,0 +1,229 @@
+T119	topographie 6503 6519	région pelvienne
+T1	expression_CIM 378 387	néoplasie
+T2	morphologie 378 387	néoplasie
+T3	morphologie 423 429	cancer
+T4	expression_CIM 423 439	cancer du poumon
+T5	topographie 433 439	poumon
+T6	morphologie 833 845	adénopathies
+T7	expression_CIM 833 896	adénopathies latérocervicales, supraclaviculaires ou inguinales
+T8	topographie 846 862	latérocervicales
+T9	topographie 864 882	supraclaviculaires
+T10	topographie 886 896	inguinales
+T11	expression_CIM 1075 1080	masse
+T12	morphologie 1075 1080	masse
+T13	morphologie 1279 1284	image
+T14	expression_CIM 1279 1308	image dans la zone annexielle
+T16	expression_CIM 1343 1360	myome sous-séreux
+T17	morphologie 1343 1360	myome sous-séreux
+T18	expression_CIM 1367 1379	endométriome
+T19	morphologie 1367 1379	endométriome
+T20	expression_CIM 1533 1548	lésion kystique
+T21	morphologie 1533 1548	lésion kystique
+T23	expression_CIM 1582 1638	zone annexielle gauche, on visualise une lésion kystique
+T24	morphologie 1623 1638	lésion kystique
+T25	expression_CIM 1671 1676	masse
+T26	morphologie 1671 1676	masse
+T27	expression_CIM 1756 1763	nodules
+T28	morphologie 1756 1763	nodules
+T29	expression_CIM 1828 1834	nodule
+T30	morphologie 1828 1834	nodule
+T31	morphologie 1902 1905	LOE
+T32	expression_CIM 1902 1915	LOE hépatique
+T33	topographie 1906 1915	hépatique
+T34	topographie 2004 2008	foie
+T35	expression_CIM 2004 2046	foie avec au moins 5 lésions métastatiques
+T36	morphologie 2025 2046	lésions métastatiques
+T37	morphologie 2177 2189	Adénopathies
+T38	expression_CIM 2177 2207	Adénopathies rétropéritonéales
+T39	topographie 2190 2207	rétropéritonéales
+T40	morphologie 2233 2238	Masse
+T41	expression_CIM 2233 2249	Masse annexielle
+T42	topographie 2239 2249	annexielle
+T43	morphologie 2539 2548	carcinome
+T44	expression_CIM 2539 2556	carcinome ovarien
+T45	topographie 2549 2556	ovarien
+T46	expression_CIM 2582 2595	carcinomatose
+T47	morphologie 2582 2595	carcinomatose
+T48	morphologie 2620 2626	tumeur
+T49	expression_CIM 2620 2669	tumeur solide de 4 cm a été trouvée dans l'annexe
+T50	topographie 2663 2669	annexe
+T51	morphologie 2918 2923	masse
+T52	expression_CIM 2918 2934	masse annexielle
+T53	topographie 2924 2934	annexielle
+T54	morphologie 2962 2971	carcinome
+T55	expression_CIM 2962 2985	carcinome indifférencié
+T56	differenciation 2972 2985	indifférencié
+T57	expression_CIM 3265 3280	tumeur primaire
+T58	morphologie 3265 3280	tumeur primaire
+T59	morphologie 3557 3564	lésions
+T60	expression_CIM 3557 3575	lésions hépatiques
+T61	topographie 3565 3575	hépatiques
+T62	morphologie 3795 3804	carcinome
+T63	expression_CIM 3795 3828	carcinome hautement indifférencié
+T64	differenciation 3805 3828	hautement indifférencié
+T65	morphologie 3846 3853	lésions
+T66	expression_CIM 3846 3879	lésions hépatiques et annexielles
+T67	topographie 3854 3864	hépatiques
+T68	topographie 3868 3879	annexielles
+T69	expression_CIM 3906 3927	processus néoplasique
+T70	morphologie 3906 3927	processus néoplasique
+T71	morphologie 3982 3991	carcinome
+T72	expression_CIM 3982 4034	carcinome hautement indifférencié d'origine inconnue
+T73	differenciation 3992 4015	hautement indifférencié
+T74	topographie 4018 4034	origine inconnue
+T75	morphologie 4089 4092	LOE
+T76	expression_CIM 4089 4102	LOE hépatique
+T77	topographie 4093 4102	hépatique
+T78	morphologie 4127 4151	foyers hypermétaboliques
+T79	expression_CIM 4127 4181	foyers hypermétaboliques dans les deux fosses iliaques
+T80	topographie 4166 4181	fosses iliaques
+T81	morphologie 4194 4206	adénopathies
+T82	expression_CIM 4194 4215	adénopathies iliaques
+T83	topographie 4207 4215	iliaques
+T84	morphologie 4423 4429;4440 4489	cancer à grandes cellules (épidermoïde et adénocarcinome
+T85	expression_CIM 4423 4471	cancer du poumon à grandes cellules (épidermoïde
+T86	topographie 4433 4439	poumon
+T87	expression_CIM 4609 4616	tumeurs
+T88	morphologie 4609 4616	tumeurs
+T89	expression_CIM 4691 4697	tumeur
+T90	morphologie 4691 4697	tumeur
+T91	expression_CIM 4788 4794	tumeur
+T92	morphologie 4788 4794	tumeur
+T93	expression_CIM 4907 4925	cellules tumorales
+T94	morphologie 4907 4925	cellules tumorales
+T95	morphologie 5001 5010	carcinome
+T96	expression_CIM 5001 5045	carcinome indifférencié d'origine pulmonaire
+T97	differenciation 5011 5024	indifférencié
+T98	topographie 5035 5045	pulmonaire
+T99	expression_CIM 5049 5057	stade IV
+T100	morphologie 5049 5057	stade IV
+T101	morphologie 5650 5662	adénopathies
+T102	expression_CIM 5650 5680	adénopathies rétropéritonéales
+T103	topographie 5663 5680	rétropéritonéales
+T104	morphologie 5728 5735	lésions
+T105	expression_CIM 5728 5746	lésions hépatiques
+T106	topographie 5736 5746	hépatiques
+T107	morphologie 5754 5761	lésions
+T108	expression_CIM 5754 5773	lésions annexielles
+T109	topographie 5762 5773	annexielles
+T110	morphologie 6260 6269	carcinome
+T111	expression_CIM 6260 6303	carcinome indifférencié d'origine ovarienne
+T112	differenciation 6270 6283	indifférencié
+T113	topographie 6294 6303	ovarienne
+T114	morphologie 6372 6379	maladie
+T115	expression_CIM 6372 6389	maladie hépatique
+T116	topographie 6380 6389	hépatique
+T117	morphologie 6479 6485	tumeur
+T118	expression_CIM 6479 6519	tumeur restante dans la région pelvienne
+T15	topographie 1293 1308	zone annexielle
+T22	topographie 1582 1597	zone annexielle
+#1	ICD-O T2	8000/3
+#2	ICD-O T3	8000/3
+#3	ICD-O T4	C34.9 8000/3
+#4	ICD-O T5	C34.9
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C77.0 8000/1;C77.4 8000/1
+#7	ICD-O T8	C76.0
+#8	ICD-O T9	C76.0
+#9	ICD-O T10	C76.3
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T17	tocheck
+#14	ICD-O T18	8380/0
+#15	ICD-O T19	8380/0
+#16	ICD-O T21	8440/1
+#17	ICD-O T24	8440/1
+#18	ICD-O T25	8000/1
+#19	ICD-O T26	8000/1
+#20	ICD-O T27	8000/1
+#21	ICD-O T28	8000/1
+#22	ICD-O T29	8000/1
+#23	ICD-O T30	8000/1
+#24	ICD-O T31	8000/1
+#25	ICD-O T33	C22.0
+#26	ICD-O T34	C22.0
+#27	ICD-O T35	C22.0 8000/6
+#28	ICD-O T36	8000/6
+#29	ICD-O T37	8000/1
+#30	ICD-O T38	C77.2 8000/1
+#31	ICD-O T39	C48.0
+#32	ICD-O T40	8000/1
+#33	ICD-O T41	C56.9 8000/1
+#34	ICD-O T42	C56.9
+#35	ICD-O T43	8010/3
+#36	ICD-O T44	C56.9 8010/3
+#37	ICD-O T45	C56.9
+#38	ICD-O T46	8010/9
+#39	ICD-O T47	8000/6
+#40	ICD-O T48	8000/3
+#41	ICD-O T49	C56.9 8000/1
+#42	ICD-O T50	C56.9
+#43	ICD-O T51	8000/1
+#44	ICD-O T52	C56.9 8000/1
+#45	ICD-O T53	C56.9
+#46	ICD-O T54	8010/3
+#47	ICD-O T55	8010/34
+#48	ICD-O T56	4
+#49	ICD-O T57	8000/3
+#50	ICD-O T58	8000/3
+#51	ICD-O T59	8000/1
+#52	ICD-O T60	C22.0 8000/1
+#53	ICD-O T61	C22.0
+#54	ICD-O T62	8010/3
+#55	ICD-O T63	8010/34
+#56	ICD-O T64	4
+#57	ICD-O T65	8000/1
+#58	ICD-O T66	C22.0 8000/1;C56.9 8000/1
+#59	ICD-O T67	C22.0
+#60	ICD-O T68	C56.9
+#61	ICD-O T69	8000/3
+#62	ICD-O T70	8000/9
+#63	ICD-O T71	8010/3
+#64	ICD-O T72	C80.9 8010/34
+#65	ICD-O T73	4
+#66	ICD-O T74	C80.9
+#67	ICD-O T75	8000/1
+#68	ICD-O T77	C22.0
+#69	ICD-O T78	8000/9
+#70	ICD-O T79	C76.2 8000/1
+#71	ICD-O T80	C76.2
+#72	ICD-O T81	8000/1
+#73	ICD-O T82	C77.5 8000/1
+#74	ICD-O T83	C41.4
+#75	ICD-O T84	8003/3
+#76	ICD-O T85	C34.9 8560/3
+#77	ICD-O T86	C34.9
+#78	ICD-O T87	8000/1
+#79	ICD-O T88	8000/3
+#80	ICD-O T89	8000/1
+#81	ICD-O T90	8000/3
+#82	ICD-O T91	8000/1
+#83	ICD-O T92	8000/3
+#84	ICD-O T93	8001/1
+#85	ICD-O T94	8001/3
+#86	ICD-O T95	8010/3
+#87	ICD-O T96	C34.9 8010/34
+#88	ICD-O T97	4
+#89	ICD-O T98	C34.9
+#90	ICD-O T99	8000/6
+#91	ICD-O T100	8000/6
+#92	ICD-O T101	8000/1
+#93	ICD-O T102	C77.2 8000/1
+#94	ICD-O T103	C48.0
+#95	ICD-O T104	8000/1
+#96	ICD-O T105	C22.0 8000/1
+#97	ICD-O T106	C22.0
+#98	ICD-O T107	8000/1
+#99	ICD-O T108	C56.9 8000/1
+#100	ICD-O T109	C56.9
+#101	ICD-O T110	8010/3
+#102	ICD-O T111	C56.9 8010/34
+#103	ICD-O T112	4
+#104	ICD-O T113	C56.9
+#105	ICD-O T114	8000/9
+#106	ICD-O T115	C22.0 8000/6
+#107	ICD-O T116	C22.0
+#108	ICD-O T117	8000/3
+#109	ICD-O T118	C76.3 8000/1
+#110	AnnotatorNotes T47	trad

@@ -1,0 +1,33 @@
+T2	morphologie 539 546	tumeurs
+T4	morphologie 946 952	masses
+T6	morphologie 1195 1201	masses
+T8	morphologie 1423 1435	adénopathies
+T9	morphologie 1879 1904	conglomérat adénopathique
+T11	topographie 1905 1914	abdominal
+T12	morphologie 1955 1966	adénopathie
+T14	topographie 1967 1983	rétropéritonéale
+T15	morphologie 2070 2081	adénopathie
+T17	topographie 2082 2089	hilaire
+T18	topographie 2093 2105	médiastinale
+T19	morphologie 2156 2163	nodules
+T21	topographie 2164 2175	pulmonaires
+T22	topographie 2201 2215	lobe supérieur
+T23	topographie 2235 2249	lobe inférieur
+T24	topographie 2267 2281	lobe inférieur
+T25	morphologie 2390 2395	masse
+T27	topographie 2496 2505	testicule
+T28	morphologie 2533 2539	tumeur
+T30	topographie 2540 2552	testiculaire
+T32	morphologie 2931 2965	néoplasie germinale intratubulaire
+T34	morphologie 3171 3177	lésion
+T35	morphologie 3218 3224	tumeur
+T49	morphologie 3238 3247	germinale
+T37	topographie 3225 3237	testiculaire
+T38	morphologie 3282 3288	Tumeur
+T50	morphologie 3302 3313	"burned-out
+T40	topographie 3289 3301	testiculaire
+T41	morphologie 3392 3400	atteinte
+T43	topographie 3401 3410	viscérale
+T44	topographie 3432 3442	pulmonaire
+T46	morphologie 3456 3466	métastases
+T48	morphologie 4363 4369	tumeur

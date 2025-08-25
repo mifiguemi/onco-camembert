@@ -1,0 +1,80 @@
+T103	topographie 5308 5331	région sus-claviculaire
+T1	morphologie 137 146	carcinome
+T3	topographie 150 155	colon
+T4	morphologie 218 227	carcinome
+T6	topographie 241 245	sein
+T7	morphologie 298 307	carcinome
+T9	topographie 308 317	gastrique
+T10	morphologie 352 361	carcinome
+T12	topographie 365 369	sein
+T13	morphologie 478 487	carcinome
+T15	topographie 491 495	sein
+T17	morphologie 543 551	polypose
+T18	morphologie 561 591	carcinome canalaire infiltrant
+T20	topographie 605 609	sein
+T22	morphologie 622 628	tumeur
+T24	morphologie 1371 1377	nodule
+T26	morphologie 1379 1384	masse
+T28	morphologie 1388 1399	adénopathie
+T29	morphologie 1642 1649	nodules
+T31	topographie 1650 1661	pulmonaires
+T32	topographie 1679 1693	lobe supérieur
+T33	topographie 1701 1704	LSD
+T35	morphologie 1824 1842	maladie secondaire
+T36	topographie 1860 1874	lobe moyen (LM
+T37	morphologie 2107 2114	Nodules
+T39	topographie 2115 2126	pulmonaires
+T41	morphologie 2140 2170	Carcinome canalaire infiltrant
+T42	morphologie 2335 2341	nodule
+T44	topographie 2360 2363	LSD
+T45	morphologie 2394 2400	nodule
+T47	topographie 2418 2420	LM
+T48	morphologie 2534 2552	maladie secondaire
+T50	topographie 2563 2575	encéphalique
+T51	morphologie 2838 2845	nodules
+T53	topographie 2846 2857	pulmonaires
+T54	topographie 2865 2868	LSD
+T55	topographie 2878 2880	LM
+T56	morphologie 2940 2962	adénocarcinome acineux
+T58	topographie 2973 2983	pulmonaire
+T59	differenciation 2984 2986	G2
+T61	morphologie 3254 3266	adénopathies
+T63	morphologie 3600 3614	tumeur maligne
+T64	morphologie 3735 3741	nodule
+T66	topographie 3742 3752	pulmonaire
+T67	topographie 3771 3774	LSD
+T68	morphologie 3839 3850	micronodule
+T70	topographie 3869 3872	LSD
+T72	morphologie 3938 3972	maladie régionale et/ou à distance
+T73	morphologie 4410 4416	nodule
+T75	topographie 4447 4450	LSD
+T76	morphologie 4498 4512	adénocarcinome
+T78	differenciation 4513 4535	modérément différencié
+T79	topographie 4546 4556	pulmonaire
+T81	morphologie 4892 4917	progression de la maladie
+T82	morphologie 4940 4945	masse
+T84	topographie 4946 4956	pulmonaire
+T85	morphologie 4968 4975	nodules
+T119	morphologie 4988 5001	métastatiques
+T87	topographie 4976 4987	pulmonaires
+T89	topographie 5046 5093	ganglions lymphatiques médiastinaux et hilaires
+T90	morphologie 5107 5120	dissémination
+T92	topographie 5121 5128	osseuse
+T93	morphologie 5130 5142	Adénopathies
+T95	topographie 5143 5156	médiastinales
+T97	morphologie 5170 5182	conglomérats
+T98	morphologie 5184 5190	lésion
+T100	topographie 5209 5227	corps vertébral T5
+T101	morphologie 5274 5299	conglomérat adénopathique
+T104	morphologie 5986 5996	métastases
+T106	topographie 5997 6005	osseuses
+T107	topographie 6024 6031	calotte
+T108	topographie 6036 6051	cage thoracique
+T109	topographie 6056 6074	colonne vertébrale
+T110	topographie 6079 6086	sternum
+T111	topographie 6097 6104	humérus
+T112	topographie 6109 6115	bassin
+T113	topographie 6122 6127	fémur
+T115	morphologie 6227 6233	tumeur
+T116	morphologie 6567 6574	lésions
+T118	topographie 6575 6594	osseuses pelviennes

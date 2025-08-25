@@ -1,0 +1,167 @@
+T1	morphologie 159 165	cancer
+T2	expression_CIM 159 173	cancer du sein
+T3	topographie 169 173	sein
+T4	morphologie 277 283	nodule
+T5	expression_CIM 277 320	nodule rétroaréolaire palpable dans le sein
+T6	topographie 284 298	rétroaréolaire
+T7	topographie 316 320	sein
+T8	morphologie 598 604	nodule
+T9	expression_CIM 598 628	nodule roulant rétro-aréolaire
+T11	morphologie 704 716	infiltration
+T12	expression_CIM 704 727	infiltration de la peau
+T13	topographie 723 727	peau
+T14	expression_CIM 1214 1232	cellules tumorales
+T15	morphologie 1214 1232	cellules tumorales
+T16	expression_CIM 1295 1332	prolifération mésenchymateuse maligne
+T17	morphologie 1295 1332	prolifération mésenchymateuse maligne
+T18	expression_CIM 1483 1488	masse
+T19	morphologie 1483 1488	masse
+T20	expression_CIM 1505 1511	lésion
+T21	morphologie 1505 1511	lésion
+T22	expression_CIM 1632 1638	tumeur
+T23	morphologie 1632 1638	tumeur
+T24	expression_CIM 1677 1699	carcinome métaplasique
+T25	morphologie 1677 1699	carcinome métaplasique
+T26	morphologie 1725 1755	carcinome canalaire infiltrant
+T27	expression_CIM 1725 1768	carcinome canalaire infiltrant de grade III
+T28	differenciation 1759 1768	grade III
+T29	morphologie 1791 1798	sarcome
+T30	expression_CIM 1791 1812	sarcome de haut grade
+T31	differenciation 1802 1812	haut grade
+T32	expression_CIM 1869 1883	chondrosarcome
+T33	morphologie 1869 1883	chondrosarcome
+T34	expression_CIM 1909 1915	tumeur
+T35	morphologie 1909 1915	tumeur
+T36	expression_CIM 2353 2359	tumeur
+T37	morphologie 2353 2359	tumeur
+T38	expression_CIM 2408 2414	lésion
+T39	morphologie 2408 2414	lésion
+T40	morphologie 2555 2563	atteinte
+T41	expression_CIM 2555 2574	atteinte pulmonaire
+T42	topographie 2564 2574	pulmonaire
+T43	expression_CIM 2595 2602	nodules
+T44	morphologie 2595 2602	nodules
+T45	morphologie 2638 2648	métastases
+T46	expression_CIM 2638 2660	métastases pulmonaires
+T47	topographie 2649 2660	pulmonaires
+T48	morphologie 2696 2706	métastases
+T49	expression_CIM 2696 2715	métastases osseuses
+T50	topographie 2707 2715	osseuses
+T51	morphologie 2809 2839	maladie métaboliquement active
+T52	expression_CIM 2809 2856	maladie métaboliquement active dans les poumons
+T53	topographie 2849 2856	poumons
+T54	morphologie 2920 2954	carcinome métaplasique hétérologue
+T55	expression_CIM 2920 2962	carcinome métaplasique hétérologue du sein
+T56	topographie 2958 2962	sein
+T57	expression_CIM 2966 2974	stade IV
+T58	morphologie 2966 2974	stade IV
+T59	morphologie 3019 3027	atteinte
+T60	expression_CIM 3019 3038	atteinte pulmonaire
+T61	topographie 3028 3038	pulmonaire
+T62	expression_CIM 3094 3100	tumeur
+T63	morphologie 3094 3100	tumeur
+T64	expression_CIM 3178 3208	carcinome canalaire infiltrant
+T65	morphologie 3178 3208	carcinome canalaire infiltrant
+T66	morphologie 3232 3255	chondrosarcome primaire
+T67	expression_CIM 3232 3263	chondrosarcome primaire du sein
+T68	topographie 3259 3263	sein
+T69	morphologie 3563 3570	lésions
+T70	expression_CIM 3563 3582	lésions pulmonaires
+T71	topographie 3571 3582	pulmonaires
+T72	expression_CIM 3634 3641	nodules
+T73	morphologie 3634 3641	nodules
+T74	morphologie 3767 3776	progressé
+T75	expression_CIM 3767 3797	progressé au niveau pulmonaire
+T76	topographie 3787 3797	pulmonaire
+T77	morphologie 3825 3832	lésions
+T78	expression_CIM 3825 3869	lésions déjà connues, et au niveau hépatique
+T79	topographie 3860 3869	hépatique
+T80	morphologie 3903 3909	lésion
+T81	expression_CIM 3903 3933	lésion au niveau du segment IV
+T83	expression_CIM 4358 4375	images nodulaires
+T84	morphologie 4358 4375	images nodulaires
+T85	expression_CIM 4435 4444	métastase
+T86	morphologie 4435 4444	métastase
+T10	topographie 613 628	rétro-aréolaire
+T82	topographie 3923 3933	segment IV
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	C50.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	C44.9 8000/1
+#11	ICD-O T13	C44.9
+#12	ICD-O T14	8001/1
+#13	ICD-O T15	8001/1
+#14	ICD-O T16	8800/3
+#15	ICD-O T17	8800/3
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8575/3
+#23	ICD-O T25	8575/3
+#24	ICD-O T26	8500/3
+#25	ICD-O T27	8500/33
+#26	ICD-O T28	3
+#27	ICD-O T29	8800/3
+#28	ICD-O T30	8800/34
+#29	ICD-O T31	4
+#30	ICD-O T32	9220/3
+#31	ICD-O T33	9220/3
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	C34.9 8000/1
+#40	ICD-O T42	C34.9
+#41	ICD-O T43	8000/1
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	8000/6
+#44	ICD-O T46	C34.9 8000/6
+#45	ICD-O T47	C34.9
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	C41.9 8000/6
+#48	ICD-O T50	C41.9
+#49	ICD-O T51	8000/9
+#50	ICD-O T53	 C34.9
+#51	ICD-O T54	8010/6
+#52	ICD-O T55	C50.9 8575/3
+#53	ICD-O T56	C50.9
+#54	ICD-O T57	8000/6
+#55	ICD-O T58	8000/6
+#56	ICD-O T59	8000/1
+#57	ICD-O T60	C34.9 8000/1
+#58	ICD-O T61	C34.9
+#59	ICD-O T62	8000/1
+#60	ICD-O T63	8000/1
+#61	ICD-O T64	8500/3
+#62	ICD-O T65	8500/3
+#63	ICD-O T66	9220/3
+#64	ICD-O T67	C50.9 9220/3
+#65	ICD-O T68	C50.9
+#66	ICD-O T69	8000/1
+#67	ICD-O T70	C34.9 8000/1
+#68	ICD-O T71	C34.9
+#69	ICD-O T72	8000/1
+#70	ICD-O T73	8000/1
+#71	ICD-O T74	8000/6
+#72	ICD-O T75	C34.9 8000/6
+#73	ICD-O T76	C34.9
+#74	ICD-O T77	8000/1
+#75	ICD-O T78	C22.0 8000/1
+#76	ICD-O T79	C22.0
+#77	ICD-O T80	8000/1
+#78	ICD-O T83	8000/1
+#79	ICD-O T84	8000/1
+#80	ICD-O T85	8000/6
+#81	ICD-O T86	8000/6

@@ -1,0 +1,35 @@
+T1	morphologie 125 145	carcinome papillaire
+T3	topographie 149 153	rein
+T4	morphologie 231 237	nodule
+T6	topographie 238 248	pulmonaire
+T56	topographie 283 297	lobe supérieur
+T7	morphologie 447 461	adénocarcinome
+T9	topographie 462 472	pulmonaire
+T11	morphologie 476 484	stade IV
+T12	morphologie 501 509	atteinte
+T14	topographie 510 517	osseuse
+T15	morphologie 1477 1483	nodule
+T17	topographie 1484 1494	pulmonaire
+T18	topographie 1520 1534	lobe supérieur
+T19	morphologie 1630 1639	captation
+T21	topographie 1648 1672	lobe supérieur du poumon
+T23	morphologie 1859 1876	cellules malignes
+T25	morphologie 1897 1911	adénocarcinome
+T27	morphologie 2082 2088	foyers
+T29	morphologie 2270 2294	dissémination secondaire
+T30	morphologie 2296 2309	carcinomatose
+T32	topographie 2310 2323	leptoméningée
+T34	morphologie 2485 2491	foyers
+T36	morphologie 2550 2557	lésions
+T37	morphologie 2573 2593	Carcinome papillaire
+T39	topographie 2597 2601	rein
+T40	morphologie 2647 2661	Adénocarcinome
+T42	topographie 2665 2671	poumon
+T44	morphologie 2691 2699	stade IV
+T45	morphologie 2768 2781	carcinomatose
+T47	topographie 2782 2795	leptoméningée
+T48	morphologie 3058 3072	adénocarcinome
+T50	topographie 3073 3083	pulmonaire
+T52	morphologie 3087 3095	stade IV
+T53	morphologie 3576 3589	carcinomatose
+T55	topographie 3590 3598	méningée

@@ -1,0 +1,45 @@
+T1	morphologie 303 321	carcinome squameux
+T2	expression_CIM 303 340	carcinome squameux du col de l'utérus
+T3	topographie 325 340	col de l'utérus
+T4	expression_CIM 1186 1194	récidive
+T5	morphologie 1186 1194	récidive
+T6	expression_CIM 1335 1378	récidive locale ou à distance de la maladie
+T7	morphologie 1335 1378	récidive locale ou à distance de la maladie
+T8	morphologie 4099 4116	récidive tumorale
+T9	expression_CIM 4099 4136	récidive tumorale au niveau cardiaque
+T10	topographie 4127 4136	cardiaque
+T11	expression_CIM 4815 4820	masse
+T12	morphologie 4815 4820	masse
+T13	morphologie 5021 5034	condensations
+T14	expression_CIM 5021 5059	condensations bibasales sous-pleurales
+T15	topographie 5035 5059	bibasales sous-pleurales
+T16	expression_CIM 5323 5336	dissémination
+T17	morphologie 5323 5336	dissémination
+T18	morphologie 5519 5524	masse
+T19	expression_CIM 5519 5558	masse intracardiaque dans le ventricule
+T20	topographie 5525 5539	intracardiaque
+T21	topographie 5548 5558	ventricule
+T22	morphologie 5815 5836	récidive de la tumeur
+T23	expression_CIM 5815 5846	récidive de la tumeur cardiaque
+T24	topographie 5837 5846	cardiaque
+#1	ICD-O T1	8560/3
+#2	ICD-O T2	C53.9 8560/3
+#3	ICD-O T3	C53.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T7	8000/9
+#7	ICD-O T8	8000/6
+#8	ICD-O T9	C38.0 8000/6
+#9	ICD-O T10	C38.0
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T15	C34.3
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	8000/6
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C38.0 8000/1;C71.5 8000/1
+#18	ICD-O T20	C38.0
+#19	ICD-O T21	C71.5
+#20	ICD-O T22	8000/3
+#21	ICD-O T24	C38.0

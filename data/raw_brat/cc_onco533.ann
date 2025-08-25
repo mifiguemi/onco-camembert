@@ -1,0 +1,131 @@
+T12	topographie 2513 2535;2558 2577	ganglions lymphatiques dans tout l'abdomen
+T64	topographie 3989 4003	paroi du côlon
+T1	expression_CIM 1427 1452	lésions occupant l'espace
+T2	morphologie 1427 1452	lésions occupant l'espace
+T3	morphologie 1930 1944	adénocarcinome
+T4	expression_CIM 1930 1960	adénocarcinome peu différencié
+T5	differenciation 1945 1960	peu différencié
+T6	morphologie 2199 2206	nodules
+T7	expression_CIM 2199 2242	nodules dans les quadrants internes du sein
+T8	topographie 2216 2242	quadrants internes du sein
+T9	morphologie 2250 2262	Adénopathies
+T10	expression_CIM 2250 2273	Adénopathies axillaires
+T11	topographie 2263 2273	axillaires
+T13	expression_CIM 2513 2577	ganglions lymphatiques suspects de malignité dans tout l'abdomen
+T14	morphologie 2536 2557	suspects de malignité
+T15	morphologie 2579 2586	Lésions
+T16	expression_CIM 2579 2595	Lésions osseuses
+T17	topographie 2587 2595	osseuses
+T18	morphologie 2627 2645	néoplasme probable
+T19	expression_CIM 2627 2654	néoplasme probable du côlon
+T20	topographie 2649 2654	côlon
+T21	morphologie 2656 2666	métastases
+T22	expression_CIM 2656 2675	métastases osseuses
+T23	topographie 2667 2675	osseuses
+T24	morphologie 2756 2771	tumeur primaire
+T25	expression_CIM 2756 2779	tumeur primaire du sein
+T26	topographie 2775 2779	sein
+T27	morphologie 2878 2883	masse
+T28	expression_CIM 2878 2958	masse mal définie mesurant 21 x 20 x 18 mm dans les quadrants inférieurs du sein
+T30	morphologie 2969 2975	nodule
+T31	expression_CIM 2969 3067	nodule spiculé mesurant 23 x 16 x 11 mm a été identifié dans le quadrant supérieur externe du sein
+T32	topographie 3033 3067	quadrant supérieur externe du sein
+T33	morphologie 3080 3096	lymphadénopathie
+T34	expression_CIM 3080 3148	lymphadénopathie pathologique a été observée dans les deux aisselles
+T35	topographie 3139 3148	aisselles
+T36	expression_CIM 3178 3185	nodules
+T37	morphologie 3178 3185	nodules
+T38	morphologie 3257 3264	nodules
+T39	expression_CIM 3257 3274	nodules mammaires
+T40	topographie 3265 3274	mammaires
+T41	expression_CIM 3288 3318	carcinome lobulaire infiltrant
+T42	morphologie 3288 3318	carcinome lobulaire infiltrant
+T43	expression_CIM 3368 3375	nodules
+T44	morphologie 3368 3375	nodules
+T45	morphologie 3538 3557	carcinome lobulaire
+T46	expression_CIM 3538 3565	carcinome lobulaire du sein
+T47	topographie 3561 3565	sein
+T48	morphologie 3579 3598	Carcinome lobulaire
+T49	expression_CIM 3579 3609	Carcinome lobulaire IV du sein
+T50	topographie 3605 3609	sein
+T51	morphologie 3615 3623	atteinte
+T52	expression_CIM 3615 3631	atteinte osseuse
+T53	topographie 3624 3631	osseuse
+T54	morphologie 3633 3646	carcinomatose
+T55	expression_CIM 3633 3658	carcinomatose péritonéale
+T56	topographie 3647 3658	péritonéale
+T57	morphologie 3662 3674	infiltration
+T58	expression_CIM 3662 3682	infiltration colique
+T59	topographie 3675 3682	colique
+T60	expression_CIM 3828 3842	adénocarcinome
+T61	morphologie 3828 3842	adénocarcinome
+T62	morphologie 3965 3980	implant tumoral
+T63	expression_CIM 3965 4003	implant tumoral dans la paroi du côlon
+T65	morphologie 4373 4392	carcinome lobulaire
+T66	expression_CIM 4373 4400	carcinome lobulaire du sein
+T67	topographie 4396 4400	sein
+T29	topographie 2930 2958	quadrants inférieurs du sein
+#1	ICD-O T2	8000/1
+#2	ICD-O T3	8140/3
+#3	ICD-O T4	8140/33
+#4	ICD-O T5	3
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C50.8 8000/1
+#7	ICD-O T8	C50.8
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C77.3 8000/1
+#10	ICD-O T11	C76.1
+#11	ICD-O T13	C76.2 8000/1;C77.9 8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	C41.9 8000/1
+#15	ICD-O T17	C41.9
+#16	ICD-O T18	tocheck
+#17	ICD-O T19	C18.9 8000/1
+#18	ICD-O T20	C18.9
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	C41.9 8000/6
+#21	ICD-O T23	C41.9
+#22	ICD-O T24	8000/3
+#23	ICD-O T25	C50.9 8000/3
+#24	ICD-O T26	C50.9
+#25	ICD-O T27	8000/1
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	C50.4 8000/1
+#28	ICD-O T32	C50.4
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	C77.3 8000/1
+#31	ICD-O T35	C76.1
+#32	ICD-O T36	8000/1
+#33	ICD-O T37	8000/1
+#34	ICD-O T38	8000/1
+#35	ICD-O T39	C50.9 8000/1
+#36	ICD-O T40	C50.9
+#37	ICD-O T41	8520/3
+#38	ICD-O T42	8520/3
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	8000/1
+#41	ICD-O T45	8520/3
+#42	ICD-O T46	C50.9 8520/3
+#43	ICD-O T47	C50.9
+#44	ICD-O T48	8520/3
+#45	ICD-O T49	C50.9 8520/3
+#46	ICD-O T50	C50.9
+#47	ICD-O T51	8000/9
+#48	ICD-O T52	C41.9 8000/1
+#49	ICD-O T53	C41.9
+#50	ICD-O T54	8000/6
+#51	ICD-O T55	C48.2 8010/9
+#52	ICD-O T56	C48.2
+#53	ICD-O T57	8000/9
+#54	ICD-O T58	C18.9 8000/1
+#55	ICD-O T59	C18.9
+#56	ICD-O T60	8140/3
+#57	ICD-O T61	8140/3
+#58	ICD-O T62	8000/6
+#59	ICD-O T63	C18.9 8000/6
+#60	ICD-O T65	8520/3
+#61	ICD-O T66	C50.9 8520/3
+#62	ICD-O T67	C50.9
+#63	AnnotatorNotes T2	trad
+#64	AnnotatorNotes T54	trad

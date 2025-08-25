@@ -1,0 +1,60 @@
+T1	morphologie 210 218	implants
+T2	expression_CIM 210 230	implants péritonéaux
+T3	topographie 219 230	péritonéaux
+T4	expression_CIM 271 283	adénopathies
+T5	morphologie 271 283	adénopathies
+T6	morphologie 313 320	lésions
+T7	expression_CIM 313 331	lésions hépatiques
+T8	topographie 321 331	hépatiques
+T9	expression_CIM 391 398	lésions
+T10	morphologie 391 398	lésions
+T11	expression_CIM 450 498	sarcome desmoplastique à petites cellules rondes
+T12	morphologie 450 498	sarcome desmoplastique à petites cellules rondes
+T13	morphologie 536 542	foyers
+T14	expression_CIM 536 621	foyers dans l'intestin, la rate, le foie, la vessie et les deux feuillets péritonéaux
+T15	topographie 550 558	intestin
+T16	topographie 563 567	rate
+T17	topographie 572 576	foie
+T18	topographie 581 587	vessie
+T20	morphologie 677 682	masse
+T21	expression_CIM 677 708	masse située dans l'hypochondre
+T23	morphologie 878 886	implants
+T24	expression_CIM 878 909	implants de la paroi abdominale
+T25	topographie 893 909	paroi abdominale
+T26	morphologie 950 971	maladie macroscopique
+T27	expression_CIM 950 1022	maladie macroscopique dans le diaphragme, le mésentère et la méso-vessie
+T28	topographie 980 990	diaphragme
+T29	topographie 995 1004	mésentère
+T31	morphologie 1906 1913	nodules
+T32	expression_CIM 1906 1924	nodules hépatiques
+T33	topographie 1914 1924	hépatiques
+T19	topographie 600 621	feuillets péritonéaux
+T22	topographie 697 708	hypochondre
+T30	topographie 1011 1022	méso-vessie
+#1	ICD-O T1	8000/6
+#2	ICD-O T2	C48.2 8000/6
+#3	ICD-O T3	C48.2
+#4	ICD-O T4	C77.9 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C22.0 8000/1
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8806/3
+#12	ICD-O T12	8806/3
+#13	ICD-O T13	8000/1
+#14	ICD-O T15	C26.0
+#15	ICD-O T16	C42.2
+#16	ICD-O T17	C22.0
+#17	ICD-O T18	C67.9
+#18	ICD-O T20	8000/1
+#19	ICD-O T23	8000/6
+#20	ICD-O T24	C76.2 8000/6
+#21	ICD-O T25	C76.2
+#22	ICD-O T26	8000/9
+#23	ICD-O T28	C49.3
+#24	ICD-O T29	C48.1
+#25	ICD-O T31	8000/1
+#26	ICD-O T32	C22.0 8000/1
+#27	ICD-O T33	C22.0

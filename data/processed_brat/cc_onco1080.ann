@@ -1,0 +1,36 @@
+T1	morphologie 461 473	adénopathies
+T3	topographie 474 484	axillaires
+T4	topographie 488 505	sus-claviculaires
+T5	morphologie 592 597	masse
+T7	topographie 598 605	hilaire
+T8	morphologie 628 640	adénopathies
+T10	topographie 641 654	médiastinales
+T11	topographie 656 670	paratrachéales
+T13	morphologie 727 739	adénopathies
+T15	topographie 740 753	mésentériques
+T16	morphologie 761 773	adénopathies
+T18	topographie 802 827	ligament gastro-hépatique
+T19	morphologie 912 917	masse
+T21	topographie 918 925	hilaire
+T23	morphologie 1064 1076	adénopathies
+T24	morphologie 1325 1331	lésion
+T26	topographie 1332 1346	endobronchique
+T28	morphologie 1387 1408	carcinome épidermoïde
+T29	morphologie 1532 1553	carcinome épidermoïde
+T31	topographie 1557 1563	poumon
+T32	morphologie 1835 1847	infiltration
+T34	topographie 1854 1868	moelle osseuse
+T35	morphologie 1875 1882	maladie
+T53	morphologie 1891 1903	métastatique
+T37	topographie 1883 1890	osseuse
+T38	morphologie 1959 1970	adénopathie
+T40	topographie 1971 1987	sus-claviculaire
+T41	morphologie 2141 2162	carcinome épidermoïde
+T43	topographie 2166 2172	poumon
+T44	morphologie 2356 2377	carcinome épidermoïde
+T46	differenciation 2378 2400	modérément différencié
+T47	topographie 2451 2458	hilaire
+T49	morphologie 2465 2477	infiltration
+T50	morphologie 2484 2495	adénopathie
+T52	topographie 2496 2507	périhilaire
+T12	topographie 686 701	sous-carénaires

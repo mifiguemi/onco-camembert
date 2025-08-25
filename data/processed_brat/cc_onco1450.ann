@@ -1,0 +1,27 @@
+T18	topographie 737 759	espace pariéto-colique
+T1	morphologie 138 144	tumeur
+T3	topographie 145 161	intrapéritonéale
+T4	morphologie 293 300	implant
+T6	topographie 301 311	péritonéal
+T7	morphologie 330 342	adénopathies
+T9	topographie 343 360	rétropéritonéales
+T10	topographie 364 377	mésentériques
+T12	morphologie 489 495	tumeur
+T13	morphologie 658 663	masse
+T15	topographie 664 673	pelvienne
+T16	morphologie 706 711	masse
+T19	morphologie 861 895	tumeur stromale gastro-intestinale
+T21	topographie 920 932	mésentérique
+T23	morphologie 2237 2254	récidive tumorale
+T25	morphologie 2845 2857	adénopathies
+T27	morphologie 3039 3044	masse
+T28	morphologie 3571 3576	masse
+T30	topographie 3577 3586	pelvienne
+T31	topographie 3610 3616	utérus
+T32	topographie 3624 3631	annexes
+T33	morphologie 3786 3792	Lésion
+T35	topographie 3793 3802	hépatique
+T37	morphologie 3954 3963	extension
+T39	morphologie 4445 4453	sarcomes
+T40	morphologie 4950 4956	lésion
+T42	topographie 4957 4966	hépatique

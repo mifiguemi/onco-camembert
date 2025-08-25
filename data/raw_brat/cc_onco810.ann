@@ -1,0 +1,85 @@
+T14	topographie 903 910	annexes
+T1	morphologie 101 107	cancer
+T2	expression_CIM 101 130	cancer de l'ovaire et du sein
+T3	topographie 113 119	ovaire
+T4	topographie 126 130	sein
+T5	morphologie 461 467	tumeur
+T6	expression_CIM 461 477	tumeur ovarienne
+T7	topographie 468 477	ovarienne
+T8	morphologie 614 619	masse
+T9	expression_CIM 614 656	masse abdominale au niveau de l'hypogastre
+T10	topographie 620 630	abdominale
+T11	topographie 646 656	hypogastre
+T12	topographie 893 899	utérus
+T13	expression_CIM 893 941	utérus et annexes avec image d'une grosse lésion
+T15	morphologie 935 941	lésion
+T16	expression_CIM 1124 1129	masse
+T17	morphologie 1124 1129	masse
+T18	expression_CIM 1226 1231	masse
+T19	morphologie 1226 1231	masse
+T20	morphologie 1552 1557	masse
+T21	expression_CIM 1552 1567	masse pelvienne
+T22	topographie 1558 1567	pelvienne
+T23	morphologie 1776 1781	masse
+T24	expression_CIM 1776 1791	masse pelvienne
+T25	topographie 1782 1791	pelvienne
+T26	morphologie 1909 1914	masse
+T27	expression_CIM 1909 1924	masse pelvienne
+T28	topographie 1915 1924	pelvienne
+T29	morphologie 2242 2256	adénocarcinome
+T30	expression_CIM 2242 2286	adénocarcinome peu différencié dans l'ovaire
+T31	differenciation 2257 2272	peu différencié
+T32	topographie 2280 2286	ovaire
+T33	expression_CIM 2526 2533	lésions
+T34	morphologie 2526 2533	lésions
+T35	expression_CIM 2808 2870	carcinome hypercalcémique à petites cellules limité à l'ovaire
+T36	topographie 2864 2870	ovaire
+T37	morphologie 3842 3847;3873 3898	masse évocatrice d'une récidive
+T38	expression_CIM 3842 3898	masse au niveau du bassin très évocatrice d'une récidive
+T39	topographie 3861 3867	bassin
+T40	expression_CIM 4116 4121	masse
+T41	morphologie 4116 4121	masse
+T42	morphologie 4687 4692	masse
+T43	expression_CIM 4687 4702	masse pelvienne
+T44	topographie 4693 4702	pelvienne
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3;C56.9 8000/3
+#3	ICD-O T3	C56.9
+#4	ICD-O T4	C50.9
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C56.9 8000/1
+#7	ICD-O T7	C56.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C76.2 8000/1
+#10	ICD-O T10	C76.2
+#11	ICD-O T11	C76.2
+#12	ICD-O T12	C55.9
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	C76.3 8000/1
+#20	ICD-O T22	C76.3
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	C76.3 8000/1
+#23	ICD-O T25	C76.3
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C76.3 8000/1
+#26	ICD-O T28	C76.3
+#27	ICD-O T29	8140/3
+#28	ICD-O T30	C56.9 8140/33
+#29	ICD-O T31	3
+#30	ICD-O T32	C56.9
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	C56.9 8041/3
+#34	ICD-O T36	C56.9
+#35	ICD-O T37	8000/9
+#36	ICD-O T39	C76.3
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C76.3 8000/1
+#41	ICD-O T44	C76.3

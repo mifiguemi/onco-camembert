@@ -1,0 +1,21 @@
+T1	morphologie 97 111	adénocarcinome
+T3	topographie 118 146	jonction gastro-œsophagienne
+T4	morphologie 311 319	récidive
+T6	topographie 320 333	ganglionnaire
+T8	morphologie 834 839	masse
+T10	morphologie 1078 1085	lésions
+T11	morphologie 1133 1142	métastase
+T13	topographie 1143 1156	surrénalienne
+T14	morphologie 1179 1190	adénopathie
+T16	topographie 1191 1206	cava-thoracique
+T17	morphologie 1720 1734	Adénocarcinome
+T19	topographie 1741 1769	jonction gastro-œsophagienne
+T20	stadeTNM 1784 1790	pT3pN0
+T21	differenciation 1829 1831	G2
+T23	morphologie 1875 1883	stade IV
+T24	morphologie 1900 1908	récidive
+T26	topographie 1913 1935	ganglions lymphatiques
+T28	morphologie 2578 2605	stabilisation de la maladie
+T29	morphologie 2949 2974	progression de la maladie
+T31	topographie 2985 2995	pulmonaire
+T33	morphologie 3240 3265	progression de la maladie

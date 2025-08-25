@@ -1,0 +1,15 @@
+T1	morphologie 333 347	adénocarcinome
+T3	topographie 354 362	prostate
+T4	differenciation 366 379	Gleason 5 + 4
+T6	morphologie 385 402	maladie localisée
+T8	morphologie 689 711	récidive locorégionale
+T9	morphologie 717 729	infiltration
+T11	topographie 730 737	rectale
+T12	morphologie 741 749	atteinte
+T14	topographie 750 763	ganglionnaire
+T16	morphologie 820 863	carcinome neuroendocrine à petites cellules
+T17	morphologie 2705 2726	rechute locorégionale
+T19	topographie 2730 2743	ganglionnaire
+T20	morphologie 2753 2777	carcinome neuroendocrine
+T22	differenciation 2778 2791	indifférencié
+T23	topographie 2798 2806	prostate

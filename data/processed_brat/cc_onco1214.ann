@@ -1,0 +1,31 @@
+T1	morphologie 222 252	carcinome canalaire infiltrant
+T3	topographie 256 260	sein
+T4	morphologie 1044 1062	image ostéogénique
+T7	topographie 1105 1113	omoplate
+T9	morphologie 1142 1151	métastase
+T10	morphologie 1171 1177	lésion
+T13	morphologie 1274 1279	masse
+T15	topographie 1283 1292	tissu mou
+T16	morphologie 1407 1413	lésion
+T18	topographie 1414 1423	hépatique
+T20	morphologie 1443 1453	métastases
+T21	morphologie 1486 1492	lésion
+T23	topographie 1493 1502	hépatique
+T24	morphologie 1598 1604	lésion
+T26	topographie 1605 1632	osseuse au niveau du bassin
+T28	morphologie 1681 1690	carcinome
+T29	morphologie 1710 1719	carcinome
+T46	morphologie 1729 1737	primaire
+T31	topographie 1720 1728	mammaire
+T32	morphologie 1838 1848	Métastases
+T34	topographie 1849 1868	osseuses pelviennes
+T35	topographie 1870 1881	scapulaires
+T36	topographie 1885 1895	hépatiques
+T37	morphologie 1898 1905	origine
+T39	topographie 1906 1914	mammaire
+T40	morphologie 2121 2131	métastases
+T42	topographie 2155 2159	foie
+T43	morphologie 2341 2351	métastases
+T45	topographie 2375 2379	foie
+T6	topographie 1085 1092	hémipel
+T12	topographie 1217 1229	lame iliaque

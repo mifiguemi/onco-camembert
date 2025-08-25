@@ -1,0 +1,101 @@
+T54	topographie 5138 5155	paroi intestinale
+T24	topographie 2312 2321	présacrés
+T3	topographie 899 905	rectal
+T1	expression_CIM 867 872	masse
+T2	morphologie 867 872	masse
+T4	expression_CIM 899 916	rectal, une masse
+T5	morphologie 911 916	masse
+T6	morphologie 1325 1331	lésion
+T7	expression_CIM 1325 1373	lésion excroissante et mamelonnée dans le rectum
+T8	topographie 1367 1373	rectum
+T9	expression_CIM 1507 1532	adénocarcinome infiltrant
+T10	morphologie 1507 1532	adénocarcinome infiltrant
+T11	expression_CIM 1534 1537	ADC
+T12	morphologie 1534 1537	ADC
+T13	expression_CIM 1925 1931	foyers
+T14	morphologie 1925 1931	foyers
+T15	morphologie 1958 1970	infiltration
+T16	expression_CIM 1958 1998	infiltration superficielle de la graisse
+T17	topographie 1991 1998	graisse
+T18	expression_CIM 2087 2099	infiltration
+T19	morphologie 2087 2099	infiltration
+T20	expression_CIM 2234 2258	infiltration néoplasique
+T21	morphologie 2234 2258	infiltration néoplasique
+T22	morphologie 2289 2311	ganglions lymphatiques
+T23	expression_CIM 2289 2321	ganglions lymphatiques présacrés
+T25	expression_CIM 2525 2538	M1 à distance
+T26	morphologie 2525 2538	M1 à distance
+T27	morphologie 2552 2555	ADC
+T28	expression_CIM 2552 2580	ADC infiltrant du bas rectum
+T29	topographie 2574 2580	rectum
+T30	expression_CIM 3680 3689	néoplasme
+T31	morphologie 3680 3689	néoplasme
+T32	morphologie 3747 3756	néoplasie
+T33	expression_CIM 3747 3770	néoplasie du bas rectum
+T34	topographie 3764 3770	rectum
+T35	morphologie 4080 4092	infiltration
+T36	expression_CIM 4080 4125	infiltration claire du sphincter anal externe
+T38	morphologie 4435 4460	formations ganglionnaires
+T39	expression_CIM 4435 4540	formations ganglionnaires rétropéritonéales, la plus grande mesurant 12,4 mm dans la région para-aortique
+T40	topographie 4461 4478	rétropéritonéales
+T42	morphologie 4639 4648	malignité
+T43	expression_CIM 4639 4697	malignité dans ces ganglions lymphatiques rétropéritonéaux
+T44	topographie 4658 4697	ganglions lymphatiques rétropéritonéaux
+T45	morphologie 4785 4794	néoplasme
+T46	expression_CIM 4785 4808	néoplasme du bas rectum
+T47	topographie 4802 4808	rectum
+T48	morphologie 5073 5076	ADC
+T49	expression_CIM 5073 5108	ADC du bas rectum, bien différencié
+T50	topographie 5084 5090	rectum
+T51	differenciation 5092 5108	bien différencié
+T52	morphologie 5119 5131	infiltration
+T53	expression_CIM 5119 5155	infiltration de la paroi intestinale
+T55	morphologie 5202 5210	invasion
+T56	expression_CIM 5202 5221	invasion vasculaire
+T57	topographie 5211 5221	vasculaire
+T41	topographie 4520 4540	région para-aortique
+T37	topographie 4103 4125	sphincter anal externe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T5	8000/1
+#4	ICD-O T6	8000/1
+#5	ICD-O T7	C20.9 8000/1
+#6	ICD-O T8	C20.9
+#7	ICD-O T10	8140/3
+#8	ICD-O T11	8140/3
+#9	ICD-O T12	8140/3
+#10	ICD-O T13	8000/1
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	C49.9 8000/1
+#14	ICD-O T17	C49.9
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	tocheck
+#20	ICD-O T26	8000/6
+#21	ICD-O T27	8140/3
+#22	ICD-O T28	C20.9 8140/3
+#23	ICD-O T29	C20.9
+#24	ICD-O T30	8000/1
+#25	ICD-O T31	8000/1
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	C20.9 8000/1
+#28	ICD-O T34	C20.9
+#29	ICD-O T35	8000/1
+#30	ICD-O T38	tocheck
+#31	ICD-O T40	C48.0
+#32	ICD-O T42	tocheck
+#33	ICD-O T44	C77.2
+#34	ICD-O T45	8000/1
+#35	ICD-O T46	C20.9 8000/1
+#36	ICD-O T47	C20.9
+#37	ICD-O T48	8140/3
+#38	ICD-O T50	C20.9
+#39	ICD-O T51	1
+#40	ICD-O T52	8000/1
+#41	ICD-O T53	C26.0 8000/1
+#42	ICD-O T55	8000/1
+#43	ICD-O T56	C49.9 8000/1
+#44	ICD-O T57	C49.9

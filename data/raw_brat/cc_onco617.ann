@@ -1,0 +1,41 @@
+T3	topographie 2736 2767	intramédullaire au niveau de D3
+T11	topographie 3595 3608	ligne médiane
+T24	topographie 5748 5761	ligne médiane
+T1	morphologie 2719 2735	lésion nodulaire
+T2	expression_CIM 2719 2767	lésion nodulaire intramédullaire au niveau de D3
+T4	expression_CIM 3084 3103	pathologie tumorale
+T5	morphologie 3084 3103	pathologie tumorale
+T6	morphologie 3271 3277	lésion
+T7	expression_CIM 3271 3293	lésion intramédullaire
+T8	topographie 3278 3293	intramédullaire
+T9	morphologie 3575 3588	Gliome diffus
+T10	expression_CIM 3575 3654	Gliome diffus de la ligne médiane avec mutation H3-K27M du gène H3F3A (grade IV
+T12	differenciation 3646 3654	grade IV
+T13	morphologie 3803 3806	LOE
+T14	expression_CIM 3803 3822	LOE intramédullaire
+T15	topographie 3807 3822	intramédullaire
+T16	expression_CIM 4544 4550	lésion
+T17	morphologie 4544 4550	lésion
+T18	expression_CIM 4963 4969	lésion
+T19	morphologie 4963 4969	lésion
+T20	expression_CIM 5613 5619	lésion
+T21	morphologie 5613 5619	lésion
+T22	morphologie 5728 5741	gliome diffus
+T23	expression_CIM 5728 5761	gliome diffus de la ligne médiane
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C41.2 8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T8	C72.0
+#7	ICD-O T9	9380/3
+#8	ICD-O T12	4
+#9	ICD-O T13	8000/1
+#10	ICD-O T15	C72.0
+#11	ICD-O T16	8000/1
+#12	ICD-O T17	8000/1
+#13	ICD-O T18	8000/1
+#14	ICD-O T19	8000/1
+#15	ICD-O T20	8000/1
+#16	ICD-O T21	8000/1
+#17	ICD-O T22	9380/3

@@ -1,0 +1,84 @@
+T1	morphologie 606 611	masse
+T2	expression_CIM 606 630	masse dans le ventricule
+T3	topographie 620 630	ventricule
+T4	morphologie 802 807	masse
+T5	expression_CIM 802 817	masse cardiaque
+T6	topographie 808 817	cardiaque
+T7	expression_CIM 1638 1643	masse
+T8	morphologie 1638 1643	masse
+T9	morphologie 1959 1968	néoplasme
+T10	expression_CIM 1959 1987	néoplasme intraventriculaire
+T11	topographie 1969 1987	intraventriculaire
+T12	expression_CIM 2109 2114	masse
+T13	morphologie 2109 2114	masse
+T14	morphologie 2194 2199	masse
+T15	expression_CIM 2194 2227	masse dans le médiastin antérieur
+T16	topographie 2208 2227	médiastin antérieur
+T17	morphologie 2235 2245	Métastases
+T18	expression_CIM 2235 2257	Métastases pulmonaires
+T19	topographie 2246 2257	pulmonaires
+T20	morphologie 2270 2277	sarcome
+T21	expression_CIM 2270 2287	sarcome cardiaque
+T22	topographie 2278 2287	cardiaque
+T23	morphologie 2340 2346;2357 2372	tumeur mésenchymateuse
+T24	expression_CIM 2340 2372	tumeur cardiaque mésenchymateuse
+T25	topographie 2347 2356	cardiaque
+T26	expression_CIM 2547 2552	masse
+T27	morphologie 2547 2552	masse
+T28	expression_CIM 2873 2906	angiosarcome épithéloïde calcifié
+T29	morphologie 2873 2906	angiosarcome épithéloïde calcifié
+T30	morphologie 3090 3118	modèle miliaire métastatique
+T31	expression_CIM 3090 3129	modèle miliaire métastatique pulmonaire
+T32	topographie 3119 3129	pulmonaire
+T33	morphologie 3164 3176	angiosarcome
+T34	expression_CIM 3164 3186	angiosarcome cardiaque
+T35	topographie 3177 3186	cardiaque
+T36	expression_CIM 3190 3198	stade IV
+T37	morphologie 3190 3198	stade IV
+T38	morphologie 3200 3210	métastases
+T39	expression_CIM 3200 3222	métastases pulmonaires
+T40	topographie 3211 3222	pulmonaires
+T41	morphologie 3481 3488	maladie
+T42	expression_CIM 3481 3499	maladie pulmonaire
+T43	topographie 3489 3499	pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C71.5 8000/1
+#3	ICD-O T3	C71.5
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C38.0 8000/1
+#6	ICD-O T6	C38.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C38.0 8000/1
+#11	ICD-O T11	C38.0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C38.1 8000/1
+#16	ICD-O T16	C38.1
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C34.9 8000/6
+#19	ICD-O T19	C34.9
+#20	ICD-O T20	8800/3
+#21	ICD-O T21	C38.0 8800/3
+#22	ICD-O T22	C38.0
+#23	ICD-O T23	8800/1
+#24	ICD-O T24	C38.0 8800/1
+#25	ICD-O T25	C38.0
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8000/1
+#28	ICD-O T29	9120/3
+#29	ICD-O T30	8000/6
+#30	ICD-O T32	C34.9
+#31	ICD-O T33	9120/3
+#32	ICD-O T34	C38.0 9120/3
+#33	ICD-O T35	C38.0
+#34	ICD-O T36	8000/6
+#35	ICD-O T37	8000/6
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	C34.9 8000/6
+#38	ICD-O T40	C34.9
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	C34.9 8000/6
+#41	ICD-O T43	C34.9

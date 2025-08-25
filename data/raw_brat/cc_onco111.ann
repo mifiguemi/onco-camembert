@@ -1,0 +1,123 @@
+T1	morphologie 152 158	lésion
+T2	expression_CIM 152 166	lésion cutanée
+T3	topographie 159 166	cutanée
+T4	expression_CIM 315 326	adénopathie
+T5	morphologie 315 326	adénopathie
+T6	expression_CIM 394 400	lésion
+T7	morphologie 394 400	lésion
+T8	morphologie 562 569	nodules
+T9	expression_CIM 562 654	nodules de 4 mm dans le lobe moyen droit et de 3 mm dans le segment apical du lobe inférieur
+T10	topographie 586 596	lobe moyen
+T11	topographie 640 654	lobe inférieur
+T12	morphologie 800 811	Adénopathie
+T13	expression_CIM 800 828	Adénopathie rétropéritonéale
+T14	topographie 812 828	rétropéritonéale
+T15	morphologie 943 954	Adénopathie
+T16	expression_CIM 943 985	Adénopathie dans la chaîne iliaque externe
+T17	topographie 963 985	chaîne iliaque externe
+T18	morphologie 1020 1032	adénopathies
+T19	expression_CIM 1020 1043	adénopathies inguinales
+T20	topographie 1033 1043	inguinales
+T21	morphologie 1415 1422	nodules
+T22	expression_CIM 1415 1434	nodules pulmonaires
+T23	topographie 1423 1434	pulmonaires
+T24	expression_CIM 1497 1507	métastases
+T25	morphologie 1497 1507	métastases
+T26	expression_CIM 1654 1663	métastase
+T27	morphologie 1654 1663	métastase
+T28	morphologie 1665 1677	Adénopathies
+T29	expression_CIM 1665 1695	Adénopathies rétropéritonéales
+T30	topographie 1678 1695	rétropéritonéales
+T31	expression_CIM 1727 1757	Carcinome à cellules de Merkel
+T32	morphologie 1727 1757	Carcinome à cellules de Merkel
+T33	expression_CIM 1761 1769	stade IV
+T34	morphologie 1761 1769	stade IV
+T35	expression_CIM 1821 1827	lésion
+T36	morphologie 1821 1827	lésion
+T37	expression_CIM 1881 1908	tumeur à cellules de Merkel
+T38	morphologie 1881 1908	tumeur à cellules de Merkel
+T39	morphologie 1973 1985	adénopathies
+T40	expression_CIM 1973 2037	adénopathies rétropéritonéales et dans la chaîne iliaque externe
+T41	topographie 1986 2003	rétropéritonéales
+T42	topographie 2015 2037	chaîne iliaque externe
+T43	expression_CIM 2098 2116	stade métastatique
+T44	morphologie 2098 2116	stade métastatique
+T45	expression_CIM 2272 2279	lésions
+T46	morphologie 2272 2279	lésions
+T47	expression_CIM 2431 2458	tumeur à cellules de Merkel
+T48	morphologie 2431 2458	tumeur à cellules de Merkel
+T49	morphologie 2512 2524	adénopathies
+T50	expression_CIM 2512 2536	adénopathies abdominales
+T51	topographie 2525 2536	abdominales
+T52	expression_CIM 2893 2899	lésion
+T53	morphologie 2893 2899	lésion
+T54	expression_CIM 2931 2938	lésions
+T55	morphologie 2931 2938	lésions
+T56	expression_CIM 2999 3006	lésions
+T57	morphologie 2999 3006	lésions
+T58	expression_CIM 3136 3143	lésions
+T59	morphologie 3136 3143	lésions
+T60	morphologie 3159 3169	métastases
+T61	expression_CIM 3159 3223	métastases au niveau du poumon et une douteuse au niveau du foie
+T62	topographie 3183 3189	poumon
+T63	topographie 3219 3223	foie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C77.9 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C34.2
+#10	ICD-O T11	C34.3
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C77.2 8000/1
+#13	ICD-O T14	C48.0
+#14	ICD-O T15	8000/1
+#15	ICD-O T17	C77.5 
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C77.4 8000/1
+#18	ICD-O T20	C76.3
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C34.9 8000/1
+#21	ICD-O T23	C34.9
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C77.2 8000/1
+#28	ICD-O T30	C48.0
+#29	ICD-O T31	8247/3
+#30	ICD-O T32	8247/3
+#31	ICD-O T33	8000/6
+#32	ICD-O T34	8000/6
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	8247/3
+#36	ICD-O T38	8247/3
+#37	ICD-O T39	8000/1
+#38	ICD-O T41	C48.0
+#39	ICD-O T42	C77.5 
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8000/6
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	8000/1
+#44	ICD-O T47	8247/3
+#45	ICD-O T48	8247/3
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	C77.2 8000/1
+#48	ICD-O T51	C76.2
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	8000/1
+#52	ICD-O T55	8000/1
+#53	ICD-O T56	8000/1
+#54	ICD-O T57	8000/1
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	8000/1
+#57	ICD-O T60	8000/6
+#58	ICD-O T61	C22.0 8000/6;C34.9 8000/6
+#59	ICD-O T62	C34.9
+#60	ICD-O T63	C22.0

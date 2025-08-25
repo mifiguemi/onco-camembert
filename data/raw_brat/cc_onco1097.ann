@@ -1,0 +1,85 @@
+T1	morphologie 773 779	lipome
+T2	expression_CIM 773 788	lipome du flanc
+T3	topographie 783 788	flanc
+T4	morphologie 855 872	adénome tubulaire
+T5	expression_CIM 855 894	adénome tubulaire du côlon et du rectum
+T6	topographie 876 881	côlon
+T7	topographie 888 894	rectum
+T8	expression_CIM 1092 1104	adénopathies
+T9	morphologie 1092 1104	adénopathies
+T10	expression_CIM 1334 1339	masse
+T11	morphologie 1334 1339	masse
+T12	morphologie 2120 2148	lésion lytique, multiloculée
+T13	expression_CIM 2120 2160	lésion lytique, multiloculée en C6 et C7
+T14	topographie 2152 2160	C6 et C7
+T15	morphologie 2239 2263	lésion lytique expansive
+T16	expression_CIM 2239 2303	lésion lytique expansive au niveau des corps vertébraux C6 et C7
+T17	topographie 2278 2303	corps vertébraux C6 et C7
+T18	expression_CIM 3094 3100	tumeur
+T19	morphologie 3094 3100	tumeur
+T20	morphologie 3169 3175	tumeur
+T21	expression_CIM 3169 3190	tumeur cartilagineuse
+T22	topographie 3176 3190	cartilagineuse
+T23	expression_CIM 3209 3226	atteinte tumorale
+T24	morphologie 3209 3226	atteinte tumorale
+T25	expression_CIM 3234 3248	chondrosarcome
+T26	morphologie 3234 3248	chondrosarcome
+T27	morphologie 3308 3322	Chondrosarcome
+T28	expression_CIM 3308 3347	Chondrosarcome du corps vertébral C6-C7
+T29	topographie 3326 3347	corps vertébral C6-C7
+T30	morphologie 3573 3585	infiltration
+T31	expression_CIM 3573 3593	infiltration osseuse
+T32	topographie 3586 3593	osseuse
+T33	morphologie 3601 3615	chondrosarcome
+T34	expression_CIM 3601 3628	chondrosarcome de bas grade
+T35	differenciation 3619 3628	bas grade
+T36	expression_CIM 4019 4025	lésion
+T37	morphologie 4019 4025	lésion
+T38	expression_CIM 4537 4543	tumeur
+T39	morphologie 4537 4543	tumeur
+T40	expression_CIM 4634 4649	lésion tumorale
+T41	morphologie 4634 4649	lésion tumorale
+T42	morphologie 5039 5053	chondrosarcome
+T43	expression_CIM 5039 5066	chondrosarcome de bas grade
+T44	differenciation 5057 5066	bas grade
+#1	ICD-O T1	8850/0
+#2	ICD-O T3	C76.7
+#3	ICD-O T4	8211/0
+#4	ICD-O T5	C18.9 8211/0;C20.9 8211/0
+#5	ICD-O T6	C18.9
+#6	ICD-O T7	C20.9
+#7	ICD-O T8	C77.9 8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	tocheck
+#12	ICD-O T14	C41.2
+#13	ICD-O T15	tocheck
+#14	ICD-O T17	C41.2
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	C49.9 8000/1
+#19	ICD-O T22	C49.9
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	8000/6
+#22	ICD-O T25	9220/3
+#23	ICD-O T26	9220/3
+#24	ICD-O T27	9220/3
+#25	ICD-O T28	C41.2 9220/3
+#26	ICD-O T29	C41.2
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	C41.9 8000/1
+#29	ICD-O T32	C41.9
+#30	ICD-O T33	9220/3
+#31	ICD-O T34	9220/31
+#32	ICD-O T35	1
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	8000/3
+#38	ICD-O T41	8000/3
+#39	ICD-O T42	9220/3
+#40	ICD-O T43	9220/31
+#41	ICD-O T44	1

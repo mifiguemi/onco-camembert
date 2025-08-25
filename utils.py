@@ -45,25 +45,55 @@ def get_word_tag(start, end, annotations):
                 return ("B-" if start == s else "I-") + label
     return "O"
 
+
+
+
 def load_ner_dataframe(input_dir):
     """
-    Walk through all .txt/.ann pairs in input_dir, 
+    Walk through all .txt/.ann pairs in input_dir,
     split into sentences, and return a DataFrame with columns ["words","tags"].
+    If the .ann file is missing, it assumes there are no annotations.
     """
     rows = []
     txt_paths = glob.glob(os.path.join(input_dir, "*.txt"))
     for txt_path in tqdm(txt_paths, desc="Processing files"):
         text = open(txt_path, encoding="utf-8").read()
-        ann = parse_ann(txt_path[:-4] + ".ann")
+
+        ann_path = txt_path[:-4] + ".ann"
+        if os.path.exists(ann_path):
+            ann = parse_ann(ann_path)
+        else:
+            ann = []  # or {} depending on your parse_ann return type
+
         for sent in nlp(text).sents:
             words = [w.text for w in sent if not w.is_space]
             tags  = [get_word_tag(w.idx, w.idx + len(w), ann)
                      for w in sent if not w.is_space]
             if len(words) != len(tags):
-                # skip malformed
                 continue
             rows.append({"words": words, "tags": tags})
     return pd.DataFrame(rows)
+
+
+# def load_ner_dataframe(input_dir):
+#     """
+#     Walk through all .txt/.ann pairs in input_dir, 
+#     split into sentences, and return a DataFrame with columns ["words","tags"].
+#     """
+#     rows = []
+#     txt_paths = glob.glob(os.path.join(input_dir, "*.txt"))
+#     for txt_path in tqdm(txt_paths, desc="Processing files"):
+#         text = open(txt_path, encoding="utf-8").read()
+#         ann = parse_ann(txt_path[:-4] + ".ann")
+#         for sent in nlp(text).sents:
+#             words = [w.text for w in sent if not w.is_space]
+#             tags  = [get_word_tag(w.idx, w.idx + len(w), ann)
+#                      for w in sent if not w.is_space]
+#             if len(words) != len(tags):
+#                 # skip malformed
+#                 continue
+#             rows.append({"words": words, "tags": tags})
+#     return pd.DataFrame(rows)
 
 
 def split_and_save(df, output_dir, test_size=0.2, random_state=42):
@@ -169,7 +199,7 @@ def dataset_generator(data_files):
     if isinstance(data_files, pathlib.PurePath) : 
         data_files = str(data_files)
     dataset = load_dataset("csv", data_files=data_files)
-    label_list = ["O", "B-morphologie", "I-morphologie", "B-topographie", "I-topographie", "B-differenciation", "I-differenciation", "B-stade", "I-stade"]
+    label_list = ["O", "B-morphologie", "I-morphologie", "B-topographie", "I-topographie", "B-differenciation", "I-differenciation", "B-stadeTNM", "I-stadeTNM"]
     dataset = dataset.map(convert_string_to_list)
     dataset = dataset.map(lambda row: convert_tag_to_id(row, label_list))
     features = Features({

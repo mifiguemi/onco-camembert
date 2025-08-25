@@ -1,0 +1,63 @@
+T1	morphologie 176 182	cancer
+T3	topographie 186 190	sein
+T4	topographie 197 202	colon
+T5	morphologie 687 690	LOE
+T7	topographie 691 700	hépatique
+T9	morphologie 720 730	hémangiome
+T10	morphologie 738 744	lésion
+T12	topographie 745 755	annexielle
+T13	morphologie 809 818	formation
+T15	topographie 819 828	pelvienne
+T16	morphologie 1235 1254	pathologie tumorale
+T18	topographie 1255 1265	annexielle
+T19	morphologie 1308 1321	dissémination
+T21	topographie 1322 1333	péritonéale
+T22	morphologie 1342 1350	implants
+T24	topographie 1384 1398	intestin grêle
+T25	topographie 1402 1408	utérus
+T26	topographie 1416 1426	appendices
+T27	topographie 1431 1437	bassin
+T29	morphologie 1475 1481	tumeur
+T31	topographie 1489 1498	appendice
+T32	morphologie 1686 1700	adénocarcinome
+T88	morphologie 1716 1724	mucineux
+T34	topographie 1701 1715	appendiculaire
+T35	differenciation 1733 1749	bien différencié
+T36	morphologie 1937 1943	nodule
+T38	topographie 1944 1954	pulmonaire
+T39	topographie 1970 1984	lobe inférieur
+T40	morphologie 1998 2004	lésion
+T43	morphologie 2059 2071	infiltration
+T45	topographie 2078 2098	graisse mésentérique
+T46	topographie 2107 2113	bassin
+T47	morphologie 2129 2136	lésions
+T49	topographie 2137 2148	pulmonaires
+T50	topographie 2152 2162	hépatiques
+T51	morphologie 2369 2372	LOE
+T53	topographie 2373 2383	hépatiques
+T55	morphologie 2441 2448	lésions
+T56	morphologie 2819 2826	lésions
+T58	topographie 2827 2837	hépatiques
+T60	morphologie 2847 2867	hémangiome caverneux
+T61	morphologie 3043 3076	hyperplasie mésothéliale réactive
+T63	topographie 3085 3090	côlon
+T64	morphologie 3149 3155	nodule
+T66	topographie 3156 3166	pulmonaire
+T67	morphologie 3633 3645	adénopathies
+T69	topographie 3646 3654	hilaires
+T70	topographie 3658 3671	médiastinales
+T71	morphologie 3941 3953	Adénopathies
+T73	topographie 3975 3986	médiastinal
+T74	topographie 3988 4002	paratrachéales
+T75	topographie 4025 4039	prévasculaires
+T77	topographie 4082 4105	fenêtre aortopulmonaire
+T79	topographie 4133 4141	hilaires
+T81	morphologie 5313 5322	néoplasie
+T82	morphologie 5429 5445	lymphadénopathie
+T84	topographie 5454 5468	hile hépatique
+T85	morphologie 5720 5745	conglomérat adénopathique
+T87	topographie 5754 5768	hile hépatique
+T28	topographie 1444 1460	poche de Douglas
+T76	topographie 4052 4064	précarinales
+T42	topographie 2029 2049	segment VIII du foie
+T78	topographie 4107 4120	souscarinales

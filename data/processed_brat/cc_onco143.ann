@@ -1,0 +1,24 @@
+T1	morphologie 143 173	carcinome canalaire infiltrant
+T3	topographie 177 181	sein
+T4	morphologie 1335 1354	opacités nodulaires
+T6	topographie 1363 1377	lobe supérieur
+T7	morphologie 1564 1571	lésions
+T9	topographie 1572 1583	pulmonaires
+T11	morphologie 1614 1621	nodules
+T12	morphologie 1641 1653	adénopathies
+T14	topographie 1654 1669	péribronchiques
+T15	morphologie 1843 1854	hyperplasie
+T17	topographie 1855 1864	splénique
+T19	morphologie 1907 1914	nodules
+T21	topographie 1915 1926	pulmonaires
+T22	morphologie 1953 1967	adénocarcinome
+T24	topographie 1978 1986	mammaire
+T26	morphologie 2096 2146	leucémie myéloïde aiguë avec dysplasie trilinéaire
+T28	morphologie 2409 2412	LAM
+T30	morphologie 2883 2891	récidive
+T31	morphologie 2898 2904	tumeur
+T37	morphologie 2913 2925	métastatique
+T33	topographie 2905 2912	osseuse
+T34	morphologie 3320 3330	métastases
+T36	topographie 3331 3342	pulmonaires
+T18	topographie 1868 1878	médullaire

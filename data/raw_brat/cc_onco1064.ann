@@ -1,0 +1,107 @@
+T1	morphologie 317 322	Masse
+T2	expression_CIM 317 367	Masse testiculaire indolore au niveau du testicule
+T3	topographie 323 335	testiculaire
+T4	topographie 358 367	testicule
+T5	expression_CIM 480 510	tumeur germinale séminomateuse
+T6	morphologie 480 510	tumeur germinale séminomateuse
+T7	expression_CIM 512 516	SGGT
+T8	morphologie 512 516	SGGT
+T9	morphologie 1186 1192	lésion
+T10	expression_CIM 1186 1235	lésion d'extension intra-extradurale au niveau D6
+T11	morphologie 1195 1204	extension
+T12	topographie 1233 1235	D6
+T13	morphologie 1245 1253	atteinte
+T14	expression_CIM 1245 1283	atteinte sévère de la moelle épinière.
+T15	topographie 1267 1282	moelle épinière
+T16	morphologie 1893 1899	lésion
+T17	expression_CIM 1893 1952	lésion extramédullaire intradurale-extradurale au niveau D6
+T19	morphologie 1958 1966	atteinte
+T20	expression_CIM 1958 1977	atteinte médullaire
+T21	topographie 1967 1977	médullaire
+T22	morphologie 2126 2132	Tumeur
+T23	expression_CIM 2126 2172	Tumeur extramédullaire intra-extradurale D6-D7
+T25	morphologie 2208 2224;2238 2251	tumeur germinale séminomateuse
+T26	expression_CIM 2208 2251	tumeur germinale testiculaire séminomateuse
+T27	topographie 2225 2237	testiculaire
+T28	morphologie 2454 2460	lésion
+T29	expression_CIM 2454 2470	lésion épidurale
+T30	topographie 2461 2470	épidurale
+T31	morphologie 2476 2484	atteinte
+T32	expression_CIM 2476 2506	atteinte de la moelle épinière
+T33	topographie 2491 2506	moelle épinière
+T34	morphologie 2831 2840	métastase
+T35	expression_CIM 2831 2877	métastase extramédullaire de la région dorsale
+T38	expression_CIM 2883 2891	séminome
+T39	morphologie 2883 2891	séminome
+T40	expression_CIM 2957 2978	cellules néoplasiques
+T41	morphologie 2957 2978	cellules néoplasiques
+T42	morphologie 3712 3719	lésions
+T43	expression_CIM 3712 3935	lésions occupant l'espace (LOE) de nature probablement métastatique avec une composante hématique dans la région pinéale, le cervelet avec extension au IVe ventricule et au niveau épidural paracentral droit C4-C5 et dorsal.
+T45	topographie 3837 3845	cervelet
+T46	morphologie 3851 3860	extension
+T47	topographie 3868 3878	ventricule
+T48	topographie 3892 3934	épidural paracentral droit C4-C5 et dorsal
+T49	morphologie 4372 4378	lésion
+T50	expression_CIM 4372 4391	lésion cérébelleuse
+T51	topographie 4379 4391	cérébelleuse
+T52	morphologie 4430 4437	lésions
+T53	expression_CIM 4430 4460	lésions pinéales et cervicales
+T54	topographie 4438 4446	pinéales
+T55	topographie 4450 4460	cervicales
+T56	morphologie 4514 4520	lésion
+T57	expression_CIM 4514 4528	lésion dorsale
+T58	topographie 4521 4528	dorsale
+T36	topographie 2841 2856	extramédullaire
+T18	topographie 1900 1952	extramédullaire intradurale-extradurale au niveau D6
+T24	topographie 2133 2172	extramédullaire intra-extradurale D6-D7
+T37	topographie 2863 2877	région dorsale
+T44	topographie 3818 3832	région pinéale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C62.9 8000/1
+#3	ICD-O T3	C62.9
+#4	ICD-O T4	C62.9
+#5	ICD-O T5	9065/3
+#6	ICD-O T6	9065/3
+#7	ICD-O T7	9061/3
+#8	ICD-O T8	9061/3
+#9	ICD-O T9	8000/1
+#10	ICD-O T11	8000/9
+#11	ICD-O T12	C41.2
+#12	ICD-O T13	8000/9
+#13	ICD-O T15	C72.0
+#14	ICD-O T16	8000/1
+#15	ICD-O T19	8000/6
+#16	ICD-O T20	C72.0 8000/6
+#17	ICD-O T21	C72.0
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	C41.2 8000/1
+#20	ICD-O T25	9065/3
+#21	ICD-O T26	C62.9 9065/3
+#22	ICD-O T27	C62.9
+#23	ICD-O T28	8000/1
+#24	ICD-O T29	C72.9 8000/1
+#25	ICD-O T30	C72.9
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	C72.0 8000/1
+#28	ICD-O T33	C72.0
+#29	ICD-O T34	8000/6
+#30	ICD-O T35	C76.7 8000/6
+#31	ICD-O T38	9061/3
+#32	ICD-O T39	9061/3
+#33	ICD-O T40	8000/1
+#34	ICD-O T41	8000/1
+#35	ICD-O T42	8000/1
+#36	ICD-O T45	C71.6 
+#37	ICD-O T46	8000/9
+#38	ICD-O T47	C71.5
+#39	ICD-O T48	C72.9
+#40	ICD-O T49	8000/1
+#41	ICD-O T50	C71.6 8000/1
+#42	ICD-O T51	C71.6
+#43	ICD-O T52	8000/1
+#44	ICD-O T53	C75.3 8000/1;C76.0 8000/1
+#45	ICD-O T54	C75.3
+#46	ICD-O T55	C76.0
+#47	ICD-O T56	8000/1
+#48	ICD-O T57	C76.7 8000/1
+#49	ICD-O T58	C76.7

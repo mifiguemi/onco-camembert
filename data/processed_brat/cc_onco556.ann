@@ -1,0 +1,66 @@
+T12	topographie 1547 1562	latérocervicale
+T2	morphologie 356 391	carcinome urothélial non infiltrant
+T3	morphologie 680 685	masse
+T5	topographie 703 717	lobe supérieur
+T6	morphologie 729 737	invasion
+T8	topographie 744 760	paroi thoracique
+T9	morphologie 1507 1518	adénopathie
+T13	topographie 1566 1582	sus-claviculaire
+T15	morphologie 1827 1833	masses
+T16	morphologie 2472 2477	masse
+T18	topographie 2486 2500	lobe supérieur
+T20	morphologie 2525 2537	infiltration
+T21	morphologie 2601 2607	lésion
+T23	topographie 2608 2615	osseuse
+T25	morphologie 2626 2638	infiltration
+T26	morphologie 2856 2865	carcinome
+T98	morphologie 2877 2918	non à petites cellules à grandes cellules
+T28	topographie 2866 2876	pulmonaire
+T29	differenciation 2919 2934	peu différencié
+T30	morphologie 2955 2969	adénocarcinome
+T32	differenciation 2970 2985	peu différencié
+T34	morphologie 3086 3104	maladie secondaire
+T35	morphologie 3130 3139	Carcinome
+T99	morphologie 3151 3169	à grandes cellules
+T37	topographie 3140 3150	pulmonaire
+T38	differenciation 3170 3185	peu différencié
+T39	morphologie 3213 3225	infiltration
+T41	topographie 3232 3248	paroi thoracique
+T42	morphologie 3958 3976	progression locale
+T44	topographie 3977 3987	pulmonaire
+T45	topographie 3991 4014	ganglionnaire axillaire
+T47	morphologie 4303 4318	tumeur primaire
+T48	morphologie 4922 4929	lésions
+T50	topographie 4940 4952	pancréatique
+T51	topographie 4954 4962	duodénal
+T52	topographie 4964 4969	rénal
+T53	topographie 4973 4984	surrénalien
+T54	morphologie 4999 5011	adénopathies
+T56	topographie 5012 5029	péripancréatiques
+T57	morphologie 5091 5097	lésion
+T59	topographie 5104 5120	tête du pancréas
+T60	topographie 5127 5135	duodénum
+T61	morphologie 5198 5207	métastase
+T63	topographie 5218 5228	pulmonaire
+T65	morphologie 5336 5349	dissémination
+T66	morphologie 5825 5832	lésions
+T68	topographie 5833 5840	rénales
+T69	topographie 5844 5858	surrénaliennes
+T71	morphologie 6060 6083	stabilité de la maladie
+T72	morphologie 6368 6375	lésions
+T74	topographie 6376 6386	hépatiques
+T75	morphologie 6541 6549	atteinte
+T77	topographie 6550 6559	hépatique
+T78	morphologie 6636 6646	métastases
+T80	topographie 6647 6657	hépatiques
+T82	morphologie 6778 6784	lésion
+T84	morphologie 7067 7073	lésion
+T86	morphologie 7155 7172	cellules malignes
+T88	morphologie 7227 7251	progression de la tumeur
+T89	morphologie 7412 7419	lésions
+T91	topographie 7420 7430	hépatiques
+T92	morphologie 7541 7548	lésions
+T94	topographie 7549 7559	hépatiques
+T95	morphologie 7834 7841	lésions
+T97	topographie 7842 7853	abdominales
+T11	topographie 1528 1545	sous-mandibulaire

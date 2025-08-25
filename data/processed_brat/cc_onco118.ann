@@ -1,0 +1,31 @@
+T1	morphologie 717 724	lésions
+T46	morphologie 737 760	occupant l'espace (LOE)
+T3	topographie 769 773	foie
+T5	morphologie 878 887	métastase
+T7	morphologie 891 912	tumeur neuroendocrine
+T8	topographie 995 999	foie
+T10	morphologie 1000 1012	métastatique
+T12	morphologie 1022 1028	tumeur
+T13	morphologie 1404 1407	LOE
+T15	topographie 1431 1448	corps du pancréas
+T16	morphologie 1535 1559	carcinome neuroendocrine
+T18	differenciation 1560 1576	bien différencié
+T20	morphologie 1750 1766	Insulinome malin
+T22	morphologie 1770 1778	stade IV
+T23	morphologie 1780 1790	métastases
+T25	topographie 1791 1799	osseuses
+T26	topographie 1801 1811	hépatiques
+T27	morphologie 2096 2106	métastases
+T29	topographie 2107 2115	osseuses
+T30	morphologie 2147 2157	insulinome
+T47	morphologie 2171 2176	malin
+T32	topographie 2158 2170	pancréatique
+T33	morphologie 2182 2192	métastases
+T35	topographie 2193 2203	hépatiques
+T36	topographie 2207 2215	osseuses
+T37	morphologie 2599 2610	progression
+T39	topographie 2611 2618	osseuse
+T40	morphologie 3247 3258	progression
+T42	topographie 3285 3289	foie
+T43	morphologie 3472 3483	progression
+T45	topographie 3484 3493	hépatique

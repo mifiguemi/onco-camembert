@@ -1,0 +1,44 @@
+T2	morphologie 191 197	lésion
+T3	morphologie 503 517	adénocarcinome
+T5	topographie 521 527	rectum
+T7	morphologie 635 647	adénopathies
+T8	morphologie 972 984	adénopathies
+T10	topographie 1038 1057	graisse mésorectale
+T11	morphologie 1198 1212	adénocarcinome
+T13	stadeTNM 1224 1231	cT3N+M0
+T14	topographie 1235 1241	rectum
+T16	morphologie 1869 1882	foyer tumoral
+T17	morphologie 1916 1930	adénocarcinome
+T19	topographie 1934 1940	rectum
+T21	morphologie 1987 1993	tumeur
+T23	morphologie 2527 2535	récidive
+T24	morphologie 2578 2586	atteinte
+T28	morphologie 2730 2736	tumeur
+T29	morphologie 3500 3507	lésions
+T32	morphologie 3821 3828	lésions
+T35	morphologie 4044 4051	lésions
+T39	morphologie 4225 4237	adénopathies
+T40	morphologie 4605 4611	tumeur
+T42	topographie 4612 4619	cutanée
+T43	morphologie 4853 4865	adénopathies
+T45	topographie 4866 4896	supra et infradiaphragmatiques
+T46	morphologie 5285 5294	métastase
+T48	topographie 5295 5302	cutanée
+T49	morphologie 5308 5322	adénocarcinome
+T51	topographie 5323 5329	rectal
+T52	morphologie 5335 5343	invasion
+T54	topographie 5344 5354	vasculaire
+T55	topographie 5358 5369	lymphatique
+T56	morphologie 5488 5502	Adénocarcinome
+T58	topographie 5506 5512	rectum
+T59	morphologie 5646 5657	Progression
+T61	topographie 5662 5684	ganglions lymphatiques
+T62	morphologie 5753 5763	Métastases
+T64	topographie 5764 5772	cutanées
+T65	morphologie 5932 5942	métastases
+T67	topographie 5943 5951	cutanées
+T37	topographie 4052 4060	cutanées
+T68	topographie 4097 4120	sur la paroi thoracique
+T26	topographie 2587 2659	ganglionnaire latérocervicale, médiastinale, rétropéritonéale et iliaque
+T34	topographie 3880 3914	région antéro-interne de la cuisse
+T31	topographie 3544 3559	région pubienne

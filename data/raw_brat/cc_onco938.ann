@@ -1,0 +1,135 @@
+T1	morphologie 804 813	captation
+T2	expression_CIM 804 861	captation au niveau du colon situé dans l'angle hépatique
+T3	topographie 827 832	colon
+T4	topographie 846 861	angle hépatique
+T5	expression_CIM 875 881	tumeur
+T6	morphologie 875 881	tumeur
+T7	expression_CIM 1023 1030	polypes
+T8	morphologie 1023 1030	polypes
+T9	expression_CIM 1113 1127	tumeur maligne
+T10	morphologie 1113 1127	tumeur maligne
+T11	morphologie 1271 1285	adénocarcinome
+T12	expression_CIM 1271 1301	adénocarcinome peu différencié
+T13	differenciation 1286 1301	peu différencié
+T14	morphologie 1445 1458	carcinomatose
+T15	expression_CIM 1445 1470	carcinomatose péritonéale
+T16	topographie 1459 1470	péritonéale
+T17	morphologie 1596 1610	adénocarcinome
+T18	expression_CIM 1596 1620	adénocarcinome gastrique
+T19	topographie 1611 1620	gastrique
+T20	expression_CIM 1672 1679	polypes
+T21	morphologie 1672 1679	polypes
+T22	morphologie 1967 1981	Adénocarcinome
+T23	expression_CIM 1967 1991	Adénocarcinome gastrique
+T24	topographie 1982 1991	gastrique
+T25	morphologie 2034 2040	cancer
+T26	expression_CIM 2034 2049	cancer du côlon
+T27	topographie 2044 2049	côlon
+T28	morphologie 2451 2462	progression
+T29	expression_CIM 2451 2470	progression osseuse
+T30	topographie 2463 2470	osseuse
+T31	morphologie 2676 2686	métastases
+T32	expression_CIM 2676 2695	métastases osseuses
+T33	topographie 2687 2695	osseuses
+T34	morphologie 2736 2746	métastases
+T35	expression_CIM 2736 2757	métastases viscérales
+T36	topographie 2747 2757	viscérales
+T37	expression_CIM 2802 2812	métastases
+T38	morphologie 2802 2812	métastases
+T39	morphologie 2894 2908	adénocarcinome
+T40	expression_CIM 2894 2918	adénocarcinome gastrique
+T41	topographie 2909 2918	gastrique
+T42	morphologie 3017 3024	lésions
+T43	expression_CIM 3017 3033	lésions osseuses
+T44	topographie 3025 3033	osseuses
+T45	expression_CIM 3115 3132	adénomes dentelés
+T46	morphologie 3115 3132	adénomes dentelés
+T47	expression_CIM 3214 3221	tumeurs
+T48	morphologie 3214 3221	tumeurs
+T49	expression_CIM 3266 3275	métastase
+T50	morphologie 3266 3275	métastase
+T51	morphologie 3279 3288	carcinome
+T52	expression_CIM 3279 3310	carcinome d'origine prostatique
+T53	topographie 3299 3310	prostatique
+T54	expression_CIM 3410 3438	tumeur métastatique primaire
+T55	morphologie 3410 3438	tumeur métastatique primaire
+T56	morphologie 3446 3452	cancer
+T57	expression_CIM 3446 3467	cancer de la prostate
+T58	topographie 3459 3467	prostate
+T59	morphologie 3527 3541	adénocarcinome
+T60	expression_CIM 3527 3551	adénocarcinome gastrique
+T61	topographie 3542 3551	gastrique
+T62	expression_CIM 3579 3585	tumeur
+T63	morphologie 3579 3585	tumeur
+T64	morphologie 3868 3874	cancer
+T65	expression_CIM 3868 3902	cancer métastatique de la prostate
+T66	topographie 3894 3902	prostate
+T67	morphologie 4018 4025	lésions
+T68	expression_CIM 4018 4034	lésions osseuses
+T69	topographie 4026 4034	osseuses
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C18
+#3	ICD-O T4	C18.3 
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T8	8210/1
+#7	ICD-O T9	8000/3
+#8	ICD-O T10	8000/3
+#9	ICD-O T11	8140/3
+#10	ICD-O T12	8140/33
+#11	ICD-O T13	3
+#12	ICD-O T14	8010/9
+#13	ICD-O T15	C48.2 8010/9
+#14	ICD-O T16	C48.2
+#15	ICD-O T17	8140/3
+#16	ICD-O T18	C16.9 8140/3
+#17	ICD-O T19	C16.9
+#18	ICD-O T21	8210/1
+#19	ICD-O T22	8140/3
+#20	ICD-O T23	C16.9 8140/3
+#21	ICD-O T24	C16.9
+#22	ICD-O T25	8000/3
+#23	ICD-O T26	C18.9 8000/3
+#24	ICD-O T27	C18.9
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	C41.9 8000/6
+#27	ICD-O T30	C41.9
+#28	ICD-O T31	8000/6
+#29	ICD-O T32	C41.9 8000/6
+#30	ICD-O T33	C41.9
+#31	ICD-O T34	8000/6
+#32	ICD-O T35	C49.4 8000/6
+#33	ICD-O T36	C49.4
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8000/6
+#36	ICD-O T39	8140/3
+#37	ICD-O T40	C16.9 8140/3
+#38	ICD-O T41	C16.9
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C41.9 8000/1
+#41	ICD-O T44	C41.9
+#42	ICD-O T45	8213/0
+#43	ICD-O T46	8213/0
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	8000/1
+#46	ICD-O T49	8000/6
+#47	ICD-O T50	8000/6
+#48	ICD-O T51	8010/3
+#49	ICD-O T52	C61.9 8010/3
+#50	ICD-O T53	C61.9
+#51	ICD-O T54	8000/3
+#52	ICD-O T55	tocheck
+#53	ICD-O T56	8000/3
+#54	ICD-O T57	C61.9 8000/3
+#55	ICD-O T58	C61.9
+#56	ICD-O T59	8140/3
+#57	ICD-O T60	C16.9 8140/3
+#58	ICD-O T61	C16.9
+#59	ICD-O T62	8000/1
+#60	ICD-O T63	8000/1
+#61	ICD-O T64	8000/3
+#62	ICD-O T65	C61.9 8000/3
+#63	ICD-O T66	C61.9
+#64	ICD-O T67	8000/1
+#65	ICD-O T68	C41.9 8000/1
+#66	ICD-O T69	C41.9

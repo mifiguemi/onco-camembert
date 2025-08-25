@@ -1,0 +1,36 @@
+T10	topographie 1046 1072	médiastinale paracardiaque
+T1	morphologie 457 468	adénopathie
+T3	topographie 469 478	cervicale
+T4	topographie 482 498	sus-claviculaire
+T5	morphologie 963 968	masse
+T7	topographie 969 981	médiastinale
+T8	morphologie 1040 1045	masse
+T11	morphologie 1196 1202	nodule
+T15	morphologie 1448 1463	lésions focales
+T16	morphologie 1671 1693	ganglions lymphatiques
+T18	topographie 1694 1707	mésentériques
+T19	topographie 1711 1727	rétropéritonéaux
+T20	morphologie 1893 1899	lésion
+T22	topographie 1900 1912	médiastinale
+T24	morphologie 2012 2018	lésion
+T25	morphologie 2069 2076	thymome
+T56	morphologie 2109 2119	de type B2
+T28	morphologie 2157 2169	infiltration
+T29	morphologie 2578 2624	augmentation diffuse du métabolisme du glucose
+T32	morphologie 2793 2811	captation homogène
+T34	topographie 2820 2840	parenchyme hépatique
+T36	morphologie 2846 2870	foyers hypermétaboliques
+T37	morphologie 2890 2933	augmentation diffuse de la captation du FDG
+T39	topographie 2973 2987	moelle osseuse
+T40	morphologie 3137 3172	leucémie myélomonocytaire chronique
+T57	morphologie 3180 3204	de type myélodysplasique
+T42	morphologie 3174 3178	LMCM
+T44	morphologie 3231 3237	LMCM-1
+T46	morphologie 3420 3438	Thymome de type B2
+T47	morphologie 3491 3526	Leucémie myélomonocytaire chronique
+T49	morphologie 3528 3532	LMMC
+T51	morphologie 3563 3570	thymome
+T53	morphologie 3610 3616	tumeur
+T55	morphologie 3774 3809	leucémie myélomonocytaire chronique
+T31	topographie 2633 2661	région thoracique supérieure
+T13	topographie 1203 1246	sous-pleural de 5 mm dans le lobe inférieur

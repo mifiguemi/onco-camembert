@@ -1,0 +1,48 @@
+T68	topographie 3643 3660	iliaques communes
+T20	topographie 1779 1796	iliaques externes
+T2	morphologie 691 697	masses
+T3	morphologie 1019 1024	masse
+T5	topographie 1077 1083	bassin
+T7	morphologie 1310 1316	tumeur
+T9	morphologie 1457 1463	tumeur
+T10	morphologie 1646 1652	masses
+T12	topographie 1653 1663	ovariennes
+T13	topographie 1664 1674	pelviennes
+T14	morphologie 1717 1723	masses
+T16	topographie 1724 1736	péritonéales
+T17	topographie 1745 1750	flanc
+T18	morphologie 1766 1778	adénopathies
+T21	morphologie 2085 2091	tumeur
+T23	topographie 2092 2101	ovarienne
+T27	morphologie 2150 2194	tumeur juvénile des cellules de la granulosa
+T28	morphologie 2196 2203	Implant
+T30	topographie 2212 2223	fond utérin
+T32	morphologie 2232 2249	foyer néoplasique
+T33	morphologie 2265 2284	Implant néoplasique
+T35	topographie 2309 2324	col de l'utérus
+T36	morphologie 2365 2398	tumeur à cellules de la granulosa
+T73	morphologie 2409 2417	juvénile
+T38	topographie 2399 2408	ovarienne
+T40	morphologie 2430 2433	GCT
+T42	morphologie 2778 2803	progression de la maladie
+T43	morphologie 2832 2842	métastases
+T45	topographie 2851 2855	sein
+T46	morphologie 2867 2877	métastases
+T48	topographie 2878 2886	cutanées
+T49	topographie 2895 2899	bras
+T50	morphologie 2910 2920	métastases
+T52	topographie 2921 2931	spléniques
+T53	morphologie 2941 2946	masse
+T55	topographie 2947 2956	périnéale
+T57	morphologie 3477 3502	progression de la maladie
+T58	morphologie 3512 3520	atteinte
+T60	topographie 3521 3530	hépatique
+T61	morphologie 3566 3576	métastases
+T63	topographie 3577 3587	spléniques
+T64	morphologie 3593 3605	adénopathies
+T66	topographie 3606 3623	rétropéritonéales
+T67	topographie 3625 3639	para-aortiques
+T69	morphologie 3692 3712	foyers métastatiques
+T71	topographie 3721 3725	peau
+T72	topographie 3732 3760	tissu cellulaire sous-cutané
+T25	morphologie 2113 2128	non épithéliale

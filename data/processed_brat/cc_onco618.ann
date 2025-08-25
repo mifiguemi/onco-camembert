@@ -1,0 +1,17 @@
+T2	morphologie 59 75	tumeur germinale
+T4	morphologie 369 375	tumeur
+T5	morphologie 468 477	néoplasie
+T7	topographie 478 485	rectale
+T9	morphologie 548 554	lésion
+T10	morphologie 606 615	néoplasie
+T12	topographie 616 623	rectale
+T13	morphologie 765 777	infiltration
+T15	topographie 778 788	graisseuse
+T16	morphologie 805 817	adénopathies
+T18	topographie 818 830	périrectales
+T19	morphologie 846 858	adénopathies
+T21	topographie 859 876	rétropéritonéales
+T23	morphologie 972 994	atteinte adénopathique
+T24	morphologie 1052 1057	masse
+T26	topographie 1058 1065	rectale
+T28	morphologie 1084 1099	cellule maligne

@@ -1,0 +1,23 @@
+T1	morphologie 1337 1342	masse
+T3	topographie 1343 1355	médiastinale
+T4	morphologie 1365 1378	dissémination
+T6	topographie 1379 1389	pulmonaire
+T7	topographie 1391 1400	hépatique
+T8	topographie 1404 1410	rénale
+T10	morphologie 1477 1495	néoplasme germinal
+T12	morphologie 1980 1998	néoplasme germinal
+T13	morphologie 2644 2650	tumeur
+T15	topographie 2651 2674	médiastinale antérieure
+T16	morphologie 2745 2760	choriocarcinome
+T33	morphologie 2773 2781	primaire
+T18	topographie 2761 2772	médiastinal
+T19	morphologie 2834 2846	infiltration
+T21	topographie 2850 2859	péricarde
+T22	topographie 2866 2886	lobe moyen du poumon
+T23	morphologie 2937 2953	nodules tumoraux
+T25	topographie 2954 2965	pulmonaires
+T26	morphologie 3041 3048	nodules
+T28	topographie 3049 3059	hépatiques
+T29	morphologie 3061 3068	nodules
+T31	topographie 3085 3089	rein
+T32	topographie 3108 3117	splénique

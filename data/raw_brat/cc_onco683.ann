@@ -1,0 +1,233 @@
+T37	topographie 4488 4495	jéjunal
+T1	morphologie 104 109	nævus
+T2	expression_CIM 104 140	nævus ulcéré sur le membre supérieur
+T3	topographie 124 140	membre supérieur
+T4	expression_CIM 197 203	naevus
+T5	morphologie 197 203	naevus
+T6	expression_CIM 293 301	mélanome
+T7	morphologie 293 301	mélanome
+T8	expression_CIM 430 442	infiltration
+T9	morphologie 430 442	infiltration
+T10	morphologie 483 491	invasion
+T11	expression_CIM 483 517	invasion vasculaire ou périneurale
+T12	topographie 492 502	vasculaire
+T13	topographie 506 517	périneurale
+T14	expression_CIM 849 868	maladie oncologique
+T15	morphologie 849 868	maladie oncologique
+T16	expression_CIM 885 892	lésions
+T17	morphologie 885 892	lésions
+T18	expression_CIM 1441 1446	masse
+T19	morphologie 1441 1446	masse
+T20	morphologie 3709 3714	masse
+T21	expression_CIM 3709 3736	masse dépendant de l'ovaire
+T22	topographie 3730 3736	ovaire
+T23	morphologie 3783 3796	incidentalome
+T24	expression_CIM 3783 3808	incidentalome surrénalien
+T25	topographie 3797 3808	surrénalien
+T26	morphologie 4138 4154	lésion polypoïde
+T27	expression_CIM 4138 4175	lésion polypoïde dépendant du jéjunum
+T28	topographie 4168 4175	jéjunum
+T29	morphologie 4190 4206	lésion polypoïde
+T30	expression_CIM 4190 4249	lésion polypoïde a également été visualisée dans le jéjunum
+T31	topographie 4242 4249	jéjunum
+T32	morphologie 4296 4308	adénopathies
+T33	expression_CIM 4296 4326	adénopathies dans le mésentère
+T34	topographie 4317 4326	mésentère
+T35	morphologie 4481 4487	polype
+T36	expression_CIM 4481 4495	polype jéjunal
+T38	morphologie 4502 4510	tératome
+T39	expression_CIM 4502 4518	tératome ovarien
+T40	topographie 4511 4518	ovarien
+T41	morphologie 4535 4548	carcinomatose
+T42	expression_CIM 4535 4560	carcinomatose péritonéale
+T43	topographie 4549 4560	péritonéale
+T44	expression_CIM 4586 4592	lésion
+T45	morphologie 4586 4592	lésion
+T46	morphologie 4949 4954	masse
+T47	expression_CIM 4949 4987	masse dans le lobe supérieur du poumon
+T48	topographie 4963 4987	lobe supérieur du poumon
+T49	morphologie 5105 5111	lésion
+T50	expression_CIM 5105 5125	lésion surrénalienne
+T51	topographie 5112 5125	surrénalienne
+T52	expression_CIM 5243 5248	masse
+T53	morphologie 5243 5248	masse
+T54	expression_CIM 5374 5384	métastases
+T55	morphologie 5374 5384	métastases
+T56	expression_CIM 5388 5396	mélanome
+T57	morphologie 5388 5396	mélanome
+T58	morphologie 5426 5433	lésions
+T59	expression_CIM 5426 5446	lésions intestinales
+T60	topographie 5434 5446	intestinales
+T61	morphologie 5493 5503	métastases
+T62	expression_CIM 5493 5537	métastases de mélanome dans l'intestin grêle
+T63	expression_CIM 5507 5515	mélanome
+T64	morphologie 5507 5515	mélanome
+T65	topographie 5523 5537	intestin grêle
+T66	morphologie 5594 5602	invasion
+T67	expression_CIM 5594 5613	invasion vasculaire
+T68	topographie 5603 5613	vasculaire
+T69	morphologie 5766 5772	lésion
+T70	expression_CIM 5766 5782	lésion ovarienne
+T71	topographie 5773 5782	ovarienne
+T72	expression_CIM 5816 5840	tératome kystique mature
+T73	morphologie 5816 5840	tératome kystique mature
+T74	expression_CIM 5853 5861	Mélanome
+T75	morphologie 5853 5861	Mélanome
+T76	morphologie 5902 5912	métastases
+T77	expression_CIM 5902 5956	métastases pulmonaires, surrénaliennes et intestinales
+T78	topographie 5913 5924	pulmonaires
+T79	topographie 5926 5940	surrénaliennes
+T80	topographie 5944 5956	intestinales
+T81	morphologie 6770 6776	lésion
+T82	expression_CIM 6770 6790	lésion surrénalienne
+T83	topographie 6777 6790	surrénalienne
+T84	morphologie 6800 6805	masse
+T85	expression_CIM 6800 6820	masse dans le poumon
+T86	topographie 6814 6820	poumon
+T87	expression_CIM 6864 6889	progression de la maladie
+T88	morphologie 6864 6889	progression de la maladie
+T89	morphologie 6967 6973	lésion
+T90	expression_CIM 6967 6984	lésion pulmonaire
+T91	topographie 6974 6984	pulmonaire
+T92	morphologie 7354 7360	lésion
+T93	expression_CIM 7354 7371	lésion pulmonaire
+T94	topographie 7361 7371	pulmonaire
+T95	expression_CIM 7403 7422	maladie néoplasique
+T96	morphologie 7403 7422	maladie néoplasique
+T97	morphologie 7571 7576	masse
+T98	expression_CIM 7571 7587	masse pulmonaire
+T99	topographie 7577 7587	pulmonaire
+T100	morphologie 7942 7947	masse
+T101	expression_CIM 7942 7970	masse dans le lobe supérieur
+T102	topographie 7956 7970	lobe supérieur
+T103	morphologie 8210 8216	lésion
+T104	expression_CIM 8210 8227	lésion pulmonaire
+T105	topographie 8217 8227	pulmonaire
+T106	morphologie 8289 8295	lésion
+T107	expression_CIM 8289 8309	lésion surrénalienne
+T108	topographie 8296 8309	surrénalienne
+T109	morphologie 8667 8673	lésion
+T110	expression_CIM 8667 8698	lésion dans la glande surrénale
+T111	topographie 8682 8698	glande surrénale
+T112	morphologie 9188 9194	lésion
+T113	expression_CIM 9188 9208	lésion surrénalienne
+T114	topographie 9195 9208	surrénalienne
+T115	expression_CIM 9244 9263	maladie néoplasique
+T116	morphologie 9244 9263	maladie néoplasique
+T117	expression_CIM 9493 9512	maladie néoplasique
+T118	morphologie 9493 9512	maladie néoplasique
+#1	ICD-O T1	8720/0
+#2	ICD-O T2	C76.4 8720/0
+#3	ICD-O T3	C76.4
+#4	ICD-O T4	8720/0
+#5	ICD-O T5	8720/0
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	8720/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C47.9 8000/1;C49.9 8000/1
+#12	ICD-O T12	C49.9
+#13	ICD-O T13	C47.9
+#14	ICD-O T14	8000/3
+#15	ICD-O T15	8000/3
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C56.9 8000/1
+#22	ICD-O T22	C56.9
+#23	ICD-O T23	8000/3
+#24	ICD-O T24	C74.9 8000/3
+#25	ICD-O T25	C74.9
+#26	ICD-O T26	8210/1
+#27	ICD-O T27	C17.1 8210/1
+#28	ICD-O T28	C17.1
+#29	ICD-O T29	8210/1
+#30	ICD-O T30	C17.1 8210/1
+#31	ICD-O T31	C17.1
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C77.2 8000/1
+#34	ICD-O T34	C48.1
+#35	ICD-O T35	8210/1
+#36	ICD-O T38	9080/1
+#37	ICD-O T39	C56.9 9080/1
+#38	ICD-O T40	C56.9
+#39	ICD-O T41	8010/9
+#40	ICD-O T42	C48.2 8010/9
+#41	ICD-O T43	C48.2
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	8000/1
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	C34.1 8000/1
+#46	ICD-O T48	C34.1
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	C74.9 8000/1
+#49	ICD-O T51	C74.9
+#50	ICD-O T52	8000/1
+#51	ICD-O T53	8000/1
+#52	ICD-O T55	8000/6
+#53	ICD-O T56	8720/3
+#54	ICD-O T57	8720/3
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	C26.0 8000/1
+#57	ICD-O T60	C26.0
+#58	ICD-O T61	8000/6
+#59	ICD-O T62	C17.9 8000/6
+#60	ICD-O T63	8720/3
+#61	ICD-O T64	8720/3
+#62	ICD-O T65	C17.9
+#63	ICD-O T66	8000/1
+#64	ICD-O T67	C49.9 8000/1
+#65	ICD-O T68	C49.9
+#66	ICD-O T69	8000/1
+#67	ICD-O T70	C56.9 8000/1
+#68	ICD-O T71	C56.9
+#69	ICD-O T72	9080/3
+#70	ICD-O T73	9080/3
+#71	ICD-O T74	8720/3
+#72	ICD-O T75	8720/3
+#73	ICD-O T76	8000/6
+#74	ICD-O T77	C26.0 8000/6;C34.9 8000/6;C74.9 8000/6
+#75	ICD-O T78	C34.9
+#76	ICD-O T79	C74.9
+#77	ICD-O T80	C26.0
+#78	ICD-O T81	8000/1
+#79	ICD-O T82	C74.9 8000/1
+#80	ICD-O T83	C74.9
+#81	ICD-O T84	8000/1
+#82	ICD-O T85	C34.9 8000/1
+#83	ICD-O T86	C34.9
+#84	ICD-O T87	8000/1
+#85	ICD-O T88	8000/1
+#86	ICD-O T89	8000/1
+#87	ICD-O T90	C34.9 8000/1
+#88	ICD-O T91	C34.9
+#89	ICD-O T92	8000/1
+#90	ICD-O T93	C34.9 8000/1
+#91	ICD-O T94	C34.9
+#92	ICD-O T95	8000/3
+#93	ICD-O T96	8000/3
+#94	ICD-O T97	8000/1
+#95	ICD-O T98	C34.9 8000/1
+#96	ICD-O T99	C34.9
+#97	ICD-O T100	8000/1
+#98	ICD-O T101	C34.1 8000/1
+#99	ICD-O T102	C34.1
+#100	ICD-O T103	8000/1
+#101	ICD-O T104	C34.9 8000/1
+#102	ICD-O T105	C34.9
+#103	ICD-O T106	8000/1
+#104	ICD-O T107	C74.9 8000/1
+#105	ICD-O T108	C74.9
+#106	ICD-O T109	8000/1
+#107	ICD-O T110	C74.9 8000/1
+#108	ICD-O T111	C74.9
+#109	ICD-O T112	8000/1
+#110	ICD-O T113	C74.9 8000/1
+#111	ICD-O T114	C74.9
+#112	ICD-O T115	8000/3
+#113	ICD-O T116	8000/3
+#114	ICD-O T117	8000/3
+#115	ICD-O T118	8000/3

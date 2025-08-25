@@ -1,0 +1,291 @@
+T33	topographie 2038 2044	artère
+T80	topographie 4993 5024	corps vers la queue du pancréas
+T112	topographie 6776 6797	graisse péricolonique
+T49	topographie 2790 2798	hilaires
+T110	topographie 6710 6741	muscularis propria de l'estomac
+T48	topographie 2762 2775	paratrachéaux
+T6	topographie 1250 1262	précarinales
+T24	topographie 1864 1878	région hilaire
+T120	topographie 7279 7298	région pré-aortique
+T12	topographie 1377 1400	sortie de la bronche LS
+T111	topographie 6746 6769	sous-muqueuse duodénale
+T1	expression_CIM 712 724	adénopathies
+T2	morphologie 712 724	adénopathies
+T3	morphologie 1221 1233	adénopathies
+T4	expression_CIM 1221 1280	adénopathies paratrachéales, précarinales et sous-carinales
+T5	topographie 1234 1248	paratrachéales
+T7	topographie 1266 1280	sous-carinales
+T8	morphologie 1294 1300	tumeur
+T9	expression_CIM 1294 1458	tumeur du hile droit mesurant 5 x 6 cm, affectant la bronche principale droite, la sortie de la bronche LS, la bronche intermédiaire et la bronche du lobe inférieur
+T10	topographie 1304 1308	hile
+T11	topographie 1347 1365	bronche principale
+T13	topographie 1405 1426	bronche intermédiaire
+T14	topographie 1433 1458	bronche du lobe inférieur
+T15	morphologie 1463 1469	tumeur
+T16	expression_CIM 1463 1491	tumeur infiltre le médiastin
+T17	topographie 1482 1491	médiastin
+T18	morphologie 1581 1596	lésion tumorale
+T19	expression_CIM 1581 1653	lésion tumorale de 3,4 cm est observée dans le segment postérieur du LSD
+T20	topographie 1650 1653	LSD
+T21	morphologie 1817 1826	néoplasme
+T22	expression_CIM 1817 1878	néoplasme pulmonaire localement avancé dans la région hilaire
+T23	topographie 1827 1837	pulmonaire
+T25	morphologie 1895 1903	atteinte
+T26	expression_CIM 1895 1989	atteinte de la bronche principale droite, de la bronche LSD et de la bronche intermédiaire LID
+T27	topographie 1910 1928	bronche principale
+T28	topographie 1943 1954	bronche LSD
+T29	topographie 1964 1989	bronche intermédiaire LID
+T30	morphologie 1991 2003	Infiltration
+T31	expression_CIM 1991 2055	Infiltration de la veine cave supérieure, de l'artère pulmonaire
+T32	topographie 2010 2031	veine cave supérieure
+T34	topographie 2045 2055	pulmonaire
+T35	morphologie 2085 2103	lésion néoplasique
+T36	expression_CIM 2085 2150	lésion néoplasique de 3,4 cm dans le segment postérieur de la LSD
+T37	topographie 2147 2150	LSD
+T38	expression_CIM 2236 2248	infiltration
+T39	morphologie 2236 2248	infiltration
+T40	expression_CIM 2410 2431	carcinome épidermoïde
+T41	morphologie 2410 2431	carcinome épidermoïde
+T42	morphologie 2546 2551	masse
+T43	expression_CIM 2546 2604	masse pulmonaire droite, située dans la région parahilaire
+T44	topographie 2552 2562	pulmonaire
+T45	topographie 2597 2604	hilaire
+T46	expression_CIM 2726 2813	atteinte des ganglions lymphatiques paratrachéaux homolatéraux, hilaires et subcarinaux
+T47	topographie 2739 2761	ganglions lymphatiques
+T51	morphologie 3195 3204;3216 3266	Carcinome non à petites cellules (CPNPC) de type épidermoïde
+T52	expression_CIM 3195 3266	Carcinome pulmonaire non à petites cellules (CPNPC) de type épidermoïde
+T53	topographie 3205 3215	pulmonaire
+T54	expression_CIM 3415 3421	tumeur
+T55	morphologie 3415 3421	tumeur
+T56	expression_CIM 3754 3760	tumeur
+T57	morphologie 3754 3760	tumeur
+T58	expression_CIM 3837 3852	tumeur primaire
+T59	morphologie 3837 3852	tumeur primaire
+T60	morphologie 3939 3945	masses
+T61	expression_CIM 3939 3969	masses hilaire et médiastinale
+T62	topographie 3946 3953	hilaire
+T63	topographie 3957 3969	médiastinale
+T64	morphologie 3987 3993	lésion
+T65	expression_CIM 3987 3997	lésion LSD
+T66	topographie 3994 3997	LSD
+T67	morphologie 4105 4111	lésion
+T68	expression_CIM 4105 4162	lésion hypodense a été observée dans le corps du pancréas
+T69	topographie 4145 4162	corps du pancréas
+T70	expression_CIM 4274 4280	tumeur
+T71	morphologie 4274 4280	tumeur
+T72	morphologie 4344 4350	tumeur
+T73	expression_CIM 4344 4376	tumeur dans le corps du pancréas
+T74	topographie 4359 4376	corps du pancréas
+T75	morphologie 4739 4757	néoplasme mucineux
+T76	expression_CIM 4739 4780	néoplasme mucineux d'origine pancréatique
+T77	topographie 4768 4780	pancréatique
+T78	expression_CIM 4853 4859	lésion
+T79	morphologie 4853 4859	lésion
+T81	expression_CIM 4993 5047	corps vers la queue du pancréas, un néoplasme kystique
+T82	expression_CIM 5145 5156	adénopathie
+T83	morphologie 5145 5156	adénopathie
+T84	morphologie 5272 5290	néoplasme kystique
+T85	expression_CIM 5272 5309	néoplasme kystique solide du pancréas
+T86	topographie 5301 5309	pancréas
+T87	morphologie 5489 5496	rechute
+T88	expression_CIM 5489 5509	rechute pancréatique
+T89	topographie 5497 5509	pancréatique
+T90	morphologie 5784 5789	masse
+T91	expression_CIM 5784 5815	masse dans la queue du pancréas
+T92	topographie 5798 5815	queue du pancréas
+T93	expression_CIM 6311 6317	lésion
+T94	morphologie 6311 6317	lésion
+T95	morphologie 6340 6352	infiltration
+T96	expression_CIM 6340 6363	infiltration vasculaire
+T97	topographie 6353 6363	vasculaire
+T98	expression_CIM 6367 6379	adénopathies
+T99	morphologie 6367 6379	adénopathies
+T100	morphologie 6386 6392	lésion
+T101	expression_CIM 6386 6403	lésion pulmonaire
+T102	topographie 6393 6403	pulmonaire
+T103	morphologie 6604 6613	métastase
+T104	expression_CIM 6604 6797	métastase de carcinome épidermoïde modérément différencié d'origine pulmonaire infiltrant le pancréas, la muscularis propria de l'estomac, la sous-muqueuse duodénale et la graisse péricolonique
+T105	morphologie 6617 6638	carcinome épidermoïde
+T106	expression_CIM 6617 6682	carcinome épidermoïde modérément différencié d'origine pulmonaire
+T107	differenciation 6639 6661	modérément différencié
+T108	topographie 6672 6682	pulmonaire
+T109	topographie 6697 6705	pancréas
+T113	expression_CIM 6835 6860	progression de la maladie
+T114	morphologie 6835 6860	progression de la maladie
+T115	morphologie 6960 6965	masse
+T116	expression_CIM 6960 6978	masse pancréatique
+T117	topographie 6966 6978	pancréatique
+T118	expression_CIM 7196 7298	masses nodulaires solides dans la région surrénalienne (actuellement 3,5 cm) et la région pré-aortique
+T119	topographie 7230 7250	région surrénalienne
+T121	expression_CIM 7388 7410	processus métastatique
+T122	morphologie 7388 7410	processus métastatique
+T123	morphologie 7458 7464	masses
+T124	expression_CIM 7458 7479	masses surrénaliennes
+T125	topographie 7465 7479	surrénaliennes
+T126	expression_CIM 7540 7556	l'AC épidermoïde
+T127	morphologie 7542 7556	AC épidermoïde
+T128	morphologie 7902 7929	conglomérats adénopathiques
+T129	expression_CIM 7902 8022	conglomérats adénopathiques rétropéritonéaux, para-aortiques gauches adjacents au tronc cœliaque, mésentérique supérieur
+T130	topographie 7930 7946	rétropéritonéaux
+T131	topographie 7948 7962	para-aortiques
+T132	topographie 7984 7998	tronc cœliaque
+T133	topographie 8000 8022	mésentérique supérieur
+T134	expression_CIM 8765 8788	stabilité de la maladie
+T135	morphologie 8765 8788	stabilité de la maladie
+T136	morphologie 9069 9074	masse
+T137	expression_CIM 9069 9088	masse surrénalienne
+T138	topographie 9075 9088	surrénalienne
+T139	expression_CIM 9126 9139	LOE hépatique
+T140	topographie 9130 9139	hépatique
+T141	expression_CIM 9307 9333	l'AC épidermoïde du poumon
+T142	morphologie 9309 9323	AC épidermoïde
+T143	topographie 9327 9333	poumon
+T144	expression_CIM 10105 10118	LOE hépatique
+T145	topographie 10109 10118	hépatique
+T146	morphologie 10166 10171	masse
+T147	expression_CIM 10166 10185	masse surrénalienne
+T148	topographie 10172 10185	surrénalienne
+T149	morphologie 10294 10300	lésion
+T150	expression_CIM 10294 10323	lésion solide de la surrénale
+T151	topographie 10314 10323	surrénale
+T152	morphologie 10350 10356	tumeur
+T153	expression_CIM 10350 10371	tumeur pulmonaire LSD
+T154	topographie 10357 10367	pulmonaire
+T155	topographie 10368 10371	LSD
+T156	morphologie 10434 10440	lésion
+T157	expression_CIM 10434 10456	lésion de la surrénale
+T158	topographie 10447 10456	surrénale
+T50	topographie 2802 2813	subcarinaux
+#1	ICD-O T1	C77.9 8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T5	C33.9
+#5	ICD-O T7	C76.1
+#6	ICD-O T8	8000/3
+#7	ICD-O T10	C34.0
+#8	ICD-O T11	C34.0
+#9	ICD-O T13	C34.2
+#10	ICD-O T14	C34.3
+#11	ICD-O T15	8000/3
+#12	ICD-O T17	C38.3
+#13	ICD-O T18	8000/9
+#14	ICD-O T19	C34.1 8000/3
+#15	ICD-O T20	C34.1
+#16	ICD-O T21	8000/3
+#17	ICD-O T23	C34.9
+#18	ICD-O T25	8000/9
+#19	ICD-O T26	C34.0 8000/1;C34.1 8000/1;C34.3 8000/1
+#20	ICD-O T27	C34.0
+#21	ICD-O T28	C34.1
+#22	ICD-O T29	C34.3
+#23	ICD-O T30	8000/9
+#24	ICD-O T31	C49.3 8000/1
+#25	ICD-O T32	C49.3
+#26	ICD-O T34	C34.9
+#27	ICD-O T35	8000/3
+#28	ICD-O T36	C34.1 8000/3
+#29	ICD-O T37	C34.1
+#30	ICD-O T38	8000/1
+#31	ICD-O T39	8000/9
+#32	ICD-O T40	8070/3
+#33	ICD-O T41	8070/3
+#34	ICD-O T42	8000/1
+#35	ICD-O T44	C34.9
+#36	ICD-O T45	C34.0
+#37	ICD-O T46	C77.0 8000/1;C77.1 8000/1
+#38	ICD-O T47	C77.9
+#39	ICD-O T51	8046/3
+#40	ICD-O T52	C34.9 8046/3
+#41	ICD-O T53	C34.9
+#42	ICD-O T54	8000/1
+#43	ICD-O T55	8000/3
+#44	ICD-O T56	8000/1
+#45	ICD-O T57	8000/3
+#46	ICD-O T58	8000/3
+#47	ICD-O T59	8000/3
+#48	ICD-O T60	8000/1
+#49	ICD-O T61	C34.0 8000/1;C38.3 8000/1
+#50	ICD-O T62	C34.0
+#51	ICD-O T63	C38.3
+#52	ICD-O T64	8000/1
+#53	ICD-O T65	C34.1 8000/1
+#54	ICD-O T66	C34.1
+#55	ICD-O T67	8000/1
+#56	ICD-O T68	C25.1 8000/1
+#57	ICD-O T69	C25.1
+#58	ICD-O T70	8000/1
+#59	ICD-O T71	8000/3
+#60	ICD-O T72	8000/3
+#61	ICD-O T73	C25.1 8000/1
+#62	ICD-O T74	C25.1
+#63	ICD-O T75	8480/3
+#64	ICD-O T76	C25.9 8480/3
+#65	ICD-O T77	C25.9
+#66	ICD-O T78	8000/1
+#67	ICD-O T79	8000/1
+#68	ICD-O T82	C77.9 8000/1
+#69	ICD-O T83	8000/1
+#70	ICD-O T84	8440/1
+#71	ICD-O T85	C25.9 8440/1
+#72	ICD-O T86	C25.9
+#73	ICD-O T87	8000/9
+#74	ICD-O T88	C25.9 8000/3
+#75	ICD-O T89	C25.9
+#76	ICD-O T90	8000/1
+#77	ICD-O T91	C25.2 8000/1
+#78	ICD-O T92	C25.2
+#79	ICD-O T93	8000/1
+#80	ICD-O T94	8000/1
+#81	ICD-O T95	8000/9
+#82	ICD-O T96	C49.9 8000/1
+#83	ICD-O T97	C49.9
+#84	ICD-O T98	C77.9 8000/1
+#85	ICD-O T99	8000/1
+#86	ICD-O T100	8000/1
+#87	ICD-O T101	C34.9 8000/1
+#88	ICD-O T102	C34.9
+#89	ICD-O T103	8000/6
+#90	ICD-O T105	8070/3
+#91	ICD-O T106	C34.9 8070/32
+#92	ICD-O T107	2
+#93	ICD-O T108	C34.9
+#94	ICD-O T109	C25.9
+#95	ICD-O T113	8000/1
+#96	ICD-O T114	8000/9
+#97	ICD-O T115	8000/1
+#98	ICD-O T116	C25.9 8000/1
+#99	ICD-O T117	C25.9
+#100	ICD-O T119	C76.2
+#101	ICD-O T121	8000/6
+#102	ICD-O T122	8000/6
+#103	ICD-O T123	8000/1
+#104	ICD-O T124	C74.9 8000/1
+#105	ICD-O T125	C74.9
+#106	ICD-O T127	8070/3
+#107	ICD-O T128	8000/1
+#108	ICD-O T130	C48.0
+#109	ICD-O T131	C49.4
+#110	ICD-O T132	C49.4
+#111	ICD-O T133	C48.1
+#112	ICD-O T134	8000/6
+#113	ICD-O T135	8000/9
+#114	ICD-O T136	8000/1
+#115	ICD-O T137	C74.9 8000/1
+#116	ICD-O T138	C74.9
+#117	ICD-O T140	C22.0
+#118	ICD-O T142	8070/3
+#119	ICD-O T143	C34.9
+#120	ICD-O T145	C22.0
+#121	ICD-O T146	8000/1
+#122	ICD-O T147	C74.9 8000/1
+#123	ICD-O T148	C74.9
+#124	ICD-O T149	8000/1
+#125	ICD-O T150	C74.9 8000/1
+#126	ICD-O T151	C74.9
+#127	ICD-O T152	8000/3
+#128	ICD-O T153	C34.1 8000/1
+#129	ICD-O T154	C34.9
+#130	ICD-O T155	C34.1
+#131	ICD-O T156	8000/1
+#132	ICD-O T157	C74.9 8000/1
+#133	ICD-O T158	C74.9

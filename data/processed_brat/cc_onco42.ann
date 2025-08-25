@@ -1,0 +1,68 @@
+T1	morphologie 262 268	cancer
+T3	topographie 272 276	sein
+T4	morphologie 317 323	cancer
+T6	topographie 327 331	sein
+T7	morphologie 725 735	induration
+T9	topographie 744 748	sein
+T11	morphologie 927 1002	carcinome canalaire infiltrant de sous-type non spécial (type inflammatoire
+T12	morphologie 1009 1019	métastases
+T14	topographie 1020 1034	ganglionnaires
+T16	morphologie 1802 1808	lésion
+T17	morphologie 1939 1950	adénopathie
+T19	topographie 1951 1960	axillaire
+T21	morphologie 2070 2145	carcinome canalaire infiltrant de sous-type non spécial (type inflammatoire
+T22	morphologie 2152 2162	métastases
+T24	topographie 2163 2177	ganglionnaires
+T25	morphologie 2476 2488	adénopathies
+T27	topographie 2489 2499	axillaires
+T29	morphologie 2548 2571	carcinome inflammatoire
+T31	morphologie 2580 2601	atteinte métastatique
+T32	morphologie 2685 2691	lésion
+T105	morphologie 2709 2730	suspecte de malignité
+T34	topographie 2763 2767	sein
+T36	morphologie 3165 3191	adénopathies pathologiques
+T37	morphologie 3270 3279	Carcinome
+T106	morphologie 3289 3309	canalaire infiltrant
+T39	topographie 3280 3288	mammaire
+T40	stadeTNM 3325 3331	cT4cNx
+T42	morphologie 3519 3525	lésion
+T43	morphologie 4151 4209	carcinome infiltrant de sous-type histologique non spécial
+T45	differenciation 4213 4220	grade 3
+T46	morphologie 4274 4282	invasion
+T48	topographie 4283 4293	vasculaire
+T49	morphologie 4297 4306	métastase
+T51	topographie 4321 4354	ganglions lymphatiques axillaires
+T52	morphologie 4492 4503	progression
+T54	topographie 4504 4511	osseuse
+T55	morphologie 4810 4817	maladie
+T57	topographie 4818 4825	osseuse
+T59	morphologie 4935 4960	progression de la maladie
+T60	morphologie 4970 4983	carcinomatose
+T62	topographie 4984 4997	leptoméningée
+T63	morphologie 5519 5544	progression de la maladie
+T65	topographie 5545 5552	osseuse
+T66	morphologie 5751 5757	tumeur
+T68	topographie 5758 5766	mammaire
+T70	morphologie 5840 5846	tumeur
+T72	morphologie 6074 6080	tumeur
+T73	morphologie 6282 6293	progression
+T75	topographie 6294 6301	osseuse
+T76	morphologie 6352 6385	images nodulaires ostéoblastiques
+T78	topographie 6402 6420	colonne vertébrale
+T79	topographie 6427 6433	bassin
+T81	morphologie 6447 6457	métastases
+T82	morphologie 7036 7049	dissémination
+T84	topographie 7050 7063	leptoméningée
+T85	morphologie 7071 7080	néoplasme
+T87	topographie 7081 7089	mammaire
+T88	topographie 7471 7473	os
+T90	morphologie 7474 7476	M1
+T91	topographie 7493 7520	colonne dorsale et lombaire
+T92	morphologie 7527 7535	atteinte
+T94	topographie 7542 7557	moelle épinière
+T95	morphologie 8212 8231	foyers de captation
+T97	topographie 8232 8245	leptoméningés
+T99	morphologie 8305 8312	lésions
+T100	morphologie 8730 8737	maladie
+T102	topographie 8751 8754	SNC
+T104	morphologie 8977 8983	nodule

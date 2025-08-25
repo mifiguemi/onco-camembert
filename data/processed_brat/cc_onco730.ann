@@ -1,0 +1,34 @@
+T2	morphologie 110 117	tumeurs
+T3	morphologie 132 138	cancer
+T51	morphologie 149 171	non à petites cellules
+T5	topographie 142 148	poumon
+T7	morphologie 173 178	CPNPC
+T9	morphologie 271 277	cancer
+T10	morphologie 475 481	cancer
+T52	morphologie 492 514	non à petites cellules
+T12	topographie 485 491	poumon
+T13	morphologie 745 768	carcinome adénosquameux
+T15	differenciation 769 784	peu différencié
+T17	morphologie 794 813	zones sarcomatoïdes
+T18	morphologie 872 884	infiltration
+T20	topographie 891 907	plèvre viscérale
+T21	morphologie 940 952	infiltration
+T23	topographie 953 963	vasculaire
+T24	morphologie 1480 1492	excroissance
+T26	topographie 1499 1515	glande surrénale
+T27	morphologie 1646 1654	primitif
+T29	topographie 1655 1665	pulmonaire
+T31	morphologie 2545 2552	maladie
+T32	morphologie 2683 2694	progression
+T34	topographie 2695 2705	thoracique
+T35	topographie 2709 2722	surrénalienne
+T36	morphologie 3708 3713	masse
+T38	topographie 3714 3726	médiastinale
+T39	topographie 3730 3743	surrénalienne
+T41	morphologie 3868 3882	tumeur maligne
+T42	morphologie 4896 4902	cancer
+T53	morphologie 4913 4935	non à petites cellules
+T44	topographie 4906 4912	poumon
+T46	morphologie 4939 4947	stade IV
+T48	morphologie 6792 6799	lésions
+T50	morphologie 7304 7312	récidive

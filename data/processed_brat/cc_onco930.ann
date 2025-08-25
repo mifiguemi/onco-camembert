@@ -1,0 +1,76 @@
+T81	topographie 4973 4991	hyilomédiastinales
+T25	topographie 2418 2421	LSI
+T67	topographie 4333 4348	région frontale
+T2	morphologie 220 234	adénocarcinome
+T3	topographie 241 249	prostate
+T4	differenciation 253 269	Gleason 6 (3 + 3
+T6	morphologie 379 387	récidive
+T7	morphologie 772 787	lésion kystique
+T115	morphologie 812 829	à caractère bénin
+T9	topographie 788 804	pariétotemporale
+T11	morphologie 1207 1212	masse
+T12	morphologie 1513 1519	lésion
+T14	topographie 1520 1534	intrapariétale
+T15	morphologie 2098 2104	lésion
+T17	topographie 2105 2114	cérébrale
+T19	morphologie 2228 2242	adénocarcinome
+T20	morphologie 2299 2308	métastase
+T22	topographie 2319 2329	pulmonaire
+T23	morphologie 2408 2414	nodule
+T26	morphologie 2473 2479	tumeur
+T116	morphologie 2491 2500	primitive
+T28	topographie 2480 2490	pulmonaire
+T29	morphologie 2506 2517	adénopathie
+T31	topographie 2521 2553	fenêtre latérale aortopulmonaire
+T32	topographie 2622 2629	hilaire
+T34	morphologie 2677 2691	tumeur maligne
+T35	morphologie 2788 2794	lésion
+T37	topographie 2795 2805	pulmonaire
+T39	morphologie 2823 2839	tumeur primitive
+T40	morphologie 2850 2862	adénopathies
+T42	topographie 2863 2871	hilaires
+T43	topographie 2875 2888	médiastinales
+T44	morphologie 3155 3169	adénocarcinome
+T46	topographie 3177 3199	ganglions lymphatiques
+T47	morphologie 3213 3227	Adénocarcinome
+T49	topographie 3231 3237	poumon
+T51	morphologie 3250 3258	stade IV
+T52	topographie 3295 3302	cerveau
+T54	morphologie 3303 3320	oligométastatique
+T55	morphologie 3696 3708	adénopathies
+T57	topographie 3709 3722	médiastinales
+T59	morphologie 3741 3756	nodule primaire
+T60	morphologie 4143 4152	métastase
+T62	topographie 4153 4165	cérébelleuse
+T63	morphologie 4271 4278	lésions
+T65	topographie 4279 4289	cérébrales
+T66	topographie 4314 4320	vermis
+T68	morphologie 4553 4563	métastases
+T70	topographie 4564 4577	cérébelleuses
+T72	morphologie 4700 4718	maladie systémique
+T74	topographie 4816 4826	pulmonaire
+T75	morphologie 4848 4855	nodules
+T77	topographie 4886 4889	LII
+T78	topographie 4925 4928	LID
+T79	morphologie 4960 4972	adénopathies
+T82	morphologie 5024 5030	nodule
+T84	topographie 5031 5042	surrénalien
+T86	morphologie 5260 5277	cellules malignes
+T88	morphologie 5298 5312	adénocarcinome
+T90	morphologie 5332 5354	progression systémique
+T92	morphologie 6320 6336	réponse tumorale
+T93	morphologie 6400 6406	nodule
+T95	topographie 6416 6419	LII
+T96	morphologie 6461 6467	nodule
+T98	topographie 6477 6480	LID
+T99	morphologie 6506 6518	adénopathies
+T101	topographie 6519 6527	hilaires
+T102	topographie 6531 6544	médiastinales
+T103	morphologie 6571 6582	adénopathie
+T105	topographie 6583 6590	hilaire
+T106	morphologie 6630 6636	nodule
+T108	topographie 6637 6648	surrénalien
+T109	morphologie 7108 7114	nodule
+T111	topographie 7115 7118	LID
+T112	morphologie 7194 7200	nodule
+T114	topographie 7201 7204	LII

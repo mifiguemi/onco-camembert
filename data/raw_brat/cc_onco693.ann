@@ -1,0 +1,197 @@
+T45	topographie 2742 2753	colorectale
+T31	topographie 1936 1948	petit bassin
+T1	morphologie 403 408	masse
+T2	expression_CIM 403 446	masse indurée douloureuse dans l'hypogastre
+T3	topographie 436 446	hypogastre
+T4	morphologie 494 500	tumeur
+T5	expression_CIM 494 534	tumeur dure qui occupait tout le Douglas
+T6	topographie 527 534	Douglas
+T7	morphologie 974 989	images malignes
+T8	expression_CIM 974 1011	images malignes dans les deux ovaires
+T9	topographie 1004 1011	ovaires
+T10	morphologie 1056 1061	masse
+T11	expression_CIM 1056 1114	masse, dont la limite inférieure est perdue dans le bassin
+T12	topographie 1108 1114	bassin
+T13	expression_CIM 1180 1185	masse
+T14	morphologie 1180 1185	masse
+T15	morphologie 1348 1354	lésion
+T16	expression_CIM 1348 1364	lésion ovarienne
+T17	topographie 1355 1364	ovarienne
+T18	morphologie 1370 1376	lésion
+T19	expression_CIM 1370 1386	lésion hépatique
+T20	topographie 1377 1386	hépatique
+T21	expression_CIM 1453 1462	métastase
+T22	morphologie 1453 1462	métastase
+T23	morphologie 1735 1752	images nodulaires
+T24	expression_CIM 1735 1776	images nodulaires hypodenses dans le foie
+T25	topographie 1772 1776	foie
+T26	morphologie 1899 1909	métastases
+T27	expression_CIM 1899 1920	métastases hépatiques
+T28	topographie 1910 1920	hépatiques
+T29	morphologie 1922 1927	Masse
+T30	expression_CIM 1922 1970	Masse dans le petit bassin dépendant de l'ovaire
+T32	topographie 1964 1970	ovaire
+T33	expression_CIM 2136 2141	masse
+T34	morphologie 2136 2141	masse
+T35	morphologie 2242 2247	masse
+T36	expression_CIM 2242 2337	masse présentant les mêmes caractéristiques, mesurant 8 x 7 cm, qui semble dépendre de l'ovaire
+T37	topographie 2331 2337	ovaire
+T38	morphologie 2385 2394	néoplasie
+T39	expression_CIM 2385 2404	néoplasie ovarienne
+T40	topographie 2395 2404	ovarienne
+T41	expression_CIM 2548 2577	adénocarcinome mucosécrétoire
+T42	morphologie 2548 2577	adénocarcinome mucosécrétoire
+T43	morphologie 2722 2731	métastase
+T44	expression_CIM 2722 2753	métastase d'origine colorectale
+T46	expression_CIM 2782 2787	masse
+T47	morphologie 2782 2787	masse
+T48	morphologie 2898 2923	adénocarcinome infiltrant
+T49	expression_CIM 2898 2946	adénocarcinome infiltrant modérément différencié
+T50	differenciation 2924 2946	modérément différencié
+T51	morphologie 3206 3220	Adénocarcinome
+T52	expression_CIM 3206 3229	Adénocarcinome du côlon
+T53	topographie 3224 3229	côlon
+T54	expression_CIM 3233 3241	stade IV
+T55	morphologie 3233 3241	stade IV
+T56	morphologie 3249 3259	métastases
+T57	expression_CIM 3249 3270	métastases hépatiques
+T58	topographie 3260 3270	hépatiques
+T59	morphologie 3278 3288	métastases
+T60	expression_CIM 3278 3299	métastases ovariennes
+T61	topographie 3289 3299	ovariennes
+T62	morphologie 3998 4004	masses
+T63	expression_CIM 3998 4030	masses hépatiques et annexielles
+T64	topographie 4005 4015	hépatiques
+T65	topographie 4019 4030	annexielles
+T66	expression_CIM 4150 4170	progression tumorale
+T67	morphologie 4150 4170	progression tumorale
+T68	morphologie 4195 4202	lésions
+T69	expression_CIM 4195 4213	lésions ovariennes
+T70	topographie 4203 4213	ovariennes
+T71	morphologie 4515 4529	adénocarcinome
+T72	expression_CIM 4515 4555	adénocarcinome résiduel du gros intestin
+T73	topographie 4542 4555	gros intestin
+T74	expression_CIM 4690 4703	nids tumoraux
+T75	morphologie 4690 4703	nids tumoraux
+T76	morphologie 4773 4783	métastases
+T77	expression_CIM 4773 4794	métastases ovariennes
+T78	topographie 4784 4794	ovariennes
+T79	expression_CIM 4948 4969	infiltration tumorale
+T80	morphologie 4948 4969	infiltration tumorale
+T81	expression_CIM 5261 5286	maladie micrométastatique
+T82	morphologie 5261 5286	maladie micrométastatique
+T83	expression_CIM 5999 6018	maladie néoplasique
+T84	morphologie 5999 6018	maladie néoplasique
+T85	expression_CIM 6213 6236	progression néoplasique
+T86	morphologie 6213 6236	progression néoplasique
+T87	morphologie 6268 6280	adénopathies
+T88	expression_CIM 6268 6322	adénopathies rétropéritonéales au niveau du hile rénal
+T89	topographie 6281 6298	rétropéritonéales
+T90	topographie 6312 6322	hile rénal
+T91	morphologie 6369 6377	atteinte
+T92	expression_CIM 6369 6404	atteinte des ganglions lymphatiques
+T93	morphologie 6964 6976	adénopathies
+T94	expression_CIM 6964 6994	adénopathies rétropéritonéales
+T95	topographie 6977 6994	rétropéritonéales
+T96	expression_CIM 7099 7105	tumeur
+T97	morphologie 7099 7105	tumeur
+T98	expression_CIM 7866 7891	progression de la maladie
+T99	morphologie 7866 7891	progression de la maladie
+T100	expression_CIM 8060 8079	maladie néoplasique
+T101	morphologie 8060 8079	maladie néoplasique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.2 8000/1
+#3	ICD-O T3	C76.2
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C48.1 8000/1
+#6	ICD-O T6	C48.1
+#7	ICD-O T7	8000/3
+#8	ICD-O T9	C56.9
+#9	ICD-O T10	8000/1
+#10	ICD-O T12	C76.3
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	C56.9 8000/1
+#15	ICD-O T17	C56.9
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C22.0 8000/1
+#18	ICD-O T20	C22.0
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	C22.0 8000/1
+#23	ICD-O T25	C22.0
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	C22.0 8000/6
+#26	ICD-O T28	C22.0
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C56.9 8000/1;C76.3 8000/1
+#29	ICD-O T32	C56.9
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	C56.9 8000/1
+#34	ICD-O T37	C56.9
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	C56.9 8000/1
+#37	ICD-O T40	C56.9
+#38	ICD-O T41	8481/3
+#39	ICD-O T42	8481/3
+#40	ICD-O T43	8000/6
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	8140/3
+#44	ICD-O T49	8140/32
+#45	ICD-O T50	2
+#46	ICD-O T51	8140/3
+#47	ICD-O T52	C18.9 8140/3
+#48	ICD-O T53	C18.9
+#49	ICD-O T54	8000/6
+#50	ICD-O T55	8000/6
+#51	ICD-O T56	8000/6
+#52	ICD-O T57	C22.0 8000/6
+#53	ICD-O T58	C22.0
+#54	ICD-O T59	8000/6
+#55	ICD-O T60	C56.9 8000/6
+#56	ICD-O T61	C56.9
+#57	ICD-O T62	8000/1
+#58	ICD-O T63	C22.0 8000/1;C56.9 8000/1
+#59	ICD-O T64	C22.0
+#60	ICD-O T65	C56.9
+#61	ICD-O T66	8000/3
+#62	ICD-O T67	8000/3
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	C56.9 8000/1
+#65	ICD-O T70	C56.9
+#66	ICD-O T71	8140/3
+#67	ICD-O T72	C18.9 8140/3
+#68	ICD-O T73	C18.9
+#69	ICD-O T74	8000/3
+#70	ICD-O T75	8000/3
+#71	ICD-O T76	8000/6
+#72	ICD-O T77	C56.9 8000/6
+#73	ICD-O T78	C56.9
+#74	ICD-O T79	8000/6
+#75	ICD-O T80	8000/6
+#76	ICD-O T81	8000/6
+#77	ICD-O T82	8000/6
+#78	ICD-O T83	8000/3
+#79	ICD-O T84	8000/3
+#80	ICD-O T85	8000/6
+#81	ICD-O T86	8000/6
+#82	ICD-O T87	8000/1
+#83	ICD-O T88	C77.2 8000/1
+#84	ICD-O T89	C48.0
+#85	ICD-O T90	C64.9
+#86	ICD-O T91	8000/1
+#87	ICD-O T92	C77.9 8000/1
+#88	ICD-O T93	8000/1
+#89	ICD-O T94	C77.2 8000/1
+#90	ICD-O T95	C48.0
+#91	ICD-O T96	8000/1
+#92	ICD-O T97	8000/1
+#93	ICD-O T98	8000/1
+#94	ICD-O T99	8000/1
+#95	ICD-O T100	8000/3
+#96	ICD-O T101	8000/3

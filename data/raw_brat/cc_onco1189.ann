@@ -1,0 +1,112 @@
+T1	morphologie 145 166	carcinome épidermoïde
+T2	expression_CIM 145 182	carcinome épidermoïde G1 de la vessie
+T3	differenciation 167 169	G1
+T4	topographie 176 182	vessie
+T5	expression_CIM 310 326	maladie tumorale
+T6	morphologie 310 326	maladie tumorale
+T7	morphologie 419 433	adénocarcinome
+T8	expression_CIM 419 473	adénocarcinome sur adénome villositaire dans le rectum
+T9	expression_CIM 438 458	adénome villositaire
+T10	morphologie 438 458	adénome villositaire
+T11	topographie 467 473	rectum
+T12	morphologie 807 821	adénocarcinome
+T13	expression_CIM 807 849	adénocarcinome G3 du tiers moyen du rectum
+T14	differenciation 822 824	G3
+T15	topographie 843 849	rectum
+T16	expression_CIM 1167 1173	tumeur
+T17	morphologie 1167 1173	tumeur
+T18	morphologie 1399 1409	métastases
+T19	expression_CIM 1399 1421	métastases pulmonaires
+T20	topographie 1410 1421	pulmonaires
+T21	expression_CIM 1711 1718	nodules
+T22	morphologie 1711 1718	nodules
+T23	morphologie 1797 1807	métastases
+T24	expression_CIM 1797 1832	métastases dans les deux hémithorax
+T25	topographie 1822 1832	hémithorax
+T26	morphologie 1863 1874	adénopathie
+T27	expression_CIM 1863 1887	adénopathie médiastinale
+T28	topographie 1875 1887	médiastinale
+T29	topographie 1930 1934	Foie
+T30	expression_CIM 1930 1953	Foie avec petits kystes
+T31	morphologie 1947 1953	kystes
+T32	expression_CIM 2250 2275	progression de la maladie
+T33	morphologie 2250 2275	progression de la maladie
+T34	morphologie 2308 2318	métastases
+T35	expression_CIM 2308 2330	métastases pulmonaires
+T36	topographie 2319 2330	pulmonaires
+T37	morphologie 2794 2804	métastases
+T38	expression_CIM 2794 2816	métastases pulmonaires
+T39	topographie 2805 2816	pulmonaires
+T40	expression_CIM 2891 2898	lésions
+T41	morphologie 2891 2898	lésions
+T42	expression_CIM 3249 3257	récidive
+T43	morphologie 3249 3257	récidive
+T44	morphologie 3488 3495	nodules
+T45	expression_CIM 3488 3507	nodules pulmonaires
+T46	topographie 3496 3507	pulmonaires
+T47	expression_CIM 3729 3750	lésions métastatiques
+T48	morphologie 3729 3750	lésions métastatiques
+T49	morphologie 3885 3892	nodules
+T50	expression_CIM 3885 3904	nodules pulmonaires
+T51	topographie 3893 3904	pulmonaires
+T52	expression_CIM 3945 3952	nodules
+T53	morphologie 3945 3952	nodules
+T54	morphologie 3979 3987	récidive
+T55	expression_CIM 3979 4001	récidive ganglionnaire
+T56	topographie 3988 4001	ganglionnaire
+T57	expression_CIM 4015 4034	récidive à distance
+T58	morphologie 4015 4034	récidive à distance
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	C67.9 8070/31
+#3	ICD-O T3	1
+#4	ICD-O T4	C67.9
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	8000/3
+#7	ICD-O T7	8140/3
+#8	ICD-O T10	8261/0
+#9	ICD-O T11	C20.9
+#10	ICD-O T12	8140/3
+#11	ICD-O T13	C20.9 8140/33
+#12	ICD-O T14	3
+#13	ICD-O T15	C20.9
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/6
+#17	ICD-O T19	C34.9 8000/6
+#18	ICD-O T20	C34.9
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	C76.1 8000/6
+#23	ICD-O T25	C76.1
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C77.1 8000/1
+#26	ICD-O T28	C38.3
+#27	ICD-O T29	C22.0
+#28	ICD-O T31	8440/0
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	8000/6
+#32	ICD-O T35	C34.9 8000/6
+#33	ICD-O T36	C34.9
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	C34.9 8000/6
+#36	ICD-O T39	C34.9
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	8000/6
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	C34.9 8000/1
+#43	ICD-O T46	C34.9
+#44	ICD-O T47	8000/6
+#45	ICD-O T48	8000/6
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	C34.9 8000/1
+#48	ICD-O T51	C34.9
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	8000/6
+#52	ICD-O T55	C77.9 8000/6
+#53	ICD-O T56	C77.9
+#54	ICD-O T58	8000/6

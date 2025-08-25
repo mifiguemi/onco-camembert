@@ -1,0 +1,22 @@
+T6	topographie 1935 1950	espace présacré
+T2	morphologie 1776 1782	tumeur
+T3	morphologie 1909 1914	masse
+T5	topographie 1918 1927	tissu mou
+T7	morphologie 2446 2452	lésion
+T9	topographie 2476 2482	sacrum
+T11	morphologie 2548 2556	lymphome
+T13	morphologie 2561 2569	chordome
+T15	morphologie 2574 2586	plasmocytome
+T17	morphologie 2597 2606	métastase
+T19	morphologie 2673 2698	absence de primitif connu
+T21	morphologie 2815 2833	maladie à distance
+T22	morphologie 3027 3033	tumeur
+T34	morphologie 3042 3082	à cellules géantes de type conventionnel
+T24	topographie 3034 3041	osseuse
+T25	morphologie 3609 3615	Tumeur
+T35	morphologie 3624 3642	à cellules géantes
+T27	topographie 3616 3623	osseuse
+T29	morphologie 3837 3852	tumeur primaire
+T30	morphologie 4412 4425	masse lytique
+T32	topographie 4434 4440	sacrum
+T33	morphologie 4492 4497	masse

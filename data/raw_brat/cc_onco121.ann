@@ -1,0 +1,140 @@
+T1	morphologie 150 159	carcinome
+T2	expression_CIM 150 178	carcinome du col de l'utérus
+T3	topographie 163 178	col de l'utérus
+T4	morphologie 223 232	néoplasie
+T5	expression_CIM 223 241	néoplasie génitale
+T6	topographie 233 241	génitale
+T7	morphologie 1194 1200	cancer
+T8	expression_CIM 1194 1208	cancer du sein
+T9	topographie 1204 1208	sein
+T10	morphologie 1363 1371	grosseur
+T11	expression_CIM 1363 1428	grosseur douloureuse de la taille d'un centimètre dans l'aisselle
+T12	topographie 1420 1428	aisselle
+T13	expression_CIM 1892 1905	d'adénopathie
+T14	morphologie 1894 1905	adénopathie
+T15	morphologie 2184 2190	dureté
+T16	expression_CIM 2184 2232	dureté de 4,5 cm dans le quadrant supéro-externe
+T17	topographie 2209 2232	quadrant supéro-externe
+T18	expression_CIM 2291 2298	duretés
+T19	morphologie 2291 2298	duretés
+T20	morphologie 2954 2969	image nodulaire
+T21	expression_CIM 2954 3007	image nodulaire hypoéchogène dans la région axillaire
+T23	expression_CIM 3167 3179	adénopathies
+T24	morphologie 3167 3179	adénopathies
+T25	morphologie 3269 3279	métastases
+T26	expression_CIM 3269 3323	métastases, ont été observées dans la région axillaire
+T27	topographie 3314 3323	axillaire
+T28	topographie 3477 3517	quadrant supérieur externe (EOC) du sein
+T29	expression_CIM 3477 3585	quadrant supérieur externe (EOC) du sein gauche, après administration de gadolinium, un rehaussement intense
+T30	morphologie 3565 3585	rehaussement intense
+T31	morphologie 3735 3741	lésion
+T32	expression_CIM 3735 3804	lésion déjà décrite à la mammographie et à l'échographie dans le sein
+T33	topographie 3800 3804	sein
+T34	morphologie 3832 3858	adénopathies métastatiques
+T35	expression_CIM 3832 3883	adénopathies métastatiques dans la région axillaire
+T37	morphologie 3928 3940	infiltration
+T38	expression_CIM 3928 3959	infiltration du muscle pectoral
+T39	topographie 3944 3959	muscle pectoral
+T40	morphologie 4081 4097	lymphadénopathie
+T41	expression_CIM 4081 4146	lymphadénopathie subcentimétrique dans la chaîne mammaire interne
+T42	topographie 4123 4146	chaîne mammaire interne
+T43	morphologie 4242 4250;4272 4284	atteinte métastatique
+T44	expression_CIM 4242 4379	atteinte importante d'origine métastatique probable dans les ganglions lymphatiques axillaires (jusqu'à 3 cm) et la chaîne rétropectorale
+T45	topographie 4303 4336	ganglions lymphatiques axillaires
+T46	topographie 4358 4379	chaîne rétropectorale
+T47	expression_CIM 4522 4552	carcinome lobulaire infiltrant
+T48	morphologie 4522 4552	carcinome lobulaire infiltrant
+T49	expression_CIM 4568 4586	cellules tumorales
+T50	morphologie 4568 4586	cellules tumorales
+T51	topographie 4677 4707	ganglion lymphatique axillaire
+T52	expression_CIM 4677 4726	ganglion lymphatique axillaire gauche : métastase
+T53	morphologie 4717 4726	métastase
+T54	expression_CIM 4732 4741	carcinome
+T55	morphologie 4732 4741	carcinome
+T56	expression_CIM 4863 4881	cellules tumorales
+T57	morphologie 4863 4881	cellules tumorales
+T58	expression_CIM 4943 4961	cellules tumorales
+T59	morphologie 4943 4961	cellules tumorales
+T60	morphologie 5089 5095	lésion
+T61	expression_CIM 5089 5125	lésion compatible avec une métastase
+T62	morphologie 5116 5125	métastase
+T63	morphologie 5156 5186	Carcinome lobulaire infiltrant
+T64	expression_CIM 5156 5242	Carcinome lobulaire infiltrant du sein gauche et du sein axillaire gauche surnuméraire
+T65	topographie 5190 5194	sein
+T67	morphologie 5347 5363	lymphadénopathie
+T68	expression_CIM 5347 5378	lymphadénopathie rétropectorale
+T69	topographie 5364 5378	rétropectorale
+T70	morphologie 5393 5409	lymphadénopathie
+T71	expression_CIM 5393 5426	lymphadénopathie mammaire interne
+T72	topographie 5410 5426	mammaire interne
+T73	expression_CIM 5456 5477	métastases à distance
+T74	morphologie 5456 5477	métastases à distance
+T76	expression_CIM 6962 7030	sein surnuméraire/l'aisselle gauche, il n'y a presque plus de dureté
+T77	topographie 6982 6990	aisselle
+T78	morphologie 7024 7030	dureté
+T22	topographie 2991 3007	région axillaire
+T36	topographie 3867 3883	région axillaire
+T66	topographie 5208 5222;5230 5242	sein axillaire surnuméraire
+T75	topographie 6962 6979	sein surnuméraire
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C53.9 8010/3
+#3	ICD-O T3	C53.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C57.9 8000/1
+#6	ICD-O T6	C57.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C50.9 8000/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C76.1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T17	C50.4
+#15	ICD-O T19	8000/1
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	C76.1 8000/1
+#18	ICD-O T23	C77.9 8000/1
+#19	ICD-O T24	8000/1
+#20	ICD-O T25	8000/6
+#21	ICD-O T27	C76.1
+#22	ICD-O T28	C50.4
+#23	ICD-O T30	tocheck
+#24	ICD-O T31	8000/1
+#25	ICD-O T33	C50.9
+#26	ICD-O T34	8000/6
+#27	ICD-O T35	C77.3 8000/6
+#28	ICD-O T37	8000/1
+#29	ICD-O T38	C49.3 8000/1
+#30	ICD-O T39	C49.3
+#31	ICD-O T40	8000/1
+#32	ICD-O T41	C77.1 8000/1
+#33	ICD-O T42	C77.1
+#34	ICD-O T43	8000/6
+#35	ICD-O T44	C77.1 8000/6;C77.3 8000/6
+#36	ICD-O T45	C77.3
+#37	ICD-O T46	C77.1
+#38	ICD-O T47	8520/3
+#39	ICD-O T48	8520/3
+#40	ICD-O T49	8001/1
+#41	ICD-O T50	8001/1
+#42	ICD-O T51	C77.3
+#43	ICD-O T53	8000/6
+#44	ICD-O T54	8010/3
+#45	ICD-O T55	8010/3
+#46	ICD-O T56	8001/1
+#47	ICD-O T57	8001/1
+#48	ICD-O T58	8001/1
+#49	ICD-O T59	8001/1
+#50	ICD-O T60	8000/1
+#51	ICD-O T62	8000/6
+#52	ICD-O T63	8520/3
+#53	ICD-O T65	C50.9
+#54	ICD-O T67	8000/1
+#55	ICD-O T68	C77.1 8000/1
+#56	ICD-O T69	C76.1
+#57	ICD-O T70	8000/1
+#58	ICD-O T71	C77.1 8000/1
+#59	ICD-O T72	C76.1
+#60	ICD-O T74	8000/6
+#61	ICD-O T77	C76.1
+#62	ICD-O T78	8000/1

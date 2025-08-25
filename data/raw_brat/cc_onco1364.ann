@@ -1,0 +1,102 @@
+T53	morphologie 2737 2754	cellules d'avoine
+T1	morphologie 77 91	adénocarcinome
+T2	expression_CIM 77 102	adénocarcinome pulmonaire
+T3	topographie 92 102	pulmonaire
+T4	expression_CIM 285 291	tumeur
+T5	morphologie 285 291	tumeur
+T6	morphologie 717 729	infiltration
+T7	expression_CIM 717 749	infiltration pleuro-péricardique
+T8	topographie 730 749	pleuro-péricardique
+T9	morphologie 757 765	atteinte
+T10	expression_CIM 757 817	atteinte persistante des ganglions lymphatiques médiastinaux
+T11	topographie 782 817	ganglions lymphatiques médiastinaux
+T12	expression_CIM 856 864	stade IV
+T13	morphologie 856 864	stade IV
+T14	morphologie 1050 1061	progression
+T15	expression_CIM 1050 1072	progression pulmonaire
+T16	topographie 1062 1072	pulmonaire
+T17	morphologie 1288 1299	progression
+T18	expression_CIM 1288 1310	progression pulmonaire
+T19	topographie 1300 1310	pulmonaire
+T20	morphologie 1535 1546	progression
+T21	expression_CIM 1535 1569	progression hépatique et cérébrale
+T22	topographie 1547 1556	hépatique
+T23	topographie 1560 1569	cérébrale
+T24	topographie 1791 1795	foie
+T25	expression_CIM 1791 1867	foie de taille et de morphologie normales avec présence de multiples lésions
+T26	morphologie 1860 1867	lésions
+T27	morphologie 1997 2003	nodule
+T28	expression_CIM 1997 2034	nodule de 2 cm dans le segment V-VIII
+T30	expression_CIM 2163 2172	métastase
+T31	morphologie 2163 2172	métastase
+T32	expression_CIM 2178 2206	carcinome à petites cellules
+T33	morphologie 2178 2206	carcinome à petites cellules
+T34	morphologie 2208 2232	carcinome neuroendocrine
+T35	expression_CIM 2208 2246	carcinome neuroendocrine de haut grade
+T36	differenciation 2236 2246	haut grade
+T37	morphologie 2369 2383	adénocarcinome
+T38	expression_CIM 2369 2394	adénocarcinome pulmonaire
+T39	topographie 2384 2394	pulmonaire
+T40	expression_CIM 2398 2406	stade IV
+T41	morphologie 2398 2406	stade IV
+T42	morphologie 2423 2431	atteinte
+T43	expression_CIM 2423 2465	atteinte pleuro-péricardique et pulmonaire
+T44	topographie 2432 2451	pleuro-péricardique
+T45	topographie 2455 2465	pulmonaire
+T46	expression_CIM 2528 2556	carcinome à petites cellules
+T47	morphologie 2528 2556	carcinome à petites cellules
+T48	morphologie 2622 2633	progression
+T49	expression_CIM 2622 2656	progression hépatique et cérébrale
+T50	topographie 2634 2643	hépatique
+T51	topographie 2647 2656	cérébrale
+T52	expression_CIM 2737 2754	cellules d'avoine
+T29	topographie 2020 2034	segment V-VIII
+#1	ICD-O T53	tocheck
+#2	ICD-O T1	8140/3
+#3	ICD-O T2	C34.9 8140/3
+#4	ICD-O T3	C34.9
+#5	ICD-O T4	8000/1
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	8000/1
+#8	ICD-O T7	C76.1 8000/1
+#9	ICD-O T8	C76.1
+#10	ICD-O T9	8000/1
+#11	ICD-O T10	C77.1 8000/1
+#12	ICD-O T11	C77.1
+#13	ICD-O T12	8000/6
+#14	ICD-O T13	8000/6
+#15	ICD-O T14	8000/6
+#16	ICD-O T15	C34.9 8000/6
+#17	ICD-O T16	C34.9
+#18	ICD-O T17	8000/6
+#19	ICD-O T18	C34.9 8000/6
+#20	ICD-O T19	C34.9
+#21	ICD-O T20	8000/6
+#22	ICD-O T21	C22.0 8000/6;C71.0 8000/6
+#23	ICD-O T22	C22.0
+#24	ICD-O T23	C71.0
+#25	ICD-O T24	C22.0
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8000/1
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	8041/3
+#31	ICD-O T33	8041/3
+#32	ICD-O T34	8246/3
+#33	ICD-O T35	8246/34
+#34	ICD-O T36	4
+#35	ICD-O T37	8140/3
+#36	ICD-O T38	C34.9 8140/3
+#37	ICD-O T39	C34.9
+#38	ICD-O T40	8000/6
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	C34.9 8000/1;C76.1 8000/1
+#42	ICD-O T44	C76.1
+#43	ICD-O T45	C34.9
+#44	ICD-O T46	8041/3
+#45	ICD-O T47	8041/3
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	C22.0 8000/6;C71.0 8000/6
+#48	ICD-O T50	C22.0
+#49	ICD-O T51	C71.0

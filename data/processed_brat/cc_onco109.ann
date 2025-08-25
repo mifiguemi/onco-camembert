@@ -1,0 +1,40 @@
+T1	morphologie 268 274	cancer
+T3	topographie 278 282	sein
+T5	morphologie 313 321	mélanome
+T6	morphologie 377 412	carcinome canalaire infiltrant (CDI
+T8	topographie 417 421	sein
+T10	morphologie 567 584	cellules malignes
+T12	morphologie 616 643	maladie tumorale à distance
+T15	topographie 689 693	sein
+T16	morphologie 1644 1660	adénopathie (ADP
+T19	morphologie 1801 1812	adénopathie
+T21	topographie 1813 1830	supraclaviculaire
+T22	morphologie 1990 1993	ADP
+T24	topographie 1994 2011	supraclaviculaire
+T26	morphologie 2021 2030	métastase
+T27	morphologie 2036 2039	IDC
+T29	topographie 2040 2048	mammaire
+T31	morphologie 2589 2607	maladie à distance
+T32	morphologie 2742 2751	métastase
+T34	topographie 2783 2804	vertèbre cervicale C4
+T36	morphologie 2899 2905	lésion
+T37	morphologie 2930 2936	lésion
+T39	topographie 2937 2944	osseuse
+T40	morphologie 3004 3009	masse
+T42	topographie 3013 3024	tissus mous
+T43	morphologie 3112 3120	atteinte
+T45	topographie 3127 3142	moelle épinière
+T46	morphologie 3282 3288	tumeur
+T48	topographie 3303 3323	arc postérieur de C4
+T49	morphologie 3471 3477	lésion
+T51	topographie 3478 3485	osseuse
+T53	morphologie 3496 3505	métastase
+T54	morphologie 3508 3511	IDC
+T56	topographie 3515 3519	sein
+T58	morphologie 3615 3641	récidive oligométastatique
+T59	morphologie 3647 3650	IDC
+T62	morphologie 3661 3680	sous-type luminal A
+T61	topographie 3651 3659	mammaire
+T13	morphologie 682 685	CBI
+T63	morphologie 701 723	de sous-type luminal A
+T18	topographie 1670 1693	région sus-claviculaire

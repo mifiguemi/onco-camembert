@@ -1,0 +1,90 @@
+T1	morphologie 149 181	adénocarcinome papillaire séreux
+T2	expression_CIM 149 196	adénocarcinome papillaire séreux de l'ovaire G2
+T3	topographie 187 193	ovaire
+T4	differenciation 194 196	G2
+T5	expression_CIM 265 275	métastases
+T6	morphologie 265 275	métastases
+T7	expression_CIM 291 303	adénopathies
+T8	morphologie 291 303	adénopathies
+T9	morphologie 343 355	adénopathies
+T10	expression_CIM 343 384	adénopathies pelviennes et para-aortiques
+T11	topographie 356 366	pelviennes
+T12	topographie 370 384	para-aortiques
+T13	morphologie 411 428	invasion tumorale
+T14	expression_CIM 411 444	invasion tumorale du rectum-sigma
+T16	morphologie 454 470	atteinte séreuse
+T17	expression_CIM 454 484	atteinte séreuse et musculaire
+T19	expression_CIM 613 619	tumeur
+T20	morphologie 613 619	tumeur
+T21	morphologie 792 824	adénocarcinome papillaire séreux
+T22	expression_CIM 792 836	adénocarcinome papillaire séreux de l'ovaire
+T23	topographie 830 836	ovaire
+T24	morphologie 1514 1530	lésion nodulaire
+T25	expression_CIM 1514 1569	lésion nodulaire occupant l'espace dans le lobe frontal
+T26	topographie 1557 1569	lobe frontal
+T27	expression_CIM 1736 1748	néoplasiques
+T28	morphologie 1736 1748	néoplasiques
+T29	expression_CIM 1777 1786	métastase
+T30	morphologie 1777 1786	métastase
+T31	morphologie 2404 2410	lésion
+T32	expression_CIM 2404 2420	lésion cérébrale
+T33	topographie 2411 2420	cérébrale
+T34	morphologie 2654 2663	Métastase
+T35	expression_CIM 2654 2673	Métastase cérébrale
+T36	topographie 2664 2673	cérébrale
+T37	morphologie 2686 2718	adénocarcinome papillaire séreux
+T38	expression_CIM 2686 2744	adénocarcinome papillaire séreux de haut grade de l'ovaire
+T39	differenciation 2722 2732	haut grade
+T40	topographie 2738 2744	ovaire
+T41	morphologie 2893 2896	LOE
+T42	expression_CIM 2893 2906	LOE cérébrale
+T43	topographie 2897 2906	cérébrale
+T44	expression_CIM 3386 3405	composante tumorale
+T45	morphologie 3386 3405	composante tumorale
+T46	morphologie 3751 3783	adénocarcinome papillaire séreux
+T47	expression_CIM 3751 3821	adénocarcinome papillaire séreux de haut grade d'origine gynécologique
+T48	differenciation 3787 3797	haut grade
+T49	topographie 3808 3821	gynécologique
+T18	topographie 474 484	musculaire
+T15	topographie 432 444	rectum-sigma
+#1	ICD-O T1	8460/3
+#2	ICD-O T2	C56.9 8460/32
+#3	ICD-O T3	C56.9
+#4	ICD-O T4	2
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C77.9 8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C77.1 8000/1;C77.5 8000/1
+#11	ICD-O T11	C76.3
+#12	ICD-O T12	C49.4
+#13	ICD-O T13	8000/6
+#14	ICD-O T16	tocheck
+#15	ICD-O T19	8000/1
+#16	ICD-O T20	8000/3
+#17	ICD-O T21	8460/3
+#18	ICD-O T22	C56.9 8460/3
+#19	ICD-O T23	C56.9
+#20	ICD-O T24	8000/1
+#21	ICD-O T26	C71.1
+#22	ICD-O T28	8000/3
+#23	ICD-O T29	8000/6
+#24	ICD-O T30	8000/6
+#25	ICD-O T31	8000/1
+#26	ICD-O T32	C71.0 8000/1
+#27	ICD-O T33	C71.9
+#28	ICD-O T34	8000/6
+#29	ICD-O T35	C71.0 8000/6
+#30	ICD-O T36	C71.9
+#31	ICD-O T37	8460/3
+#32	ICD-O T38	C56.9 8460/34
+#33	ICD-O T39	4
+#34	ICD-O T40	C56.9
+#35	ICD-O T41	8000/1
+#36	ICD-O T43	C71.9
+#37	ICD-O T45	8000/3
+#38	ICD-O T46	8460/3
+#39	ICD-O T47	C57.9 8460/34
+#40	ICD-O T48	4
+#41	ICD-O T49	C57.9

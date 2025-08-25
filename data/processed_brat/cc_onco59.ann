@@ -1,0 +1,22 @@
+T1	morphologie 464 469	masse
+T3	topographie 470 480	abdominale
+T4	morphologie 1064 1070	tumeur
+T6	topographie 1086 1097	hémiabdomen
+T8	morphologie 1366 1371	masse
+T9	morphologie 1416 1441	liposarcome dédifférencié
+T11	differenciation 1455 1462	grade 2
+T13	morphologie 1655 1661	tumeur
+T15	morphologie 1755 1761	tumeur
+T16	morphologie 1862 1873	liposarcome
+T37	morphologie 1890 1903	dédifférencié
+T18	topographie 1874 1889	rétropéritonéal
+T19	differenciation 1907 1914	grade 2
+T21	morphologie 2097 2106	néoplasie
+T23	morphologie 2552 2568	lit de la tumeur
+T25	morphologie 2686 2703	récidive tumorale
+T26	morphologie 3461 3468	lésions
+T28	topographie 3469 3480	pulmonaires
+T30	morphologie 3508 3518	métastases
+T32	morphologie 4068 4083	tumeur primaire
+T34	morphologie 4717 4740	stabilité de la maladie
+T36	morphologie 4855 4880	progression de la maladie

@@ -1,0 +1,82 @@
+T1	morphologie 305 319	masse tumorale
+T2	expression_CIM 305 336	masse tumorale peu différenciée
+T3	differenciation 320 336	peu différenciée
+T4	morphologie 447 459	infiltration
+T5	expression_CIM 447 472	infiltration de l'uretère
+T6	topographie 465 472	uretère
+T7	expression_CIM 555 561	lésion
+T8	morphologie 555 561	lésion
+T9	expression_CIM 621 652	néoplasie à cellules fusiformes
+T10	morphologie 621 652	néoplasie à cellules fusiformes
+T11	expression_CIM 721 749	différenciation sarcomatoïde
+T12	morphologie 721 749	différenciation sarcomatoïde
+T13	expression_CIM 981 995	masse tumorale
+T14	morphologie 981 995	masse tumorale
+T15	morphologie 1168 1174	lésion
+T16	expression_CIM 1168 1184	lésion hépatique
+T17	topographie 1175 1184	hépatique
+T18	expression_CIM 1199 1209	métastases
+T19	morphologie 1199 1209	métastases
+T20	morphologie 1240 1260;1275 1305	carcinome urothélial à différenciation sarcomatoïde
+T21	expression_CIM 1240 1274	carcinome urothélial de haut grade
+T22	differenciation 1264 1274	haut grade
+T23	expression_CIM 1309 1317	stade IV
+T24	morphologie 1309 1317	stade IV
+T25	morphologie 1343 1351	atteinte
+T26	expression_CIM 1343 1361	atteinte hépatique
+T27	topographie 1352 1361	hépatique
+T28	morphologie 1593 1618	progression de la maladie
+T29	expression_CIM 1593 1638	progression de la maladie au niveau hépatique
+T30	topographie 1629 1638	hépatique
+T31	expression_CIM 3981 3997	maladie tumorale
+T32	morphologie 3981 3997	maladie tumorale
+T33	morphologie 4024 4029	masse
+T34	expression_CIM 4024 4039	masse pelvienne
+T35	topographie 4030 4039	pelvienne
+T36	morphologie 4045 4057	adénopathies
+T37	expression_CIM 4045 4075	adénopathies rétropéritonéales
+T38	topographie 4058 4075	rétropéritonéales
+T39	morphologie 4083 4093	métastases
+T40	expression_CIM 4083 4104	métastases hépatiques
+T41	topographie 4094 4104	hépatiques
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/33
+#3	ICD-O T3	3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C66.9 8000/1
+#6	ICD-O T6	C66.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8004/3
+#10	ICD-O T10	8004/3
+#11	ICD-O T11	8033/3
+#12	ICD-O T12	8033/3
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	8000/3
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C22.0 8000/1
+#17	ICD-O T17	C22.0
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	8120/3
+#21	ICD-O T21	8120/34
+#22	ICD-O T22	4
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C22.0 8000/1
+#27	ICD-O T27	C22.0
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C22.0 8000/1
+#30	ICD-O T30	C22.0
+#31	ICD-O T31	8000/3
+#32	ICD-O T32	8000/3
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	C76.3 8000/1
+#35	ICD-O T35	C76.3
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	C77.2 8000/1
+#38	ICD-O T38	C48.0
+#39	ICD-O T39	8000/6
+#40	ICD-O T40	C22.0 8000/6
+#41	ICD-O T41	C22.0

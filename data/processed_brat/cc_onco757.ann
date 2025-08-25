@@ -1,0 +1,32 @@
+T1	morphologie 83 97	adénocarcinome
+T3	topographie 104 112	prostate
+T5	morphologie 116 124	stade IV
+T6	morphologie 141 149	atteinte
+T8	topographie 150 157	osseuse
+T9	topographie 161 170	hépatique
+T10	morphologie 707 721	adénocarcinome
+T12	topographie 728 736	prostate
+T13	differenciation 740 749	Gleason 6
+T14	morphologie 910 917	lésions
+T16	topographie 945 963	colonne vertébrale
+T17	morphologie 1303 1317	adénocarcinome
+T19	topographie 1324 1332	prostate
+T20	differenciation 1336 1345	Gleason 8
+T21	morphologie 2352 2363	progression
+T23	topographie 2364 2371	osseuse
+T25	morphologie 2569 2596	stabilisation de la maladie
+T26	morphologie 2658 2669	progression
+T28	topographie 2694 2700	osseux
+T29	morphologie 3027 3038	progression
+T31	topographie 3042 3046	foie
+T32	topographie 3470 3476	Bouche
+T34	morphologie 3482 3488	lésion
+T35	morphologie 3520 3531	adénopathie
+T37	topographie 3532 3541	cervicale
+T38	topographie 3543 3559	sus-claviculaire
+T39	topographie 3563 3572	axillaire
+T41	morphologie 3586 3593	lésions
+T43	morphologie 3769 3774	masse
+T45	morphologie 5270 5282	myélofibrose
+T46	morphologie 5939 5950	progression
+T48	topographie 5981 5990	hépatique

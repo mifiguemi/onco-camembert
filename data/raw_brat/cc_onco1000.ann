@@ -1,0 +1,97 @@
+T1	morphologie 164 172	grosseur
+T2	expression_CIM 164 192	grosseur dans les deux seins
+T3	topographie 187 192	seins
+T4	expression_CIM 371 426	lymphome diffus à grandes cellules B (DLBCL) extranodal
+T5	morphologie 371 426	lymphome diffus à grandes cellules B (DLBCL) extranodal
+T6	morphologie 467 472	DLBCL
+T7	expression_CIM 467 491	DLBCL stade IIAE (sein),
+T8	topographie 485 489	sein
+T9	expression_CIM 1484 1505	infiltration tumorale
+T10	morphologie 1484 1505	infiltration tumorale
+T11	expression_CIM 1602 1607	DLBCL
+T12	morphologie 1602 1607	DLBCL
+T13	expression_CIM 1862 1867	DLBCL
+T14	morphologie 1862 1867	DLBCL
+T15	expression_CIM 2029 2035	tumeur
+T16	morphologie 2029 2035	tumeur
+T17	expression_CIM 2121 2151	carcinome canalaire infiltrant
+T18	morphologie 2121 2151	carcinome canalaire infiltrant
+T19	morphologie 2503 2512	néoplasie
+T20	expression_CIM 2503 2525	néoplasie dans le sein
+T21	topographie 2521 2525	sein
+T22	expression_CIM 2625 2656	lésions suspectes de métastases
+T23	morphologie 2625 2656	lésions suspectes de métastases
+T24	topographie 2812 2826	lobe hépatique
+T25	expression_CIM 2812 2839	lobe hépatique droit lésion
+T26	morphologie 2833 2839	lésion
+T27	morphologie 2955 2971;2995 3007	lymphadénopathie pathologique
+T28	expression_CIM 2955 3007	lymphadénopathie iliaque externe droite pathologique
+T30	morphologie 3037 3053	lymphadénopathie
+T31	expression_CIM 3037 3079	lymphadénopathie de la racine de la cuisse
+T32	topographie 3073 3079	cuisse
+T33	expression_CIM 3161 3171	métastases
+T34	morphologie 3161 3171	métastases
+T35	expression_CIM 3222 3232	métastases
+T36	morphologie 3222 3232	métastases
+T37	expression_CIM 3273 3303	carcinome canalaire infiltrant
+T38	morphologie 3273 3303	carcinome canalaire infiltrant
+T39	expression_CIM 3423 3476	lymphome diffus à grandes cellules B de sous-type ABC
+T40	morphologie 3423 3476	lymphome diffus à grandes cellules B de sous-type ABC
+T41	morphologie 3716 3721	masse
+T42	expression_CIM 3716 3760	masse indurée d'environ 10 cm dans la cuisse
+T43	topographie 3754 3760	cuisse
+T44	morphologie 3917 3923	lésion
+T45	expression_CIM 3917 3946	lésion de la paroi thoracique
+T46	topographie 3930 3946	paroi thoracique
+T47	expression_CIM 3978 3985	lésions
+T48	morphologie 3978 3985	lésions
+T49	expression_CIM 4199 4205	tumeur
+T50	morphologie 4199 4205	tumeur
+T51	expression_CIM 4418 4424	tumeur
+T52	morphologie 4418 4424	tumeur
+T29	topographie 2972 2987	iliaque externe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T5	9680/3
+#5	ICD-O T6	9680/3
+#6	ICD-O T8	C50.9
+#7	ICD-O T9	8000/6
+#8	ICD-O T10	8000/6
+#9	ICD-O T11	9680/3
+#10	ICD-O T12	9680/3
+#11	ICD-O T13	9680/3
+#12	ICD-O T14	9680/3
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8500/3
+#16	ICD-O T18	8500/3
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	C50.9 8000/1
+#19	ICD-O T21	C50.9
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	C22.0
+#22	ICD-O T26	8000/1
+#23	ICD-O T27	8000/6
+#24	ICD-O T30	8000/1
+#25	ICD-O T31	C77.4 8000/1
+#26	ICD-O T32	C76.5
+#27	ICD-O T33	8000/6
+#28	ICD-O T34	8000/6
+#29	ICD-O T35	8000/6
+#30	ICD-O T36	8000/6
+#31	ICD-O T37	8500/3
+#32	ICD-O T38	8500/3
+#33	ICD-O T40	9680/3
+#34	ICD-O T41	8000/1
+#35	ICD-O T42	C76.5 8000/1
+#36	ICD-O T43	C76.5
+#37	ICD-O T44	8000/1
+#38	ICD-O T45	C76.1 8000/1
+#39	ICD-O T46	C76.1
+#40	ICD-O T47	8000/1
+#41	ICD-O T48	8000/1
+#42	ICD-O T49	8000/1
+#43	ICD-O T50	8000/1
+#44	ICD-O T51	8000/1
+#45	ICD-O T52	8000/1

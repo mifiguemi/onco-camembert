@@ -1,0 +1,65 @@
+T70	topographie 8777 8800	région rétropéritonéale
+T1	morphologie 384 393	néoplasie
+T3	topographie 394 406	testiculaire
+T5	morphologie 688 708	tumeur séminomateuse
+T6	morphologie 778 786	invasion
+T8	topographie 787 797	vasculaire
+T9	morphologie 955 967	adénopathies
+T11	topographie 980 997	rétropéritonéales
+T12	topographie 1001 1011	inguinales
+T14	morphologie 1116 1122	tumeur
+T15	morphologie 1170 1178	invasion
+T17	topographie 1182 1193	rete testis
+T19	morphologie 1440 1448	récidive
+T21	morphologie 2478 2495	récidive tumorale
+T22	morphologie 2521 2546	conglomérat adénopathique
+T24	topographie 2547 2562	rétropéritonéal
+T25	morphologie 3299 3305	tumeur
+T106	morphologie 3319 3327	primaire
+T27	topographie 3306 3318	testiculaire
+T29	morphologie 3472 3495	implication néoplasique
+T30	morphologie 3567 3592	conglomérat adénopathique
+T32	topographie 3593 3608	rétropéritonéal
+T34	morphologie 3649 3663	tumeur maligne
+T36	morphologie 3676 3705	prise pathologique à distance
+T38	morphologie 4064 4073	néoplasme
+T39	morphologie 4701 4706	masse
+T41	topographie 4717 4727	sus-pubien
+T42	morphologie 5009 5024	lésion tumorale
+T44	topographie 5031 5038	uretère
+T46	morphologie 5760 5785	lésions occupant l'espace
+T47	morphologie 5815 5821	foyers
+T49	morphologie 6201 6234	conglomérat tumoral adénopathique
+T51	topographie 6321 6337	rétropéritonéale
+T53	morphologie 6530 6535	masse
+T54	morphologie 7002 7007	masse
+T56	topographie 7008 7024	rétropéritonéale
+T58	morphologie 7457 7463	lésion
+T59	morphologie 7972 7979	nodules
+T61	topographie 7980 7991	pulmonaires
+T63	morphologie 8006 8016	métastases
+T64	morphologie 8032 8039	nodules
+T66	topographie 8079 8093	lobe supérieur
+T67	topographie 8106 8116	lobe moyen
+T68	morphologie 8728 8762	dépôt pathologique du radiotraceur
+T71	morphologie 9019 9030	conglomérat
+T73	topographie 9057 9071	rétropéritoine
+T74	morphologie 9303 9317	tumeur maligne
+T76	topographie 9342 9363	parenchyme pulmonaire
+T77	morphologie 9529 9568	augmentation de la captation du traceur
+T79	topographie 9646 9657	côlon droit
+T81	morphologie 9664 9671	lésions
+T82	morphologie 9725 9753	augmentation de la captation
+T84	topographie 9772 9783	rectum anal
+T86	morphologie 10402 10409	lésions
+T87	morphologie 10483 10508	conglomérat adénopathique
+T89	topographie 10509 10524	rétropéritonéal
+T91	morphologie 10616 10624	séminome
+T93	morphologie 10729 10738	malignité
+T94	morphologie 10781 10789	récidive
+T96	topographie 10790 10806	rétropéritonéale
+T97	morphologie 10820 10828	séminome
+T99	topographie 10829 10841	testiculaire
+T101	morphologie 11089 11097	récidive
+T103	morphologie 11109 11117	séminome
+T105	morphologie 12012 12020	séminome

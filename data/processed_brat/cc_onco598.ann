@@ -1,0 +1,65 @@
+T9	topographie 467 489	creux sus-claviculaire
+T80	morphologie 3502 3504	CR
+T87	morphologie 3999 4001	CR
+T20	topographie 887 905	quadrants externes
+T1	morphologie 84 92	atteinte
+T3	topographie 93 100	cutanée
+T4	morphologie 207 215	grosseur
+T6	topographie 216 232	sus-claviculaire
+T7	morphologie 411 423	adénopathies
+T10	topographie 494 498	sein
+T11	morphologie 579 585	tumeur
+T13	topographie 638 642	sein
+T14	morphologie 647 672	conglomérat adénopathique
+T17	morphologie 834 839	masse
+T19	topographie 855 859	sein
+T22	morphologie 978 989	adénopathie
+T24	topographie 990 999	axillaire
+T26	morphologie 1063 1083	carcinome infiltrant
+T27	morphologie 1147 1158	adénopathie
+T97	morphologie 1176 1188	métastatique
+T29	topographie 1159 1168	axillaire
+T30	morphologie 1262 1288	adénopathies pathologiques
+T33	morphologie 1346 1351	masse
+T35	topographie 1360 1364	sein
+T36	morphologie 1377 1389	infiltration
+T38	topographie 1396 1400	peau
+T40	morphologie 1421 1444	carcinome inflammatoire
+T41	topographie 1449 1453	foie
+T43	morphologie 1476 1486	métastases
+T44	morphologie 1494 1504	métastases
+T46	topographie 1505 1582	osseuses dans les régions cervicale, dorsale, lombaire, pelvienne et fémorale
+T47	morphologie 1666 1686	carcinome infiltrant
+T49	topographie 1690 1694	sein
+T51	morphologie 1766 1774	stade IV
+T52	morphologie 1776 1786	métastases
+T54	topographie 1787 1797	hépatiques
+T55	topographie 1801 1809	osseuses
+T57	morphologie 2023 2035	adénopathies
+T59	morphologie 2043 2053	léthargies
+T60	morphologie 2963 2981	progression locale
+T62	topographie 2990 2994	sein
+T63	topographie 2999 3005	poumon
+T64	topographie 3012 3016	foie
+T66	morphologie 3044 3062	maladie disséminée
+T68	morphologie 3128 3155	stabilisation de la maladie
+T69	morphologie 3231 3242	progression
+T71	topographie 3246 3249	SNC
+T72	morphologie 3266 3272	lésion
+T74	topographie 3273 3281	frontale
+T76	morphologie 3371 3380	métastase
+T77	morphologie 3467 3474	maladie
+T79	topographie 3492 3498	osseux
+T82	topographie 3505 3515	pulmonaire
+T83	topographie 3517 3526	hépatique
+T84	topographie 3530 3533	SNC
+T86	morphologie 3601 3615	masse tumorale
+T89	topographie 4002 4009	osseuse
+T90	topographie 4011 4020	hépatique
+T91	topographie 4024 4034	pulmonaire
+T92	morphologie 4040 4051	progression
+T94	topographie 4066 4069	SNC
+T96	morphologie 4524 4532	Récidive
+T16	topographie 720 736	région axillaire
+T32	topographie 1297 1313	région axillaire
+T21	topographie 909 924	rétro-aréolaire

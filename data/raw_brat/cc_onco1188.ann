@@ -1,0 +1,35 @@
+T1	morphologie 1418 1432	Adénocarcinome
+T2	expression_CIM 1418 1449	Adénocarcinome gastrique diffus
+T3	topographie 1433 1442	gastrique
+T4	expression_CIM 1450 1452	IV
+T5	morphologie 1450 1452	IV
+T6	expression_CIM 1879 1930	adénocarcinome infiltrant diffus en bague de signet
+T7	morphologie 1879 1930	adénocarcinome infiltrant diffus en bague de signet
+T8	morphologie 1936 1946	métastases
+T9	expression_CIM 1936 1971	métastases dans 14 des 24 ganglions
+T10	topographie 1962 1971	ganglions
+T11	morphologie 2044 2051	lésions
+T12	expression_CIM 2044 2063	lésions pulmonaires
+T13	topographie 2052 2063	pulmonaires
+T14	expression_CIM 2077 2087	métastases
+T15	morphologie 2077 2087	métastases
+T16	morphologie 2152 2159	lésions
+T17	expression_CIM 2152 2171	lésions pulmonaires
+T18	topographie 2160 2171	pulmonaires
+#1	ICD-O T1	8140/3
+#2	ICD-O T3	C16.9
+#3	ICD-O T4	8000/6
+#4	ICD-O T5	8000/6
+#5	ICD-O T7	8490/3
+#6	ICD-O T8	8000/6
+#7	ICD-O T9	C77.9 8000/6
+#8	ICD-O T10	C77.9
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	C34.9 8000/1
+#11	ICD-O T13	C34.9
+#12	ICD-O T14	8000/6
+#13	ICD-O T15	8000/6
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	C34.9 8000/1
+#16	ICD-O T18	C34.9
+#17	AnnotatorNotes T7	trad

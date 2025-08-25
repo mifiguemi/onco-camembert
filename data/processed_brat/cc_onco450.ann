@@ -1,0 +1,53 @@
+T1	morphologie 117 147	carcinome canalaire infiltrant
+T3	topographie 151 155	sein
+T4	morphologie 373 379	nodule
+T7	morphologie 477 493	lymphadénopathie
+T9	topographie 494 503	axillaire
+T11	morphologie 616 625	carcinome
+T12	morphologie 675 691	lymphadénopathie
+T14	topographie 692 701	axillaire
+T15	morphologie 960 970	métastases
+T17	morphologie 974 983	carcinome
+T18	differenciation 987 997	haut grade
+T19	topographie 1037 1046	ganglions
+T20	morphologie 1768 1773	masse
+T22	topographie 1774 1786	hypophysaire
+T23	morphologie 1932 1940	atteinte
+T25	topographie 1944 1959	chiasma optique
+T26	morphologie 2172 2188	lésion scléreuse
+T28	topographie 2214 2240	articulation sacro-iliaque
+T30	morphologie 2291 2297	lésion
+T32	morphologie 2340 2349	métastase
+T34	morphologie 2413 2422	carcinome
+T35	morphologie 2457 2469	adénopathies
+T37	topographie 2470 2480	axillaires
+T39	morphologie 2535 2541	tumeur
+T41	morphologie 2573 2582	néoplasme
+T42	morphologie 2628 2634	tumeur
+T44	topographie 2655 2659	sein
+T45	morphologie 2779 2788	métastase
+T47	topographie 2789 2796	osseuse
+T49	morphologie 2878 2884	lésion
+T51	morphologie 2943 2952	métastase
+T52	morphologie 2956 2965	carcinome
+T54	topographie 2966 2974	mammaire
+T55	morphologie 3013 3025	macroadénome
+T57	topographie 3026 3038	hypophysaire
+T58	morphologie 3189 3195	lésion
+T60	topographie 3196 3205	cérébrale
+T61	morphologie 3243 3249	lésion
+T63	topographie 3250 3257	osseuse
+T65	morphologie 3289 3307	foyer métastatique
+T66	morphologie 3409 3415	lésion
+T68	topographie 3416 3437	osseuse sacro-iliaque
+T70	morphologie 3544 3551	lésions
+T71	morphologie 3661 3667	lésion
+T73	topographie 3668 3680	hypophysaire
+T74	morphologie 3847 3853	lésion
+T76	topographie 3854 3861	osseuse
+T78	morphologie 3951 3960	carcinome
+T79	morphologie 5754 5759	foyer
+T81	topographie 5797 5810	sacro-iliaque
+T82	morphologie 5938 5947	métastase
+T84	topographie 5948 5955	osseuse
+T6	topographie 388 411	région sus-claviculaire

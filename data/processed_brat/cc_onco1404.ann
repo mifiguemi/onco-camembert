@@ -1,0 +1,21 @@
+T2	morphologie 813 820	lésions
+T3	morphologie 835 847	adénopathies
+T5	topographie 848 861	médiastinales
+T6	morphologie 887 894	lésions
+T8	topographie 895 905	hépatiques
+T10	morphologie 947 974	stabilisation de la maladie
+T12	morphologie 989 1001	adénopathies
+T13	morphologie 1005 1016	progression
+T15	topographie 1027 1036	hépatique
+T16	morphologie 1204 1229	conglomérat adénopathique
+T18	topographie 1231 1243	paratrachéal
+T20	topographie 1259 1274	para-œsophagien
+T21	morphologie 1299 1306	lésions
+T23	topographie 1307 1317	hépatiques
+T25	morphologie 1331 1341	métastases
+T26	morphologie 1442 1451	néoplasie
+T28	topographie 1452 1466	endobronchique
+T30	morphologie 1584 1608	carcinome neuroendocrine
+T31	morphologie 2587 2598	progression
+T33	topographie 2599 2608	hépatique
+T19	topographie 1245 1255	subcarinal

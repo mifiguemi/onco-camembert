@@ -1,0 +1,30 @@
+T1	morphologie 117 131	adénocarcinome
+T2	expression_CIM 117 155	adénocarcinome sténosant du bas rectum
+T3	topographie 149 155	rectum
+T4	morphologie 161 171	métastases
+T5	expression_CIM 161 227	métastases péritonéales, pulmonaires, ganglionnaires et hépatiques
+T6	topographie 172 184	péritonéales
+T7	topographie 186 197	pulmonaires
+T8	topographie 199 213	ganglionnaires
+T9	topographie 217 227	hépatiques
+T10	expression_CIM 1125 1148	stabilité de la maladie
+T11	morphologie 1125 1148	stabilité de la maladie
+T12	morphologie 1340 1342	EP
+T13	expression_CIM 1340 1373	EP au niveau pulmonaire et osseux
+T14	topographie 1353 1363	pulmonaire
+T15	topographie 1367 1373	osseux
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C20.9 8140/3
+#3	ICD-O T3	C20.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C22.0 8000/6;C34.9 8000/6;C48.2 8000/6;C77.9 8000/6
+#6	ICD-O T6	C48.2
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	C77.9
+#9	ICD-O T9	C22.0
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/9
+#13	ICD-O T14	C34.9
+#14	ICD-O T15	C41.9
+#15	AnnotatorNotes T12	trad

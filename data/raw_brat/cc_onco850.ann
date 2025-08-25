@@ -1,0 +1,34 @@
+T1	expression_CIM 93 128	cancer du sein canalaire infiltrant
+T2	topographie 103 107	sein
+T3	morphologie 108 128;93 99	canalaire infiltrant cancer
+T4	morphologie 271 277	cancer
+T5	expression_CIM 271 316	cancer de l'ovaire, du sein et de l'endomètre
+T6	topographie 283 289	ovaire
+T7	topographie 294 298	sein
+T8	topographie 307 316	endomètre
+T9	morphologie 653 659	cancer
+T10	expression_CIM 653 667	cancer du sein
+T11	topographie 663 667	sein
+T12	morphologie 1181 1187	cancer
+T13	expression_CIM 1181 1210	cancer du sein et de l'ovaire
+T14	topographie 1191 1195	sein
+T15	topographie 1204 1210	ovaire
+T16	expression_CIM 2683 2690	lésions
+T17	morphologie 2683 2690	lésions
+#1	ICD-O T1	C50.9 8500/3
+#2	ICD-O T2	C50.9
+#3	ICD-O T3	8500/3
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3;C54.1 8000/3;C56.9 8000/3
+#6	ICD-O T6	C56.9
+#7	ICD-O T7	C50.9
+#8	ICD-O T8	C54.1
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	C50.9 8000/3
+#11	ICD-O T11	C50.9
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	C50.9 8000/3;C56.9 8000/3
+#14	ICD-O T14	C50.9
+#15	ICD-O T15	C56.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1

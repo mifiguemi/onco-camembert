@@ -1,0 +1,82 @@
+T29	topographie 2965 2973	orbitale
+T1	morphologie 118 124	cancer
+T2	expression_CIM 118 132	cancer du sein
+T3	topographie 128 132	sein
+T4	morphologie 232 238	nodule
+T5	expression_CIM 232 251	nodule dans le sein
+T6	topographie 247 251	sein
+T7	morphologie 338 344	nodule
+T8	expression_CIM 338 395	nodule de 5 cm dans le quadrant inférieur interne du sein
+T9	topographie 361 395	quadrant inférieur interne du sein
+T10	morphologie 464 501	tumeur stromale à cellules fusiformes
+T11	expression_CIM 464 544	tumeur stromale à cellules fusiformes de grade histologique intermédiaire/faible
+T12	differenciation 505 544	grade histologique intermédiaire/faible
+T13	morphologie 682 701	tumeur de Phyllodes
+T14	expression_CIM 682 715	tumeur de Phyllodes de haut grade
+T15	differenciation 705 715	haut grade
+T16	morphologie 1725 1737	adénopathies
+T17	expression_CIM 1725 1830	adénopathies non spécifiques de taille non pathologique dans le hile droit et le rétropéritoine supérieur
+T18	topographie 1789 1793	hile
+T19	topographie 1806 1830	rétropéritoine supérieur
+T20	expression_CIM 1877 1883	tumeur
+T21	morphologie 1877 1883	tumeur
+T22	morphologie 2693 2699	tumeur
+T23	expression_CIM 2693 2742	tumeur dans la région inféro-latérale de l'orbite
+T24	topographie 2736 2742	orbite
+T25	expression_CIM 2912 2941	lésion de nature métastatique
+T26	morphologie 2912 2941	lésion de nature métastatique
+T27	morphologie 2955 2964	Métastase
+T28	expression_CIM 2955 2973	Métastase orbitale
+T30	morphologie 2980 2986;2995 3007	tumeur de Phyllodes
+T31	expression_CIM 2980 3007	tumeur du sein de Phyllodes
+T32	topographie 2990 2994	sein
+T33	expression_CIM 3069 3075	lésion
+T34	morphologie 3069 3075	lésion
+T35	expression_CIM 3194 3203	métastase
+T36	morphologie 3194 3203	métastase
+T37	morphologie 3210 3229	tumeur de Phyllodes
+T38	expression_CIM 3210 3243	tumeur de Phyllodes de haut grade
+T39	differenciation 3233 3243	haut grade
+T40	expression_CIM 3606 3612	lésion
+T41	morphologie 3606 3612	lésion
+T42	expression_CIM 3781 3810	récidive locale ou à distance
+T43	morphologie 3781 3810	récidive locale ou à distance
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C50.3 8000/1
+#9	ICD-O T9	C50.3
+#10	ICD-O T10	8935/1
+#11	ICD-O T11	8935/12
+#12	ICD-O T12	2
+#13	ICD-O T13	9020/1
+#14	ICD-O T15	4
+#15	ICD-O T16	8000/1
+#16	ICD-O T18	C76.1
+#17	ICD-O T19	C48.0
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/3
+#20	ICD-O T22	8000/3
+#21	ICD-O T23	C69.6 8000/1
+#22	ICD-O T24	C69.6
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/6
+#26	ICD-O T30	9020/1
+#27	ICD-O T32	C50.9
+#28	ICD-O T33	8000/1
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	8000/6
+#31	ICD-O T36	8000/6
+#32	ICD-O T37	9020/1
+#33	ICD-O T39	4
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T43	8000/9
+#37	AnnotatorNotes T13	trad
+#38	AnnotatorNotes T30	trad
+#39	AnnotatorNotes T37	trad

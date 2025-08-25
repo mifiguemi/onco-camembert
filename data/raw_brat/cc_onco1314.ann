@@ -1,0 +1,6 @@
+T1	morphologie 91 105	adénocarcinome
+T2	expression_CIM 91 153	adénocarcinome localement avancé du tiers distal de l'œsophage
+T3	topographie 127 153	tiers distal de l'œsophage
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C15.5 8140/3
+#3	ICD-O T3	C15.5

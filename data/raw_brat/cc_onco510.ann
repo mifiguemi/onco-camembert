@@ -1,0 +1,84 @@
+T27	topographie 2074 2088	muqueuse anale
+T1	morphologie 423 429	lésion
+T2	expression_CIM 423 471	lésion ulcérée a été observée au niveau périanal
+T3	topographie 463 471	périanal
+T4	expression_CIM 561 579	mélanome nodulaire
+T5	morphologie 561 579	mélanome nodulaire
+T6	morphologie 707 715	invasion
+T7	expression_CIM 707 741	invasion vasculaire ou lymphatique
+T8	topographie 716 726	vasculaire
+T9	topographie 730 741	lymphatique
+T10	morphologie 895 911	lymphadénopathie
+T11	expression_CIM 895 936	lymphadénopathie dans la région inguinale
+T12	topographie 920 936	région inguinale
+T13	expression_CIM 975 993	prise pathologique
+T14	morphologie 975 993	prise pathologique
+T15	expression_CIM 1005 1021	lymphadénopathie
+T16	morphologie 1005 1021	lymphadénopathie
+T17	expression_CIM 1440 1450	métastases
+T18	morphologie 1440 1450	métastases
+T19	expression_CIM 1454 1462	mélanome
+T20	morphologie 1454 1462	mélanome
+T21	expression_CIM 1662 1681	atteinte à distance
+T22	morphologie 1662 1681	atteinte à distance
+T23	expression_CIM 1952 1973	infiltration tumorale
+T24	morphologie 1952 1973	infiltration tumorale
+T25	morphologie 2059 2067	mélanome
+T26	expression_CIM 2059 2088	mélanome de la muqueuse anale
+T28	expression_CIM 2509 2528	maladie oncologique
+T29	morphologie 2509 2528	maladie oncologique
+T30	morphologie 2883 2888	masse
+T31	expression_CIM 2883 2901	masse parotidienne
+T32	topographie 2889 2901	parotidienne
+T33	expression_CIM 3004 3020	lymphadénopathie
+T34	morphologie 3004 3020	lymphadénopathie
+T35	expression_CIM 3076 3094	pathologie maligne
+T36	morphologie 3076 3094	pathologie maligne
+T37	morphologie 3949 3954	masse
+T38	expression_CIM 3949 3967	masse parotidienne
+T39	topographie 3955 3967	parotidienne
+T40	expression_CIM 4094 4110	lymphadénopathie
+T41	morphologie 4094 4110	lymphadénopathie
+T42	expression_CIM 4166 4184	pathologie maligne
+T43	morphologie 4166 4184	pathologie maligne
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.5 8000/1
+#3	ICD-O T3	C44.5
+#4	ICD-O T4	8721/3
+#5	ICD-O T5	8721/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C49.9 8000/1
+#8	ICD-O T8	C49.9
+#9	ICD-O T9	C49.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.4 8000/1
+#12	ICD-O T12	C76.3
+#13	ICD-O T14	8000/9
+#14	ICD-O T15	C77.9 8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	8000/6
+#18	ICD-O T19	8720/3
+#19	ICD-O T20	8720/3
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	8720/3
+#25	ICD-O T26	C21.0 8720/3
+#26	ICD-O T28	8000/3
+#27	ICD-O T29	8000/3
+#28	ICD-O T30	8000/1
+#29	ICD-O T31	C07.9 8000/1
+#30	ICD-O T32	C07.9
+#31	ICD-O T33	C77.9 8000/1
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	8000/3
+#34	ICD-O T36	8000/3
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	C07.9 8000/1
+#37	ICD-O T39	C07.9
+#38	ICD-O T40	C77.9 8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	8000/3
+#41	ICD-O T43	8000/3

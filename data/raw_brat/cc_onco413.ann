@@ -1,0 +1,174 @@
+T20	topographie 1590 1594	LICS
+T86	topographie 5425 5441	LICS-CSE du sein
+T14	topographie 1192 1231	ligne para-aréolaire supérieure du sein
+T1	morphologie 457 463	cancer
+T2	expression_CIM 457 472	cancer du côlon
+T3	topographie 467 472	côlon
+T4	morphologie 531 540	néoplasie
+T5	expression_CIM 531 553	néoplasie de l'estomac
+T6	topographie 546 553	estomac
+T7	morphologie 667 673	tumeur
+T8	expression_CIM 667 681	tumeur au sein
+T9	topographie 677 681	sein
+T10	expression_CIM 862 868	lésion
+T11	morphologie 862 868	lésion
+T12	morphologie 1170 1176	lésion
+T13	expression_CIM 1170 1231	lésion de 2 cm sur la ligne para-aréolaire supérieure du sein
+T15	morphologie 1245 1261	lymphadénopathie
+T16	expression_CIM 1245 1271	lymphadénopathie axillaire
+T17	topographie 1262 1271	axillaire
+T18	morphologie 1472 1489	zone hypoéchogène
+T19	expression_CIM 1472 1594	zone hypoéchogène mal définie, aux contours spiculés, d'aspect nodulaire mesurant 12 x 18 x 13 mm située au niveau du LICS
+T21	expression_CIM 1614 1620	nodule
+T22	morphologie 1614 1620	nodule
+T23	morphologie 1914 1920	lésion
+T24	expression_CIM 1914 1929	lésion mammaire
+T25	topographie 1921 1929	mammaire
+T26	morphologie 1979 1999	carcinome infiltrant
+T27	expression_CIM 1979 2024	carcinome infiltrant de grade histologique II
+T28	differenciation 2003 2024	grade histologique II
+T29	expression_CIM 2122 2140	cellules tumorales
+T30	morphologie 2122 2140	cellules tumorales
+T31	expression_CIM 2204 2222	cellules tumorales
+T32	morphologie 2204 2222	cellules tumorales
+T33	morphologie 2399 2410	adénopathie
+T34	expression_CIM 2399 2420	adénopathie axillaire
+T35	topographie 2411 2420	axillaire
+T36	morphologie 2432 2441	métastase
+T37	expression_CIM 2432 2455	métastase ganglionnaire
+T38	topographie 2442 2455	ganglionnaire
+T39	expression_CIM 2465 2485	carcinome infiltrant
+T40	morphologie 2465 2485	carcinome infiltrant
+T41	morphologie 2563 2569	lésion
+T42	expression_CIM 2563 2578	lésion mammaire
+T43	topographie 2570 2578	mammaire
+T44	expression_CIM 2674 2692	cellules tumorales
+T45	morphologie 2674 2692	cellules tumorales
+T46	expression_CIM 2757 2775	cellules tumorales
+T47	morphologie 2757 2775	cellules tumorales
+T48	morphologie 3301 3306	masse
+T49	expression_CIM 3301 3354	masse mesurant 38 x 25 x 32 mm (cc-ap-t) dans le sein
+T50	topographie 3350 3354	sein
+T51	morphologie 3519 3535	maladie tumorale
+T52	expression_CIM 3519 3576	maladie tumorale active dans le sein gauche et l'aisselle
+T53	topographie 3551 3555	sein
+T54	topographie 3568 3576	aisselle
+T55	morphologie 3601 3611	métastases
+T56	expression_CIM 3601 3622	métastases hépatiques
+T57	topographie 3612 3622	hépatiques
+T58	morphologie 3676 3697	atteinte métastatique
+T59	expression_CIM 3676 3715	atteinte métastatique au niveau du foie
+T60	topographie 3711 3715	foie
+T61	morphologie 3813 3823	métastases
+T62	expression_CIM 3813 3834	métastases hépatiques
+T63	topographie 3824 3834	hépatiques
+T64	morphologie 3845 3854	carcinome
+T65	expression_CIM 3845 3873	carcinome d'origine mammaire
+T66	topographie 3865 3873	mammaire
+T67	morphologie 4170 4190	Carcinome infiltrant
+T68	expression_CIM 4170 4229	Carcinome infiltrant du sein gauche de grade histologique 2
+T69	topographie 4194 4198	sein
+T70	differenciation 4209 4229	grade histologique 2
+T71	expression_CIM 4263 4271	stade IV
+T72	morphologie 4263 4271	stade IV
+T73	morphologie 4295 4304	atteintes
+T74	expression_CIM 4295 4315	atteintes hépatiques
+T75	topographie 4305 4315	hépatiques
+T76	morphologie 4369 4378;4388 4408	carcinome canalaire infiltrant
+T77	expression_CIM 4369 4408	carcinome mammaire canalaire infiltrant
+T78	topographie 4379 4387	mammaire
+T79	expression_CIM 4431 4450	atteinte à distance
+T80	morphologie 4431 4450	atteinte à distance
+T81	morphologie 4470 4480	métastases
+T82	expression_CIM 4470 4491	métastases hépatiques
+T83	topographie 4481 4491	hépatiques
+T84	morphologie 5395 5416	foyer hypercapillaire
+T85	expression_CIM 5395 5441	foyer hypercapillaire dans le LICS-CSE du sein
+T87	morphologie 5713 5720	maladie
+T88	expression_CIM 5713 5733	maladie dans le sein
+T89	topographie 5729 5733	sein
+T90	expression_CIM 5914 5930	lésion nodulaire
+T91	morphologie 5914 5930	lésion nodulaire
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C16.9 8000/1
+#6	ICD-O T6	C16.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C50.9 8000/1
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	C77.3 8000/1
+#15	ICD-O T17	C76.1
+#16	ICD-O T18	8000/1
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	8000/1
+#20	ICD-O T24	C50.9 8000/1
+#21	ICD-O T25	C50.9
+#22	ICD-O T26	8010/3
+#23	ICD-O T27	8010/32
+#24	ICD-O T28	2
+#25	ICD-O T29	8001/1
+#26	ICD-O T30	8001/1
+#27	ICD-O T31	8001/1
+#28	ICD-O T32	8001/1
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	C77.3 8000/1
+#31	ICD-O T35	C76.1
+#32	ICD-O T36	8000/6
+#33	ICD-O T37	C77.9 8000/6
+#34	ICD-O T38	C77.9
+#35	ICD-O T39	8010/3
+#36	ICD-O T40	8010/3
+#37	ICD-O T41	8000/1
+#38	ICD-O T42	C50.9 8000/1
+#39	ICD-O T43	C50.9
+#40	ICD-O T44	8001/1
+#41	ICD-O T45	8001/1
+#42	ICD-O T46	8001/1
+#43	ICD-O T47	8001/1
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	C50.9 8000/1
+#46	ICD-O T50	C50.9
+#47	ICD-O T51	8000/3
+#48	ICD-O T52	C50.9 8000/3;C76.1 8000/3
+#49	ICD-O T53	C50.9
+#50	ICD-O T54	C76.1
+#51	ICD-O T55	8000/6
+#52	ICD-O T56	C22.0 8000/6
+#53	ICD-O T57	C22.0
+#54	ICD-O T58	8000/6
+#55	ICD-O T59	C22.0 8000/6
+#56	ICD-O T60	C22.0
+#57	ICD-O T61	8000/6
+#58	ICD-O T62	C22.0 8000/6
+#59	ICD-O T63	C22.0
+#60	ICD-O T64	8010/3
+#61	ICD-O T65	C50.9 8010/3
+#62	ICD-O T66	C50.9
+#63	ICD-O T67	8010/3
+#64	ICD-O T68	C50.9 8010/32
+#65	ICD-O T69	C50.9
+#66	ICD-O T70	2
+#67	ICD-O T71	8000/6
+#68	ICD-O T72	8000/6
+#69	ICD-O T73	8000/1
+#70	ICD-O T74	C22.0 8000/1
+#71	ICD-O T75	C22.0
+#72	ICD-O T76	8500/3
+#73	ICD-O T77	C50.9 8500/3
+#74	ICD-O T78	C50.9
+#75	ICD-O T79	8000/6
+#76	ICD-O T80	8000/6
+#77	ICD-O T81	8000/6
+#78	ICD-O T82	C22.0 8000/6
+#79	ICD-O T83	C22.0
+#80	ICD-O T84	8000/1
+#81	ICD-O T87	8000/9
+#82	ICD-O T89	C50.9
+#83	ICD-O T91	8000/1

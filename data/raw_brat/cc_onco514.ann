@@ -1,0 +1,102 @@
+T1	morphologie 114 120	nodule
+T2	expression_CIM 114 149	nodule pulmonaire du lobe supérieur
+T3	topographie 121 149	pulmonaire du lobe supérieur
+T4	morphologie 161 173	adénopathies
+T5	expression_CIM 161 192	adénopathies hiliomédiastinales
+T6	topographie 174 192	hiliomédiastinales
+T7	morphologie 276 297	carcinome épidermoïde
+T8	expression_CIM 276 316	carcinome épidermoïde de l'aileron nasal
+T9	topographie 303 316	aileron nasal
+T10	morphologie 441 450	néoplasme
+T11	expression_CIM 441 456	néoplasme nasal
+T12	topographie 451 456	nasal
+T13	morphologie 709 731	carcinome microcytaire
+T14	expression_CIM 709 742	carcinome microcytaire pulmonaire
+T15	topographie 732 742	pulmonaire
+T16	expression_CIM 1559 1601	activité métabolique suspecte de malignité
+T17	morphologie 1559 1601	activité métabolique suspecte de malignité
+T18	expression_CIM 1904 1910	lésion
+T19	morphologie 1904 1910	lésion
+T20	morphologie 1935 1944	néoplasie
+T21	expression_CIM 1935 1955	néoplasie pulmonaire
+T22	topographie 1945 1955	pulmonaire
+T23	morphologie 2292 2298	lésion
+T24	expression_CIM 2292 2305	lésion nasale
+T25	topographie 2299 2305	nasale
+T26	expression_CIM 2805 2830	progression de la maladie
+T27	morphologie 2805 2830	progression de la maladie
+T28	expression_CIM 2877 2919	Activité métabolique suspecte de malignité
+T29	morphologie 2877 2919	Activité métabolique suspecte de malignité
+T30	morphologie 2933 2939	nodule
+T31	expression_CIM 2933 2978	nodule dans le lobe supérieur droit du poumon
+T32	topographie 2948 2962	lobe supérieur
+T33	topographie 2972 2978	poumon
+T34	morphologie 3194 3216	Carcinome microcytaire
+T35	expression_CIM 3194 3227	Carcinome microcytaire pulmonaire
+T36	topographie 3217 3227	pulmonaire
+T37	morphologie 3244 3265	Carcinome épidermoïde
+T38	expression_CIM 3244 3290	Carcinome épidermoïde localisé de l'ala nasale
+T39	topographie 3280 3290	ala nasale
+T40	morphologie 3981 4006	progression de la maladie
+T41	expression_CIM 3981 4099	progression de la maladie dans les poumons, la plèvre et les ganglions lymphatiques médiastinaux et supraclaviculaires
+T42	topographie 4016 4023	poumons
+T43	topographie 4028 4034	plèvre
+T44	topographie 4042 4099	ganglions lymphatiques médiastinaux et supraclaviculaires
+T45	morphologie 4369 4394	progression de la maladie
+T46	expression_CIM 4369 4405	progression de la maladie pulmonaire
+T47	topographie 4395 4405	pulmonaire
+T48	morphologie 4511 4523	infiltration
+T49	expression_CIM 4511 4541	infiltration trachéobronchique
+T50	topographie 4524 4541	trachéobronchique
+T51	expression_CIM 4572 4609	progression de la maladie néoplasique
+T52	morphologie 4572 4609	progression de la maladie néoplasique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.1 8000/1;C34.9 8000/1
+#3	ICD-O T3	C34.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.1 8000/1
+#6	ICD-O T6	C76.1
+#7	ICD-O T7	8070/3
+#8	ICD-O T9	C30.0 
+#9	ICD-O T10	8000/3
+#10	ICD-O T11	C30.0 8000/1
+#11	ICD-O T12	C30.0
+#12	ICD-O T13	8041/3
+#13	ICD-O T14	C34.9 8041/3
+#14	ICD-O T15	C34.9
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8000/3
+#20	ICD-O T21	C34.9 8000/1
+#21	ICD-O T22	C34.9
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	C30.0 8000/1
+#24	ICD-O T25	C30.0
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	8000/9
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C34.1 8000/1;C34.9 8000/1
+#31	ICD-O T32	C34.1
+#32	ICD-O T33	C34.9
+#33	ICD-O T34	8041/3
+#34	ICD-O T35	C34.9 8041/3
+#35	ICD-O T36	C34.9
+#36	ICD-O T37	8070/3
+#37	ICD-O T39	C30.0 
+#38	ICD-O T40	8000/9
+#39	ICD-O T41	C34.9 8000/1;C38.4 8000/1;C77.0 8000/1;C77.1 8000/1
+#40	ICD-O T42	C34.9
+#41	ICD-O T43	C38.4
+#42	ICD-O T44	C77.1 
+#43	ICD-O T45	8000/9
+#44	ICD-O T46	C34.9 8000/1
+#45	ICD-O T47	C34.9
+#46	ICD-O T48	8000/9
+#47	ICD-O T49	C76.1 8000/1
+#48	ICD-O T50	C76.1
+#49	ICD-O T51	8000/6
+#50	ICD-O T52	8000/9

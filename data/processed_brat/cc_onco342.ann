@@ -1,0 +1,49 @@
+T1	morphologie 116 125	carcinome
+T3	topographie 126 134	mammaire
+T4	morphologie 833 849	lésion nodulaire
+T6	topographie 857 861	sein
+T7	morphologie 1147 1153	nodule
+T9	topographie 1197 1228	quadrant supéro-externe du sein
+T11	morphologie 1634 1639	masse
+T12	morphologie 1906 1915	néoplasie
+T14	topographie 1916 1924	mammaire
+T15	morphologie 2216 2224	atteinte
+T18	morphologie 2484 2514	carcinome lobulaire infiltrant
+T20	topographie 2518 2522	sein
+T21	differenciation 2531 2557	grade histologique (GH) II
+T22	morphologie 2837 2867	carcinome lobulaire infiltrant
+T24	topographie 2871 2875	sein
+T26	morphologie 3178 3196	maladie à distance
+T27	morphologie 3385 3415	carcinome lobulaire infiltrant
+T29	topographie 3419 3423	sein
+T30	stadeTNM 3432 3442	cT3 cN0 M0
+T31	differenciation 3455 3460	GH II
+T32	morphologie 3975 3983	atteinte
+T36	morphologie 4930 4992	carcinome infiltrant mixte (lobulaire et sans type particulier
+T37	morphologie 5474 5490	lésions malignes
+T40	morphologie 6682 6693	adénopathie
+T42	topographie 6694 6703	axillaire
+T43	topographie 6705 6717	médiastinale
+T44	topographie 6721 6739	abdomino-pelvienne
+T46	morphologie 6949 6968	lésion métastatique
+T47	morphologie 7033 7066	captation intense du radiotraceur
+T49	topographie 7074 7084	os iliaque
+T51	morphologie 7237 7246	métastase
+T52	morphologie 7313 7319	lésion
+T54	topographie 7326 7338	lame iliaque
+T56	morphologie 7378 7385	lésions
+T57	morphologie 7411 7417	lésion
+T59	topographie 7418 7425	osseuse
+T60	topographie 7439 7449	os iliaque
+T61	morphologie 7611 7624	condensations
+T63	topographie 7625 7636	pulmonaires
+T65	morphologie 7829 7838	métastase
+T66	morphologie 7842 7851	carcinome
+T68	topographie 7880 7888	mammaire
+T69	morphologie 8105 8126	rechute de la maladie
+T71	topographie 8137 8143	osseux
+T72	morphologie 8887 8893	lésion
+T74	topographie 8894 8901	osseuse
+T34	topographie 4009 4020	SCC du sein
+T17	topographie 2265 2280	sein gauche CSE
+T39	topographie 5508 5534	tissu glandulaire mammaire

@@ -1,0 +1,73 @@
+T1	morphologie 273 279	nodule
+T3	topographie 299 314	muqueuse jugale
+T5	morphologie 523 529	tumeur
+T6	morphologie 823 829	Tumeur
+T8	topographie 846 861	muqueuse jugale
+T9	morphologie 870 881	Adénopathie
+T11	topographie 882 897	sous-maxillaire
+T12	morphologie 1089 1098	carcinome
+T106	morphologie 1113 1131	à petites cellules
+T14	differenciation 1099 1112	indifférencié
+T15	morphologie 1301 1307	lésion
+T17	topographie 1323 1336	espace buccal
+T18	topographie 1359 1374	muqueuse jugale
+T19	morphologie 1538 1549	adénopathie
+T21	topographie 1558 1580	chaîne sous-maxillaire
+T23	morphologie 1695 1701	tumeur
+T24	morphologie 1798 1822	lésion tumorale primaire
+T26	topographie 1823 1829	jugale
+T27	morphologie 1843 1885	conglomérat adénopathique hypermétabolique
+T107	morphologie 1900 1912	métastatique
+T29	topographie 1913 1928	sous-maxillaire
+T31	morphologie 1972 1978	nodule
+T33	topographie 1979 1988	jugulaire
+T34	morphologie 2058 2065	lésions
+T108	morphologie 2075 2088	métastatiques
+T36	topographie 2066 2074	osseuses
+T37	topographie 2098 2114	corps vertébraux
+T38	topographie 2129 2134	iléon
+T39	topographie 2166 2171	fémur
+T41	morphologie 2292 2301	métastase
+T42	morphologie 2404 2414	métastases
+T44	topographie 2415 2425	cérébrales
+T46	morphologie 2435 2442	lésions
+T48	morphologie 2525 2538	dissémination
+T49	morphologie 2579 2588	carcinome
+T109	morphologie 2603 2621	à petites cellules
+T51	differenciation 2589 2602	indifférencié
+T52	topographie 2628 2643	muqueuse jugale
+T54	morphologie 2654 2662	stade IV
+T55	morphologie 2676 2686	métastases
+T57	topographie 2687 2695	osseuses
+T59	morphologie 3530 3545	tumeur primaire
+T61	morphologie 3663 3678	tumeur primaire
+T62	morphologie 3688 3701	dissémination
+T64	topographie 3702 3709	osseuse
+T65	morphologie 3864 3874	métastases
+T67	topographie 3875 3885	cérébrales
+T69	morphologie 3902 3908	tumeur
+T70	morphologie 4129 4135	lésion
+T72	topographie 4204 4219	muqueuse jugale
+T74	morphologie 4309 4320	adénopathie
+T75	morphologie 4420 4456	progression de la maladie localement
+T77	topographie 4469 4491	ganglions lymphatiques
+T78	morphologie 4517 4542	progression de la maladie
+T80	topographie 4566 4588	ganglions lymphatiques
+T81	morphologie 4619 4629	métastases
+T83	topographie 4630 4638	osseuses
+T84	morphologie 5101 5119	progression locale
+T86	topographie 5123 5136	ganglionnaire
+T87	morphologie 5324 5335	adénopathie
+T89	topographie 5336 5351	sous-maxillaire
+T91	morphologie 5643 5667	progression du néoplasme
+T92	morphologie 5703 5710	lésions
+T94	topographie 5729 5733	foie
+T95	morphologie 5739 5751	adénopathies
+T97	topographie 5752 5765	mésentériques
+T98	topographie 5767 5784	rétropéritonéales
+T99	topographie 5788 5798	pelviennes
+T100	morphologie 5804 5811	nodules
+T102	topographie 5812 5823	pulmonaires
+T103	morphologie 5853 5860	lésions
+T105	topographie 5861 5869	osseuses
+T30	topographie 1932 1952	jugulaire supérieure

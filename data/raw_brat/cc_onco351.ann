@@ -1,0 +1,121 @@
+T1	morphologie 162 192	carcinome canalaire infiltrant
+T2	expression_CIM 162 221	carcinome canalaire infiltrant, phénotype luminal A du sein
+T3	topographie 217 221	sein
+T4	expression_CIM 425 431	lésion
+T5	morphologie 425 431	lésion
+T6	morphologie 510 522	ostéosarcome
+T7	expression_CIM 510 536	ostéosarcome de l'olécrane
+T8	topographie 528 536	olécrane
+T9	expression_CIM 570 588	lésions à distance
+T10	morphologie 570 588	lésions à distance
+T11	morphologie 934 961	ostéosarcome ostéoblastique
+T12	expression_CIM 934 973	ostéosarcome ostéoblastique de grade IV
+T13	differenciation 965 973	grade IV
+T14	morphologie 1461 1468	rechute
+T15	expression_CIM 1461 1487	rechute au niveau du coude
+T16	topographie 1482 1487	coude
+T17	morphologie 1569 1580	progression
+T18	expression_CIM 1569 1601	progression au niveau pulmonaire
+T19	topographie 1591 1601	pulmonaire
+T20	morphologie 2338 2343	masse
+T21	expression_CIM 2338 2352	masse mammaire
+T22	topographie 2344 2352	mammaire
+T23	expression_CIM 2365 2377	adénopathies
+T24	morphologie 2365 2377	adénopathies
+T25	morphologie 3112 3128	lésion calcifiée
+T26	expression_CIM 3112 3138	lésion calcifiée pariétale
+T28	expression_CIM 3430 3437	lésions
+T29	morphologie 3430 3437	lésions
+T30	expression_CIM 3463 3473	métastases
+T31	morphologie 3463 3473	métastases
+T32	morphologie 3523 3529	lésion
+T33	expression_CIM 3523 3557	lésion calcifiée temporo-pariétale
+T34	topographie 3540 3557	temporo-pariétale
+T35	morphologie 3761 3791	Carcinome canalaire infiltrant
+T36	expression_CIM 3761 3799	Carcinome canalaire infiltrant du sein
+T37	topographie 3795 3799	sein
+T38	expression_CIM 3875 3898	Ostéoïde ostéoblastique
+T40	expression_CIM 3899 3911	ostéosarcome
+T41	morphologie 3899 3911	ostéosarcome
+T42	morphologie 3917 3931	rechute locale
+T43	expression_CIM 3917 3945	rechute locale et pulmonaire
+T44	topographie 3935 3945	pulmonaire
+T45	morphologie 3996 4030	Lésion calcifiée occupant l'espace
+T46	expression_CIM 3996 4056	Lésion calcifiée occupant l'espace cérébral temporo-pariétal
+T47	topographie 4031 4056	cérébral temporo-pariétal
+T48	morphologie 4096 4126	carcinome canalaire infiltrant
+T49	expression_CIM 4096 4134	carcinome canalaire infiltrant du sein
+T50	topographie 4130 4134	sein
+T51	expression_CIM 4143 4155	ostéosarcome
+T52	morphologie 4143 4155	ostéosarcome
+T53	expression_CIM 4336 4346	néoplasmes
+T54	morphologie 4336 4346	néoplasmes
+T55	morphologie 4407 4413	lésion
+T56	expression_CIM 4407 4423	lésion cérébrale
+T57	topographie 4414 4423	cérébrale
+T58	expression_CIM 4462 4471	métastase
+T59	morphologie 4462 4471	métastase
+T60	expression_CIM 4474 4486	ostéosarcome
+T61	morphologie 4474 4486	ostéosarcome
+T62	expression_CIM 4557 4572	restes tumoraux
+T63	morphologie 4557 4572	restes tumoraux
+T39	morphologie 3875 3898	Ostéoïde ostéoblastique
+T27	topographie 3129 3138	pariétale
+#1	ICD-O T1	8500/3
+#2	ICD-O T3	C50.9
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	9180/3
+#6	ICD-O T7	C40.0 9180/3
+#7	ICD-O T8	C40.0
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	9180/3
+#11	ICD-O T12	9180/34
+#12	ICD-O T13	4
+#13	ICD-O T14	8000/3
+#14	ICD-O T15	C76.4 8000/3
+#15	ICD-O T16	C76.4
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	C34.9 8000/6
+#18	ICD-O T19	C34.9
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C50.9 8000/1
+#21	ICD-O T22	C50.9
+#22	ICD-O T23	C77.9 8000/1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/1
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8000/6
+#28	ICD-O T31	8000/6
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	C71.8 8000/1
+#31	ICD-O T34	C71.8
+#32	ICD-O T35	8500/3
+#33	ICD-O T36	C50.9 8500/3
+#34	ICD-O T37	C50.9
+#35	ICD-O T40	9180/3
+#36	ICD-O T41	9180/3
+#37	ICD-O T42	8000/3
+#38	ICD-O T43	C34.9 8000/3
+#39	ICD-O T44	C34.9
+#40	ICD-O T45	8000/1
+#41	ICD-O T47	C71.8
+#42	ICD-O T48	8500/3
+#43	ICD-O T49	C50.9 8500/3
+#44	ICD-O T50	C50.9
+#45	ICD-O T51	9180/3
+#46	ICD-O T52	9180/3
+#47	ICD-O T53	8000/1
+#48	ICD-O T54	8000/3
+#49	ICD-O T55	8000/1
+#50	ICD-O T56	C71.0 8000/1
+#51	ICD-O T57	C71.9
+#52	ICD-O T58	8000/6
+#53	ICD-O T59	8000/6
+#54	ICD-O T60	9180/3
+#55	ICD-O T61	9180/3
+#56	ICD-O T62	8000/3
+#57	ICD-O T63	8000/3
+#58	ICD-O T39	tocheck

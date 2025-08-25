@@ -1,0 +1,52 @@
+T45	topographie 4018 4037	région cérébelleuse
+T1	morphologie 294 300	cancer
+T3	topographie 304 308	sein
+T5	morphologie 415 423	leucémie
+T6	morphologie 458 464	cancer
+T8	topographie 468 472	sein
+T9	morphologie 573 587	adénocarcinome
+T11	topographie 588 598	pulmonaire
+T13	morphologie 602 610	stade IV
+T14	morphologie 711 732	atteinte métastatique
+T16	topographie 748 755	poumons
+T17	topographie 760 764	foie
+T18	topographie 772 805	ganglions lymphatiques abdominaux
+T20	morphologie 1414 1440	EP pulmonaire et hépatique
+T22	morphologie 3192 3217	lésions occupant l'espace
+T23	morphologie 3223 3229	lésion
+T25	topographie 3230 3238	frontale
+T26	morphologie 3251 3257	lésion
+T28	topographie 3258 3266	frontale
+T29	morphologie 3281 3287	lésion
+T31	topographie 3288 3304	infratentorielle
+T32	morphologie 3578 3604	dissémination métastatique
+T34	topographie 3605 3614	cérébrale
+T36	morphologie 3768 3775	lésions
+T37	morphologie 3879 3885	lésion
+T39	topographie 3886 3894	frontale
+T40	morphologie 3924 3930	lésion
+T42	topographie 3931 3939	frontale
+T43	morphologie 3994 4000	lésion
+T46	morphologie 4367 4374	lésions
+T48	topographie 4375 4398	cortico-sous-corticales
+T49	topographie 4407 4424	supratentorielles
+T50	morphologie 4466 4472	lésion
+T52	topographie 4473 4489	infratentorielle
+T53	morphologie 4527 4537	métastases
+T55	topographie 4538 4548	cérébrales
+T56	morphologie 4556 4565	néoplasme
+T58	topographie 4566 4576	pulmonaire
+T59	morphologie 4747 4758	progression
+T61	topographie 4759 4768	cérébrale
+T63	morphologie 4936 4975	EP dans le système nerveux central (SNC
+T64	morphologie 4982 4996	adénocarcinome
+T66	topographie 4997 5007	pulmonaire
+T68	morphologie 5011 5019	stade IV
+T69	morphologie 6111 6130	sites métastatiques
+T71	topographie 6143 6152	hépatique
+T72	topographie 6154 6164	pulmonaire
+T73	topographie 6178 6217	ganglions lymphatiques intra-abdominaux
+T74	morphologie 6350 6361	progression
+T76	topographie 6362 6371	cérébrale
+T78	morphologie 6525 6532	lésions
+T80	morphologie 6688 6702	EP dans le SNC

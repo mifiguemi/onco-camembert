@@ -1,0 +1,71 @@
+T1	morphologie 319 340	carcinome épidermoïde
+T2	expression_CIM 319 376	carcinome épidermoïde de stade I du plancher de la bouche
+T3	topographie 355 376	plancher de la bouche
+T4	morphologie 540 562	lésion pseudonodulaire
+T5	expression_CIM 540 650	lésion pseudonodulaire a été observée fortuitement à la radiographie du thorax au niveau de la base pulmonaire
+T6	topographie 635 650	base pulmonaire
+T7	expression_CIM 753 759	lésion
+T8	morphologie 753 759	lésion
+T9	morphologie 1520 1542	Lésion pseudonodulaire
+T10	expression_CIM 1520 1571	Lésion pseudonodulaire sous-pleurale dans le poumon
+T12	morphologie 1761 1767	nodule
+T13	expression_CIM 1761 1824	nodule sous-pleural dans le segment supérieur du lobe inférieur
+T14	topographie 1768 1780	sous-pleural
+T15	topographie 1810 1824	lobe inférieur
+T16	morphologie 1900 1906;1931 1947	nodule hypermétabolique
+T17	expression_CIM 1900 2067	nodule pulmonaire sous-pleural hypermétabolique (13 mm et valeur maximale de la prise standardisée (SUV) 4'8) est identifié dans le segment supérieur du lobe inférieur
+T19	expression_CIM 2110 2124	tumeur maligne
+T20	morphologie 2110 2124	tumeur maligne
+T21	morphologie 2400 2406	nodule
+T22	expression_CIM 2400 2419	nodule sous-pleural
+T23	topographie 2407 2419	sous-pleural
+T24	expression_CIM 2445 2459	tumeur maligne
+T25	morphologie 2445 2459	tumeur maligne
+T26	expression_CIM 2695 2701	tumeur
+T27	morphologie 2695 2701	tumeur
+T28	expression_CIM 2822 2828	tumeur
+T29	morphologie 2822 2828	tumeur
+T30	expression_CIM 2906 2912	tumeur
+T31	morphologie 2906 2912	tumeur
+T32	expression_CIM 3003 3024	infiltration tumorale
+T33	morphologie 3003 3024	infiltration tumorale
+T34	expression_CIM 3061 3067	tumeur
+T35	morphologie 3061 3067	tumeur
+T36	morphologie 3255 3261;3273 3304	Tumeur myofibroblastique inflammatoire
+T37	expression_CIM 3255 3304	Tumeur pulmonaire myofibroblastique inflammatoire
+T38	topographie 3262 3272	pulmonaire
+T18	topographie 1907 1930;2024 2067	pulmonaire sous-pleural dans le segment supérieur du lobe inférieur
+T11	topographie 1543 1571	sous-pleurale dans le poumon
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	C04.9 8070/3
+#3	ICD-O T3	C04.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C34.3
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C34.9 8000/1;C38.8 8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T14	C38.8
+#12	ICD-O T15	C34.3
+#13	ICD-O T16	8000/9
+#14	ICD-O T19	8000/3
+#15	ICD-O T20	8000/3
+#16	ICD-O T21	8000/1
+#17	ICD-O T22	C38.8 8000/1
+#18	ICD-O T23	C38.8
+#19	ICD-O T24	8000/3
+#20	ICD-O T25	8000/3
+#21	ICD-O T26	8000/1
+#22	ICD-O T27	8000/1
+#23	ICD-O T28	8000/1
+#24	ICD-O T29	8000/1
+#25	ICD-O T30	8000/1
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	8000/6
+#28	ICD-O T33	8000/6
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	8825/1
+#32	ICD-O T37	C34.9 8825/1
+#33	ICD-O T38	C34.9

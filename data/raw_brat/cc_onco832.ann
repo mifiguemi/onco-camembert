@@ -1,0 +1,219 @@
+T86	topographie 5675 5689	paratrachéales
+T85	topographie 5658 5673	pré-vasculaires
+T94	topographie 6294 6308	région hilaire
+T50	topographie 3974 3983	segment 6
+T47	topographie 3922 3931	segment 9
+T53	topographie 4124 4136	segment VIII
+T1	morphologie 531 545	adénocarcinome
+T2	expression_CIM 531 580	adénocarcinome modérément différencié du pancréas
+T3	differenciation 546 568	modérément différencié
+T4	topographie 572 580	pancréas
+T5	morphologie 586 598	infiltration
+T6	expression_CIM 586 621	infiltration hépatique et splénique
+T7	topographie 599 608	hépatique
+T8	topographie 612 621	splénique
+T9	morphologie 746 757	progression
+T10	expression_CIM 746 784	progression locorégionale et hépatique
+T11	topographie 775 784	hépatique
+T12	morphologie 1410 1416	nodule
+T13	expression_CIM 1410 1457	nodule pulmonaire dans le lobe moyen droit (LMD
+T14	topographie 1417 1427	pulmonaire
+T15	topographie 1436 1446	lobe moyen
+T16	topographie 1454 1457	LMD
+T17	morphologie 1740 1754	adénocarcinome
+T18	expression_CIM 1740 1767	adénocarcinome pancréatique
+T19	topographie 1755 1767	pancréatique
+T20	morphologie 1795 1801	nodule
+T21	expression_CIM 1795 1824	nodule pulmonaire dans le LMD
+T22	topographie 1802 1812	pulmonaire
+T23	topographie 1821 1824	LMD
+T24	expression_CIM 2000 2009	néoplasme
+T25	morphologie 2000 2009	néoplasme
+T26	morphologie 2033 2047	adénocarcinome
+T27	expression_CIM 2033 2077	adénocarcinome bien différencié du poumon LM
+T28	differenciation 2048 2064	bien différencié
+T29	topographie 2068 2074	poumon
+T30	topographie 2075 2077	LM
+T31	morphologie 2086 2097	adénopathie
+T32	expression_CIM 2086 2112	adénopathie sous-carcinale
+T33	topographie 2098 2112	sous-carcinale
+T34	topographie 3570 3592;3607 3667	ganglions lymphatiques situés au niveau paratrachéal gauche, souscarinal et hilaire
+T35	expression_CIM 3570 3667	ganglions lymphatiques hypertrophiés situés au niveau paratrachéal gauche, souscarinal et hilaire
+T36	morphologie 3593 3606	hypertrophiés
+T37	morphologie 3679 3684	masse
+T38	expression_CIM 3679 3717	masse a été observée au niveau hilaire
+T39	topographie 3710 3717	hilaire
+T40	expression_CIM 3814 3820	lésion
+T41	morphologie 3814 3820	lésion
+T42	morphologie 3833 3850	récidive tumorale
+T43	expression_CIM 3833 3867	récidive tumorale ou ganglionnaire
+T44	topographie 3854 3867	ganglionnaire
+T45	morphologie 3893 3899	nodule
+T46	expression_CIM 3893 3931	nodule millimétrique dans le segment 9
+T48	morphologie 3951 3957	nodule
+T49	expression_CIM 3951 3983	nodule de 6 mm dans le segment 6
+T51	expression_CIM 4013 4022	métastase
+T52	morphologie 4013 4022	métastase
+T54	expression_CIM 4124 4159	segment VIII présente un hémangiome
+T55	morphologie 4149 4159	hémangiome
+T56	morphologie 4221 4226	masse
+T57	expression_CIM 4221 4288	masse partiellement nécrosée a été observée dans l'arbre bronchique
+T58	topographie 4272 4288	arbre bronchique
+T59	expression_CIM 4320 4332	infiltration
+T60	morphologie 4320 4332	infiltration
+T61	expression_CIM 4392 4409	cellules malignes
+T62	morphologie 4392 4409	cellules malignes
+T63	expression_CIM 4453 4480	cellules tumorales malignes
+T64	morphologie 4453 4480	cellules tumorales malignes
+T65	morphologie 4494 4508	adénocarcinome
+T66	expression_CIM 4494 4519	adénocarcinome pulmonaire
+T67	topographie 4509 4519	pulmonaire
+T68	morphologie 4737 4743	tumeur
+T69	expression_CIM 4737 4773	tumeur et des ganglions lymphatiques
+T70	topographie 4751 4773	ganglions lymphatiques
+T71	expression_CIM 4989 5033	masse pulmonaire hypermétabolique dans le LM
+T72	topographie 4995 5005	pulmonaire
+T73	topographie 5031 5033	LM
+T74	morphologie 5187 5193	nodule
+T75	expression_CIM 5187 5270	nodule sous-pleural de 5 mm est observé dans le segment supérieur du lobe inférieur
+T76	topographie 5194 5206	sous-pleural
+T77	topographie 5256 5270	lobe inférieur
+T78	morphologie 5322 5328	nodule
+T79	expression_CIM 5322 5369	nodule millimétrique non spécifique dans le LII
+T80	topographie 5366 5369	LII
+T81	expression_CIM 5375 5424	adénopathies hypermétaboliques supraclaviculaires
+T82	topographie 5406 5424	supraclaviculaires
+T83	morphologie 5590 5634	adénopathies avec une captation pathologique
+T84	expression_CIM 5590 5723	adénopathies avec une captation pathologique dans les localisations pré-vasculaires, paratrachéales droites, subcarinales et hilaires
+T88	topographie 5715 5723	hilaires
+T89	expression_CIM 5982 6003	infiltrat néoplasique
+T90	morphologie 5982 6003	infiltrat néoplasique
+T91	morphologie 6193 6204	adénopathie
+T92	expression_CIM 6193 6308	adénopathie a été localisée au niveau souscarinal (station 7) mesurant 2,04 cm, et une autre dans la région hilaire
+T95	morphologie 6433 6447	adénocarcinome
+T96	expression_CIM 6433 6508	adénocarcinome pulmonaire, avec la présence de cellules en anneau de signet
+T97	topographie 6448 6458	pulmonaire
+T98	morphologie 6914 6919	masse
+T99	expression_CIM 6914 6931	masse périhilaire
+T100	topographie 6920 6931	périhilaire
+T101	morphologie 7155 7167	adénopathies
+T102	expression_CIM 7155 7258	adénopathies hilaires droites, sous-cardinales, de la chaîne paratrachéale droite et supraclaviculaires
+T103	topographie 7168 7176	hilaires
+T105	topographie 7209 7229	chaîne paratrachéale
+T106	topographie 7240 7258	supraclaviculaires
+T107	morphologie 7301 7308	nodules
+T108	expression_CIM 7301 7341	nodules sont encore visibles dans le LII
+T109	topographie 7338 7341	LII
+T110	morphologie 7434 7441	rechute
+T111	expression_CIM 7434 7534	rechute locale dans le LMD et les ganglions lymphatiques (au niveau médiastinal et supraclaviculaire
+T112	topographie 7457 7460	LMD
+T113	topographie 7468 7490	ganglions lymphatiques
+T114	topographie 7502 7513	médiastinal
+T115	topographie 7517 7534	supraclaviculaire
+T116	morphologie 7552 7566	adénocarcinome
+T117	expression_CIM 7552 7577	adénocarcinome pulmonaire
+T118	topographie 7567 7577	pulmonaire
+T119	expression_CIM 8026 8045	maladie oncologique
+T120	morphologie 8026 8045	maladie oncologique
+T104	topographie 7186 7201	sous-cardinales
+T93	topographie 6231 6242	souscarinal
+T87	topographie 5699 5711	subcarinales
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C25.9 8140/32
+#3	ICD-O T3	2
+#4	ICD-O T4	C25.9
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C22.0 8000/1;C42.2 8000/1
+#7	ICD-O T7	C22.0
+#8	ICD-O T8	C42.2
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	C22.0 8000/6
+#11	ICD-O T11	C22.0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.2 8000/1;C34.9 8000/1
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	C34.2
+#16	ICD-O T16	C34.2
+#17	ICD-O T17	8140/3
+#18	ICD-O T18	C25.9 8140/3
+#19	ICD-O T19	C25.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C34.2 8000/1;C34.9 8000/1
+#22	ICD-O T22	C34.9
+#23	ICD-O T23	C34.2
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8140/3
+#27	ICD-O T28	1
+#28	ICD-O T29	C34.9
+#29	ICD-O T30	C34.2
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	C77.1 8000/1
+#32	ICD-O T33	C76.1
+#33	ICD-O T34	C77.1 
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	C34.0 8000/1
+#37	ICD-O T39	C34.0
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	C77.9 8000/6
+#42	ICD-O T44	C77.9
+#43	ICD-O T45	8000/1
+#44	ICD-O T48	8000/1
+#45	ICD-O T51	8000/6
+#46	ICD-O T52	8000/6
+#47	ICD-O T55	9120/0
+#48	ICD-O T56	8000/1
+#49	ICD-O T57	C34.9 8000/1
+#50	ICD-O T58	C34.9
+#51	ICD-O T59	8000/1
+#52	ICD-O T60	8000/1
+#53	ICD-O T61	8000/1
+#54	ICD-O T62	8000/1
+#55	ICD-O T63	8001/3
+#56	ICD-O T64	8001/3
+#57	ICD-O T65	8140/3
+#58	ICD-O T66	C34.9 8140/3
+#59	ICD-O T67	C34.9
+#60	ICD-O T68	8000/1
+#61	ICD-O T70	C77.9
+#62	ICD-O T71	C34.2 8000/1;C34.9 8000/1
+#63	ICD-O T72	C34.9
+#64	ICD-O T73	C34.2
+#65	ICD-O T74	8000/1
+#66	ICD-O T76	C38.8
+#67	ICD-O T77	C34.3
+#68	ICD-O T78	8000/1
+#69	ICD-O T79	C34.3 8000/1
+#70	ICD-O T80	C34.3
+#71	ICD-O T81	C77.0 8000/1
+#72	ICD-O T82	C76.0
+#73	ICD-O T83	8000/6
+#74	ICD-O T88	C34.0
+#75	ICD-O T89	8000/6
+#76	ICD-O T90	8000/6
+#77	ICD-O T91	8000/1
+#78	ICD-O T95	8140/3
+#79	ICD-O T97	C34.9
+#80	ICD-O T98	8000/1
+#81	ICD-O T99	C76.1 8000/1
+#82	ICD-O T100	C76.1
+#83	ICD-O T101	8000/1
+#84	ICD-O T103	C34.0
+#85	ICD-O T105	C77.0
+#86	ICD-O T106	C76.0
+#87	ICD-O T107	8000/1
+#88	ICD-O T109	C34.3
+#89	ICD-O T110	8000/9
+#90	ICD-O T111	C34.2 8000/3;C77.0 8000/3;C77.9 8000/3
+#91	ICD-O T112	C34.2
+#92	ICD-O T113	C77.9
+#93	ICD-O T114	C38.3
+#94	ICD-O T115	C76.0
+#95	ICD-O T116	8140/3
+#96	ICD-O T117	C34.9 8140/3
+#97	ICD-O T118	C34.9
+#98	ICD-O T119	8000/3
+#99	ICD-O T120	8000/9

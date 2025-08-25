@@ -1,0 +1,216 @@
+T23	topographie 2154 2172	espace intercostal
+T107	topographie 5947 5963	intra-abdominale
+T1	morphologie 597 602	masse
+T2	expression_CIM 597 663	masse douloureuse de cinq mois d'évolution sur la paroi thoracique
+T3	topographie 647 663	paroi thoracique
+T4	morphologie 1151 1156	Masse
+T5	expression_CIM 1151 1217	Masse palpable de 3 cm de diamètre, située sur la paroi thoracique
+T6	topographie 1201 1217	paroi thoracique
+T7	expression_CIM 1329 1334	masse
+T8	morphologie 1329 1334	masse
+T9	morphologie 1584 1590	tumeur
+T10	expression_CIM 1584 1693	tumeur des tissus mous mesurant 3,2 x 2 cm a été observée dans la région postéro-latérale de la paroi costale
+T11	topographie 1595 1606	tissus mous
+T13	morphologie 1820 1826	tumeur
+T14	expression_CIM 1820 1888	tumeur solide a également été observée sur le bord inférieur du rein
+T15	topographie 1884 1888	rein
+T16	expression_CIM 1932 1945	hypernéphrome
+T17	morphologie 1932 1945	hypernéphrome
+T18	morphologie 1960 1966	tumeur
+T19	expression_CIM 1960 2039	tumeur de 2 cm en relation étroite avec le bord supérieur d'une anse de l'iléon
+T20	topographie 2034 2039	iléon
+T21	morphologie 2140 2146	tumeur
+T22	expression_CIM 2140 2172	tumeur dans l'espace intercostal
+T24	morphologie 2565 2571	lésion
+T25	expression_CIM 2565 2628	lésion de 5,5 cm dans la région interpolaire antérieure du rein
+T26	topographie 2624 2628	rein
+T27	morphologie 2664 2669	masse
+T28	expression_CIM 2664 2705	masse de tissu mou de la paroi thoracique
+T29	topographie 2673 2682	tissu mou
+T30	topographie 2689 2705	paroi thoracique
+T31	morphologie 2715 2722	sarcome
+T32	expression_CIM 2715 2736	sarcome de haut grade
+T33	differenciation 2726 2736	haut grade
+T34	expression_CIM 2756 2783	rhabdomyosarcome pléomorphe
+T35	morphologie 2756 2783	rhabdomyosarcome pléomorphe
+T36	morphologie 2798 2805	Sarcome
+T37	expression_CIM 2798 2842	Sarcome de haut grade de la paroi thoracique
+T38	differenciation 2809 2819	haut grade
+T39	topographie 2826 2842	paroi thoracique
+T40	expression_CIM 2870 2897	rhabdomyosarcome pléomorphe
+T41	morphologie 2870 2897	rhabdomyosarcome pléomorphe
+T42	morphologie 2900 2905	Masse
+T43	expression_CIM 2900 2912	Masse rénale
+T44	topographie 2906 2912	rénale
+T45	expression_CIM 2957 2970	hypernéphrome
+T46	morphologie 2957 2970	hypernéphrome
+T47	morphologie 2984 2990	Tumeur
+T48	expression_CIM 2984 2997	Tumeur iléale
+T49	topographie 2991 2997	iléale
+T50	expression_CIM 3089 3097	sarcomes
+T51	morphologie 3089 3097	sarcomes
+T52	morphologie 3151 3156	masse
+T53	expression_CIM 3151 3167	masse thoracique
+T54	topographie 3157 3167	thoracique
+T55	morphologie 3196 3203	lésions
+T56	expression_CIM 3196 3222	lésions rénales et iléales
+T57	topographie 3204 3211	rénales
+T58	topographie 3215 3222	iléales
+T59	morphologie 3247 3253	tumeur
+T60	expression_CIM 3247 3290	tumeur a été excisée de la paroi thoracique
+T61	topographie 3274 3290	paroi thoracique
+T62	expression_CIM 3480 3507	rhabdomyosarcome pléomorphe
+T63	morphologie 3480 3507	rhabdomyosarcome pléomorphe
+T64	expression_CIM 3643 3675	adénopathie indemne de malignité
+T65	morphologie 3643 3675	adénopathie indemne de malignité
+T66	morphologie 4182 4203	récidive de la lésion
+T67	expression_CIM 4182 4214	récidive de la lésion thoracique
+T68	topographie 4204 4214	thoracique
+T69	morphologie 4261 4267	lésion
+T70	expression_CIM 4261 4274	lésion rénale
+T71	topographie 4268 4274	rénale
+T72	expression_CIM 4286 4305	tumeur sous-séreuse
+T73	morphologie 4286 4305	tumeur sous-séreuse
+T74	morphologie 4484 4490	nodule
+T75	expression_CIM 4484 4597	nodule hypercapillaire de 7 mm a également été observé sur la paroi postérieure de la quatrième portion duodénale
+T77	morphologie 4715 4723	implants
+T78	expression_CIM 4715 4755	implants de la paroi de l'intestin grêle
+T79	topographie 4741 4755	intestin grêle
+T80	morphologie 4778 4786	implants
+T81	expression_CIM 4778 4973	implants sur la séreuse de l'intestin grêle, de la quatrième portion duodénale à l'iléon proximal, et un autre de 1,5 cm dans le bord mésentérique de l'iléon et un autre de 1 cm dans le mésentère
+T83	topographie 4907 4935	bord mésentérique de l'iléon
+T84	topographie 4964 4973	mésentère
+T85	morphologie 5036 5050;5057 5075	adénocarcinome à cellules claires
+T86	expression_CIM 5036 5105	adénocarcinome rénal à cellules claires, grade nucléaire de Fuhrman 3
+T87	topographie 5051 5056	rénal
+T88	differenciation 5077 5105	grade nucléaire de Fuhrman 3
+T89	expression_CIM 5107 5113	Lésion
+T90	morphologie 5107 5113	Lésion
+T91	morphologie 5364 5372	implants
+T92	expression_CIM 5364 5385	implants du mésentère
+T93	topographie 5376 5385	mésentère
+T94	morphologie 5388 5452	tumeur stromale gastro-intestinale (GIST) de cellules fusiformes
+T95	expression_CIM 5388 5465	tumeur stromale gastro-intestinale (GIST) de cellules fusiformes de bas grade
+T96	differenciation 5456 5465	bas grade
+T97	expression_CIM 5473 5479	foyers
+T98	morphologie 5473 5479	foyers
+T99	expression_CIM 5610 5630	cellularité tumorale
+T100	morphologie 5610 5630	cellularité tumorale
+T101	morphologie 5804 5810	nodule
+T102	expression_CIM 5804 5888	nodule hyperdense de 7 mm persistait dans la paroi de la quatrième portion duodénale
+T104	morphologie 5901 5907	lésion
+T105	expression_CIM 5901 5963	lésion visualisée dans la paroi thoracique ou intra-abdominale
+T106	topographie 5927 5943	paroi thoracique
+T108	expression_CIM 6006 6012	nodule
+T109	morphologie 6006 6012	nodule
+T110	morphologie 6164 6201	tumeur stromale à cellules fusiformes
+T111	expression_CIM 6164 6226	tumeur stromale à cellules fusiformes de bas grade de 4 mm (G1
+T112	differenciation 6205 6214	bas grade
+T113	differenciation 6224 6226	G1
+T114	expression_CIM 6573 6577	GIST
+T115	morphologie 6573 6577	GIST
+T116	expression_CIM 6990 6994	GIST
+T117	morphologie 6990 6994	GIST
+T12	topographie 1680 1693	paroi costale
+T103	topographie 5849 5888	paroi de la quatrième portion duodénale
+T76	topographie 4570 4597	quatrième portion duodénale
+T82	topographie 4794 4821	séreuse de l'intestin grêle
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C76.1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C76.1 8000/1
+#5	ICD-O T6	C76.1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T11	C49.9
+#10	ICD-O T13	8000/1
+#11	ICD-O T14	C64.9 8000/1
+#12	ICD-O T15	C64.9
+#13	ICD-O T16	8312/3
+#14	ICD-O T17	8312/3
+#15	ICD-O T18	8000/1
+#16	ICD-O T20	C17.2
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	C76.1 8000/1
+#19	ICD-O T24	8000/1
+#20	ICD-O T26	C64.9
+#21	ICD-O T27	8000/1
+#22	ICD-O T28	C49.9 8000/1;C76.1 8000/1
+#23	ICD-O T29	C49.9
+#24	ICD-O T30	C76.1
+#25	ICD-O T31	8800/3
+#26	ICD-O T32	8800/34
+#27	ICD-O T33	4
+#28	ICD-O T34	8901/3
+#29	ICD-O T35	8901/3
+#30	ICD-O T36	8800/3
+#31	ICD-O T37	C76.1 8800/34
+#32	ICD-O T38	4
+#33	ICD-O T39	C76.1
+#34	ICD-O T40	8901/3
+#35	ICD-O T41	8901/3
+#36	ICD-O T42	8000/1
+#37	ICD-O T43	C64.9 8000/1
+#38	ICD-O T44	C64.9
+#39	ICD-O T45	8312/3
+#40	ICD-O T46	8312/3
+#41	ICD-O T47	8000/1
+#42	ICD-O T48	C17.2 8000/1
+#43	ICD-O T49	C17.2
+#44	ICD-O T50	8800/3
+#45	ICD-O T51	8800/3
+#46	ICD-O T52	8000/1
+#47	ICD-O T53	C76.1 8000/1
+#48	ICD-O T54	C76.1
+#49	ICD-O T55	8000/1
+#50	ICD-O T56	C17.2 8000/1;C64.9 8000/1
+#51	ICD-O T57	C64.9
+#52	ICD-O T58	C17.2
+#53	ICD-O T59	8000/1
+#54	ICD-O T61	C76.1
+#55	ICD-O T62	8901/3
+#56	ICD-O T63	8901/3
+#57	ICD-O T65	8000/0
+#58	ICD-O T66	8000/9
+#59	ICD-O T68	C76.1
+#60	ICD-O T69	8000/1
+#61	ICD-O T70	C64.9 8000/1
+#62	ICD-O T71	C64.9
+#63	ICD-O T73	tocheck
+#64	ICD-O T74	8000/1
+#65	ICD-O T75	C17.0 8000/1
+#66	ICD-O T77	8000/6
+#67	ICD-O T78	C17.9 8000/6
+#68	ICD-O T79	C17.9
+#69	ICD-O T80	8000/6
+#70	ICD-O T83	C17.2
+#71	ICD-O T84	C48.1
+#72	ICD-O T85	8310/3
+#73	ICD-O T86	C64.9 8310/33
+#74	ICD-O T87	C64.9
+#75	ICD-O T88	3
+#76	ICD-O T89	8000/1
+#77	ICD-O T90	8000/1
+#78	ICD-O T91	8000/6
+#79	ICD-O T92	C48.1 8000/6
+#80	ICD-O T93	C48.1
+#81	ICD-O T94	8936/1
+#82	ICD-O T96	1
+#83	ICD-O T97	8000/1
+#84	ICD-O T98	8000/1
+#85	ICD-O T99	8000/3
+#86	ICD-O T100	8000/3
+#87	ICD-O T101	8000/1
+#88	ICD-O T104	8000/1
+#89	ICD-O T106	C76.1
+#90	ICD-O T108	8000/1
+#91	ICD-O T109	8000/1
+#92	ICD-O T110	8935/1
+#93	ICD-O T111	8936/11
+#94	ICD-O T112	1
+#95	ICD-O T113	1
+#96	ICD-O T114	8936/1
+#97	ICD-O T115	8936/1
+#98	ICD-O T116	8936/1
+#99	ICD-O T117	8936/1

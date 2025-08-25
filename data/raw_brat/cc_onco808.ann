@@ -1,0 +1,108 @@
+T51	topographie 4843 4853	mésogastre
+T54	topographie 4976 4980	sang
+T1	expression_CIM 220 288	tumeur mammaire de Phyllodes dans le quadrant supéro-externe du sein
+T2	topographie 227 235	mammaire
+T3	topographie 257 288	quadrant supéro-externe du sein
+T4	morphologie 398 404	nodule
+T5	expression_CIM 398 460	nodule a été trouvé dans le quadrant supérieur externe du sein
+T6	topographie 426 460	quadrant supérieur externe du sein
+T7	morphologie 500 520	carcinome infiltrant
+T8	expression_CIM 500 546	carcinome infiltrant de grade histologique III
+T9	morphologie 2207 2214	lésions
+T10	expression_CIM 2207 2225	lésions hépatiques
+T11	topographie 2215 2225	hépatiques
+T12	expression_CIM 2335 2346	hémangiomes
+T13	morphologie 2335 2346	hémangiomes
+T14	expression_CIM 2370 2380	métastases
+T15	morphologie 2370 2380	métastases
+T16	expression_CIM 2510 2554	Lésions occupant l'espace (LOE) dans le foie
+T17	morphologie 2537 2540	LOE
+T18	topographie 2550 2554	foie
+T19	morphologie 3056 3059	LOE
+T20	expression_CIM 3056 3069	LOE hépatique
+T21	topographie 3060 3069	hépatique
+T22	morphologie 3260 3276	lymphadénopathie
+T23	expression_CIM 3260 3300	lymphadénopathie de 3 mm dans l'aisselle
+T24	topographie 3292 3300	aisselle
+T25	expression_CIM 3397 3404	lésions
+T26	morphologie 3397 3404	lésions
+T27	morphologie 3580 3590	métastases
+T28	expression_CIM 3580 3601	métastases hépatiques
+T29	topographie 3591 3601	hépatiques
+T30	morphologie 3701 3708	lésions
+T31	expression_CIM 3701 3762	lésions focales situées respectivement dans les segments VIII
+T33	expression_CIM 3810 3817	lésions
+T34	morphologie 3810 3817	lésions
+T35	expression_CIM 4078 4085	lésions
+T36	morphologie 4078 4085	lésions
+T37	morphologie 4132 4139	lésions
+T38	expression_CIM 4132 4150	lésions hépatiques
+T39	topographie 4140 4150	hépatiques
+T40	morphologie 4270 4279	métastase
+T41	expression_CIM 4270 4289	métastase hépatique
+T42	topographie 4280 4289	hépatique
+T43	morphologie 4293 4317	carcinome neuroendocrine
+T44	expression_CIM 4293 4334	carcinome neuroendocrine bien différencié
+T45	differenciation 4318 4334	bien différencié
+T46	morphologie 4680 4705	accumulation pathologique
+T47	expression_CIM 4680 4734	accumulation pathologique dans le parenchyme hépatique
+T48	topographie 4714 4734	parenchyme hépatique
+T49	morphologie 4806 4834	augmentation de la captation
+T50	expression_CIM 4806 4853	augmentation de la captation dans le mésogastre
+T52	morphologie 4944 4967	tumeurs neuroendocrines
+T53	expression_CIM 4944 4980	tumeurs neuroendocrines dans le sang
+T55	expression_CIM 5243 5264	tumeur neuroendocrine
+T56	morphologie 5243 5264	tumeur neuroendocrine
+T57	morphologie 5345 5351	cancer
+T58	expression_CIM 5345 5359	cancer du sein
+T59	topographie 5355 5359	sein
+T32	topographie 3749 3762	segments VIII
+#1	ICD-O T2	C50.9
+#2	ICD-O T3	C50.4
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C50.4 8000/1
+#5	ICD-O T6	C50.4
+#6	ICD-O T7	8010/3
+#7	ICD-O T8	8010/33
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C22.0 8000/1
+#10	ICD-O T11	C22.0
+#11	ICD-O T12	9120/0
+#12	ICD-O T13	9120/0
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	C22.0
+#17	ICD-O T19	8000/1
+#18	ICD-O T21	C22.0
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	C77.3 8000/1
+#21	ICD-O T24	C76.1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	8000/1
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	C22.0 8000/6
+#26	ICD-O T29	C22.0
+#27	ICD-O T30	8000/1
+#28	ICD-O T33	8000/1
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	8000/1
+#32	ICD-O T37	8000/1
+#33	ICD-O T38	C22.0 8000/1
+#34	ICD-O T39	C22.0
+#35	ICD-O T40	8000/6
+#36	ICD-O T41	C22.0 8000/6
+#37	ICD-O T42	C22.0
+#38	ICD-O T43	8246/3
+#39	ICD-O T44	8246/31
+#40	ICD-O T45	1
+#41	ICD-O T46	8000/9
+#42	ICD-O T48	C22.0
+#43	ICD-O T49	8000/1
+#44	ICD-O T52	8246/3
+#45	ICD-O T55	8246/3
+#46	ICD-O T56	8246/3
+#47	ICD-O T57	8000/3
+#48	ICD-O T58	C50.9 8000/3
+#49	ICD-O T59	C50.9

@@ -1,0 +1,57 @@
+T15	morphologie 355 376	absorption glycidique
+T1	morphologie 67 81	adénocarcinome
+T2	expression_CIM 67 90	adénocarcinome du sigma
+T3	topographie 85 90	sigma
+T4	morphologie 127 133	Nodule
+T5	expression_CIM 127 167	Nodule pulmonaire dans le lobe supérieur
+T6	topographie 134 167	pulmonaire dans le lobe supérieur
+T7	morphologie 178 190	adénopathies
+T8	expression_CIM 178 204	adénopathies médiastinales
+T9	topographie 191 204	médiastinales
+T10	morphologie 299 305	nodule
+T11	expression_CIM 299 316	nodule pulmonaire
+T12	topographie 306 316	pulmonaire
+T13	topographie 320 342	ganglions lymphatiques
+T14	expression_CIM 320 376	ganglions lymphatiques avec légère absorption glycidique
+T16	morphologie 378 394	Lésion polypoïde
+T17	expression_CIM 378 424	Lésion polypoïde hypercapillaire dans le côlon
+T18	topographie 419 424	côlon
+T19	morphologie 592 598	lésion
+T20	expression_CIM 592 609	lésion pulmonaire
+T21	topographie 599 609	pulmonaire
+T22	expression_CIM 619 635	lymphadénopathie
+T23	morphologie 619 635	lymphadénopathie
+T24	expression_CIM 651 667	lésion polypoïde
+T25	morphologie 651 667	lésion polypoïde
+T26	morphologie 756 765;780 798	Carcinome à petites cellules
+T27	expression_CIM 756 798	Carcinome indifférencié à petites cellules
+T28	differenciation 766 779	indifférencié
+T29	expression_CIM 1234 1240	tumeur
+T30	morphologie 1234 1240	tumeur
+#1	ICD-O T15	8000/1
+#2	ICD-O T1	8140/3
+#3	ICD-O T3	C18.7
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C34.1 8000/1;C34.9 8000/1
+#6	ICD-O T6	C34.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.1 8000/1
+#9	ICD-O T9	C38.3
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C34.9
+#12	ICD-O T13	C77.9
+#13	ICD-O T16	8210/1
+#14	ICD-O T17	C18.9 8210/1
+#15	ICD-O T18	C18.9
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C34.9 8000/1
+#18	ICD-O T21	C34.9
+#19	ICD-O T22	C77.9 8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8210/1
+#22	ICD-O T25	8210/1
+#23	ICD-O T26	8041/3
+#24	ICD-O T27	8041/34
+#25	ICD-O T28	4
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8000/3

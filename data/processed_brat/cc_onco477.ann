@@ -1,0 +1,37 @@
+T38	topographie 3735 3749	espace vermien
+T1	morphologie 85 91	nodule
+T3	topographie 100 104	sein
+T4	morphologie 177 183	cancer
+T6	topographie 187 191	sein
+T7	morphologie 278 308	carcinome canalaire infiltrant
+T9	topographie 312 316	sein
+T10	morphologie 884 914	carcinome canalaire infiltrant
+T12	topographie 918 922	sein
+T13	morphologie 1591 1597	nodule
+T15	topographie 1641 1645	sein
+T16	morphologie 1767 1776	carcinome
+T57	morphologie 1786 1806	canalaire infiltrant
+T18	topographie 1777 1785	mammaire
+T19	differenciation 1810 1817	grade 3
+T20	morphologie 2294 2301	lésions
+T23	morphologie 2374 2386	infiltration
+T25	topographie 2387 2395	dermique
+T26	morphologie 2401 2407	cancer
+T28	topographie 2411 2415	sein
+T29	morphologie 2939 2945	lésion
+T32	morphologie 3059 3068	métastase
+T34	topographie 3069 3081	cérébelleuse
+T36	morphologie 3119 3125	lésion
+T39	topographie 3753 3764	cérébelleux
+T41	morphologie 3845 3851	lésion
+T43	morphologie 4647 4675	maladie locale ou à distance
+T44	morphologie 4689 4695	Cancer
+T46	topographie 4699 4703	sein
+T48	morphologie 4763 4788	Progression de la maladie
+T49	morphologie 4804 4813	métastase
+T51	topographie 4814 4826	cérébelleuse
+T52	morphologie 4895 4901	lésion
+T54	topographie 4902 4914	cérébelleuse
+T56	morphologie 5404 5412	récidive
+T22	topographie 2310 2326	région pectorale
+T31	topographie 2992 3010	vermis cérébelleux

@@ -1,0 +1,100 @@
+T33	topographie 2915 2941	cloison recto-sigmoïdienne
+T48	topographie 4239 4261	cloison recto-vaginale
+T1	morphologie 274 279	masse
+T2	expression_CIM 274 292	masse sus-pubienne
+T3	topographie 280 292	sus-pubienne
+T4	morphologie 401 406	masse
+T5	expression_CIM 401 473	masse mesurant 9 x 7 cm dans le bassin avec une empreinte dans le sacrum
+T6	topographie 433 439	bassin
+T7	topographie 467 473	sacrum
+T8	morphologie 587 592	masse
+T9	expression_CIM 587 606	masse hypogastrique
+T11	expression_CIM 943 951	lymphome
+T12	morphologie 943 951	lymphome
+T13	expression_CIM 959 981	tumeur mésenchymateuse
+T14	morphologie 959 981	tumeur mésenchymateuse
+T15	morphologie 1543 1548	Masse
+T16	expression_CIM 1543 1561	Masse sus-pubienne
+T17	topographie 1549 1561	sus-pubienne
+T18	morphologie 1688 1709	processus néoplasique
+T19	expression_CIM 1688 1737	processus néoplasique dans le septum rectovaginal
+T20	topographie 1718 1737	septum rectovaginal
+T21	morphologie 1752 1762	métastases
+T22	expression_CIM 1752 1777	métastases ganglionnaires
+T23	topographie 1763 1777	ganglionnaires
+T24	expression_CIM 1823 1846	lymphome non hodgkinien
+T25	morphologie 1823 1846	lymphome non hodgkinien
+T26	expression_CIM 1854 1887	tumeurs d'origine mésenchymateuse
+T27	morphologie 1854 1887	tumeurs d'origine mésenchymateuse
+T28	morphologie 1977 1983;1999 2017	tumeur à petites cellules
+T29	expression_CIM 1977 2017	tumeur indifférenciée à petites cellules
+T30	differenciation 1984 1998	indifférenciée
+T31	expression_CIM 2019 2028	Néoplasme
+T32	morphologie 2019 2028	Néoplasme
+T34	expression_CIM 2915 2952	cloison recto-sigmoïdienne, une masse
+T35	morphologie 2947 2952	masse
+T36	expression_CIM 3141 3146	masse
+T37	morphologie 3141 3146	masse
+T38	morphologie 3304 3331	conglomérats adénopathiques
+T39	expression_CIM 3304 3377	conglomérats adénopathiques, le plus grand dans la chaîne iliaque externe
+T40	topographie 3355 3377	chaîne iliaque externe
+T41	morphologie 3437 3449	adénopathies
+T42	expression_CIM 3437 3518	adénopathies dans la bifurcation aortique et périaortique, y compris mésentérique
+T43	topographie 3458 3478	bifurcation aortique
+T45	topographie 3506 3518	mésentérique
+T46	morphologie 4217 4222	masse
+T47	expression_CIM 4217 4261	masse au niveau de la cloison recto-vaginale
+T49	morphologie 4404 4409	Masse
+T50	expression_CIM 4404 4423	Masse rétro-utérine
+T51	topographie 4410 4423	rétro-utérine
+T52	morphologie 4952 4961	carcinome
+T53	expression_CIM 4952 5003	carcinome indifférencié de la cloison rectovaginale
+T54	differenciation 4962 4975	indifférencié
+T55	topographie 4982 5003	cloison rectovaginale
+T10	topographie 593 606	hypogastrique
+T44	topographie 3482 3494	périaortique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.3 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C76.3
+#6	ICD-O T7	C41.2
+#7	ICD-O T8	8000/1
+#8	ICD-O T11	9590/3
+#9	ICD-O T12	9590/3
+#10	ICD-O T13	8800/1
+#11	ICD-O T14	8800/1
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	C76.3 8000/1
+#14	ICD-O T17	C76.3
+#15	ICD-O T18	8000/3
+#16	ICD-O T19	C49.5 8000/3
+#17	ICD-O T20	C49.5
+#18	ICD-O T21	8000/6
+#19	ICD-O T22	C77.9 8000/6
+#20	ICD-O T23	C77.9
+#21	ICD-O T24	9591/3
+#22	ICD-O T25	9591/3
+#23	ICD-O T26	8800/3
+#24	ICD-O T27	8800/3
+#25	ICD-O T28	8002/3
+#26	ICD-O T29	8002/34
+#27	ICD-O T30	4
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	8000/1
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	8000/1
+#32	ICD-O T37	8000/1
+#33	ICD-O T38	8000/1
+#34	ICD-O T40	C77.5 
+#35	ICD-O T41	8000/1
+#36	ICD-O T43	C49.4
+#37	ICD-O T45	C48.1
+#38	ICD-O T46	8000/1
+#39	ICD-O T49	8000/1
+#40	ICD-O T50	C76.2 8000/1
+#41	ICD-O T51	C76.2
+#42	ICD-O T52	8010/3
+#43	ICD-O T53	C76.3 8010/34
+#44	ICD-O T54	4
+#45	ICD-O T55	C76.3

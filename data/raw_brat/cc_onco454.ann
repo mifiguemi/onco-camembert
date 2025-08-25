@@ -1,0 +1,127 @@
+T18	topographie 1588 1597	axillaire
+T22	topographie 1661 1669	inguinal
+T1	morphologie 438 445	lésions
+T2	expression_CIM 438 454	lésions cutanées
+T3	topographie 446 454	cutanées
+T4	expression_CIM 475 492	sarcome de Kaposi
+T5	morphologie 475 492	sarcome de Kaposi
+T6	morphologie 524 531	lésions
+T7	expression_CIM 524 638	lésions violacées en relief sur le cou, la joue droite, le bout du nez, le tronc, le dos, l'abdomen et les membres
+T8	topographie 559 562	cou
+T9	topographie 567 571	joue
+T10	topographie 591 594	nez
+T11	topographie 599 604	tronc
+T12	topographie 609 612	dos
+T13	topographie 616 623	abdomen
+T14	topographie 631 638	membres
+T15	morphologie 1534 1550	polyadénopathies
+T16	expression_CIM 1534 1669	polyadénopathies au niveau sous-maxillaire bilatéral, axillaire bilatéral, du tronc cœliaque, mésentérique, rétropéritonéal et inguinal
+T19	topographie 1612 1626	tronc cœliaque
+T20	topographie 1628 1640	mésentérique
+T21	topographie 1642 1657	rétropéritonéal
+T23	expression_CIM 1803 1820	sarcome de Kaposi
+T24	morphologie 1803 1820	sarcome de Kaposi
+T25	morphologie 1976 1982	lésion
+T26	expression_CIM 1976 1990	lésion cutanée
+T27	topographie 1983 1990	cutanée
+T28	expression_CIM 2037 2054	sarcome de Kaposi
+T29	morphologie 2037 2054	sarcome de Kaposi
+T30	expression_CIM 2431 2449	lésions nodulaires
+T31	morphologie 2431 2449	lésions nodulaires
+T32	morphologie 2517 2534	sarcome de Kaposi
+T33	expression_CIM 2517 2544	sarcome de Kaposi, duodénum
+T34	topographie 2536 2544	duodénum
+T35	morphologie 2608 2626	lésions nodulaires
+T36	expression_CIM 2608 2716	lésions nodulaires surélevées de couleur rouge cerise similaires à celles observées dans la cavité gastrique
+T37	topographie 2700 2716	cavité gastrique
+T38	morphologie 2732 2749	sarcome de Kaposi
+T39	expression_CIM 2732 2784	sarcome de Kaposi ont été observées depuis le rectum
+T40	topographie 2778 2784	rectum
+T41	morphologie 2855 2861	lésion
+T42	expression_CIM 2855 2882	lésion gastro-oesophagienne
+T43	topographie 2862 2882	gastro-oesophagienne
+T44	expression_CIM 2987 3004	sarcome de Kaposi
+T45	morphologie 2987 3004	sarcome de Kaposi
+T46	expression_CIM 3337 3354	sarcome de Kaposi
+T47	morphologie 3337 3354	sarcome de Kaposi
+T48	morphologie 3360 3368	atteinte
+T49	expression_CIM 3360 3388	atteinte cutanée et muqueuse
+T50	topographie 3369 3376	cutanée
+T51	topographie 3380 3388	muqueuse
+T52	morphologie 3670 3677	lésions
+T53	expression_CIM 3670 3686	lésions cutanées
+T54	topographie 3678 3686	cutanées
+T55	morphologie 3719 3726	lésions
+T56	expression_CIM 3719 3737	lésions entériques
+T57	topographie 3727 3737	entériques
+T58	expression_CIM 3815 3832	sarcome de Kaposi
+T59	morphologie 3815 3832	sarcome de Kaposi
+T60	topographie 3904 3911	Estomac
+T61	expression_CIM 3904 3936	Estomac : 3-4 lésions nodulaires
+T62	morphologie 3918 3936	lésions nodulaires
+T63	morphologie 4117 4124	lésions
+T64	expression_CIM 4117 4156	lésions plus évidentes au niveau rectal
+T65	topographie 4150 4156	rectal
+T66	morphologie 4761 4768	lésions
+T67	expression_CIM 4761 4777	lésions cutanées
+T68	topographie 4769 4777	cutanées
+T17	topographie 1561 1576	sous-maxillaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	9140/3
+#5	ICD-O T5	9140/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C76.0 8000/1;C76.2 8000/1;C76.7 8000/1;C76.8 8000/1
+#8	ICD-O T8	C76.0
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	C76.0
+#11	ICD-O T11	C76.7
+#12	ICD-O T12	C76.7
+#13	ICD-O T13	C76.2
+#14	ICD-O T14	C76.8
+#15	ICD-O T15	8000/1
+#16	ICD-O T19	C49.4
+#17	ICD-O T20	C48.1
+#18	ICD-O T21	C48.0
+#19	ICD-O T23	9140/3
+#20	ICD-O T24	9140/3
+#21	ICD-O T25	8000/1
+#22	ICD-O T26	C44.9 8000/1
+#23	ICD-O T27	C44.9
+#24	ICD-O T28	9140/3
+#25	ICD-O T29	9140/3
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	9140/3
+#28	ICD-O T34	C17.0
+#29	ICD-O T35	8000/1
+#30	ICD-O T37	C16.9
+#31	ICD-O T38	9140/3
+#32	ICD-O T40	C20.9
+#33	ICD-O T41	8000/1
+#34	ICD-O T42	C16.0 8000/1
+#35	ICD-O T43	C16.0
+#36	ICD-O T44	9140/3
+#37	ICD-O T45	9140/3
+#38	ICD-O T46	9140/3
+#39	ICD-O T47	9140/3
+#40	ICD-O T48	8000/1
+#41	ICD-O T49	C44.9 8000/1;C49.9 8000/1
+#42	ICD-O T50	C44.9
+#43	ICD-O T51	C49.9
+#44	ICD-O T52	8000/1
+#45	ICD-O T53	C44.9 8000/1
+#46	ICD-O T54	C44.9
+#47	ICD-O T55	8000/1
+#48	ICD-O T56	C26.0 8000/1
+#49	ICD-O T57	C26.0
+#50	ICD-O T58	9140/3
+#51	ICD-O T59	9140/3
+#52	ICD-O T60	C16.9 
+#53	ICD-O T62	8000/1
+#54	ICD-O T63	8000/1
+#55	ICD-O T64	C20.9 8000/1
+#56	ICD-O T65	C20.9
+#57	ICD-O T66	8000/1
+#58	ICD-O T67	C44.9 8000/1
+#59	ICD-O T68	C44.9

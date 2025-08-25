@@ -1,0 +1,108 @@
+T5	morphologie 3191 3201	hamartomes
+T2	morphologie 1615 1627	adénopathies
+T4	morphologie 3052 3059	nodules
+T9	morphologie 3293 3310	atteinte tumorale
+T11	morphologie 3312 3324	métastatique
+T13	morphologie 3328 3336	lymphome
+T14	morphologie 3345 3353	atteinte
+T16	topographie 3354 3364	vasculaire
+T17	morphologie 3545 3552	lésions
+T19	topographie 3553 3563	cérébrales
+T20	morphologie 4146 4154	lymphome
+T22	topographie 4155 4163	cérébral
+T23	morphologie 4710 4718	atteinte
+T25	topographie 4724 4736	hypothalamus
+T26	topographie 4744 4759	tige pituitaire
+T27	topographie 4768 4777	hypophyse
+T28	morphologie 4788 4795	lésions
+T30	topographie 4796 4806	cérébrales
+T31	morphologie 5369 5387	lésions nodulaires
+T33	topographie 5417 5434	supratentorielles
+T34	morphologie 5467 5474	lésions
+T36	topographie 5475 5492	infratentorielles
+T38	morphologie 5662 5669	lésions
+T39	morphologie 5733 5746	dissémination
+T41	topographie 5747 5758	épendymaire
+T42	topographie 5762 5775	leptoméningée
+T43	morphologie 5866 5874	lymphome
+T154	morphologie 5884 5892	primaire
+T45	topographie 5875 5883	cérébral
+T46	morphologie 5962 5974	adénopathies
+T48	topographie 5975 5989	paratrachéales
+T49	topographie 5993 6001	hilaires
+T50	morphologie 6024 6029	masse
+T52	topographie 6030 6051	paratrachéale-hilaire
+T53	morphologie 6285 6292	nodules
+T55	topographie 6293 6305	surrénaliens
+T57	morphologie 6338 6348	métastases
+T59	morphologie 6705 6729	masse végétative maligne
+T60	morphologie 6863 6872	carcinome
+T155	morphologie 6889 6909	de type microcytaire
+T62	differenciation 6873 6888	peu différencié
+T63	morphologie 7095 7101	tumeur
+T65	topographie 7102 7112	pulmonaire
+T67	morphologie 7573 7598	lésions occupant l'espace
+T68	morphologie 7670 7678	lymphome
+T156	morphologie 7688 7696	primaire
+T70	topographie 7679 7687	cérébral
+T71	morphologie 7767 7772	masse
+T73	topographie 7773 7783	pulmonaire
+T75	morphologie 7809 7815	tumeur
+T77	morphologie 7878 7890	adénopathies
+T78	morphologie 7913 7923	métastases
+T80	topographie 7924 7938	surrénaliennes
+T81	morphologie 8040 8046	cancer
+T157	morphologie 8057 8069	microcytaire
+T83	topographie 8050 8056	poumon
+T84	morphologie 8122 8129	lésions
+T86	topographie 8130 8140	cérébrales
+T88	morphologie 8177 8187	métastases
+T89	morphologie 8191 8197	cancer
+T158	morphologie 8208 8226	à petites cellules
+T91	topographie 8201 8207	poumon
+T92	morphologie 8373 8380	lésions
+T94	topographie 8381 8391	cérébrales
+T95	morphologie 8484 8490	cancer
+T159	morphologie 8501 8513	microcytaire
+T97	topographie 8494 8500	poumon
+T99	morphologie 8920 8927	tumeurs
+T100	morphologie 8948 8954	cancer
+T160	morphologie 8965 8983	à petites cellules
+T102	topographie 8958 8964	poumon
+T103	morphologie 9739 9746	lésions
+T105	topographie 9747 9757	cérébrales
+T107	morphologie 9853 9862	métastase
+T108	morphologie 9883 9889	Cancer
+T161	morphologie 9900 9912	microcytaire
+T110	topographie 9893 9899	poumon
+T112	morphologie 9918 9933	maladie étendue
+T113	morphologie 9935 9943	atteinte
+T115	topographie 9947 9954	cerveau
+T116	topographie 9962 9980	glandes surrénales
+T117	morphologie 10021 10042	atteinte métastatique
+T119	topographie 10046 10069	système nerveux central
+T120	morphologie 10118 10139	atteinte métastatique
+T122	topographie 10143 10150	cerveau
+T123	morphologie 10536 10544	atteinte
+T125	topographie 10545 10554	cérébrale
+T126	morphologie 10599 10605	cancer
+T162	morphologie 10616 10628	microcytaire
+T128	topographie 10609 10615	poumon
+T129	morphologie 10641 10651	métastases
+T131	topographie 10652 10666	surrénaliennes
+T132	topographie 10670 10680	cérébrales
+T133	morphologie 11051 11059	atteinte
+T135	topographie 11060 11069	cérébrale
+T136	morphologie 12088 12093	masse
+T138	topographie 12094 12104	pulmonaire
+T139	morphologie 12135 12147	adénopathies
+T141	topographie 12148 12159	pulmonaires
+T142	topographie 12163 12177	surrénaliennes
+T143	morphologie 12693 12702	extension
+T145	topographie 12708 12721	veine iliaque
+T146	topographie 12745 12760	veine gonadique
+T148	morphologie 13211 13228	lésions tumorales
+T149	morphologie 13531 13540	extension
+T151	topographie 13546 13567	veine cave inférieure
+T153	morphologie 14262 14268	tumeur
+T7	topographie 3202 3219	sous-épendymaires

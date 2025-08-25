@@ -1,0 +1,138 @@
+T29	morphologie 3132 3152	carcinome multifocal
+T44	topographie 4083 4091	exocrine
+T1	morphologie 513 518	masse
+T2	expression_CIM 513 557	masse pancréatique dans la queue du pancréas
+T3	topographie 519 531	pancréatique
+T4	topographie 540 557	queue du pancréas
+T5	expression_CIM 809 819	néoplasmes
+T6	morphologie 809 819	néoplasmes
+T7	morphologie 885 907	Adénocarcinome acineux
+T8	expression_CIM 885 956	Adénocarcinome acineux bien différencié encapsulé de 7,5 cm du pancréas
+T9	differenciation 908 924	bien différencié
+T10	topographie 948 956	pancréas
+T11	morphologie 1130 1148;1157 1165	Cystadénocarcinome mucineux
+T12	expression_CIM 1130 1182	Cystadénocarcinome ovarien mucineux bien différencié
+T13	topographie 1149 1156	ovarien
+T14	differenciation 1166 1182	bien différencié
+T15	expression_CIM 1494 1501	tumeurs
+T16	morphologie 1494 1501	tumeurs
+T17	morphologie 1882 1912	lésions occupant l'espace (LOE
+T18	expression_CIM 1882 1931	lésions occupant l'espace (LOE) au niveau du rein
+T19	topographie 1927 1931	rein
+T20	morphologie 2487 2490	LOE
+T21	expression_CIM 2487 2497	LOE rénaux
+T22	topographie 2491 2497	rénaux
+T23	topographie 2860 2864	rein
+T24	expression_CIM 2860 2891	rein gauche présente trois LOEs
+T25	morphologie 2887 2891	LOEs
+T26	expression_CIM 3042 3051	malignité
+T27	morphologie 3042 3051	malignité
+T28	expression_CIM 3132 3152	carcinome multifocal
+T30	expression_CIM 3164 3171	nodules
+T31	morphologie 3164 3171	nodules
+T32	expression_CIM 3593 3600	lésions
+T33	morphologie 3593 3600	lésions
+T34	expression_CIM 3659 3666	lésions
+T35	morphologie 3659 3666	lésions
+T36	morphologie 3688 3698	métastases
+T37	expression_CIM 3688 3721	métastases d'origine pancréatique
+T38	topographie 3709 3721	pancréatique
+T39	morphologie 3878 3887	carcinome
+T40	expression_CIM 3878 3893	carcinome rénal
+T41	topographie 3888 3893	rénal
+T42	morphologie 4050 4065	tumeur primaire
+T43	expression_CIM 4050 4141	tumeur primaire serait d'origine exocrine si elle était probablement d'origine pancréatique
+T45	topographie 4129 4141	pancréatique
+T46	morphologie 4360 4370	néoplasmes
+T47	expression_CIM 4360 4394	néoplasmes pancréatiques exocrines
+T48	topographie 4371 4394	pancréatiques exocrines
+T49	expression_CIM 4854 4882	carcinome à cellules rénales
+T50	morphologie 4854 4882	carcinome à cellules rénales
+T51	morphologie 4960 4969	néoplasme
+T52	expression_CIM 4960 4982	néoplasme pancréatique
+T53	topographie 4970 4982	pancréatique
+T54	morphologie 5056 5065	néoplasme
+T55	expression_CIM 5056 5078	néoplasme pancréatique
+T56	topographie 5066 5078	pancréatique
+T57	expression_CIM 5125 5157	adénocarcinome acineux endocrine
+T58	morphologie 5125 5157	adénocarcinome acineux endocrine
+T59	morphologie 5190 5197	lésions
+T60	expression_CIM 5190 5205	lésions rénales
+T61	topographie 5198 5205	rénales
+T62	expression_CIM 5391 5414	néoplasmes endocriniens
+T64	morphologie 5438 5470	adénocarcinome endocrine acineux
+T65	expression_CIM 5438 5482	adénocarcinome endocrine acineux du pancréas
+T66	topographie 5474 5482	pancréas
+T67	expression_CIM 5704 5722	néoplasme primaire
+T68	morphologie 5704 5722	néoplasme primaire
+T69	expression_CIM 5730 5740	métastases
+T70	morphologie 5730 5740	métastases
+T71	expression_CIM 6073 6081	récidive
+T72	morphologie 6073 6081	récidive
+T63	morphologie 5391 5414	néoplasmes endocriniens
+#1	ICD-O T29	8010/3
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C25.2 8000/1;C25.9 8000/1
+#4	ICD-O T3	C25.9
+#5	ICD-O T4	C25.2
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	8000/1
+#8	ICD-O T7	8550/3
+#9	ICD-O T8	C25.9 8550/31
+#10	ICD-O T9	1
+#11	ICD-O T10	C25.9
+#12	ICD-O T11	8470/3
+#13	ICD-O T12	C56.9 8470/31
+#14	ICD-O T13	C56.9
+#15	ICD-O T14	1
+#16	ICD-O T15	8000/1
+#17	ICD-O T16	8000/1
+#18	ICD-O T17	8000/1
+#19	ICD-O T19	C64.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T22	C64.9
+#22	ICD-O T23	C64.9
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	8000/3
+#25	ICD-O T27	tocheck
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	8000/1
+#28	ICD-O T32	8000/1
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	8000/1
+#31	ICD-O T35	8000/1
+#32	ICD-O T36	8000/6
+#33	ICD-O T38	C25.9
+#34	ICD-O T39	8010/3
+#35	ICD-O T40	C64.9 8010/3
+#36	ICD-O T41	C64.9
+#37	ICD-O T42	8000/3
+#38	ICD-O T45	C25.9
+#39	ICD-O T46	8000/3
+#40	ICD-O T47	C25.9 8000/1
+#41	ICD-O T48	C25.9
+#42	ICD-O T49	8312/3
+#43	ICD-O T50	8312/3
+#44	ICD-O T51	8000/3
+#45	ICD-O T52	C25.9 8000/1
+#46	ICD-O T53	C25.9
+#47	ICD-O T54	8000/3
+#48	ICD-O T55	C25.9 8000/1
+#49	ICD-O T56	C25.9
+#50	ICD-O T57	C25.4 8550/3
+#51	ICD-O T58	8550/3
+#52	ICD-O T59	8000/1
+#53	ICD-O T60	C64.9 8000/1
+#54	ICD-O T61	C64.9
+#55	ICD-O T62	C25.4 8000/1
+#56	ICD-O T64	8550/3
+#57	ICD-O T65	C25.4 8550/3
+#58	ICD-O T66	C25.9
+#59	ICD-O T67	8000/3
+#60	ICD-O T68	8000/3
+#61	ICD-O T69	8000/6
+#62	ICD-O T70	8000/6
+#63	ICD-O T71	8000/6
+#64	ICD-O T72	8000/9
+#65	ICD-O T63	tocheck
+#66	AnnotatorNotes T17	trad

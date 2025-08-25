@@ -1,0 +1,36 @@
+T1	morphologie 103 117	adénocarcinome
+T3	differenciation 118 135	localement avancé
+T4	stadeTNM 137 145	T3N1-2M0
+T5	topographie 154 160	rectum
+T6	morphologie 626 632	lésion
+T8	topographie 633 644	parahilaire
+T10	morphologie 706 714	récidive
+T12	morphologie 730 745	tumeur primaire
+T14	morphologie 889 901	adénopathies
+T15	morphologie 1251 1257	lésion
+T17	topographie 1258 1269	parahilaire
+T19	morphologie 1460 1467	lésions
+T21	morphologie 1553 1565	adénopathies
+T22	morphologie 1605 1627	atteinte adénopathique
+T24	topographie 1643 1656	paratrachéale
+T25	morphologie 2041 2047	lésion
+T27	topographie 2069 2076	hilaire
+T28	morphologie 2090 2098	atteinte
+T30	topographie 2102 2111	médiastin
+T31	topographie 2121 2127	plèvre
+T33	morphologie 2231 2239	récidive
+T35	morphologie 2253 2261	primitif
+T36	morphologie 2324 2335	adénopathie
+T40	morphologie 2362 2387	conglomérat adénopathique
+T41	morphologie 2549 2561	adénopathies
+T43	topographie 2577 2591	paratrachéales
+T44	topographie 2593 2601	hilaires
+T47	morphologie 2656 2673	cellules malignes
+T48	morphologie 2916 2927	Adénopathie
+T50	topographie 2928 2940	médiastinale
+T52	morphologie 3005 3020	maladie maligne
+T54	morphologie 3176 3190	tumeur maligne
+T55	morphologie 3536 3548	adénopathies
+T57	topographie 3549 3562	médiastinales
+T45	topographie 2613 2628	sous-carénaires
+T38	topographie 2336 2349	sous-carénale

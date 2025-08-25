@@ -1,0 +1,29 @@
+T1	morphologie 426 431	masse
+T3	topographie 432 438	rénale
+T4	morphologie 512 522	métastases
+T6	topographie 523 534	pulmonaires
+T7	morphologie 709 718	carcinome
+T44	morphologie 725 743	à cellules claires
+T9	topographie 719 724	rénal
+T10	differenciation 747 765	grade 3 de Fürhman
+T11	morphologie 1031 1039	invasion
+T13	topographie 1040 1050	vasculaire
+T14	topographie 1051 1062	lymphatique
+T16	morphologie 1225 1233	stade IV
+T17	morphologie 1338 1344	lésion
+T19	topographie 1345 1358	supraciliaire
+T20	morphologie 1481 1490	métastase
+T45	morphologie 1499 1509	à distance
+T22	topographie 1491 1498	cutanée
+T24	morphologie 1511 1513	M1
+T26	morphologie 1535 1538	CCR
+T27	morphologie 1754 1760	lésion
+T29	topographie 1761 1768	cutanée
+T30	morphologie 2445 2451	lésion
+T32	topographie 2452 2466	supra-ciliaire
+T34	morphologie 3474 3478	LOES
+T35	topographie 3505 3512	cerveau
+T37	morphologie 3538 3547	néoplasme
+T39	morphologie 3603 3610	tumeurs
+T41	morphologie 4727 4752	cancer à cellules claires
+T43	morphologie 4756 4764	stade IV

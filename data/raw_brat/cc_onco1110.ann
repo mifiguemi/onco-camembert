@@ -1,0 +1,12 @@
+T1	morphologie 335 356	carcinome épidermoïde
+T2	expression_CIM 335 403	carcinome épidermoïde de stade IV (T3N2cM0) du larynx supraglottique
+T3	expression_CIM 360 368	stade IV
+T4	morphologie 360 368	stade IV
+T5	stadeTNM 370 377	T3N2cM0
+T6	topographie 382 403	larynx supraglottique
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	C32.1 8070/3
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	todelete
+#6	ICD-O T6	C32.1

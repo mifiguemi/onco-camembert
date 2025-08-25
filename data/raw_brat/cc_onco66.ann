@@ -1,0 +1,199 @@
+T9	topographie 301 328	abdominale infra-ombilicale
+T1	morphologie 144 150;161 173	cancer microcytaire
+T2	expression_CIM 144 173	cancer du poumon microcytaire
+T3	topographie 154 160	poumon
+T4	morphologie 206 212	cancer
+T5	expression_CIM 206 224	cancer du pancréas
+T6	topographie 216 224	pancréas
+T7	morphologie 295 300	masse
+T8	expression_CIM 295 328	masse abdominale infra-ombilicale
+T10	morphologie 419 424	masse
+T11	expression_CIM 419 507	masse solide mesurant 92 x 61 mm, logée dans le mésentère, au niveau de la fosse iliaque
+T12	topographie 467 476	mésentère
+T13	topographie 494 507	fosse iliaque
+T14	expression_CIM 528 536	lymphome
+T15	morphologie 528 536	lymphome
+T16	expression_CIM 544 559	tumeur desmoïde
+T17	morphologie 544 559	tumeur desmoïde
+T18	expression_CIM 574 580	lésion
+T19	morphologie 574 580	lésion
+T20	expression_CIM 623 636	neuroblastome
+T21	morphologie 623 636	neuroblastome
+T22	expression_CIM 705 711	lésion
+T23	morphologie 705 711	lésion
+T24	expression_CIM 758 763	masse
+T25	morphologie 758 763	masse
+T26	expression_CIM 855 868	neuroblastome
+T27	morphologie 855 868	neuroblastome
+T28	morphologie 1157 1167	lit tumora
+T29	expression_CIM 1157 1168	lit tumoral
+T30	morphologie 1757 1768	adénopathie
+T31	expression_CIM 1757 1809	adénopathie para-aortique gauche, sous le hile rénal
+T32	topographie 1769 1782	para-aortique
+T33	topographie 1799 1809	hile rénal
+T34	morphologie 1849 1870	atteinte métastatique
+T35	expression_CIM 1849 1932	atteinte métastatique de la moelle osseuse des vertèbres sacrées et de l'os iliaque
+T36	topographie 1877 1932	moelle osseuse des vertèbres sacrées et de l'os iliaque
+T37	morphologie 1953 1958	masse
+T38	expression_CIM 1953 1988	masse prévertébrale des tissus mous
+T39	topographie 1959 1972	prévertébrale
+T40	topographie 1977 1988	tissus mous
+T41	morphologie 2156 2166	métastases
+T42	expression_CIM 2156 2175	métastases osseuses
+T43	topographie 2167 2175	osseuses
+T44	expression_CIM 2179 2192	neuroblastome
+T45	morphologie 2179 2192	neuroblastome
+T46	morphologie 2362 2368	lésion
+T47	expression_CIM 2362 2379	lésion abdominale
+T48	topographie 2369 2379	abdominale
+T49	expression_CIM 2405 2426	lésion multinodulaire
+T50	morphologie 2405 2426	lésion multinodulaire
+T51	morphologie 3010 3021	adénopathie
+T52	expression_CIM 3010 3062	adénopathie para-aortique gauche, sous le hile rénal
+T53	topographie 3022 3035	para-aortique
+T54	topographie 3052 3062	hile rénal
+T55	morphologie 3126 3147	Atteinte métastatique
+T56	expression_CIM 3126 3239	Atteinte métastatique de la moelle osseuse des vertèbres sacrées, touchant S1, S2, S3, S4, ainsi que l'os iliaque
+T57	topographie 3154 3190	moelle osseuse des vertèbres sacrées
+T58	topographie 3201 3203	S1
+T59	topographie 3205 3207	S2
+T60	topographie 3209 3211	S3
+T61	topographie 3213 3215	S4
+T62	topographie 3229 3239	os iliaque
+T63	morphologie 3247 3252	Masse
+T64	expression_CIM 3247 3278	Masse de tissu mou prévertébral
+T65	topographie 3256 3278	tissu mou prévertébral
+T66	expression_CIM 3400 3412	adénopathies
+T67	morphologie 3400 3412	adénopathies
+T68	morphologie 3624 3633	métastase
+T69	expression_CIM 3624 3641	métastase osseuse
+T70	topographie 3634 3641	osseuse
+T71	expression_CIM 3645 3658	neuroblastome
+T72	morphologie 3645 3658	neuroblastome
+T73	expression_CIM 3707 3725	cellules tumorales
+T74	morphologie 3707 3725	cellules tumorales
+T75	morphologie 3755 3762	rechute
+T76	expression_CIM 3755 3827	rechute du neuroblastome, au niveau des os et des ganglions lymphatiques
+T77	morphologie 3766 3779	neuroblastome
+T78	topographie 3795 3797	os
+T79	topographie 3805 3827	ganglions lymphatiques
+T80	morphologie 3845 3850	masse
+T81	expression_CIM 3845 3866	masse des tissus mous
+T82	expression_CIM 4081 4094	neuroblastome
+T83	morphologie 4081 4094	neuroblastome
+T84	expression_CIM 4414 4420	tumeur
+T85	morphologie 4414 4420	tumeur
+T86	morphologie 5410 5415	masse
+T87	expression_CIM 5410 5429	masse prévertébrale
+T88	topographie 5416 5429	prévertébrale
+T89	morphologie 5437 5449	adénopathies
+T90	expression_CIM 5437 5460	adénopathies pelviennes
+T91	topographie 5450 5460	pelviennes
+T92	expression_CIM 5513 5520	lésions
+T93	morphologie 5513 5520	lésions
+T94	expression_CIM 6223 6245	atteinte adénopathique
+T95	morphologie 6223 6245	atteinte adénopathique
+T96	morphologie 6263 6268	masse
+T97	expression_CIM 6263 6284	masse des tissus mous
+T98	topographie 6273 6284	tissus mous
+T99	morphologie 6321 6327	lésion
+T100	expression_CIM 6321 6341	lésion para-aortique
+T101	topographie 6328 6341	para-aortique
+#1	ICD-O T1	8002/3
+#2	ICD-O T2	C34.9 8002/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C25.9 8000/3
+#6	ICD-O T6	C25.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C76.2 8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C48.1 8000/1;C76.2 8000/1
+#11	ICD-O T12	C48.1
+#12	ICD-O T13	C76.2
+#13	ICD-O T14	9590/3
+#14	ICD-O T15	9590/3
+#15	ICD-O T16	8821/1
+#16	ICD-O T17	8821/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	9500/3
+#20	ICD-O T21	9500/3
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	9500/3
+#26	ICD-O T27	9500/3
+#27	ICD-O T28	tocheck
+#28	ICD-O T29	8000/3
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C77.2 8000/1
+#31	ICD-O T32	C49.4
+#32	ICD-O T33	C64.9
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	C42.1 8000/6
+#35	ICD-O T36	C42.1
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	C41.8 8000/1;C49.9 8000/1
+#38	ICD-O T39	C41.8
+#39	ICD-O T40	C49.9
+#40	ICD-O T41	8000/6
+#41	ICD-O T42	C41.9 8000/6
+#42	ICD-O T43	C41.9
+#43	ICD-O T44	9500/3
+#44	ICD-O T45	9500/3
+#45	ICD-O T46	8000/1
+#46	ICD-O T47	C76.2 8000/1
+#47	ICD-O T48	C76.2
+#48	ICD-O T50	8000/1
+#49	ICD-O T51	8000/1
+#50	ICD-O T52	C77.2 8000/1
+#51	ICD-O T53	C49.4
+#52	ICD-O T54	C64.9
+#53	ICD-O T55	8000/6
+#54	ICD-O T56	C41.4 8000/6;C42.1 8000/6
+#55	ICD-O T57	C42.1
+#56	ICD-O T58	C41.4
+#57	ICD-O T59	C41.4
+#58	ICD-O T60	C41.4
+#59	ICD-O T61	C41.4
+#60	ICD-O T62	C41.4
+#61	ICD-O T63	8000/1
+#62	ICD-O T64	C49.3 8000/1
+#63	ICD-O T65	C49.3
+#64	ICD-O T66	C77.9 8000/1
+#65	ICD-O T67	8000/1
+#66	ICD-O T68	8000/6
+#67	ICD-O T70	C41.9
+#68	ICD-O T71	9500/3
+#69	ICD-O T72	9500/3
+#70	ICD-O T73	8001/1
+#71	ICD-O T74	8001/1
+#72	ICD-O T75	8000/3
+#73	ICD-O T76	C41.9 8000/3;C77.9 8000/3
+#74	ICD-O T77	9500/3
+#75	ICD-O T78	C41.9
+#76	ICD-O T79	C77.9
+#77	ICD-O T80	8000/1
+#78	ICD-O T81	C49.9 8000/1
+#79	ICD-O T82	9500/3
+#80	ICD-O T83	9500/3
+#81	ICD-O T84	8000/1
+#82	ICD-O T85	8000/1
+#83	ICD-O T86	8000/1
+#84	ICD-O T87	C41.8 8000/1
+#85	ICD-O T88	C41.8
+#86	ICD-O T89	8000/1
+#87	ICD-O T90	C77.5 8000/1
+#88	ICD-O T91	C76.3
+#89	ICD-O T92	8000/1
+#90	ICD-O T93	8000/1
+#91	ICD-O T94	C77.9 8000/1
+#92	ICD-O T95	8000/1
+#93	ICD-O T96	8000/1
+#94	ICD-O T97	C49.9 8000/1
+#95	ICD-O T98	C49.9
+#96	ICD-O T99	8000/1
+#97	ICD-O T100	C49.4 8000/1
+#98	ICD-O T101	C49.4

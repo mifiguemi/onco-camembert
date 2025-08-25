@@ -1,0 +1,85 @@
+T1	morphologie 222 252	carcinome canalaire infiltrant
+T2	expression_CIM 222 260	carcinome canalaire infiltrant du sein
+T3	topographie 256 260	sein
+T4	morphologie 1044 1062	image ostéogénique
+T5	expression_CIM 1044 1113	image ostéogénique a été observée dans l'hémipel gauche et l'omoplate
+T7	topographie 1105 1113	omoplate
+T8	expression_CIM 1142 1151	métastase
+T9	morphologie 1142 1151	métastase
+T10	morphologie 1171 1177	lésion
+T11	expression_CIM 1171 1229	lésion étendue occupant toute la moelle de la lame iliaque
+T13	morphologie 1274 1279	masse
+T14	expression_CIM 1274 1292	masse de tissu mou
+T15	topographie 1283 1292	tissu mou
+T16	morphologie 1407 1413	lésion
+T17	expression_CIM 1407 1423	lésion hépatique
+T18	topographie 1414 1423	hépatique
+T19	expression_CIM 1443 1453	métastases
+T20	morphologie 1443 1453	métastases
+T21	morphologie 1486 1492	lésion
+T22	expression_CIM 1486 1502	lésion hépatique
+T23	topographie 1493 1502	hépatique
+T24	morphologie 1598 1604	lésion
+T25	expression_CIM 1598 1632	lésion osseuse au niveau du bassin
+T26	topographie 1605 1632	osseuse au niveau du bassin
+T27	expression_CIM 1681 1690	carcinome
+T28	morphologie 1681 1690	carcinome
+T29	morphologie 1710 1719;1729 1737	carcinome primaire
+T30	expression_CIM 1710 1737	carcinome mammaire primaire
+T31	topographie 1720 1728	mammaire
+T32	morphologie 1838 1848	Métastases
+T33	expression_CIM 1838 1895	Métastases osseuses pelviennes, scapulaires et hépatiques
+T34	topographie 1849 1868	osseuses pelviennes
+T35	topographie 1870 1881	scapulaires
+T36	topographie 1885 1895	hépatiques
+T37	morphologie 1898 1905	origine
+T38	expression_CIM 1898 1914	origine mammaire
+T39	topographie 1906 1914	mammaire
+T40	morphologie 2121 2131	métastases
+T41	expression_CIM 2121 2159	métastases a été observée dans le foie
+T42	topographie 2155 2159	foie
+T43	morphologie 2341 2351	métastases
+T44	expression_CIM 2341 2379	métastases a été observée dans le foie
+T45	topographie 2375 2379	foie
+T6	topographie 1085 1092	hémipel
+T12	topographie 1217 1229	lame iliaque
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	tocheck
+#5	ICD-O T7	C40.0 
+#6	ICD-O T8	8000/6
+#7	ICD-O T9	8000/6
+#8	ICD-O T10	8000/1
+#9	ICD-O T13	8000/1
+#10	ICD-O T14	C49.9 8000/1
+#11	ICD-O T15	C49.9
+#12	ICD-O T16	8000/1
+#13	ICD-O T17	C22.0 8000/1
+#14	ICD-O T18	C22.0
+#15	ICD-O T19	8000/6
+#16	ICD-O T20	8000/6
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	C22.0 8000/1
+#19	ICD-O T23	C22.0
+#20	ICD-O T24	8000/1
+#21	ICD-O T25	C41.9 8000/1;C76.3 8000/1
+#22	ICD-O T26	C41.9
+#23	ICD-O T27	8010/3
+#24	ICD-O T28	8010/3
+#25	ICD-O T29	8010/3
+#26	ICD-O T30	C50.9 8010/3
+#27	ICD-O T31	C50.9
+#28	ICD-O T32	8000/6
+#29	ICD-O T33	C22.0 8000/6;C40.0 8000/6;C41.9 8000/6;C76.3 8000/6
+#30	ICD-O T34	C41.9
+#31	ICD-O T35	C40.0
+#32	ICD-O T36	C22.0
+#33	ICD-O T37	8000/3
+#34	ICD-O T39	C50.9
+#35	ICD-O T40	8000/6
+#36	ICD-O T41	C22.0 8000/6
+#37	ICD-O T42	C22.0
+#38	ICD-O T43	8000/6
+#39	ICD-O T44	C22.0 8000/6
+#40	ICD-O T45	C22.0

@@ -1,0 +1,14 @@
+T1	morphologie 439 445	tumeur
+T3	topographie 461 471	os iliaque
+T5	morphologie 779 784	masse
+T7	morphologie 894 906	adénopathies
+T8	morphologie 1290 1296	lésion
+T10	topographie 1317 1327	os iliaque
+T12	morphologie 1338 1344	tumeur
+T14	morphologie 2074 2110	lymphome diffus à grandes cellules B
+T16	morphologie 2233 2257	infiltration néoplasique
+T17	morphologie 2271 2279	Lymphome
+T24	morphologie 2287 2295	primitif
+T19	topographie 2280 2286	osseux
+T21	morphologie 2355 2363	stade IV
+T23	morphologie 2369 2374	masse

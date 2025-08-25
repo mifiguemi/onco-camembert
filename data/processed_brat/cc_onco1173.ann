@@ -1,0 +1,24 @@
+T2	morphologie 1927 1932	masse
+T3	morphologie 1976 1982	tumeur
+T38	morphologie 1994 2003	primitive
+T5	topographie 1983 1993	pulmonaire
+T6	morphologie 2016 2042	adénopathies pathologiques
+T8	topographie 2043 2056	médiastinales
+T9	topographie 2060 2068	hilaires
+T10	morphologie 2078 2084	Nodule
+T12	topographie 2085 2118	pulmonaire dans le lobe supérieur
+T14	morphologie 2146 2155	métastase
+T15	morphologie 2189 2198	néoplasme
+T17	topographie 2199 2209	pulmonaire
+T18	morphologie 2586 2591	masse
+T20	topographie 2592 2606	endobronchique
+T22	morphologie 2659 2709	carcinome neuroendocrine à cellules intermédiaires
+T24	morphologie 2723 2745	carcinome microcytaire
+T25	morphologie 3184 3208	carcinome neuroendocrine
+T27	topographie 3212 3218	poumon
+T28	morphologie 3623 3647	carcinome neuroendocrine
+T30	topographie 3648 3658	pulmonaire
+T32	morphologie 3662 3670	stade IV
+T34	morphologie 3786 3808	extension de la tumeur
+T35	morphologie 4311 4331	progression tumorale
+T37	topographie 4332 4342	pulmonaire

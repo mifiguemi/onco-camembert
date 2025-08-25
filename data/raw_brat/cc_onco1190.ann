@@ -1,0 +1,128 @@
+T1	morphologie 418 424	tumeur
+T2	expression_CIM 418 456	tumeur de 6 x 5 cm au niveau du sacrum
+T3	topographie 450 456	sacrum
+T4	expression_CIM 596 602	lésion
+T5	morphologie 596 602	lésion
+T6	expression_CIM 670 678	chordome
+T7	morphologie 670 678	chordome
+T8	morphologie 954 960	tumeur
+T9	expression_CIM 954 1048	tumeur dure, ulcérée, végétante, empêchant le passage de l'endoscope à 35 cm de la marge anale
+T10	topographie 1023 1048	à 35 cm de la marge anale
+T11	expression_CIM 1224 1238	adénocarcinome
+T12	morphologie 1224 1238	adénocarcinome
+T13	morphologie 1394 1401	nodules
+T14	expression_CIM 1394 1413	nodules pulmonaires
+T15	topographie 1402 1413	pulmonaires
+T16	morphologie 1538 1545	lésions
+T17	expression_CIM 1538 1568	lésions dans le lobe inférieur
+T18	topographie 1554 1568	lobe inférieur
+T19	morphologie 1637 1644	nodules
+T20	expression_CIM 1637 1656	nodules pulmonaires
+T21	topographie 1645 1656	pulmonaires
+T22	morphologie 1734 1744	métastases
+T23	expression_CIM 1734 1756	métastases pulmonaires
+T24	topographie 1745 1756	pulmonaires
+T25	morphologie 1762 1776	adénocarcinome
+T26	expression_CIM 1762 1785	adénocarcinome du côlon
+T27	topographie 1780 1785	côlon
+T28	morphologie 1931 1938	lésions
+T29	expression_CIM 1931 1950	lésions pulmonaires
+T30	topographie 1939 1950	pulmonaires
+T31	expression_CIM 2016 2025	métastase
+T32	morphologie 2016 2025	métastase
+T33	expression_CIM 2029 2037	chordome
+T34	morphologie 2029 2037	chordome
+T35	morphologie 2250 2257	lésions
+T36	expression_CIM 2250 2267	lésions du poumon
+T37	topographie 2261 2267	poumon
+T38	expression_CIM 2346 2354	chordome
+T39	morphologie 2346 2354	chordome
+T40	expression_CIM 2469 2476	lésions
+T41	morphologie 2469 2476	lésions
+T42	morphologie 2552 2560	récidive
+T43	expression_CIM 2552 2586	récidive au niveau de l'os iliaque
+T44	topographie 2576 2586	os iliaque
+T45	morphologie 2615 2622	lésions
+T46	expression_CIM 2615 2634	lésions pulmonaires
+T47	topographie 2623 2634	pulmonaires
+T48	expression_CIM 2795 2803	récidive
+T49	morphologie 2795 2803	récidive
+T50	expression_CIM 2807 2815	chordome
+T51	morphologie 2807 2815	chordome
+T52	morphologie 2821 2829	atteinte
+T53	expression_CIM 2821 2855	atteinte des os et des tissus mous
+T54	topographie 2834 2836	os
+T55	topographie 2844 2855	tissus mous
+T56	expression_CIM 3146 3157	lit tumoral
+T57	morphologie 3146 3157	lit tumoral
+T58	morphologie 3447 3454	nodules
+T59	expression_CIM 3447 3466	nodules pulmonaires
+T60	topographie 3455 3466	pulmonaires
+T61	morphologie 3627 3633	cancer
+T62	expression_CIM 3627 3642	cancer du côlon
+T63	topographie 3637 3642	côlon
+T64	expression_CIM 3696 3704	chordome
+T65	morphologie 3696 3704	chordome
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C41.4 8000/1
+#3	ICD-O T3	C41.4
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	9370/3
+#7	ICD-O T7	9370/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C21.1
+#10	ICD-O T12	8140/3
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C34.9 8000/1
+#13	ICD-O T15	C34.9
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	C34.3 8000/1
+#16	ICD-O T18	C34.3
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	C34.9 8000/1
+#19	ICD-O T21	C34.9
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	C34.9 8000/6
+#22	ICD-O T24	C34.9
+#23	ICD-O T25	8140/3
+#24	ICD-O T26	C18.9 8140/3
+#25	ICD-O T27	C18.9
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C34.9 8000/1
+#28	ICD-O T30	C34.9
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	8000/6
+#31	ICD-O T33	9370/3
+#32	ICD-O T34	9370/3
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	C34.9 8000/1
+#35	ICD-O T37	C34.9
+#36	ICD-O T38	9370/3
+#37	ICD-O T39	9370/3
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	8000/9
+#41	ICD-O T43	C41.4 8000/6
+#42	ICD-O T44	C41.4
+#43	ICD-O T45	8000/1
+#44	ICD-O T46	C34.9 8000/1
+#45	ICD-O T47	C34.9
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	8000/9
+#48	ICD-O T50	9370/3
+#49	ICD-O T51	9370/3
+#50	ICD-O T52	8000/9
+#51	ICD-O T53	C41.9 8000/1;C49.9 8000/1
+#52	ICD-O T54	C41.9
+#53	ICD-O T55	C49.9
+#54	ICD-O T56	8000/3
+#55	ICD-O T57	8000/3
+#56	ICD-O T58	8000/1
+#57	ICD-O T59	C34.9 8000/1
+#58	ICD-O T60	C34.9
+#59	ICD-O T61	8000/3
+#60	ICD-O T62	C18.9 8000/3
+#61	ICD-O T63	C18.9
+#62	ICD-O T64	9370/3
+#63	ICD-O T65	9370/3

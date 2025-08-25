@@ -1,0 +1,167 @@
+T48	topographie 4202 4225	pulmonaire sous-pleural
+T1	morphologie 956 962	tumeur
+T2	expression_CIM 956 972	tumeur pelvienne
+T3	topographie 963 972	pelvienne
+T4	expression_CIM 1068 1093	tumeur fibreuse solitaire
+T5	morphologie 1068 1093	tumeur fibreuse solitaire
+T6	expression_CIM 1225 1231	tumeur
+T7	morphologie 1225 1231	tumeur
+T8	expression_CIM 1363 1369	tumeur
+T9	morphologie 1363 1369	tumeur
+T10	expression_CIM 1990 2000	métastases
+T11	morphologie 1990 2000	métastases
+T12	morphologie 2007 2032	tumeur fibreuse solitaire
+T13	expression_CIM 2007 2069	tumeur fibreuse solitaire (d'une taille de 9,5 cm dans le foie
+T14	topographie 2065 2069	foie
+T15	morphologie 2106 2114	récidive
+T16	expression_CIM 2106 2124	récidive hépatique
+T17	topographie 2115 2124	hépatique
+T18	morphologie 2181 2188	lésions
+T19	expression_CIM 2181 2262	lésions : l'une dans le segment VIII mesurant 33 mm et l'autre dans le segment VI
+T22	expression_CIM 2332 2339	lésions
+T23	morphologie 2332 2339	lésions
+T24	morphologie 2462 2468	lésion
+T25	expression_CIM 2462 2496	lésion située dans le segment VIII
+T27	morphologie 2517 2523	lésion
+T28	expression_CIM 2517 2533	lésion hépatique
+T29	topographie 2524 2533	hépatique
+T30	morphologie 2587 2593	lésion
+T31	expression_CIM 2587 2621	lésion entre les segments VII-VIII
+T33	morphologie 2655 2662	lésions
+T34	expression_CIM 2655 2715	lésions dans le segment VIII de 3,5 cm et dans le segment VI
+T37	morphologie 2871 2878	nodules
+T38	expression_CIM 2871 2972	nodules pulmonaires : 9 mm dans le lobe supérieur droit et deux d'environ 4 mm dans le lobe inférieur
+T39	topographie 2879 2890	pulmonaires
+T40	topographie 2906 2920	lobe supérieur
+T41	topographie 2958 2972	lobe inférieur
+T42	expression_CIM 2984 2991	nodules
+T43	morphologie 2984 2991	nodules
+T44	expression_CIM 3060 3069	métastase
+T45	morphologie 3060 3069	métastase
+T46	morphologie 4195 4201	Nodule
+T47	expression_CIM 4195 4248	Nodule pulmonaire sous-pleural dans le lobe supérieur
+T49	topographie 4234 4248	lobe supérieur
+T50	morphologie 4321 4348	Augmentation du métabolisme
+T51	expression_CIM 4321 4399	Augmentation du métabolisme de répartition hétérogène au niveau de la prostate
+T52	topographie 4391 4399	prostate
+T53	morphologie 4526 4532	lésion
+T54	expression_CIM 4526 4579	lésion hypervasculaire sous-capsulaire du segment III
+T56	expression_CIM 4600 4609	métastase
+T57	morphologie 4600 4609	métastase
+T58	morphologie 4634 4640	lésion
+T59	expression_CIM 4634 4666	lésion au niveau du segment VIII
+T61	expression_CIM 4680 4689	métastase
+T62	morphologie 4680 4689	métastase
+T63	morphologie 4921 4931	métastases
+T64	expression_CIM 4921 4942	métastases hépatiques
+T65	topographie 4932 4942	hépatiques
+T66	morphologie 4976 4983	nodules
+T67	expression_CIM 4976 4995	nodules pulmonaires
+T68	topographie 4984 4995	pulmonaires
+T69	morphologie 5147 5155	Récidive
+T70	expression_CIM 5147 5179	Récidive hépatique et pulmonaire
+T71	topographie 5156 5165	hépatique
+T72	topographie 5169 5179	pulmonaire
+T73	morphologie 5186 5211	tumeur fibreuse solitaire
+T74	expression_CIM 5186 5221	tumeur fibreuse solitaire pelvienne
+T75	topographie 5212 5221	pelvienne
+T76	expression_CIM 5605 5612	lésions
+T77	morphologie 5605 5612	lésions
+T78	morphologie 5626 5632	nodule
+T79	expression_CIM 5626 5703	nodule du lobe inférieur droit et des segments hépatiques II-III, VIII et VII
+T80	topographie 5636 5650	lobe inférieur
+T82	expression_CIM 5773 5780	lésions
+T83	morphologie 5773 5780	lésions
+T84	expression_CIM 6151 6158	lésions
+T85	morphologie 6151 6158	lésions
+T86	morphologie 6204 6210	lésion
+T87	expression_CIM 6204 6302	lésion hypervasculaire de 24 x 14 mm au niveau de la paroi costale entre les 8e et 9e arcs costaux
+T88	topographie 6257 6270	paroi costale
+T89	topographie 6290 6302	arcs costaux
+T90	expression_CIM 6325 6335	métastases
+T91	morphologie 6325 6335	métastases
+T92	expression_CIM 6371 6396	progression de la maladie
+T93	morphologie 6371 6396	progression de la maladie
+T55	topographie 4568 4579	segment III
+T21	topographie 2252 2262	segment VI
+T36	topographie 2705 2715	segment VI
+T20	topographie 2205 2217	segment VIII
+T26	topographie 2484 2496	segment VIII
+T35	topographie 2671 2683	segment VIII
+T60	topographie 4654 4666	segment VIII
+T81	topographie 5664 5703	segments hépatiques II-III, VIII et VII
+T32	topographie 2604 2621	segments VII-VIII
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.3 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	8815/0
+#5	ICD-O T5	8815/0
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8815/0
+#13	ICD-O T14	C22.0
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	C22.0 8000/6
+#16	ICD-O T17	C22.0
+#17	ICD-O T18	8000/1
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	8000/1
+#20	ICD-O T24	8000/1
+#21	ICD-O T27	8000/1
+#22	ICD-O T28	C22.0 8000/1
+#23	ICD-O T29	C22.0
+#24	ICD-O T30	8000/1
+#25	ICD-O T33	8000/1
+#26	ICD-O T37	8000/1
+#27	ICD-O T38	C34.1 8000/1;C34.3 8000/1;C34.9 8000/1
+#28	ICD-O T39	C34.9
+#29	ICD-O T40	C34.1
+#30	ICD-O T41	C34.3
+#31	ICD-O T42	8000/1
+#32	ICD-O T43	8000/1
+#33	ICD-O T44	8000/6
+#34	ICD-O T45	8000/6
+#35	ICD-O T46	8000/1
+#36	ICD-O T47	C34.1 8000/1;C34.9 8000/1;C38.8 8000/1
+#37	ICD-O T49	C34.1
+#38	ICD-O T50	8000/1
+#39	ICD-O T52	C61.9 
+#40	ICD-O T53	8000/1
+#41	ICD-O T56	8000/6
+#42	ICD-O T57	8000/6
+#43	ICD-O T58	8000/1
+#44	ICD-O T61	8000/6
+#45	ICD-O T62	8000/6
+#46	ICD-O T63	8000/6
+#47	ICD-O T64	C22.0 8000/6
+#48	ICD-O T65	C22.0
+#49	ICD-O T66	8000/1
+#50	ICD-O T67	C34.9 8000/1
+#51	ICD-O T68	C34.9
+#52	ICD-O T69	8000/6
+#53	ICD-O T70	C22.0 8000/6;C34.9 8000/6
+#54	ICD-O T71	C22.0
+#55	ICD-O T72	C34.9
+#56	ICD-O T73	8815/0
+#57	ICD-O T74	C76.3 8815/0
+#58	ICD-O T75	C76.3
+#59	ICD-O T76	8000/1
+#60	ICD-O T77	8000/1
+#61	ICD-O T78	8000/1
+#62	ICD-O T80	C34.3
+#63	ICD-O T82	8000/1
+#64	ICD-O T83	8000/1
+#65	ICD-O T84	8000/1
+#66	ICD-O T85	8000/1
+#67	ICD-O T86	8000/1
+#68	ICD-O T87	C41.3 8000/1;C76.1 8000/1
+#69	ICD-O T88	C76.1
+#70	ICD-O T89	C41.3
+#71	ICD-O T90	8000/6
+#72	ICD-O T91	8000/6
+#73	ICD-O T92	8000/1
+#74	ICD-O T93	8000/1

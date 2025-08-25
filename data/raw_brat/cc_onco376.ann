@@ -1,0 +1,91 @@
+T14	topographie 1964 1981	iliaques communes
+T13	topographie 1945 1962	iliaques internes
+T1	expression_CIM 497 504	lésions
+T2	morphologie 497 504	lésions
+T3	expression_CIM 1330 1344	leucémie aiguë
+T4	morphologie 1330 1344	leucémie aiguë
+T5	expression_CIM 1569 1574	masse
+T6	morphologie 1569 1574	masse
+T7	morphologie 1854 1859	masse
+T8	expression_CIM 1854 1869	masse périnéale
+T9	topographie 1860 1869	périnéale
+T10	morphologie 1920 1932	Adénopathies
+T11	expression_CIM 1920 2000	Adénopathies inguinales, iliaques internes, iliaques communes et interaortocaves
+T12	topographie 1933 1943	inguinales
+T15	topographie 1985 2000	interaortocaves
+T16	morphologie 2300 2305	masse
+T17	expression_CIM 2300 2314	masse vaginale
+T18	topographie 2306 2314	vaginale
+T19	expression_CIM 2503 2517	leucémie aiguë
+T20	morphologie 2503 2517	leucémie aiguë
+T21	expression_CIM 2776 2781	masse
+T22	morphologie 2776 2781	masse
+T23	expression_CIM 2807 2816	néoplasme
+T24	morphologie 2807 2816	néoplasme
+T25	morphologie 2829 2841	infiltration
+T26	expression_CIM 2829 2870	infiltration massive de la moelle osseuse
+T27	topographie 2856 2870	moelle osseuse
+T28	morphologie 3065 3070	masse
+T29	expression_CIM 3065 3086	masse vulvo-périnéale
+T31	expression_CIM 3157 3197	rhabdomyosarcome de sous-type alvéolaire
+T32	morphologie 3157 3197	rhabdomyosarcome de sous-type alvéolaire
+T33	expression_CIM 3201 3209	stade IV
+T34	morphologie 3201 3209	stade IV
+T35	morphologie 3215 3227	infiltration
+T36	expression_CIM 3215 3256	infiltration massive de la moelle osseuse
+T37	topographie 3242 3256	moelle osseuse
+T38	expression_CIM 3739 3750	adénopathie
+T39	morphologie 3739 3750	adénopathie
+T40	morphologie 3796 3808	adénopathies
+T41	expression_CIM 3796 3819	adénopathies inguinales
+T42	topographie 3809 3819	inguinales
+T43	morphologie 3848 3853	masse
+T44	expression_CIM 3848 3878	masse dans la région périnéale
+T46	morphologie 4200 4205	masse
+T47	expression_CIM 4200 4214	masse vulvaire
+T48	topographie 4206 4214	vulvaire
+T45	topographie 3862 3878	région périnéale
+T30	topographie 3071 3086	vulvo-périnéale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	9801/3
+#4	ICD-O T4	9801/3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C76.3 8000/1
+#9	ICD-O T9	C76.3
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.1 8000/1;C77.4 8000/1;C77.5 8000/1
+#12	ICD-O T12	C76.3
+#13	ICD-O T15	C76.1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	C52.9 8000/1
+#16	ICD-O T18	C52.9
+#17	ICD-O T19	9801/3
+#18	ICD-O T20	9801/3
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	C42.1 8000/1
+#25	ICD-O T27	C42.1
+#26	ICD-O T28	8000/1
+#27	ICD-O T31	8920/3
+#28	ICD-O T32	8920/3
+#29	ICD-O T33	8000/6
+#30	ICD-O T34	8000/6
+#31	ICD-O T35	8000/1
+#32	ICD-O T36	C42.1 8000/1
+#33	ICD-O T37	C42.1
+#34	ICD-O T38	C77.9 8000/1
+#35	ICD-O T39	8000/1
+#36	ICD-O T40	8000/1
+#37	ICD-O T41	C77.4 8000/1
+#38	ICD-O T42	C76.3
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	C76.3 8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	C51.9 8000/1
+#43	ICD-O T48	C51.9

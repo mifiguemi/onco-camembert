@@ -1,0 +1,30 @@
+T2	morphologie 345 364	maladie oncologique
+T4	morphologie 973 978	masse
+T6	morphologie 1274 1286	néoformation
+T8	morphologie 1514 1526	adénopathies
+T9	morphologie 1600 1614	adénocarcinome
+T11	differenciation 1615 1637	modérément différencié
+T12	topographie 1641 1646	côlon
+T13	morphologie 1787 1793	tumeur
+T15	topographie 1797 1802	côlon
+T16	morphologie 1924 1938	adénocarcinome
+T18	differenciation 1939 1961	modérément différencié
+T19	differenciation 1963 1965	G2
+T20	morphologie 2087 2099	infiltration
+T22	topographie 2100 2111	périneurale
+T24	morphologie 2328 2334	tumeur
+T25	morphologie 2970 2975	masse
+T27	topographie 3075 3089	lobe inférieur
+T28	topographie 3100 3106	poumon
+T29	morphologie 3294 3308	adénocarcinome
+T31	topographie 3319 3326	colique
+T33	morphologie 3409 3421	adénopathies
+T34	morphologie 3827 3833	nodule
+T38	morphologie 3960 3966	tumeur
+T39	morphologie 4041 4050	métastase
+T41	topographie 4051 4064	ganglionnaire
+T42	morphologie 4114 4122	invasion
+T45	morphologie 4296 4310	adénocarcinome
+T47	topographie 4314 4319	côlon
+T36	topographie 3852 3885	région latérocervicale inférieure
+T44	topographie 4129 4152	veine jugulaire interne

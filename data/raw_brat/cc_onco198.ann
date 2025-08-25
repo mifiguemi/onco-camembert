@@ -1,0 +1,197 @@
+T1	morphologie 257 271	adénocarcinome
+T2	expression_CIM 257 300	adénocarcinome du tiers inférieur du rectum
+T3	topographie 294 300	rectum
+T4	expression_CIM 429 444	tumeur primaire
+T5	morphologie 429 444	tumeur primaire
+T6	morphologie 978 986	récidive
+T7	expression_CIM 978 996	récidive hépatique
+T8	topographie 987 996	hépatique
+T9	morphologie 1248 1258	métastases
+T10	expression_CIM 1248 1269	métastases hépatiques
+T11	topographie 1259 1269	hépatiques
+T12	expression_CIM 1368 1378	métastases
+T13	morphologie 1368 1378	métastases
+T14	morphologie 1381 1395	adénocarcinome
+T15	expression_CIM 1381 1407	adénocarcinome de grade II
+T16	differenciation 1399 1407	grade II
+T17	morphologie 1693 1701	récidive
+T18	expression_CIM 1693 1711	récidive hépatique
+T19	topographie 1702 1711	hépatique
+T20	expression_CIM 1830 1836	tumeur
+T21	morphologie 1830 1836	tumeur
+T22	expression_CIM 2048 2066	maladie à distance
+T23	morphologie 2048 2066	maladie à distance
+T24	expression_CIM 2266 2275	métastase
+T25	morphologie 2266 2275	métastase
+T26	expression_CIM 2278 2292	adénocarcinome
+T27	morphologie 2278 2292	adénocarcinome
+T28	expression_CIM 2865 2871	lésion
+T29	morphologie 2865 2871	lésion
+T30	morphologie 3192 3198	lésion
+T31	expression_CIM 3192 3208	lésion présacrée
+T32	topographie 3199 3208	présacrée
+T33	expression_CIM 3568 3574	lésion
+T34	morphologie 3568 3574	lésion
+T35	expression_CIM 3820 3828	récidive
+T36	morphologie 3820 3828	récidive
+T37	morphologie 3886 3892	lésion
+T38	expression_CIM 3886 3902	lésion présacrée
+T39	topographie 3893 3902	présacrée
+T40	morphologie 3993 3999	lésion
+T41	expression_CIM 3993 4026	lésion dans le poumon dans le LID
+T42	topographie 4008 4014	poumon
+T43	topographie 4023 4026	LID
+T44	expression_CIM 4041 4050	métastase
+T45	morphologie 4041 4050	métastase
+T46	morphologie 4241 4247	lésion
+T47	expression_CIM 4241 4257	lésion présacrée
+T48	topographie 4248 4257	présacrée
+T49	morphologie 4431 4437	lésion
+T50	expression_CIM 4431 4448	lésion pulmonaire
+T51	topographie 4438 4448	pulmonaire
+T52	morphologie 4528 4534	lésion
+T53	expression_CIM 4528 4554	lésion au niveau du sacrum
+T54	topographie 4548 4554	sacrum
+T55	morphologie 4592 4598	lésion
+T56	expression_CIM 4592 4609	lésion pulmonaire
+T57	topographie 4599 4609	pulmonaire
+T58	expression_CIM 4730 4755	maladie oligométastatique
+T59	morphologie 4730 4755	maladie oligométastatique
+T60	morphologie 4796 4804	récidive
+T61	expression_CIM 4796 4824	récidive au niveau du sacrum
+T62	topographie 4818 4824	sacrum
+T63	morphologie 5017 5023	lésion
+T64	expression_CIM 5017 5034	lésion pulmonaire
+T65	topographie 5024 5034	pulmonaire
+T66	morphologie 5924 5929	masse
+T67	expression_CIM 5924 5939	masse présacrée
+T68	topographie 5930 5939	présacrée
+T69	expression_CIM 6059 6081	récidive locorégionale
+T70	morphologie 6059 6081	récidive locorégionale
+T71	morphologie 6675 6689	masse tumorale
+T72	expression_CIM 6675 6708	masse tumorale au niveau présacré
+T73	topographie 6700 6708	présacré
+T74	expression_CIM 6774 6799	progression de la maladie
+T75	morphologie 6774 6799	progression de la maladie
+T76	morphologie 6843 6848	masse
+T77	expression_CIM 6843 6858	masse présacrée
+T78	topographie 6849 6858	présacrée
+T79	morphologie 7182 7187	masse
+T80	expression_CIM 7182 7197	masse pelvienne
+T81	topographie 7188 7197	pelvienne
+T82	expression_CIM 7261 7273	infiltration
+T83	morphologie 7261 7273	infiltration
+T84	expression_CIM 7281 7314	adénocarcinome de type intestinal
+T85	morphologie 7281 7314	adénocarcinome de type intestinal
+T86	morphologie 7320 7328	invasion
+T87	expression_CIM 7320 7345	invasion lymphovasculaire
+T88	topographie 7329 7345	lymphovasculaire
+T89	expression_CIM 7382 7394	infiltration
+T90	morphologie 7382 7394	infiltration
+T91	expression_CIM 7402 7416	adénocarcinome
+T92	morphologie 7402 7416	adénocarcinome
+T93	morphologie 7448 7453	masse
+T94	expression_CIM 7448 7463	masse présacrée
+T95	topographie 7454 7463	présacrée
+T96	expression_CIM 8013 8021	récidive
+T97	morphologie 8013 8021	récidive
+T98	expression_CIM 8123 8148	progression de la maladie
+T99	morphologie 8123 8148	progression de la maladie
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C20.9 8140/3
+#3	ICD-O T3	C20.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C22.0 8000/6
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	C22.0 8000/6
+#11	ICD-O T11	C22.0
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8140/3
+#15	ICD-O T15	8140/32
+#16	ICD-O T16	2
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C22.0 8000/6
+#19	ICD-O T19	C22.0
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	8140/3
+#27	ICD-O T27	8140/3
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C76.3 8000/1
+#32	ICD-O T32	C76.3
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	8000/6
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C76.3 8000/1
+#39	ICD-O T39	C76.3
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	C34.3 8000/1;C34.9 8000/1
+#42	ICD-O T42	C34.9
+#43	ICD-O T43	C34.3
+#44	ICD-O T44	8000/6
+#45	ICD-O T45	8000/6
+#46	ICD-O T46	8000/1
+#47	ICD-O T47	C76.3 8000/1
+#48	ICD-O T48	C76.3
+#49	ICD-O T49	8000/1
+#50	ICD-O T50	C34.9 8000/1
+#51	ICD-O T51	C34.9
+#52	ICD-O T52	8000/1
+#53	ICD-O T53	C41.4 8000/1
+#54	ICD-O T54	C41.4
+#55	ICD-O T55	8000/1
+#56	ICD-O T56	C34.9 8000/1
+#57	ICD-O T57	C34.9
+#58	ICD-O T58	8000/6
+#59	ICD-O T59	8000/6
+#60	ICD-O T60	8000/6
+#61	ICD-O T61	C41.4 8000/6
+#62	ICD-O T62	C41.4
+#63	ICD-O T63	8000/1
+#64	ICD-O T64	C34.9 8000/1
+#65	ICD-O T65	C34.9
+#66	ICD-O T66	8000/1
+#67	ICD-O T67	C76.3 8000/1
+#68	ICD-O T68	C76.3
+#69	ICD-O T70	8000/3
+#70	ICD-O T71	8000/3
+#71	ICD-O T72	C76.3 8000/3
+#72	ICD-O T73	C76.3
+#73	ICD-O T74	8000/1
+#74	ICD-O T75	8000/1
+#75	ICD-O T76	8000/1
+#76	ICD-O T77	C76.3 8000/1
+#77	ICD-O T78	C76.3
+#78	ICD-O T79	8000/1
+#79	ICD-O T80	C76.3 8000/1
+#80	ICD-O T81	C76.3
+#81	ICD-O T82	8000/1
+#82	ICD-O T83	8000/1
+#83	ICD-O T84	C26.0 8140/3
+#84	ICD-O T85	8144/3
+#85	ICD-O T86	8000/1
+#86	ICD-O T87	C49.9 8000/1
+#87	ICD-O T88	C49.9
+#88	ICD-O T89	8000/1
+#89	ICD-O T90	8000/1
+#90	ICD-O T91	8140/3
+#91	ICD-O T92	8140/3
+#92	ICD-O T93	8000/1
+#93	ICD-O T94	C76.3 8000/1
+#94	ICD-O T95	C76.3
+#95	ICD-O T96	8000/6
+#96	ICD-O T97	8000/6
+#97	ICD-O T98	8000/1
+#98	ICD-O T99	8000/1

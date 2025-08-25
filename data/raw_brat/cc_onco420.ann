@@ -1,0 +1,103 @@
+T1	expression_CIM 210 217	thymome
+T2	morphologie 210 217	thymome
+T3	expression_CIM 478 484	tumeur
+T4	morphologie 478 484	tumeur
+T5	morphologie 493 523	carcinome canalaire infiltrant
+T6	expression_CIM 493 531	carcinome canalaire infiltrant du sein
+T7	topographie 527 531	sein
+T8	expression_CIM 628 636	récidive
+T9	morphologie 628 636	récidive
+T10	expression_CIM 677 683	tumeur
+T11	morphologie 677 683	tumeur
+T12	expression_CIM 692 709	thymome de type A
+T13	morphologie 692 709	thymome de type A
+T14	morphologie 720 725	masse
+T15	expression_CIM 720 777	masse de 6 cm dans le segment antérieur du lobe supérieur
+T16	topographie 763 777	lobe supérieur
+T17	morphologie 789 797	invasion
+T18	expression_CIM 789 814	invasion de la veine cave
+T19	topographie 804 814	veine cave
+T20	expression_CIM 871 885	masse tumorale
+T21	morphologie 871 885	masse tumorale
+T22	expression_CIM 1027 1054	stabilisation de la maladie
+T23	morphologie 1027 1054	stabilisation de la maladie
+T24	expression_CIM 1646 1652	tumeur
+T25	morphologie 1646 1652	tumeur
+T26	morphologie 2754 2766	adénopathies
+T27	expression_CIM 2754 2805	adénopathies latérocervicales ou supraclaviculaires
+T28	topographie 2767 2783	latérocervicales
+T29	topographie 2787 2805	supraclaviculaires
+T30	morphologie 3394 3399	masse
+T31	expression_CIM 3394 3427	masse dans le médiastin antérieur
+T32	topographie 3408 3427	médiastin antérieur
+T33	expression_CIM 3528 3535	thymome
+T34	morphologie 3528 3535	thymome
+T35	morphologie 3681 3689	invasion
+T36	expression_CIM 3681 3717	invasion de la veine cave supérieure
+T37	topographie 3696 3717	veine cave supérieure
+T38	morphologie 3910 3915	masse
+T39	expression_CIM 3910 3933	masse dans le médiastin
+T40	topographie 3924 3933	médiastin
+T41	morphologie 3949 3980	foyer pathologique de captation
+T42	expression_CIM 3949 4018	foyer pathologique de captation est également visualisé dans le crâne
+T43	topographie 4013 4018	crâne
+T44	expression_CIM 4098 4119	atteinte métastatique
+T45	morphologie 4098 4119	atteinte métastatique
+T46	expression_CIM 4133 4140	Thymome
+T47	morphologie 4133 4140	Thymome
+T48	expression_CIM 4209 4216	thymome
+T49	morphologie 4209 4216	thymome
+T50	morphologie 4495 4500	masse
+T51	expression_CIM 4495 4513	masse médiastinale
+T52	topographie 4501 4513	médiastinale
+#1	ICD-O T1	8580/1
+#2	ICD-O T2	8580/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8500/3
+#6	ICD-O T6	C50.9 8500/3
+#7	ICD-O T7	C50.9
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8581/1
+#13	ICD-O T13	8581/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C34.1 8000/1
+#16	ICD-O T16	C34.1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C49.4 8000/1
+#19	ICD-O T19	C49.4
+#20	ICD-O T20	8000/3
+#21	ICD-O T21	8000/3
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C77.0 8000/1
+#28	ICD-O T28	C76.0
+#29	ICD-O T29	C76.0
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C38.1 8000/1
+#32	ICD-O T32	C38.1
+#33	ICD-O T33	8580/1
+#34	ICD-O T34	8580/1
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	C49.3 8000/1
+#37	ICD-O T37	C49.3
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	C38.3 8000/1
+#40	ICD-O T40	C38.3
+#41	ICD-O T41	8000/9
+#42	ICD-O T43	C41.0 
+#43	ICD-O T44	8000/6
+#44	ICD-O T45	8000/6
+#45	ICD-O T46	8580/1
+#46	ICD-O T47	8580/1
+#47	ICD-O T48	8580/1
+#48	ICD-O T49	8580/1
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	C38.3 8000/1
+#51	ICD-O T52	C38.3

@@ -1,0 +1,94 @@
+T1	expression_CIM 88 95	thymome
+T2	morphologie 88 95	thymome
+T3	expression_CIM 455 497	lymphome centroblastique diffus de Hodgkin
+T4	morphologie 455 497	lymphome centroblastique diffus de Hodgkin
+T5	expression_CIM 501 509	stade IV
+T6	morphologie 501 509	stade IV
+T7	expression_CIM 1441 1449	lymphome
+T8	morphologie 1441 1449	lymphome
+T9	morphologie 1685 1708	lésion hypermétabolique
+T10	expression_CIM 1685 1751	lésion hypermétabolique agressive dans le condyle externe du fémur
+T11	topographie 1746 1751	fémur
+T12	expression_CIM 1897 1915	pathologie maligne
+T13	morphologie 1897 1915	pathologie maligne
+T14	expression_CIM 1917 1926	métastase
+T15	morphologie 1917 1926	métastase
+T16	expression_CIM 1928 1935	myélome
+T17	morphologie 1928 1935	myélome
+T18	expression_CIM 1937 1945	lymphome
+T19	morphologie 1937 1945	lymphome
+T20	expression_CIM 2140 2146	lésion
+T21	morphologie 2140 2146	lésion
+T22	expression_CIM 2197 2203	lésion
+T23	morphologie 2197 2203	lésion
+T24	expression_CIM 2476 2483	lésions
+T25	morphologie 2476 2483	lésions
+T26	expression_CIM 3186 3207	tumeur fibroblastique
+T27	morphologie 3186 3207	tumeur fibroblastique
+T28	morphologie 3229 3241	fibrosarcome
+T29	expression_CIM 3229 3251	fibrosarcome sur un os
+T30	topographie 3249 3251	os
+T31	morphologie 3540 3565	processus néoprolifératif
+T32	expression_CIM 3540 3603	processus néoprolifératif connu dans le condyle fémoral externe
+T33	topographie 3580 3603	condyle fémoral externe
+T34	expression_CIM 3639 3645	lésion
+T35	morphologie 3639 3645	lésion
+T36	expression_CIM 3884 3896	ostéosarcome
+T37	morphologie 3884 3896	ostéosarcome
+T38	expression_CIM 3951 3972	infiltration tumorale
+T39	morphologie 3951 3972	infiltration tumorale
+T40	expression_CIM 4542 4563	atteinte métastatique
+T41	morphologie 4542 4563	atteinte métastatique
+T42	morphologie 4616 4642	histiocytome fibreux malin
+T43	expression_CIM 4616 4666	histiocytome fibreux malin de l'os du fémur distal
+T45	morphologie 4752 4764	ostéosarcome
+T46	expression_CIM 4752 4780	ostéosarcome du fémur distal
+T47	topographie 4768 4780	fémur distal
+T48	expression_CIM 5019 5027	lymphome
+T49	morphologie 5019 5027	lymphome
+T44	topographie 4648 4666	os du fémur distal
+#1	ICD-O T1	8580/1
+#2	ICD-O T2	8580/1
+#3	ICD-O T3	9650/3
+#4	ICD-O T4	9650/3
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	9590/3
+#8	ICD-O T8	9590/3
+#9	ICD-O T9	8000/9
+#10	ICD-O T10	C40.2 8000/1
+#11	ICD-O T11	C40.2
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	9732/3
+#17	ICD-O T17	9732/3
+#18	ICD-O T18	9590/3
+#19	ICD-O T19	9590/3
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	9182/3
+#27	ICD-O T27	9182/3
+#28	ICD-O T28	8810/3
+#29	ICD-O T29	C41.9 8810/3
+#30	ICD-O T30	C41.9
+#31	ICD-O T31	8000/3
+#32	ICD-O T33	C40.2
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	9180/3
+#36	ICD-O T37	9180/3
+#37	ICD-O T38	8000/6
+#38	ICD-O T39	8000/6
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	8000/6
+#41	ICD-O T42	8830/3
+#42	ICD-O T45	9180/3
+#43	ICD-O T47	C40.2
+#44	ICD-O T48	9590/3
+#45	ICD-O T49	9590/3

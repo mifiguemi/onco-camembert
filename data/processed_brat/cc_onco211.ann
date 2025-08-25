@@ -1,0 +1,21 @@
+T24	topographie 1399 1405	glande
+T1	morphologie 135 140	masse
+T3	topographie 141 147	rénale
+T4	morphologie 261 294	carcinome à cellules chromophobes
+T6	differenciation 296 314	grade 4 de Furhman
+T7	morphologie 585 604	lésion métastatique
+T9	topographie 605 616	suprarénale
+T10	morphologie 631 638	nodules
+T12	topographie 639 655	rétropéritonéaux
+T14	morphologie 669 686	implants tumoraux
+T15	morphologie 716 724	récidive
+T17	topographie 725 741	rétropéritonéale
+T18	topographie 745 758	surrénalienne
+T19	morphologie 764 785	carcinome chromophobe
+T21	topographie 789 793	rein
+T22	morphologie 1353 1359	lésion
+T25	morphologie 1788 1794	lésion
+T27	topographie 1795 1808	surrénalienne
+T28	morphologie 1840 1847	nodules
+T30	topographie 1848 1859	péritonéaux
+T32	morphologie 1949 1972	stabilité de la maladie

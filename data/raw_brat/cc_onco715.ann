@@ -1,0 +1,66 @@
+T16	topographie 1520 1541	crura diaphragmatique
+T1	expression_CIM 309 325	phéochromocytome
+T2	morphologie 309 325	phéochromocytome
+T3	expression_CIM 509 521	infiltration
+T4	morphologie 509 521	infiltration
+T5	morphologie 937 947	hémangiome
+T6	expression_CIM 937 957	hémangiome hépatique
+T7	topographie 948 957	hépatique
+T8	expression_CIM 1019 1027	récidive
+T9	morphologie 1019 1027	récidive
+T10	expression_CIM 1315 1320	masse
+T11	morphologie 1315 1320	masse
+T12	expression_CIM 1371 1383	adénopathies
+T13	morphologie 1371 1383	adénopathies
+T14	morphologie 1479 1494	image nodulaire
+T15	expression_CIM 1479 1588	image nodulaire de 8 mm au contact de la crura diaphragmatique et de la paroi postérieure du fundus gastrique
+T17	topographie 1572 1588	fundus gastrique
+T18	morphologie 1603 1609	nodule
+T19	expression_CIM 1603 1674	nodule de 1 cm d'apparition récente dans le tiers moyen externe du rein
+T20	topographie 1670 1674	rein
+T21	topographie 1691 1695	foie
+T22	expression_CIM 1691 1718	foie, il y avait 10 lésions
+T23	morphologie 1711 1718	lésions
+T24	expression_CIM 1740 1750	métastases
+T25	morphologie 1740 1750	métastases
+T26	expression_CIM 1812 1834	Phéochromocytome malin
+T27	morphologie 1812 1834	Phéochromocytome malin
+T28	expression_CIM 1854 1862	récidive
+T29	morphologie 1854 1862	récidive
+T30	morphologie 1896 1906	métastases
+T31	expression_CIM 1896 1940	métastases hépatiques, rénales et gastriques
+T32	topographie 1907 1917	hépatiques
+T33	topographie 1919 1926	rénales
+T34	topographie 1930 1940	gastriques
+#1	ICD-O T1	8700/0
+#2	ICD-O T2	8700/0
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	9120/0
+#6	ICD-O T6	C22.0 9120/0
+#7	ICD-O T7	C22.0
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C77.9 8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T17	C16.1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C64.9 8000/1
+#18	ICD-O T20	C64.9
+#19	ICD-O T21	C22.0
+#20	ICD-O T22	C22.0 8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8700/3
+#25	ICD-O T27	8700/3
+#26	ICD-O T28	8000/6
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	C16.9 8000/6;C22.0 8000/6;C64.9 8000/6
+#30	ICD-O T32	C22.0
+#31	ICD-O T33	C64.9
+#32	ICD-O T34	C16.9

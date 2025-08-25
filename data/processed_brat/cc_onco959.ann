@@ -1,0 +1,35 @@
+T17	topographie 1270 1286	muqueuse colique
+T1	morphologie 685 692	lésions
+T3	topographie 693 703	hépatiques
+T5	morphologie 725 735	métastases
+T6	morphologie 814 821	lésions
+T8	topographie 851 871	parenchyme hépatique
+T10	morphologie 888 898	métastases
+T12	morphologie 950 966	tumeur primitive
+T14	morphologie 1077 1082	masse
+T15	morphologie 1257 1263	lésion
+T18	morphologie 1299 1324	adénocarcinome infiltrant
+T20	differenciation 1326 1348	modérément différencié
+T21	morphologie 1444 1472	adénocarcinome sub-sténosant
+T23	differenciation 1473 1495	modérément différencié
+T24	topographie 1499 1504	côlon
+T26	morphologie 1534 1542	stade IV
+T27	morphologie 1549 1557	atteinte
+T29	topographie 1558 1567	hépatique
+T31	morphologie 2597 2612	tumeur primaire
+T33	morphologie 2859 2874	tumeur primaire
+T34	morphologie 3018 3026	atteinte
+T36	topographie 3027 3036	hépatique
+T38	morphologie 3069 3092	stabilité de la maladie
+T39	morphologie 3315 3325	métastases
+T41	topographie 3326 3336	hépatiques
+T42	morphologie 3869 3878	néoplasme
+T54	morphologie 3890 3898	primaire
+T44	topographie 3879 3889	sigmoïdien
+T45	morphologie 4012 4026	adénocarcinome
+T47	differenciation 4030 4039	bas grade
+T48	stadeTNM 4040 4045	pT2N0
+T49	morphologie 4246 4253	lésions
+T55	morphologie 4265 4289	occupant l'espace (LOES)
+T51	topographie 4254 4264	hépatiques
+T53	morphologie 4308 4315	lésions

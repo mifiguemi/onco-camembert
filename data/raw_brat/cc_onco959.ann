@@ -1,0 +1,104 @@
+T17	topographie 1270 1286	muqueuse colique
+T1	morphologie 685 692	lésions
+T2	expression_CIM 685 703	lésions hépatiques
+T3	topographie 693 703	hépatiques
+T4	expression_CIM 725 735	métastases
+T5	morphologie 725 735	métastases
+T6	morphologie 814 821	lésions
+T7	expression_CIM 814 871	lésions hypodenses réparties dans le parenchyme hépatique
+T8	topographie 851 871	parenchyme hépatique
+T9	expression_CIM 888 898	métastases
+T10	morphologie 888 898	métastases
+T11	expression_CIM 950 966	tumeur primitive
+T12	morphologie 950 966	tumeur primitive
+T13	expression_CIM 1077 1082	masse
+T14	morphologie 1077 1082	masse
+T15	morphologie 1257 1263	lésion
+T16	expression_CIM 1257 1286	lésion de la muqueuse colique
+T18	morphologie 1299 1324	adénocarcinome infiltrant
+T19	expression_CIM 1299 1348	adénocarcinome infiltrant, modérément différencié
+T20	differenciation 1326 1348	modérément différencié
+T21	morphologie 1444 1472	adénocarcinome sub-sténosant
+T22	expression_CIM 1444 1504	adénocarcinome sub-sténosant modérément différencié du côlon
+T23	differenciation 1473 1495	modérément différencié
+T24	topographie 1499 1504	côlon
+T25	expression_CIM 1534 1542	stade IV
+T26	morphologie 1534 1542	stade IV
+T27	morphologie 1549 1557	atteinte
+T28	expression_CIM 1549 1567	atteinte hépatique
+T29	topographie 1558 1567	hépatique
+T30	expression_CIM 2597 2612	tumeur primaire
+T31	morphologie 2597 2612	tumeur primaire
+T32	expression_CIM 2859 2874	tumeur primaire
+T33	morphologie 2859 2874	tumeur primaire
+T34	morphologie 3018 3026	atteinte
+T35	expression_CIM 3018 3036	atteinte hépatique
+T36	topographie 3027 3036	hépatique
+T37	expression_CIM 3069 3092	stabilité de la maladie
+T38	morphologie 3069 3092	stabilité de la maladie
+T39	morphologie 3315 3325	métastases
+T40	expression_CIM 3315 3336	métastases hépatiques
+T41	topographie 3326 3336	hépatiques
+T42	morphologie 3869 3878;3890 3898	néoplasme primaire
+T43	expression_CIM 3869 3898	néoplasme sigmoïdien primaire
+T44	topographie 3879 3889	sigmoïdien
+T45	morphologie 4012 4026	adénocarcinome
+T46	expression_CIM 4012 4045	adénocarcinome de bas grade pT2N0
+T47	differenciation 4030 4039	bas grade
+T48	stadeTNM 4040 4045	pT2N0
+T49	morphologie 4246 4253;4265 4289	lésions occupant l'espace (LOES)
+T50	expression_CIM 4246 4289	lésions hépatiques occupant l'espace (LOES)
+T51	topographie 4254 4264	hépatiques
+T52	expression_CIM 4308 4315	lésions
+T53	morphologie 4308 4315	lésions
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C22.0 8000/1
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/3
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T18	8140/3
+#17	ICD-O T19	8140/32
+#18	ICD-O T20	2
+#19	ICD-O T21	tocheck
+#20	ICD-O T22	C18.9 8140/32
+#21	ICD-O T23	2
+#22	ICD-O T24	C18.9
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	C22.0 8000/1
+#27	ICD-O T29	C22.0
+#28	ICD-O T30	8000/3
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	8000/3
+#31	ICD-O T33	8000/3
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	C22.0 8000/1
+#34	ICD-O T36	C22.0
+#35	ICD-O T37	8000/6
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	C22.0 8000/6
+#39	ICD-O T41	C22.0
+#40	ICD-O T42	8000/3
+#41	ICD-O T43	C18.7 8000/3
+#42	ICD-O T44	C18.7
+#43	ICD-O T45	8140/3
+#44	ICD-O T46	8140/31
+#45	ICD-O T47	1
+#46	ICD-O T48	todelete
+#47	ICD-O T49	8000/1
+#48	ICD-O T51	C22.0
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/1
+#51	AnnotatorNotes T49	trad

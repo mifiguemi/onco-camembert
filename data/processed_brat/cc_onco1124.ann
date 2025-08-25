@@ -1,0 +1,83 @@
+T2	morphologie 310 315	masse
+T3	morphologie 642 663	carcinome épidermoïde
+T5	differenciation 664 680	bien différencié
+T7	morphologie 732 744	infiltration
+T8	morphologie 782 794	infiltration
+T10	topographie 795 805	vasculaire
+T11	topographie 806 817	lymphatique
+T13	morphologie 1113 1133	extension à distance
+T14	morphologie 1154 1160	nodule
+T16	topographie 1161 1171	pulmonaire
+T17	topographie 1200 1214	lobe inférieur
+T18	morphologie 1228 1234	nodule
+T20	topographie 1235 1249	sous-carénaire
+T22	morphologie 1283 1294	adénopathie
+T23	morphologie 1458 1464	nodule
+T26	morphologie 1508 1524	lymphadénopathie
+T29	topographie 1541 1555	péribronchique
+T30	morphologie 1736 1742	nodule
+T32	topographie 1743 1753	pulmonaire
+T33	morphologie 1950 1956	nodule
+T35	topographie 1960 1974	lobe inférieur
+T37	morphologie 2049 2058	métastase
+T38	morphologie 2064 2085	carcinome épidermoïde
+T40	topographie 2092 2097	vulve
+T41	morphologie 2218 2223	masse
+T43	topographie 2224 2233	cervicale
+T45	morphologie 2237 2248	adénopathie
+T46	morphologie 2280 2285	masse
+T48	topographie 2314 2323	clavicule
+T50	morphologie 2490 2495	masse
+T51	morphologie 3052 3057	Masse
+T53	topographie 3061 3070	tissu mou
+T54	topographie 3091 3109	bronche principale
+T56	morphologie 3274 3280	masses
+T57	morphologie 3302 3318	lymphadénopathie
+T59	topographie 3319 3331	médiastinale
+T60	morphologie 3341 3353	adénopathies
+T62	topographie 3354 3367	mésentériques
+T63	topographie 3371 3388	rétropéritonéales
+T64	morphologie 3497 3504	lésions
+T66	topographie 3505 3513	osseuses
+T68	morphologie 3527 3547	dépôts métastatiques
+T69	morphologie 3612 3629	récidive tumorale
+T71	topographie 3640 3648	périnéal
+T72	topographie 3650 3660	bronchique
+T73	topographie 3664 3675	médiastinal
+T74	morphologie 3753 3762	Métastase
+T76	topographie 3763 3783	osseuse claviculaire
+T77	morphologie 3841 3846	masse
+T79	topographie 3851 3862	tissus mous
+T80	morphologie 3876 3897	Carcinome épidermoïde
+T82	topographie 3904 3909	vulve
+T84	morphologie 3913 3921	stade IV
+T85	morphologie 3923 3933	métastases
+T87	topographie 3934 3942	osseuses
+T88	topographie 3946 3957	pulmonaires
+T89	morphologie 4022 4032	métastases
+T91	topographie 4033 4048	endobronchiques
+T92	morphologie 4590 4595	masse
+T94	topographie 4596 4610	endobronchique
+T95	topographie 4795 4805	bronchique
+T97	morphologie 4811 4832	carcinome épidermoïde
+T99	morphologie 5063 5069	tumeur
+T100	morphologie 5597 5602	masse
+T102	topographie 5656 5665	clavicule
+T103	morphologie 5789 5795	lésion
+T105	topographie 5837 5846	clavicule
+T107	morphologie 5874 5883	métastase
+T108	morphologie 5969 5976	lésions
+T110	topographie 6006 6015	clavicule
+T111	topographie 6022 6028	radius
+T112	morphologie 6185 6190	masse
+T114	topographie 6195 6206	tissus mous
+T115	topographie 6213 6222	clavicule
+T116	morphologie 6854 6871	récidive tumorale
+T118	topographie 6885 6892	périnée
+T119	morphologie 6915 6921	lésion
+T121	topographie 6922 6942	osseuse claviculaire
+T122	morphologie 6972 6977	masse
+T124	topographie 7005 7011	épaule
+T125	topographie 7020 7030	avant-bras
+T25	topographie 1465 1493	pulmonaire du lobe inférieur
+T28	topographie 1525 1537	subcarinaire

@@ -1,0 +1,72 @@
+T1	morphologie 669 698	adénocarcinome mucineux mixte
+T2	expression_CIM 669 717	adénocarcinome mucineux mixte RAS natif du côlon
+T3	topographie 712 717	côlon
+T4	morphologie 724 732	invasion
+T5	expression_CIM 724 743	invasion vasculaire
+T6	topographie 733 743	vasculaire
+T7	morphologie 842 850	récidive
+T8	expression_CIM 842 860	récidive hépatique
+T9	topographie 851 860	hépatique
+T10	expression_CIM 1159 1169	métastases
+T11	morphologie 1159 1169	métastases
+T12	morphologie 1361 1368	nodules
+T13	expression_CIM 1361 1380	nodules pulmonaires
+T14	topographie 1369 1380	pulmonaires
+T15	expression_CIM 1410 1431	atteinte métastatique
+T16	morphologie 1410 1431	atteinte métastatique
+T17	morphologie 1781 1792	progression
+T18	expression_CIM 1781 1803	progression pulmonaire
+T19	topographie 1793 1803	pulmonaire
+T20	morphologie 1967 1974	nodules
+T21	expression_CIM 1967 1986	nodules pulmonaires
+T22	topographie 1975 1986	pulmonaires
+T23	morphologie 2781 2793	adénopathies
+T24	expression_CIM 2781 2804	adénopathies inguinales
+T25	topographie 2794 2804	inguinales
+T26	morphologie 4830 4837	nodules
+T27	expression_CIM 4830 4863	nodules et infiltrats pulmonaires
+T28	topographie 4852 4863	pulmonaires
+T29	morphologie 4912 4919	lésions
+T30	expression_CIM 4912 4931	lésions pulmonaires
+T31	topographie 4920 4931	pulmonaires
+T32	morphologie 5490 5496	lésion
+T33	expression_CIM 5490 5513	lésion cavitaire du LSI
+T34	topographie 5510 5513	LSI
+T35	expression_CIM 5563 5571	récidive
+T36	morphologie 5563 5571	récidive
+#1	ICD-O T1	8480/3
+#2	ICD-O T2	C18.9 8480/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C49.9 8000/1
+#6	ICD-O T6	C49.9
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	C22.0 8000/6
+#9	ICD-O T9	C22.0
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.9 8000/1
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C34.9 8000/6
+#19	ICD-O T19	C34.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C34.9 8000/1
+#22	ICD-O T22	C34.9
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C77.4 8000/1
+#25	ICD-O T25	C76.3
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C34.9 8000/1
+#28	ICD-O T28	C34.9
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C34.9 8000/1
+#31	ICD-O T31	C34.9
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C34.1 8000/1
+#34	ICD-O T34	C34.1
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	8000/6

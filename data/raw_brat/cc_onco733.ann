@@ -1,0 +1,65 @@
+T1	expression_CIM 318 323	masse
+T2	morphologie 318 323	masse
+T3	morphologie 544 552	implants
+T4	expression_CIM 544 578	implants solides dans le péritoine
+T5	topographie 569 578	péritoine
+T6	morphologie 649 675	dissémination métastatique
+T7	expression_CIM 649 699	dissémination métastatique péritonéale et omentale
+T8	topographie 676 687	péritonéale
+T9	topographie 691 699	omentale
+T10	morphologie 788 804;819 858	carcinome séreux compatible avec une origine müllérienne
+T11	expression_CIM 788 818	carcinome séreux de haut grade
+T12	differenciation 808 818	haut grade
+T13	morphologie 1999 2010	progression
+T14	expression_CIM 1999 2022	progression péritonéale
+T15	topographie 2011 2022	péritonéale
+T16	morphologie 2077 2085	implants
+T17	expression_CIM 2077 2151	implants péritonéaux dans le bassin, la périsplénique et le grand épiploon
+T18	topographie 2086 2097	péritonéaux
+T19	topographie 2106 2112	bassin
+T20	topographie 2117 2130	périsplénique
+T21	topographie 2137 2151	grand épiploon
+T22	morphologie 3256 3277	lésions hyperintenses
+T23	expression_CIM 3256 3318	lésions hyperintenses en T2 et FLAIR dans la substance blanche
+T25	morphologie 3395 3405	métastases
+T26	expression_CIM 3395 3412	métastases du SNC
+T27	topographie 3409 3412	SNC
+T28	expression_CIM 3459 3478	maladie néoplasique
+T29	morphologie 3459 3478	maladie néoplasique
+T30	morphologie 3942 3955	dissémination
+T31	expression_CIM 3942 3964	dissémination méningée
+T32	topographie 3956 3964	méningée
+T33	expression_CIM 4515 4539	progression de la tumeur
+T34	morphologie 4515 4539	progression de la tumeur
+T24	topographie 3301 3318	substance blanche
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	C48.2 8000/6
+#5	ICD-O T5	C48.2
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C48.1 8000/6;C48.2 8000/6
+#8	ICD-O T8	C48.2
+#9	ICD-O T9	C48.1
+#10	ICD-O T10	8441/3
+#11	ICD-O T11	8441/34
+#12	ICD-O T12	4
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C48.2 8000/6
+#15	ICD-O T15	C48.2
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C48.1 8000/6;C48.2 8000/6;C76.2 8000/6;C76.3 8000/6
+#18	ICD-O T18	C48.2
+#19	ICD-O T19	C76.3
+#20	ICD-O T20	C76.2
+#21	ICD-O T21	C48.1
+#22	ICD-O T22	8000/1
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	C72.9 8000/6
+#25	ICD-O T27	C72.9
+#26	ICD-O T28	8000/3
+#27	ICD-O T29	8000/3
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	C70.9 8000/6
+#30	ICD-O T32	C70.9
+#31	ICD-O T34	8000/3

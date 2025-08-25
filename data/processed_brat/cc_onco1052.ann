@@ -1,0 +1,26 @@
+T1	morphologie 410 424	adénocarcinome
+T3	topographie 428 433	côlon
+T4	differenciation 440 442	G3
+T6	morphologie 789 797	récidive
+T8	morphologie 804 830	dissémination de la tumeur
+T10	morphologie 1513 1519	masses
+T11	morphologie 1825 1837	adénopathies
+T13	topographie 1838 1851	médiastinales
+T14	topographie 1855 1863	hilaires
+T15	morphologie 1913 1919	nodule
+T17	topographie 1940 1946	poumon
+T19	morphologie 1965 1974	métastase
+T20	morphologie 2085 2091	nodule
+T22	topographie 2110 2116	poumon
+T23	morphologie 2276 2284	atteinte
+T25	topographie 2285 2298	ganglionnaire
+T27	morphologie 2320 2331	adénopathie
+T29	morphologie 2372 2389	cellules malignes
+T30	morphologie 2399 2405	nodule
+T32	topographie 2406 2416	pulmonaire
+T34	morphologie 2449 2466	cellules malignes
+T35	morphologie 2563 2569	Nodule
+T37	topographie 2570 2580	pulmonaire
+T39	morphologie 2678 2692	tumeur maligne
+T41	morphologie 2821 2827	nodule
+T43	morphologie 2996 3003	nodules

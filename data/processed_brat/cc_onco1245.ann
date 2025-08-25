@@ -1,0 +1,25 @@
+T1	morphologie 382 394	condensation
+T3	topographie 395 405	pulmonaire
+T5	morphologie 532 557	condensation néoformative
+T6	morphologie 582 593	adénopathie
+T8	topographie 610 614	hile
+T10	morphologie 628 647	masse adénopathique
+T12	morphologie 772 793	processus néoformatif
+T14	morphologie 1277 1328	sarcome synovial monophasique à cellules fusiformes
+T16	morphologie 1644 1662	maladie à distance
+T17	morphologie 1808 1820	infiltration
+T19	topographie 1827 1833	plèvre
+T20	topographie 1840 1861	parenchyme pulmonaire
+T22	morphologie 2124 2136	infiltration
+T23	morphologie 2335 2351	sarcome synovial
+T25	topographie 2352 2363	médiastinal
+T26	morphologie 2385 2397	infiltration
+T28	topographie 2402 2418	grands vaisseaux
+T30	topographie 2454 2477	septum interauriculaire
+T31	morphologie 3620 3625	masse
+T33	topographie 3626 3643	rétro-auriculaire
+T35	morphologie 3747 3763	sarcome synovial
+T36	morphologie 4972 4997	progression de la maladie
+T38	topographie 5008 5019	médiastinal
+T40	morphologie 5026 5046	extension à distance
+T29	topographie 2426 2447	paroi de l'oreillette

@@ -1,0 +1,133 @@
+T3	topographie 128 150	région suprascapulaire
+T6	topographie 445 467	région suprascapulaire
+T61	topographie 5786 5829	sous-cutanée et périprothétique de l'épaule
+T1	morphologie 87 103	lésion nodulaire
+T2	expression_CIM 87 150	lésion nodulaire non douloureuse dans la région suprascapulaire
+T4	morphologie 374 390	lésion nodulaire
+T5	expression_CIM 374 467	lésion nodulaire et indurée d'environ 3 cm de diamètre maximum dans la région suprascapulaire
+T7	expression_CIM 688 694	lésion
+T8	morphologie 688 694	lésion
+T9	morphologie 722 731	néoplasie
+T10	expression_CIM 722 773	néoplasie osseuse au niveau de l'apophyse coracoïde
+T11	topographie 732 739	osseuse
+T12	topographie 755 773	apophyse coracoïde
+T13	expression_CIM 955 970	lésion tumorale
+T14	morphologie 955 970	lésion tumorale
+T15	expression_CIM 1047 1061	tumeur maligne
+T16	morphologie 1047 1061	tumeur maligne
+T17	morphologie 1103 1115	infiltration
+T18	expression_CIM 1103 1131	infiltration des tissus mous
+T19	topographie 1120 1131	tissus mous
+T20	morphologie 1307 1326	tumeur sarcomatoïde
+T21	expression_CIM 1307 1340	tumeur sarcomatoïde de haut grade
+T22	differenciation 1330 1340	haut grade
+T23	expression_CIM 1436 1442	lésion
+T24	morphologie 1436 1442	lésion
+T25	morphologie 1535 1549	chondrosarcome
+T26	expression_CIM 1535 1586	chondrosarcome du processus coracoïde de l'omoplate
+T27	topographie 1553 1586	processus coracoïde de l'omoplate
+T28	morphologie 1631 1645	chondrosarcome
+T29	expression_CIM 1631 1673	chondrosarcome dédifférencié de haut grade
+T30	differenciation 1646 1659	dédifférencié
+T31	differenciation 1663 1673	haut grade
+T32	morphologie 2021 2028	rechute
+T33	expression_CIM 2021 2039	rechute pulmonaire
+T34	topographie 2029 2039	pulmonaire
+T35	morphologie 2085 2099	chondrosarcome
+T36	expression_CIM 2085 2113	chondrosarcome de haut grade
+T37	differenciation 2103 2113	haut grade
+T38	morphologie 2471 2482	progression
+T39	expression_CIM 2471 2507	progression pulmonaire et musculaire
+T40	topographie 2483 2493	pulmonaire
+T41	topographie 2497 2507	musculaire
+T42	morphologie 2558 2572	chondrosarcome
+T43	expression_CIM 2558 2586	chondrosarcome de haut grade
+T44	differenciation 2576 2586	haut grade
+T45	expression_CIM 3145 3170	progression de la maladie
+T46	morphologie 3145 3170	progression de la maladie
+T47	morphologie 3871 3892	lésions métastatiques
+T48	expression_CIM 3871 3908	lésions métastatiques intracrâniennes
+T49	topographie 3893 3908	intracrâniennes
+T50	expression_CIM 4133 4152	maladie oncologique
+T51	morphologie 4133 4152	maladie oncologique
+T52	expression_CIM 4203 4209	lésion
+T53	morphologie 4203 4209	lésion
+T54	morphologie 4292 4305	carcinomatose
+T55	expression_CIM 4292 4314	carcinomatose méningée
+T56	topographie 4306 4314	méningée
+T57	expression_CIM 4657 4676	maladie oncologique
+T58	morphologie 4657 4676	maladie oncologique
+T59	morphologie 5774 5785	progression
+T60	expression_CIM 5774 5829	progression sous-cutanée et périprothétique de l'épaule
+T62	morphologie 6680 6686	lésion
+T63	expression_CIM 6680 6716	lésion de l'index et de l'avant-bras
+T64	topographie 6692 6697	index
+T65	topographie 6706 6716	avant-bras
+T66	expression_CIM 6745 6770	progression de la maladie
+T67	morphologie 6745 6770	progression de la maladie
+T68	expression_CIM 7065 7084	lésion métastatique
+T69	morphologie 7065 7084	lésion métastatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8000/1
+#3	ICD-O T7	8000/1
+#4	ICD-O T8	8000/1
+#5	ICD-O T9	8000/1
+#6	ICD-O T10	C40.0 8000/1;C41.9 8000/1
+#7	ICD-O T11	C41.9
+#8	ICD-O T12	C40.0
+#9	ICD-O T13	8000/3
+#10	ICD-O T14	8000/3
+#11	ICD-O T15	8000/3
+#12	ICD-O T16	8000/3
+#13	ICD-O T17	8000/1
+#14	ICD-O T18	C49.9 8000/1
+#15	ICD-O T19	C49.9
+#16	ICD-O T20	8800/3
+#17	ICD-O T21	8800/34
+#18	ICD-O T22	4
+#19	ICD-O T23	8000/1
+#20	ICD-O T24	8000/1
+#21	ICD-O T25	9220/3
+#22	ICD-O T26	C40.0 9220/3
+#23	ICD-O T27	C40.0
+#24	ICD-O T28	9220/3
+#25	ICD-O T29	9243/34
+#26	ICD-O T30	4
+#27	ICD-O T31	4
+#28	ICD-O T32	8000/3
+#29	ICD-O T33	C34.9 8000/3
+#30	ICD-O T34	C34.9
+#31	ICD-O T35	9220/3
+#32	ICD-O T36	9220/34
+#33	ICD-O T37	4
+#34	ICD-O T38	8000/6
+#35	ICD-O T39	C34.9 8000/6;C49.9 8000/6
+#36	ICD-O T40	C34.9
+#37	ICD-O T41	C49.9
+#38	ICD-O T42	9220/3
+#39	ICD-O T43	9220/34
+#40	ICD-O T44	4
+#41	ICD-O T45	8000/1
+#42	ICD-O T46	8000/1
+#43	ICD-O T47	8000/6
+#44	ICD-O T48	C71.9 8000/6
+#45	ICD-O T49	C71.9
+#46	ICD-O T50	8000/3
+#47	ICD-O T51	8000/3
+#48	ICD-O T52	8000/1
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	8010/9
+#51	ICD-O T55	C70.9 8010/9
+#52	ICD-O T56	C70.9
+#53	ICD-O T57	8000/3
+#54	ICD-O T58	8000/3
+#55	ICD-O T59	8000/6
+#56	ICD-O T60	C49.9 8000/6;C76.4 8000/6
+#57	ICD-O T62	8000/1
+#58	ICD-O T63	C76.4 8000/1
+#59	ICD-O T64	C76.4
+#60	ICD-O T65	C76.4
+#61	ICD-O T66	8000/1
+#62	ICD-O T67	8000/1
+#63	ICD-O T68	8000/6
+#64	ICD-O T69	8000/6

@@ -1,0 +1,113 @@
+T52	topographie 2583 2592;2608 2621	cérébrale lobe temporal
+T1	morphologie 115 120	masse
+T2	expression_CIM 115 130	masse inguinale
+T3	topographie 121 130	inguinale
+T4	morphologie 257 269	adénopathies
+T5	expression_CIM 257 404	adénopathies dures et adhérentes ont été observées dans la région latérocervicale gauche, la région supraclaviculaire gauche et la région inguinale
+T6	topographie 316 338	région latérocervicale
+T7	topographie 350 374	région supraclaviculaire
+T8	topographie 388 404	région inguinale
+T9	morphologie 734 740	nodule
+T10	expression_CIM 734 774	nodule pulmonaire dans le lobe supérieur
+T11	topographie 741 774	pulmonaire dans le lobe supérieur
+T12	morphologie 833 859	adénopathies pathologiques
+T13	expression_CIM 833 898	adénopathies pathologiques dans le médiastin et le rétropéritoine
+T14	topographie 868 877	médiastin
+T15	topographie 884 898	rétropéritoine
+T16	morphologie 913 918	masse
+T17	expression_CIM 913 950	masse spiculée dans le lobe supérieur
+T18	topographie 936 950	lobe supérieur
+T19	morphologie 976 987	adénopathie
+T20	expression_CIM 976 997	adénopathie cervicale
+T21	topographie 988 997	cervicale
+T22	expression_CIM 1024 1060	lymphome diffus à grandes cellules B
+T23	morphologie 1024 1060	lymphome diffus à grandes cellules B
+T24	morphologie 1110 1115	masse
+T25	expression_CIM 1110 1126	masse pulmonaire
+T26	topographie 1116 1126	pulmonaire
+T27	morphologie 1153 1174	carcinome épidermoïde
+T28	expression_CIM 1153 1197	carcinome épidermoïde modérément différencié
+T29	differenciation 1175 1197	modérément différencié
+T30	expression_CIM 1211 1262	Lymphome B diffus à grandes cellules non hodgkinien
+T31	morphologie 1211 1262	Lymphome B diffus à grandes cellules non hodgkinien
+T32	morphologie 1285 1294;1306 1328;1344 1365	Carcinome non à petites cellules sous-type épidermoïde
+T33	expression_CIM 1285 1365	Carcinome pulmonaire non à petites cellules de stade IIIA, sous-type épidermoïde
+T34	topographie 1295 1305	pulmonaire
+T35	morphologie 1517 1524	lésions
+T36	expression_CIM 1517 1539	lésions ganglionnaires
+T37	topographie 1525 1539	ganglionnaires
+T38	morphologie 1659 1665	tumeur
+T39	expression_CIM 1659 1676	tumeur pulmonaire
+T40	topographie 1666 1676	pulmonaire
+T41	morphologie 1936 1944	atteinte
+T42	expression_CIM 1936 1958	atteinte ganglionnaire
+T43	topographie 1945 1958	ganglionnaire
+T44	morphologie 2057 2062	masse
+T45	expression_CIM 2057 2114	masse de tissu mou a été détectée dans la cage thoracique
+T46	topographie 2066 2075	tissu mou
+T47	topographie 2099 2114	cage thoracique
+T48	expression_CIM 2157 2178	carcinome épidermoïde
+T49	morphologie 2157 2178	carcinome épidermoïde
+T50	morphologie 2573 2582	métastase
+T51	expression_CIM 2573 2621	métastase cérébrale unique dans le lobe temporal
+T53	expression_CIM 2789 2795	tumeur
+T54	morphologie 2789 2795	tumeur
+T55	expression_CIM 2832 2841	métastase
+T56	morphologie 2832 2841	métastase
+T57	expression_CIM 2845 2866	carcinome épidermoïde
+T58	morphologie 2845 2866	carcinome épidermoïde
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.3 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	C76.3
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C34.1 8000/1;C34.9 8000/1
+#11	ICD-O T11	C34.1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.1 8000/1;C77.2 8000/1
+#14	ICD-O T14	C38.3
+#15	ICD-O T15	C48.0
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C34.1 8000/1
+#18	ICD-O T18	C34.1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C77.0 8000/1
+#21	ICD-O T21	C76.0
+#22	ICD-O T22	9680/3
+#23	ICD-O T23	9680/3
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	C34.9 8000/1
+#26	ICD-O T26	C34.9
+#27	ICD-O T27	8070/3
+#28	ICD-O T28	8070/32
+#29	ICD-O T29	2
+#30	ICD-O T30	9680/3
+#31	ICD-O T31	9680/3
+#32	ICD-O T32	8046/3
+#33	ICD-O T34	C34.9
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	C77.9 8000/1
+#36	ICD-O T37	C77.9
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	C34.9 8000/1
+#39	ICD-O T40	C34.9
+#40	ICD-O T41	8000/9
+#41	ICD-O T42	C77.9 8000/1
+#42	ICD-O T43	C77.9
+#43	ICD-O T44	8000/1
+#44	ICD-O T46	C49.9
+#45	ICD-O T47	C76.1
+#46	ICD-O T48	8070/3
+#47	ICD-O T49	8070/3
+#48	ICD-O T50	8000/6
+#49	ICD-O T51	C71.0 8000/6;C71.2 8000/6
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	8000/3
+#52	ICD-O T55	8000/6
+#53	ICD-O T56	8000/6
+#54	ICD-O T57	8070/3
+#55	ICD-O T58	8070/3

@@ -1,0 +1,102 @@
+T28	topographie 1859 1883	espace supraclaviculaire
+T19	topographie 1474 1490	inter-aortocaves
+T1	expression_CIM 469 475	lésion
+T2	morphologie 469 475	lésion
+T3	expression_CIM 584 614	lésion tumorale solide maligne
+T4	morphologie 584 614	lésion tumorale solide maligne
+T5	morphologie 810 821	adénopathie
+T6	expression_CIM 810 862	adénopathie sus-claviculaire, axillaire ou inguinale
+T7	topographie 822 838	sus-claviculaire
+T8	topographie 840 849	axillaire
+T9	topographie 853 862	inguinale
+T10	topographie 1105 1114	médiastin
+T11	expression_CIM 1105 1167	médiastin et les régions hilaires, plusieurs images nodulaires
+T13	morphologie 1150 1167	images nodulaires
+T14	expression_CIM 1238 1250	adénopathies
+T15	morphologie 1238 1250	adénopathies
+T16	morphologie 1384 1396	adénopathies
+T17	expression_CIM 1384 1599	adénopathies rétropéritonéales de taille significative ont été observées dans les groupes inter-aortocaves, postérieurs à la veine cave inférieure, para-aortiques gauches, ainsi que dans la bifurcation aorto-iliaque
+T18	topographie 1397 1414	rétropéritonéales
+T21	topographie 1574 1599	bifurcation aorto-iliaque
+T22	expression_CIM 1632 1658	adénopathies métastatiques
+T23	morphologie 1632 1658	adénopathies métastatiques
+T24	expression_CIM 1714 1726	adénopathies
+T25	morphologie 1714 1726	adénopathies
+T26	morphologie 1777 1836	lésion intensément hypermétabolique évocatrice de malignité
+T27	expression_CIM 1777 1883	lésion intensément hypermétabolique évocatrice de malignité a été observée dans l'espace supraclaviculaire
+T29	morphologie 1914 1926	adénopathies
+T30	expression_CIM 1914 1952	adénopathies médiastinales et hilaires
+T31	topographie 1927 1940	médiastinales
+T32	topographie 1944 1952	hilaires
+T33	expression_CIM 2140 2152	adénopathies
+T34	morphologie 2140 2152	adénopathies
+T35	morphologie 2184 2198	tumeur maligne
+T36	expression_CIM 2184 2224	tumeur maligne au niveau rétropéritonéal
+T37	topographie 2209 2224	rétropéritonéal
+T38	expression_CIM 2488 2541	tumeur maligne des cordons sexuels / stroma gonadique
+T39	morphologie 2488 2541	tumeur maligne des cordons sexuels / stroma gonadique
+T40	morphologie 2573 2621	tumoraux à cellules de Sertoli, stroma gonadique
+T41	expression_CIM 2573 2637	tumoraux à cellules de Sertoli, stroma gonadique peu différencié
+T42	differenciation 2622 2637	peu différencié
+T43	expression_CIM 2727 2736	malignité
+T44	morphologie 2727 2736	malignité
+T45	expression_CIM 3011 3057	Tumeur du cordon sexuel/stroma gonadique malin
+T46	morphologie 3011 3057	Tumeur du cordon sexuel/stroma gonadique malin
+T47	morphologie 3649 3674	progression adénopathique
+T48	expression_CIM 3649 3715	progression adénopathique a été observée au niveau rétropéritonéal
+T49	topographie 3700 3715	rétropéritonéal
+T50	morphologie 4154 4165	progression
+T51	expression_CIM 4154 4192	progression des ganglions lymphatiques
+T52	morphologie 4248 4254	lésion
+T53	expression_CIM 4248 4272	lésion ostéolytique à L5
+T54	topographie 4270 4272	L5
+T20	topographie 1532 1546	para-aortiques
+T12	topographie 1122 1138	régions hilaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/3
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.0 8000/1;C77.3 8000/1;C77.4 8000/1
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	C76.1
+#9	ICD-O T9	C76.3
+#10	ICD-O T10	C38.3
+#11	ICD-O T11	C38.3 8000/1;C76.1 8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.9 8000/1
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T18	C48.0
+#17	ICD-O T21	C49.4
+#18	ICD-O T22	C77.9 8000/6
+#19	ICD-O T23	8000/6
+#20	ICD-O T24	C77.9 8000/1
+#21	ICD-O T25	8000/1
+#22	ICD-O T26	8000/9
+#23	ICD-O T27	C76.0 8000/1
+#24	ICD-O T29	8000/1
+#25	ICD-O T30	C77.1 8000/1
+#26	ICD-O T31	C38.3
+#27	ICD-O T32	C76.1
+#28	ICD-O T33	C77.9 8000/1
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	8000/3
+#31	ICD-O T36	C48.0 8000/3
+#32	ICD-O T37	C48.0
+#33	ICD-O T38	8590/1
+#34	ICD-O T39	8590/1
+#35	ICD-O T40	8640/1
+#36	ICD-O T41	8631/3
+#37	ICD-O T42	3
+#38	ICD-O T43	8000/3
+#39	ICD-O T44	8000/3
+#40	ICD-O T45	8590/3
+#41	ICD-O T46	8590/3
+#42	ICD-O T47	8000/6
+#43	ICD-O T49	C48.0
+#44	ICD-O T50	8000/6
+#45	ICD-O T51	C77.9 8000/6
+#46	ICD-O T52	8000/1
+#47	ICD-O T53	C41.2 8000/1
+#48	ICD-O T54	C41.2

@@ -1,0 +1,83 @@
+T1	morphologie 68 95	carcinome papillaire séreux
+T2	expression_CIM 68 124	carcinome papillaire séreux bien différencié de l'ovaire
+T3	differenciation 96 112	bien différencié
+T4	topographie 118 124	ovaire
+T5	expression_CIM 438 465	stabilisation de la maladie
+T6	morphologie 438 465	stabilisation de la maladie
+T7	morphologie 726 747	rechute de la maladie
+T8	expression_CIM 726 771	rechute de la maladie dans la paroi gastrique
+T9	topographie 756 771	paroi gastrique
+T10	morphologie 1026 1037	progression
+T11	expression_CIM 1026 1049	progression péritonéale
+T12	topographie 1038 1049	péritonéale
+T13	morphologie 1593 1599	tumeur
+T14	expression_CIM 1593 1677	tumeur indurée et ulcérée au niveau du bord latéral droit et de la base de la langue
+T15	topographie 1671 1677	langue
+T16	morphologie 1769 1775	lésion
+T17	expression_CIM 1769 1815	lésion ulcérée des 2/3 antérieurs de la langue
+T18	topographie 1809 1815	langue
+T19	morphologie 1870 1881	adénopathie
+T20	expression_CIM 1870 1891	adénopathie cervicale
+T21	topographie 1882 1891	cervicale
+T22	expression_CIM 1939 1960	carcinome épidermoïde
+T23	morphologie 1939 1960	carcinome épidermoïde
+T24	morphologie 1989 1995	tumeur
+T25	expression_CIM 1989 2027	tumeur des 2/3 antérieurs de la langue
+T26	topographie 2021 2027	langue
+T27	morphologie 2058 2070	adénopathies
+T28	expression_CIM 2058 2081	adénopathies cervicales
+T29	topographie 2071 2081	cervicales
+T30	morphologie 2173 2200	Carcinome papillaire séreux
+T31	expression_CIM 2173 2225	Carcinome papillaire séreux ovarien bien différencié
+T32	topographie 2201 2208	ovarien
+T33	differenciation 2209 2225	bien différencié
+T34	morphologie 2249 2270	Carcinome épidermoïde
+T35	expression_CIM 2249 2283	Carcinome épidermoïde de la langue
+T36	topographie 2277 2283	langue
+T37	expression_CIM 2287 2296	stade IVa
+T38	morphologie 2287 2296	stade IVa
+T39	expression_CIM 2459 2465	tumeur
+T40	morphologie 2459 2465	tumeur
+T41	morphologie 2508 2529	carcinome épidermoïde
+T42	expression_CIM 2508 2552	carcinome épidermoïde modérément différencié
+T43	differenciation 2530 2552	modérément différencié
+#1	ICD-O T1	8461/3
+#2	ICD-O T2	C56.9 8461/31
+#3	ICD-O T3	1
+#4	ICD-O T4	C56.9
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/9
+#8	ICD-O T9	C16.9
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	C48.2 8000/6
+#11	ICD-O T12	C48.2
+#12	ICD-O T13	8000/1
+#13	ICD-O T15	C02.9
+#14	ICD-O T16	8000/1
+#15	ICD-O T18	C02.9
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C77.0 8000/1
+#18	ICD-O T21	C76.0
+#19	ICD-O T22	8070/3
+#20	ICD-O T23	8070/3
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	C02.9 8000/1
+#23	ICD-O T26	C02.9
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	C77.0 8000/1
+#26	ICD-O T29	C76.0
+#27	ICD-O T30	8461/3
+#28	ICD-O T31	C56.9 8461/31
+#29	ICD-O T32	C56.9
+#30	ICD-O T33	1
+#31	ICD-O T34	8070/3
+#32	ICD-O T35	C02.9 8070/3
+#33	ICD-O T36	C02.9
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8000/6
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8070/3
+#39	ICD-O T42	8070/32
+#40	ICD-O T43	2

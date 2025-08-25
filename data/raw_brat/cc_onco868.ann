@@ -1,0 +1,88 @@
+T28	topographie 1770 1796	quadrant inférieur du sein
+T41	topographie 3360 3388	quadrants inférieurs du sein
+T1	morphologie 479 484	myome
+T2	expression_CIM 479 491	myome utérin
+T3	topographie 485 491	utérin
+T4	expression_CIM 557 584	carcinome lobulaire in situ
+T5	morphologie 557 584	carcinome lobulaire in situ
+T6	morphologie 586 590	LCIS
+T7	expression_CIM 586 599	LCIS) au sein
+T8	topographie 595 599	sein
+T9	morphologie 659 665	cancer
+T10	expression_CIM 659 676	cancer des lèvres
+T11	topographie 670 676	lèvres
+T12	morphologie 724 730	cancer
+T13	expression_CIM 724 740	cancer du poumon
+T14	topographie 734 740	poumon
+T15	expression_CIM 1153 1169	lymphadénopathie
+T16	morphologie 1153 1169	lymphadénopathie
+T17	morphologie 1326 1337	adénopathie
+T18	expression_CIM 1326 1373	adénopathie latérocervicale ou sus-claviculaire
+T19	topographie 1338 1353	latérocervicale
+T20	topographie 1357 1373	sus-claviculaire
+T21	morphologie 1449 1454	masse
+T22	expression_CIM 1449 1465	masse abdominale
+T23	topographie 1455 1465	abdominale
+T24	expression_CIM 1677 1681	CLIS
+T25	morphologie 1677 1681	CLIS
+T26	morphologie 1704 1710	nodule
+T27	expression_CIM 1704 1796	nodule spiculé de 5 mm dans le tiers postérieur de la jonction du quadrant inférieur du sein
+T29	expression_CIM 1836 1842	lésion
+T30	morphologie 1836 1842	lésion
+T31	expression_CIM 1906 1926	carcinome infiltrant
+T32	morphologie 1906 1926	carcinome infiltrant
+T33	morphologie 2481 2487	lésion
+T34	expression_CIM 2481 2537	lésion infiltrante de 7 mm a été identifiée dans le sein
+T35	topographie 2533 2537	sein
+T36	morphologie 2681 2711	Carcinome canalaire infiltrant
+T37	expression_CIM 2681 2727	Carcinome canalaire infiltrant de 7 mm du sein
+T38	topographie 2723 2727	sein
+T39	morphologie 3265 3295	carcinome canalaire infiltrant
+T40	expression_CIM 3265 3388	carcinome canalaire infiltrant de grade deux de 8 mm dans le quadrant-union inféro-interne des quadrants inférieurs du sein
+T42	morphologie 3429 3441	infiltration
+T43	expression_CIM 3429 3453	infiltration périneurale
+T44	topographie 3442 3453	périneurale
+T45	expression_CIM 3604 3613	métastase
+T46	morphologie 3604 3613	métastase
+#1	ICD-O T1	8895/0
+#2	ICD-O T2	C55.9 8895/0
+#3	ICD-O T3	C55.9
+#4	ICD-O T4	8520/2
+#5	ICD-O T5	8520/2
+#6	ICD-O T6	8520/2
+#7	ICD-O T7	C50.9 8520/2
+#8	ICD-O T8	C50.9
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	C00.9 8000/3
+#11	ICD-O T11	C00.9
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	C34.9 8000/3
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	C77.9 8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C77.0 8000/1
+#19	ICD-O T19	C76.0
+#20	ICD-O T20	C76.0
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C76.2 8000/1
+#23	ICD-O T23	C76.2
+#24	ICD-O T24	8520/2
+#25	ICD-O T25	8520/2
+#26	ICD-O T26	8000/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	8000/1
+#29	ICD-O T31	8010/3
+#30	ICD-O T32	8010/3
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	C50.9 8000/1
+#33	ICD-O T35	C50.9
+#34	ICD-O T36	8500/3
+#35	ICD-O T37	C50.9 8500/3
+#36	ICD-O T38	C50.9
+#37	ICD-O T39	8500/3
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	C47.9 8000/1
+#40	ICD-O T44	C47.9
+#41	ICD-O T45	8000/6
+#42	ICD-O T46	8000/6

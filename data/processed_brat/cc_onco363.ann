@@ -1,0 +1,35 @@
+T31	topographie 2439 2513	ganglions lymphatiques (sus-claviculaire droit, médiastin, hile pulmonaire
+T2	morphologie 743 755	adénopathies
+T4	morphologie 994 1000	masses
+T6	morphologie 1405 1430	conglomérat adénopathique
+T7	morphologie 1524 1536	adénopathies
+T9	topographie 1537 1550	médiastinales
+T10	topographie 1572 1592	espace prévasculaire
+T11	topographie 1596 1615	espace paratrachéal
+T12	topographie 1626 1649	fenêtre aortopulmonaire
+T13	morphologie 1656 1681	conglomérat adénopathique
+T15	topographie 1682 1694	sous-carinal
+T16	morphologie 1728 1739	conglomérat
+T18	topographie 1740 1752	sous-carinal
+T19	morphologie 1791 1797	Nodule
+T21	topographie 1798 1808	pulmonaire
+T22	topographie 1869 1876	lingula
+T23	morphologie 2137 2143	cancer
+T54	morphologie 2154 2176	non à petites cellules
+T25	topographie 2147 2153	poumon
+T27	morphologie 2286 2300	adénocarcinome
+T28	morphologie 2374 2391	atteinte tumorale
+T30	topographie 2400 2414	lobe supérieur
+T32	morphologie 2556 2570	adénocarcinome
+T34	topographie 2571 2581	pulmonaire
+T36	morphologie 2585 2593	stade IV
+T38	morphologie 2823 2829	tumeur
+T40	morphologie 2831 2845	adénocarcinome
+T41	morphologie 4251 4259	atteinte
+T43	topographie 4264 4299	ganglions lymphatiques médiastinaux
+T44	morphologie 4306 4312	nodule
+T46	topographie 4327 4334	lingula
+T47	topographie 4336 4349	paracardiaque
+T49	morphologie 4437 4459	foyer hypermétabolique
+T51	morphologie 4470 4476	lésion
+T53	morphologie 4505 4524	maladie néoplasique

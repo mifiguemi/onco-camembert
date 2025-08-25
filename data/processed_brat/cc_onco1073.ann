@@ -1,0 +1,59 @@
+T1	morphologie 229 238	carcinome
+T91	morphologie 250 269	à cellules d'avoine
+T3	topographie 239 249	pulmonaire
+T5	morphologie 271 275	CPCA
+T7	morphologie 286 294	stade IV
+T8	morphologie 296 301	masse
+T10	topographie 322 339	artère pulmonaire
+T11	morphologie 354 359	masse
+T13	topographie 360 367	hilaire
+T14	morphologie 393 401	atteinte
+T17	topographie 467 480	prévasculaire
+T18	topographie 482 495	paratrachéale
+T19	topographie 513 538	ligament gastro-hépatique
+T20	morphologie 545 555	métastases
+T22	topographie 556 570	surrénaliennes
+T23	morphologie 590 600	métastases
+T25	topographie 601 609	osseuses
+T26	morphologie 1020 1031	progression
+T28	topographie 1032 1044	médiastinale
+T30	morphologie 1764 1782	foyer de captation
+T31	morphologie 1987 1993	Lésion
+T33	topographie 1994 2001	osseuse
+T35	morphologie 2076 2085	métastase
+T37	morphologie 2157 2164	nodules
+T38	morphologie 2440 2445	masse
+T40	topographie 2446 2458	médiastinale
+T42	morphologie 2522 2549	conglomérats adénopathiques
+T43	morphologie 2555 2565	métastases
+T45	topographie 2566 2580	surrénaliennes
+T46	morphologie 2600 2607	lésions
+T48	topographie 2608 2618	spléniques
+T50	morphologie 2644 2654	métastases
+T51	morphologie 2708 2714	lésion
+T53	topographie 2715 2722	osseuse
+T55	morphologie 2933 2958	Progression de la maladie
+T56	morphologie 2984 2994	métastases
+T58	topographie 2995 3011	intramédullaires
+T59	morphologie 3814 3821	lésions
+T61	topographie 3830 3847	sous-épendymaires
+T63	morphologie 3887 3893	lésion
+T65	topographie 3897 3901	côté
+T66	morphologie 3927 3934	lésions
+T68	topographie 3938 3942	côté
+T70	morphologie 3999 4008	métastase
+T72	morphologie 4050 4057	lésions
+T74	morphologie 4135 4156	atteinte métastatique
+T75	morphologie 4171 4178	Lésions
+T77	topographie 4179 4196	supratentorielles
+T78	morphologie 4334 4340	lésion
+T81	topographie 4377 4385	thalamus
+T82	morphologie 4418 4425	Lésions
+T84	topographie 4426 4443	infratentorielles
+T85	morphologie 4514 4520	lésion
+T87	topographie 4521 4537	infratentorielle
+T88	morphologie 5166 5173	lésions
+T16	topographie 428 451	fosse supraclaviculaire
+T90	topographie 5192 5208	sous-épendymaire
+T80	topographie 4346 4357	tentorielle
+T62	topographie 3863 3883	ventricules latéraux

@@ -1,0 +1,104 @@
+T13	morphologie 1605 1626	carcinome non affilié
+T1	morphologie 215 225	méningiome
+T2	expression_CIM 215 244	méningiome du sinus caverneux
+T3	topographie 229 244	sinus caverneux
+T4	expression_CIM 310 327	récidive tumorale
+T5	morphologie 310 327	récidive tumorale
+T6	morphologie 452 476	méningiome transitionnel
+T7	expression_CIM 452 515	méningiome transitionnel du sinus caverneux de grade I de l'OMS
+T8	topographie 480 495	sinus caverneux
+T9	differenciation 499 515	grade I de l'OMS
+T10	expression_CIM 1465 1472	lésions
+T11	morphologie 1465 1472	lésions
+T12	expression_CIM 1605 1626	carcinome non affilié
+T14	morphologie 2258 2266	atteinte
+T15	expression_CIM 2258 2274	atteinte osseuse
+T16	topographie 2267 2274	osseuse
+T17	morphologie 2325 2331	lésion
+T18	expression_CIM 2325 2341	lésion pelvienne
+T19	topographie 2332 2341	pelvienne
+T20	morphologie 2377 2389	infiltration
+T21	expression_CIM 2377 2397	infiltration osseuse
+T22	topographie 2390 2397	osseuse
+T23	expression_CIM 2406 2412	tumeur
+T24	morphologie 2406 2412	tumeur
+T25	expression_CIM 2432 2442	méningiome
+T26	morphologie 2432 2442	méningiome
+T27	morphologie 2484 2492	invasion
+T28	expression_CIM 2484 2500	invasion osseuse
+T29	topographie 2493 2500	osseuse
+T30	expression_CIM 2508 2518	méningiome
+T31	morphologie 2508 2518	méningiome
+T32	expression_CIM 3129 3136	lésions
+T33	morphologie 3129 3136	lésions
+T34	morphologie 3165 3189	méningiome transitionnel
+T35	expression_CIM 3165 3228	méningiome transitionnel du sinus caverneux de grade I de l'OMS
+T36	topographie 3193 3208	sinus caverneux
+T37	differenciation 3212 3228	grade I de l'OMS
+T38	morphologie 3247 3257	métastases
+T39	expression_CIM 3247 3266	métastases osseuses
+T40	topographie 3258 3266	osseuses
+T41	morphologie 3929 3954	progression de la maladie
+T42	expression_CIM 3929 3993	progression de la maladie au niveau intracrânien et extracrânien
+T43	topographie 3965 3977	intracrânien
+T44	topographie 3981 3993	extracrânien
+T45	morphologie 4026 4033	lésions
+T46	expression_CIM 4026 4071	lésions osseuses lytiques au niveau vertébral
+T47	topographie 4034 4042	osseuses
+T48	topographie 4062 4071	vertébral
+T49	morphologie 4081 4087	lésion
+T50	expression_CIM 4081 4114	lésion dans le segment IV du foie
+T51	topographie 4110 4114	foie
+T52	expression_CIM 4532 4557	progression de la maladie
+T53	morphologie 4532 4557	progression de la maladie
+#1	ICD-O T13	tocheck
+#2	ICD-O T1	9530/0
+#3	ICD-O T2	C49.0 9530/0
+#4	ICD-O T3	C49.0
+#5	ICD-O T4	8000/6
+#6	ICD-O T5	8000/6
+#7	ICD-O T6	9537/0
+#8	ICD-O T7	C49.0 9537/01
+#9	ICD-O T8	C49.0
+#10	ICD-O T9	1
+#11	ICD-O T10	8000/1
+#12	ICD-O T11	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	C41.9 8000/1
+#15	ICD-O T16	C41.9
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C76.3 8000/1
+#18	ICD-O T19	C76.3
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C41.9 8000/1
+#21	ICD-O T22	C41.9
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	9530/0
+#25	ICD-O T26	9530/0
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	C41.9 8000/1
+#28	ICD-O T29	C41.9
+#29	ICD-O T30	9530/0
+#30	ICD-O T31	9530/0
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	9537/0
+#34	ICD-O T35	C49.0 9537/01
+#35	ICD-O T36	C49.0
+#36	ICD-O T37	1
+#37	ICD-O T38	8000/6
+#38	ICD-O T39	C41.9 8000/6
+#39	ICD-O T40	C41.9
+#40	ICD-O T41	8000/9
+#41	ICD-O T43	C71.9
+#42	ICD-O T44	C49.9
+#43	ICD-O T45	8000/1
+#44	ICD-O T46	C41.2 8000/1;C41.9 8000/1
+#45	ICD-O T47	C41.9
+#46	ICD-O T48	C41.2
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	C22.0 8000/1
+#49	ICD-O T51	C22.0
+#50	ICD-O T52	8000/1
+#51	ICD-O T53	8000/1

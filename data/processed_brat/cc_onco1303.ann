@@ -1,0 +1,23 @@
+T1	morphologie 129 149	carcinome papillaire
+T3	morphologie 329 350	carcinome épidermoïde
+T5	differenciation 351 353	G2
+T6	topographie 357 363	larynx
+T7	morphologie 473 487	adénocarcinome
+T9	topographie 491 497	rectum
+T10	morphologie 720 726	nodule
+T12	topographie 735 749	lobe supérieur
+T13	topographie 759 765	poumon
+T14	morphologie 905 926	carcinome épidermoïde
+T16	differenciation 927 929	G2
+T17	morphologie 1527 1533	tumeur
+T19	topographie 1534 1550	infratentorielle
+T20	morphologie 1820 1829	Métastase
+T22	topographie 1830 1842	cérébelleuse
+T23	morphologie 1885 1894	métastase
+T25	topographie 1895 1904	cérébrale
+T27	morphologie 1919 1926	maladie
+T28	morphologie 2183 2189	tumeur
+T30	topographie 2190 2199	cérébrale
+T31	morphologie 2365 2374	métastase
+T33	topographie 2375 2387	cérébelleuse
+T35	morphologie 2397 2411	adénocarcinome

@@ -1,0 +1,62 @@
+T1	morphologie 787 798	adénopathie
+T2	expression_CIM 787 811	adénopathie médiastinale
+T3	topographie 799 811	médiastinale
+T4	morphologie 864 870	lésion
+T5	expression_CIM 864 891	lésion solide sous-pleurale
+T6	topographie 878 891	sous-pleurale
+T7	expression_CIM 1224 1231	nodules
+T8	morphologie 1224 1231	nodules
+T9	morphologie 1498 1510	Adénopathies
+T10	expression_CIM 1498 1525	Adénopathies prévasculaires
+T11	topographie 1511 1525	prévasculaires
+T12	morphologie 1839 1864	adénocarcinome papillaire
+T13	expression_CIM 1839 1874	adénocarcinome papillaire du poumon
+T14	topographie 1868 1874	poumon
+T15	morphologie 1880 1892	infiltration
+T16	expression_CIM 1880 1927	infiltration massive des vaisseaux lymphatiques
+T17	topographie 1905 1927	vaisseaux lymphatiques
+T18	expression_CIM 1929 1937	Stade IV
+T19	morphologie 1929 1937	Stade IV
+T20	expression_CIM 1939 1965	lymphangite carcinomateuse
+T21	morphologie 1939 1965	lymphangite carcinomateuse
+T22	expression_CIM 2133 2168	dissémination avancée de sa maladie
+T23	morphologie 2133 2168	dissémination avancée de sa maladie
+T24	morphologie 2834 2847	dissémination
+T25	expression_CIM 2834 2855	dissémination osseuse
+T26	topographie 2848 2855	osseuse
+T27	morphologie 3193 3213	atteinte néoplasique
+T28	expression_CIM 3193 3241	atteinte néoplasique parenchymateuse et pleurale
+T29	topographie 3233 3241	pleurale
+T30	morphologie 3260 3270	métastases
+T31	expression_CIM 3260 3279	métastases osseuses
+T32	topographie 3271 3279	osseuses
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.1 8000/1
+#3	ICD-O T3	C38.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C38.8 8000/1
+#6	ICD-O T6	C38.8
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C77.9 8000/1
+#11	ICD-O T11	C49.8
+#12	ICD-O T12	8260/3
+#13	ICD-O T13	C34.9 8260/3
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C49.9 8000/1
+#17	ICD-O T17	C49.9
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	C41.9 8000/6
+#24	ICD-O T26	C41.9
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	C38.4 8000/6
+#27	ICD-O T29	C38.4
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	C41.9 8000/6
+#30	ICD-O T32	C41.9

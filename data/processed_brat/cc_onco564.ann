@@ -1,0 +1,33 @@
+T1	morphologie 227 233	tumeur
+T3	topographie 234 243	périanale
+T4	morphologie 405 423	Tumeur verruqueuse
+T6	topographie 424 433	périanale
+T7	morphologie 1047 1062	lésion tumorale
+T9	topographie 1063 1072	périanale
+T10	morphologie 1088 1102	adénocarcinome
+T12	differenciation 1103 1118	peu différencié
+T13	topographie 1122 1128	rectum
+T14	morphologie 1399 1405	tumeur
+T17	morphologie 1433 1445	infiltration
+T19	topographie 1449 1459	canal anal
+T20	morphologie 1481 1491	métastases
+T22	topographie 1492 1550	ganglionnaires inguinales et iliaques internes et externes
+T23	topographie 1556 1565	hépatique
+T25	morphologie 1573 1580	lésions
+T26	morphologie 1622 1636	Adénocarcinome
+T28	differenciation 1637 1652	peu différencié
+T30	morphologie 1680 1692	infiltration
+T32	topographie 1696 1706	canal anal
+T33	morphologie 1727 1737	métastases
+T35	topographie 1802 1812	hépatiques
+T37	morphologie 1820 1827	lésions
+T39	morphologie 2005 2021	maladie tumorale
+T41	morphologie 2232 2247	tumeur primaire
+T43	morphologie 2255 2265	métastases
+T45	morphologie 6203 6218	tumeur primaire
+T46	morphologie 6254 6261	maladie
+T48	topographie 6262 6271	hépatique
+T49	morphologie 6590 6597	lésions
+T51	topographie 6598 6608	hépatiques
+T16	topographie 1406 1427	rectale médio-distale
+T29	topographie 1656 1674	rectum médiodistal

@@ -1,0 +1,59 @@
+T77	morphologie 3798 3802	MEN2
+T10	morphologie 302 339	néoplasie endocrinienne multiple (NEM
+T1	morphologie 152 158	cancer
+T3	topographie 165 171	vessie
+T4	topographie 176 182	poumon
+T5	topographie 187 191	rein
+T6	topographie 198 205	cerveau
+T8	morphologie 273 280	tumeurs
+T11	morphologie 557 589	lésions d'occupation de l'espace
+T13	topographie 590 599	hépatique
+T15	morphologie 900 902	M1
+T16	morphologie 1042 1051	ganglions
+T18	topographie 1065 1082	sus-claviculaires
+T19	topographie 1105 1120	lobe thyroïdien
+T21	morphologie 1142 1148	nodule
+T23	morphologie 1197 1202	nævus
+T24	morphologie 1521 1524	LOE
+T26	topographie 1525 1534	hépatique
+T28	morphologie 1579 1588	carcinome
+T29	morphologie 1733 1738	masse
+T31	topographie 1780 1788	thyroïde
+T32	morphologie 1821 1836	tumeur primaire
+T34	topographie 1843 1851	thyroïde
+T36	morphologie 1860 1862	M1
+T37	morphologie 1890 1902	adénopathies
+T39	topographie 1903 1920	sus-claviculaires
+T40	topographie 1924 1937	médiastinales
+T41	morphologie 1981 1988	lésions
+T43	topographie 1989 2000	pulmonaires
+T44	morphologie 2119 2137	cellules tumorales
+T46	topographie 2141 2145	foie
+T47	morphologie 2389 2406	lésions suspectes
+T49	topographie 2415 2419	sein
+T51	morphologie 2480 2507	infiltration carcinomateuse
+T52	morphologie 2640 2649	néoplasie
+T91	morphologie 2659 2667	primaire
+T54	topographie 2650 2658	mammaire
+T55	morphologie 2917 2937	carcinome médullaire
+T57	topographie 2944 2952	thyroïde
+T59	morphologie 3127 3132	masse
+T60	morphologie 3324 3379	lésions compatibles avec une dissémination métastatique
+T62	topographie 3380 3387	osseuse
+T63	morphologie 3462 3482	carcinome médullaire
+T65	topographie 3489 3497	thyroïde
+T67	morphologie 3501 3509	stade IV
+T68	morphologie 3523 3525	M1
+T70	topographie 3526 3535	mammaires
+T71	topographie 3537 3543	osseux
+T72	topographie 3545 3555	hépatiques
+T73	topographie 3574 3585	pulmonaires
+T75	topographie 3636 3645	hépatique
+T79	morphologie 4210 4224	masse tumorale
+T80	morphologie 4504 4509	masse
+T82	topographie 4510 4522	thyroïdienne
+T83	morphologie 4543 4550	nodules
+T85	topographie 4551 4562	pulmonaires
+T86	morphologie 4570 4577	lésions
+T88	topographie 4578 4588	hépatiques
+T90	morphologie 4638 4657	maladie oncologique

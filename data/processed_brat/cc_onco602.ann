@@ -1,0 +1,57 @@
+T33	morphologie 2601 2620	lésion de captation
+T1	morphologie 107 128	tumeur neuroendocrine
+T3	topographie 129 141	pancréatique
+T5	morphologie 145 153	stade IV
+T7	morphologie 187 202	tumeur primaire
+T8	morphologie 564 574	métastases
+T10	topographie 575 585	hépatiques
+T12	morphologie 941 946	masse
+T13	morphologie 1336 1341	masse
+T15	topographie 1374 1391	queue du pancréas
+T17	morphologie 1447 1450	TNE
+T18	morphologie 1597 1604	lésions
+T20	topographie 1605 1615	hépatiques
+T21	morphologie 1631 1641	métastases
+T23	topographie 1668 1672	foie
+T24	morphologie 1825 1835	Occupation
+T26	topographie 1845 1854	hépatique
+T27	morphologie 2288 2317	hyperenhancement pathologique
+T94	morphologie 2360 2385	évocateur de NER primaire
+T29	topographie 2342 2359	queue du pancréas
+T30	morphologie 2503 2523	lésions de captation
+T32	topographie 2524 2533	hépatique
+T35	topographie 2621 2630	hépatique
+T36	morphologie 2675 2682	lésions
+T38	topographie 2683 2693	hépatiques
+T39	morphologie 3077 3080	NST
+T41	topographie 3081 3093	pancréatique
+T43	morphologie 3097 3105	stade IV
+T44	morphologie 3135 3145	métastases
+T46	topographie 3146 3156	hépatiques
+T47	morphologie 3200 3214	masse tumorale
+T49	topographie 3215 3227	pancréatique
+T51	morphologie 3426 3441	tumeur primaire
+T52	morphologie 3785 3806	tumeur neuroendocrine
+T54	topographie 3810 3818	pancréas
+T56	morphologie 3837 3845	primitif
+T57	morphologie 3871 3881	métastases
+T59	topographie 3882 3892	hépatiques
+T61	morphologie 3932 3938	tumeur
+T63	morphologie 4193 4203	métastases
+T65	morphologie 4902 4929	stabilisation de la maladie
+T67	morphologie 4978 4988	métastases
+T69	morphologie 5212 5218	cancer
+T70	morphologie 5363 5373	métastases
+T72	topographie 5374 5384	hépatiques
+T73	morphologie 5596 5606	métastases
+T75	topographie 5607 5617	hépatiques
+T76	morphologie 5683 5689	lésion
+T80	morphologie 5746 5752	lésion
+T83	morphologie 5842 5848	lésion
+T87	morphologie 5946 5953	lésions
+T89	morphologie 6063 6073	métastases
+T91	morphologie 6192 6202	métastases
+T93	morphologie 6479 6506	stabilisation de la maladie
+T78	topographie 5703 5712	segment V
+T85	topographie 5873 5885	segment VIII
+T82	topographie 5753 5768	sous-capsulaire

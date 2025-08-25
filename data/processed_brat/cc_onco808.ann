@@ -1,0 +1,37 @@
+T51	topographie 4843 4853	mésogastre
+T54	topographie 4976 4980	sang
+T2	topographie 227 235	mammaire
+T3	topographie 257 288	quadrant supéro-externe du sein
+T4	morphologie 398 404	nodule
+T6	topographie 426 460	quadrant supérieur externe du sein
+T7	morphologie 500 520	carcinome infiltrant
+T9	morphologie 2207 2214	lésions
+T11	topographie 2215 2225	hépatiques
+T13	morphologie 2335 2346	hémangiomes
+T15	morphologie 2370 2380	métastases
+T17	morphologie 2537 2540	LOE
+T18	topographie 2550 2554	foie
+T19	morphologie 3056 3059	LOE
+T21	topographie 3060 3069	hépatique
+T22	morphologie 3260 3276	lymphadénopathie
+T24	topographie 3292 3300	aisselle
+T26	morphologie 3397 3404	lésions
+T27	morphologie 3580 3590	métastases
+T29	topographie 3591 3601	hépatiques
+T30	morphologie 3701 3708	lésions
+T34	morphologie 3810 3817	lésions
+T36	morphologie 4078 4085	lésions
+T37	morphologie 4132 4139	lésions
+T39	topographie 4140 4150	hépatiques
+T40	morphologie 4270 4279	métastase
+T42	topographie 4280 4289	hépatique
+T43	morphologie 4293 4317	carcinome neuroendocrine
+T45	differenciation 4318 4334	bien différencié
+T46	morphologie 4680 4705	accumulation pathologique
+T48	topographie 4714 4734	parenchyme hépatique
+T49	morphologie 4806 4834	augmentation de la captation
+T52	morphologie 4944 4967	tumeurs neuroendocrines
+T56	morphologie 5243 5264	tumeur neuroendocrine
+T57	morphologie 5345 5351	cancer
+T59	topographie 5355 5359	sein
+T32	topographie 3749 3762	segments VIII

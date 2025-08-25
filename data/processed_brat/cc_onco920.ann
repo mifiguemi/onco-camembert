@@ -1,0 +1,20 @@
+T26	topographie 6579 6605	jonction œsophagogastrique
+T32	topographie 6677 6687	nodulaires
+T1	morphologie 508 522	adénocarcinome
+T3	topographie 526 552	tiers distal de l'œsophage
+T5	morphologie 1048 1075	stabilisation de la maladie
+T6	morphologie 1396 1402	lésion
+T8	topographie 1403 1412	splénique
+T10	morphologie 1453 1472	lésion métastatique
+T11	morphologie 2042 2048	lésion
+T13	topographie 2049 2058	splénique
+T15	morphologie 3424 3429	masse
+T16	morphologie 6280 6287	lésions
+T18	topographie 6288 6298	spléniques
+T20	morphologie 6390 6397	lésions
+T22	morphologie 6454 6479	progression de la maladie
+T23	morphologie 6533 6539	tumeur
+T25	topographie 6547 6562	œsophage distal
+T27	topographie 6612 6618	fundus
+T28	morphologie 6634 6641	nodules
+T30	topographie 6642 6653	épiploïques

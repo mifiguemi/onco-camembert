@@ -1,0 +1,23 @@
+T1	morphologie 359 365	nodule
+T4	morphologie 585 592	lésions
+T6	topographie 600 606	thorax
+T7	topographie 611 614	dos
+T9	morphologie 696 703	nodules
+T11	morphologie 708 724	plaques aériques
+T12	morphologie 1093 1100	lésions
+T14	topographie 1101 1109	cutanées
+T16	morphologie 1311 1323	adénomégalie
+T17	morphologie 1488 1497	métastase
+T19	topographie 1498 1505	cutanée
+T21	morphologie 1510 1518	lymphome
+T23	morphologie 1525 1533	mélanome
+T25	morphologie 1560 1567	lésions
+T27	morphologie 1781 1793	infiltration
+T28	morphologie 1801 1816	néoplasme malin
+T34	morphologie 2591 2599	leucémie
+T36	morphologie 2600 2632	lymphome à cellules dendritiques
+T40	morphologie 2746 2751	BPDCN
+T30	topographie 1867 1872	derme
+T3	topographie 435 440	jambe
+T38	morphologie 2684 2744	Néoplasme blastique des cellules dendritiques plasmacytoïdes
+T32	morphologie 2438 2499	néoplasme des cellules dendritiques plasmacytoïdes blastiques

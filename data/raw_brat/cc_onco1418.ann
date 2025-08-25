@@ -1,0 +1,48 @@
+T6	topographie 589 611	creux sus-claviculaire
+T1	morphologie 117 133	lymphadénopathie
+T2	expression_CIM 117 143	lymphadénopathie cervicale
+T3	topographie 134 143	cervicale
+T4	morphologie 559 570	adénopathie
+T5	expression_CIM 559 742	adénopathie de 1,5 cm dans le creux sus-claviculaire gauche, fixe, dure, non douloureuse, et d'autres plus petites dans la région cervicale latérale droite et dans la région inguinale
+T8	topographie 726 742	région inguinale
+T9	morphologie 1561 1573	adénopathies
+T10	expression_CIM 1561 1633	adénopathies dans les régions cervicale, axillaire, iliaque et inguinale
+T12	topographie 1602 1611	axillaire
+T13	topographie 1613 1620	iliaque
+T14	topographie 1624 1633	inguinale
+T15	morphologie 1789 1800	adénopathie
+T16	expression_CIM 1789 1817	adénopathie sus-claviculaire
+T17	topographie 1801 1817	sus-claviculaire
+T18	morphologie 3255 3262	lésions
+T19	expression_CIM 3255 3271	lésions cutanées
+T20	topographie 3263 3271	cutanées
+T21	morphologie 3355 3361	lésion
+T22	expression_CIM 3355 3394	lésion violacée plate sur le palais dur
+T24	expression_CIM 3414 3431	sarcome de Kaposi
+T25	morphologie 3414 3431	sarcome de Kaposi
+T26	expression_CIM 3674 3691	sarcome de Kaposi
+T27	morphologie 3674 3691	sarcome de Kaposi
+T23	topographie 3384 3394	palais dur
+T7	topographie 682 707	région cervicale latérale
+T11	topographie 1583 1600	régions cervicale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T8	C76.3
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	C77.0 8000/1;C77.3 8000/1;C77.4 8000/1;C77.5 8000/1
+#8	ICD-O T12	C76.1
+#9	ICD-O T13	C41.4
+#10	ICD-O T14	C76.3
+#11	ICD-O T15	8000/1
+#12	ICD-O T16	C77.0 8000/1
+#13	ICD-O T17	C76.0
+#14	ICD-O T18	8000/1
+#15	ICD-O T19	C44.9 8000/1
+#16	ICD-O T20	C44.9
+#17	ICD-O T21	8000/1
+#18	ICD-O T24	9140/3
+#19	ICD-O T25	9140/3
+#20	ICD-O T26	9140/3
+#21	ICD-O T27	9140/3

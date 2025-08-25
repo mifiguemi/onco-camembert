@@ -1,0 +1,114 @@
+T1	expression_CIM 658 688	carcinome à cellules de Merkel
+T2	morphologie 658 688	carcinome à cellules de Merkel
+T3	expression_CIM 692 700	stade IV
+T4	morphologie 692 700	stade IV
+T5	morphologie 728 739	adénopathie
+T6	expression_CIM 728 749	adénopathie inguinale
+T7	topographie 740 749	inguinale
+T8	morphologie 1173 1179	Tumeur
+T9	expression_CIM 1173 1189	Tumeur inguinale
+T10	topographie 1180 1189	inguinale
+T11	morphologie 1411 1416	masse
+T12	expression_CIM 1411 1433	masse intrapéritonéale
+T13	topographie 1417 1433	intrapéritonéale
+T14	morphologie 1440 1465	conglomérat adénopathique
+T15	expression_CIM 1440 1474	conglomérat adénopathique inguinal
+T16	topographie 1466 1474	inguinal
+T17	morphologie 1534 1546	infiltration
+T18	expression_CIM 1534 1557	infiltration vasculaire
+T19	topographie 1547 1557	vasculaire
+T20	morphologie 1604 1615	adénopathie
+T21	expression_CIM 1604 1625	adénopathie inguinale
+T22	topographie 1616 1625	inguinale
+T23	morphologie 1736 1742	tumeur
+T24	expression_CIM 1736 1775	tumeur dans la région temporo-pariétale
+T26	morphologie 2024 2045	lésions métastatiques
+T27	expression_CIM 2024 2112	lésions métastatiques osseuses dans la région frontale et temporale gauche de la calotte
+T28	topographie 2046 2112	osseuses dans la région frontale et temporale gauche de la calotte
+T29	expression_CIM 2168 2178	métastases
+T30	morphologie 2168 2178	métastases
+T31	expression_CIM 2189 2232	carcinome neuroendocrine à petites cellules
+T32	morphologie 2189 2232	carcinome neuroendocrine à petites cellules
+T33	expression_CIM 2287 2317	carcinome à cellules de Merkel
+T34	morphologie 2287 2317	carcinome à cellules de Merkel
+T35	expression_CIM 2441 2471	Carcinome à cellules de Merkel
+T36	morphologie 2441 2471	Carcinome à cellules de Merkel
+T37	expression_CIM 2475 2483	stade IV
+T38	morphologie 2475 2483	stade IV
+T39	morphologie 2492 2499	implant
+T40	expression_CIM 2492 2512	implant rectovaginal
+T41	topographie 2500 2512	rectovaginal
+T42	morphologie 2522 2532	métastases
+T43	expression_CIM 2522 2552	métastases osseuses crâniennes
+T44	topographie 2533 2552	osseuses crâniennes
+T45	morphologie 2622 2643	lésions métastatiques
+T46	expression_CIM 2622 2659	lésions métastatiques des os du crâne
+T47	topographie 2648 2659	os du crâne
+T48	morphologie 3580 3601	lésions métastatiques
+T49	expression_CIM 3580 3615	lésions métastatiques de la calotte
+T50	topographie 3608 3615	calotte
+T51	morphologie 3765 3786	lésions métastatiques
+T52	expression_CIM 3765 3802	lésions métastatiques dans la calotte
+T53	topographie 3795 3802	calotte
+T54	morphologie 3839 3850	adénopathie
+T55	expression_CIM 3839 3860	adénopathie inguinale
+T56	topographie 3851 3860	inguinale
+T57	expression_CIM 6324 6333	néoplasme
+T58	morphologie 6324 6333	néoplasme
+T25	topographie 1751 1775	région temporo-pariétale
+#1	ICD-O T1	8247/3
+#2	ICD-O T2	8247/3
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.4 8000/1
+#7	ICD-O T7	C76.3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C76.3 8000/1
+#10	ICD-O T10	C76.3
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C48.2 8000/1
+#13	ICD-O T13	C48.2
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C77.4 8000/1
+#16	ICD-O T16	C76.3
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C49.9 8000/1
+#19	ICD-O T19	C49.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C77.4 8000/1
+#22	ICD-O T22	C76.3
+#23	ICD-O T23	8000/1
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	C41.0 8000/6;C41.9 8000/6;C71.1 8000/6
+#26	ICD-O T28	C41.9
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	8041/3
+#30	ICD-O T32	8041/3
+#31	ICD-O T33	8247/3
+#32	ICD-O T34	8247/3
+#33	ICD-O T35	8247/3
+#34	ICD-O T36	8247/3
+#35	ICD-O T37	8000/6
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	C76.8 8000/6
+#39	ICD-O T41	C76.8
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	C41.0 8000/6;C41.9 8000/6
+#42	ICD-O T44	C41.9
+#43	ICD-O T45	8000/6
+#44	ICD-O T46	C41.0 8000/6
+#45	ICD-O T47	C41.0
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	C41.0 8000/6
+#48	ICD-O T50	C41.0
+#49	ICD-O T51	8000/6
+#50	ICD-O T52	C41.0 8000/6
+#51	ICD-O T53	C41.0
+#52	ICD-O T54	8000/1
+#53	ICD-O T55	C77.4 8000/1
+#54	ICD-O T56	C76.3
+#55	ICD-O T57	8000/1
+#56	ICD-O T58	8000/1

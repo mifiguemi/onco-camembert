@@ -1,0 +1,35 @@
+T1	morphologie 1195 1200	masse
+T3	topographie 1201 1224	médiastinale antérieure
+T4	morphologie 1395 1412	images nodulaires
+T6	topographie 1486 1496	hémithorax
+T7	topographie 1544 1558	lobe supérieur
+T8	morphologie 1730 1740	métastases
+T10	topographie 1741 1749	osseuses
+T11	topographie 1776 1795	corps vertébral D11
+T13	topographie 1831 1844	tête humérale
+T14	morphologie 1882 1887	masse
+T16	topographie 1888 1900	médiastinale
+T18	morphologie 1976 1988	angiosarcome
+T19	morphologie 2110 2122	Angiosarcome
+T21	topographie 2123 2134	médiastinal
+T23	morphologie 2138 2146	stade IV
+T24	morphologie 2156 2166	métastases
+T26	topographie 2167 2178	pulmonaires
+T27	topographie 2182 2190	osseuses
+T29	morphologie 2393 2401	sarcomes
+T30	morphologie 2662 2667	masse
+T32	topographie 2668 2680	médiastinale
+T33	morphologie 2688 2705	images nodulaires
+T35	topographie 2706 2717	pulmonaires
+T36	morphologie 2740 2747	maladie
+T38	topographie 2748 2755	osseuse
+T39	morphologie 3385 3395	métastases
+T41	topographie 3396 3404	osseuses
+T42	morphologie 3491 3496	masse
+T44	topographie 3497 3507	pulmonaire
+T45	topographie 3513 3529	corps vertébraux
+T46	topographie 3543 3556	tête humérale
+T47	morphologie 3685 3695	métastases
+T49	topographie 3696 3707	pulmonaires
+T51	morphologie 3719 3743	progression de la tumeur
+T12	topographie 1800 1824	région frontale du crâne

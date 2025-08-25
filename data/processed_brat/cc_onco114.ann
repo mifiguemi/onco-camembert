@@ -1,0 +1,30 @@
+T1	morphologie 106 120	adénocarcinome
+T3	topographie 126 135	endomètre
+T5	morphologie 250 268	maladie à distance
+T6	morphologie 590 618	adénocarcinome endométrioïde
+T8	differenciation 619 645	modérément différencié, G2
+T9	morphologie 656 668	infiltration
+T11	topographie 703 711	myomètre
+T12	morphologie 722 734	infiltration
+T14	topographie 735 751	lymphovasculaire
+T15	morphologie 790 800	métastases
+T17	topographie 814 845	ganglions lymphatiques iliaques
+T20	morphologie 1645 1657	adénopathies
+T21	morphologie 2131 2142	adénopathie
+T23	topographie 2143 2150	hilaire
+T24	morphologie 2186 2197	adénopathie
+T26	topographie 2198 2205	hilaire
+T27	morphologie 2230 2241	adénopathie
+T29	topographie 2242 2255	paratrachéale
+T30	morphologie 2277 2288	adénopathie
+T32	topographie 2289 2302	prévasculaire
+T33	morphologie 2318 2329	adénopathie
+T35	topographie 2330 2343	sous-carénale
+T37	morphologie 2597 2614	cellules malignes
+T38	morphologie 2704 2718	Adénocarcinome
+T40	topographie 2719 2730	endométrial
+T41	morphologie 3157 3169	adénopathies
+T43	topographie 3170 3178	hilaires
+T44	topographie 3182 3195	médiastinales
+T18	topographie 870 901	ganglions lymphatiques pelviens
+T45	topographie 905 918	pré-aortiques

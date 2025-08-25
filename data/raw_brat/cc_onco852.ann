@@ -1,0 +1,122 @@
+T30	topographie 2879 2894	extrapulmonaire
+T1	morphologie 1458 1464	tumeur
+T2	expression_CIM 1458 1537	tumeur douloureuse a été palpée dans la région gauche de l'utérus et au Douglas
+T3	topographie 1517 1523	utérus
+T4	topographie 1530 1537	Douglas
+T5	morphologie 2120 2135	image nodulaire
+T6	expression_CIM 2120 2150	image nodulaire dans le poumon
+T7	topographie 2144 2150	poumon
+T8	morphologie 2294 2309	image nodulaire
+T9	expression_CIM 2294 2324	image nodulaire dans le poumon
+T10	topographie 2318 2324	poumon
+T11	morphologie 2508 2518	métastases
+T12	expression_CIM 2508 2565	métastases bilatérales pulmonaires, hépatiques et rénales
+T13	topographie 2531 2542	pulmonaires
+T14	topographie 2544 2554	hépatiques
+T15	topographie 2558 2565	rénales
+T16	expression_CIM 2572 2610	maladie trophoblastique gestationnelle
+T17	morphologie 2572 2610	maladie trophoblastique gestationnelle
+T18	morphologie 2626 2643	tumeurs kystiques
+T19	expression_CIM 2626 2687	tumeurs kystiques pelviennes cloisonnées d'origine annexielle
+T20	topographie 2644 2654	pelviennes
+T21	topographie 2677 2687	annexielle
+T22	expression_CIM 2726 2764	maladie trophoblastique gestationnelle
+T23	morphologie 2726 2764	maladie trophoblastique gestationnelle
+T24	expression_CIM 2781 2796	choriocarcinome
+T25	morphologie 2781 2796	choriocarcinome
+T26	expression_CIM 2824 2832	stade IV
+T27	morphologie 2824 2832	stade IV
+T28	morphologie 2858 2878	maladie métastatique
+T29	expression_CIM 2858 2894	maladie métastatique extrapulmonaire
+T31	morphologie 3298 3308	métastases
+T32	expression_CIM 3298 3320	métastases pulmonaires
+T33	topographie 3309 3320	pulmonaires
+T34	expression_CIM 5403 5413	métastases
+T35	morphologie 5403 5413	métastases
+T36	expression_CIM 5503 5528	lésions occupant l'espace
+T37	morphologie 5503 5528	lésions occupant l'espace
+T38	morphologie 5640 5649	métastase
+T39	expression_CIM 5640 5660	métastase pulmonaire
+T40	topographie 5650 5660	pulmonaire
+T41	morphologie 5675 5682	lésions
+T42	expression_CIM 5675 5694	lésions pulmonaires
+T43	topographie 5683 5694	pulmonaires
+T44	morphologie 5705 5711	lésion
+T45	expression_CIM 5705 5721	lésion hépatique
+T46	topographie 5712 5721	hépatique
+T47	morphologie 5739 5745	lésion
+T48	expression_CIM 5739 5752	lésion rénale
+T49	topographie 5746 5752	rénale
+T50	morphologie 5895 5901	lésion
+T51	expression_CIM 5895 5911	lésion hépatique
+T52	topographie 5902 5911	hépatique
+T53	morphologie 5947 5957	métastases
+T54	expression_CIM 5947 5969	métastases pulmonaires
+T55	topographie 5958 5969	pulmonaires
+T56	expression_CIM 6133 6139	tumeur
+T57	morphologie 6133 6139	tumeur
+T58	morphologie 6222 6229	lésions
+T59	expression_CIM 6222 6241	lésions pulmonaires
+T60	topographie 6230 6241	pulmonaires
+T61	morphologie 6459 6466	lésions
+T62	expression_CIM 6459 6478	lésions pulmonaires
+T63	topographie 6467 6478	pulmonaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C48.1 8000/1;C55.9 8000/1
+#3	ICD-O T3	C55.9
+#4	ICD-O T4	C48.1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C34.9 8000/1
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C34.9 8000/1
+#10	ICD-O T10	C34.9
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	C22.0 8000/6;C34.9 8000/6;C64.9 8000/6
+#13	ICD-O T13	C34.9
+#14	ICD-O T14	C22.0
+#15	ICD-O T15	C64.9
+#16	ICD-O T17	9104/1
+#17	ICD-O T18	8440/1
+#18	ICD-O T19	C56.9 8440/1;C76.3 8440/1
+#19	ICD-O T20	C76.3
+#20	ICD-O T21	C56.9
+#21	ICD-O T23	9104/1
+#22	ICD-O T24	9100/3
+#23	ICD-O T25	9100/3
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	8000/6
+#27	ICD-O T31	8000/6
+#28	ICD-O T32	C34.9 8000/6
+#29	ICD-O T33	C34.9
+#30	ICD-O T34	8000/6
+#31	ICD-O T35	8000/6
+#32	ICD-O T37	8000/1
+#33	ICD-O T38	8000/6
+#34	ICD-O T39	C34.9 8000/6
+#35	ICD-O T40	C34.9
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	C34.9 8000/1
+#38	ICD-O T43	C34.9
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	C22.0 8000/1
+#41	ICD-O T46	C22.0
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	C64.9 8000/1
+#44	ICD-O T49	C64.9
+#45	ICD-O T50	8000/1
+#46	ICD-O T51	C22.0 8000/1
+#47	ICD-O T52	C22.0
+#48	ICD-O T53	8000/6
+#49	ICD-O T54	C34.9 8000/6
+#50	ICD-O T55	C34.9
+#51	ICD-O T56	8000/1
+#52	ICD-O T57	8000/3
+#53	ICD-O T58	8000/1
+#54	ICD-O T59	C34.9 8000/1
+#55	ICD-O T60	C34.9
+#56	ICD-O T61	8000/1
+#57	ICD-O T62	C34.9 8000/1
+#58	ICD-O T63	C34.9
+#59	AnnotatorNotes T37	trad

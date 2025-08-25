@@ -1,0 +1,125 @@
+T1	morphologie 200 209	néoplasie
+T2	expression_CIM 200 216	néoplasie rénale
+T3	topographie 210 216	rénale
+T4	expression_CIM 343 359	lésion nodulaire
+T5	morphologie 343 359	lésion nodulaire
+T6	morphologie 532 571	carcinome papillaire à cellules claires
+T7	expression_CIM 532 637	carcinome papillaire à cellules claires multifocal avec des zones étendues de nécrose, grade 2 de Fuhrman
+T8	differenciation 619 637	grade 2 de Fuhrman
+T9	expression_CIM 665 671	tumeur
+T10	morphologie 665 671	tumeur
+T11	expression_CIM 785 793	récidive
+T12	morphologie 785 793	récidive
+T13	morphologie 1543 1548	masse
+T14	expression_CIM 1543 1623	masse solide à contours lobulés mesurant 70 x 70 mm dans le médiastin postérieur
+T15	topographie 1603 1623	médiastin postérieur
+T16	morphologie 1822 1844	masse hypermétabolique
+T17	expression_CIM 1822 1907	masse hypermétabolique bilobée et irrégulière de 7 cm au niveau subcarinal et hilaire
+T19	topographie 1900 1907	hilaire
+T20	expression_CIM 1935 1952	masse néoplasique
+T21	morphologie 1935 1952	masse néoplasique
+T22	expression_CIM 2002 2027	conglomérat adénopathique
+T23	morphologie 2002 2027	conglomérat adénopathique
+T24	morphologie 2037 2043;2055 2064	lésion primitive
+T25	expression_CIM 2037 2064	lésion bronchique primitive
+T26	topographie 2044 2054	bronchique
+T27	expression_CIM 2138 2147	carcinome
+T28	morphologie 2138 2147	carcinome
+T29	morphologie 2276 2283	tumeurs
+T30	expression_CIM 2276 2295	tumeurs thoraciques
+T31	topographie 2284 2295	thoraciques
+T32	expression_CIM 2400 2405	masse
+T33	morphologie 2400 2405	masse
+T34	expression_CIM 2437 2452	tumeur primaire
+T35	morphologie 2437 2452	tumeur primaire
+T36	expression_CIM 2460 2469	métastase
+T37	morphologie 2460 2469	métastase
+T38	expression_CIM 2487 2493	tumeur
+T39	morphologie 2487 2493	tumeur
+T40	morphologie 2561 2572	adénopathie
+T41	expression_CIM 2561 2586	adénopathie sous-carénale
+T42	topographie 2573 2586	sous-carénale
+T43	expression_CIM 2609 2618	métastase
+T44	morphologie 2609 2618	métastase
+T45	expression_CIM 2622 2631	carcinome
+T46	morphologie 2622 2631	carcinome
+T47	morphologie 2729 2738	Métastase
+T48	expression_CIM 2729 2751	Métastase médiastinale
+T49	topographie 2739 2751	médiastinale
+T50	morphologie 2757 2766;2773 2781	carcinome primaire
+T51	expression_CIM 2757 2781	carcinome rénal primaire
+T52	topographie 2767 2772	rénal
+T53	morphologie 3481 3486	masse
+T54	expression_CIM 3481 3514	masse médiastinale infracarinaire
+T55	topographie 3487 3499	médiastinale
+T56	topographie 3500 3514	infracarinaire
+T57	morphologie 3604 3615	adénopathie
+T58	expression_CIM 3604 3623	adénopathie iliaque
+T59	topographie 3616 3623	iliaque
+T60	morphologie 3647 3658	adénopathie
+T61	expression_CIM 3647 3666	adénopathie iliaque
+T62	topographie 3659 3666	iliaque
+T63	expression_CIM 4669 4677	récidive
+T64	morphologie 4669 4677	récidive
+T18	topographie 1886 1896	subcarinal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8050/3
+#6	ICD-O T7	8050/32
+#7	ICD-O T8	2
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C38.2 8000/1
+#14	ICD-O T15	C38.2
+#15	ICD-O T16	8000/9
+#16	ICD-O T19	C76.1
+#17	ICD-O T20	8000/3
+#18	ICD-O T21	8000/3
+#19	ICD-O T22	C77.9 8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8000/3
+#22	ICD-O T25	C34.9 8000/3
+#23	ICD-O T26	C34.9
+#24	ICD-O T27	8010/3
+#25	ICD-O T28	8010/3
+#26	ICD-O T29	8000/3
+#27	ICD-O T30	C76.1 8000/1
+#28	ICD-O T31	C76.1
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	8000/3
+#32	ICD-O T35	8000/3
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	8000/3
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	C77.1 8000/1
+#39	ICD-O T42	C76.1
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8000/6
+#42	ICD-O T45	8010/3
+#43	ICD-O T46	8010/3
+#44	ICD-O T47	8000/6
+#45	ICD-O T48	C38.3 8000/6
+#46	ICD-O T49	C38.3
+#47	ICD-O T50	8010/3
+#48	ICD-O T51	C64.9 8010/3
+#49	ICD-O T52	C64.9
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	C38.3 8000/1;C76.1 8000/1
+#52	ICD-O T55	C38.3
+#53	ICD-O T56	C76.1
+#54	ICD-O T57	8000/1
+#55	ICD-O T58	C77.5 8000/1
+#56	ICD-O T59	C41.4
+#57	ICD-O T60	8000/1
+#58	ICD-O T61	C77.5 8000/1
+#59	ICD-O T62	C41.4
+#60	ICD-O T63	8000/6
+#61	ICD-O T64	8000/9

@@ -1,0 +1,218 @@
+T36	morphologie 4333 4380	hamartome kystique rétrorectal (kyste de Tailgu
+T10	morphologie 396 445	hamartome kystique rétro-rectal (kyste de Tailgut
+T93	topographie 7263 7274	ischémoanal
+T1	morphologie 84 90	nodule
+T2	expression_CIM 84 124	nodule indolore dans la région périnéale
+T4	expression_CIM 129 135	nodule
+T5	morphologie 129 135	nodule
+T6	morphologie 342 380	carcinome papillaire infiltrant solide
+T7	expression_CIM 342 391	carcinome papillaire infiltrant solide de grade 2
+T8	differenciation 384 391	grade 2
+T9	expression_CIM 396 445	hamartome kystique rétro-rectal (kyste de Tailgut
+T11	morphologie 487 495	invasion
+T12	expression_CIM 487 506	invasion vasculaire
+T13	topographie 496 506	vasculaire
+T14	morphologie 807 821	adénocarcinome
+T15	expression_CIM 807 830	adénocarcinome du côlon
+T16	topographie 825 830	côlon
+T17	expression_CIM 908 936	processus lymphoprolifératif
+T18	morphologie 908 936	processus lymphoprolifératif
+T19	expression_CIM 2593 2599	masses
+T20	morphologie 2593 2599	masses
+T21	expression_CIM 3390 3404	masse kystique
+T22	morphologie 3390 3404	masse kystique
+T23	morphologie 3585 3595	nodulation
+T24	expression_CIM 3585 3605	nodulation périnéale
+T26	expression_CIM 3739 3763	adénopathie pathologique
+T27	morphologie 3739 3763	adénopathie pathologique
+T28	expression_CIM 3767 3807	image suggérant une métastase à distance
+T29	morphologie 3767 3807	image suggérant une métastase à distance
+T30	morphologie 3892 3897	masse
+T31	expression_CIM 3892 3909	masse périrectale
+T32	topographie 3898 3909	périrectale
+T33	morphologie 4279 4317	carcinome papillaire solide infiltrant
+T34	expression_CIM 4279 4328	carcinome papillaire solide infiltrant de grade 2
+T35	differenciation 4321 4328	grade 2
+T37	expression_CIM 4333 4381	hamartome kystique rétrorectal (kyste de Tailgut
+T38	morphologie 4423 4431	invasion
+T39	expression_CIM 4423 4457	invasion vasculaire et périneurale
+T40	topographie 4432 4442	vasculaire
+T41	topographie 4446 4457	périneurale
+T42	expression_CIM 4820 4847	Carcinome papillaire solide
+T43	morphologie 4820 4847	Carcinome papillaire solide
+T44	expression_CIM 4852 4882	hamartome rétrorectal kystique
+T45	morphologie 4852 4882	hamartome rétrorectal kystique
+T46	expression_CIM 5221 5232	lit tumoral
+T47	morphologie 5221 5232	lit tumoral
+T48	morphologie 5338 5349	adénopathie
+T49	expression_CIM 5338 5359	adénopathie inguinale
+T50	topographie 5350 5359	inguinale
+T51	morphologie 5438 5465	carcinome papillaire solide
+T52	expression_CIM 5438 5488	carcinome papillaire solide modérément différencié
+T53	differenciation 5466 5488	modérément différencié
+T54	morphologie 5547 5555	récidive
+T55	expression_CIM 5547 5569	récidive adénopathique
+T56	topographie 5556 5569	adénopathique
+T57	expression_CIM 5779 5796	récidive tumorale
+T58	morphologie 5779 5796	récidive tumorale
+T59	morphologie 5903 5918	récidive locale
+T60	expression_CIM 5903 5937	récidive locale dans le pararectum
+T62	morphologie 5959 5965	lésion
+T63	expression_CIM 5959 5973	lésion osseuse
+T64	topographie 5966 5973	osseuse
+T65	expression_CIM 5974 5986	ostéolytique
+T66	morphologie 5974 5986	ostéolytique
+T67	expression_CIM 6153 6192	zones de différenciation neuroendocrine
+T68	morphologie 6153 6192	zones de différenciation neuroendocrine
+T69	morphologie 6325 6333;6347 6353	récidive locale
+T70	expression_CIM 6325 6353	récidive radiologique locale
+T71	expression_CIM 6504 6510	lésion
+T72	morphologie 6504 6510	lésion
+T73	expression_CIM 6539 6557	cellules tumorales
+T74	morphologie 6539 6557	cellules tumorales
+T75	morphologie 6581 6587	tumeur
+T76	expression_CIM 6581 6597	tumeur présacrée
+T77	topographie 6588 6597	présacrée
+T78	expression_CIM 6712 6718	lésion
+T79	morphologie 6712 6718	lésion
+T80	morphologie 6785 6807	récidive locorégionale
+T81	expression_CIM 6785 6838	récidive locorégionale au niveau du fascia mésorectal
+T82	topographie 6821 6838	fascia mésorectal
+T83	morphologie 6855 6861	lésion
+T84	expression_CIM 6855 6900	lésion douteuse au niveau du lobe prostatique
+T85	topographie 6884 6900	lobe prostatique
+T86	expression_CIM 7139 7158	croissance tumorale
+T87	morphologie 7139 7158	croissance tumorale
+T88	morphologie 7180 7188	récidive
+T89	expression_CIM 7180 7202	récidive infravésicale
+T90	topographie 7189 7202	infravésicale
+T91	morphologie 7248 7262	nodule tumoral
+T92	expression_CIM 7248 7274	nodule tumoral ischémoanal
+T94	morphologie 7287 7299	infiltration
+T95	expression_CIM 7287 7327	infiltration de la musculature pelvienne
+T96	topographie 7306 7327	musculature pelvienne
+T97	morphologie 7335 7347	adénopathies
+T98	expression_CIM 7335 7361	adénopathies rétrocrurales
+T99	topographie 7348 7361	rétrocrurales
+T100	expression_CIM 7568 7588	carcinome papillaire
+T101	morphologie 7568 7588	carcinome papillaire
+T102	expression_CIM 7619 7639	carcinome urothélial
+T103	morphologie 7619 7639	carcinome urothélial
+T104	expression_CIM 7679 7693	adénocarcinome
+T105	morphologie 7679 7693	adénocarcinome
+T106	expression_CIM 7782 7813	hamartome kystique rétro-rectal
+T107	morphologie 7782 7813	hamartome kystique rétro-rectal
+T108	expression_CIM 7845 7865	carcinome papillaire
+T109	morphologie 7845 7865	carcinome papillaire
+T110	expression_CIM 7894 7914	carcinome urothélial
+T111	morphologie 7894 7914	carcinome urothélial
+T112	morphologie 8230 8235	masse
+T113	expression_CIM 8230 8245	masse pelvienne
+T114	topographie 8236 8245	pelvienne
+T115	expression_CIM 8602 8608	tumeur
+T116	morphologie 8602 8608	tumeur
+T61	topographie 5927 5937	pararectum
+T25	topographie 3596 3605	périnéale
+T3	topographie 108 124	région périnéale
+#1	ICD-O T36	8800/0
+#2	ICD-O T10	8800/0
+#3	ICD-O T1	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8050/3
+#7	ICD-O T7	8050/32
+#8	ICD-O T8	2
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	C49.9 8000/1
+#11	ICD-O T13	C49.9
+#12	ICD-O T14	8140/3
+#13	ICD-O T15	C18.9 8140/3
+#14	ICD-O T16	C18.9
+#15	ICD-O T17	9970/1
+#16	ICD-O T18	9970/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/1
+#19	ICD-O T22	8440/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T26	C77.9 8000/1
+#22	ICD-O T27	8000/1
+#23	ICD-O T29	8000/6
+#24	ICD-O T30	8000/1
+#25	ICD-O T31	C76.3 8000/1
+#26	ICD-O T32	C76.3
+#27	ICD-O T33	8050/3
+#28	ICD-O T34	8050/32
+#29	ICD-O T35	2
+#30	ICD-O T38	8000/1
+#31	ICD-O T39	C47.9 8000/1;C49.9 8000/1
+#32	ICD-O T40	C49.9
+#33	ICD-O T41	C47.9
+#34	ICD-O T42	8050/3
+#35	ICD-O T43	8050/3
+#36	ICD-O T44	8800/0
+#37	ICD-O T45	8800/0
+#38	ICD-O T46	8000/3
+#39	ICD-O T47	8000/3
+#40	ICD-O T48	8000/1
+#41	ICD-O T49	C77.4 8000/1
+#42	ICD-O T50	C76.3
+#43	ICD-O T51	8050/3
+#44	ICD-O T52	8050/32
+#45	ICD-O T53	2
+#46	ICD-O T54	8000/6
+#47	ICD-O T55	C77.9 8000/6
+#48	ICD-O T56	C77.9
+#49	ICD-O T57	8000/6
+#50	ICD-O T58	8000/6
+#51	ICD-O T59	8000/3
+#52	ICD-O T62	8000/1
+#53	ICD-O T63	C41.9 8000/1
+#54	ICD-O T64	C41.9
+#55	ICD-O T66	tocheck
+#56	ICD-O T67	8246/3
+#57	ICD-O T68	8246/3
+#58	ICD-O T69	8000/3
+#59	ICD-O T71	8000/1
+#60	ICD-O T72	8000/1
+#61	ICD-O T73	8001/1
+#62	ICD-O T74	8001/1
+#63	ICD-O T75	8000/1
+#64	ICD-O T76	C76.3 8000/1
+#65	ICD-O T77	C76.3
+#66	ICD-O T78	8000/1
+#67	ICD-O T79	8000/1
+#68	ICD-O T80	8000/3
+#69	ICD-O T81	C49.5 8000/6
+#70	ICD-O T82	C49.5
+#71	ICD-O T83	8000/1
+#72	ICD-O T84	C61.9 8000/1
+#73	ICD-O T85	C61.9
+#74	ICD-O T86	8000/3
+#75	ICD-O T87	8000/3
+#76	ICD-O T88	8000/6
+#77	ICD-O T89	C76.2 8000/6
+#78	ICD-O T90	C76.2
+#79	ICD-O T91	8000/6
+#80	ICD-O T94	8000/1
+#81	ICD-O T95	C49.5 8000/1
+#82	ICD-O T96	C49.5
+#83	ICD-O T97	8000/1
+#84	ICD-O T98	C77.5 8000/1
+#85	ICD-O T99	C76.3
+#86	ICD-O T100	8050/3
+#87	ICD-O T101	8050/3
+#88	ICD-O T102	8120/3
+#89	ICD-O T103	8120/3
+#90	ICD-O T104	8140/3
+#91	ICD-O T105	8140/3
+#92	ICD-O T106	8800/0
+#93	ICD-O T107	8800/0
+#94	ICD-O T108	8050/3
+#95	ICD-O T109	8050/3
+#96	ICD-O T110	8120/3
+#97	ICD-O T111	8120/3
+#98	ICD-O T112	8000/1
+#99	ICD-O T113	C76.3 8000/1
+#100	ICD-O T114	C76.3
+#101	ICD-O T115	8000/1
+#102	ICD-O T116	8000/1

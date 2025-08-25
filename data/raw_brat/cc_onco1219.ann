@@ -1,0 +1,147 @@
+T1	expression_CIM 519 525	lésion
+T2	morphologie 519 525	lésion
+T3	expression_CIM 847 852	masse
+T4	morphologie 847 852	masse
+T5	morphologie 932 944	adénopathies
+T6	expression_CIM 932 976	adénopathies cervicales ou sus-claviculaires
+T7	topographie 945 955	cervicales
+T8	topographie 959 976	sus-claviculaires
+T9	expression_CIM 1112 1117	masse
+T10	morphologie 1112 1117	masse
+T11	morphologie 1256 1265	néoplasie
+T12	expression_CIM 1256 1275	néoplasie gastrique
+T13	topographie 1266 1275	gastrique
+T14	morphologie 1332 1346	adénocarcinome
+T15	expression_CIM 1332 1356	adénocarcinome gastrique
+T16	topographie 1347 1356	gastrique
+T17	expression_CIM 1371 1377	lésion
+T18	morphologie 1371 1377	lésion
+T19	morphologie 1509 1521	adénopathies
+T20	expression_CIM 1509 1566	adénopathies au niveau de la grande courbure de l'estomac
+T21	topographie 1538 1566	grande courbure de l'estomac
+T22	morphologie 1604 1609	masse
+T23	expression_CIM 1604 1620	masse annexielle
+T24	topographie 1610 1620	annexielle
+T25	morphologie 1655 1661	masses
+T26	expression_CIM 1655 1670	masses utérines
+T27	topographie 1662 1670	utérines
+T28	morphologie 1718 1726	fibromes
+T29	expression_CIM 1718 1734	fibromes utérins
+T30	topographie 1727 1734	utérins
+T31	expression_CIM 1764 1782	maladie à distance
+T32	morphologie 1764 1782	maladie à distance
+T33	expression_CIM 1907 1915	fibromes
+T34	morphologie 1907 1915	fibromes
+T35	morphologie 1990 1996	polype
+T36	expression_CIM 1990 2008	polype endométrial
+T37	topographie 1997 2008	endométrial
+T38	morphologie 2061 2075	Adénocarcinome
+T39	expression_CIM 2061 2085	Adénocarcinome gastrique
+T40	topographie 2076 2085	gastrique
+T41	morphologie 2105 2114	Myomatose
+T42	expression_CIM 2105 2122	Myomatose utérine
+T43	topographie 2115 2122	utérine
+T44	morphologie 2557 2612	adénocarcinome entéroïde, avec une composante mucineuse
+T45	expression_CIM 2557 2669	adénocarcinome entéroïde, avec une composante mucineuse de 20 %, de 4 x 2 cm de diamètre, modérément différencié
+T46	differenciation 2647 2669	modérément différencié
+T47	expression_CIM 2761 2766	myome
+T48	morphologie 2761 2766	myome
+T49	expression_CIM 2779 2788	léiomyome
+T50	morphologie 2779 2788	léiomyome
+T51	morphologie 3087 3095	fibromes
+T52	expression_CIM 3087 3103	fibromes utérins
+T53	topographie 3096 3103	utérins
+T54	morphologie 3299 3311	infiltration
+T55	expression_CIM 3299 3324	infiltration de l'endocol
+T56	topographie 3317 3324	endocol
+T57	expression_CIM 3332 3346	adénocarcinome
+T58	morphologie 3332 3346	adénocarcinome
+T59	expression_CIM 3379 3389	métastases
+T60	morphologie 3379 3389	métastases
+T61	morphologie 3395 3404	carcinome
+T62	expression_CIM 3395 3414	carcinome gastrique
+T63	topographie 3405 3414	gastrique
+T64	morphologie 3426 3440;3457 3493	adénocarcinome avec différenciation muco-sécrétoire
+T65	expression_CIM 3426 3493	adénocarcinome peu différencié avec différenciation muco-sécrétoire
+T66	differenciation 3441 3456	peu différencié
+T67	morphologie 3502 3512	léiomyomes
+T68	expression_CIM 3502 3520	léiomyomes utérins
+T69	topographie 3513 3520	utérins
+T70	morphologie 3630 3637	nodules
+T71	expression_CIM 3630 3649	nodules pulmonaires
+T72	topographie 3638 3649	pulmonaires
+T73	expression_CIM 3710 3720	métastases
+T74	morphologie 3710 3720	métastases
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.0 8000/1
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	C76.0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C16.9 8000/1
+#13	ICD-O T13	C16.9
+#14	ICD-O T14	8140/3
+#15	ICD-O T15	C16.9 8140/3
+#16	ICD-O T16	C16.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C77.2 8000/1
+#21	ICD-O T21	C16.6
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C56.9 8000/1
+#24	ICD-O T24	C56.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C55.9 8000/1
+#27	ICD-O T27	C55.9
+#28	ICD-O T28	8810/0
+#29	ICD-O T29	C55.9 8810/0
+#30	ICD-O T30	C55.9
+#31	ICD-O T31	8000/6
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	8810/0
+#34	ICD-O T34	8810/0
+#35	ICD-O T35	8210/1
+#36	ICD-O T37	C54.1
+#37	ICD-O T38	8140/3
+#38	ICD-O T39	C16.9 8140/3
+#39	ICD-O T40	C16.9
+#40	ICD-O T41	8890/1
+#41	ICD-O T42	C55.9 8890/1
+#42	ICD-O T43	C55.9
+#43	ICD-O T44	8144/3
+#44	ICD-O T45	8144/32
+#45	ICD-O T46	2
+#46	ICD-O T47	8895/0
+#47	ICD-O T48	8895/0
+#48	ICD-O T49	8890/0
+#49	ICD-O T50	8890/0
+#50	ICD-O T51	8810/0
+#51	ICD-O T52	C55.9 8810/0
+#52	ICD-O T53	C55.9
+#53	ICD-O T54	8000/1
+#54	ICD-O T55	C53.0 8000/1
+#55	ICD-O T56	C53.0
+#56	ICD-O T57	8140/3
+#57	ICD-O T58	8140/3
+#58	ICD-O T59	8000/6
+#59	ICD-O T60	8000/6
+#60	ICD-O T61	8010/3
+#61	ICD-O T62	C16.9 8010/3
+#62	ICD-O T63	C16.9
+#63	ICD-O T64	8481/3
+#64	ICD-O T65	8481/33
+#65	ICD-O T66	3
+#66	ICD-O T67	8890/0
+#67	ICD-O T68	C55.9 8890/0
+#68	ICD-O T69	C55.9
+#69	ICD-O T70	8000/1
+#70	ICD-O T71	C34.9 8000/1
+#71	ICD-O T72	C34.9
+#72	ICD-O T73	8000/6
+#73	ICD-O T74	8000/6

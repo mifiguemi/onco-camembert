@@ -1,0 +1,112 @@
+T29	topographie 3370 3383	extragonadale
+T1	morphologie 697 709	adénopathies
+T2	expression_CIM 697 748	adénopathies latérocervicales ou supraclaviculaires
+T3	topographie 710 726	latérocervicales
+T4	topographie 730 748	supraclaviculaires
+T5	morphologie 1357 1364	nodules
+T6	expression_CIM 1357 1376	nodules pulmonaires
+T7	topographie 1365 1376	pulmonaires
+T8	topographie 1488 1492	foie
+T9	expression_CIM 1488 1512	foie présente une tumeur
+T10	morphologie 1506 1512	tumeur
+T11	morphologie 1613 1620	nodules
+T12	expression_CIM 1613 1756	nodules d'un diamètre allant jusqu'à 25 mm, présentant des caractéristiques sémiologiques similaires et présents dans les deux lobes hépatiques
+T13	topographie 1740 1756	lobes hépatiques
+T14	morphologie 2010 2026	lymphadénopathie
+T15	expression_CIM 2010 2043	lymphadénopathie rétropéritonéale
+T16	topographie 2027 2043	rétropéritonéale
+T17	morphologie 2476 2483	lésions
+T18	expression_CIM 2476 2494	lésions hépatiques
+T19	topographie 2484 2494	hépatiques
+T20	expression_CIM 2570 2576	tumeur
+T21	morphologie 2570 2576	tumeur
+T22	expression_CIM 2972 2987	hépatocarcinome
+T23	morphologie 2972 2987	hépatocarcinome
+T24	expression_CIM 3314 3332	cholangiocarcinome
+T25	morphologie 3314 3332	cholangiocarcinome
+T26	morphologie 3340 3356	tumeur germinale
+T27	expression_CIM 3340 3383	tumeur germinale testiculaire extragonadale
+T28	topographie 3357 3369	testiculaire
+T30	morphologie 3448 3453	masse
+T31	expression_CIM 3448 3486	masse n'est palpable au niveau scrotal
+T33	expression_CIM 4121 4153	infiltration néoplasique maligne
+T34	morphologie 4121 4153	infiltration néoplasique maligne
+T35	expression_CIM 4215 4231	tumeur germinale
+T36	morphologie 4215 4231	tumeur germinale
+T37	expression_CIM 4670 4686	tumeur germinale
+T38	morphologie 4670 4686	tumeur germinale
+T39	morphologie 4696 4714	maladie secondaire
+T40	expression_CIM 4696 4748	maladie secondaire au niveau pulmonaire et hépatique
+T41	topographie 4725 4735	pulmonaire
+T42	topographie 4739 4748	hépatique
+T43	morphologie 4764 4770	tumeur
+T44	expression_CIM 4764 4793	tumeur au niveau testiculaire
+T45	topographie 4781 4793	testiculaire
+T46	morphologie 5070 5078	atteinte
+T47	expression_CIM 5070 5089	atteinte pulmonaire
+T48	topographie 5079 5089	pulmonaire
+T49	expression_CIM 5783 5808	progression de la maladie
+T50	morphologie 5783 5808	progression de la maladie
+T51	morphologie 5835 5842	lésions
+T52	expression_CIM 5835 5854	lésions pulmonaires
+T53	topographie 5843 5854	pulmonaires
+T54	morphologie 5903 5910	lésions
+T55	expression_CIM 5903 5921	lésions hépatiques
+T56	topographie 5911 5921	hépatiques
+T57	morphologie 6121 6134	carcinomatose
+T58	expression_CIM 6121 6146	carcinomatose péritonéale
+T59	topographie 6135 6146	péritonéale
+T32	topographie 3479 3486	scrotal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C34.9 8000/1
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	C22.0
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T13	C22.0
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	C77.2 8000/1
+#14	ICD-O T16	C48.0
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	C22.0 8000/1
+#17	ICD-O T19	C22.0
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8170/3
+#21	ICD-O T23	8170/3
+#22	ICD-O T24	8160/3
+#23	ICD-O T25	8160/3
+#24	ICD-O T26	9064/3
+#25	ICD-O T28	C62.9
+#26	ICD-O T30	8000/1
+#27	ICD-O T33	8000/6
+#28	ICD-O T34	8000/6
+#29	ICD-O T35	9064/3
+#30	ICD-O T36	9064/3
+#31	ICD-O T37	9064/3
+#32	ICD-O T38	9064/3
+#33	ICD-O T39	8000/6
+#34	ICD-O T40	C22.0 8000/6;C34.9 8000/6
+#35	ICD-O T41	C34.9
+#36	ICD-O T42	C22.0
+#37	ICD-O T43	8000/1
+#38	ICD-O T44	C62.9 8000/1
+#39	ICD-O T45	C62.9
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	C34.9 8000/1
+#42	ICD-O T48	C34.9
+#43	ICD-O T49	8000/1
+#44	ICD-O T50	8000/1
+#45	ICD-O T51	8000/1
+#46	ICD-O T52	C34.9 8000/1
+#47	ICD-O T53	C34.9
+#48	ICD-O T54	8000/1
+#49	ICD-O T55	C22.0 8000/1
+#50	ICD-O T56	C22.0
+#51	ICD-O T57	8010/9
+#52	ICD-O T58	C48.2 8010/9
+#53	ICD-O T59	C48.2

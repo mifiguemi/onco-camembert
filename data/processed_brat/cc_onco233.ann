@@ -1,0 +1,25 @@
+T1	morphologie 268 274	cancer
+T3	topographie 278 284	poumon
+T4	morphologie 344 350	cancer
+T6	topographie 354 358	sein
+T7	morphologie 1727 1733	tumeur
+T9	topographie 1734 1744	ombilicale
+T11	morphologie 2017 2023	nodule
+T13	morphologie 2050 2059	métastase
+T14	morphologie 2063 2079	carcinome séreux
+T16	topographie 2080 2087	ovarien
+T17	differenciation 2091 2101	haut grade
+T18	morphologie 2813 2818	masse
+T20	topographie 2819 2829	annexielle
+T22	morphologie 2879 2900	processus néoformatif
+T23	morphologie 2961 2969	implants
+T25	topographie 2978 2992	grand épiploon
+T26	topographie 3005 3028	coupole diaphragmatique
+T28	morphologie 3081 3087	lésion
+T30	topographie 3088 3097	splénique
+T31	morphologie 3468 3477	Carcinome
+T37	morphologie 3486 3492	séreux
+T33	topographie 3478 3485	ovarien
+T34	differenciation 3496 3506	haut grade
+T36	morphologie 3510 3518	stade IV
+T27	topographie 3041 3054	périhépatique

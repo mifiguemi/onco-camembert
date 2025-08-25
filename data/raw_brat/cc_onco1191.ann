@@ -1,0 +1,66 @@
+T1	morphologie 471 483	Adénopathies
+T2	expression_CIM 471 492	Adénopathies hilaires
+T3	topographie 484 492	hilaires
+T4	morphologie 593 599	nodule
+T5	expression_CIM 593 603	nodule LSI
+T6	topographie 600 603	LSI
+T7	morphologie 613 624	adénopathie
+T8	expression_CIM 613 632	adénopathie hilaire
+T9	topographie 625 632	hilaire
+T10	morphologie 661 672	adénopathie
+T11	expression_CIM 661 680	adénopathie hilaire
+T12	topographie 673 680	hilaire
+T13	morphologie 946 957	adénopathie
+T14	expression_CIM 946 965	adénopathie hilaire
+T15	topographie 958 965	hilaire
+T16	morphologie 1029 1043	adénocarcinome
+T17	expression_CIM 1029 1086	adénocarcinome pulmonaire de 4 cm, modérément différencié
+T18	topographie 1044 1054	pulmonaire
+T19	differenciation 1064 1086	modérément différencié
+T20	morphologie 1231 1241	métastases
+T21	expression_CIM 1231 1302	métastases dans 0/8 des ganglions lymphatiques hilaires et médiastinaux
+T22	topographie 1255 1302	ganglions lymphatiques hilaires et médiastinaux
+T23	morphologie 1337 1346;1358 1422	Carcinome non à petites cellules (CBNPC) de sous-type bronchioloalvéolaire
+T24	expression_CIM 1337 1422	Carcinome bronchique non à petites cellules (CBNPC) de sous-type bronchioloalvéolaire
+T25	topographie 1347 1357	bronchique
+T26	expression_CIM 1626 1632	tumeur
+T27	morphologie 1626 1632	tumeur
+T28	expression_CIM 1914 1920	tumeur
+T29	morphologie 1914 1920	tumeur
+T30	morphologie 1947 1958	Progression
+T31	expression_CIM 1947 1969	Progression pulmonaire
+T32	topographie 1959 1969	pulmonaire
+T33	expression_CIM 2131 2158	stabilisation de la maladie
+T34	morphologie 2131 2158	stabilisation de la maladie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.1 8000/1
+#3	ICD-O T3	C76.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C34.1 8000/1
+#6	ICD-O T6	C34.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.1 8000/1
+#9	ICD-O T9	C76.1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.1 8000/1
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C77.1 8000/1
+#15	ICD-O T15	C76.1
+#16	ICD-O T16	8140/3
+#17	ICD-O T17	C34.9 8140/32
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	2
+#20	ICD-O T20	8000/6
+#21	ICD-O T22	C77.1 
+#22	ICD-O T23	8046/3
+#23	ICD-O T25	C34.9
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	C34.9 8000/6
+#30	ICD-O T32	C34.9
+#31	ICD-O T33	8000/6
+#32	ICD-O T34	8000/6

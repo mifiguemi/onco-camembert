@@ -1,0 +1,18 @@
+T1	morphologie 174 180	Tumeur
+T3	topographie 187 193	vessie
+T4	differenciation 195 201	PTA G2
+T6	morphologie 250 258	récidive
+T8	morphologie 1221 1237	maladie tumorale
+T10	morphologie 1368 1387	maladie néoplasique
+T11	morphologie 2097 2102	masse
+T13	topographie 2111 2120	médiastin
+T14	morphologie 2291 2313	masse hypermétabolique
+T17	morphologie 2425 2453	Carcinome à petites cellules
+T19	morphologie 2474 2482	primitif
+T20	topographie 2483 2493	pulmonaire
+T21	morphologie 2789 2798	Carcinome
+T27	morphologie 2810 2828	à petites cellules
+T23	topographie 2799 2809	pulmonaire
+T24	morphologie 3267 3272	masse
+T26	topographie 3273 3285	médiastinale
+T16	topographie 2336 2362	médiastin antéro-supérieur

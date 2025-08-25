@@ -1,0 +1,108 @@
+T1	morphologie 125 145	carcinome papillaire
+T2	expression_CIM 125 153	carcinome papillaire du rein
+T3	topographie 149 153	rein
+T4	morphologie 231 237	nodule
+T5	expression_CIM 231 297	nodule pulmonaire de 2,5 cm a été visualisé dans le lobe supérieur
+T6	topographie 238 248;283 297	pulmonaire lobe supérieur
+T7	morphologie 447 461	adénocarcinome
+T8	expression_CIM 447 472	adénocarcinome pulmonaire
+T9	topographie 462 472	pulmonaire
+T10	expression_CIM 476 484	stade IV
+T11	morphologie 476 484	stade IV
+T12	morphologie 501 509	atteinte
+T13	expression_CIM 501 517	atteinte osseuse
+T14	topographie 510 517	osseuse
+T15	morphologie 1477 1483	nodule
+T16	expression_CIM 1477 1534	nodule pulmonaire cavité de 2,5 cm dans le lobe supérieur
+T17	topographie 1484 1494	pulmonaire
+T18	topographie 1520 1534	lobe supérieur
+T19	morphologie 1630 1639	captation
+T20	expression_CIM 1630 1672	captation dans le lobe supérieur du poumon
+T21	topographie 1648 1672	lobe supérieur du poumon
+T22	expression_CIM 1859 1876	cellules malignes
+T23	morphologie 1859 1876	cellules malignes
+T24	expression_CIM 1897 1911	adénocarcinome
+T25	morphologie 1897 1911	adénocarcinome
+T26	expression_CIM 2082 2088	foyers
+T27	morphologie 2082 2088	foyers
+T28	expression_CIM 2270 2294	dissémination secondaire
+T29	morphologie 2270 2294	dissémination secondaire
+T30	morphologie 2296 2309	carcinomatose
+T31	expression_CIM 2296 2323	carcinomatose leptoméningée
+T32	topographie 2310 2323	leptoméningée
+T33	expression_CIM 2485 2491	foyers
+T34	morphologie 2485 2491	foyers
+T35	expression_CIM 2550 2557	lésions
+T36	morphologie 2550 2557	lésions
+T37	morphologie 2573 2593	Carcinome papillaire
+T38	expression_CIM 2573 2601	Carcinome papillaire du rein
+T39	topographie 2597 2601	rein
+T40	morphologie 2647 2661	Adénocarcinome
+T41	expression_CIM 2647 2671	Adénocarcinome du poumon
+T42	topographie 2665 2671	poumon
+T43	expression_CIM 2691 2699	stade IV
+T44	morphologie 2691 2699	stade IV
+T45	morphologie 2768 2781	carcinomatose
+T46	expression_CIM 2768 2795	carcinomatose leptoméningée
+T47	topographie 2782 2795	leptoméningée
+T48	morphologie 3058 3072	adénocarcinome
+T49	expression_CIM 3058 3083	adénocarcinome pulmonaire
+T50	topographie 3073 3083	pulmonaire
+T51	expression_CIM 3087 3095	stade IV
+T52	morphologie 3087 3095	stade IV
+T53	morphologie 3576 3589	carcinomatose
+T54	expression_CIM 3576 3598	carcinomatose méningée
+T55	topographie 3590 3598	méningée
+#1	ICD-O T1	8050/3
+#2	ICD-O T2	C64.9 8050/3
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C34.1
+#6	ICD-O T7	8140/3
+#7	ICD-O T8	C34.9 8140/3
+#8	ICD-O T9	C34.9
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C41.9 8000/1
+#13	ICD-O T14	C41.9
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C34.1 8000/1;C34.9 8000/1
+#16	ICD-O T17	C34.9
+#17	ICD-O T18	C34.1
+#18	ICD-O T19	8000/1
+#19	ICD-O T21	C34.1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8140/3
+#23	ICD-O T25	8140/3
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/6
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	8010/9
+#29	ICD-O T31	C70.9 8010/9
+#30	ICD-O T32	C70.9
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	8050/3
+#36	ICD-O T38	C64.9 8050/3
+#37	ICD-O T39	C64.9
+#38	ICD-O T40	8140/3
+#39	ICD-O T41	C34.9 8140/3
+#40	ICD-O T42	C34.9
+#41	ICD-O T43	8000/6
+#42	ICD-O T44	8000/6
+#43	ICD-O T45	8010/9
+#44	ICD-O T46	C70.9 8010/9
+#45	ICD-O T47	C70.9
+#46	ICD-O T48	8140/3
+#47	ICD-O T49	C34.9 8140/3
+#48	ICD-O T50	C34.9
+#49	ICD-O T51	8000/6
+#50	ICD-O T52	8000/6
+#51	ICD-O T53	8010/9
+#52	ICD-O T54	C70.9 8010/9
+#53	ICD-O T55	C70.9

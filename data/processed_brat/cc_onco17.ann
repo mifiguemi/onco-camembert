@@ -1,0 +1,19 @@
+T2	morphologie 117 123	cancer
+T3	morphologie 602 610	atteinte
+T5	topographie 624 657	ganglions lymphatiques axillaires
+T6	morphologie 2116 2123	lésions
+T8	topographie 2124 2139	endobronchiques
+T9	morphologie 2192 2208	lymphadénopathie
+T11	topographie 2209 2218	axillaire
+T12	morphologie 2334 2340	tumeur
+T14	topographie 2341 2355	endobronchique
+T17	morphologie 2396 2402	tumeur
+T19	morphologie 2466 2475	carcinome
+T20	morphologie 2552 2558	tumeur
+T29	morphologie 2568 2576	primaire
+T22	topographie 2559 2567	mammaire
+T23	morphologie 2667 2670	IDC
+T25	topographie 2674 2678	sein
+T26	morphologie 2755 2765	métastases
+T28	topographie 2766 2781	endobronchiques
+T15	topographie 2385 2388	LMD

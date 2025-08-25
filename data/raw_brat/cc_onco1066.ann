@@ -1,0 +1,99 @@
+T1	morphologie 891 896	Masse
+T2	expression_CIM 891 930	Masse palpable dans la région axillaire
+T3	topographie 921 930	axillaire
+T4	morphologie 959 970	Adénopathie
+T5	expression_CIM 959 1023	Adénopathie palpable supraclaviculaire gauche et latérocervicale
+T6	topographie 980 997	supraclaviculaire
+T7	topographie 1008 1023	latérocervicale
+T8	expression_CIM 1364 1373	métastase
+T9	morphologie 1364 1373	métastase
+T10	morphologie 1377 1386	carcinome
+T11	expression_CIM 1377 1421	carcinome indifférencié d'origine incertaine
+T12	differenciation 1387 1400	indifférencié
+T13	topographie 1403 1421	origine incertaine
+T14	morphologie 1589 1601	adénopathies
+T15	expression_CIM 1589 1684	adénopathies infraclaviculaires gauches (15 mm), paratrachéales droites (11 mm) et subcarinales
+T16	topographie 1602 1620	infraclaviculaires
+T17	topographie 1638 1652	paratrachéales
+T19	morphologie 1755 1760	masse
+T20	expression_CIM 1755 1769	masse mammaire
+T21	topographie 1761 1769	mammaire
+T22	expression_CIM 1816 1825	malignité
+T23	morphologie 1816 1825	malignité
+T24	morphologie 1841 1849	atteinte
+T25	expression_CIM 1841 1968	atteinte lymphatique étendue (axillaire, rétropectorale, mammaire interne, supra/infraclaviculaire ipsilatérale et médiastinale
+T26	topographie 1850 1861;1871 1968	lymphatique axillaire, rétropectorale, mammaire interne, supra/infraclaviculaire ipsilatérale et médiastinale
+T27	morphologie 2015 2024	carcinome
+T28	expression_CIM 2015 2033	carcinome mammaire
+T29	topographie 2025 2033	mammaire
+T30	morphologie 2078 2087	Carcinome
+T31	expression_CIM 2078 2133	Carcinome métastatique indifférencié d'origine inconnue
+T32	differenciation 2101 2114	indifférencié
+T33	topographie 2117 2133	origine inconnue
+T34	morphologie 2173 2181	atteinte
+T35	expression_CIM 2173 2269	atteinte axillaire gauche, supraclaviculaire, médiastinale bilatérale et triple négative du sein
+T36	topographie 2182 2191	axillaire
+T37	topographie 2200 2217	supraclaviculaire
+T38	topographie 2219 2231	médiastinale
+T39	topographie 2265 2269	sein
+T40	topographie 2616 2624	mammaire
+T41	expression_CIM 2616 2646	mammaire probable de la tumeur
+T42	morphologie 2640 2646	tumeur
+T43	morphologie 2937 2949	adénopathies
+T44	expression_CIM 2937 2973	adénopathies dans la chaîne mammaire
+T45	topographie 2958 2973	chaîne mammaire
+T46	morphologie 2985 3012	stabilisation de la maladie
+T47	expression_CIM 2985 3040	stabilisation de la maladie au niveau supraclaviculaire
+T48	topographie 3023 3040	supraclaviculaire
+T49	expression_CIM 3741 3748	nodules
+T50	morphologie 3741 3748	nodules
+T51	expression_CIM 4081 4104	carcinome inflammatoire
+T52	morphologie 4081 4104	carcinome inflammatoire
+T18	topographie 1672 1684	subcarinales
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.1 8000/1
+#3	ICD-O T3	C76.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8010/3
+#11	ICD-O T11	C80.9 8010/34
+#12	ICD-O T12	4
+#13	ICD-O T13	C80.9
+#14	ICD-O T14	8000/1
+#15	ICD-O T16	C76.1
+#16	ICD-O T17	C33.9
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	C50.9 8000/1
+#19	ICD-O T21	C50.9
+#20	ICD-O T23	tocheck
+#21	ICD-O T24	8000/9
+#22	ICD-O T25	C38.3 8000/1;C49.9 8000/1;C50.9 8000/1;C76.1 8000/1;C76.8 8000/1
+#23	ICD-O T26	C77.3
+#24	ICD-O T27	8010/3
+#25	ICD-O T28	C50.9 8010/3
+#26	ICD-O T29	C50.9
+#27	ICD-O T30	8010/3
+#28	ICD-O T32	4
+#29	ICD-O T33	C80.9
+#30	ICD-O T34	8000/9
+#31	ICD-O T35	C38.3 8000/1;C50.9 8000/1;C76.0 8000/1;C76.1 8000/1
+#32	ICD-O T36	C76.1
+#33	ICD-O T37	C76.0
+#34	ICD-O T38	C38.3
+#35	ICD-O T39	C50.9
+#36	ICD-O T40	C50.9
+#37	ICD-O T42	8000/3
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	C77.1 8000/1
+#40	ICD-O T45	C77.1
+#41	ICD-O T46	8000/9
+#42	ICD-O T47	C76.0 8000/6
+#43	ICD-O T48	C76.0
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	8000/1
+#46	ICD-O T51	8530/3
+#47	ICD-O T52	8530/3

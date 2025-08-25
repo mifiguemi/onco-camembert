@@ -1,0 +1,52 @@
+T1	morphologie 150 159	carcinome
+T3	topographie 163 178	col de l'utérus
+T4	morphologie 223 232	néoplasie
+T6	topographie 233 241	génitale
+T7	morphologie 1194 1200	cancer
+T9	topographie 1204 1208	sein
+T10	morphologie 1363 1371	grosseur
+T12	topographie 1420 1428	aisselle
+T14	morphologie 1894 1905	adénopathie
+T15	morphologie 2184 2190	dureté
+T17	topographie 2209 2232	quadrant supéro-externe
+T19	morphologie 2291 2298	duretés
+T20	morphologie 2954 2969	image nodulaire
+T24	morphologie 3167 3179	adénopathies
+T25	morphologie 3269 3279	métastases
+T27	topographie 3314 3323	axillaire
+T28	topographie 3477 3517	quadrant supérieur externe (EOC) du sein
+T30	morphologie 3565 3585	rehaussement intense
+T31	morphologie 3735 3741	lésion
+T33	topographie 3800 3804	sein
+T34	morphologie 3832 3858	adénopathies métastatiques
+T37	morphologie 3928 3940	infiltration
+T39	topographie 3944 3959	muscle pectoral
+T40	morphologie 4081 4097	lymphadénopathie
+T42	topographie 4123 4146	chaîne mammaire interne
+T43	morphologie 4242 4250	atteinte
+T79	morphologie 4272 4284	métastatique
+T45	topographie 4303 4336	ganglions lymphatiques axillaires
+T46	topographie 4358 4379	chaîne rétropectorale
+T48	morphologie 4522 4552	carcinome lobulaire infiltrant
+T50	morphologie 4568 4586	cellules tumorales
+T51	topographie 4677 4707	ganglion lymphatique axillaire
+T53	morphologie 4717 4726	métastase
+T55	morphologie 4732 4741	carcinome
+T57	morphologie 4863 4881	cellules tumorales
+T59	morphologie 4943 4961	cellules tumorales
+T60	morphologie 5089 5095	lésion
+T62	morphologie 5116 5125	métastase
+T63	morphologie 5156 5186	Carcinome lobulaire infiltrant
+T65	topographie 5190 5194	sein
+T67	morphologie 5347 5363	lymphadénopathie
+T69	topographie 5364 5378	rétropectorale
+T70	morphologie 5393 5409	lymphadénopathie
+T72	topographie 5410 5426	mammaire interne
+T74	morphologie 5456 5477	métastases à distance
+T77	topographie 6982 6990	aisselle
+T78	morphologie 7024 7030	dureté
+T22	topographie 2991 3007	région axillaire
+T36	topographie 3867 3883	région axillaire
+T66	topographie 5208 5222	sein axillaire
+T80	topographie 5230 5242	surnuméraire
+T75	topographie 6962 6979	sein surnuméraire

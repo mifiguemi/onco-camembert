@@ -1,0 +1,50 @@
+T14	topographie 924 939	sous-carénaires
+T1	morphologie 694 706	micronodules
+T2	expression_CIM 694 726	micronodules dans les LID et LII
+T3	topographie 716 719	LID
+T4	topographie 723 726	LII
+T5	morphologie 744 756	adénopathies
+T6	expression_CIM 744 830	adénopathies cervicales, supraclaviculaires, axillaires, pré-vasculaires, parahilaires
+T7	topographie 757 767	cervicales
+T8	topographie 769 787	supraclaviculaires
+T9	topographie 789 799	axillaires
+T10	topographie 801 816	pré-vasculaires
+T11	topographie 818 830	parahilaires
+T12	morphologie 886 923	conglomérat de ganglions lymphatiques
+T13	expression_CIM 886 939	conglomérat de ganglions lymphatiques sous-carénaires
+T15	expression_CIM 1338 1344	lésion
+T16	morphologie 1338 1344	lésion
+T17	morphologie 1365 1376	adénopathie
+T18	expression_CIM 1365 1386	adénopathie axillaire
+T19	topographie 1377 1386	axillaire
+T20	expression_CIM 1431 1440	métastase
+T21	morphologie 1431 1440	métastase
+T22	expression_CIM 1441 1444	ADC
+T23	morphologie 1441 1444	ADC
+T24	morphologie 1464 1472	primitif
+T25	expression_CIM 1464 1483	primitif pulmonaire
+T26	topographie 1473 1483	pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.3 8000/1
+#3	ICD-O T3	C34.3
+#4	ICD-O T4	C34.3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.0 8000/1;C77.1 8000/1;C77.3 8000/1
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	C76.0
+#9	ICD-O T9	C76.1
+#10	ICD-O T10	C49.8
+#11	ICD-O T11	C76.1
+#12	ICD-O T12	tocheck
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	C77.3 8000/1
+#17	ICD-O T19	C76.1
+#18	ICD-O T20	8000/6
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8140/3
+#21	ICD-O T23	8140/3
+#22	ICD-O T24	8000/3
+#23	ICD-O T25	C34.9 8000/3
+#24	ICD-O T26	C34.9

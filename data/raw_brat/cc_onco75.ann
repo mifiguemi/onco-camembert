@@ -1,0 +1,106 @@
+T16	topographie 1692 1714	creux sus-claviculaire
+T21	topographie 1910 1943	jonction des quadrants inférieurs
+T14	topographie 1643 1659	région axillaire
+T15	topographie 1664 1685	région sous-pectorale
+T1	morphologie 159 189	hyperplasie canalaire atypique
+T2	expression_CIM 159 197	hyperplasie canalaire atypique du sein
+T3	topographie 193 197	sein
+T4	expression_CIM 334 342	fibromes
+T5	morphologie 334 342	fibromes
+T6	morphologie 584 616;627 630	lésions d'occupation de l'espace LOE
+T7	expression_CIM 584 631	lésions d'occupation de l'espace cérébral (LOE)
+T8	topographie 617 625	cérébral
+T9	morphologie 1158 1165	lésions
+T10	expression_CIM 1158 1183	lésions supratentorielles
+T11	topographie 1166 1183	supratentorielles
+T12	morphologie 1583 1607;1740 1762	adénopathie pathologique d'origine métastatique
+T13	expression_CIM 1583 1762	adénopathie pathologique avec des signes de nécrose dans la région axillaire, la région sous-pectorale et le creux sus-claviculaire droit, qui semblait être d'origine métastatique
+T17	expression_CIM 1783 1802	atteinte à distance
+T18	morphologie 1783 1802	atteinte à distance
+T19	morphologie 1860 1866	nodule
+T20	expression_CIM 1860 1943	nodule solide de 1 cm de diamètre au niveau de la jonction des quadrants inférieurs
+T22	expression_CIM 2009 2035	adénopathies pathologiques
+T23	morphologie 2009 2035	adénopathies pathologiques
+T24	morphologie 2290 2301	adénopathie
+T25	expression_CIM 2290 2311	adénopathie axillaire
+T26	topographie 2302 2311	axillaire
+T27	morphologie 2348 2368	carcinome infiltrant
+T28	expression_CIM 2348 2387	carcinome infiltrant d'origine mammaire
+T29	topographie 2379 2387	mammaire
+T30	morphologie 5444 5451	nodules
+T31	expression_CIM 5444 5525	nodules subcentimétriques mal définis d'apparence nouvelle dans le lobe supérieur
+T32	topographie 5511 5525	lobe supérieur
+T33	morphologie 6185 6191	cancer
+T34	expression_CIM 6185 6199	cancer du sein
+T35	topographie 6195 6199	sein
+T36	expression_CIM 6203 6211	stade IV
+T37	morphologie 6203 6211	stade IV
+T38	morphologie 6213 6223	métastases
+T39	expression_CIM 6213 6234	métastases cérébrales
+T40	topographie 6224 6234	cérébrales
+T41	morphologie 7785 7815	carcinome canalaire infiltrant
+T42	expression_CIM 7785 7839	carcinome canalaire infiltrant peu différencié du sein
+T43	differenciation 7816 7831	peu différencié
+T44	topographie 7835 7839	sein
+T45	morphologie 7856 7864	invasion
+T46	expression_CIM 7856 7887	invasion vasculaire lymphatique
+T48	expression_CIM 8013 8031	cellules tumorales
+T49	morphologie 8013 8031	cellules tumorales
+T50	morphologie 8061 8071	métastases
+T51	expression_CIM 8061 8176	métastases microscopiques dans le foie, la rate, les reins, les glandes surrénales, la moelle osseuse et le cerveau
+T52	topographie 8095 8099	foie
+T53	topographie 8104 8108	rate
+T54	topographie 8114 8119	reins
+T55	topographie 8125 8143	glandes surrénales
+T56	topographie 8148 8162	moelle osseuse
+T57	topographie 8169 8176	cerveau
+T47	topographie 7865 7887	vasculaire lymphatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C50.9
+#3	ICD-O T4	8810/0
+#4	ICD-O T5	8810/0
+#5	ICD-O T6	8000/1
+#6	ICD-O T8	C71.9
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	C71.0 8000/1
+#9	ICD-O T11	C71.0
+#10	ICD-O T12	8000/6
+#11	ICD-O T17	8000/6
+#12	ICD-O T18	8000/6
+#13	ICD-O T19	8000/1
+#14	ICD-O T22	C77.9 8000/1
+#15	ICD-O T23	8000/6
+#16	ICD-O T24	8000/1
+#17	ICD-O T25	C77.3 8000/1
+#18	ICD-O T26	C76.1
+#19	ICD-O T27	8010/3
+#20	ICD-O T28	C50.9 8010/3
+#21	ICD-O T29	C50.9
+#22	ICD-O T30	8000/1
+#23	ICD-O T31	C34.1 8000/1
+#24	ICD-O T32	C34.1
+#25	ICD-O T33	8000/3
+#26	ICD-O T34	C50.9 8000/3
+#27	ICD-O T35	C50.9
+#28	ICD-O T36	8000/6
+#29	ICD-O T37	8000/6
+#30	ICD-O T38	8000/6
+#31	ICD-O T39	C71.0 8000/6
+#32	ICD-O T40	C71.9
+#33	ICD-O T41	8500/3
+#34	ICD-O T42	C50.9 8500/33
+#35	ICD-O T43	3
+#36	ICD-O T44	C50.9
+#37	ICD-O T45	8000/9
+#38	ICD-O T46	C49.9 8000/1
+#39	ICD-O T48	8001/1
+#40	ICD-O T49	8001/3
+#41	ICD-O T50	8000/6
+#42	ICD-O T51	C22.0 8000/6;C42.1 8000/6;C42.2 8000/6;C64.9 8000/6;C71.0 8000/6;C74.9 8000/6
+#43	ICD-O T52	C22.0
+#44	ICD-O T53	C42.2
+#45	ICD-O T54	C64.9
+#46	ICD-O T55	C74.9
+#47	ICD-O T56	C42.1
+#48	ICD-O T57	C71.9
+#49	AnnotatorNotes T6	trad

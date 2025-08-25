@@ -1,0 +1,179 @@
+T6	topographie 685 688	œil
+T14	topographie 2001 2037	plancher antérieur du globe oculaire
+T1	morphologie 293 309	hémangioblastome
+T2	expression_CIM 293 321	hémangioblastome cérébelleux
+T3	topographie 310 321	cérébelleux
+T4	morphologie 644 650	lésion
+T5	expression_CIM 644 688	lésion dans le quadrant inféronasal de l'œil
+T7	expression_CIM 1073 1079	masses
+T8	morphologie 1073 1079	masses
+T9	morphologie 1675 1680	masse
+T10	expression_CIM 1675 1696	masse sous-rétinienne
+T11	topographie 1681 1696	sous-rétinienne
+T12	morphologie 1927 1933	lésion
+T13	expression_CIM 1927 2037	lésion focale mesurant environ 10,9 x 9,5 x 6,4 cm a été observée dans le plancher antérieur du globe oculaire
+T15	morphologie 2352 2374	lésion tumorale solide
+T16	expression_CIM 2352 2393	lésion tumorale solide d'origine inconnue
+T17	topographie 2377 2393	origine inconnue
+T18	expression_CIM 2433 2443	hémangiome
+T19	morphologie 2433 2443	hémangiome
+T20	expression_CIM 2478 2502	foyers hypermétaboliques
+T21	morphologie 2478 2502	foyers hypermétaboliques
+T22	morphologie 2503 2537	évocateurs d'une activité tumorale
+T23	expression_CIM 2503 2622	évocateurs d'une activité tumorale ont été observés au niveau du globe oculaire gauche, de la surrénale gauche, du rein
+T24	topographie 2568 2582	globe oculaire
+T25	topographie 2597 2606	surrénale
+T26	topographie 2618 2622	rein
+T27	morphologie 2646 2658	micronodules
+T28	expression_CIM 2646 2670	micronodules pulmonaires
+T29	topographie 2659 2670	pulmonaires
+T30	expression_CIM 2777 2798	processus néoplasique
+T31	morphologie 2777 2798	processus néoplasique
+T32	morphologie 2838 2850	micronodules
+T33	expression_CIM 2838 2862	micronodules pulmonaires
+T34	topographie 2851 2862	pulmonaires
+T35	expression_CIM 2939 2948	métastase
+T36	morphologie 2939 2948	métastase
+T37	morphologie 2954 2963;2970 2988	carcinome à cellules claires
+T38	expression_CIM 2954 2988	carcinome rénal à cellules claires
+T39	topographie 2964 2969	rénal
+T40	morphologie 3002 3011;3018 3036	Carcinome à cellules claires
+T41	expression_CIM 3002 3036	Carcinome rénal à cellules claires
+T42	topographie 3012 3017	rénal
+T43	morphologie 3107 3114	lésions
+T44	expression_CIM 3107 3126	lésions pulmonaires
+T45	topographie 3115 3126	pulmonaires
+T46	morphologie 3179 3187	primitif
+T47	expression_CIM 3179 3193	primitif rénal
+T48	topographie 3188 3193	rénal
+T49	morphologie 3199 3208	métastase
+T50	expression_CIM 3199 3222	métastase surrénalienne
+T51	topographie 3209 3222	surrénalienne
+T52	morphologie 3226 3234	primitif
+T53	expression_CIM 3226 3246	primitif surrénalien
+T54	topographie 3235 3246	surrénalien
+T55	morphologie 3402 3408	lésion
+T56	expression_CIM 3402 3432	lésion rénale et surrénalienne
+T57	topographie 3409 3415	rénale
+T58	topographie 3419 3432	surrénalienne
+T59	morphologie 3461 3470;3477 3495	carcinome à cellules claires
+T60	expression_CIM 3461 3495	carcinome rénal à cellules claires
+T61	topographie 3471 3476	rénal
+T62	expression_CIM 3597 3615	maladie à distance
+T63	morphologie 3597 3615	maladie à distance
+T64	morphologie 3617 3632	lésion tumorale
+T65	expression_CIM 3617 3645	lésion tumorale choroïdienne
+T66	topographie 3633 3645	choroïdienne
+T67	morphologie 3694 3706	micronodules
+T68	expression_CIM 3694 3718	micronodules pulmonaires
+T69	topographie 3707 3718	pulmonaires
+T70	morphologie 3993 3999;4013 4019	tumeur solide
+T71	expression_CIM 3993 4019	tumeur choroïdienne solide
+T72	topographie 4000 4012	choroïdienne
+T73	morphologie 4073 4082	métastase
+T74	expression_CIM 4073 4095	métastase choroïdienne
+T75	topographie 4083 4095	choroïdienne
+T76	morphologie 4103 4109	cancer
+T77	expression_CIM 4103 4117	cancer du rein
+T78	topographie 4113 4117	rein
+T79	morphologie 4557 4569	micronodules
+T80	expression_CIM 4557 4581	micronodules pulmonaires
+T81	topographie 4570 4581	pulmonaires
+T82	morphologie 4592 4598	tumeur
+T83	expression_CIM 4592 4611	tumeur choroïdienne
+T84	topographie 4599 4611	choroïdienne
+T85	morphologie 4636 4642	tumeur
+T86	expression_CIM 4636 4655	tumeur choroïdienne
+T87	topographie 4643 4655	choroïdienne
+T88	morphologie 4733 4749	hémangioblastome
+T89	expression_CIM 4733 4761	hémangioblastome cérébelleux
+T90	topographie 4750 4761	cérébelleux
+T91	morphologie 4786 4792	tumeur
+T92	expression_CIM 4786 4799	tumeur rénale
+T93	topographie 4793 4799	rénale
+#1	ICD-O T1	9161/1
+#2	ICD-O T2	C71.6 9161/1
+#3	ICD-O T3	C71.6
+#4	ICD-O T4	8000/1
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	C76.0 8000/1
+#9	ICD-O T11	C76.0
+#10	ICD-O T12	8000/1
+#11	ICD-O T15	8000/3
+#12	ICD-O T16	C80.9 8000/3
+#13	ICD-O T17	C80.9
+#14	ICD-O T18	9120/0
+#15	ICD-O T19	9120/0
+#16	ICD-O T21	8000/9
+#17	ICD-O T22	8000/9
+#18	ICD-O T24	C69.4
+#19	ICD-O T25	C74.9
+#20	ICD-O T26	C64.9
+#21	ICD-O T27	8000/1
+#22	ICD-O T28	C34.9 8000/1
+#23	ICD-O T29	C34.9
+#24	ICD-O T30	8000/3
+#25	ICD-O T31	8000/3
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	C34.9 8000/1
+#28	ICD-O T34	C34.9
+#29	ICD-O T35	8000/6
+#30	ICD-O T36	8000/6
+#31	ICD-O T37	8310/3
+#32	ICD-O T38	C64.9 8310/3
+#33	ICD-O T39	C64.9
+#34	ICD-O T40	8310/3
+#35	ICD-O T41	C64.9 8310/3
+#36	ICD-O T42	C64.9
+#37	ICD-O T43	8000/1
+#38	ICD-O T44	C34.9 8000/1
+#39	ICD-O T45	C34.9
+#40	ICD-O T46	8000/3
+#41	ICD-O T47	C64.9 8000/3
+#42	ICD-O T48	C64.9
+#43	ICD-O T49	8000/6
+#44	ICD-O T50	C74.9 8000/6
+#45	ICD-O T51	C74.9
+#46	ICD-O T52	8000/3
+#47	ICD-O T53	C74.9 8000/3
+#48	ICD-O T54	C74.9
+#49	ICD-O T55	8000/1
+#50	ICD-O T56	C64.9 8000/1;C74.9 8000/1
+#51	ICD-O T57	C64.9
+#52	ICD-O T58	C74.9
+#53	ICD-O T59	8310/3
+#54	ICD-O T60	C64.9 8310/3
+#55	ICD-O T61	C64.9
+#56	ICD-O T62	8000/6
+#57	ICD-O T63	8000/6
+#58	ICD-O T64	8000/3
+#59	ICD-O T65	C69.3 8000/3
+#60	ICD-O T66	C69.3
+#61	ICD-O T67	8000/1
+#62	ICD-O T68	C34.9 8000/1
+#63	ICD-O T69	C34.9
+#64	ICD-O T70	8000/3
+#65	ICD-O T71	C69.3 8000/3
+#66	ICD-O T72	C69.3
+#67	ICD-O T73	8000/6
+#68	ICD-O T75	C69.3
+#69	ICD-O T76	8000/3
+#70	ICD-O T77	C64.9 8000/3
+#71	ICD-O T78	C64.9
+#72	ICD-O T79	8000/1
+#73	ICD-O T80	C34.9 8000/1
+#74	ICD-O T81	C34.9
+#75	ICD-O T82	8000/1
+#76	ICD-O T83	C69.3 8000/1
+#77	ICD-O T84	C69.3
+#78	ICD-O T85	8000/1
+#79	ICD-O T86	C69.3 8000/1
+#80	ICD-O T87	C69.3
+#81	ICD-O T88	9161/1
+#82	ICD-O T89	C71.6 9161/1
+#83	ICD-O T90	C71.6
+#84	ICD-O T91	8000/1
+#85	ICD-O T92	C64.9 8000/1
+#86	ICD-O T93	C64.9

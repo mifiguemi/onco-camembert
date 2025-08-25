@@ -1,0 +1,60 @@
+T1	morphologie 293 302	carcinome
+T2	expression_CIM 293 315	carcinome de la glotte
+T3	topographie 309 315	glotte
+T4	morphologie 531 545	adénocarcinome
+T5	expression_CIM 531 554	adénocarcinome du cæcum
+T6	topographie 549 554	cæcum
+T7	morphologie 560 573	dissémination
+T8	expression_CIM 560 583	dissémination hépatique
+T9	topographie 574 583	hépatique
+T10	expression_CIM 600 607	lésions
+T11	morphologie 600 607	lésions
+T12	expression_CIM 696 712	maladie primaire
+T13	morphologie 696 712	maladie primaire
+T14	morphologie 722 729	maladie
+T15	expression_CIM 722 739	maladie hépatique
+T16	topographie 730 739	hépatique
+T17	morphologie 893 907	adénocarcinome
+T18	expression_CIM 893 920	adénocarcinome de bas grade
+T19	differenciation 911 920	bas grade
+T20	morphologie 1026 1033	lésions
+T21	expression_CIM 1026 1044	lésions hépatiques
+T22	topographie 1034 1044	hépatiques
+T23	expression_CIM 1059 1073	adénocarcinome
+T24	morphologie 1059 1073	adénocarcinome
+T25	expression_CIM 1094 1104	métastases
+T26	morphologie 1094 1104	métastases
+T27	expression_CIM 1117 1125	primitif
+T28	morphologie 1117 1125	primitif
+T29	expression_CIM 1697 1703	masses
+T30	morphologie 1697 1703	masses
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C32.0 8010/3
+#3	ICD-O T3	C32.0
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	C18.0 8140/3
+#6	ICD-O T6	C18.0
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	C22.0 8000/6
+#9	ICD-O T9	C22.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	C22.0 8000/6
+#16	ICD-O T16	C22.0
+#17	ICD-O T17	8140/3
+#18	ICD-O T18	8140/31
+#19	ICD-O T19	1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C22.0 8000/1
+#22	ICD-O T22	C22.0
+#23	ICD-O T23	8140/3
+#24	ICD-O T24	8140/3
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	8000/6
+#27	ICD-O T27	8000/3
+#28	ICD-O T28	8000/3
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	8000/1

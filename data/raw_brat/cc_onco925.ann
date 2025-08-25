@@ -1,0 +1,59 @@
+T1	morphologie 330 344	adénocarcinome
+T2	expression_CIM 330 355	adénocarcinome pulmonaire
+T3	topographie 345 355	pulmonaire
+T4	expression_CIM 366 374	stade IV
+T5	morphologie 366 374	stade IV
+T6	morphologie 415 423	atteinte
+T7	expression_CIM 415 432	atteinte pleurale
+T8	topographie 424 432	pleurale
+T9	expression_CIM 442 468	lymphangite carcinomateuse
+T10	morphologie 442 468	lymphangite carcinomateuse
+T11	expression_CIM 637 657	maladie métastatique
+T12	morphologie 637 657	maladie métastatique
+T13	expression_CIM 1561 1568	lésions
+T14	morphologie 1561 1568	lésions
+T15	expression_CIM 1955 1970	tumeur primaire
+T16	morphologie 1955 1970	tumeur primaire
+T17	morphologie 1984 1996	adénopathies
+T18	expression_CIM 1984 2020	adénopathies au niveau sous-aortique
+T19	topographie 2007 2020	sous-aortique
+T20	morphologie 2213 2227	adénocarcinome
+T21	expression_CIM 2213 2238	adénocarcinome pulmonaire
+T22	topographie 2228 2238	pulmonaire
+T23	expression_CIM 2242 2250	stade IV
+T24	morphologie 2242 2250	stade IV
+T25	expression_CIM 2353 2362	néoplasme
+T26	morphologie 2353 2362	néoplasme
+T27	expression_CIM 2440 2460	maladie métastatique
+T28	morphologie 2440 2460	maladie métastatique
+T29	expression_CIM 2515 2522	lésions
+T30	morphologie 2515 2522	lésions
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C34.9 8140/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C38.4 8000/1
+#8	ICD-O T8	C38.4
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/3
+#15	ICD-O T16	8000/3
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C77.1 8000/1
+#18	ICD-O T19	C76.1
+#19	ICD-O T20	8140/3
+#20	ICD-O T21	C34.9 8140/3
+#21	ICD-O T22	C34.9
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	8000/6
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1

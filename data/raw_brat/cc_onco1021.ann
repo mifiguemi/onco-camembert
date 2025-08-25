@@ -1,0 +1,57 @@
+T1	expression_CIM 3361 3369	lymphome
+T2	morphologie 3361 3369	lymphome
+T3	morphologie 3499 3506	lésions
+T4	expression_CIM 3499 3556	lésions spiculées pseudonodulaires dans le lobe supérieur
+T5	topographie 3542 3556	lobe supérieur
+T6	morphologie 3576 3581	masse
+T7	expression_CIM 3576 3595	masse sous-pleurale
+T8	topographie 3582 3595	sous-pleurale
+T9	morphologie 3632 3643	adénopathie
+T10	expression_CIM 3632 3651	adénopathie hilaire
+T11	topographie 3644 3651	hilaire
+T12	expression_CIM 3814 3825	adénopathie
+T13	morphologie 3814 3825	adénopathie
+T14	morphologie 3858 3864;3874 3882	tumeur primaire
+T15	expression_CIM 3858 3882	tumeur pleurale primaire
+T16	topographie 3865 3873	pleurale
+T17	morphologie 3921 3927	lésion
+T18	expression_CIM 3921 3936	lésion pleurale
+T19	topographie 3928 3936	pleurale
+T20	expression_CIM 4559 4573	adénocarcinome
+T21	morphologie 4559 4573	adénocarcinome
+T22	morphologie 4739 4753	adénocarcinome
+T23	expression_CIM 4739 4774	adénocarcinome d'origine pulmonaire
+T24	topographie 4764 4774	pulmonaire
+T25	morphologie 5101 5115	Adénocarcinome
+T26	expression_CIM 5101 5126	Adénocarcinome pulmonaire
+T27	topographie 5116 5126	pulmonaire
+T28	expression_CIM 5130 5138	stade IV
+T29	morphologie 5130 5138	stade IV
+#1	ICD-O T1	9590/3
+#2	ICD-O T2	9590/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C34.1 8000/1
+#5	ICD-O T5	C34.1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C38.8 8000/1
+#8	ICD-O T8	C38.8
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C77.1 8000/1
+#11	ICD-O T11	C76.1
+#12	ICD-O T12	C77.9 8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/3
+#15	ICD-O T15	C38.4 8000/3
+#16	ICD-O T16	C38.4
+#17	ICD-O T17	8000/1
+#18	ICD-O T19	C38.4
+#19	ICD-O T20	8140/3
+#20	ICD-O T21	8140/3
+#21	ICD-O T22	8140/3
+#22	ICD-O T23	C34.9 8140/3
+#23	ICD-O T24	C34.9
+#24	ICD-O T25	8140/3
+#25	ICD-O T26	C34.9 8140/3
+#26	ICD-O T27	C34.9
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/6

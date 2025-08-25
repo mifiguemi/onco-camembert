@@ -1,0 +1,42 @@
+T9	topographie 1040 1062	creux sus-claviculaire
+T30	topographie 2164 2176	extra-axiale
+T33	topographie 2283 2311	intrathécale extramédullaire
+T1	morphologie 769 776	nodules
+T3	topographie 777 788	pulmonaires
+T4	morphologie 885 891	lésion
+T6	topographie 957 988	quadrant supéro-externe du sein
+T7	morphologie 1010 1021	adénopathie
+T10	morphologie 1076 1087	adénopathie
+T12	topographie 1088 1097	axillaire
+T13	topographie 1101 1110	cervicale
+T14	morphologie 1634 1639	image
+T16	topographie 1648 1671	quadrant supéro-externe
+T17	morphologie 1713 1737	carcinome infiltrant NOS
+T19	differenciation 1739 1747	grade II
+T20	morphologie 1977 1989	adénopathies
+T22	topographie 1990 2000	axillaires
+T23	topographie 2004 2017	médiastinales
+T24	morphologie 2038 2051	dissémination
+T26	topographie 2052 2062	pulmonaire
+T27	topographie 2066 2073	osseuse
+T28	morphologie 2145 2151	lésion
+T31	morphologie 2277 2282	masse
+T34	morphologie 2325 2333	implants
+T36	topographie 2334 2342	méningés
+T37	topographie 2344 2350	D12-L2
+T38	morphologie 2509 2522	carcinomatose
+T40	topographie 2523 2531	méningée
+T41	morphologie 2546 2555	Carcinome
+T60	morphologie 2565 2583	infiltrant luminal
+T43	topographie 2556 2564	mammaire
+T45	morphologie 2587 2595	stade IV
+T46	morphologie 2631 2639	atteinte
+T48	topographie 2644 2646	os
+T49	topographie 2652 2659	poumons
+T50	topographie 2667 2689	ganglions lymphatiques
+T51	morphologie 2748 2756	atteinte
+T53	topographie 2757 2764	osseuse
+T54	morphologie 2853 2859	lésion
+T56	topographie 2860 2872	intrathécale
+T57	morphologie 3234 3240	lésion
+T59	topographie 3241 3253	intrathécale

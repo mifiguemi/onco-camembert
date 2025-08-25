@@ -1,0 +1,40 @@
+T26	morphologie 3392 3402	Granulomes
+T13	topographie 1270 1284	interaortocave
+T1	morphologie 490 499	carcinome
+T56	morphologie 508 514	séreux
+T3	topographie 500 507	ovarien
+T4	differenciation 518 528	haut grade
+T5	morphologie 837 843	cancer
+T7	topographie 844 854	péritonéal
+T8	morphologie 1149 1193	adénopathies avec une captation pathologique
+T11	topographie 1224 1238	hile hépatique
+T14	morphologie 1762 1771	carcinome
+T57	morphologie 1780 1786	séreux
+T16	topographie 1772 1779	ovarien
+T17	differenciation 1790 1800	haut grade
+T18	morphologie 3269 3290	adénopathies malignes
+T20	topographie 3299 3313	hile hépatique
+T21	topographie 3318 3337	mésentère antérieur
+T22	topographie 3344 3358	rétropéritoine
+T23	morphologie 3360 3367	Lésions
+T25	topographie 3368 3378	hépatiques
+T28	topographie 3403 3414	pulmonaires
+T30	morphologie 3518 3528	métastases
+T31	morphologie 4520 4543	pathologie métastatique
+T33	topographie 4544 4558	intracrânienne
+T34	morphologie 4776 4803	Conglomérats adénopathiques
+T36	topographie 4804 4820	rétropéritonéaux
+T37	morphologie 5729 5738	carcinome
+T58	morphologie 5747 5753	séreux
+T39	topographie 5739 5746	ovarien
+T41	morphologie 5795 5803	récidive
+T42	morphologie 5810 5816	tumeur
+T44	topographie 5817 5830	ganglionnaire
+T45	morphologie 6170 6191	atteinte métastatique
+T47	topographie 6195 6218	système nerveux central
+T49	morphologie 6634 6655	cellules néoplasiques
+T51	morphologie 6930 6936	cancer
+T53	morphologie 7037 7054	récidive tumorale
+T55	morphologie 7344 7360	rechute tumorale
+T10	topographie 1202 1219	zone rétrocrurale
+T12	topographie 1244 1266	zones rétropéritonéale

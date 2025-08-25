@@ -1,0 +1,32 @@
+T7	topographie 126 140	région faciale
+T26	topographie 2801 2819	régions inguinales
+T1	morphologie 13 26	angiosarcomes
+T3	topographie 27 34	cutanés
+T4	morphologie 44 54	néoplasmes
+T6	topographie 107 119	cuir chevelu
+T8	morphologie 527 541	adénocarcinome
+T10	topographie 547 554	endocol
+T12	morphologie 2121 2126	masse
+T13	morphologie 2376 2382	lésion
+T15	topographie 2383 2390	cutanée
+T17	morphologie 2486 2492	lésion
+T18	morphologie 2647 2659	angiosarcome
+T20	topographie 2660 2666	cutané
+T22	morphologie 2732 2738	nodule
+T24	morphologie 2740 2745	masse
+T28	topographie 2847 2860	ganglionnaire
+T30	morphologie 2864 2887	métastatique à distance
+T32	morphologie 2948 2955	tumeurs
+T33	morphologie 3040 3046	tumeur
+T35	topographie 3055 3071	région inguinale
+T36	morphologie 3131 3143	angiosarcome
+T38	differenciation 3144 3166	modérément différencié
+T39	morphologie 3341 3348	lésions
+T41	topographie 3349 3357	cutanées
+T42	topographie 3423 3436	fosse iliaque
+T43	topographie 3450 3456	cuisse
+T45	morphologie 3522 3534	angiosarcome
+T47	morphologie 3594 3607	dissémination
+T49	morphologie 3628 3646	maladie à distance
+T50	morphologie 3949 3956	lésions
+T52	topographie 3957 3965	cutanées

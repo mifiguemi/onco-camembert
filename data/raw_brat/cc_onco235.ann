@@ -1,0 +1,83 @@
+T1	morphologie 392 398	lésion
+T2	expression_CIM 392 430	lésion cutanée connue au niveau dorsal
+T3	topographie 399 406	cutanée
+T4	topographie 424 430	dorsal
+T5	expression_CIM 614 632	mélanome nodulaire
+T6	morphologie 614 632	mélanome nodulaire
+T7	morphologie 791 799	invasion
+T8	expression_CIM 791 825	invasion périneurale ou vasculaire
+T9	topographie 800 811	périneurale
+T10	topographie 815 825	vasculaire
+T11	morphologie 1082 1094	adénopathies
+T12	expression_CIM 1082 1140	adénopathies nécrotiques de 21 mm dans la région axillaire
+T15	expression_CIM 1268 1320	région axillaire droite, il y a une lymphadénopathie
+T16	morphologie 1304 1320	lymphadénopathie
+T17	morphologie 1407 1423	lymphadénopathie
+T18	expression_CIM 1407 1433	lymphadénopathie axillaire
+T19	topographie 1424 1433	axillaire
+T20	expression_CIM 1505 1514	métastase
+T21	morphologie 1505 1514	métastase
+T22	expression_CIM 1518 1526	mélanome
+T23	morphologie 1518 1526	mélanome
+T24	expression_CIM 1737 1743	tumeur
+T25	morphologie 1737 1743	tumeur
+T26	expression_CIM 2027 2035	mélanome
+T27	morphologie 2027 2035	mélanome
+T28	expression_CIM 2350 2358	mélanome
+T29	morphologie 2350 2358	mélanome
+T30	expression_CIM 2429 2437	récidive
+T31	morphologie 2429 2437	récidive
+T32	expression_CIM 2853 2861	récidive
+T33	morphologie 2853 2861	récidive
+T34	morphologie 4230 4237	lésions
+T35	expression_CIM 4230 4293	lésions ulcérées dans le côlon ascendant et le côlon transverse
+T36	topographie 4255 4270	côlon ascendant
+T37	topographie 4277 4293	côlon transverse
+T38	expression_CIM 5147 5155	mélanome
+T39	morphologie 5147 5155	mélanome
+T40	expression_CIM 5387 5394	lésions
+T41	morphologie 5387 5394	lésions
+T42	expression_CIM 6680 6699	maladie oncologique
+T43	morphologie 6680 6699	maladie oncologique
+T13	topographie 1124 1140	région axillaire
+T14	topographie 1268 1284	région axillaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1;C76.7 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C76.7
+#5	ICD-O T5	8721/3
+#6	ICD-O T6	8721/3
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C47.9 8000/1;C49.9 8000/1
+#9	ICD-O T9	C47.9
+#10	ICD-O T10	C49.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C77.3 8000/1
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	C77.3 8000/1
+#16	ICD-O T19	C76.1
+#17	ICD-O T20	8000/6
+#18	ICD-O T21	8000/6
+#19	ICD-O T22	8720/3
+#20	ICD-O T23	8720/3
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	8720/3
+#24	ICD-O T27	8720/3
+#25	ICD-O T28	8720/3
+#26	ICD-O T29	8720/3
+#27	ICD-O T30	8000/6
+#28	ICD-O T31	8000/6
+#29	ICD-O T32	8000/6
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	C18.2 8000/1;C18.4 8000/1
+#33	ICD-O T36	C18.2
+#34	ICD-O T37	C18.4
+#35	ICD-O T38	8720/3
+#36	ICD-O T39	8720/3
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	8000/3
+#40	ICD-O T43	8000/3

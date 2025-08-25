@@ -1,0 +1,30 @@
+T18	topographie 1157 1164	hilaire
+T1	morphologie 630 635	masse
+T3	topographie 781 784	LID
+T4	morphologie 834 843	carcinome
+T6	topographie 844 858	bronchogénique
+T7	morphologie 860 867	Nodules
+T10	morphologie 906 911	masse
+T11	morphologie 947 959	Adénopathies
+T13	topographie 960 973	médiastinales
+T14	topographie 975 988	paratrachéale
+T15	morphologie 1103 1127	adénopathie pathologique
+T20	morphologie 1621 1638	cellules malignes
+T21	morphologie 1732 1738	nodule
+T23	topographie 1739 1749	pulmonaire
+T24	morphologie 2380 2385	masse
+T26	topographie 2415 2418	LID
+T27	morphologie 2601 2622	carcinome épidermoïde
+T29	differenciation 2623 2638	peu différencié
+T30	morphologie 2652 2673	Carcinome épidermoïde
+T32	topographie 2677 2683	poumon
+T33	morphologie 4113 4120	lésions
+T35	topographie 4121 4129	cutanées
+T37	morphologie 4352 4369	atteinte tumorale
+T38	morphologie 4517 4528	adénopathie
+T40	topographie 4529 4541	médiastinale
+T41	morphologie 4779 4800	carcinome épidermoïde
+T43	topographie 4822 4828	poumon
+T45	morphologie 4971 4990	maladie néoplasique
+T47	morphologie 6643 6662	maladie néoplasique
+T17	topographie 1131 1143	subcarinaire

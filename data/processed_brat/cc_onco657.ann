@@ -1,0 +1,45 @@
+T13	topographie 3021 3030	antérieur
+T60	topographie 6465 6487	pulmonaire parahilaire
+T1	morphologie 354 359	Myome
+T3	topographie 360 366	utérin
+T4	morphologie 2396 2407	adénopathie
+T6	topographie 2417 2433	latéro-cervicale
+T7	topographie 2435 2453	supra-claviculaire
+T8	topographie 2457 2466	axillaire
+T10	morphologie 2667 2672	masse
+T11	morphologie 3005 3010	masse
+T15	morphologie 3529 3541	infiltration
+T16	morphologie 3936 3948	adénopathies
+T18	topographie 3949 3962	médiastinales
+T19	morphologie 4192 4196	LOES
+T21	topographie 4197 4207	hépatiques
+T22	topographie 4228 4248	parenchyme hépatique
+T24	morphologie 4453 4462	métastase
+T25	morphologie 4464 4470	Tumeur
+T27	topographie 4491 4507	glande surrénale
+T29	morphologie 4632 4641	métastase
+T30	morphologie 4643 4656	Image lytique
+T32	topographie 4695 4713	corps vertébral L1
+T34	morphologie 4751 4760	métastase
+T35	morphologie 5594 5603	néoplasie
+T37	topographie 5604 5618	endobronchique
+T39	morphologie 5644 5655	adénopathie
+T41	morphologie 5710 5727	cellules malignes
+T43	morphologie 5729 5738	Métastase
+T44	morphologie 5744 5758	adénocarcinome
+T46	topographie 5783 5793	pulmonaire
+T48	morphologie 5973 5991	cellules tumorales
+T49	morphologie 6004 6010	Lésion
+T51	topographie 6011 6024	surrénalienne
+T53	morphologie 6072 6089	cellules malignes
+T55	morphologie 6091 6100	Métastase
+T57	morphologie 6106 6127	carcinome épidermoïde
+T58	morphologie 6459 6464	Masse
+T62	morphologie 6510 6522	adénopathies
+T63	morphologie 6526 6529	LOE
+T65	topographie 6530 6539	hépatique
+T66	morphologie 6560 6574	adénocarcinome
+T68	topographie 6575 6585	pulmonaire
+T69	morphologie 6624 6632	Atteinte
+T72	morphologie 6647 6659	métastatique
+T71	topographie 6633 6646	surrénalienne

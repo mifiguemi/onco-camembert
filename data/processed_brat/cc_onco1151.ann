@@ -1,0 +1,34 @@
+T1	morphologie 71 85	adénocarcinome
+T3	topographie 89 94	côlon
+T4	morphologie 393 407	adénocarcinome
+T6	differenciation 408 430	modérément différencié
+T7	topographie 448 454	rectum
+T8	morphologie 869 877	atteinte
+T10	topographie 878 887	urétérale
+T12	morphologie 1528 1536	récidive
+T13	morphologie 1556 1568	infiltration
+T15	topographie 1569 1577	vaginale
+T16	morphologie 1898 1903	masse
+T20	morphologie 1940 1969	récidive locale de sa maladie
+T21	morphologie 2056 2068	infiltration
+T23	topographie 2075 2089	voûte vaginale
+T24	topographie 2096 2102	utérus
+T25	morphologie 2255 2260	Myome
+T27	topographie 2290 2304	cavité utérine
+T29	morphologie 2576 2590	tumeur maligne
+T30	topographie 2680 2688	vaginale
+T32	morphologie 2704 2709	masse
+T34	morphologie 2785 2791	tumeur
+T35	topographie 2932 2948	Colon descendant
+T37	topographie 2952 2957	cæcum
+T38	morphologie 2963 2970	lésions
+T42	morphologie 3104 3118	tumeur maligne
+T43	morphologie 3263 3277	Adénocarcinome
+T45	topographie 3281 3287	rectum
+T46	morphologie 3335 3340	Masse
+T48	topographie 3341 3350	présacrée
+T50	morphologie 3404 3412	récidive
+T52	morphologie 3555 3563	récidive
+T54	morphologie 4011 4017	lésion
+T18	topographie 1911 1926	espace présacré
+T40	morphologie 3072 3096	lésion intra-épithéliale

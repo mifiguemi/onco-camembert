@@ -1,0 +1,63 @@
+T1	morphologie 1337 1342	masse
+T2	expression_CIM 1337 1355	masse médiastinale
+T3	topographie 1343 1355	médiastinale
+T4	morphologie 1365 1378	dissémination
+T5	expression_CIM 1365 1410	dissémination pulmonaire, hépatique et rénale
+T6	topographie 1379 1389	pulmonaire
+T7	topographie 1391 1400	hépatique
+T8	topographie 1404 1410	rénale
+T9	expression_CIM 1477 1495	néoplasme germinal
+T10	morphologie 1477 1495	néoplasme germinal
+T11	expression_CIM 1980 1998	néoplasme germinal
+T12	morphologie 1980 1998	néoplasme germinal
+T13	morphologie 2644 2650	tumeur
+T14	expression_CIM 2644 2674	tumeur médiastinale antérieure
+T15	topographie 2651 2674	médiastinale antérieure
+T16	morphologie 2745 2760;2773 2781	choriocarcinome primaire
+T17	expression_CIM 2745 2772	choriocarcinome médiastinal
+T18	topographie 2761 2772	médiastinal
+T19	morphologie 2834 2846	infiltration
+T20	expression_CIM 2834 2886	infiltration du péricarde et du lobe moyen du poumon
+T21	topographie 2850 2859	péricarde
+T22	topographie 2866 2886	lobe moyen du poumon
+T23	morphologie 2937 2953	nodules tumoraux
+T24	expression_CIM 2937 2965	nodules tumoraux pulmonaires
+T25	topographie 2954 2965	pulmonaires
+T26	morphologie 3041 3048	nodules
+T27	expression_CIM 3041 3059	nodules hépatiques
+T28	topographie 3049 3059	hépatiques
+T29	morphologie 3061 3068	nodules
+T30	expression_CIM 3061 3117	nodules uniques dans le rein droit et un autre splénique
+T31	topographie 3085 3089	rein
+T32	topographie 3108 3117	splénique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C38.3 8000/1
+#3	ICD-O T3	C38.3
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C22.0 8000/6;C34.9 8000/6;C64.9 8000/6
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	C22.0
+#8	ICD-O T8	C64.9
+#9	ICD-O T9	9064/3
+#10	ICD-O T10	9064/3
+#11	ICD-O T11	9064/3
+#12	ICD-O T12	9064/3
+#13	ICD-O T13	8000/1
+#14	ICD-O T15	C38.1 
+#15	ICD-O T16	9100/3
+#16	ICD-O T17	C38.3 9100/3
+#17	ICD-O T18	C38.3
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C34.2 8000/1;C38.0 8000/1
+#20	ICD-O T21	C38.0
+#21	ICD-O T22	C34.2
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	C34.9 8000/6
+#24	ICD-O T25	C34.9
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C22.0 8000/1
+#27	ICD-O T28	C22.0
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C42.2 8000/1;C64.9 8000/1
+#30	ICD-O T31	C64.9
+#31	ICD-O T32	C42.2

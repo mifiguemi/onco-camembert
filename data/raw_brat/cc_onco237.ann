@@ -1,0 +1,136 @@
+T1	morphologie 494 500	tumeur
+T2	expression_CIM 494 508	tumeur rectale
+T3	topographie 501 508	rectale
+T4	morphologie 1000 1006	tumeur
+T5	expression_CIM 1000 1071	tumeur occupant presque toute la circonférence à 4 cm de la marge anale
+T7	morphologie 1229 1234	masse
+T8	expression_CIM 1229 1301	masse de 9x10 cm de diamètre dépendant de la paroi postérieure du rectum
+T9	topographie 1295 1301	rectum
+T10	expression_CIM 1412 1417	masse
+T11	morphologie 1412 1417	masse
+T12	morphologie 1866 1878	infiltration
+T13	expression_CIM 1866 1888	infiltration du muscle
+T14	topographie 1882 1888	muscle
+T15	expression_CIM 1903 1929	adénopathies pathologiques
+T16	morphologie 1903 1929	adénopathies pathologiques
+T17	expression_CIM 2244 2249	masse
+T18	morphologie 2244 2249	masse
+T19	morphologie 2266 2272	nodule
+T20	expression_CIM 2266 2299	nodule pulmonaire de 19 mm en LSI
+T21	topographie 2273 2283	pulmonaire
+T22	topographie 2296 2299	LSI
+T23	morphologie 2316 2323	lésions
+T24	expression_CIM 2316 2334	lésions hépatiques
+T25	topographie 2324 2334	hépatiques
+T26	morphologie 2430 2435	masse
+T27	expression_CIM 2430 2443	masse rectale
+T28	topographie 2436 2443	rectale
+T29	expression_CIM 2480 2494	masse primaire
+T30	morphologie 2480 2494	masse primaire
+T31	morphologie 2512 2520	implants
+T32	expression_CIM 2512 2530	implants présacrés
+T33	topographie 2521 2530	présacrés
+T34	morphologie 2548 2554	Nodule
+T35	expression_CIM 2548 2575	Nodule pulmonaire supérieur
+T36	topographie 2555 2575	pulmonaire supérieur
+T37	morphologie 2599 2616	lésions kystiques
+T38	expression_CIM 2599 2629	lésions kystiques dans le foie
+T39	topographie 2625 2629	foie
+T40	expression_CIM 2688 2697	néoplasme
+T41	morphologie 2688 2697	néoplasme
+T42	expression_CIM 2884 2900	tumeur fusiforme
+T43	morphologie 2884 2900	tumeur fusiforme
+T44	expression_CIM 2914 2918	GIST
+T45	morphologie 2914 2918	GIST
+T46	expression_CIM 2951 2969	cellules tumorales
+T47	morphologie 2951 2969	cellules tumorales
+T48	expression_CIM 3085 3103	cellules tumorales
+T49	morphologie 3085 3103	cellules tumorales
+T50	expression_CIM 3285 3319	tumeur stromale gastro-intestinale
+T51	morphologie 3285 3319	tumeur stromale gastro-intestinale
+T52	expression_CIM 3321 3325	GIST
+T53	morphologie 3321 3325	GIST
+T54	morphologie 3836 3840	GIST
+T55	expression_CIM 3836 3848	GIST rectale
+T56	topographie 3841 3848	rectale
+T57	expression_CIM 4012 4018	tumeur
+T58	morphologie 4012 4018	tumeur
+T59	morphologie 4599 4605	tumeur
+T60	expression_CIM 4599 4613	tumeur rectale
+T61	topographie 4606 4613	rectale
+T62	morphologie 4719 4731	adénopathies
+T63	expression_CIM 4719 4744	adénopathies mésorectales
+T64	topographie 4732 4744	mésorectales
+T65	expression_CIM 4950 4956	tumeur
+T66	morphologie 4950 4956	tumeur
+T67	expression_CIM 5157 5163	tumeur
+T68	morphologie 5157 5163	tumeur
+T69	expression_CIM 5226 5232	tumeur
+T70	morphologie 5226 5232	tumeur
+T6	topographie 1060 1071	marge anale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C20.9 8000/1
+#3	ICD-O T3	C20.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	C20.9 8000/1
+#7	ICD-O T9	C20.9
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	C49.9 8000/1
+#12	ICD-O T14	C49.9
+#13	ICD-O T16	8000/6
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C34.1 8000/1;C34.9 8000/1
+#18	ICD-O T21	C34.9
+#19	ICD-O T22	C34.1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	C22.0 8000/1
+#22	ICD-O T25	C22.0
+#23	ICD-O T26	8000/1
+#24	ICD-O T27	C20.9 8000/1
+#25	ICD-O T28	C20.9
+#26	ICD-O T29	8000/3
+#27	ICD-O T30	8000/3
+#28	ICD-O T31	8000/6
+#29	ICD-O T32	C76.3 8000/6
+#30	ICD-O T33	C76.3
+#31	ICD-O T34	8000/1
+#32	ICD-O T36	C34.1
+#33	ICD-O T37	8440/1
+#34	ICD-O T38	C22.0 8000/1
+#35	ICD-O T39	C22.0
+#36	ICD-O T40	8000/1
+#37	ICD-O T41	8000/1
+#38	ICD-O T42	8004/3
+#39	ICD-O T43	8004/3
+#40	ICD-O T44	8936/1
+#41	ICD-O T45	8936/1
+#42	ICD-O T46	8001/1
+#43	ICD-O T47	8001/1
+#44	ICD-O T48	8001/1
+#45	ICD-O T49	8001/1
+#46	ICD-O T50	C26.9 8936/1
+#47	ICD-O T51	8936/1
+#48	ICD-O T52	8936/1
+#49	ICD-O T53	8936/1
+#50	ICD-O T54	8936/1
+#51	ICD-O T55	C20.9 8936/1
+#52	ICD-O T56	C20.9
+#53	ICD-O T57	8000/1
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	8000/1
+#56	ICD-O T60	C20.9 8000/1
+#57	ICD-O T61	C20.9
+#58	ICD-O T62	8000/1
+#59	ICD-O T63	C77.5 8000/1
+#60	ICD-O T64	C49.5
+#61	ICD-O T65	8000/1
+#62	ICD-O T66	8000/1
+#63	ICD-O T67	8000/1
+#64	ICD-O T68	8000/1
+#65	ICD-O T69	8000/1
+#66	ICD-O T70	8000/1

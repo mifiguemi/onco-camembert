@@ -1,0 +1,63 @@
+T64	topographie 4173 4195	cérébrale parasellaire
+T1	morphologie 242 254	mélanocytome
+T3	differenciation 258 277	grade intermédiaire
+T4	morphologie 374 380	tumeur
+T6	differenciation 384 393	bas grade
+T8	morphologie 463 478	récidive locale
+T10	morphologie 485 491	lésion
+T12	morphologie 680 686	foyers
+T14	morphologie 731 739	récidive
+T15	morphologie 1251 1256	masse
+T17	topographie 1267 1280	suprasellaire
+T18	morphologie 1301 1320	foyers de captation
+T20	topographie 1329 1338	dure-mère
+T21	morphologie 1350 1363	dissémination
+T23	topographie 1364 1377	leptoméningée
+T25	morphologie 1491 1497	tumeur
+T26	morphologie 1617 1625	récidive
+T28	topographie 1644 1651	crânien
+T30	morphologie 1735 1744	récidives
+T31	morphologie 1941 1953	mélanocytome
+T33	topographie 1954 1962	cérébral
+T34	differenciation 1966 1985	grade intermédiaire
+T36	morphologie 1990 2009	méningiome pigmenté
+T38	morphologie 2137 2157	néoplasmes pigmentés
+T40	morphologie 2204 2222	maladie à distance
+T42	morphologie 2576 2601	progression de la maladie
+T43	morphologie 2801 2821	lésions mélanotiques
+T45	topographie 2829 2833	peau
+T47	morphologie 3435 3460	progression de la maladie
+T49	morphologie 3505 3512	lésions
+T51	morphologie 3547 3557	métastases
+T52	morphologie 3615 3622	lésions
+T54	topographie 3623 3633	hépatiques
+T56	morphologie 3674 3681	lésions
+T58	morphologie 3719 3731	mélanocytome
+T59	morphologie 3735 3743	mélanome
+T106	morphologie 3753 3758	malin
+T61	topographie 3744 3752	cérébral
+T62	morphologie 4167 4172	masse
+T65	morphologie 4358 4365	lésions
+T67	topographie 4366 4376	hépatiques
+T69	morphologie 4479 4489	métastases
+T71	morphologie 4571 4591	infiltration maligne
+T73	morphologie 4731 4739	tumorale
+T75	morphologie 4760 4770	métastases
+T77	morphologie 4774 4788	mélanome malin
+T78	morphologie 4949 4959	métastases
+T80	topographie 4960 4970	hépatiques
+T81	morphologie 5125 5132	lésions
+T83	topographie 5153 5163	pulmonaire
+T85	morphologie 5187 5197	métastases
+T87	morphologie 5283 5305	transformation maligne
+T88	morphologie 5572 5584	mélanocytome
+T90	topographie 5585 5593	cérébral
+T92	morphologie 5597 5611	mélanome malin
+T94	morphologie 5810 5831	récidive de la tumeur
+T95	morphologie 6988 6995	lésions
+T97	topographie 6996 7006	hépatiques
+T98	morphologie 7016 7022	lésion
+T100	topographie 7023 7032	cérébrale
+T101	morphologie 7075 7082	nodules
+T103	topographie 7083 7094	pulmonaires
+T105	morphologie 7109 7119	métastases

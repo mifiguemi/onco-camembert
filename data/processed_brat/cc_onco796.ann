@@ -1,0 +1,72 @@
+T10	topographie 841 850	ganglions
+T103	topographie 860 890	dans la chaîne iliaque interne
+T85	topographie 6225 6244	racine mésentérique
+T1	morphologie 313 319	masses
+T3	topographie 320 331	annexielles
+T5	morphologie 345 354	néoplasie
+T6	morphologie 772 786	adénocarcinome
+T104	morphologie 795 808	endométrioïde
+T8	topographie 787 794	ovarien
+T9	differenciation 822 832	haut grade
+T12	morphologie 851 859	positifs
+T13	morphologie 901 923	implants métastatiques
+T15	topographie 931 939	épiploon
+T16	morphologie 1052 1059	maladie
+T18	topographie 1089 1099	diaphragme
+T20	morphologie 1130 1137	implant
+T22	topographie 1156 1177	cul-de-sac de Douglas
+T23	morphologie 1664 1675	adénopathie
+T25	topographie 1676 1689	para-aortique
+T26	topographie 1728 1750	chaîne iliaque commune
+T27	morphologie 1801 1829	adénocarcinome endométrioïde
+T29	topographie 1835 1841	ovaire
+T30	differenciation 1842 1844	G3
+T31	morphologie 2817 2824	rechute
+T33	topographie 2825 2834	pelvienne
+T34	morphologie 2843 2849	nodule
+T37	morphologie 2945 2951	nodule
+T39	topographie 2968 2974	bassin
+T41	morphologie 3240 3247	nodules
+T42	morphologie 3462 3487	infiltration métastatique
+T44	topographie 3516 3521	sigma
+T45	topographie 3528 3534	rectum
+T46	morphologie 3693 3700	rechute
+T48	topographie 3701 3712	péritonéale
+T49	morphologie 3718 3732	adénocarcinome
+T51	topographie 3743 3752	ovarienne
+T52	morphologie 4321 4351	carcinome canalaire infiltrant
+T54	topographie 4366 4370	sein
+T55	morphologie 4884 4890	cancer
+T57	topographie 4894 4898	sein
+T58	morphologie 4967 4974	implant
+T60	topographie 4975 4984	hépatique
+T61	morphologie 5082 5088	nodule
+T63	topographie 5089 5102	pré-hépatique
+T64	morphologie 5140 5149	métastase
+T66	topographie 5160 5169	ovarienne
+T67	morphologie 5215 5221	nodule
+T69	topographie 5222 5232	péritonéal
+T71	morphologie 5261 5270	métastase
+T72	morphologie 5274 5283	carcinome
+T74	differenciation 5284 5297	indifférencié
+T75	topographie 5308 5317	ovarienne
+T76	morphologie 5338 5345	rechute
+T78	topographie 5346 5357	péritonéale
+T79	morphologie 5971 5986	image nodulaire
+T81	topographie 6012 6024	mésentérique
+T82	topographie 6038 6059	corps vertébral L5-S1
+T83	morphologie 6211 6218	implant
+T86	morphologie 6471 6493	implants carcinomateux
+T88	differenciation 6494 6510	peu différenciés
+T89	topographie 6521 6530	ovarienne
+T90	morphologie 6741 6766	progression de la maladie
+T92	topographie 6777 6787	péritonéal
+T93	topographie 6791 6800	hépatique
+T95	topographie 8775 8779	foie
+T96	morphologie 8824 8841	implants tumoraux
+T98	topographie 8857 8863	bassin
+T99	morphologie 8885 8896	progression
+T101	topographie 8897 8906	hépatique
+T102	topographie 8910 8921	péritonéale
+T19	topographie 1104 1123	séreuse péritonéale
+T36	topographie 2896 2923	vaisseaux iliaques externes

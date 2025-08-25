@@ -1,0 +1,15 @@
+T1	morphologie 640 654	adénocarcinome
+T3	topographie 658 664	poumon
+T4	topographie 668 682	lobe inférieur
+T6	morphologie 694 702	stade IV
+T7	morphologie 741 749	atteinte
+T9	topographie 750 758	pleurale
+T11	morphologie 1226 1251	progression de la maladie
+T12	morphologie 1279 1284	masse
+T14	topographie 1285 1295	pulmonaire
+T15	topographie 1304 1318	lobe inférieur
+T16	morphologie 1339 1346	nodules
+T18	topographie 1347 1358	pulmonaires
+T22	topographie 1373 1379	basaux
+T19	topographie 1359 1372	sous-pleuraux
+T21	morphologie 4327 4343	réponse tumorale

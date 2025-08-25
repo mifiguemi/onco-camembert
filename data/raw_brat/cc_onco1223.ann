@@ -1,0 +1,22 @@
+T1	expression_CIM 319 328	néoplasme
+T2	morphologie 319 328	néoplasme
+T3	expression_CIM 331 351	carcinome urothélial
+T4	morphologie 331 351	carcinome urothélial
+T5	expression_CIM 452 461	néoplasme
+T6	morphologie 452 461	néoplasme
+T7	morphologie 517 537;548 582	carcinome urothélial de type HL lymphocytaire nodulaire
+T8	expression_CIM 517 582	carcinome urothélial antérieur de type HL lymphocytaire nodulaire
+T9	morphologie 607 619	adénopathies
+T10	expression_CIM 607 687	adénopathies au niveau du duodénum commun gauche et de la chaîne iliaque externe
+T11	topographie 633 641	duodénum
+T12	topographie 665 687	chaîne iliaque externe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8120/3
+#4	ICD-O T4	8120/3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8120/3
+#8	ICD-O T9	8000/1
+#9	ICD-O T11	C17.0
+#10	ICD-O T12	C77.5 

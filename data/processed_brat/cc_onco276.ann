@@ -1,0 +1,28 @@
+T1	morphologie 606 611	masse
+T3	topographie 620 630	ventricule
+T4	morphologie 802 807	masse
+T6	topographie 808 817	cardiaque
+T8	morphologie 1638 1643	masse
+T9	morphologie 1959 1968	néoplasme
+T11	topographie 1969 1987	intraventriculaire
+T13	morphologie 2109 2114	masse
+T14	morphologie 2194 2199	masse
+T16	topographie 2208 2227	médiastin antérieur
+T17	morphologie 2235 2245	Métastases
+T19	topographie 2246 2257	pulmonaires
+T20	morphologie 2270 2277	sarcome
+T22	topographie 2278 2287	cardiaque
+T23	morphologie 2340 2346	tumeur
+T44	morphologie 2357 2372	mésenchymateuse
+T25	topographie 2347 2356	cardiaque
+T27	morphologie 2547 2552	masse
+T29	morphologie 2873 2906	angiosarcome épithéloïde calcifié
+T30	morphologie 3090 3118	modèle miliaire métastatique
+T32	topographie 3119 3129	pulmonaire
+T33	morphologie 3164 3176	angiosarcome
+T35	topographie 3177 3186	cardiaque
+T37	morphologie 3190 3198	stade IV
+T38	morphologie 3200 3210	métastases
+T40	topographie 3211 3222	pulmonaires
+T41	morphologie 3481 3488	maladie
+T43	topographie 3489 3499	pulmonaire

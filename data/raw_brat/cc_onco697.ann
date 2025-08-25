@@ -1,0 +1,139 @@
+T1	topographie 230 239	testicule
+T2	expression_CIM 230 264	testicule droit était hypertrophié
+T3	morphologie 252 264	hypertrophié
+T4	expression_CIM 269 275	nodule
+T5	morphologie 269 275	nodule
+T6	morphologie 414 419	masse
+T7	expression_CIM 414 436	masse rétropéritonéale
+T8	topographie 420 436	rétropéritonéale
+T9	morphologie 598 604	tumeur
+T10	expression_CIM 598 621	tumeur rétropéritonéale
+T11	topographie 605 621	rétropéritonéale
+T12	morphologie 727 739	infiltration
+T13	expression_CIM 727 763	infiltration du muscle psoas iliaque
+T14	topographie 743 763	muscle psoas iliaque
+T15	expression_CIM 1210 1261	séminome anaplasique de type carcinome embryonnaire
+T16	morphologie 1210 1261	séminome anaplasique de type carcinome embryonnaire
+T17	expression_CIM 1326 1358	tératome histologiquement mature
+T18	morphologie 1326 1358	tératome histologiquement mature
+T19	morphologie 1367 1372	foyer
+T20	expression_CIM 1367 1398	foyer de carcinome embryonnaire
+T21	morphologie 1376 1398	carcinome embryonnaire
+T22	expression_CIM 1426 1431	masse
+T23	morphologie 1426 1431	masse
+T24	morphologie 1795 1800	masse
+T25	expression_CIM 1795 1817	masse rétropéritonéale
+T26	topographie 1801 1817	rétropéritonéale
+T27	morphologie 2007 2012	masse
+T28	expression_CIM 2007 2029	masse rétropéritonéale
+T29	topographie 2013 2029	rétropéritonéale
+T30	morphologie 2129 2134	masse
+T31	expression_CIM 2129 2151	masse rétropéritonéale
+T32	topographie 2135 2151	rétropéritonéale
+T33	expression_CIM 2202 2217	tératome mature
+T34	morphologie 2202 2217	tératome mature
+T35	expression_CIM 2224 2229	foyer
+T36	morphologie 2224 2229	foyer
+T37	expression_CIM 2233 2255	carcinome embryonnaire
+T38	morphologie 2233 2255	carcinome embryonnaire
+T39	morphologie 2334 2341	lésions
+T40	expression_CIM 2334 2355	lésions médiastinales
+T41	topographie 2342 2355	médiastinales
+T42	morphologie 2613 2619	lésion
+T43	expression_CIM 2613 2673	lésion hypodense a été observée dans le médiastin postérieur
+T44	topographie 2653 2673	médiastin postérieur
+T45	expression_CIM 2825 2831	lésion
+T46	morphologie 2825 2831	lésion
+T47	expression_CIM 2864 2870	lésion
+T48	morphologie 2864 2870	lésion
+T49	morphologie 2979 2987	atteinte
+T50	expression_CIM 2979 3065	atteinte ganglionnaire rétropéritonéale et vers la chaîne iliaque primitive et externe
+T51	topographie 2988 3018	ganglionnaire rétropéritonéale
+T52	topographie 3030 3065	chaîne iliaque primitive et externe
+T53	morphologie 3182 3187	masse
+T54	expression_CIM 3182 3200	masse médiastinale
+T55	topographie 3188 3200	médiastinale
+T56	morphologie 3217 3228	adénopathie
+T57	expression_CIM 3217 3276	adénopathie nécrotique au niveau de la bifurcation aortique
+T58	topographie 3256 3276	bifurcation aortique
+T59	expression_CIM 3365 3370	masse
+T60	morphologie 3365 3370	masse
+T61	morphologie 3449 3479	complexe tumoral adénopathique
+T62	expression_CIM 3449 3508	complexe tumoral adénopathique dans le médiastin postérieur
+T63	topographie 3488 3508	médiastin postérieur
+T64	morphologie 3704 3713	métastase
+T65	expression_CIM 3704 3726	métastase médiastinale
+T66	topographie 3714 3726	médiastinale
+T67	expression_CIM 3732 3747	tératome mature
+T68	morphologie 3732 3747	tératome mature
+T69	expression_CIM 3765 3798	adénocarcinome de type intestinal
+T70	morphologie 3765 3798	adénocarcinome de type intestinal
+T71	morphologie 4213 4227	adénocarcinome
+T72	expression_CIM 4213 4238	adénocarcinome intestinal
+T73	topographie 4228 4238	intestinal
+#1	ICD-O T1	C62.9 
+#2	ICD-O T3	8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C48.0 8000/1
+#7	ICD-O T8	C48.0
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C48.0 8000/1
+#10	ICD-O T11	C48.0
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C49.4 8000/1
+#13	ICD-O T14	C49.4
+#14	ICD-O T16	9062/3
+#15	ICD-O T17	9080/0
+#16	ICD-O T18	9080/0
+#17	ICD-O T19	8000/1
+#18	ICD-O T21	9070/3
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	C48.0 8000/1
+#23	ICD-O T26	C48.0
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	C48.0 8000/1
+#26	ICD-O T29	C48.0
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	C48.0 8000/1
+#29	ICD-O T32	C48.0
+#30	ICD-O T33	9080/0
+#31	ICD-O T34	9080/0
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	9070/3
+#35	ICD-O T38	9070/3
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	C38.3 8000/1
+#38	ICD-O T41	C38.3
+#39	ICD-O T42	8000/1
+#40	ICD-O T44	C38.2 
+#41	ICD-O T45	8000/1
+#42	ICD-O T46	8000/1
+#43	ICD-O T47	8000/1
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	C77.2 8000/1;C77.4 8000/1
+#47	ICD-O T51	C77.2
+#48	ICD-O T52	C77.4
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	C38.3 8000/1
+#51	ICD-O T55	C38.3
+#52	ICD-O T56	8000/1
+#53	ICD-O T58	C49.4
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	8000/1
+#56	ICD-O T61	8000/6
+#57	ICD-O T63	C38.2 
+#58	ICD-O T64	8000/6
+#59	ICD-O T66	C38.3
+#60	ICD-O T67	9080/0
+#61	ICD-O T68	9080/0
+#62	ICD-O T69	C26.0 8140/3
+#63	ICD-O T70	8144/3
+#64	ICD-O T71	8140/3
+#65	ICD-O T72	C26.0 8140/3
+#66	ICD-O T73	C26.0

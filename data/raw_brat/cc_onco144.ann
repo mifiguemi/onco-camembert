@@ -1,0 +1,102 @@
+T1	morphologie 4110 4122	adénomégalie
+T2	expression_CIM 4110 4147	adénomégalie dans la région inguinale
+T3	topographie 4131 4147	région inguinale
+T4	morphologie 6655 6662	lésions
+T5	expression_CIM 6655 6673	lésions hépatiques
+T6	topographie 6663 6673	hépatiques
+T7	expression_CIM 6805 6815	métastases
+T8	morphologie 6805 6815	métastases
+T9	morphologie 7070 7077	lésions
+T10	expression_CIM 7070 7088	lésions hépatiques
+T11	topographie 7078 7088	hépatiques
+T12	expression_CIM 7116 7126	métastases
+T13	morphologie 7116 7126	métastases
+T14	morphologie 7330 7345	tumeur primaire
+T15	expression_CIM 7330 7361	tumeur primaire encore inconnue
+T16	topographie 7353 7361	inconnue
+T17	expression_CIM 7600 7615	lésions focales
+T18	morphologie 7600 7615	lésions focales
+T19	morphologie 7672 7679	lésions
+T20	expression_CIM 7672 7712	lésions dans les segments III, VI et VII
+T22	expression_CIM 7767 7777	métastases
+T23	morphologie 7767 7777	métastases
+T24	expression_CIM 7787 7799	adénomégalie
+T25	morphologie 7787 7799	adénomégalie
+T26	morphologie 8008 8029	processus néoplasique
+T27	expression_CIM 8008 8064	processus néoplasique dépendant de la paroi de l'estomac
+T28	topographie 8057 8064	estomac
+T29	morphologie 8376 8385	formation
+T30	expression_CIM 8376 8395	formation gastrique
+T31	topographie 8386 8395	gastrique
+T32	expression_CIM 8420 8429	néoplasie
+T33	morphologie 8420 8429	néoplasie
+T34	morphologie 8526 8535	formation
+T35	expression_CIM 8526 8545	formation gastrique
+T36	topographie 8536 8545	gastrique
+T37	morphologie 8613 8627;8662 8692	adénocarcinome variante de l'anneau de signet
+T38	expression_CIM 8613 8692	adénocarcinome gastrique modérément différencié, variante de l'anneau de signet
+T39	topographie 8628 8637	gastrique
+T40	differenciation 8638 8660	modérément différencié
+T41	expression_CIM 8946 8953	lésions
+T42	morphologie 8946 8953	lésions
+T43	morphologie 9117 9123	foyers
+T44	expression_CIM 9117 9152	foyers dans le parenchyme hépatique
+T45	topographie 9132 9152	parenchyme hépatique
+T46	expression_CIM 9208 9214	foyers
+T47	morphologie 9208 9214	foyers
+T48	morphologie 9239 9251	adénopathies
+T49	expression_CIM 9239 9300	adénopathies para-aortiques, paracavales et interaortocavales
+T50	topographie 9252 9266	para-aortiques
+T53	expression_CIM 10030 10036	cancer
+T54	morphologie 10030 10036	cancer
+T55	expression_CIM 10778 10784	tumeur
+T56	morphologie 10778 10784	tumeur
+T52	topographie 9283 9300	interaortocavales
+T51	topographie 9268 9279	paracavales
+T21	topographie 7689 7712	segments III, VI et VII
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C76.3
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C22.0 8000/1
+#5	ICD-O T6	C22.0
+#6	ICD-O T7	8000/6
+#7	ICD-O T8	8000/6
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C22.0 8000/1
+#10	ICD-O T11	C22.0
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	8000/3
+#14	ICD-O T15	C80.9 8000/3
+#15	ICD-O T16	C80.9
+#16	ICD-O T18	tocheck
+#17	ICD-O T19	8000/1
+#18	ICD-O T22	8000/6
+#19	ICD-O T23	8000/6
+#20	ICD-O T25	8000/1
+#21	ICD-O T26	8000/3
+#22	ICD-O T27	C16.9 8000/3
+#23	ICD-O T28	C16.9
+#24	ICD-O T29	8000/1
+#25	ICD-O T31	C16.9
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	8000/1
+#28	ICD-O T34	8000/1
+#29	ICD-O T36	C16.9
+#30	ICD-O T37	8490/3
+#31	ICD-O T39	C16.9
+#32	ICD-O T40	2
+#33	ICD-O T41	8000/1
+#34	ICD-O T42	8000/1
+#35	ICD-O T43	8000/1
+#36	ICD-O T44	C22.0 8000/1
+#37	ICD-O T45	C22.0
+#38	ICD-O T46	8000/1
+#39	ICD-O T47	8000/1
+#40	ICD-O T48	8000/1
+#41	ICD-O T50	C49.4
+#42	ICD-O T53	8000/3
+#43	ICD-O T54	8000/3
+#44	ICD-O T55	8000/1
+#45	ICD-O T56	8000/3
+#46	AnnotatorNotes T37	trad

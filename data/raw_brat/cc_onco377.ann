@@ -1,0 +1,60 @@
+T7	morphologie 1071 1090	lésion hypoéchogène
+T1	morphologie 736 753	lymphadénopathies
+T2	expression_CIM 736 798	lymphadénopathies péripancréatiques adjacentes/hilum hépatique
+T3	topographie 754 771	péripancréatiques
+T4	topographie 783 798	hilum hépatique
+T5	expression_CIM 946 953	tumeurs
+T6	morphologie 946 953	tumeurs
+T8	expression_CIM 1071 1178	lésion hypoéchogène avec des bords irréguliers mais bien définis, mesurant 35x22mm dans la tête du pancréas
+T9	topographie 1162 1178	tête du pancréas
+T10	expression_CIM 1330 1359	adénocarcinome mucosécrétoire
+T11	morphologie 1330 1359	adénocarcinome mucosécrétoire
+T12	morphologie 1659 1673	adénocarcinome
+T13	expression_CIM 1659 1699	adénocarcinome pancréatique de bas grade
+T14	topographie 1674 1686	pancréatique
+T15	differenciation 1690 1699	bas grade
+T16	expression_CIM 2210 2218	récidive
+T17	morphologie 2210 2218	récidive
+T18	expression_CIM 2225 2245	métastase à distance
+T19	morphologie 2225 2245	métastase à distance
+T20	expression_CIM 6271 6278	lésions
+T21	morphologie 6271 6278	lésions
+T22	expression_CIM 6916 6923	lésions
+T23	morphologie 6916 6923	lésions
+T24	expression_CIM 8414 8420	masses
+T25	morphologie 8414 8420	masses
+T26	morphologie 8957 8971	Adénocarcinome
+T27	expression_CIM 8957 8997	Adénocarcinome pancréatique de bas grade
+T28	topographie 8972 8984	pancréatique
+T29	differenciation 8988 8997	bas grade
+T30	expression_CIM 10138 10157	maladie oncologique
+T31	morphologie 10138 10157	maladie oncologique
+#1	ICD-O T7	tocheck
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C77.2 8000/1
+#4	ICD-O T3	C48.0
+#5	ICD-O T4	C22.0
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	8000/1
+#8	ICD-O T9	C25.0
+#9	ICD-O T10	8481/3
+#10	ICD-O T11	8481/3
+#11	ICD-O T12	8140/3
+#12	ICD-O T13	C25.9 8140/31
+#13	ICD-O T14	C25.9
+#14	ICD-O T15	1
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8000/6
+#17	ICD-O T19	8000/6
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	8140/3
+#25	ICD-O T27	C25.9 8140/31
+#26	ICD-O T28	C25.9
+#27	ICD-O T29	1
+#28	ICD-O T30	8000/3
+#29	ICD-O T31	8000/3

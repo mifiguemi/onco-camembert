@@ -1,0 +1,20 @@
+T15	morphologie 355 376	absorption glycidique
+T1	morphologie 67 81	adénocarcinome
+T3	topographie 85 90	sigma
+T4	morphologie 127 133	Nodule
+T6	topographie 134 167	pulmonaire dans le lobe supérieur
+T7	morphologie 178 190	adénopathies
+T9	topographie 191 204	médiastinales
+T10	morphologie 299 305	nodule
+T12	topographie 306 316	pulmonaire
+T13	topographie 320 342	ganglions lymphatiques
+T16	morphologie 378 394	Lésion polypoïde
+T18	topographie 419 424	côlon
+T19	morphologie 592 598	lésion
+T21	topographie 599 609	pulmonaire
+T23	morphologie 619 635	lymphadénopathie
+T25	morphologie 651 667	lésion polypoïde
+T26	morphologie 756 765	Carcinome
+T31	morphologie 780 798	à petites cellules
+T28	differenciation 766 779	indifférencié
+T30	morphologie 1234 1240	tumeur

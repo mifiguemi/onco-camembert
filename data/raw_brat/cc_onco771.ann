@@ -1,0 +1,128 @@
+T1	expression_CIM 890 895	masse
+T2	morphologie 890 895	masse
+T3	morphologie 1245 1251	lésion
+T4	expression_CIM 1245 1293	lésion solide expansive dans le sinus maxillaire
+T5	topographie 1277 1293	sinus maxillaire
+T6	morphologie 1337 1349	infiltration
+T7	expression_CIM 1337 1365	infiltration des tissus mous
+T8	topographie 1354 1365	tissus mous
+T9	morphologie 1492 1525	lésions évocatrices de métastases
+T10	expression_CIM 1492 1622	lésions évocatrices de métastases dans les deux champs pulmonaires, le foie, la rate, les adénopathies sous-cutanées et inguinales
+T11	topographie 1540 1558	champs pulmonaires
+T12	topographie 1563 1567	foie
+T13	topographie 1572 1576	rate
+T14	morphologie 1582 1594	adénopathies
+T15	topographie 1595 1608	sous-cutanées
+T16	topographie 1612 1622	inguinales
+T17	morphologie 1711 1721	métastases
+T18	expression_CIM 1711 1760	métastases osseuses ou du système nerveux central
+T19	topographie 1722 1730	osseuses
+T20	topographie 1737 1760	système nerveux central
+T21	morphologie 1792 1798	lésion
+T22	expression_CIM 1792 1820	lésion de la muqueuse nasale
+T23	topographie 1805 1820	muqueuse nasale
+T24	expression_CIM 1873 1881	mélanome
+T25	morphologie 1873 1881	mélanome
+T26	morphologie 1965 1973	mélanome
+T27	expression_CIM 1965 2029	mélanome non muté de stade IV de la muqueuse du sinus maxillaire
+T28	expression_CIM 1986 1994	stade IV
+T29	morphologie 1986 1994	stade IV
+T30	topographie 2013 2029	sinus maxillaire
+T31	morphologie 2067 2077	métastases
+T32	expression_CIM 2067 2125	métastases hépatiques, pulmonaires, spléniques et cutanées
+T33	topographie 2078 2088	hépatiques
+T34	topographie 2090 2101	pulmonaires
+T35	topographie 2103 2113	spléniques
+T36	topographie 2117 2125	cutanées
+T37	expression_CIM 3023 3029	lésion
+T38	morphologie 3023 3029	lésion
+T39	expression_CIM 3044 3054	métastases
+T40	morphologie 3044 3054	métastases
+T41	expression_CIM 3166 3173	lésions
+T42	morphologie 3166 3173	lésions
+T43	morphologie 3315 3322	lésions
+T44	expression_CIM 3315 3342	lésions intraventriculaires
+T45	topographie 3323 3342	intraventriculaires
+T46	morphologie 3358 3368	métastases
+T47	expression_CIM 3358 3453	métastases dans la corne frontale gauche mesurant 15 x 16 mm et dans l'oreillette ventriculaire
+T48	topographie 3377 3391	corne frontale
+T49	topographie 3429 3453	oreillette ventriculaire
+T50	morphologie 3708 3716	atteinte
+T51	expression_CIM 3708 3730	atteinte leptoméningée
+T52	topographie 3717 3730	leptoméningée
+T53	expression_CIM 3816 3843	dissémination de la maladie
+T54	morphologie 3816 3843	dissémination de la maladie
+T55	expression_CIM 3881 3889	récidive
+T56	morphologie 3881 3889	récidive
+T57	morphologie 3893 3907	mélanome malin
+T58	expression_CIM 3893 3949	mélanome malin de la muqueuse du système nerveux central
+T59	topographie 3926 3949	système nerveux central
+T60	morphologie 3969 3977	atteinte
+T61	expression_CIM 3969 3991	atteinte leptoméningée
+T62	topographie 3978 3991	leptoméningée
+T63	morphologie 4961 4969	invasion
+T64	expression_CIM 4961 4983	invasion leptoméningée
+T65	topographie 4970 4983	leptoméningée
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C31.0 8000/1
+#5	ICD-O T5	C31.0
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C49.9 8000/1
+#8	ICD-O T8	C49.9
+#9	ICD-O T9	8000/6
+#10	ICD-O T11	C34.9
+#11	ICD-O T12	C22.0
+#12	ICD-O T13	C42.2
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	C49.9
+#15	ICD-O T16	C76.3
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	C41.9 8000/6;C72.9 8000/6
+#18	ICD-O T19	C41.9
+#19	ICD-O T20	C72.9
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C30.0 8000/1
+#22	ICD-O T23	C30.0
+#23	ICD-O T24	8720/3
+#24	ICD-O T25	8720/3
+#25	ICD-O T26	8720/3
+#26	ICD-O T27	C31.0 8720/3
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	C31.0
+#30	ICD-O T31	8000/6
+#31	ICD-O T32	C22.0 8000/6;C34.9 8000/6;C42.2 8000/6;C44.9 8000/6
+#32	ICD-O T33	C22.0
+#33	ICD-O T34	C34.9
+#34	ICD-O T35	C42.2
+#35	ICD-O T36	C44.9
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	8000/6
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	8000/1
+#43	ICD-O T44	C71.5 8000/1
+#44	ICD-O T45	C71.5
+#45	ICD-O T46	8000/6
+#46	ICD-O T47	C71.5 8000/6;C72.0 8000/6
+#47	ICD-O T48	C72.0
+#48	ICD-O T49	C71.5
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	C70.9 8000/1
+#51	ICD-O T52	C70.9
+#52	ICD-O T54	8000/6
+#53	ICD-O T55	8000/6
+#54	ICD-O T56	8000/6
+#55	ICD-O T57	8720/3
+#56	ICD-O T58	C72.9 8720/3
+#57	ICD-O T59	C72.9
+#58	ICD-O T60	8000/1
+#59	ICD-O T61	C70.9 8000/1
+#60	ICD-O T62	C70.9
+#61	ICD-O T63	8000/1
+#62	ICD-O T64	C70.9 8000/1
+#63	ICD-O T65	C70.9

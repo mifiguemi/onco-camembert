@@ -1,0 +1,91 @@
+T21	topographie 2449 2463	parenchymateux
+T24	topographie 4273 4287	parenchymateux
+T1	morphologie 1532 1537	masse
+T2	expression_CIM 1532 1611	masse pulmonaire droite touchant la majeure partie du lobe supérieur droit (LSD
+T3	topographie 1538 1548	pulmonaire
+T4	topographie 1586 1600	lobe supérieur
+T5	topographie 1608 1611	LSD
+T6	morphologie 1622 1638	lymphadénopathie
+T7	expression_CIM 1622 1656	lymphadénopathie dans le médiastin
+T8	topographie 1647 1656	médiastin
+T9	morphologie 1673 1694	nodules métastatiques
+T10	expression_CIM 1673 1716	nodules métastatiques dans les deux poumons
+T11	topographie 1709 1716	poumons
+T12	expression_CIM 1792 1805	dissémination
+T13	morphologie 1792 1805	dissémination
+T14	expression_CIM 1887 1901	adénocarcinome
+T15	morphologie 1887 1901	adénocarcinome
+T16	morphologie 1979 1993	adénocarcinome
+T17	expression_CIM 1979 2004	adénocarcinome pulmonaire
+T18	topographie 1994 2004	pulmonaire
+T19	morphologie 2441 2448	nodules
+T20	expression_CIM 2441 2463	nodules parenchymateux
+T22	morphologie 4250 4257	nodules
+T23	expression_CIM 4250 4287	nodules/consolidations parenchymateux
+T25	expression_CIM 4320 4330	métastases
+T26	morphologie 4320 4330	métastases
+T27	morphologie 4452 4457	masse
+T28	expression_CIM 4452 4476	masse solide dans le LSD
+T29	topographie 4473 4476	LSD
+T30	morphologie 4544 4556	adénopathies
+T31	expression_CIM 4544 4570	adénopathies médiastinales
+T32	topographie 4557 4570	médiastinales
+T33	expression_CIM 4617 4641	dissémination à distance
+T34	morphologie 4617 4641	dissémination à distance
+T35	morphologie 4655 4669	Adénocarcinome
+T36	expression_CIM 4655 4703	Adénocarcinome de stade IVA d'origine pulmonaire
+T37	topographie 4693 4703	pulmonaire
+T38	morphologie 4918 4924	tumeur
+T39	expression_CIM 4918 4935	tumeur pulmonaire
+T40	topographie 4925 4935	pulmonaire
+T41	morphologie 5630 5636	tumeur
+T42	expression_CIM 5630 5653	tumeur dans les poumons
+T43	topographie 5646 5653	poumons
+T44	expression_CIM 5873 5879	lésion
+T45	morphologie 5873 5879	lésion
+T46	morphologie 6283 6290	lésions
+T47	expression_CIM 6283 6300	lésions pleurales
+T48	topographie 6291 6300	pleurales
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C34.9
+#3	ICD-O T4	C34.1
+#4	ICD-O T5	C34.1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C77.1 8000/1
+#7	ICD-O T8	C38.3
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	C34.9 8000/6
+#10	ICD-O T11	C34.9
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	8140/3
+#14	ICD-O T15	8140/3
+#15	ICD-O T16	8140/3
+#16	ICD-O T17	C34.9 8140/3
+#17	ICD-O T18	C34.9
+#18	ICD-O T19	8000/1
+#19	ICD-O T22	8000/1
+#20	ICD-O T25	8000/6
+#21	ICD-O T26	8000/6
+#22	ICD-O T27	8000/1
+#23	ICD-O T28	C34.1 8000/1
+#24	ICD-O T29	C34.1
+#25	ICD-O T30	8000/1
+#26	ICD-O T31	C77.1 8000/1
+#27	ICD-O T32	C38.3
+#28	ICD-O T33	8000/6
+#29	ICD-O T34	8000/6
+#30	ICD-O T35	8140/3
+#31	ICD-O T36	C34.9 8140/3
+#32	ICD-O T37	C34.9
+#33	ICD-O T38	8000/1
+#34	ICD-O T39	C34.9 8000/1
+#35	ICD-O T40	C34.9
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	C34.9 8000/1
+#38	ICD-O T43	C34.9
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	C38.4 8000/1
+#43	ICD-O T48	C38.4

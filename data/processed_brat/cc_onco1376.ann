@@ -1,0 +1,39 @@
+T1	morphologie 373 378	masse
+T3	topographie 379 385	rénale
+T4	morphologie 403 414	Adénopathie
+T6	topographie 415 428	para-aortique
+T7	morphologie 484 489	masse
+T9	topographie 490 496	rénale
+T10	morphologie 507 536	lymphadénopathie métastatique
+T12	topographie 537 553	rétropéritonéale
+T13	morphologie 696 705	carcinome
+T57	morphologie 712 722	papillaire
+T15	topographie 706 711	rénal
+T16	differenciation 751 769	grade 3 de Führman
+T17	morphologie 826 837	adénopathie
+T19	topographie 838 851	para-aortique
+T20	morphologie 876 885	carcinome
+T22	topographie 886 891	rénal
+T24	morphologie 1022 1030	récidive
+T25	morphologie 1152 1163	adénopathie
+T27	topographie 1164 1177	para-aortique
+T29	morphologie 1436 1448	adénopathies
+T30	morphologie 1637 1646	carcinome
+T58	morphologie 1653 1663	papillaire
+T32	topographie 1647 1652	rénal
+T33	morphologie 1669 1679	métastases
+T35	topographie 1680 1712	ganglionnaires rétropéritonéales
+T36	morphologie 1982 1993	adénopathie
+T38	topographie 1994 2010	rétropéritonéale
+T39	morphologie 2233 2258	progression de la maladie
+T41	topographie 2268 2275	poumons
+T42	morphologie 2278 2284	nodule
+T44	topographie 2293 2307	lobe supérieur
+T45	morphologie 2433 2448	image nodulaire
+T47	topographie 2449 2459	pulmonaire
+T49	morphologie 2637 2654	cellules malignes
+T50	morphologie 2785 2796	progression
+T52	topographie 2820 2824	foie
+T53	topographie 2830 2852	ganglions lymphatiques
+T54	topographie 2859 2868	péritoine
+T56	morphologie 3049 3056	maladie

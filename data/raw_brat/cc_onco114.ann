@@ -1,0 +1,87 @@
+T1	morphologie 106 120	adénocarcinome
+T2	expression_CIM 106 135	adénocarcinome de l'endomètre
+T3	topographie 126 135	endomètre
+T4	expression_CIM 250 268	maladie à distance
+T5	morphologie 250 268	maladie à distance
+T6	morphologie 590 618	adénocarcinome endométrioïde
+T7	expression_CIM 590 645	adénocarcinome endométrioïde modérément différencié, G2
+T8	differenciation 619 645	modérément différencié, G2
+T9	morphologie 656 668	infiltration
+T10	expression_CIM 656 711	infiltration de plus de 50 % de l'épaisseur du myomètre
+T11	topographie 703 711	myomètre
+T12	morphologie 722 734	infiltration
+T13	expression_CIM 722 751	infiltration lymphovasculaire
+T14	topographie 735 751	lymphovasculaire
+T15	morphologie 790 800	métastases
+T16	expression_CIM 790 918	métastases dans 1 des 5 ganglions lymphatiques iliaques gauches et le reste des ganglions lymphatiques pelviens et pré-aortiques
+T17	topographie 814 845	ganglions lymphatiques iliaques
+T19	expression_CIM 1645 1657	adénopathies
+T20	morphologie 1645 1657	adénopathies
+T21	morphologie 2131 2142	adénopathie
+T22	expression_CIM 2131 2150	adénopathie hilaire
+T23	topographie 2143 2150	hilaire
+T24	morphologie 2186 2197	adénopathie
+T25	expression_CIM 2186 2205	adénopathie hilaire
+T26	topographie 2198 2205	hilaire
+T27	morphologie 2230 2241	adénopathie
+T28	expression_CIM 2230 2255	adénopathie paratrachéale
+T29	topographie 2242 2255	paratrachéale
+T30	morphologie 2277 2288	adénopathie
+T31	expression_CIM 2277 2302	adénopathie prévasculaire
+T32	topographie 2289 2302	prévasculaire
+T33	morphologie 2318 2329	adénopathie
+T34	expression_CIM 2318 2343	adénopathie sous-carénale
+T35	topographie 2330 2343	sous-carénale
+T36	expression_CIM 2597 2614	cellules malignes
+T37	morphologie 2597 2614	cellules malignes
+T38	morphologie 2704 2718	Adénocarcinome
+T39	expression_CIM 2704 2730	Adénocarcinome endométrial
+T40	topographie 2719 2730	endométrial
+T41	morphologie 3157 3169	adénopathies
+T42	expression_CIM 3157 3195	adénopathies hilaires et médiastinales
+T43	topographie 3170 3178	hilaires
+T44	topographie 3182 3195	médiastinales
+T18	topographie 870 901;905 918	ganglions lymphatiques pelviens pré-aortiques
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C54.1 8140/3
+#3	ICD-O T3	C54.1
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8380/3
+#7	ICD-O T7	8380/32
+#8	ICD-O T8	2
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C54.2 8000/1
+#11	ICD-O T11	C54.2
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C49.9 8000/1
+#14	ICD-O T14	C49.9
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C77.1 8000/6;C77.5 8000/6
+#17	ICD-O T17	C77.5
+#18	ICD-O T19	C77.9 8000/1
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C77.1 8000/1
+#22	ICD-O T23	C76.1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	C77.1 8000/1
+#25	ICD-O T26	C76.1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	C77.1 8000/1
+#28	ICD-O T29	C33.9
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C77.9 8000/1
+#31	ICD-O T32	C49.8
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	C77.1 8000/1
+#34	ICD-O T35	C76.1
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	8140/3
+#38	ICD-O T39	C54.1 8140/3
+#39	ICD-O T40	C54.1
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	C77.1 8000/1
+#42	ICD-O T43	C76.1
+#43	ICD-O T44	C38.3

@@ -1,0 +1,36 @@
+T28	topographie 4135 4140	cavum
+T39	topographie 4882 4891	digestive
+T2	morphologie 856 868	adénopathies
+T4	morphologie 1102 1107	masse
+T5	morphologie 2752 2771	lésion métastatique
+T7	topographie 2781 2783	L5
+T9	morphologie 2961 2968	lésions
+T11	morphologie 2983 2998	tumeur primaire
+T12	morphologie 3096 3104	atteinte
+T14	topographie 3105 3112	osseuse
+T15	topographie 3167 3169	L5
+T17	morphologie 3322 3334	infiltration
+T18	morphologie 3354 3368	adénocarcinome
+T59	morphologie 3385 3422	avec des cellules en anneau de signet
+T20	differenciation 3369 3384	peu différencié
+T22	morphologie 3676 3694	lésion néoplasique
+T23	morphologie 3871 3878	lésions
+T25	topographie 3879 3887	osseuses
+T27	morphologie 3902 3923	atteinte métastatique
+T30	morphologie 4149 4173	infiltration néoplasique
+T31	morphologie 4754 4764	Métastases
+T33	topographie 4765 4773	osseuses
+T34	morphologie 4788 4800	infiltration
+T36	topographie 4807 4821	moelle osseuse
+T37	morphologie 4830 4858	cellules en anneau de signet
+T41	morphologie 4900 4915	tumeur primaire
+T42	morphologie 5020 5030	métastases
+T44	topographie 5031 5039	osseuses
+T46	morphologie 5054 5069	tumeur primaire
+T47	morphologie 6116 6124	atteinte
+T49	topographie 6125 6132	osseuse
+T51	morphologie 7047 7068	infiltration tumorale
+T53	morphologie 8898 8918	progression tumorale
+T54	morphologie 8988 8995	lésions
+T56	topographie 8996 9004	osseuses
+T58	morphologie 9046 9071	progression de la maladie

@@ -1,0 +1,64 @@
+T1	expression_CIM 813 820	lésions
+T2	morphologie 813 820	lésions
+T3	morphologie 835 847	adénopathies
+T4	expression_CIM 835 861	adénopathies médiastinales
+T5	topographie 848 861	médiastinales
+T6	morphologie 887 894	lésions
+T7	expression_CIM 887 905	lésions hépatiques
+T8	topographie 895 905	hépatiques
+T9	expression_CIM 947 974	stabilisation de la maladie
+T10	morphologie 947 974	stabilisation de la maladie
+T11	expression_CIM 989 1001	adénopathies
+T12	morphologie 989 1001	adénopathies
+T13	morphologie 1005 1016	progression
+T14	expression_CIM 1005 1036	progression au niveau hépatique
+T15	topographie 1027 1036	hépatique
+T16	morphologie 1204 1229	conglomérat adénopathique
+T17	expression_CIM 1204 1274	conglomérat adénopathique, paratrachéal, subcarinal et para-œsophagien
+T18	topographie 1231 1243	paratrachéal
+T20	topographie 1259 1274	para-œsophagien
+T21	morphologie 1299 1306	lésions
+T22	expression_CIM 1299 1317	lésions hépatiques
+T23	topographie 1307 1317	hépatiques
+T24	expression_CIM 1331 1341	métastases
+T25	morphologie 1331 1341	métastases
+T26	morphologie 1442 1451	néoplasie
+T27	expression_CIM 1442 1466	néoplasie endobronchique
+T28	topographie 1452 1466	endobronchique
+T29	expression_CIM 1584 1608	carcinome neuroendocrine
+T30	morphologie 1584 1608	carcinome neuroendocrine
+T31	morphologie 2587 2598	progression
+T32	expression_CIM 2587 2608	progression hépatique
+T33	topographie 2599 2608	hépatique
+T19	topographie 1245 1255	subcarinal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C77.1 8000/1
+#5	ICD-O T5	C38.3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C22.0 8000/1
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	C77.9 8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C22.0 8000/6
+#15	ICD-O T15	C22.0
+#16	ICD-O T16	8000/1
+#17	ICD-O T18	C71.0
+#18	ICD-O T20	C76.0
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C22.0 8000/1
+#21	ICD-O T23	C22.0
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/3
+#25	ICD-O T27	C34.9 8000/1
+#26	ICD-O T28	C34.9
+#27	ICD-O T29	8246/3
+#28	ICD-O T30	8246/3
+#29	ICD-O T31	8000/9
+#30	ICD-O T32	C22.0 8000/6
+#31	ICD-O T33	C22.0

@@ -1,0 +1,96 @@
+T1	expression_CIM 796 801	masse
+T2	morphologie 796 801	masse
+T3	morphologie 1674 1704	lésion occupant l'espace (LOE)
+T4	expression_CIM 1674 1713	lésion occupant l'espace (LOE) frontale
+T5	topographie 1705 1713	frontale
+T6	expression_CIM 2266 2272	lésion
+T7	morphologie 2266 2272	lésion
+T8	morphologie 2469 2484	néoplasme malin
+T9	expression_CIM 2469 2498	néoplasme malin de haut grade
+T10	differenciation 2488 2498	haut grade
+T11	morphologie 2557 2576	tumeur astrocytaire
+T12	expression_CIM 2557 2590	tumeur astrocytaire de haut grade
+T13	differenciation 2580 2590	haut grade
+T14	expression_CIM 2606 2615	métastase
+T15	morphologie 2606 2615	métastase
+T16	morphologie 2720 2729	néoplasme
+T17	expression_CIM 2720 2740	néoplasme pulmonaire
+T18	topographie 2730 2740	pulmonaire
+T19	expression_CIM 2763 2778	microcytaire Ca
+T20	morphologie 2763 2778	microcytaire Ca
+T21	morphologie 2784 2796	infiltration
+T22	expression_CIM 2784 2810	infiltration ganglionnaire
+T23	topographie 2797 2810	ganglionnaire
+T24	expression_CIM 2858 2879	cellules néoplasiques
+T25	morphologie 2858 2879	cellules néoplasiques
+T26	expression_CIM 3049 3071	carcinome microcytaire
+T27	morphologie 3049 3071	carcinome microcytaire
+T28	morphologie 3203 3225	Carcinome microcytaire
+T29	expression_CIM 3203 3243	Carcinome microcytaire du poumon hilaire
+T31	morphologie 3255 3264	métastase
+T32	expression_CIM 3255 3274	métastase cérébrale
+T33	topographie 3265 3274	cérébrale
+T34	morphologie 3327 3330	LOE
+T35	expression_CIM 3327 3340	LOE cérébrale
+T36	topographie 3331 3340	cérébrale
+T37	expression_CIM 3453 3459	lésion
+T38	morphologie 3453 3459	lésion
+T39	morphologie 3892 3898;3910 3922	lésion microcytaire
+T40	expression_CIM 3892 3922	lésion pulmonaire microcytaire
+T41	topographie 3899 3909	pulmonaire
+T42	expression_CIM 4086 4105	lésion métastatique
+T43	morphologie 4086 4105	lésion métastatique
+T44	morphologie 4140 4147	maladie
+T45	expression_CIM 4140 4158	maladie pulmonaire
+T46	topographie 4148 4158	pulmonaire
+T47	morphologie 6203 6220	récidive tumorale
+T48	expression_CIM 6203 6238	récidive tumorale au niveau crânien
+T49	topographie 6231 6238	crânien
+T50	expression_CIM 7007 7014	maladie
+T51	morphologie 7007 7014	maladie
+T30	topographie 3229 3243	poumon hilaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T5	C71.1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/3
+#8	ICD-O T9	8000/34
+#9	ICD-O T10	4
+#10	ICD-O T11	9400/3
+#11	ICD-O T12	9400/34
+#12	ICD-O T13	4
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/3
+#16	ICD-O T17	C34.9 8000/1
+#17	ICD-O T18	C34.9
+#18	ICD-O T20	8041/3
+#19	ICD-O T21	8000/9
+#20	ICD-O T22	C77.9 8000/1
+#21	ICD-O T23	C77.9
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8001/3
+#24	ICD-O T26	8041/3
+#25	ICD-O T27	8041/3
+#26	ICD-O T28	8041/3
+#27	ICD-O T31	8000/6
+#28	ICD-O T32	C71.0 8000/6
+#29	ICD-O T33	C71.9
+#30	ICD-O T34	8000/1
+#31	ICD-O T36	C71.9
+#32	ICD-O T37	8000/1
+#33	ICD-O T38	8000/1
+#34	ICD-O T39	8002/1
+#35	ICD-O T40	C34.9 8002/1
+#36	ICD-O T41	C34.9
+#37	ICD-O T42	8000/6
+#38	ICD-O T43	8000/6
+#39	ICD-O T44	8000/9
+#40	ICD-O T46	C34.9
+#41	ICD-O T47	8000/9
+#42	ICD-O T48	C41.0 8000/6
+#43	ICD-O T49	C41.0
+#44	ICD-O T50	8000/6
+#45	ICD-O T51	8000/9

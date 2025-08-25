@@ -1,0 +1,62 @@
+T26	topographie 1979 1986	iliaque
+T1	morphologie 194 203	carcinome
+T3	topographie 204 214	pulmonaire
+T4	morphologie 295 305	induration
+T6	topographie 306 318	testiculaire
+T7	morphologie 601 612	adénopathie
+T9	topographie 613 629	sus-claviculaire
+T10	morphologie 803 814	adénopathie
+T12	topographie 815 831	sus-claviculaire
+T14	morphologie 881 892	adénopathie
+T15	topographie 943 952	testicule
+T17	morphologie 974 979	masse
+T18	morphologie 1597 1609	adénopathies
+T20	topographie 1618 1632	canal inguinal
+T21	morphologie 1742 1767	conglomérat adénopathique
+T23	topographie 1768 1783	rétropéritonéal
+T24	morphologie 1915 1941	adénopathies métastatiques
+T27	morphologie 2061 2072	adénopathie
+T29	topographie 2073 2089	sus-claviculaire
+T31	morphologie 2149 2158	métastase
+T33	morphologie 2165 2199	tumeur germinale non séminomateuse
+T35	morphologie 2223 2238	choriocarcinome
+T37	morphologie 2258 2280	carcinome embryonnaire
+T38	morphologie 2291 2299	invasion
+T40	topographie 2300 2310	vasculaire
+T41	topographie 2314 2325	lymphatique
+T42	morphologie 2440 2451	adénopathie
+T44	topographie 2452 2468	sus-claviculaire
+T45	morphologie 2508 2514	tumeur
+T98	morphologie 2528 2555	germinale non séminomateuse
+T47	topographie 2515 2527	testiculaire
+T49	morphologie 2580 2595	choriocarcinome
+T51	morphologie 2615 2637	carcinome embryonnaire
+T53	morphologie 2700 2716	tumeur germinale
+T54	morphologie 2947 2953	tumeur
+T99	morphologie 2967 2975	primaire
+T56	topographie 2954 2966	testiculaire
+T58	morphologie 2983 3001	maladie à distance
+T59	morphologie 3003 3027	adénopathie métastatique
+T61	topographie 3028 3044	sus-claviculaire
+T63	morphologie 3157 3191	tumeur germinale non séminomateuse
+T64	morphologie 3834 3840	tumeur
+T66	topographie 3841 3853	testiculaire
+T68	morphologie 4038 4054	maladie tumorale
+T70	morphologie 4218 4235	récidive tumorale
+T71	morphologie 4377 4383	nodule
+T73	topographie 4394 4400	poumon
+T74	morphologie 4595 4601	lésion
+T76	topographie 4602 4615	paratrachéale
+T78	morphologie 4673 4682	métastase
+T80	morphologie 4689 4723	tumeur germinale non séminomateuse
+T81	morphologie 4821 4841	adénopathie tumorale
+T83	topographie 4842 4855	paratrachéale
+T85	morphologie 5003 5010	rechute
+T87	morphologie 5025 5059	tumeur germinale non séminomateuse
+T89	morphologie 5598 5609	adénopathie
+T90	topographie 5610 5623	paratrachéale
+T91	morphologie 5653 5659	nodule
+T93	topographie 5660 5670	pulmonaire
+T94	topographie 5679 5693	lobe inférieur
+T95	morphologie 6222 6227	masse
+T97	topographie 6228 6241	paratrachéale

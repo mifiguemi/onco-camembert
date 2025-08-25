@@ -1,0 +1,70 @@
+T1	morphologie 140 163	adénocarcinome mucineux
+T2	expression_CIM 140 173	adénocarcinome mucineux du rectum
+T3	topographie 167 173	rectum
+T4	expression_CIM 1715 1721	lésion
+T5	morphologie 1715 1721	lésion
+T6	morphologie 1872 1891	lésion métastatique
+T7	expression_CIM 1872 1913	lésion métastatique osseuse de l'omoplate
+T8	topographie 1892 1899	osseuse
+T9	topographie 1905 1913	omoplate
+T10	morphologie 1935 1942	lésions
+T11	expression_CIM 1935 1953	lésions hépatiques
+T12	topographie 1943 1953	hépatiques
+T13	morphologie 1959 1971	infiltration
+T14	expression_CIM 1959 1985	infiltration de la graisse
+T15	topographie 1978 1985	graisse
+T16	expression_CIM 2012 2023	adénopathie
+T17	morphologie 2012 2023	adénopathie
+T18	morphologie 2060 2067	lésions
+T19	expression_CIM 2060 2109	lésions des corps vertébraux dorsaux et lombaires
+T20	topographie 2072 2109	corps vertébraux dorsaux et lombaires
+T21	morphologie 2143 2149	lésion
+T22	expression_CIM 2143 2160	lésion scapulaire
+T23	topographie 2150 2160	scapulaire
+T24	expression_CIM 2197 2206	métastase
+T25	morphologie 2197 2206	métastase
+T26	morphologie 2212 2226	adénocarcinome
+T27	expression_CIM 2212 2233	adénocarcinome rectal
+T28	topographie 2227 2233	rectal
+T29	morphologie 3506 3513	maladie
+T30	expression_CIM 3506 3538	maladie osseuse et adénopathique
+T31	topographie 3514 3521	osseuse
+T32	topographie 3525 3538	adénopathique
+T33	morphologie 3564 3571	lésions
+T34	expression_CIM 3564 3582	lésions hépatiques
+T35	topographie 3572 3582	hépatiques
+#1	ICD-O T1	8480/3
+#2	ICD-O T2	C20.9 8480/3
+#3	ICD-O T3	C20.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C40.0 8000/6;C41.9 8000/6
+#8	ICD-O T8	C41.9
+#9	ICD-O T9	C40.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C22.0 8000/1
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C49.9 8000/1
+#15	ICD-O T15	C49.9
+#16	ICD-O T16	C77.9 8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C41.2 8000/1
+#20	ICD-O T20	C41.2
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C40.0 8000/1
+#23	ICD-O T23	C40.0
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	8140/3
+#27	ICD-O T27	C20.9 8140/3
+#28	ICD-O T28	C20.9
+#29	ICD-O T29	8000/6
+#30	ICD-O T30	C41.9 8000/6;C77.9 8000/6
+#31	ICD-O T31	C41.9
+#32	ICD-O T32	C77.9
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	C22.0 8000/1
+#35	ICD-O T35	C22.0

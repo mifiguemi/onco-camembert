@@ -1,0 +1,20 @@
+T13	morphologie 1103 1135	carcinome épidermoïde infiltrant
+T1	morphologie 837 842	masse
+T3	topographie 843 853	pulmonaire
+T4	topographie 862 865	LSD
+T5	morphologie 909 917	invasion
+T7	topographie 918 930	médiastinale
+T8	morphologie 938 954	lymphadénopathie
+T10	topographie 955 971	sus-claviculaire
+T11	topographie 982 994	médiastinale
+T14	morphologie 1207 1219	adénopathies
+T16	topographie 1220 1230	jugulaires
+T17	morphologie 1253 1258	masse
+T19	topographie 1259 1269	pulmonaire
+T20	morphologie 1402 1423	carcinome épidermoïde
+T22	topographie 1427 1433	poumon
+T23	morphologie 1906 1911	masse
+T25	topographie 1912 1922	pulmonaire
+T26	morphologie 2169 2179	métastases
+T28	topographie 2180 2191	pulmonaires
+T30	morphologie 4143 4160	cellules malignes

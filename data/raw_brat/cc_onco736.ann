@@ -1,0 +1,147 @@
+T1	morphologie 1067 1074	nodules
+T2	expression_CIM 1067 1086	nodules pulmonaires
+T3	topographie 1075 1086	pulmonaires
+T4	expression_CIM 1129 1139	métastases
+T5	morphologie 1129 1139	métastases
+T6	morphologie 1153 1159	nodule
+T7	expression_CIM 1153 1169	nodule hépatique
+T8	topographie 1160 1169	hépatique
+T9	morphologie 1203 1209	lésion
+T10	expression_CIM 1203 1245	lésion de 1,4 cm dans le corps du pancréas
+T11	topographie 1228 1245	corps du pancréas
+T12	morphologie 1252 1258	nodule
+T13	expression_CIM 1252 1270	nodule surrénalien
+T14	topographie 1259 1270	surrénalien
+T15	expression_CIM 1304 1311	adénome
+T16	morphologie 1304 1311	adénome
+T17	morphologie 1416 1425	néoplasie
+T18	expression_CIM 1416 1438	néoplasie pancréatique
+T19	topographie 1426 1438	pancréatique
+T20	morphologie 1457 1467	métastases
+T21	expression_CIM 1457 1479	métastases pulmonaires
+T22	topographie 1468 1479	pulmonaires
+T23	morphologie 1493 1502	métastase
+T24	expression_CIM 1493 1512	métastase hépatique
+T25	topographie 1503 1512	hépatique
+T26	morphologie 1533 1539	lésion
+T27	expression_CIM 1533 1552	lésion pancréatique
+T28	topographie 1540 1552	pancréatique
+T29	expression_CIM 1661 1675	tumeur maligne
+T30	morphologie 1661 1675	tumeur maligne
+T31	morphologie 1697 1704	lésions
+T32	expression_CIM 1697 1716	lésions pulmonaires
+T33	topographie 1705 1716	pulmonaires
+T34	morphologie 1723 1729	lésion
+T35	expression_CIM 1723 1739	lésion hépatique
+T36	topographie 1730 1739	hépatique
+T37	morphologie 2091 2098	nodules
+T38	expression_CIM 2091 2110	nodules pulmonaires
+T39	topographie 2099 2110	pulmonaires
+T40	expression_CIM 2149 2156	nodules
+T41	morphologie 2149 2156	nodules
+T42	expression_CIM 2394 2411	tumeur carcinoïde
+T43	morphologie 2394 2411	tumeur carcinoïde
+T44	expression_CIM 2420 2428	tumorlet
+T45	morphologie 2420 2428	tumorlet
+T46	expression_CIM 2444 2470	hyperplasie neuroendocrine
+T47	morphologie 2444 2470	hyperplasie neuroendocrine
+T48	morphologie 2868 2874	lésion
+T49	expression_CIM 2868 2887	lésion pancréatique
+T50	topographie 2875 2887	pancréatique
+T51	morphologie 2983 2990	lésions
+T52	expression_CIM 2983 3002	lésions pulmonaires
+T53	topographie 2991 3002	pulmonaires
+T54	morphologie 3012 3018	lésion
+T55	expression_CIM 3012 3028	lésion hépatique
+T56	topographie 3019 3028	hépatique
+T57	morphologie 3147 3164	tumeur carcinoïde
+T58	expression_CIM 3147 3175	tumeur carcinoïde pulmonaire
+T59	topographie 3165 3175	pulmonaire
+T60	morphologie 3192 3200	tumorlet
+T61	expression_CIM 3192 3211	tumorlet pulmonaire
+T62	topographie 3201 3211	pulmonaire
+T63	morphologie 3229 3250	tumeur neuroendocrine
+T64	expression_CIM 3229 3263	tumeur neuroendocrine pancréatique
+T65	topographie 3251 3263	pancréatique
+T66	morphologie 3748 3754	lésion
+T67	expression_CIM 3748 3767	lésion pancréatique
+T68	topographie 3755 3767	pancréatique
+T69	morphologie 3814 3821	nodules
+T70	expression_CIM 3814 3833	nodules pulmonaires
+T71	topographie 3822 3833	pulmonaires
+T72	morphologie 3861 3867	lésion
+T73	expression_CIM 3861 3877	lésion hépatique
+T74	topographie 3868 3877	hépatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C22.0 8000/1
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C25.1 8000/1
+#11	ICD-O T11	C25.1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C74.9 8000/1
+#14	ICD-O T14	C74.9
+#15	ICD-O T15	8140/0
+#16	ICD-O T16	8140/0
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C25.9 8000/1
+#19	ICD-O T19	C25.9
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C34.9 8000/6
+#22	ICD-O T22	C34.9
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	C22.0 8000/6
+#25	ICD-O T25	C22.0
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C25.9 8000/1
+#28	ICD-O T28	C25.9
+#29	ICD-O T29	8000/3
+#30	ICD-O T30	8000/3
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	C34.9 8000/1
+#33	ICD-O T33	C34.9
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	C22.0 8000/1
+#36	ICD-O T36	C22.0
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C34.9 8000/1
+#39	ICD-O T39	C34.9
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	8000/1
+#42	ICD-O T42	8240/3
+#43	ICD-O T43	8240/3
+#44	ICD-O T44	8040/1
+#45	ICD-O T45	8040/1
+#46	ICD-O T47	8246/1
+#47	ICD-O T48	8000/1
+#48	ICD-O T49	C25.9 8000/1
+#49	ICD-O T50	C25.9
+#50	ICD-O T51	8000/1
+#51	ICD-O T52	C34.9 8000/1
+#52	ICD-O T53	C34.9
+#53	ICD-O T54	8000/1
+#54	ICD-O T55	C22.0 8000/1
+#55	ICD-O T56	C22.0
+#56	ICD-O T57	8240/3
+#57	ICD-O T58	C34.9 8240/3
+#58	ICD-O T59	C34.9
+#59	ICD-O T60	8040/1
+#60	ICD-O T61	C34.9 8040/1
+#61	ICD-O T62	C34.9
+#62	ICD-O T63	8246/3
+#63	ICD-O T64	C25.9 8246/3
+#64	ICD-O T65	C25.9
+#65	ICD-O T66	8000/1
+#66	ICD-O T67	C25.9 8000/1
+#67	ICD-O T68	C25.9
+#68	ICD-O T69	8000/1
+#69	ICD-O T70	C34.9 8000/1
+#70	ICD-O T71	C34.9
+#71	ICD-O T72	8000/1
+#72	ICD-O T73	C22.0 8000/1
+#73	ICD-O T74	C22.0

@@ -1,0 +1,80 @@
+T40	morphologie 9535 9537	CM
+T1	morphologie 762 769	nodules
+T2	expression_CIM 762 814	nodules pulmonaires dans les deux champs pulmonaires
+T3	topographie 770 781	pulmonaires
+T4	topographie 803 814	pulmonaires
+T5	morphologie 966 973	nodules
+T6	expression_CIM 966 985	nodules pulmonaires
+T7	topographie 974 985	pulmonaires
+T8	morphologie 1139 1151	adénopathies
+T9	expression_CIM 1139 1165	adénopathies médiastinales
+T10	topographie 1152 1165	médiastinales
+T11	expression_CIM 1419 1451	cellules tumorales malignes (CTM
+T12	morphologie 1419 1451	cellules tumorales malignes (CTM
+T13	morphologie 1731 1745	adénocarcinome
+T14	expression_CIM 1731 1756	adénocarcinome pulmonaire
+T15	topographie 1746 1756	pulmonaire
+T16	morphologie 1847 1861	adénocarcinome
+T17	expression_CIM 1847 1872	adénocarcinome pulmonaire
+T18	topographie 1862 1872	pulmonaire
+T19	morphologie 2355 2360	masse
+T20	expression_CIM 2355 2371	masse pulmonaire
+T21	topographie 2361 2371	pulmonaire
+T22	morphologie 2407 2414	nodules
+T23	expression_CIM 2407 2426	nodules pulmonaires
+T24	topographie 2415 2426	pulmonaires
+T25	morphologie 2655 2666	progression
+T26	expression_CIM 2655 2677	progression pulmonaire
+T27	topographie 2667 2677	pulmonaire
+T28	morphologie 3735 3746	progression
+T29	expression_CIM 3735 3757	progression pulmonaire
+T30	topographie 3747 3757	pulmonaire
+T31	expression_CIM 6233 6239	masses
+T32	morphologie 6233 6239	masses
+T33	morphologie 7242 7251	extension
+T34	expression_CIM 7242 7278	extension aux pédoncules cérébelleux
+T35	topographie 7256 7278	pédoncules cérébelleux
+T36	expression_CIM 7818 7841	atteinte carcinomateuse
+T37	morphologie 7818 7841	atteinte carcinomateuse
+T38	expression_CIM 7898 7926	méningite carcinomateuse (MC
+T41	expression_CIM 9535 9544	CM du LCR
+T42	topographie 9541 9544	LCR
+T39	morphologie 7898 7926	méningite carcinomateuse (MC
+#1	ICD-O T40	tocheck
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C34.9 8000/1
+#4	ICD-O T3	C34.9
+#5	ICD-O T4	C34.9
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	C34.9 8000/1
+#8	ICD-O T7	C34.9
+#9	ICD-O T8	8000/1
+#10	ICD-O T9	C77.1 8000/1
+#11	ICD-O T10	C38.3
+#12	ICD-O T12	8001/3
+#13	ICD-O T13	8140/3
+#14	ICD-O T14	C34.9 8140/3
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	8140/3
+#17	ICD-O T17	C34.9 8140/3
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C34.9 8000/1
+#21	ICD-O T21	C34.9
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C34.9 8000/1
+#24	ICD-O T24	C34.9
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	C34.9 8000/6
+#27	ICD-O T27	C34.9
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	C34.9 8000/6
+#30	ICD-O T30	C34.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	C71.6 8000/6
+#35	ICD-O T35	C71.6
+#36	ICD-O T36	8010/6
+#37	ICD-O T37	8010/6
+#38	ICD-O T39	8000/6

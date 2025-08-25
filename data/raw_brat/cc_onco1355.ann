@@ -1,0 +1,71 @@
+T1	morphologie 466 471	masse
+T2	expression_CIM 466 516	masse solide a été trouvée dans le sinus sphénoïde
+T3	topographie 501 516	sinus sphénoïde
+T4	expression_CIM 539 548	néoplasie
+T5	morphologie 539 548	néoplasie
+T6	expression_CIM 684 690	lésion
+T7	morphologie 684 690	lésion
+T8	expression_CIM 765 771	tumeur
+T9	morphologie 765 771	tumeur
+T10	expression_CIM 839 858	stésioneuroblastome
+T11	morphologie 839 858	stésioneuroblastome
+T12	expression_CIM 1111 1122	adénopathie
+T13	morphologie 1111 1122	adénopathie
+T14	expression_CIM 1200 1205	masse
+T15	morphologie 1200 1205	masse
+T16	morphologie 1478 1487	extension
+T17	expression_CIM 1478 1528	extension intracrânienne dans les citernes basales
+T19	expression_CIM 1662 1668	lésion
+T20	morphologie 1662 1668	lésion
+T21	morphologie 1803 1811	invasion
+T22	expression_CIM 1803 1841	invasion partielle des sinus caverneux
+T23	topographie 1826 1841	sinus caverneux
+T24	morphologie 1985 1994	extension
+T25	expression_CIM 1985 2014	extension vers l'os sphénoïde
+T26	topographie 2002 2014	os sphénoïde
+T27	expression_CIM 2194 2200	tumeur
+T28	morphologie 2194 2200	tumeur
+T29	morphologie 2327 2346	stésioneuroblastome
+T30	expression_CIM 2327 2361	stésioneuroblastome GI-II de Hyams
+T31	differenciation 2347 2361	GI-II de Hyams
+T32	expression_CIM 2426 2445	stésioneuroblastome
+T33	morphologie 2426 2445	stésioneuroblastome
+T34	expression_CIM 2498 2504	lésion
+T35	morphologie 2498 2504	lésion
+T36	expression_CIM 2651 2656	masse
+T37	morphologie 2651 2656	masse
+T18	topographie 1488 1528	intracrânienne dans les citernes basales
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C31.3
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T11	8980/3
+#10	ICD-O T12	C77.9 8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/6
+#15	ICD-O T19	8000/1
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	C49.0 8000/1
+#19	ICD-O T23	C49.0
+#20	ICD-O T24	8000/6
+#21	ICD-O T25	C41.0 8000/6
+#22	ICD-O T26	C41.0
+#23	ICD-O T27	8000/1
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	8980/3
+#26	ICD-O T31	2
+#27	ICD-O T33	8980/3
+#28	ICD-O T34	8000/1
+#29	ICD-O T35	8000/1
+#30	ICD-O T36	8000/1
+#31	ICD-O T37	8000/1
+#32	AnnotatorNotes T11	trad
+#33	AnnotatorNotes T29	trad
+#34	AnnotatorNotes T33	trad

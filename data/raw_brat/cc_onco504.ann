@@ -1,0 +1,95 @@
+T1	morphologie 415 423	mélanome
+T2	expression_CIM 415 434	mélanome choroïdien
+T3	topographie 424 434	choroïdien
+T4	expression_CIM 497 515	lésions à distance
+T5	morphologie 497 515	lésions à distance
+T6	expression_CIM 736 756	rechute métastatique
+T7	morphologie 736 756	rechute métastatique
+T8	morphologie 931 938	nodules
+T9	expression_CIM 931 950	nodules pulmonaires
+T10	topographie 939 950	pulmonaires
+T11	morphologie 976 982	lésion
+T12	expression_CIM 976 1069	lésion des tissus mous de 1 cm dans le médiastin en topographie pré-aortique et rétrosternale
+T13	topographie 987 998	tissus mous
+T14	topographie 1015 1024	médiastin
+T15	topographie 1056 1069	rétrosternale
+T16	morphologie 1077 1083	lésion
+T17	expression_CIM 1077 1097	lésion surrénalienne
+T18	topographie 1084 1097	surrénalienne
+T19	morphologie 1131 1138	lésions
+T20	expression_CIM 1131 1149	lésions hépatiques
+T21	topographie 1139 1149	hépatiques
+T22	expression_CIM 1170 1180	métastases
+T23	morphologie 1170 1180	métastases
+T24	expression_CIM 1264 1273	métastase
+T25	morphologie 1264 1273	métastase
+T26	expression_CIM 1283 1297	mélanome malin
+T27	morphologie 1283 1297	mélanome malin
+T28	morphologie 1802 1809	lésions
+T29	expression_CIM 1802 1820	lésions hépatiques
+T30	topographie 1810 1820	hépatiques
+T31	morphologie 2662 2668	lésion
+T32	expression_CIM 2662 2682	lésion rétrosternale
+T33	topographie 2669 2682	rétrosternale
+T34	morphologie 2698 2705	lésions
+T35	expression_CIM 2698 2716	lésions hépatiques
+T36	topographie 2706 2716	hépatiques
+T37	morphologie 2755 2764	métastase
+T38	expression_CIM 2755 2778	métastase surrénalienne
+T39	topographie 2765 2778	surrénalienne
+T40	morphologie 4609 4618	métastase
+T41	expression_CIM 4609 4632	métastase surrénalienne
+T42	topographie 4619 4632	surrénalienne
+T43	morphologie 4662 4668;4679 4691	lésion métastatique
+T44	expression_CIM 4662 4691	lésion hépatique métastatique
+T45	topographie 4669 4678	hépatique
+T46	morphologie 4716 4723	nodules
+T47	expression_CIM 4716 4735	nodules pulmonaires
+T48	topographie 4724 4735	pulmonaires
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C69.3 8720/3
+#3	ICD-O T3	C69.3
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C34.9 8000/1
+#10	ICD-O T10	C34.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T13	C49.9
+#13	ICD-O T14	C38.3
+#14	ICD-O T15	C76.1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C74.9 8000/1
+#17	ICD-O T18	C74.9
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C22.0 8000/1
+#20	ICD-O T21	C22.0
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	8720/3
+#26	ICD-O T27	8720/3
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	C22.0 8000/1
+#29	ICD-O T30	C22.0
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	C76.1 8000/1
+#32	ICD-O T33	C76.1
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	C22.0 8000/1
+#35	ICD-O T36	C22.0
+#36	ICD-O T37	8000/6
+#37	ICD-O T38	C74.9 8000/6
+#38	ICD-O T39	C74.9
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	C74.9 8000/6
+#41	ICD-O T42	C74.9
+#42	ICD-O T43	8000/6
+#43	ICD-O T44	C22.0 8000/6
+#44	ICD-O T45	C22.0
+#45	ICD-O T46	8000/1
+#46	ICD-O T47	C34.9 8000/1
+#47	ICD-O T48	C34.9

@@ -1,0 +1,147 @@
+T36	topographie 3655 3666	nerf facial
+T21	topographie 1682 1693	périneurale
+T1	morphologie 204 211	nodules
+T2	expression_CIM 204 238	nodules cutanés autour de l'aréole
+T3	topographie 212 219	cutanés
+T4	topographie 232 238	aréole
+T5	morphologie 265 292	cancer canalaire infiltrant
+T6	expression_CIM 265 300	cancer canalaire infiltrant du sein
+T7	topographie 296 300	sein
+T8	morphologie 650 656	cancer
+T9	expression_CIM 650 671	cancer de l'endomètre
+T10	topographie 662 671	endomètre
+T11	morphologie 1340 1370	carcinome canalaire infiltrant
+T12	expression_CIM 1340 1419	carcinome canalaire infiltrant résiduel multifocal, grade 2 de Bloom-Richardson
+T13	differenciation 1392 1419	grade 2 de Bloom-Richardson
+T14	expression_CIM 1463 1477	masse tumorale
+T15	morphologie 1463 1477	masse tumorale
+T16	morphologie 1545 1555	métastases
+T17	expression_CIM 1545 1597	métastases dans six des douze ganglions lymphatiques
+T18	topographie 1575 1597	ganglions lymphatiques
+T19	morphologie 1673 1681	invasion
+T20	expression_CIM 1673 1693	invasion périneurale
+T22	morphologie 2113 2131;2157 2187	lésions nodulaires compatibles avec une léthargie
+T23	expression_CIM 2113 2187	lésions nodulaires de la cicatrice mammaire compatibles avec une léthargie
+T24	topographie 2148 2156	mammaire
+T25	expression_CIM 2229 2238	métastase
+T26	morphologie 2229 2238	métastase
+T27	morphologie 2242 2251	carcinome
+T28	expression_CIM 2242 2270	carcinome d'origine mammaire
+T29	topographie 2262 2270	mammaire
+T30	expression_CIM 2587 2593	tumeur
+T31	morphologie 2587 2593	tumeur
+T32	expression_CIM 2749 2769	maladie métastatique
+T33	morphologie 2749 2769	maladie métastatique
+T34	morphologie 3624 3632	atteinte
+T35	expression_CIM 3624 3666	atteinte du troisième coude du nerf facial
+T37	morphologie 5327 5343	lésion nodulaire
+T38	expression_CIM 5327 5447	lésion nodulaire d'aspect friable, d'environ 5 mm de diamètre, sur la paroi postérosupérieure du conduit auditif externe
+T39	topographie 5424 5447	conduit auditif externe
+T40	morphologie 5618 5624	nodule
+T41	expression_CIM 5618 5721	nodule de densité de tissu mou mesurant 6 x 10 x 4 mm à l'extrémité profonde du conduit auditif externe
+T42	topographie 5698 5721	conduit auditif externe
+T43	morphologie 6013 6032	maladie oncologique
+T44	expression_CIM 6013 6139	maladie oncologique au niveau du ganglion lymphatique axillaire controlatéral, de la peau, du poumon et de l'os (4e arc costal
+T45	topographie 6046 6076	ganglion lymphatique axillaire
+T46	topographie 6098 6102	peau
+T47	topographie 6107 6113	poumon
+T48	topographie 6122 6124	os
+T49	topographie 6129 6139	arc costal
+T50	morphologie 6225 6231	lésion
+T51	expression_CIM 6225 6252	lésion de l'oreille moyenne
+T52	topographie 6237 6252	oreille moyenne
+T53	morphologie 6296 6305	carcinome
+T54	expression_CIM 6296 6321	carcinome peu différencié
+T55	differenciation 6306 6321	peu différencié
+T56	expression_CIM 6376 6386	métastases
+T57	morphologie 6376 6386	métastases
+T58	morphologie 6390 6399	carcinome
+T59	expression_CIM 6390 6408	carcinome mammaire
+T60	topographie 6400 6408	mammaire
+T61	morphologie 6619 6625	cancer
+T62	expression_CIM 6619 6633	cancer du sein
+T63	topographie 6629 6633	sein
+T64	morphologie 6651 6661	métastases
+T65	expression_CIM 6651 6714	métastases de carcinome mammaire au niveau de l'oreille moyenne
+T66	morphologie 6665 6674	carcinome
+T67	expression_CIM 6665 6683	carcinome mammaire
+T68	topographie 6675 6683	mammaire
+T69	topographie 6699 6714	oreille moyenne
+T70	expression_CIM 7249 7269	maladie métastatique
+T71	morphologie 7249 7269	maladie métastatique
+T72	expression_CIM 7788 7795	lésions
+T73	morphologie 7788 7795	lésions
+T74	morphologie 8262 8268	lésion
+T75	expression_CIM 8262 8289	lésion de l'oreille moyenne
+T76	topographie 8274 8289	oreille moyenne
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1;C50.0 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C50.0
+#5	ICD-O T5	8500/3
+#6	ICD-O T6	C50.9 8500/3
+#7	ICD-O T7	C50.9
+#8	ICD-O T8	8000/3
+#9	ICD-O T9	C54.1 8000/3
+#10	ICD-O T10	C54.1
+#11	ICD-O T11	8500/3
+#12	ICD-O T13	2
+#13	ICD-O T14	8000/3
+#14	ICD-O T15	8000/3
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	C77.9 8000/6
+#17	ICD-O T18	C77.9
+#18	ICD-O T19	8000/1
+#19	ICD-O T22	8000/6
+#20	ICD-O T24	C50.9
+#21	ICD-O T25	8000/6
+#22	ICD-O T26	8000/6
+#23	ICD-O T27	8010/3
+#24	ICD-O T28	C50.9 8010/3
+#25	ICD-O T29	C50.9
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	8000/1
+#28	ICD-O T32	8000/6
+#29	ICD-O T33	8000/6
+#30	ICD-O T34	8000/9
+#31	ICD-O T37	8000/1
+#32	ICD-O T38	C44.2 8000/1
+#33	ICD-O T39	C44.2
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	C44.2 8000/1
+#36	ICD-O T42	C44.2
+#37	ICD-O T43	8000/9
+#38	ICD-O T44	C34.9 8000/3;C41.3 8000/3;C41.9 8000/3;C44.9 8000/3;C77.3 8000/3
+#39	ICD-O T45	C77.3
+#40	ICD-O T46	C44.9
+#41	ICD-O T47	C34.9
+#42	ICD-O T48	C41.9
+#43	ICD-O T49	C41.3
+#44	ICD-O T50	8000/1
+#45	ICD-O T51	C30.1 8000/1
+#46	ICD-O T52	C30.1
+#47	ICD-O T53	8010/3
+#48	ICD-O T54	8010/33
+#49	ICD-O T55	3
+#50	ICD-O T56	8000/6
+#51	ICD-O T57	8000/6
+#52	ICD-O T58	8010/3
+#53	ICD-O T59	C50.9 8010/3
+#54	ICD-O T60	C50.9
+#55	ICD-O T61	8000/3
+#56	ICD-O T62	C50.9 8000/3
+#57	ICD-O T63	C50.9
+#58	ICD-O T64	8000/6
+#59	ICD-O T65	C30.1 8000/6
+#60	ICD-O T66	8010/3
+#61	ICD-O T67	C50.9 8010/3
+#62	ICD-O T68	C50.9
+#63	ICD-O T69	C30.1
+#64	ICD-O T70	8000/6
+#65	ICD-O T71	8000/6
+#66	ICD-O T72	8000/1
+#67	ICD-O T73	8000/1
+#68	ICD-O T74	8000/1
+#69	ICD-O T75	C30.1 8000/1
+#70	ICD-O T76	C30.1
+#71	AnnotatorNotes T22	trad

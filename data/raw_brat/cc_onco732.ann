@@ -1,0 +1,98 @@
+T40	topographie 4054 4122	ganglions lymphatiques, supra-claviculaires bilatéraux et axillaires
+T1	morphologie 337 340	IDC
+T2	expression_CIM 337 375	IDC multifocal du sein gauche, grade 1
+T3	topographie 355 359	sein
+T4	expression_CIM 1049 1077	rechute locale ou à distance
+T5	morphologie 1049 1077	rechute locale ou à distance
+T6	expression_CIM 1289 1297	récidive
+T7	morphologie 1289 1297	récidive
+T8	expression_CIM 1675 1684	néoplasme
+T9	morphologie 1675 1684	néoplasme
+T10	expression_CIM 1885 1891	polype
+T11	morphologie 1885 1891	polype
+T12	morphologie 1984 2001	adénome tubulaire
+T13	expression_CIM 1984 2029	adénome tubulaire avec dysplasie de bas grade
+T14	differenciation 2020 2029	bas grade
+T15	morphologie 2244 2253	captation
+T16	expression_CIM 2244 2284	captation anormale dans l'intestin grêle
+T17	topographie 2270 2284	intestin grêle
+T18	morphologie 2490 2496	lésion
+T19	expression_CIM 2490 2505	lésion jéjunale
+T20	topographie 2497 2505	jéjunale
+T21	expression_CIM 2534 2541	angiome
+T22	morphologie 2534 2541	angiome
+T23	morphologie 3157 3164	polypes
+T24	expression_CIM 3157 3204	polypes sessiles ont été observés dans le côlon
+T25	topographie 3199 3204	côlon
+T26	morphologie 3343 3364;3383 3420	adénocarcinome diffus avec des cellules en anneau de signet
+T27	expression_CIM 3343 3420	adénocarcinome diffus, peu différencié, avec des cellules en anneau de signet
+T28	differenciation 3366 3381	peu différencié
+T29	morphologie 3711 3721	métastases
+T30	expression_CIM 3711 3730	métastases coliques
+T31	topographie 3722 3730	coliques
+T32	morphologie 3838 3887	augmentation hétérogène de l'activité métabolique
+T33	expression_CIM 3838 3912	augmentation hétérogène de l'activité métabolique dans l'ensemble du côlon
+T34	topographie 3907 3912	côlon
+T35	morphologie 3923 3930	lésions
+T36	expression_CIM 3923 4122	lésions focales hyper-renforcées dans les régions iléo-colique, du côlon droit et du sigmoïde (SUVmax 6,7), ainsi qu'au niveau des ganglions lymphatiques, supra-claviculaires bilatéraux et axillaires
+T38	topographie 3990 4001	côlon droit
+T39	topographie 4008 4016	sigmoïde
+T41	expression_CIM 4137 4145	récidive
+T42	morphologie 4137 4145	récidive
+T43	morphologie 4209 4229	Rechute métastatique
+T44	expression_CIM 4209 4254	Rechute métastatique colique et ganglionnaire
+T45	topographie 4230 4237	colique
+T46	topographie 4241 4254	ganglionnaire
+T47	morphologie 4557 4568	progression
+T48	expression_CIM 4557 4576	progression osseuse
+T49	topographie 4569 4576	osseuse
+T50	morphologie 4598 4605	lésions
+T51	expression_CIM 4598 4654	lésions lytiques au niveau du sacrum et du rachis dorsal
+T52	topographie 4628 4634	sacrum
+T53	topographie 4641 4654	rachis dorsal
+T37	topographie 3965 3985	régions iléo-colique
+#1	ICD-O T1	8500/3
+#2	ICD-O T3	C50.9
+#3	ICD-O T5	8000/9
+#4	ICD-O T6	8000/6
+#5	ICD-O T7	8000/6
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/1
+#8	ICD-O T11	8210/1
+#9	ICD-O T12	8211/0
+#10	ICD-O T13	8211/01
+#11	ICD-O T14	1
+#12	ICD-O T15	8000/1
+#13	ICD-O T17	C17.9
+#14	ICD-O T18	8000/1
+#15	ICD-O T19	C17.1 8000/1
+#16	ICD-O T20	C17.1
+#17	ICD-O T21	9120/0
+#18	ICD-O T22	9120/0
+#19	ICD-O T23	8210/1
+#20	ICD-O T25	C18
+#21	ICD-O T26	8490/3
+#22	ICD-O T28	3
+#23	ICD-O T29	8000/6
+#24	ICD-O T30	C18.9 8000/6
+#25	ICD-O T31	C18.9
+#26	ICD-O T32	8000/9
+#27	ICD-O T34	C18
+#28	ICD-O T35	8000/1
+#29	ICD-O T36	C18.2 8000/1;C18.7 8000/1;C26.9 8000/1;C77.0 8000/1;C77.3 8000/1
+#30	ICD-O T38	C18.2
+#31	ICD-O T39	C18.7
+#32	ICD-O T41	8000/6
+#33	ICD-O T42	8000/9
+#34	ICD-O T43	8000/6
+#35	ICD-O T44	C18.9 8000/6;C77.9 8000/6
+#36	ICD-O T45	C18.9
+#37	ICD-O T46	C77.9
+#38	ICD-O T47	8000/9
+#39	ICD-O T48	C41.9 8000/6
+#40	ICD-O T49	C41.9
+#41	ICD-O T50	8000/1
+#42	ICD-O T51	C41.2 8000/1;C41.4 8000/1
+#43	ICD-O T52	C41.4
+#44	ICD-O T53	C41.2
+#45	AnnotatorNotes T26	trad

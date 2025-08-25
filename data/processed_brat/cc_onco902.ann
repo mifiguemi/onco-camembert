@@ -1,0 +1,34 @@
+T31	topographie 3267 3277	hémisacrum
+T1	morphologie 255 285	carcinome canalaire infiltrant
+T3	topographie 289 293	sein
+T5	morphologie 302 305	CDI
+T6	morphologie 340 357	carcinome in situ
+T8	morphologie 393 405	infiltration
+T10	topographie 406 424	vasculolymphatique
+T12	morphologie 499 509	métastases
+T14	morphologie 517 529	adénopathies
+T16	morphologie 662 673	IDC luminal
+T17	morphologie 2930 2937	nodules
+T19	topographie 2938 2949	pulmonaires
+T21	morphologie 3070 3091	atteinte métastatique
+T22	morphologie 3122 3128	lésion
+T24	topographie 3129 3136	osseuse
+T26	morphologie 3154 3168	tumeur maligne
+T28	morphologie 3185 3191	lésion
+T30	topographie 3218 3227	tissu mou
+T33	morphologie 3306 3315	métastase
+T34	morphologie 3357 3365	atteinte
+T36	topographie 3405 3443	moelle épinière de la colonne lombaire
+T37	topographie 3448 3454	bassin
+T38	topographie 3491 3497	fémurs
+T40	morphologie 3588 3609	atteinte métastatique
+T41	morphologie 3673 3684	ostéoblaste
+T43	topographie 3685 3691	osseux
+T45	morphologie 3692 3694	M1
+T46	morphologie 3792 3798	lésion
+T48	topographie 3799 3809	pulmonaire
+T49	topographie 3813 3819	sacrée
+T51	morphologie 5074 5090	Myélome multiple
+T53	morphologie 5092 5094	MM
+T54	morphologie 5111 5123	plasmocytome
+T56	topographie 5124 5134	pulmonaire

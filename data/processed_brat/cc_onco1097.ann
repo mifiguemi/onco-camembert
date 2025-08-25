@@ -1,0 +1,27 @@
+T1	morphologie 773 779	lipome
+T3	topographie 783 788	flanc
+T4	morphologie 855 872	adénome tubulaire
+T6	topographie 876 881	côlon
+T7	topographie 888 894	rectum
+T9	morphologie 1092 1104	adénopathies
+T11	morphologie 1334 1339	masse
+T12	morphologie 2120 2148	lésion lytique, multiloculée
+T14	topographie 2152 2160	C6 et C7
+T15	morphologie 2239 2263	lésion lytique expansive
+T17	topographie 2278 2303	corps vertébraux C6 et C7
+T19	morphologie 3094 3100	tumeur
+T20	morphologie 3169 3175	tumeur
+T22	topographie 3176 3190	cartilagineuse
+T24	morphologie 3209 3226	atteinte tumorale
+T26	morphologie 3234 3248	chondrosarcome
+T27	morphologie 3308 3322	Chondrosarcome
+T29	topographie 3326 3347	corps vertébral C6-C7
+T30	morphologie 3573 3585	infiltration
+T32	topographie 3586 3593	osseuse
+T33	morphologie 3601 3615	chondrosarcome
+T35	differenciation 3619 3628	bas grade
+T37	morphologie 4019 4025	lésion
+T39	morphologie 4537 4543	tumeur
+T41	morphologie 4634 4649	lésion tumorale
+T42	morphologie 5039 5053	chondrosarcome
+T44	differenciation 5057 5066	bas grade

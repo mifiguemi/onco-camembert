@@ -1,0 +1,81 @@
+T9	morphologie 2779 2805	lésion d'étiologie maligne
+T23	topographie 3727 3745	région auriculaire
+T1	morphologie 2019 2024	masse
+T2	expression_CIM 2019 2038	masse paracardiaque
+T3	topographie 2025 2038	paracardiaque
+T4	expression_CIM 2224 2229	masse
+T5	morphologie 2224 2229	masse
+T6	expression_CIM 2604 2609	masse
+T7	morphologie 2604 2609	masse
+T8	expression_CIM 2779 2805	lésion d'étiologie maligne
+T10	expression_CIM 2885 2891	lésion
+T11	morphologie 2885 2891	lésion
+T12	expression_CIM 3246 3252	lésion
+T13	morphologie 3246 3252	lésion
+T14	expression_CIM 3483 3513	néoplasme mésenchymateux malin
+T15	morphologie 3483 3513	néoplasme mésenchymateux malin
+T16	morphologie 3515 3522	sarcome
+T17	expression_CIM 3515 3536	sarcome de haut grade
+T18	differenciation 3526 3536	haut grade
+T19	expression_CIM 3598 3610	angiosarcome
+T20	morphologie 3598 3610	angiosarcome
+T21	morphologie 3713 3718	masse
+T22	expression_CIM 3713 3745	masse dans la région auriculaire
+T24	morphologie 3799 3805	lésion
+T25	expression_CIM 3799 3864	lésion lytique a été observée dans l'aile hypermétabolique sacrée
+T26	topographie 3836 3840;3858 3864	aile sacrée
+T27	morphologie 4436 4442	lésion
+T28	expression_CIM 4436 4459	lésion de l'aile sacrée
+T29	topographie 4448 4459	aile sacrée
+T30	expression_CIM 4498 4513	tumeur primaire
+T31	morphologie 4498 4513	tumeur primaire
+T32	morphologie 4647 4653	lésion
+T33	expression_CIM 4647 4661	lésion osseuse
+T34	topographie 4654 4661	osseuse
+T35	morphologie 5121 5127	lésion
+T36	expression_CIM 5121 5141	lésion paracardiaque
+T37	topographie 5128 5141	paracardiaque
+T38	expression_CIM 5154 5176	foyer hyperharmonisant
+T39	morphologie 5154 5176	foyer hyperharmonisant
+T40	expression_CIM 5874 5880	lésion
+T41	morphologie 5874 5880	lésion
+T42	expression_CIM 6794 6807	tissu tumoral
+T43	morphologie 6794 6807	tissu tumoral
+#1	ICD-O T9	8000/9
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C38.8 8000/1
+#4	ICD-O T3	C38.8
+#5	ICD-O T4	8000/1
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	8000/1
+#8	ICD-O T7	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8800/3
+#14	ICD-O T15	8800/3
+#15	ICD-O T16	8800/3
+#16	ICD-O T17	8800/34
+#17	ICD-O T18	4
+#18	ICD-O T19	9120/3
+#19	ICD-O T20	9120/3
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C44.2 8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T26	C41.4
+#24	ICD-O T27	8000/1
+#25	ICD-O T29	C41.4
+#26	ICD-O T30	8000/3
+#27	ICD-O T31	8000/3
+#28	ICD-O T32	8000/1
+#29	ICD-O T33	C41.9 8000/1
+#30	ICD-O T34	C41.9
+#31	ICD-O T35	8000/1
+#32	ICD-O T36	C38.8 8000/1
+#33	ICD-O T37	C38.8
+#34	ICD-O T39	8000/9
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	8000/3
+#38	ICD-O T43	8000/3

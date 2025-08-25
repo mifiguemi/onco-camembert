@@ -1,0 +1,40 @@
+T1	morphologie 1120 1127	lésions
+T3	topographie 1144 1148	lobe
+T5	morphologie 1212 1222	métastases
+T7	morphologie 1405 1411	tumeur
+T8	morphologie 1669 1676	lésions
+T10	topographie 1677 1687	hépatiques
+T12	morphologie 1799 1806	nodules
+T13	morphologie 1972 1985	dissémination
+T15	topographie 1986 2000	endobronchique
+T17	morphologie 2405 2414	métastase
+T18	morphologie 2420 2429	carcinome
+T62	morphologie 2444 2462	à petites cellules
+T20	differenciation 2430 2443	indifférencié
+T21	topographie 2466 2472	poumon
+T23	morphologie 2474 2502	carcinome à petites cellules
+T25	morphologie 2670 2691	cellules néoplasiques
+T27	morphologie 2752 2771	formation nodulaire
+T29	morphologie 2923 2932	métastase
+T30	morphologie 2938 2966	carcinome à petites cellules
+T32	differenciation 2967 2980	indifférencié
+T33	topographie 2984 2990	poumon
+T35	morphologie 3165 3184	maladie néoplasique
+T37	morphologie 3296 3312	maladie tumorale
+T38	morphologie 3413 3419	cancer
+T63	morphologie 3430 3448	à petites cellules
+T40	topographie 3423 3429	poumon
+T41	morphologie 3462 3471	Carcinome
+T64	morphologie 3497 3515	à petites cellules
+T43	topographie 3472 3482	pulmonaire
+T44	differenciation 3483 3496	indifférencié
+T46	morphologie 3517 3539	carcinome microcytaire
+T48	morphologie 3544 3552	stade IV
+T49	morphologie 3554 3564	métastases
+T51	topographie 3565 3575	hépatiques
+T53	morphologie 3853 3876	stabilité de la maladie
+T54	morphologie 3908 3918	métastases
+T56	topographie 3919 3929	hépatiques
+T58	morphologie 4302 4309	lésions
+T59	morphologie 4343 4350	lésions
+T61	topographie 4360 4378	segments VII et VI

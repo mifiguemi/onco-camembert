@@ -1,0 +1,28 @@
+T2	morphologie 360 368	stade IV
+T4	morphologie 2034 2039	masse
+T6	morphologie 3015 3039	adénopathie pathologique
+T7	morphologie 3077 3086	néoplasie
+T9	topographie 3087 3099	thyroïdienne
+T10	morphologie 3333 3342	carcinome
+T45	morphologie 3354 3365	anaplasique
+T12	topographie 3343 3353	thyroïdien
+T13	differenciation 3367 3380	indifférencié
+T14	morphologie 3445 3453	invasion
+T16	topographie 3454 3465	périneurale
+T17	morphologie 3510 3518	invasion
+T19	topographie 3519 3529	vasculaire
+T20	morphologie 3640 3649	Carcinome
+T46	morphologie 3661 3672	anaplasique
+T22	topographie 3650 3660	thyroïdien
+T24	morphologie 3676 3685	stade IVb
+T26	morphologie 4117 4132	récidive locale
+T28	morphologie 4168 4173	masse
+T30	morphologie 4368 4380	adénopathies
+T31	morphologie 4451 4462	adénopathie
+T33	topographie 4463 4480	para-œsophagienne
+T34	morphologie 4497 4508	adénopathie
+T36	topographie 4509 4522	paratrachéale
+T38	morphologie 4548 4572	dissémination à distance
+T40	morphologie 4957 4963	tumeur
+T42	morphologie 7572 7598	adénopathies pathologiques
+T44	morphologie 7632 7646	masse tumorale

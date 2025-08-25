@@ -1,0 +1,23 @@
+T3	topographie 532 544	intra-axiale
+T14	topographie 1349 1361	intra-axiale
+T32	topographie 3317 3337	marge antéro-médiale
+T4	topographie 553 577	région temporale médiane
+T1	morphologie 525 531	tumeur
+T5	morphologie 1120 1126	gliome
+T7	topographie 1127 1135	temporal
+T8	differenciation 1145 1154	bas grade
+T9	morphologie 1208 1233	gangliogliome anaplasique
+T11	topographie 1234 1242	temporal
+T12	morphologie 1342 1348	lésion
+T16	morphologie 1419 1434	restes tumoraux
+T18	morphologie 1471 1477	tumeur
+T19	morphologie 2088 2119	gangliogliome anaplasique focal
+T21	differenciation 2121 2139	grade III de l'OMS
+T23	morphologie 2181 2197	reliquat tumoral
+T25	morphologie 2331 2351	progression tumorale
+T27	morphologie 3149 3169	progression tumorale
+T29	morphologie 3179 3185	lésion
+T30	morphologie 3290 3308	reliquats tumoraux
+T34	morphologie 3496 3521	progression de la maladie
+T36	morphologie 3930 3950	Progression tumorale
+T38	morphologie 3998 4012	nodule tumoral

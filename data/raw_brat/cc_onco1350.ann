@@ -1,0 +1,64 @@
+T1	morphologie 44 57	fibroadénomes
+T2	expression_CIM 44 67	fibroadénomes mammaires
+T3	topographie 58 67	mammaires
+T4	morphologie 103 108	myome
+T5	expression_CIM 103 115	myome utérin
+T6	topographie 109 115	utérin
+T7	morphologie 176 185	néoplasme
+T8	expression_CIM 176 193	néoplasme du sein
+T9	topographie 189 193	sein
+T10	expression_CIM 204 267	carcinome infiltrant à composante mixte (canalaire et lobulaire
+T11	morphologie 204 267	carcinome infiltrant à composante mixte (canalaire et lobulaire
+T12	morphologie 510 518	récidive
+T13	expression_CIM 510 528	récidive axillaire
+T14	topographie 519 528	axillaire
+T15	expression_CIM 580 586	lésion
+T16	morphologie 580 586	lésion
+T17	expression_CIM 624 654	carcinome canalaire infiltrant
+T18	morphologie 624 654	carcinome canalaire infiltrant
+T19	morphologie 901 918	récidive tumorale
+T20	expression_CIM 901 934	récidive tumorale dans l'aisselle
+T21	topographie 926 934	aisselle
+T22	expression_CIM 987 996	carcinome
+T23	morphologie 987 996	carcinome
+T24	expression_CIM 1451 1484	leucémie promyélocytaire aiguë M3
+T25	morphologie 1451 1484	leucémie promyélocytaire aiguë M3
+T26	expression_CIM 2472 2509	Leucémie aiguë non lymphoblastique M3
+T27	morphologie 2472 2509	Leucémie aiguë non lymphoblastique M3
+T28	morphologie 2511 2517;2526 2536	Cancer infiltrant
+T29	expression_CIM 2511 2536	Cancer du sein infiltrant
+T30	topographie 2521 2525	sein
+T31	expression_CIM 2919 2929	néoplasmes
+T32	morphologie 2919 2929	néoplasmes
+#1	ICD-O T1	9010/0
+#2	ICD-O T2	C50.9 9010/0
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8895/0
+#5	ICD-O T5	C55.9 8895/0
+#6	ICD-O T6	C55.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C50.9 8000/1
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8522/3
+#11	ICD-O T11	8522/3
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	C76.1 8000/6
+#14	ICD-O T14	C76.1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8500/3
+#18	ICD-O T18	8500/3
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	C76.1 8000/6
+#21	ICD-O T21	C76.1
+#22	ICD-O T22	8010/3
+#23	ICD-O T23	8010/3
+#24	ICD-O T24	9866/3
+#25	ICD-O T25	9866/3
+#26	ICD-O T26	9866/3
+#27	ICD-O T27	9866/3
+#28	ICD-O T28	8000/3
+#29	ICD-O T29	C50.9 8000/3
+#30	ICD-O T30	C50.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	8000/1

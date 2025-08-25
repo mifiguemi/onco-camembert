@@ -1,0 +1,68 @@
+T1	morphologie 676 681	masse
+T2	expression_CIM 676 692	masse annexielle
+T3	topographie 682 692	annexielle
+T4	morphologie 836 842	tumeur
+T5	expression_CIM 836 857	tumeur dans le rectum
+T6	topographie 851 857	rectum
+T7	morphologie 951 965	adénocarcinome
+T8	expression_CIM 951 984	adénocarcinome de type intestinal
+T9	topographie 974 984	intestinal
+T10	expression_CIM 1223 1240	cellules malignes
+T11	morphologie 1223 1240	cellules malignes
+T12	expression_CIM 1447 1464	cellules malignes
+T13	morphologie 1447 1464	cellules malignes
+T14	morphologie 1786 1794	implants
+T15	expression_CIM 1786 1820	implants péritonéaux ou d'épiploon
+T16	topographie 1795 1806	péritonéaux
+T17	topographie 1812 1820	épiploon
+T18	morphologie 1857 1871	adénocarcinome
+T19	expression_CIM 1857 1886	adénocarcinome du haut rectum
+T20	topographie 1880 1886	rectum
+T21	morphologie 1892 1902	métastases
+T22	expression_CIM 1892 1913	métastases ovariennes
+T23	topographie 1903 1913	ovariennes
+T24	morphologie 2197 2208	progression
+T25	expression_CIM 2197 2219	progression pulmonaire
+T26	topographie 2209 2219	pulmonaire
+T27	expression_CIM 2268 2275	nodules
+T28	morphologie 2268 2275	nodules
+T29	morphologie 2365 2376	progression
+T30	expression_CIM 2365 2387	progression pulmonaire
+T31	topographie 2377 2387	pulmonaire
+T32	morphologie 3344 3356	progressions
+T33	expression_CIM 3344 3377	progressions au niveau pulmonaire
+T34	topographie 3367 3377	pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C56.9 8000/1
+#3	ICD-O T3	C56.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C20.9 8000/1
+#6	ICD-O T6	C20.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C26.0 8140/3
+#9	ICD-O T9	C26.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	C48.1 8000/6;C48.2 8000/6
+#16	ICD-O T16	C48.2
+#17	ICD-O T17	C48.1
+#18	ICD-O T18	8140/3
+#19	ICD-O T19	C20.9 8140/3
+#20	ICD-O T20	C20.9
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C56.9 8000/6
+#23	ICD-O T23	C56.9
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	C34.9 8000/6
+#26	ICD-O T26	C34.9
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/6
+#30	ICD-O T30	C34.9 8000/6
+#31	ICD-O T31	C34.9
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	C34.9 8000/6
+#34	ICD-O T34	C34.9

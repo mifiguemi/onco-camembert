@@ -1,0 +1,157 @@
+T74	morphologie 6513 6534	formations polypoïdes
+T56	morphologie 5307 5327	Granulomes calcifiés
+T55	topographie 5293 5296	LII
+T64	topographie 5486 5489	LII
+T1	expression_CIM 305 320	hépatocarcinome
+T2	morphologie 305 320	hépatocarcinome
+T3	expression_CIM 567 572	masse
+T4	morphologie 567 572	masse
+T5	expression_CIM 724 738	adénocarcinome
+T6	morphologie 724 738	adénocarcinome
+T7	morphologie 827 833	tumeur
+T8	expression_CIM 827 866	tumeur gastrique et du côlon transverse
+T9	topographie 834 843	gastrique
+T10	topographie 850 866	côlon transverse
+T11	morphologie 1130 1144	adénocarcinome
+T12	expression_CIM 1130 1187	adénocarcinome ulcéro-végétatif bien différencié du côlon
+T13	differenciation 1162 1178	bien différencié
+T14	topographie 1182 1187	côlon
+T15	morphologie 1305 1317	adénopathies
+T16	expression_CIM 1305 1329	adénopathies, l'épiploon
+T17	topographie 1321 1329	épiploon
+T18	expression_CIM 1377 1383	tumeur
+T19	morphologie 1377 1383	tumeur
+T20	expression_CIM 1450 1468	maladie à distance
+T21	morphologie 1450 1468	maladie à distance
+T22	expression_CIM 2233 2238	masse
+T23	morphologie 2233 2238	masse
+T24	morphologie 2329 2334	masse
+T25	expression_CIM 2329 2359	masse sténosante dans le sigma
+T26	topographie 2354 2359	sigma
+T27	expression_CIM 2416 2441	adénocarcinome infiltrant
+T28	morphologie 2416 2441	adénocarcinome infiltrant
+T29	expression_CIM 2537 2547	métastases
+T30	morphologie 2537 2547	métastases
+T31	morphologie 2680 2694	adénocarcinome
+T32	expression_CIM 2680 2717	adénocarcinome modérément différencié
+T33	differenciation 2695 2717	modérément différencié
+T34	morphologie 2762 2772	métastases
+T35	expression_CIM 2762 2809	métastases dans 3 des 18 ganglions lymphatiques
+T36	topographie 2787 2809	ganglions lymphatiques
+T37	morphologie 2824 2832	invasion
+T38	expression_CIM 2824 2849	invasion lymphovasculaire
+T39	topographie 2833 2849	lymphovasculaire
+T40	expression_CIM 3326 3339	tissu tumoral
+T41	morphologie 3326 3339	tissu tumoral
+T42	morphologie 3343 3367	implication métastatique
+T43	expression_CIM 3343 3394	implication métastatique des ganglions lymphatiques
+T44	morphologie 3927 3934;3969 4001	lésions hautement suspectes de malignité
+T45	expression_CIM 3927 3934	lésions
+T46	morphologie 4342 4348	lésion
+T47	expression_CIM 4342 4358	lésion hépatique
+T48	topographie 4349 4358	hépatique
+T49	morphologie 4539 4553	adénocarcinome
+T50	expression_CIM 4539 4587	adénocarcinome intestinal modérément différencié
+T51	differenciation 4565 4587	modérément différencié
+T52	morphologie 5224 5230	lésion
+T53	expression_CIM 5224 5296	lésion unique d'aspect nouveau située dans le lobe inférieur gauche (LII
+T54	topographie 5270 5284	lobe inférieur
+T57	expression_CIM 5307 5371	Granulomes calcifiés résiduels dans le lobe supérieur droit (LSD
+T58	topographie 5346 5360	lobe supérieur
+T59	topographie 5368 5371	LSD
+T60	expression_CIM 5420 5429	métastase
+T61	morphologie 5420 5429	métastase
+T62	morphologie 5452 5458	lésion
+T63	expression_CIM 5452 5489	lésion décrite dans le scanner du LII
+T65	expression_CIM 5537 5551	tumeur maligne
+T66	morphologie 5537 5551	tumeur maligne
+T67	expression_CIM 5662 5668	nodule
+T68	morphologie 5662 5668	nodule
+T69	expression_CIM 5736 5750	adénocarcinome
+T70	morphologie 5736 5750	adénocarcinome
+T71	topographie 5880 5891	intestinale
+T72	expression_CIM 5880 5900	intestinale primaire
+T73	morphologie 5892 5900	primaire
+T75	expression_CIM 6513 6606	formations polypoïdes situées dans la paroi supérieure et inférieure de la bronche principale
+T76	topographie 6588 6606	bronche principale
+T77	topographie 6726 6756	bronche principale gauche (BPG
+T78	expression_CIM 6726 6774	bronche principale gauche (BPG), quatre implants
+T79	morphologie 6766 6774	implants
+T80	expression_CIM 7050 7074	adénocarcinome entéroïde
+T81	morphologie 7050 7074	adénocarcinome entéroïde
+T82	expression_CIM 7507 7515	récidive
+T83	morphologie 7507 7515	récidive
+#1	ICD-O T74	8210/1
+#2	ICD-O T56	tocheck
+#3	ICD-O T1	8170/3
+#4	ICD-O T2	8170/3
+#5	ICD-O T3	8000/1
+#6	ICD-O T4	8000/1
+#7	ICD-O T5	8140/3
+#8	ICD-O T6	8140/3
+#9	ICD-O T7	8000/1
+#10	ICD-O T8	C16.9 8000/1;C18.4 8000/1
+#11	ICD-O T9	C16.9
+#12	ICD-O T10	C18.4
+#13	ICD-O T11	8140/3
+#14	ICD-O T12	C18.9 8140/31
+#15	ICD-O T13	1
+#16	ICD-O T14	C18.9
+#17	ICD-O T15	8000/1
+#18	ICD-O T16	C77.2 8000/1
+#19	ICD-O T17	C48.1
+#20	ICD-O T18	8000/1
+#21	ICD-O T19	8000/1
+#22	ICD-O T20	8000/6
+#23	ICD-O T21	8000/6
+#24	ICD-O T22	8000/1
+#25	ICD-O T23	8000/1
+#26	ICD-O T24	8000/1
+#27	ICD-O T26	C18.7
+#28	ICD-O T27	8140/3
+#29	ICD-O T28	8140/3
+#30	ICD-O T29	8000/6
+#31	ICD-O T30	8000/6
+#32	ICD-O T31	8140/3
+#33	ICD-O T32	8140/32
+#34	ICD-O T33	2
+#35	ICD-O T34	8000/6
+#36	ICD-O T35	C77.9 8000/6
+#37	ICD-O T36	C77.9
+#38	ICD-O T37	8000/9
+#39	ICD-O T38	C49.9 8000/1
+#40	ICD-O T39	C49.9
+#41	ICD-O T40	8000/3
+#42	ICD-O T41	8000/3
+#43	ICD-O T42	8000/6
+#44	ICD-O T43	C77.9 8000/6
+#45	ICD-O T44	8000/9
+#46	ICD-O T45	8000/1
+#47	ICD-O T46	8000/1
+#48	ICD-O T47	C22.0 8000/1
+#49	ICD-O T48	C22.0
+#50	ICD-O T49	8140/3
+#51	ICD-O T50	C26.0 8140/32
+#52	ICD-O T51	2
+#53	ICD-O T52	8000/1
+#54	ICD-O T54	C34.3
+#55	ICD-O T58	C34.1
+#56	ICD-O T59	C34.1
+#57	ICD-O T60	8000/6
+#58	ICD-O T61	8000/6
+#59	ICD-O T62	8000/1
+#60	ICD-O T65	8000/3
+#61	ICD-O T66	8000/3
+#62	ICD-O T67	8000/1
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	8140/3
+#65	ICD-O T70	8140/3
+#66	ICD-O T71	C26.0 
+#67	ICD-O T73	8000/3
+#68	ICD-O T76	C34.0
+#69	ICD-O T77	C34.0
+#70	ICD-O T79	8000/6
+#71	ICD-O T80	8144/3
+#72	ICD-O T81	8144/3
+#73	ICD-O T82	8000/6
+#74	ICD-O T83	8000/9

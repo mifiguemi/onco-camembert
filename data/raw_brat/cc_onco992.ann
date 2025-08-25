@@ -1,0 +1,82 @@
+T8	topographie 1891 1904	sous-acromial
+T27	topographie 2765 2778	sous-carénale
+T1	expression_CIM 240 265	syndrome myélodysplasique
+T2	morphologie 240 265	syndrome myélodysplasique
+T3	morphologie 651 682	carcinome malpighien infiltrant
+T4	expression_CIM 651 704	carcinome malpighien infiltrant de la muqueuse jugale
+T5	topographie 689 704	muqueuse jugale
+T6	morphologie 1836 1842	tumeur
+T7	expression_CIM 1836 1904	tumeur douloureuse et indurée d'environ 3 cm au niveau sous-acromial
+T9	morphologie 2005 2011	tumeur
+T10	expression_CIM 2005 2043	tumeur de 80 mm dans le lobe supérieur
+T11	topographie 2029 2043	lobe supérieur
+T12	morphologie 2099 2111	infiltration
+T13	expression_CIM 2099 2163	infiltration étendue du médiastin et de la veine cave supérieure
+T14	topographie 2123 2132	médiastin
+T15	topographie 2142 2163	veine cave supérieure
+T16	morphologie 2272 2277	masse
+T17	expression_CIM 2272 2343	masse endobronchique occupant toute la lumière de la bronche principale
+T18	topographie 2278 2292	endobronchique
+T19	topographie 2325 2343	bronche principale
+T20	expression_CIM 2407 2452	carcinome épidermoïde kératinisant infiltrant
+T21	morphologie 2407 2452	carcinome épidermoïde kératinisant infiltrant
+T22	expression_CIM 2694 2721	dissémination de la maladie
+T23	morphologie 2694 2721	dissémination de la maladie
+T24	morphologie 2731 2753	atteinte adénopathique
+T25	expression_CIM 2731 2807	atteinte adénopathique hilaire et sous-carénale droite, une glande surrénale
+T26	topographie 2754 2761	hilaire
+T28	topographie 2791 2807	glande surrénale
+T29	morphologie 2822 2829	lésions
+T30	expression_CIM 2822 2882	lésions lytiques dans l'acromion gauche et la cinquième côte
+T31	topographie 2846 2854	acromion
+T32	topographie 2878 2882	côte
+T33	morphologie 2935 2944	néoplasme
+T34	expression_CIM 2935 2966	néoplasme de la muqueuse jugale
+T35	topographie 2951 2966	muqueuse jugale
+T36	morphologie 3017 3025	primitif
+T37	expression_CIM 3017 3036	primitif pulmonaire
+T38	topographie 3026 3036	pulmonaire
+T39	morphologie 3282 3303	carcinome épidermoïde
+T40	expression_CIM 3282 3313	carcinome épidermoïde du poumon
+T41	topographie 3307 3313	poumon
+T42	expression_CIM 3325 3333	stade IV
+T43	morphologie 3325 3333	stade IV
+T44	expression_CIM 5120 5145	progression de la maladie
+T45	morphologie 5120 5145	progression de la maladie
+#1	ICD-O T1	9989/3
+#2	ICD-O T2	9989/3
+#3	ICD-O T3	8070/3
+#4	ICD-O T5	C06.0
+#5	ICD-O T6	8000/1
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	C34.1 8000/1
+#8	ICD-O T11	C34.1
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	C38.3 8000/1;C49.3 8000/1
+#11	ICD-O T14	C38.3
+#12	ICD-O T15	C49.3
+#13	ICD-O T16	8000/1
+#14	ICD-O T18	C34.9
+#15	ICD-O T19	C34.0
+#16	ICD-O T21	8070/3
+#17	ICD-O T23	8000/6
+#18	ICD-O T24	8000/1
+#19	ICD-O T26	C76.1
+#20	ICD-O T28	C74.9 
+#21	ICD-O T29	8000/1
+#22	ICD-O T30	C41.3 8000/1
+#23	ICD-O T31	C41.3
+#24	ICD-O T32	C41.3
+#25	ICD-O T33	8000/1
+#26	ICD-O T34	C06.0 8000/1
+#27	ICD-O T35	C06.0
+#28	ICD-O T36	8000/3
+#29	ICD-O T37	C34.9 8000/3
+#30	ICD-O T38	C34.9
+#31	ICD-O T39	8070/3
+#32	ICD-O T40	C34.9 8070/3
+#33	ICD-O T41	C34.9
+#34	ICD-O T42	8000/6
+#35	ICD-O T43	8000/6
+#36	ICD-O T44	8000/1
+#37	ICD-O T45	8000/1

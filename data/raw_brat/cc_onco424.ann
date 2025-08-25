@@ -1,0 +1,122 @@
+T1	morphologie 130 144	adénocarcinome
+T2	expression_CIM 130 159	adénocarcinome de l'endomètre
+T3	topographie 150 159	endomètre
+T4	morphologie 187 196	carcinome
+T5	expression_CIM 187 205	carcinome du colon
+T6	topographie 200 205	colon
+T7	expression_CIM 214 234	carcinome urothélial
+T8	morphologie 214 234	carcinome urothélial
+T9	expression_CIM 979 996	syndrome de Lynch
+T10	morphologie 979 996	syndrome de Lynch
+T11	morphologie 1340 1360	carcinome urothélial
+T12	expression_CIM 1340 1389	carcinome urothélial des voies urinaires (uretère
+T13	topographie 1365 1380	voies urinaires
+T14	topographie 1382 1389	uretère
+T15	morphologie 1487 1507	carcinome urothélial
+T16	expression_CIM 1487 1521	carcinome urothélial de haut grade
+T17	expression_CIM 1522 1529	pT3N0M0
+T18	morphologie 1522 1529	pT3N0M0
+T19	expression_CIM 2343 2348	masse
+T20	morphologie 2343 2348	masse
+T21	expression_CIM 2477 2489	adénopathies
+T22	morphologie 2477 2489	adénopathies
+T23	morphologie 2567 2584	masse néoplasique
+T24	expression_CIM 2567 2631	masse néoplasique de 35 x 30 mm dans le tiers moyen de l'uretère
+T26	expression_CIM 2692 2708	lymphadénopathie
+T27	morphologie 2692 2708	lymphadénopathie
+T28	morphologie 2822 2842	Carcinome urothélial
+T29	expression_CIM 2822 2905	Carcinome urothélial de haut grade pT3N0M0 (stade III) des voies urinaires (uretère
+T30	differenciation 2846 2856	haut grade
+T31	morphologie 2857 2864	pT3N0M0
+T32	topographie 2881 2896	voies urinaires
+T33	topographie 2898 2905	uretère
+T34	expression_CIM 2944 2961	syndrome de Lynch
+T35	morphologie 2944 2961	syndrome de Lynch
+T36	expression_CIM 3737 3756	maladie oncologique
+T37	morphologie 3737 3756	maladie oncologique
+T38	expression_CIM 3864 3879	récidive locale
+T39	morphologie 3864 3879	récidive locale
+T40	expression_CIM 3885 3896	adénopathie
+T41	morphologie 3885 3896	adénopathie
+T42	morphologie 4032 4048	lymphadénopathie
+T43	expression_CIM 4032 4087	lymphadénopathie rétropéritonéale, iliaque et inguinale
+T44	topographie 4049 4065	rétropéritonéale
+T45	topographie 4067 4074	iliaque
+T46	topographie 4078 4087	inguinale
+T47	morphologie 4349 4369	carcinome urothélial
+T48	expression_CIM 4349 4383	carcinome urothélial de haut grade
+T49	differenciation 4373 4383	haut grade
+T50	expression_CIM 4430 4447	syndrome de Lynch
+T51	morphologie 4430 4447	syndrome de Lynch
+T52	expression_CIM 5310 5337	stabilisation de la maladie
+T53	morphologie 5310 5337	stabilisation de la maladie
+T54	expression_CIM 5797 5804	lésions
+T55	morphologie 5797 5804	lésions
+T56	expression_CIM 6528 6540	cancérologie
+T57	morphologie 6528 6540	cancérologie
+T58	morphologie 6765 6771	cancer
+T59	expression_CIM 6765 6786	cancer de l'endomètre
+T60	topographie 6777 6786	endomètre
+T61	morphologie 6793 6799	cancer
+T62	expression_CIM 6793 6808	cancer du côlon
+T63	topographie 6803 6808	côlon
+T25	topographie 2607 2631	tiers moyen de l'uretère
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C54.1 8140/3
+#3	ICD-O T3	C54.1
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C18.9 8010/3
+#6	ICD-O T6	C18.9
+#7	ICD-O T7	8120/3
+#8	ICD-O T8	8120/3
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	8120/3
+#12	ICD-O T12	C66.9 8120/3;C68.9 8120/3
+#13	ICD-O T13	C68.9
+#14	ICD-O T14	C66.9
+#15	ICD-O T15	8120/3
+#16	ICD-O T16	8120/34
+#17	ICD-O T18	todelete
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C77.9 8000/1
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/3
+#23	ICD-O T24	C66.9 8000/3
+#24	ICD-O T26	C77.9 8000/1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8120/3
+#27	ICD-O T29	C66.9 8120/34;C68.9 8120/34
+#28	ICD-O T30	4
+#29	ICD-O T31	todelete
+#30	ICD-O T32	C68.9
+#31	ICD-O T33	C66.9
+#32	ICD-O T34	8000/3
+#33	ICD-O T35	8000/3
+#34	ICD-O T36	8000/3
+#35	ICD-O T37	8000/3
+#36	ICD-O T39	8000/3
+#37	ICD-O T40	C77.9 8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C77.2 8000/1;C77.4 8000/1;C77.5 8000/1
+#41	ICD-O T44	C48.0
+#42	ICD-O T45	C41.4
+#43	ICD-O T46	C76.3
+#44	ICD-O T47	8120/3
+#45	ICD-O T48	8120/34
+#46	ICD-O T49	4
+#47	ICD-O T50	8000/3
+#48	ICD-O T51	8000/3
+#49	ICD-O T52	8000/6
+#50	ICD-O T53	8000/6
+#51	ICD-O T54	8000/1
+#52	ICD-O T55	8000/1
+#53	ICD-O T57	tocheck
+#54	ICD-O T58	8000/3
+#55	ICD-O T59	C54.1 8000/3
+#56	ICD-O T60	C54.1
+#57	ICD-O T61	8000/3
+#58	ICD-O T62	C18.9 8000/3
+#59	ICD-O T63	C18.9

@@ -1,0 +1,262 @@
+T108	topographie 5050 5090	fenêtre paratrachéale et aortopulmonaire
+T82	topographie 4203 4222	intraparenchymateux
+T72	topographie 3670 3701	intrathoracique extrapulmonaire
+T89	topographie 4339 4342	LII
+T41	topographie 2151 2173	paratrachéal supérieur
+T116	topographie 5288 5349	région extrathoracique au contact du muscle serratus anterior
+T1	morphologie 166 196	carcinome canalaire infiltrant
+T2	expression_CIM 166 204	carcinome canalaire infiltrant du sein
+T3	topographie 200 204	sein
+T4	morphologie 522 536	adénocarcinome
+T5	expression_CIM 522 570	adénocarcinome du lobe supérieur droit du poumon
+T6	topographie 540 554	lobe supérieur
+T7	topographie 564 570	poumon
+T8	morphologie 594 605	adénopathie
+T9	expression_CIM 594 613	adénopathie hilaire
+T10	topographie 606 613	hilaire
+T11	morphologie 644 655	adénopathie
+T12	expression_CIM 644 669	adénopathie pré-trachéale
+T13	topographie 656 669	pré-trachéale
+T14	morphologie 744 749	masse
+T15	expression_CIM 744 760	masse pulmonaire
+T16	topographie 750 760	pulmonaire
+T17	morphologie 766 777	adénopathie
+T18	expression_CIM 766 790	adénopathie médiastinale
+T19	topographie 778 790	médiastinale
+T20	morphologie 939 950	adénopathie
+T21	expression_CIM 939 963	adénopathie médiastinale
+T22	topographie 951 963	médiastinale
+T23	expression_CIM 989 1004	lésion primaire
+T24	morphologie 989 1004	lésion primaire
+T25	expression_CIM 1189 1203	adénocarcinome
+T26	morphologie 1189 1203	adénocarcinome
+T27	morphologie 1700 1712	micronodules
+T28	expression_CIM 1700 1724	micronodules pulmonaires
+T29	topographie 1713 1724	pulmonaires
+T30	morphologie 1772 1778	nodule
+T31	expression_CIM 1772 1790	nodule surrénalien
+T32	topographie 1779 1790	surrénalien
+T33	expression_CIM 1934 1940	lésion
+T34	morphologie 1934 1940	lésion
+T35	expression_CIM 2002 2016	adénocarcinome
+T36	morphologie 2002 2016	adénocarcinome
+T37	morphologie 2069 2081	adénopathies
+T38	expression_CIM 2069 2173	adénopathies hypercapillaires aux niveaux subcarinal, trachéobronchique gauche et paratrachéal supérieur
+T42	morphologie 2203 2208	foyer
+T43	expression_CIM 2203 2237	foyer osseux dans la tête fémorale
+T44	topographie 2209 2215	osseux
+T45	topographie 2224 2237	tête fémorale
+T46	morphologie 2261 2268	nodules
+T47	expression_CIM 2261 2280	nodules pulmonaires
+T48	topographie 2269 2280	pulmonaires
+T49	morphologie 2635 2646	progression
+T50	expression_CIM 2635 2656	progression cérébrale
+T51	topographie 2647 2656	cérébrale
+T52	morphologie 2668 2678	métastases
+T53	expression_CIM 2668 2689	métastases cérébrales
+T54	topographie 2679 2689	cérébrales
+T55	morphologie 2698 2710	adénopathies
+T56	expression_CIM 2698 2732	adénopathies basses paratrachéales
+T57	topographie 2718 2732	paratrachéales
+T58	morphologie 2756 2766	métastases
+T59	expression_CIM 2756 2778	métastases pulmonaires
+T60	topographie 2767 2778	pulmonaires
+T61	morphologie 3157 3164	lésions
+T62	expression_CIM 3157 3218	lésions hyperdenses de localisation essentiellement corticale
+T63	topographie 3209 3218	corticale
+T64	morphologie 3514 3525	Adénopathie
+T65	expression_CIM 3514 3540	Adénopathie rétropectorale
+T66	topographie 3526 3540	rétropectorale
+T67	morphologie 3573 3580	lésions
+T68	expression_CIM 3573 3643	lésions à centre hypodense de 0,9 cm et 0,6 cm dans le muscle pectoral
+T69	topographie 3628 3643	muscle pectoral
+T70	morphologie 3654 3659	masse
+T71	expression_CIM 3654 3701	masse hypodense intrathoracique extrapulmonaire
+T73	morphologie 3891 3903	Adénopathies
+T74	expression_CIM 3891 3918	Adénopathies paratrachéales
+T75	topographie 3904 3918	paratrachéales
+T76	morphologie 4053 4065	adénopathies
+T77	expression_CIM 4053 4074	adénopathies hilaires
+T78	topographie 4066 4074	hilaires
+T79	morphologie 4124 4131	nodules
+T80	expression_CIM 4124 4239	nodules pulmonaires bilatéraux, certains bien définis et d'autres mal définis, intraparenchymateux et sous-pleuraux
+T81	topographie 4132 4143	pulmonaires
+T84	expression_CIM 4262 4272	métastases
+T85	morphologie 4262 4272	métastases
+T86	morphologie 4278 4285	nodules
+T87	expression_CIM 4278 4342	nodules ont une taille supérieure à 7-8 mm dans le LID et le LII
+T88	topographie 4329 4332	LID
+T90	morphologie 4496 4503	lésions
+T91	expression_CIM 4496 4514	lésions hépatiques
+T92	topographie 4504 4514	hépatiques
+T93	morphologie 4581 4593	adénopathies
+T94	expression_CIM 4581 4620	adénopathies intra ou rétropéritonéales
+T95	topographie 4594 4620	intra ou rétropéritonéales
+T96	topographie 4703 4716	tête fémorale
+T97	expression_CIM 4703 4745	tête fémorale droite, il existe une lésion
+T98	morphologie 4739 4745	lésion
+T99	expression_CIM 4885 4894	métastase
+T100	morphologie 4885 4894	métastase
+T101	morphologie 4927 4934	nodules
+T102	expression_CIM 4927 4946	nodules pulmonaires
+T103	topographie 4935 4946	pulmonaires
+T104	expression_CIM 5013 5022	métastase
+T105	morphologie 5013 5022	métastase
+T106	morphologie 5024 5035	Adénopathie
+T107	expression_CIM 5024 5090	Adénopathie importante en fenêtre paratrachéale et aortopulmonaire
+T109	morphologie 5140 5151	Adénopathie
+T110	expression_CIM 5140 5166	Adénopathie rétropectorale
+T111	topographie 5152 5166	rétropectorale
+T112	morphologie 5210 5217	Lésions
+T113	expression_CIM 5210 5349	Lésions hypodenses (masse/collection) sur le muscle pectoral droit et dans la région extrathoracique au contact du muscle serratus anterior
+T114	morphologie 5230 5235	masse
+T115	topographie 5255 5270	muscle pectoral
+T117	morphologie 5357 5363	Lésion
+T118	expression_CIM 5357 5386	Lésion lytique sous-chondrale
+T119	topographie 5372 5386	sous-chondrale
+T120	expression_CIM 5453 5462	métastase
+T121	morphologie 5453 5462	métastase
+T122	expression_CIM 5503 5514	adénopathie
+T123	morphologie 5503 5514	adénopathie
+T124	expression_CIM 5571 5589	cellules tumorales
+T125	morphologie 5571 5589	cellules tumorales
+T126	morphologie 5591 5605	adénocarcinome
+T127	expression_CIM 5591 5626	adénocarcinome d'origine pulmonaire
+T128	topographie 5616 5626	pulmonaire
+T129	morphologie 5717 5731	Adénocarcinome
+T130	expression_CIM 5717 5742	Adénocarcinome pulmonaire
+T131	topographie 5732 5742	pulmonaire
+T132	expression_CIM 5761 5781	maladie métastatique
+T133	morphologie 5761 5781	maladie métastatique
+T134	morphologie 6214 6221	lésions
+T135	expression_CIM 6214 6232	lésions cérébrales
+T136	topographie 6222 6232	cérébrales
+T137	morphologie 6540 6551	progression
+T138	expression_CIM 6540 6561	progression cérébrale
+T139	topographie 6552 6561	cérébrale
+T83	topographie 4226 4239	sous-pleuraux
+T39	topographie 2111 2121	subcarinal
+T40	topographie 2123 2140	trachéobronchique
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	C34.1 8140/3;C34.9 8140/3
+#6	ICD-O T6	C34.1
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C77.1 8000/1
+#10	ICD-O T10	C76.1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C77.1 8000/1
+#13	ICD-O T13	C49.0
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C34.9 8000/1
+#16	ICD-O T16	C34.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C77.1 8000/1
+#19	ICD-O T19	C38.3
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C77.1 8000/1
+#22	ICD-O T22	C38.3
+#23	ICD-O T23	8000/3
+#24	ICD-O T24	8000/3
+#25	ICD-O T25	8140/3
+#26	ICD-O T26	8140/3
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	C34.9 8000/1
+#29	ICD-O T29	C34.9
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C74.9 8000/1
+#32	ICD-O T32	C74.9
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	8140/3
+#36	ICD-O T36	8140/3
+#37	ICD-O T37	8000/1
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	C40.2 8000/1;C41.9 8000/1
+#40	ICD-O T44	C41.9
+#41	ICD-O T45	C40.2
+#42	ICD-O T46	8000/1
+#43	ICD-O T47	C34.9 8000/1
+#44	ICD-O T48	C34.9
+#45	ICD-O T49	8000/9
+#46	ICD-O T50	C71.0 8000/6
+#47	ICD-O T51	C71.9
+#48	ICD-O T52	8000/6
+#49	ICD-O T53	C71.0 8000/6
+#50	ICD-O T54	C71.9
+#51	ICD-O T55	8000/1
+#52	ICD-O T56	C77.1 8000/1
+#53	ICD-O T57	C33.9
+#54	ICD-O T58	8000/6
+#55	ICD-O T59	C34.9 8000/6
+#56	ICD-O T60	C34.9
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	C71.0 8000/1
+#59	ICD-O T63	C71.0
+#60	ICD-O T64	8000/1
+#61	ICD-O T65	C77.1 8000/1
+#62	ICD-O T66	C76.1
+#63	ICD-O T67	8000/1
+#64	ICD-O T68	C49.3 8000/1
+#65	ICD-O T69	C49.3
+#66	ICD-O T70	8000/1
+#67	ICD-O T73	8000/1
+#68	ICD-O T74	C77.1 8000/1
+#69	ICD-O T75	C33.9
+#70	ICD-O T76	8000/1
+#71	ICD-O T77	C77.1 8000/1
+#72	ICD-O T78	C76.1
+#73	ICD-O T79	8000/1
+#74	ICD-O T81	C34.9
+#75	ICD-O T84	8000/6
+#76	ICD-O T85	8000/6
+#77	ICD-O T86	8000/1
+#78	ICD-O T88	C34.3
+#79	ICD-O T90	8000/1
+#80	ICD-O T91	C22.0 8000/1
+#81	ICD-O T92	C22.0
+#82	ICD-O T93	8000/1
+#83	ICD-O T94	C77.2 8000/1
+#84	ICD-O T95	C76.2
+#85	ICD-O T96	C40.2
+#86	ICD-O T98	8000/1
+#87	ICD-O T99	8000/6
+#88	ICD-O T100	8000/6
+#89	ICD-O T101	8000/1
+#90	ICD-O T102	C34.9 8000/1
+#91	ICD-O T103	C34.9
+#92	ICD-O T104	8000/6
+#93	ICD-O T105	8000/6
+#94	ICD-O T106	8000/1
+#95	ICD-O T109	8000/1
+#96	ICD-O T110	C77.1 8000/1
+#97	ICD-O T111	C76.1
+#98	ICD-O T112	8000/1
+#99	ICD-O T114	8000/1
+#100	ICD-O T115	C49.3
+#101	ICD-O T117	8000/1
+#102	ICD-O T118	C40.9 8000/1
+#103	ICD-O T119	C40.9
+#104	ICD-O T120	8000/6
+#105	ICD-O T121	8000/6
+#106	ICD-O T122	C77.9 8000/1
+#107	ICD-O T123	8000/1
+#108	ICD-O T124	8001/1
+#109	ICD-O T125	8001/3
+#110	ICD-O T126	8140/3
+#111	ICD-O T127	C34.9 8140/3
+#112	ICD-O T128	C34.9
+#113	ICD-O T129	8140/3
+#114	ICD-O T130	C34.9 8140/3
+#115	ICD-O T131	C34.9
+#116	ICD-O T132	8000/6
+#117	ICD-O T133	8000/6
+#118	ICD-O T134	8000/1
+#119	ICD-O T135	C71.0 8000/1
+#120	ICD-O T136	C71.9
+#121	ICD-O T137	8000/9
+#122	ICD-O T138	C71.0 8000/6
+#123	ICD-O T139	C71.9

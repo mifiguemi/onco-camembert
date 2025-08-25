@@ -1,0 +1,167 @@
+T53	topographie 5969 5997	base de la paroi libre du RV
+T1	expression_CIM 1280 1297	cellules malignes
+T2	morphologie 1280 1297	cellules malignes
+T3	expression_CIM 3152 3157	masse
+T4	morphologie 3152 3157	masse
+T5	expression_CIM 4196 4203	lésions
+T6	morphologie 4196 4203	lésions
+T7	morphologie 4397 4404	lésions
+T8	expression_CIM 4397 4416	lésions vasculaires
+T9	topographie 4405 4416	vasculaires
+T10	expression_CIM 4521 4529	angiomes
+T11	morphologie 4521 4529	angiomes
+T12	morphologie 4784 4791	nodules
+T13	expression_CIM 4784 4818	nodules dans les bases pulmonaires
+T14	topographie 4801 4818	bases pulmonaires
+T15	expression_CIM 4832 4842	métastases
+T16	morphologie 4832 4842	métastases
+T17	morphologie 4844 4850	Tumeur
+T18	expression_CIM 4844 4860	Tumeur cardiaque
+T19	topographie 4851 4860	cardiaque
+T20	expression_CIM 5050 5066	sarcome primaire
+T21	morphologie 5050 5066	sarcome primaire
+T22	topographie 5069 5073	Foie
+T23	expression_CIM 5069 5110	Foie de taille normale avec plusieurs LOE
+T24	morphologie 5107 5110	LOE
+T25	morphologie 5132 5142	métastases
+T26	expression_CIM 5132 5203	métastases, une dans le segment II-III de 32 mm, dans le dôme hépatique
+T27	topographie 5194 5203	hépatique
+T28	expression_CIM 5309 5316	lésions
+T29	morphologie 5309 5316	lésions
+T30	topographie 5416 5420	rate
+T31	expression_CIM 5416 5464	rate avec un LOE de 29 mm, suspect de métastases
+T32	morphologie 5429 5432;5443 5464	LOE suspect de métastases
+T33	morphologie 5514 5520	tumeur
+T34	expression_CIM 5514 5530	tumeur cardiaque
+T35	topographie 5521 5530	cardiaque
+T36	expression_CIM 5630 5637	sarcome
+T37	morphologie 5630 5637	sarcome
+T38	expression_CIM 5639 5651	angiosarcome
+T39	morphologie 5639 5651	angiosarcome
+T40	morphologie 5687 5726	Opacités pseudonodulaires et nodulaires
+T41	expression_CIM 5687 5779	Opacités pseudonodulaires et nodulaires dans les deux hémithorax, la plus grande dans le LID
+T42	topographie 5741 5751	hémithorax
+T43	topographie 5776 5779	LID
+T44	expression_CIM 5806 5808	M1
+T45	morphologie 5806 5808	M1
+T46	morphologie 5810 5820	Métastases
+T47	expression_CIM 5810 5845	Métastases hépatiques et spléniques
+T48	topographie 5821 5831	hépatiques
+T49	topographie 5835 5845	spléniques
+T50	morphologie 5892 5897	masse
+T51	expression_CIM 5892 5997	masse échodense d'aspect pierreux au niveau de la paroi libre du RA et de la base de la paroi libre du RV
+T54	expression_CIM 6092 6097	masse
+T55	morphologie 6092 6097	masse
+T56	morphologie 6392 6398	lésion
+T57	expression_CIM 6392 6408	lésion hépatique
+T58	topographie 6399 6408	hépatique
+T59	expression_CIM 6651 6668	cellules malignes
+T60	morphologie 6651 6668	cellules malignes
+T61	expression_CIM 6691 6700	métastase
+T62	morphologie 6691 6700	métastase
+T63	expression_CIM 6707 6743	tumeur maligne à cellules fusiformes
+T65	expression_CIM 6745 6752	sarcome
+T66	morphologie 6745 6752	sarcome
+T67	expression_CIM 7041 7050	métastase
+T68	morphologie 7041 7050	métastase
+T69	expression_CIM 7053 7065	angiosarcome
+T70	morphologie 7053 7065	angiosarcome
+T71	morphologie 7107 7119	angiosarcome
+T72	expression_CIM 7107 7129	angiosarcome cardiaque
+T73	topographie 7120 7129	cardiaque
+T74	expression_CIM 7133 7141	stade IV
+T75	morphologie 7133 7141	stade IV
+T76	morphologie 7143 7153	métastases
+T77	expression_CIM 7143 7191	métastases pulmonaires, hépatiques et spléniques
+T78	topographie 7154 7165	pulmonaires
+T79	topographie 7167 7177	hépatiques
+T80	topographie 7181 7191	spléniques
+T81	expression_CIM 7225 7241	tumeur primitive
+T82	morphologie 7225 7241	tumeur primitive
+T83	expression_CIM 7598 7603	masse
+T84	morphologie 7598 7603	masse
+T85	expression_CIM 7809 7814	masse
+T86	morphologie 7809 7814	masse
+T52	topographie 5942 5959	paroi libre du RA
+T64	morphologie 6707 6743	tumeur maligne à cellules fusiformes
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C49.9 8000/1
+#9	ICD-O T9	C49.9
+#10	ICD-O T10	9120/0
+#11	ICD-O T11	9120/0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.9 8000/1
+#14	ICD-O T14	C34.3
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C38.0 8000/1
+#19	ICD-O T19	C38.0
+#20	ICD-O T20	8800/3
+#21	ICD-O T21	8800/3
+#22	ICD-O T22	C22.0
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	C22.0 8000/6
+#26	ICD-O T27	C22.0
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C42.2
+#30	ICD-O T32	8000/6
+#31	ICD-O T33	8000/3
+#32	ICD-O T34	C38.0 8000/1
+#33	ICD-O T35	C38.0
+#34	ICD-O T36	8800/3
+#35	ICD-O T37	8800/3
+#36	ICD-O T38	9120/3
+#37	ICD-O T39	9120/3
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	C34.3 8000/1;C76.1 8000/1
+#40	ICD-O T42	C76.1
+#41	ICD-O T43	C34.3
+#42	ICD-O T44	8000/6
+#43	ICD-O T45	8000/6
+#44	ICD-O T46	8000/6
+#45	ICD-O T47	C22.0 8000/6;C42.2 8000/6
+#46	ICD-O T48	C22.0
+#47	ICD-O T49	C42.2
+#48	ICD-O T50	8000/1
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	8000/1
+#52	ICD-O T57	C22.0 8000/1
+#53	ICD-O T58	C22.0
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	8001/3
+#56	ICD-O T61	8000/6
+#57	ICD-O T62	8000/6
+#58	ICD-O T63	8004/3
+#59	ICD-O T65	8800/3
+#60	ICD-O T66	8800/3
+#61	ICD-O T67	8000/6
+#62	ICD-O T68	8000/6
+#63	ICD-O T69	9120/3
+#64	ICD-O T70	9120/3
+#65	ICD-O T71	9120/3
+#66	ICD-O T72	C38.0 9120/3
+#67	ICD-O T73	C38.0
+#68	ICD-O T74	8000/6
+#69	ICD-O T75	8000/6
+#70	ICD-O T76	8000/6
+#71	ICD-O T77	C22.0 8000/6;C34.9 8000/6;C42.2 8000/6
+#72	ICD-O T78	C34.9
+#73	ICD-O T79	C22.0
+#74	ICD-O T80	C42.2
+#75	ICD-O T81	8000/3
+#76	ICD-O T82	8000/3
+#77	ICD-O T83	8000/1
+#78	ICD-O T84	8000/1
+#79	ICD-O T85	8000/1
+#80	ICD-O T86	8000/1
+#81	ICD-O T64	8004/3

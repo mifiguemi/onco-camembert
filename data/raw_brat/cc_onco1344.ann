@@ -1,0 +1,90 @@
+T1	morphologie 263 271	mélanome
+T2	expression_CIM 263 282	mélanome choroïdien
+T3	topographie 272 282	choroïdien
+T4	morphologie 367 372	masse
+T5	expression_CIM 367 383	masse abdominale
+T6	topographie 373 383	abdominale
+T7	expression_CIM 421 444	mélanome malin pigmenté
+T8	morphologie 421 444	mélanome malin pigmenté
+T9	morphologie 583 590	nodules
+T10	expression_CIM 583 602	nodules pulmonaires
+T11	topographie 591 602	pulmonaires
+T12	morphologie 628 632;644 657	LOES métastatiques
+T13	expression_CIM 628 657	LOES hépatiques métastatiques
+T14	topographie 633 643	hépatiques
+T15	morphologie 682 699	implants tumoraux
+T16	expression_CIM 682 851	implants tumoraux mésentériques et péritonéaux mesurant 58 x 33 mm situés à droite dans la racine du mésentère et dans la fosse iliaque gauche sur la surface péritonéale
+T17	topographie 700 713	mésentériques
+T18	topographie 717 728	péritonéaux
+T19	topographie 783 792	mésentère
+T20	topographie 804 817	fosse iliaque
+T21	topographie 840 851	péritonéale
+T22	expression_CIM 1001 1009	mélanome
+T23	morphologie 1001 1009	mélanome
+T24	morphologie 1013 1021	stade IV
+T25	expression_CIM 1013 1058	stade IV (hépatique, péritonéal et pulmonaire
+T26	topographie 1023 1032	hépatique
+T27	topographie 1034 1044	péritonéal
+T28	topographie 1048 1058	pulmonaire
+T29	morphologie 1254 1265	progression
+T30	expression_CIM 1254 1300	progression adénopathique au niveau péritonéal
+T31	topographie 1290 1300	péritonéal
+T32	morphologie 1804 1810	masses
+T33	expression_CIM 1804 1823	masses péritonéales
+T34	topographie 1811 1823	péritonéales
+T35	morphologie 2017 2023	masses
+T36	expression_CIM 2017 2051	masses situées sur les deux flancs
+T37	topographie 2045 2051	flancs
+T38	morphologie 2204 2210	masses
+T39	expression_CIM 2204 2223	masses péritonéales
+T40	topographie 2211 2223	péritonéales
+T41	expression_CIM 2317 2325	Mélanome
+T42	morphologie 2317 2325	Mélanome
+T43	expression_CIM 2437 2445	mélanome
+T44	morphologie 2437 2445	mélanome
+T45	expression_CIM 2510 2516	masses
+T46	morphologie 2510 2516	masses
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C69.3 8720/3
+#3	ICD-O T3	C69.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.2 8000/1
+#6	ICD-O T6	C76.2
+#7	ICD-O T7	8720/3
+#8	ICD-O T8	8720/3
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C34.9 8000/1
+#11	ICD-O T11	C34.9
+#12	ICD-O T12	8000/6
+#13	ICD-O T14	C22.0
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	C48.1 8000/6;C48.2 8000/6;C76.2 8000/6
+#16	ICD-O T17	C48.1
+#17	ICD-O T18	C48.2
+#18	ICD-O T19	C48.1
+#19	ICD-O T20	C76.2
+#20	ICD-O T21	C48.2
+#21	ICD-O T22	8720/3
+#22	ICD-O T23	8720/3
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	C22.0 8000/6;C34.9 8000/6;C48.2 8000/6
+#25	ICD-O T26	C22.0
+#26	ICD-O T27	C48.2
+#27	ICD-O T28	C34.9
+#28	ICD-O T29	8000/9
+#29	ICD-O T30	C48.2 8000/6
+#30	ICD-O T31	C48.2
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	C48.2 8000/1
+#33	ICD-O T34	C48.2
+#34	ICD-O T35	8000/1
+#35	ICD-O T37	C76.7 
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	C48.2 8000/1
+#38	ICD-O T40	C48.2
+#39	ICD-O T41	8720/3
+#40	ICD-O T42	8720/3
+#41	ICD-O T43	8720/3
+#42	ICD-O T44	8720/3
+#43	ICD-O T45	8000/1
+#44	ICD-O T46	8000/1

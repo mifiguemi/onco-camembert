@@ -1,0 +1,26 @@
+T1	morphologie 433 452	adénocarcinome (ADC
+T38	morphologie 497 514	de type entérique
+T3	topographie 459 473	intestin grêle
+T4	topographie 488 496	duodénum
+T5	morphologie 847 850	ADC
+T7	topographie 857 865	prostate
+T8	differenciation 867 880	Gleason 4 + 5
+T9	morphologie 900 910	métastases
+T11	topographie 911 919	osseuses
+T12	topographie 928 943	squelette axial
+T13	morphologie 1228 1247	maladie a progressé
+T15	topographie 1258 1264	osseux
+T16	morphologie 1484 1491	lésions
+T18	topographie 1492 1500	osseuses
+T19	morphologie 1564 1589	progression de la maladie
+T21	topographie 1600 1606	osseux
+T23	morphologie 2483 2489	masses
+T24	morphologie 3218 3224	cancer
+T26	topographie 3231 3239	prostate
+T27	morphologie 3703 3706	ADC
+T29	topographie 3713 3721	prostate
+T30	morphologie 3833 3845	infiltration
+T32	topographie 3852 3866	moelle osseuse
+T34	morphologie 3896 3928	récidive biochimique et clinique
+T35	morphologie 3935 3941	tumeur
+T37	topographie 3948 3956	prostate

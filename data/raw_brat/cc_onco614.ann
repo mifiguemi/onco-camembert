@@ -1,0 +1,168 @@
+T18	topographie 1039 1054	col de l'utérus
+T38	topographie 3388 3403	interlobulaires
+T1	morphologie 162 171	carcinome
+T2	expression_CIM 162 179	carcinome du sein
+T3	topographie 175 179	sein
+T4	morphologie 230 239	carcinome
+T5	expression_CIM 230 248	carcinome mammaire
+T6	topographie 240 248	mammaire
+T7	morphologie 309 318	carcinome
+T8	expression_CIM 309 326	carcinome du sein
+T9	topographie 322 326	sein
+T10	morphologie 382 391	carcinome
+T11	expression_CIM 382 401	carcinome gastrique
+T12	topographie 392 401	gastrique
+T13	morphologie 439 445	cancer
+T14	expression_CIM 439 479	cancer dont la localisation est inconnue
+T15	topographie 454 479	localisation est inconnue
+T16	morphologie 1025 1035	Ca in situ
+T17	expression_CIM 1025 1054	Ca in situ du col de l'utérus
+T19	morphologie 1407 1424	Carcinome in situ
+T20	expression_CIM 1407 1467	Carcinome in situ dans le quadrant supérieur externe du sein
+T21	topographie 1433 1467	quadrant supérieur externe du sein
+T22	morphologie 2889 2919	lésion occupant l'espace (LOE)
+T23	expression_CIM 2889 2949	lésion occupant l'espace (LOE) dans l'hémisphère cérébelleux
+T24	topographie 2927 2949	hémisphère cérébelleux
+T25	expression_CIM 3045 3054	métastase
+T26	morphologie 3045 3054	métastase
+T27	morphologie 3123 3142	lésion métastatique
+T28	expression_CIM 3123 3196	lésion métastatique dans la fosse postérieure de l'hémisphère cérébelleux
+T29	topographie 3174 3196	hémisphère cérébelleux
+T30	morphologie 3219 3226	lésions
+T31	expression_CIM 3219 3237	lésions cérébrales
+T32	topographie 3227 3237	cérébrales
+T33	morphologie 3296 3301	masse
+T34	expression_CIM 3296 3359	masse a été trouvée dans le segment antérieur du lobe inférieur
+T35	topographie 3345 3359	lobe inférieur
+T36	morphologie 3375 3387	adénopathies
+T37	expression_CIM 3375 3435	adénopathies interlobulaires et dans la région paratrachéale
+T40	expression_CIM 3630 3636	lésion
+T41	morphologie 3630 3636	lésion
+T42	morphologie 3677 3691	tumeur maligne
+T43	expression_CIM 3677 3753	tumeur maligne a été observée dans la bronche du segment antérieur de la LID
+T44	topographie 3715 3753	bronche du segment antérieur de la LID
+T45	expression_CIM 3826 3859	adénocarcinome de type papillaire
+T46	morphologie 3826 3859	adénocarcinome de type papillaire
+T47	morphologie 3873 3887	Adénocarcinome
+T48	expression_CIM 3873 3898	Adénocarcinome pulmonaire
+T49	topographie 3888 3898	pulmonaire
+T50	expression_CIM 5919 5934	tumeur primaire
+T51	morphologie 5919 5934	tumeur primaire
+T52	morphologie 5970 5977	lésions
+T53	expression_CIM 5970 5988	lésions cérébrales
+T54	topographie 5978 5988	cérébrales
+T55	morphologie 6359 6370	progression
+T56	expression_CIM 6359 6391	progression au niveau thoracique
+T57	topographie 6381 6391	thoracique
+T58	morphologie 6539 6547	atteinte
+T59	expression_CIM 6539 6557	atteinte cérébrale
+T60	topographie 6548 6557	cérébrale
+T61	morphologie 6951 6957	lésion
+T62	expression_CIM 6951 6968	lésion pulmonaire
+T63	topographie 6958 6968	pulmonaire
+T64	morphologie 7273 7284	progression
+T65	expression_CIM 7273 7295	progression pulmonaire
+T66	topographie 7285 7295	pulmonaire
+T67	morphologie 7492 7516	progression radiologique
+T68	expression_CIM 7492 7541	progression radiologique (pulmonaire et cérébrale
+T69	topographie 7518 7528	pulmonaire
+T70	topographie 7532 7541	cérébrale
+T71	morphologie 8142 8149	lésions
+T72	expression_CIM 8142 8160	lésions cérébrales
+T73	topographie 8150 8160	cérébrales
+T74	morphologie 8192 8198;8210 8219	tumeur primitive
+T75	expression_CIM 8192 8219	tumeur pulmonaire primitive
+T76	topographie 8199 8209	pulmonaire
+T77	morphologie 8737 8748	progression
+T78	expression_CIM 8737 8758	progression cérébrale
+T79	topographie 8749 8758	cérébrale
+T80	morphologie 8848 8862	adénocarcinome
+T81	expression_CIM 8848 8873	adénocarcinome pulmonaire
+T82	topographie 8863 8873	pulmonaire
+T83	morphologie 8883 8891	atteinte
+T84	expression_CIM 8883 8901	atteinte cérébrale
+T85	topographie 8892 8901	cérébrale
+T86	morphologie 9656 9664	atteinte
+T87	expression_CIM 9656 9674	atteinte cérébrale
+T88	topographie 9665 9674	cérébrale
+T39	topographie 3415 3435	région paratrachéale
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C50.9 8010/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C50.9 8010/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8010/3
+#8	ICD-O T8	C50.9 8010/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8010/3
+#11	ICD-O T11	C16.9 8010/3
+#12	ICD-O T12	C16.9
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	C80.9 8000/3
+#15	ICD-O T15	C80.9
+#16	ICD-O T16	8010/2
+#17	ICD-O T19	8010/2
+#18	ICD-O T20	C50.4 8010/2
+#19	ICD-O T21	C50.4
+#20	ICD-O T22	8000/1
+#21	ICD-O T24	C71.6
+#22	ICD-O T25	8000/6
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	C71.6 8000/6
+#26	ICD-O T29	C71.6
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	C71.0 8000/1
+#29	ICD-O T32	C71.9
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	C34.3 8000/1
+#32	ICD-O T35	C34.3
+#33	ICD-O T36	8000/1
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	8000/3
+#37	ICD-O T44	C34.3
+#38	ICD-O T45	8260/3
+#39	ICD-O T46	8260/3
+#40	ICD-O T47	8140/3
+#41	ICD-O T48	C34.9 8140/3
+#42	ICD-O T49	C34.9
+#43	ICD-O T50	8000/3
+#44	ICD-O T51	8000/3
+#45	ICD-O T52	8000/1
+#46	ICD-O T53	C71.0 8000/1
+#47	ICD-O T54	C71.9
+#48	ICD-O T55	8000/9
+#49	ICD-O T56	C76.1 8000/6
+#50	ICD-O T57	C76.1
+#51	ICD-O T58	8000/9
+#52	ICD-O T59	C71.0 8000/1
+#53	ICD-O T60	C71.9
+#54	ICD-O T61	8000/1
+#55	ICD-O T62	C34.9 8000/1
+#56	ICD-O T63	C34.9
+#57	ICD-O T64	8000/9
+#58	ICD-O T65	C34.9 8000/6
+#59	ICD-O T66	C34.9
+#60	ICD-O T67	8000/9
+#61	ICD-O T69	C34.9
+#62	ICD-O T70	C71.9
+#63	ICD-O T71	8000/1
+#64	ICD-O T72	C71.0 8000/1
+#65	ICD-O T73	C71.9
+#66	ICD-O T74	8000/3
+#67	ICD-O T75	C34.9 8000/3
+#68	ICD-O T76	C34.9
+#69	ICD-O T77	8000/9
+#70	ICD-O T78	C71.0 8000/6
+#71	ICD-O T79	C71.9
+#72	ICD-O T80	8140/3
+#73	ICD-O T81	C34.9 8140/3
+#74	ICD-O T82	C34.9
+#75	ICD-O T83	8000/9
+#76	ICD-O T84	C71.0 8000/1
+#77	ICD-O T85	C71.9
+#78	ICD-O T86	8000/9
+#79	ICD-O T87	C71.0 8000/1
+#80	ICD-O T88	C71.9

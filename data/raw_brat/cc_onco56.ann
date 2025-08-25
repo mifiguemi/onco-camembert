@@ -1,0 +1,69 @@
+T1	morphologie 164 176	angiosarcome
+T2	expression_CIM 164 201	angiosarcome du cuir chevelu pariétal
+T3	topographie 180 201	cuir chevelu pariétal
+T4	expression_CIM 710 716	lésion
+T5	morphologie 710 716	lésion
+T6	expression_CIM 1584 1596	Infiltration
+T7	morphologie 1584 1596	Infiltration
+T8	expression_CIM 1656 1668	angiosarcome
+T9	morphologie 1656 1668	angiosarcome
+T10	morphologie 1743 1751	atteinte
+T11	expression_CIM 1743 1765	atteinte ganglionnaire
+T12	topographie 1752 1765	ganglionnaire
+T13	expression_CIM 1783 1806	métastatique à distance
+T14	morphologie 1783 1806	métastatique à distance
+T15	expression_CIM 2070 2098	processus prolifératif malin
+T16	morphologie 2070 2098	processus prolifératif malin
+T17	expression_CIM 2195 2201	tumeur
+T18	morphologie 2195 2201	tumeur
+T19	morphologie 2215 2227	Angiosarcome
+T20	expression_CIM 2215 2252	Angiosarcome du cuir chevelu pariétal
+T21	topographie 2231 2252	cuir chevelu pariétal
+T22	expression_CIM 2493 2499	lésion
+T23	morphologie 2493 2499	lésion
+T24	morphologie 3004 3010	lésion
+T25	expression_CIM 3004 3040	lésion superficielle du cuir chevelu
+T26	topographie 3028 3040	cuir chevelu
+T27	expression_CIM 3323 3329	nodule
+T28	morphologie 3323 3329	nodule
+T29	expression_CIM 3400 3406	nodule
+T30	morphologie 3400 3406	nodule
+T31	expression_CIM 3984 3990	lésion
+T32	morphologie 3984 3990	lésion
+T33	expression_CIM 4182 4188	lésion
+T34	morphologie 4182 4188	lésion
+T35	expression_CIM 4490 4496	lésion
+T36	morphologie 4490 4496	lésion
+#1	ICD-O T1	9120/3
+#2	ICD-O T3	C44.4 
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	9120/3
+#8	ICD-O T9	9120/3
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C77.9 8000/1
+#11	ICD-O T12	C77.9
+#12	ICD-O T14	8000/6
+#13	ICD-O T15	8000/3
+#14	ICD-O T16	8000/3
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	9120/3
+#18	ICD-O T21	C44.4 
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	C44.4 8000/1
+#23	ICD-O T26	C44.4
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	8000/1

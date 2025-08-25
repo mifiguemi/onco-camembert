@@ -1,0 +1,86 @@
+T1	morphologie 54 84	carcinome canalaire infiltrant
+T2	expression_CIM 54 104	carcinome canalaire infiltrant de stade IV du sein
+T3	expression_CIM 88 96	stade IV
+T4	morphologie 88 96	stade IV
+T5	topographie 100 104	sein
+T6	morphologie 113 121	atteinte
+T7	expression_CIM 113 146	atteinte osseuse et ganglionnaire
+T8	topographie 122 129	osseuse
+T9	topographie 133 146	ganglionnaire
+T10	morphologie 932 937	masse
+T11	expression_CIM 932 955	masse dans l'oreillette
+T12	topographie 945 955	oreillette
+T13	morphologie 1001 1008	lésions
+T14	expression_CIM 1001 1052	lésions nodulaires dans les deux champs pulmonaires
+T15	topographie 1034 1052	champs pulmonaires
+T16	morphologie 1066 1076	métastases
+T17	expression_CIM 1066 1088	métastases pulmonaires
+T18	topographie 1077 1088	pulmonaires
+T19	morphologie 1100 1110	nodulation
+T20	expression_CIM 1100 1138	nodulation rétroaréolaire dans le sein
+T21	topographie 1134 1138	sein
+T22	morphologie 1149 1159	métastases
+T23	expression_CIM 1149 1186	métastases ganglionnaires et osseuses
+T24	topographie 1160 1174	ganglionnaires
+T25	topographie 1178 1186	osseuses
+T26	morphologie 1237 1242	masse
+T27	expression_CIM 1237 1290	masse de 5 x 5 cm attachée à la paroi de l'oreillette
+T28	topographie 1280 1290	oreillette
+T29	morphologie 1416 1421	masse
+T30	expression_CIM 1416 1438	masse interauriculaire
+T31	topographie 1422 1438	interauriculaire
+T32	morphologie 1591 1596	masse
+T33	expression_CIM 1591 1667	masse hétérogène de 5 cm2 attachée à la paroi antérolatérale de l'oreillette
+T34	topographie 1657 1667	oreillette
+T35	expression_CIM 1679 1684	masse
+T36	morphologie 1679 1684	masse
+T37	expression_CIM 2417 2434	images nodulaires
+T38	morphologie 2417 2434	images nodulaires
+T39	morphologie 2677 2682	masse
+T40	expression_CIM 2677 2694	masse auriculaire
+T41	topographie 2683 2694	auriculaire
+T42	morphologie 2971 2977	lésion
+T43	expression_CIM 2971 2991	lésion intra-atriale
+T44	topographie 2978 2991	intra-atriale
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C50.9
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C41.9 8000/1;C77.9 8000/1
+#8	ICD-O T8	C41.9
+#9	ICD-O T9	C77.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C38.0 8000/1
+#12	ICD-O T12	C38.0
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C34.9 8000/1
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C34.9 8000/6
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T21	C50.9
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	C41.9 8000/6;C77.9 8000/6
+#23	ICD-O T24	C77.9
+#24	ICD-O T25	C41.9
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C38.0 8000/1
+#27	ICD-O T28	C38.0
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C38.0 8000/1
+#30	ICD-O T31	C38.0
+#31	ICD-O T32	8000/1
+#32	ICD-O T34	C38.0
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	C44.2 8000/1
+#39	ICD-O T41	C44.2
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	C38.0 8000/1
+#42	ICD-O T44	C38.0

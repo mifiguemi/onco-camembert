@@ -1,0 +1,77 @@
+T1	morphologie 662 669	lésions
+T2	expression_CIM 662 680	lésions hépatiques
+T3	topographie 670 680	hépatiques
+T4	expression_CIM 956 963	lésions
+T5	morphologie 956 963	lésions
+T7	expression_CIM 1238 1265	nodule calcifié dans le LSE
+T8	topographie 1262 1265	LSE
+T9	topographie 1282 1286	Foie
+T10	expression_CIM 1282 1319	Foie avec de multiples LOE hypodenses
+T11	morphologie 1305 1308	LOE
+T12	morphologie 1405 1407	M1
+T13	expression_CIM 1405 1417	M1 hépatique
+T14	topographie 1408 1417	hépatique
+T15	morphologie 1768 1782;1806 1829	adénocarcinome avec un motif tubulaire
+T16	expression_CIM 1768 1829	adénocarcinome modérément différencié avec un motif tubulaire
+T17	differenciation 1783 1805	modérément différencié
+T18	expression_CIM 1877 1895	cholangiocarcinome
+T19	morphologie 1877 1895	cholangiocarcinome
+T20	morphologie 1944 1962	cholangiocarcinome
+T21	expression_CIM 1944 1977	cholangiocarcinome intrahépatique
+T22	topographie 1963 1977	intrahépatique
+T23	expression_CIM 2610 2635	progression de la maladie
+T24	morphologie 2610 2635	progression de la maladie
+T25	morphologie 2664 2680	maladie tumorale
+T26	expression_CIM 2664 2703	maladie tumorale dans le lobe hépatique
+T27	topographie 2689 2703	lobe hépatique
+T28	expression_CIM 2947 2965	cholangiocarcinome
+T29	morphologie 2947 2965	cholangiocarcinome
+T30	morphologie 3324 3346	récidive de la maladie
+T31	expression_CIM 3324 3374	récidive de la maladie dans les segments VI et VII
+T33	expression_CIM 3637 3643	foyers
+T34	morphologie 3637 3643	foyers
+T35	expression_CIM 3647 3665	cholangiocarcinome
+T36	morphologie 3647 3665	cholangiocarcinome
+T37	expression_CIM 3840 3848	récidive
+T38	morphologie 3840 3848	récidive
+T39	morphologie 4014 4020	nodule
+T40	expression_CIM 4014 4035	nodule du segment VII
+T6	morphologie 1238 1253	nodule calcifié
+T41	topographie 4024 4035	segment VII
+T32	topographie 3356 3374	segments VI et VII
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T7	C34.1 8000/1
+#7	ICD-O T8	C34.1
+#8	ICD-O T9	C22.0
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	8000/6
+#11	ICD-O T13	C22.0 8000/6
+#12	ICD-O T14	C22.0
+#13	ICD-O T15	8211/3
+#14	ICD-O T16	8211/32
+#15	ICD-O T17	2
+#16	ICD-O T18	8160/3
+#17	ICD-O T19	8160/3
+#18	ICD-O T20	8160/3
+#19	ICD-O T21	C22.0 8160/3
+#20	ICD-O T22	C22.0
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/9
+#23	ICD-O T25	8000/9
+#24	ICD-O T26	C22.0 8000/3
+#25	ICD-O T27	C22.0
+#26	ICD-O T28	8160/3
+#27	ICD-O T29	8160/3
+#28	ICD-O T30	8000/9
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	8000/1
+#31	ICD-O T35	8160/3
+#32	ICD-O T36	8160/3
+#33	ICD-O T37	8000/6
+#34	ICD-O T38	8000/9
+#35	ICD-O T39	8000/1
+#36	ICD-O T6	8000/1

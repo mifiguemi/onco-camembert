@@ -1,0 +1,92 @@
+T1	morphologie 129 135	tumeur
+T2	expression_CIM 129 157	tumeur exophytique inguinale
+T3	topographie 148 157	inguinale
+T4	expression_CIM 312 341	tumeur à cellules granuleuses
+T5	morphologie 312 341	tumeur à cellules granuleuses
+T6	expression_CIM 343 346	GCT
+T7	morphologie 343 346	GCT
+T8	morphologie 660 670	métastases
+T9	expression_CIM 660 699	métastases ganglionnaires médiastinales
+T10	topographie 671 699	ganglionnaires médiastinales
+T11	morphologie 740 750	métastases
+T12	expression_CIM 740 762	métastases pulmonaires
+T13	topographie 751 762	pulmonaires
+T14	expression_CIM 951 960	malignité
+T15	morphologie 951 960	malignité
+T16	morphologie 975 981	lésion
+T17	expression_CIM 975 1038	lésion hypoéchogène au niveau para-œsophagien sous l'oreillette
+T18	topographie 1010 1020	œsophagien
+T19	topographie 1028 1038	oreillette
+T20	expression_CIM 1073 1078	foyer
+T21	morphologie 1073 1078	foyer
+T22	expression_CIM 1228 1234	lésion
+T23	morphologie 1228 1234	lésion
+T24	morphologie 1251 1257	tumeur
+T25	expression_CIM 1251 1297	tumeur sous-muqueuse de la paroi de l'œsophage
+T26	topographie 1289 1297	œsophage
+T27	expression_CIM 1375 1384	léiomyome
+T28	morphologie 1375 1384	léiomyome
+T29	expression_CIM 1386 1400	léiomyosarcome
+T30	morphologie 1386 1400	léiomyosarcome
+T31	expression_CIM 1455 1500	tumeur à cellules granuleuses (T. d'Abrikosof
+T32	morphologie 1455 1500	tumeur à cellules granuleuses (T. d'Abrikosof
+T33	morphologie 1583 1589;1598 1620	Tumeur à cellules granuleuses
+T34	expression_CIM 1583 1620	Tumeur cutanée à cellules granuleuses
+T35	topographie 1590 1597	cutanée
+T36	morphologie 1626 1648	captation pathologique
+T37	expression_CIM 1626 1672	captation pathologique au niveau de l'œsophage
+T38	topographie 1664 1672	œsophage
+T39	expression_CIM 1772 1778	tumeur
+T40	morphologie 1772 1778	tumeur
+T42	expression_CIM 1959 2006	tumeur maligne atypique de 1,5 cm de l'œsophage
+T43	topographie 1998 2006	œsophage
+T44	morphologie 2012 2020	invasion
+T45	expression_CIM 2012 2037	invasion de la musculeuse
+T47	morphologie 2251 2257	Nodule
+T48	expression_CIM 2251 2268	Nodule pulmonaire
+T49	topographie 2258 2268	pulmonaire
+T46	topographie 2027 2037	musculeuse
+T41	morphologie 1959 1982	tumeur maligne atypique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.3 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	9580/0
+#5	ICD-O T5	9580/0
+#6	ICD-O T6	9064/3
+#7	ICD-O T7	9064/3
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C77.1 8000/6
+#10	ICD-O T10	C77.1
+#11	ICD-O T11	8000/6
+#12	ICD-O T13	C34.9
+#13	ICD-O T15	tocheck
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	C15.9 8000/1;C38.0 8000/1
+#16	ICD-O T18	C15.9
+#17	ICD-O T19	C38.0
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	C15.9 8000/1
+#24	ICD-O T26	C15.9
+#25	ICD-O T27	8890/0
+#26	ICD-O T28	8890/0
+#27	ICD-O T29	8890/3
+#28	ICD-O T30	8890/3
+#29	ICD-O T32	9580/0
+#30	ICD-O T33	9580/0
+#31	ICD-O T34	C44.9 9580/0
+#32	ICD-O T35	C44.9
+#33	ICD-O T36	8000/9
+#34	ICD-O T38	C15.9
+#35	ICD-O T39	8000/1
+#36	ICD-O T40	8000/1
+#37	ICD-O T42	C15.9 8000/3
+#38	ICD-O T43	C15.9
+#39	ICD-O T44	8000/9
+#40	ICD-O T47	8000/1
+#41	ICD-O T48	C34.9 8000/1
+#42	ICD-O T49	C34.9
+#43	ICD-O T41	8000/3

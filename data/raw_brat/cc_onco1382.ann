@@ -1,0 +1,60 @@
+T1	expression_CIM 430 442	adénopathies
+T2	morphologie 430 442	adénopathies
+T3	morphologie 713 743	carcinome canalaire infiltrant
+T4	expression_CIM 713 755	carcinome canalaire infiltrant de grade II
+T5	differenciation 747 755	grade II
+T6	morphologie 848 883	Adénocarcinome canalaire infiltrant
+T7	expression_CIM 848 891	Adénocarcinome canalaire infiltrant du sein
+T8	topographie 887 891	sein
+T9	expression_CIM 1071 1081	métastases
+T10	morphologie 1071 1081	métastases
+T11	morphologie 1193 1233	carcinome endocrinien à petites cellules
+T12	expression_CIM 1193 1241	carcinome endocrinien à petites cellules du sein
+T13	topographie 1237 1241	sein
+T14	morphologie 1251 1266	Micrométastases
+T15	expression_CIM 1251 1295	Micrométastases dans un ganglion lymphatique
+T16	topographie 1275 1295	ganglion lymphatique
+T17	expression_CIM 1417 1435	cellules tumorales
+T18	morphologie 1417 1435	cellules tumorales
+T19	expression_CIM 1572 1579	lésions
+T20	morphologie 1572 1579	lésions
+T21	morphologie 2219 2230	progression
+T22	expression_CIM 2219 2286	progression au niveau du foie, des ganglions lymphatiques et des os
+T23	topographie 2244 2248	foie
+T24	topographie 2254 2276	ganglions lymphatiques
+T25	topographie 2284 2286	os
+T26	expression_CIM 2673 2680	lésions
+T27	morphologie 2673 2680	lésions
+T28	morphologie 2742 2749	lésions
+T29	expression_CIM 2742 2760	lésions hépatiques
+T30	topographie 2750 2760	hépatiques
+#1	ICD-O T1	C77.9 8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8500/3
+#4	ICD-O T4	8500/32
+#5	ICD-O T5	2
+#6	ICD-O T6	8500/3
+#7	ICD-O T7	C50.9 8500/3
+#8	ICD-O T8	C50.9
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8041/3
+#12	ICD-O T12	C50.9 8041/3
+#13	ICD-O T13	C50.9
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	C77.9 8000/6
+#16	ICD-O T16	C77.9
+#17	ICD-O T17	8001/1
+#18	ICD-O T18	8001/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C22.0 8000/6;C41.9 8000/6;C77.9 8000/6
+#23	ICD-O T23	C22.0
+#24	ICD-O T24	C77.9
+#25	ICD-O T25	C41.9
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8000/1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C22.0 8000/1
+#30	ICD-O T30	C22.0

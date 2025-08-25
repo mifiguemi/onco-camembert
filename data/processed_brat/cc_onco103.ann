@@ -1,0 +1,39 @@
+T1	morphologie 312 343	carcinome urothélial papillaire
+T3	differenciation 347 356	bas grade
+T4	morphologie 863 874	adénopathie
+T6	topographie 875 884	cervicale
+T7	topographie 888 904	sus-claviculaire
+T8	morphologie 1254 1261	nodules
+T10	topographie 1262 1270	pleuraux
+T11	morphologie 1366 1378	mésothéliome
+T57	morphologie 1387 1392	malin
+T13	topographie 1379 1386	pleural
+T15	morphologie 1674 1697	tumeurs neuroendocrines
+T17	morphologie 1834 1857	mésothéliome épithélial
+T18	morphologie 2049 2056	maladie
+T20	topographie 2057 2065	pleurale
+T21	morphologie 2073 2085	adénopathies
+T23	topographie 2086 2099	médiastinales
+T25	morphologie 2135 2154	atteinte à distance
+T26	morphologie 2183 2226	carcinome neuroendocrine à grandes cellules
+T28	topographie 2237 2247	pulmonaire
+T29	morphologie 2267 2275	atteinte
+T31	topographie 2290 2298	pleurale
+T32	topographie 2302 2315	ganglionnaire
+T34	morphologie 2732 2749	atteinte tumorale
+T35	morphologie 2944 2960	masses tumorales
+T37	topographie 2961 2970	pleurales
+T38	morphologie 3476 3483	lésions
+T40	topographie 3484 3493	pleurales
+T41	topographie 3501 3523	ganglions médiastinaux
+T42	morphologie 3658 3669	progression
+T44	topographie 3670 3678	pleurale
+T45	topographie 3682 3695	ganglionnaire
+T47	morphologie 3936 3943	tumeurs
+T48	morphologie 4492 4516	carcinome neuroendocrine
+T58	morphologie 4530 4548	à grandes cellules
+T50	topographie 4573 4583	pulmonaire
+T51	morphologie 4646 4654	atteinte
+T53	topographie 4655 4663	pleurale
+T54	morphologie 4690 4698	atteinte
+T56	topographie 4703 4738	ganglions lymphatiques médiastinaux

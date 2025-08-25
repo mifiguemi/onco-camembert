@@ -1,0 +1,48 @@
+T1	morphologie 60 81	carcinome épidermoïde
+T3	topographie 85 100	sinus piriforme
+T4	morphologie 118 130	adénopathies
+T6	topographie 131 147	latérocervicales
+T8	morphologie 1329 1334	masse
+T9	morphologie 2936 2943	lésions
+T13	morphologie 3279 3285	lésion
+T15	morphologie 3509 3516	lésions
+T17	morphologie 3544 3554	métastases
+T18	morphologie 3864 3871	lésions
+T20	topographie 3895 3912	calotte crânienne
+T22	morphologie 4115 4122	Lésions
+T24	morphologie 4341 4347	lésion
+T25	morphologie 4504 4510	Lésion
+T27	topographie 4550 4572	hémisphère cérébelleux
+T28	morphologie 4640 4647	lésions
+T30	topographie 4680 4693	cérébelleuses
+T31	topographie 4697 4707	cérébrales
+T32	morphologie 4853 4859	lésion
+T34	topographie 4860 4872	cérébelleuse
+T35	morphologie 4885 4892	lésions
+T38	morphologie 4955 4962	lésions
+T40	topographie 4995 5004	pharyngée
+T41	morphologie 5135 5145	métastases
+T43	topographie 5146 5180	osseuses intra- et extracrâniennes
+T44	morphologie 5477 5483	Lésion
+T46	topographie 5514 5523	pharyngée
+T47	morphologie 5621 5627	lésion
+T49	topographie 5631 5645	lobe inférieur
+T51	morphologie 5665 5679	tumeur maligne
+T52	morphologie 5698 5710	adénopathies
+T54	topographie 5711 5724	médiastinales
+T55	morphologie 5746 5757	adénopathie
+T57	topographie 5758 5767	cervicale
+T59	morphologie 5799 5816	cellules malignes
+T61	morphologie 5818 5840	Carcinome microcytaire
+T62	morphologie 5854 5863	Carcinome
+T75	morphologie 5875 5893	à petites cellules
+T64	topographie 5864 5874	pulmonaire
+T66	morphologie 5897 5912	stade disséminé
+T67	morphologie 6131 6141	métastases
+T69	topographie 6142 6152	cérébrales
+T70	morphologie 6443 6452	carcinome
+T76	morphologie 6464 6476	microcytaire
+T72	topographie 6453 6463	pulmonaire
+T74	morphologie 6478 6493	stade disséminé
+T11	topographie 2952 2965	intra-axiales
+T37	topographie 4893 4922	périventriculaires pariétales

@@ -1,0 +1,31 @@
+T2	morphologie 215 218	CCR
+T4	morphologie 274 277	CCR
+T6	morphologie 333 336	CCR
+T8	morphologie 392 395	CCR
+T9	morphologie 445 451	cancer
+T11	topographie 457 466	endomètre
+T13	morphologie 516 519	CCR
+T14	morphologie 564 572	lymphome
+T16	topographie 573 584	médiastinal
+T18	morphologie 631 634	CCR
+T19	morphologie 687 693	cancer
+T21	topographie 699 706	estomac
+T22	morphologie 768 774	cancer
+T24	topographie 780 789	endomètre
+T25	morphologie 824 830	cancer
+T27	topographie 834 841	cerveau
+T29	morphologie 1033 1036	CCR
+T31	morphologie 1075 1087	néoformation
+T32	morphologie 1220 1245	adénocarcinome infiltrant
+T34	differenciation 1246 1268	modérément différencié
+T36	morphologie 1517 1529	adénopathies
+T37	morphologie 1574 1597	adénocarcinome mucineux
+T39	topographie 1601 1606	côlon
+T40	morphologie 2459 2482	adénocarcinome mucineux
+T42	differenciation 2483 2505	modérément différencié
+T43	morphologie 2634 2642	invasion
+T45	topographie 2643 2659	lymphovasculaire
+T46	topographie 2663 2674	périneurale
+T48	morphologie 2693 2699	tumeur
+T49	morphologie 3199 3205	cancer
+T51	topographie 3206 3215	gastrique

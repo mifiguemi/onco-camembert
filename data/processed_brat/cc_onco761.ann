@@ -1,0 +1,50 @@
+T1	morphologie 97 103	cancer
+T3	topographie 107 111	sein
+T4	morphologie 778 783	masse
+T6	topographie 784 794	abdominale
+T7	morphologie 985 990	masse
+T9	topographie 991 1001	abdominale
+T10	morphologie 1249 1255	lésion
+T12	topographie 1256 1266	abdominale
+T14	morphologie 1383 1389	lésion
+T15	morphologie 1666 1679	dissémination
+T17	topographie 1680 1696	intrapéritonéale
+T19	morphologie 1698 1712	gâteau omental
+T21	morphologie 2220 2225	masse
+T22	morphologie 2231 2243	infiltration
+T24	topographie 2250 2266	paroi abdominale
+T26	morphologie 2440 2457	tératome immature
+T28	morphologie 2778 2784	foyers
+T30	morphologie 2795 2823	tumeur du sinus endodermique
+T31	morphologie 3465 3470	masse
+T33	topographie 3471 3481	abdominale
+T35	morphologie 3518 3523	masse
+T37	morphologie 3929 3935	lésion
+T39	morphologie 4202 4207	masse
+T41	morphologie 4421 4426	masse
+T43	morphologie 4541 4549	tératome
+T45	morphologie 4607 4613	lésion
+T46	morphologie 4886 4900	masse tumorale
+T48	topographie 4914 4924	diaphragme
+T50	morphologie 5138 5146	implants
+T51	morphologie 5216 5222	tumeur
+T53	topographie 5231 5235	dôme
+T55	morphologie 5288 5296	implants
+T56	morphologie 5326 5334	Implants
+T58	topographie 5344 5369	coupoles diaphragmatiques
+T60	morphologie 5399 5407	implants
+T62	morphologie 5422 5430	implants
+T63	morphologie 5547 5555	tératome
+T86	morphologie 5590 5597	matures
+T66	morphologie 5730 5745	tératome mature
+T67	morphologie 5775 5783	Implants
+T69	topographie 5784 5795	péritonéaux
+T70	topographie 5798 5811	tissu adipeux
+T72	morphologie 5849 5864	tératome mature
+T74	morphologie 5923 5953	composants néoplasiques malins
+T76	morphologie 6282 6290	implants
+T78	morphologie 6427 6435	implants
+T80	morphologie 6494 6501	implant
+T81	morphologie 6654 6662	implants
+T83	topographie 6663 6674	péritonéaux
+T85	morphologie 6741 6756	tératome mature

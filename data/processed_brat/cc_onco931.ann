@@ -1,0 +1,29 @@
+T1	morphologie 128 135	lésions
+T3	topographie 136 144	cutanées
+T5	morphologie 569 576	lésions
+T6	morphologie 1187 1196	néoplasie
+T8	topographie 1197 1206	ovarienne
+T9	morphologie 1917 1922	masse
+T11	topographie 1923 1933	pulmonaire
+T12	topographie 1942 1956	lobe inférieur
+T13	morphologie 1996 2008	infiltration
+T15	topographie 2012 2021	médiastin
+T16	morphologie 2027 2043	lymphadénopathie
+T18	topographie 2044 2054	thoracique
+T19	morphologie 2859 2864	masse
+T21	topographie 2865 2875	pulmonaire
+T22	morphologie 2894 2918	foyers hypermétaboliques
+T25	topographie 2963 2980	supraclaviculaire
+T26	topographie 2982 2998	hile-médiastinal
+T27	topographie 3000 3014	costophrénique
+T28	topographie 3048 3061	périsplénique
+T29	topographie 3063 3073	périrénale
+T30	topographie 3098 3116	glandes surrénales
+T32	morphologie 3149 3169	maladie métastatique
+T34	morphologie 3367 3395	carcinome à petites cellules
+T35	morphologie 3438 3447	carcinome
+T42	morphologie 3459 3471	microcytaire
+T37	topographie 3448 3458	pulmonaire
+T39	morphologie 3475 3483	stade IV
+T41	morphologie 6723 6729	tumeur
+T24	topographie 2935 2961	territoires ganglionnaires

@@ -1,0 +1,77 @@
+T1	morphologie 69 99	carcinome canalaire infiltrant
+T2	expression_CIM 69 125	carcinome canalaire infiltrant localement avancé du sein
+T3	topographie 121 125	sein
+T4	morphologie 627 633	cancer
+T5	expression_CIM 627 641	cancer du sein
+T6	topographie 637 641	sein
+T7	morphologie 720 726	cancer
+T8	expression_CIM 720 734	cancer du sein
+T9	topographie 730 734	sein
+T10	morphologie 1427 1432;1452 1457	Masse mixte
+T11	expression_CIM 1427 1457	Masse annexielle droite, mixte
+T12	topographie 1433 1443	annexielle
+T13	morphologie 1561 1570;1579 1596	Carcinome papillaire séreux
+T14	expression_CIM 1561 1610	Carcinome ovarien papillaire séreux de haut grade
+T15	topographie 1571 1578	ovarien
+T16	differenciation 1600 1610	haut grade
+T17	morphologie 1685 1691	cancer
+T18	expression_CIM 1685 1703	cancer de l'ovaire
+T19	topographie 1697 1703	ovaire
+T20	morphologie 2271 2278	rechute
+T21	expression_CIM 2271 2322	rechute médiastinale, hépatique et rétropéritonéale
+T22	topographie 2279 2291	médiastinale
+T23	topographie 2293 2302	hépatique
+T24	topographie 2306 2322	rétropéritonéale
+T25	morphologie 4530 4542	infiltration
+T26	expression_CIM 4530 4571	infiltration du tractus gastro-intestinal
+T27	topographie 4546 4571	tractus gastro-intestinal
+T28	expression_CIM 4741 4766	progression de la maladie
+T29	morphologie 4741 4766	progression de la maladie
+T30	morphologie 5084 5089	masse
+T31	expression_CIM 5084 5103	masse adénopathique
+T32	topographie 5090 5103	adénopathique
+T33	morphologie 5109 5121	infiltration
+T34	expression_CIM 5109 5132	infiltration de l'iléon
+T35	topographie 5127 5132	iléon
+T36	expression_CIM 5831 5837	tumeur
+T37	morphologie 5831 5837	tumeur
+T38	expression_CIM 6154 6160	tumeur
+T39	morphologie 6154 6160	tumeur
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C50.9 8000/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C56.9
+#12	ICD-O T13	8461/3
+#13	ICD-O T14	C56.9 8461/34
+#14	ICD-O T15	C56.9
+#15	ICD-O T16	4
+#16	ICD-O T17	8000/3
+#17	ICD-O T18	C56.9 8000/3
+#18	ICD-O T19	C56.9
+#19	ICD-O T20	8000/3
+#20	ICD-O T21	C22.0 8000/3;C38.3 8000/3;C48.0 8000/3
+#21	ICD-O T22	C38.3
+#22	ICD-O T23	C22.0
+#23	ICD-O T24	C48.0
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C26.9 8000/1
+#26	ICD-O T27	C26.9
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C77.9 8000/1
+#31	ICD-O T32	C77.9
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	C17.2 8000/1
+#34	ICD-O T35	C17.2
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	8000/1

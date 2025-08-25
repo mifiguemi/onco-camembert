@@ -1,0 +1,52 @@
+T15	topographie 907 938;945 962	ganglions lymphatiques pelviens et para-aortiques
+T1	morphologie 224 251	carcinome papillaire séreux
+T2	expression_CIM 224 277	carcinome papillaire séreux de l'ovaire de haut grade
+T3	topographie 257 263	ovaire
+T4	differenciation 267 277	haut grade
+T5	morphologie 792 819	carcinome papillaire séreux
+T6	expression_CIM 792 841	carcinome papillaire séreux ovarien de haut grade
+T7	topographie 820 827	ovarien
+T8	differenciation 831 841	haut grade
+T9	morphologie 851 863	infiltration
+T10	expression_CIM 851 886	infiltration utérine et péritonéale
+T11	topographie 864 871	utérine
+T12	topographie 875 886	péritonéale
+T13	morphologie 894 902	atteinte
+T14	expression_CIM 894 962	atteinte des ganglions lymphatiques pelviens (1/7) et para-aortiques
+T16	morphologie 1047 1068	récidive radiologique
+T17	expression_CIM 1047 1102	récidive radiologique au niveau hépatique et péritonéal
+T18	topographie 1079 1088	hépatique
+T19	topographie 1092 1102	péritonéal
+T20	expression_CIM 3946 3965	maladie oncologique
+T21	morphologie 3946 3965	maladie oncologique
+T22	expression_CIM 4568 4587	maladie oncologique
+T23	morphologie 4568 4587	maladie oncologique
+T24	morphologie 4642 4653	progression
+T25	expression_CIM 4642 4678	progression hépatique et péritonéale
+T26	topographie 4654 4663	hépatique
+T27	topographie 4667 4678	péritonéale
+#1	ICD-O T1	8461/3
+#2	ICD-O T2	C56.9 8461/34
+#3	ICD-O T3	C56.9
+#4	ICD-O T4	4
+#5	ICD-O T5	8461/3
+#6	ICD-O T6	C56.9 8461/34
+#7	ICD-O T7	C56.9
+#8	ICD-O T8	4
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C48.2 8000/1;C55.9 8000/1
+#11	ICD-O T11	C55.9
+#12	ICD-O T12	C48.2
+#13	ICD-O T13	8000/1
+#14	ICD-O T16	8000/3
+#15	ICD-O T17	C22.0 8000/3;C48.2 8000/3
+#16	ICD-O T18	C22.0
+#17	ICD-O T19	C48.2
+#18	ICD-O T20	8000/3
+#19	ICD-O T21	8000/3
+#20	ICD-O T22	8000/3
+#21	ICD-O T23	8000/3
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	C22.0 8000/6;C48.2 8000/6
+#24	ICD-O T26	C22.0
+#25	ICD-O T27	C48.2

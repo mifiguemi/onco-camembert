@@ -1,0 +1,36 @@
+T1	morphologie 78 92	adénocarcinome
+T3	topographie 99 107	prostate
+T4	stadeTNM 109 117	pT2bN0M0
+T5	differenciation 120 136	Gleason 7 (4 + 3
+T6	morphologie 369 379	métastases
+T8	topographie 380 388	osseuses
+T9	topographie 392 406	adénopathiques
+T10	morphologie 1729 1736	lésions
+T12	topographie 1737 1754	supratentorielles
+T13	morphologie 1854 1863	métastase
+T16	morphologie 2033 2042	métastase
+T18	topographie 2043 2050	osseuse
+T19	morphologie 2097 2107	Métastases
+T21	topographie 2108 2118	cérébrales
+T22	morphologie 2134 2148	adénocarcinome
+T24	topographie 2149 2160	prostatique
+T25	morphologie 2460 2467	lésions
+T27	topographie 2488 2507	parenchyme cérébral
+T28	morphologie 3039 3045	cancer
+T30	topographie 3052 3060	prostate
+T32	morphologie 3077 3083	cancer
+T33	morphologie 3249 3259	métastases
+T35	topographie 3260 3270	cérébrales
+T37	morphologie 3320 3341	cellules néoplasiques
+T38	morphologie 3574 3584	métastases
+T40	topographie 3585 3595	crâniennes
+T41	morphologie 3621 3628	lésions
+T43	topographie 3629 3639	cérébrales
+T44	morphologie 3698 3708	métastases
+T46	topographie 3717 3731	calice crânien
+T47	morphologie 3901 3911	métastases
+T49	topographie 3912 3922	cérébrales
+T51	morphologie 4039 4060	cellules néoplasiques
+T53	morphologie 4437 4447	néoplasmes
+T55	morphologie 4469 4476	lésions
+T15	topographie 1909 1925	région pariétale

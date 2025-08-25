@@ -1,0 +1,121 @@
+T17	topographie 3535 3545	hémisacrum
+T21	topographie 3807 3819	os du bassin
+T20	topographie 3793 3799	rachis
+T1	morphologie 65 79	adénocarcinome
+T2	expression_CIM 65 89	adénocarcinome gastrique
+T3	topographie 80 89	gastrique
+T4	morphologie 783 797	adénocarcinome
+T5	expression_CIM 783 829	adénocarcinome de la prostate de Gleason 2 + 2
+T6	topographie 804 812	prostate
+T7	expression_CIM 876 884	récidive
+T8	morphologie 876 884	récidive
+T9	morphologie 946 953	polypes
+T10	expression_CIM 946 962	polypes du côlon
+T11	topographie 957 962	côlon
+T12	expression_CIM 981 1005	adénomes tubulovillaires
+T13	morphologie 981 1005	adénomes tubulovillaires
+T14	expression_CIM 2326 2348	pathologie néoplasique
+T15	morphologie 2326 2348	pathologie néoplasique
+T16	expression_CIM 3462 3545	lésion lytique suspecte de malignité est apparue à la TEP au niveau de l'hémisacrum
+T18	morphologie 3753 3759;3769 3779	images nodulaires
+T19	expression_CIM 3753 3819	images de blast nodulaires au niveau du rachis et des os du bassin
+T22	morphologie 3833 3843	métastases
+T23	expression_CIM 3833 3852	métastases osseuses
+T24	topographie 3844 3852	osseuses
+T25	morphologie 4383 4392	néoplasie
+T26	expression_CIM 4383 4402	néoplasie gastrique
+T27	topographie 4393 4402	gastrique
+T28	topographie 4571 4589	muqueuse gastrique
+T29	expression_CIM 4571 4604	muqueuse gastrique : infiltration
+T30	morphologie 4592 4604	infiltration
+T31	expression_CIM 4612 4652	carcinome diffus à cellules "en couronne
+T32	morphologie 4612 4652	carcinome diffus à cellules "en couronne
+T33	expression_CIM 4751 4775	cellularité métastatique
+T34	morphologie 4751 4775	cellularité métastatique
+T35	expression_CIM 4782 4810	processus lymphoprolifératif
+T36	morphologie 4782 4810	processus lymphoprolifératif
+T37	expression_CIM 5266 5278	adénopathies
+T38	morphologie 5266 5278	adénopathies
+T39	morphologie 5918 5928	métastases
+T40	expression_CIM 5918 6030	métastases blastiques au niveau de la colonne vertébrale : D3, D5, D7, D9, L3 et de l'articulation sacro-iliaque
+T41	topographie 5956 5974	colonne vertébrale
+T42	topographie 5977 5979	D3
+T43	topographie 5981 5983	D5
+T44	topographie 5985 5987	D7
+T45	topographie 5989 5991	D9
+T46	topographie 5993 5995	L3
+T47	topographie 6004 6030	articulation sacro-iliaque
+T48	morphologie 6073 6082	carcinome
+T49	expression_CIM 6073 6092	carcinome gastrique
+T50	topographie 6083 6092	gastrique
+T51	expression_CIM 6096 6104	stade IV
+T52	morphologie 6096 6104	stade IV
+T53	morphologie 6147 6155	atteinte
+T54	expression_CIM 6147 6163	atteinte osseuse
+T55	topographie 6156 6163	osseuse
+T56	morphologie 6878 6886	atteinte
+T57	expression_CIM 6878 6894	atteinte osseuse
+T58	topographie 6887 6894	osseuse
+T59	expression_CIM 7375 7382	lésions
+T60	morphologie 7375 7382	lésions
+T61	expression_CIM 7574 7589	tumeur primaire
+T62	morphologie 7574 7589	tumeur primaire
+T63	expression_CIM 7606 7624	lymphite plastique
+T64	morphologie 7606 7624	lymphite plastique
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C16.9 8140/3
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8140/3
+#5	ICD-O T6	C61.9
+#6	ICD-O T7	8000/6
+#7	ICD-O T8	8000/9
+#8	ICD-O T9	8210/1
+#9	ICD-O T11	C18
+#10	ICD-O T12	8263/0
+#11	ICD-O T13	8263/0
+#12	ICD-O T14	8000/3
+#13	ICD-O T15	8000/9
+#14	ICD-O T18	8000/1
+#15	ICD-O T22	8000/6
+#16	ICD-O T23	C41.9 8000/6
+#17	ICD-O T24	C41.9
+#18	ICD-O T25	8000/3
+#19	ICD-O T26	C16.9 8000/1
+#20	ICD-O T27	C16.9
+#21	ICD-O T28	C16.9
+#22	ICD-O T29	C16.9 8000/1
+#23	ICD-O T30	8000/9
+#24	ICD-O T32	tocheck
+#25	ICD-O T33	8001/6
+#26	ICD-O T34	8001/6
+#27	ICD-O T35	9970/1
+#28	ICD-O T36	9970/1
+#29	ICD-O T37	C77.9 8000/1
+#30	ICD-O T38	8000/1
+#31	ICD-O T39	8000/6
+#32	ICD-O T40	C41.2 8000/6;C41.4 8000/6
+#33	ICD-O T41	C41.2
+#34	ICD-O T42	C41.2
+#35	ICD-O T43	C41.2
+#36	ICD-O T44	C41.2
+#37	ICD-O T45	C41.2
+#38	ICD-O T46	C41.2
+#39	ICD-O T47	C41.4
+#40	ICD-O T48	8010/3
+#41	ICD-O T49	C16.9 8010/3
+#42	ICD-O T50	C16.9
+#43	ICD-O T51	8000/6
+#44	ICD-O T52	8000/6
+#45	ICD-O T53	8000/9
+#46	ICD-O T54	C41.9 8000/1
+#47	ICD-O T55	C41.9
+#48	ICD-O T56	8000/9
+#49	ICD-O T57	C41.9 8000/1
+#50	ICD-O T58	C41.9
+#51	ICD-O T59	8000/1
+#52	ICD-O T60	8000/1
+#53	ICD-O T61	8000/3
+#54	ICD-O T62	8000/3
+#55	ICD-O T64	8142/3
+#56	AnnotatorNotes T32	trad
+#57	AnnotatorNotes T64	trad

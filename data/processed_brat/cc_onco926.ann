@@ -1,0 +1,24 @@
+T13	topographie 2681 2702	extradurale pariétale
+T7	topographie 1026 1036	occipitale
+T32	topographie 3651 3661	occipitaux
+T19	topographie 3204 3218	parenchymateux
+T1	morphologie 546 552	nodule
+T3	topographie 553 563	choroïdien
+T4	topographie 571 574	œil
+T5	morphologie 994 1000	tumeur
+T8	topographie 1060 1066	dorsal
+T10	morphologie 1168 1175	lipomes
+T11	morphologie 2674 2680	lésion
+T14	morphologie 3081 3086	masse
+T16	topographie 3102 3116	lobe inférieur
+T17	morphologie 3196 3203	nodules
+T20	morphologie 3236 3261	conglomérat adénopathique
+T22	topographie 3262 3273	médiastinal
+T23	morphologie 3417 3429	infiltration
+T25	topographie 3443 3459	arbre bronchique
+T27	morphologie 3512 3544	carcinome non à petites cellules
+T28	morphologie 3595 3604	carcinome
+T30	differenciation 3612 3623	différencié
+T34	morphologie 3712 3721	métastase
+T35	morphologie 3727 3736	carcinome
+T37	differenciation 3737 3752	peu différencié

@@ -1,0 +1,52 @@
+T1	morphologie 563 572	néoplasie
+T3	topographie 573 580	utérine
+T4	morphologie 773 782	métastase
+T6	topographie 790 817	espace épidural à D9 et D10
+T7	morphologie 827 832	masse
+T9	topographie 836 845	tissu mou
+T10	morphologie 1154 1161	sarcome
+T75	morphologie 1174 1181	stromal
+T12	topographie 1162 1173	endométrial
+T13	differenciation 1182 1195	indifférencié
+T14	morphologie 1438 1449	adénopathie
+T16	topographie 1450 1466	sus-claviculaire
+T17	topographie 1470 1479	axillaire
+T18	morphologie 1575 1580	masse
+T20	topographie 1597 1607	hypogastre
+T21	topographie 1614 1617	FID
+T22	morphologie 1913 1918	masse
+T24	topographie 1982 1998	glande surrénale
+T26	morphologie 2110 2130	implant métastatique
+T27	morphologie 2283 2292	carcinome
+T29	topographie 2293 2304	endométrial
+T31	morphologie 2422 2447	infiltration métastatique
+T32	morphologie 2465 2471	lésion
+T34	topographie 2475 2493	corps vertébral D4
+T35	morphologie 2587 2592	masse
+T37	topographie 2596 2605	tissu mou
+T38	morphologie 2896 2921	Infiltration métastatique
+T40	topographie 2929 2962	espace épidural, au niveau D9-D10
+T42	morphologie 3233 3239	lésion
+T43	morphologie 3269 3274	masse
+T45	topographie 3278 3289	tissus mous
+T46	morphologie 3460 3485	infiltration métastatique
+T48	topographie 3507 3528	corps vertébral de L5
+T49	morphologie 3593 3598	masse
+T51	topographie 3602 3611	tissu mou
+T52	morphologie 3623 3648	Infiltration métastatique
+T54	topographie 3656 3666	ala sacrée
+T55	topographie 3693 3695	S1
+T56	morphologie 3705 3714	extension
+T58	topographie 3718 3731	foramen sacré
+T59	topographie 3732 3734	S1
+T60	morphologie 3806 3820	tumeur maligne
+T62	differenciation 3821 3835	indifférenciée
+T63	morphologie 3855 3862	sarcome
+T76	morphologie 3875 3888	indifférencié
+T65	topographie 3863 3874	endométrial
+T66	morphologie 3954 3969	Sarcome stromal
+T68	topographie 3970 3981	endométrial
+T69	differenciation 3982 3995	indifférencié
+T71	morphologie 3999 4007	stade IV
+T72	morphologie 4114 4120	tumeur
+T74	topographie 4121 4130	épidurale

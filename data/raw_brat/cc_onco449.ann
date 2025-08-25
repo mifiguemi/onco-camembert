@@ -1,0 +1,126 @@
+T53	morphologie 3660 3679	absorption anormale
+T1	morphologie 74 80	tumeur
+T2	expression_CIM 74 97	tumeur latéro-cervicale
+T3	topographie 81 97	latéro-cervicale
+T4	morphologie 691 697	tumeur
+T5	expression_CIM 691 738	tumeur de 2 cm dans la région jugulodigastrique
+T7	morphologie 1256 1262	tumeur
+T8	expression_CIM 1256 1272	tumeur cervicale
+T9	topographie 1263 1272	cervicale
+T10	morphologie 1318 1327	néoplasme
+T11	expression_CIM 1318 1367	néoplasme nécrotique et ulcéré du sinus piriforme
+T12	topographie 1352 1367	sinus piriforme
+T13	expression_CIM 1383 1394	adénopathie
+T14	morphologie 1383 1394	adénopathie
+T15	morphologie 1491 1512	carcinome épidermoïde
+T16	expression_CIM 1491 1528	carcinome épidermoïde peu différencié
+T17	differenciation 1513 1528	peu différencié
+T18	morphologie 1713 1743	carcinome malpighien basaloïde
+T19	expression_CIM 1713 1805	carcinome malpighien basaloïde peu différencié de 3,5 cm de diamètre dans le sinus piriforme
+T20	differenciation 1744 1759	peu différencié
+T21	topographie 1790 1805	sinus piriforme
+T22	morphologie 1891 1899	invasion
+T23	expression_CIM 1891 1934	invasion vasculaire sanguine et lymphatique
+T24	topographie 1900 1910	vasculaire
+T25	topographie 1911 1919	sanguine
+T26	topographie 1923 1934	lymphatique
+T27	morphologie 1940 1952	infiltration
+T28	expression_CIM 1940 1964	infiltration périneurale
+T29	topographie 1953 1964	périneurale
+T30	morphologie 2041 2053	infiltration
+T31	expression_CIM 2041 2069	infiltration des tissus mous
+T32	topographie 2058 2069	tissus mous
+T33	morphologie 2077 2098	carcinome épidermoïde
+T34	expression_CIM 2077 2114	carcinome épidermoïde peu différencié
+T35	differenciation 2099 2114	peu différencié
+T36	morphologie 2421 2442	carcinome épidermoïde
+T37	expression_CIM 2421 2460	carcinome épidermoïde de la supraglotte
+T38	topographie 2449 2460	supraglotte
+T39	morphologie 2640 2661	carcinome épidermoïde
+T40	expression_CIM 2640 2678	carcinome épidermoïde de l'hypopharynx
+T41	topographie 2667 2678	hypopharynx
+T42	morphologie 3406 3424	lésions nodulaires
+T43	expression_CIM 3406 3500	lésions nodulaires dans les poumons, dont la plus grande mesurait 15 mm dans le lobe inférieur
+T44	topographie 3434 3441	poumons
+T45	topographie 3486 3500	lobe inférieur
+T46	expression_CIM 3533 3543	métastases
+T47	morphologie 3533 3543	métastases
+T48	expression_CIM 3636 3643	nodules
+T49	morphologie 3636 3643	nodules
+T50	expression_CIM 3648 3654	masses
+T51	morphologie 3648 3654	masses
+T52	expression_CIM 3660 3679	absorption anormale
+T54	expression_CIM 3694 3714	récidive néoplasique
+T55	morphologie 3694 3714	récidive néoplasique
+T56	morphologie 3774 3785	progression
+T57	expression_CIM 3774 3806	progression au niveau pulmonaire
+T58	topographie 3796 3806	pulmonaire
+T59	expression_CIM 3909 3924	tumeur primaire
+T60	morphologie 3909 3924	tumeur primaire
+T61	morphologie 4385 4396	progression
+T62	expression_CIM 4385 4417	progression au niveau pulmonaire
+T63	topographie 4407 4417	pulmonaire
+T64	expression_CIM 5921 5926	masse
+T65	morphologie 5921 5926	masse
+T6	topographie 714 738	région jugulodigastrique
+#1	ICD-O T53	8000/1
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C76.0 8000/1
+#4	ICD-O T3	C76.0
+#5	ICD-O T4	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	C76.0 8000/1
+#8	ICD-O T9	C76.0
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C12.9 8000/1
+#11	ICD-O T12	C12.9
+#12	ICD-O T13	C77.9 8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8070/3
+#15	ICD-O T16	8070/33
+#16	ICD-O T17	3
+#17	ICD-O T18	8083/3
+#18	ICD-O T19	C12.9 8083/33
+#19	ICD-O T20	3
+#20	ICD-O T21	C12.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C42.0 8000/1;C49.9 8000/1
+#23	ICD-O T24	C49.9
+#24	ICD-O T25	C42.0
+#25	ICD-O T26	C49.9
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	C47.9 8000/1
+#28	ICD-O T29	C47.9
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C49.9 8000/1
+#31	ICD-O T32	C49.9
+#32	ICD-O T33	8070/3
+#33	ICD-O T34	8070/33
+#34	ICD-O T35	3
+#35	ICD-O T36	8070/3
+#36	ICD-O T37	C32.1 8070/3
+#37	ICD-O T38	C32.1
+#38	ICD-O T39	8070/3
+#39	ICD-O T40	C13.9 8070/3
+#40	ICD-O T41	C13.9
+#41	ICD-O T42	8000/1
+#42	ICD-O T44	C34.9
+#43	ICD-O T45	C34.3
+#44	ICD-O T46	8000/6
+#45	ICD-O T47	8000/6
+#46	ICD-O T48	8000/1
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	8000/1
+#49	ICD-O T51	8000/1
+#50	ICD-O T54	8000/3
+#51	ICD-O T55	8000/3
+#52	ICD-O T56	8000/6
+#53	ICD-O T57	C34.9 8000/6
+#54	ICD-O T58	C34.9
+#55	ICD-O T59	8000/3
+#56	ICD-O T60	8000/3
+#57	ICD-O T61	8000/6
+#58	ICD-O T62	C34.9 8000/6
+#59	ICD-O T63	C34.9
+#60	ICD-O T64	8000/1
+#61	ICD-O T65	8000/1

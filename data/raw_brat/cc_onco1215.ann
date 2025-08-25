@@ -1,0 +1,69 @@
+T2	expression_CIM 482 547	lésion malpighienne intraépithéliale de haut grade (HSIL, CIN III
+T3	differenciation 522 532	haut grade
+T4	morphologie 807 841	carcinome malpighien micro-invasif
+T5	expression_CIM 807 860	carcinome malpighien micro-invasif du col de l'utérus
+T6	topographie 845 860	col de l'utérus
+T7	morphologie 887 927	lésions intra-épithéliales malpighiennes
+T8	expression_CIM 887 941	lésions intra-épithéliales malpighiennes de haut grade
+T9	differenciation 931 941	haut grade
+T10	morphologie 1052 1058	tumeur
+T11	expression_CIM 1052 1068	tumeur cervicale
+T12	topographie 1059 1068	cervicale
+T13	morphologie 1351 1356	masse
+T14	expression_CIM 1351 1366	masse cervicale
+T15	topographie 1357 1366	cervicale
+T16	expression_CIM 1490 1502	infiltration
+T17	morphologie 1490 1502	infiltration
+T18	morphologie 1560 1571	adénopathie
+T19	expression_CIM 1560 1601	adénopathie rétropéritonéale ou pelvienne
+T20	topographie 1572 1588	rétropéritonéale
+T21	topographie 1592 1601	pelvienne
+T22	morphologie 1840 1860	maladie métastatique
+T23	expression_CIM 1840 1878	maladie métastatique dans 11 ganglions
+T24	topographie 1869 1878	ganglions
+T25	expression_CIM 2178 2196	maladie à distance
+T26	morphologie 2178 2196	maladie à distance
+T27	morphologie 2284 2304	carcinome malpighien
+T28	expression_CIM 2284 2323	carcinome malpighien du col de l'utérus
+T29	topographie 2308 2323	col de l'utérus
+T30	expression_CIM 3252 3271	récidive secondaire
+T31	morphologie 3252 3271	récidive secondaire
+T32	expression_CIM 3577 3584	maladie
+T33	morphologie 3577 3584	maladie
+T34	expression_CIM 4013 4020	maladie
+T35	morphologie 4013 4020	maladie
+T1	morphologie 482 518;534 547	lésion malpighienne intraépithéliale HSIL, CIN III
+#1	ICD-O T3	4
+#2	ICD-O T4	8076/3
+#3	ICD-O T5	C53.9 8076/3
+#4	ICD-O T6	C53.9
+#5	ICD-O T7	8070/2
+#6	ICD-O T8	8070/24
+#7	ICD-O T9	4
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	C76.0 8000/1
+#10	ICD-O T12	C76.0
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C76.0 8000/1
+#13	ICD-O T15	C76.0
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C77.2 8000/1;C77.5 8000/1
+#18	ICD-O T20	C48.0
+#19	ICD-O T21	C76.3
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	C77.9 8000/6
+#22	ICD-O T24	C77.9
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8070/3
+#26	ICD-O T28	C53.9 8070/3
+#27	ICD-O T29	C53.9
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	8000/6
+#31	ICD-O T33	8000/6
+#32	ICD-O T34	8000/6
+#33	ICD-O T35	8000/6
+#34	ICD-O T1	8077/2

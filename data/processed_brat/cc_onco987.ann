@@ -1,0 +1,47 @@
+T50	topographie 6947 6968	intraparenchymateuses
+T54	topographie 7053 7064	os pariétal
+T1	morphologie 225 232	myxomes
+T3	topographie 233 243	cardiaques
+T4	topographie 244 256	auriculaires
+T5	morphologie 313 325	macroadénome
+T7	topographie 326 338	hypophysaire
+T9	morphologie 607 633	carcinomes basocellulaires
+T10	morphologie 719 736	tumeur papillaire
+T12	differenciation 762 769	grade I
+T14	morphologie 906 921	récidive locale
+T16	morphologie 984 1014	carcinome canalaire infiltrant
+T17	morphologie 1490 1499	métastase
+T19	topographie 1516 1543	quatrième vertèbre lombaire
+T20	topographie 1545 1547	L4
+T21	morphologie 1652 1658	lésion
+T23	topographie 1667 1678	nasopharynx
+T24	morphologie 1686 1692	lésion
+T26	topographie 1709 1727	corps vertébral L4
+T28	morphologie 1863 1872	métastase
+T29	morphologie 1876 1885	carcinome
+T31	topographie 1886 1894	mammaire
+T32	morphologie 2472 2478	lésion
+T34	topographie 2487 2498	nasopharynx
+T35	morphologie 2543 2549	lésion
+T37	topographie 2550 2563	nasopharyngée
+T39	morphologie 2725 2732	lésions
+T40	morphologie 2760 2766	lésion
+T42	topographie 2775 2786	nasopharynx
+T43	morphologie 3970 3982	macroadénome
+T45	topographie 3983 3995	hypophysaire
+T47	morphologie 4584 4589	masse
+T48	morphologie 6936 6946	métastases
+T51	topographie 6972 6986	leptoméningées
+T52	morphologie 7007 7035	lésion suspecte de métastase
+T55	morphologie 7258 7264	lésion
+T57	topographie 7265 7272	osseuse
+T58	topographie 7310 7312	L4
+T60	morphologie 7328 7345	récidive tumorale
+T62	morphologie 7665 7686	cellules néoplasiques
+T63	morphologie 7833 7843	métastases
+T65	topographie 7844 7854	cérébrales
+T66	morphologie 7859 7872	carcinomatose
+T68	topographie 7873 7886	leptoméningée
+T69	morphologie 8971 8977	cancer
+T71	topographie 8981 8985	sein
+T73	morphologie 9500 9506	tumeur

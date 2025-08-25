@@ -1,0 +1,32 @@
+T1	morphologie 263 271	mélanome
+T3	topographie 272 282	choroïdien
+T4	morphologie 367 372	masse
+T6	topographie 373 383	abdominale
+T8	morphologie 421 444	mélanome malin pigmenté
+T9	morphologie 583 590	nodules
+T11	topographie 591 602	pulmonaires
+T12	morphologie 628 632	LOES
+T47	morphologie 644 657	métastatiques
+T14	topographie 633 643	hépatiques
+T15	morphologie 682 699	implants tumoraux
+T17	topographie 700 713	mésentériques
+T18	topographie 717 728	péritonéaux
+T19	topographie 783 792	mésentère
+T20	topographie 804 817	fosse iliaque
+T21	topographie 840 851	péritonéale
+T23	morphologie 1001 1009	mélanome
+T24	morphologie 1013 1021	stade IV
+T26	topographie 1023 1032	hépatique
+T27	topographie 1034 1044	péritonéal
+T28	topographie 1048 1058	pulmonaire
+T29	morphologie 1254 1265	progression
+T31	topographie 1290 1300	péritonéal
+T32	morphologie 1804 1810	masses
+T34	topographie 1811 1823	péritonéales
+T35	morphologie 2017 2023	masses
+T37	topographie 2045 2051	flancs
+T38	morphologie 2204 2210	masses
+T40	topographie 2211 2223	péritonéales
+T42	morphologie 2317 2325	Mélanome
+T44	morphologie 2437 2445	mélanome
+T46	morphologie 2510 2516	masses

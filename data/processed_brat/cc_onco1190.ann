@@ -1,0 +1,40 @@
+T1	morphologie 418 424	tumeur
+T3	topographie 450 456	sacrum
+T5	morphologie 596 602	lésion
+T7	morphologie 670 678	chordome
+T8	morphologie 954 960	tumeur
+T10	topographie 1023 1048	à 35 cm de la marge anale
+T12	morphologie 1224 1238	adénocarcinome
+T13	morphologie 1394 1401	nodules
+T15	topographie 1402 1413	pulmonaires
+T16	morphologie 1538 1545	lésions
+T18	topographie 1554 1568	lobe inférieur
+T19	morphologie 1637 1644	nodules
+T21	topographie 1645 1656	pulmonaires
+T22	morphologie 1734 1744	métastases
+T24	topographie 1745 1756	pulmonaires
+T25	morphologie 1762 1776	adénocarcinome
+T27	topographie 1780 1785	côlon
+T28	morphologie 1931 1938	lésions
+T30	topographie 1939 1950	pulmonaires
+T32	morphologie 2016 2025	métastase
+T34	morphologie 2029 2037	chordome
+T35	morphologie 2250 2257	lésions
+T37	topographie 2261 2267	poumon
+T39	morphologie 2346 2354	chordome
+T41	morphologie 2469 2476	lésions
+T42	morphologie 2552 2560	récidive
+T44	topographie 2576 2586	os iliaque
+T45	morphologie 2615 2622	lésions
+T47	topographie 2623 2634	pulmonaires
+T49	morphologie 2795 2803	récidive
+T51	morphologie 2807 2815	chordome
+T52	morphologie 2821 2829	atteinte
+T54	topographie 2834 2836	os
+T55	topographie 2844 2855	tissus mous
+T57	morphologie 3146 3157	lit tumoral
+T58	morphologie 3447 3454	nodules
+T60	topographie 3455 3466	pulmonaires
+T61	morphologie 3627 3633	cancer
+T63	topographie 3637 3642	côlon
+T65	morphologie 3696 3704	chordome

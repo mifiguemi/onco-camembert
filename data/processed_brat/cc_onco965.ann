@@ -1,0 +1,74 @@
+T29	topographie 1847 1863	région axillaire
+T1	morphologie 290 299	néoplasie
+T3	topographie 300 310	pulmonaire
+T4	morphologie 419 425	lésion
+T6	topographie 426 435	cervicale
+T7	morphologie 496 503	lésions
+T9	topographie 504 512	cutanées
+T10	morphologie 713 729	lymphadénopathie
+T12	topographie 730 739	axillaire
+T13	morphologie 879 891	adénopathies
+T15	topographie 892 902	axillaires
+T16	morphologie 1019 1026	lésions
+T18	topographie 1044 1048	sein
+T19	morphologie 1089 1096	lésions
+T113	morphologie 1106 1115	suspectes
+T21	topographie 1097 1105	cutanées
+T23	morphologie 1298 1305	nodules
+T24	morphologie 1458 1469	adénopathie
+T26	topographie 1470 1479	axillaire
+T27	morphologie 1818 1829	adénopathie
+T30	morphologie 1880 1895	image nodulaire
+T32	topographie 1944 1960	glande surrénale
+T34	morphologie 1980 1986	lésion
+T35	morphologie 2077 2089	adénopathies
+T37	topographie 2113 2121	cervical
+T38	topographie 2123 2132	axillaire
+T39	topographie 2146 2161	intra-abdominal
+T40	morphologie 2179 2184	masse
+T42	topographie 2185 2198	surrénalienne
+T44	morphologie 2227 2236	métastase
+T45	morphologie 2242 2248	lésion
+T47	topographie 2257 2278	corps vertébral de D9
+T48	morphologie 2312 2321	métastase
+T50	topographie 2322 2329	osseuse
+T51	morphologie 2427 2449	foyers ostéoblastiques
+T53	topographie 2486 2496	arc costal
+T54	topographie 2509 2511	D9
+T56	morphologie 2535 2542	lésions
+T58	morphologie 2583 2589	lésion
+T59	morphologie 2624 2635	adénopathie
+T61	topographie 2636 2645	axillaire
+T63	morphologie 2723 2732	métastase
+T65	morphologie 2742 2756	mélanome malin
+T67	morphologie 2911 2932	Mélanome métastatique
+T68	morphologie 2961 2971	métastases
+T70	topographie 2972 2986	ganglionnaires
+T71	topographie 2987 3017	supra et infradiaphragmatiques
+T72	topographie 3019 3027	osseuses
+T73	topographie 3031 3045	surrénaliennes
+T75	morphologie 3472 3479	lésions
+T76	morphologie 4186 4197	adénopathie
+T78	topographie 4198 4207	axillaire
+T79	morphologie 4267 4272	masse
+T81	topographie 4273 4283	pararénale
+T82	morphologie 4311 4318	lésions
+T84	topographie 4319 4327	osseuses
+T85	morphologie 4693 4704	adénopathie
+T87	topographie 4705 4714	axillaire
+T88	morphologie 4760 4771	adénopathie
+T90	topographie 4772 4784	médiastinale
+T91	morphologie 4792 4797	masse
+T93	topographie 4798 4808	pararénale
+T95	morphologie 4867 4873	lésion
+T97	morphologie 5170 5182	adénopathies
+T99	morphologie 5197 5208	adénopathie
+T100	morphologie 5255 5267	micronodules
+T102	topographie 5268 5279	pulmonaires
+T103	topographie 5315 5329	lobe inférieur
+T104	morphologie 5384 5390	lésion
+T106	topographie 5391 5401	pararénale
+T107	morphologie 5731 5743	adénopathies
+T109	topographie 5744 5754	axillaires
+T110	morphologie 5865 5871	lésion
+T112	topographie 5883 5893	pararénale

@@ -1,0 +1,25 @@
+T1	morphologie 58 88	carcinome canalaire infiltrant
+T3	topographie 110 114	sein
+T4	stadeTNM 123 130	cT2N2M0
+T5	differenciation 209 228	grade nucléaire III
+T6	morphologie 472 479	lésions
+T8	topographie 480 488	cutanées
+T10	morphologie 828 835	lésions
+T12	morphologie 886 899	dissémination
+T13	morphologie 1137 1143	tumeur
+T15	topographie 1176 1180	sein
+T17	morphologie 1351 1358	lésions
+T19	morphologie 1466 1473	lésions
+T20	morphologie 1586 1593	lésions
+T23	morphologie 2131 2136	masse
+T26	morphologie 2215 2226	Adénopathie
+T28	topographie 2227 2236	axillaire
+T30	morphologie 2257 2271	tumeur maligne
+T32	morphologie 3529 3548	maladie oncologique
+T34	morphologie 4255 4261	tumeur
+T35	morphologie 4285 4296	adénopathie
+T37	topographie 4297 4306	axillaire
+T38	morphologie 4406 4412	tumeur
+T40	topographie 4416 4420	sein
+T22	topographie 1598 1604	ongles
+T25	topographie 2180 2206	quadrants internes du sein

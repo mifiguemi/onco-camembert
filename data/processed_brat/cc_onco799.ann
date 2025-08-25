@@ -1,0 +1,25 @@
+T4	topographie 2048 2062	région hilaire
+T1	morphologie 2023 2028	masse
+T3	topographie 2029 2039	pulmonaire
+T5	morphologie 2080 2089	extension
+T7	topographie 2090 2102	médiastinale
+T8	morphologie 2284 2289	masse
+T10	topographie 2290 2300	pulmonaire
+T11	morphologie 2385 2390	masse
+T13	topographie 2391 2398	hilaire
+T14	morphologie 2442 2451	carcinome
+T38	morphologie 2463 2475	microcytaire
+T16	topographie 2452 2462	pulmonaire
+T17	morphologie 2636 2643	lésions
+T19	topographie 2644 2654	hépatiques
+T21	topographie 2739 2751	arcs costaux
+T22	topographie 2755 2774	vertèbres lombaires
+T23	morphologie 2797 2807	métastases
+T25	topographie 2808 2818	hépatiques
+T26	topographie 2822 2830	osseuses
+T28	morphologie 2864 2886	carcinome microcytaire
+T30	morphologie 2890 2898	stade IV
+T32	morphologie 2900 2915	maladie étendue
+T34	morphologie 3591 3619	carcinome à petites cellules
+T35	morphologie 5910 5915	masse
+T37	topographie 5916 5926	pulmonaire

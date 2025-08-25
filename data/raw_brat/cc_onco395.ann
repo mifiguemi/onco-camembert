@@ -1,0 +1,375 @@
+T49	topographie 3304 3330	lobe inférieur gauche (LII
+T1	morphologie 328 348	carcinome urothélial
+T2	expression_CIM 328 370	carcinome urothélial localisé de la vessie
+T3	topographie 364 370	vessie
+T4	morphologie 798 804	cancer
+T5	expression_CIM 798 814	cancer gastrique
+T6	topographie 805 814	gastrique
+T7	morphologie 946 960	adénocarcinome
+T8	expression_CIM 946 971	adénocarcinome pulmonaire
+T9	topographie 961 971	pulmonaire
+T10	morphologie 1939 1948	néoplasie
+T11	expression_CIM 1939 1959	néoplasie pulmonaire
+T12	topographie 1949 1959	pulmonaire
+T13	morphologie 2011 2017	lésion
+T14	expression_CIM 2011 2034	lésion au niveau du LSD
+T15	topographie 2031 2034	LSD
+T16	morphologie 2055 2064	néoplasie
+T17	expression_CIM 2055 2075	néoplasie pulmonaire
+T18	topographie 2065 2075	pulmonaire
+T19	expression_CIM 2085 2092	nodules
+T20	morphologie 2085 2092	nodules
+T21	expression_CIM 2108 2114	lésion
+T22	morphologie 2108 2114	lésion
+T23	morphologie 2301 2307	lésion
+T24	expression_CIM 2301 2314	lésion du LSD
+T25	topographie 2311 2314	LSD
+T26	morphologie 2361 2383	masse hypermétabolique
+T27	expression_CIM 2361 2448	masse hypermétabolique de morphologie irrégulière au niveau du lobe supérieur du poumon
+T28	topographie 2424 2448	lobe supérieur du poumon
+T29	morphologie 2548 2557;2569 2577	processus primaire
+T30	expression_CIM 2548 2577	processus pulmonaire primaire
+T31	topographie 2558 2568	pulmonaire
+T32	morphologie 2673 2678	masse
+T33	expression_CIM 2673 2696	masse et dans le poumon
+T34	topographie 2690 2696	poumon
+T35	morphologie 2802 2808	lésion
+T36	expression_CIM 2802 2815	lésion du LSD
+T37	topographie 2812 2815	LSD
+T38	expression_CIM 3050 3059	carcinome
+T39	morphologie 3050 3059	carcinome
+T40	expression_CIM 3079 3093	adénocarcinome
+T41	morphologie 3079 3093	adénocarcinome
+T42	morphologie 3160 3174	adénocarcinome
+T43	expression_CIM 3160 3230	adénocarcinome pulmonaire de stade IIB (T3N0M0) dans le lobe supérieur
+T44	topographie 3175 3185	pulmonaire
+T45	stadeTNM 3200 3206	T3N0M0
+T46	topographie 3216 3230	lobe supérieur
+T47	morphologie 3246 3252	tumeur
+T48	expression_CIM 3246 3330	tumeur de 6 cm et un infiltrat infectieux associé dans le lobe inférieur gauche (LII
+T50	expression_CIM 3502 3509	lésions
+T51	morphologie 3502 3509	lésions
+T52	morphologie 3675 3680	masse
+T53	expression_CIM 3675 3692	masse dans le LSD
+T54	topographie 3689 3692	LSD
+T55	morphologie 3735 3749	adénocarcinome
+T56	expression_CIM 3735 3760	adénocarcinome pulmonaire
+T57	topographie 3750 3760	pulmonaire
+T58	morphologie 3773 3778	masse
+T59	expression_CIM 3773 3815	masse dans le segment basal latéral du LII
+T60	topographie 3812 3815	LII
+T61	expression_CIM 3907 3928	processus néoplasique
+T62	morphologie 3907 3928	processus néoplasique
+T63	morphologie 3989 4006	tumeurs primaires
+T64	expression_CIM 3989 4024	tumeurs primaires : une dans le LSD
+T65	morphologie 4009 4012	une
+T66	topographie 4021 4024	LSD
+T67	morphologie 4032 4039	nodules
+T68	expression_CIM 4032 4079	nodules ipsilatéraux de densité des tissus mous
+T69	topographie 4068 4079	tissus mous
+T70	morphologie 4126 4137	adénopathie
+T71	expression_CIM 4126 4203	adénopathie paratrachéale droite basse probable) M0, et une autre dans le LII
+T72	topographie 4138 4151	paratrachéale
+T73	topographie 4200 4203	LII
+T74	morphologie 4219 4225	lésion
+T75	expression_CIM 4219 4244	lésion unique dans le LSD
+T76	topographie 4241 4244	LSD
+T77	morphologie 4250 4259	métastase
+T78	expression_CIM 4250 4271	métastase dans le LII
+T79	topographie 4268 4271	LII
+T80	morphologie 4376 4382	lésion
+T81	expression_CIM 4376 4389	lésion en LII
+T82	topographie 4386 4389	LII
+T83	morphologie 4445 4459	adénocarcinome
+T84	expression_CIM 4445 4480	adénocarcinome d'origine pulmonaire
+T85	topographie 4470 4480	pulmonaire
+T86	morphologie 4508 4513	masse
+T87	expression_CIM 4508 4520	masse du LII
+T88	topographie 4517 4520	LII
+T89	expression_CIM 4705 4713	stade IV
+T90	morphologie 4705 4713	stade IV
+T91	morphologie 4724 4732	atteinte
+T92	expression_CIM 4724 4745	atteinte bipulmonaire
+T93	topographie 4733 4745	bipulmonaire
+T94	expression_CIM 4755 4762	tumeurs
+T95	morphologie 4755 4762	tumeurs
+T96	morphologie 5153 5159	cancer
+T97	expression_CIM 5153 5169	cancer du poumon
+T98	topographie 5163 5169	poumon
+T99	morphologie 5209 5215	lésion
+T100	expression_CIM 5209 5222	lésion en LSD
+T101	topographie 5219 5222	LSD
+T102	expression_CIM 5283 5290	nodules
+T103	morphologie 5283 5290	nodules
+T104	morphologie 5855 5860	masse
+T105	expression_CIM 5855 5872	masse dans le LII
+T106	topographie 5869 5872	LII
+T107	morphologie 5926 5931	masse
+T108	expression_CIM 5926 5943	masse dans le LSD
+T109	topographie 5940 5943	LSD
+T110	morphologie 5951 5958	nodules
+T111	expression_CIM 5951 5970	nodules pulmonaires
+T112	topographie 5959 5970	pulmonaires
+T113	expression_CIM 6076 6082	tumeur
+T114	morphologie 6076 6082	tumeur
+T115	morphologie 6095 6103	atteinte
+T116	expression_CIM 6095 6116	atteinte bipulmonaire
+T117	topographie 6104 6116	bipulmonaire
+T118	expression_CIM 6164 6171	lésions
+T119	morphologie 6164 6171	lésions
+T120	morphologie 6200 6206	lésion
+T121	expression_CIM 6200 6213	lésion du LSD
+T122	topographie 6210 6213	LSD
+T123	morphologie 6413 6419	lésion
+T124	expression_CIM 6413 6437	lésion pulmonaire du LSD
+T125	topographie 6420 6437	pulmonaire du LSD
+T126	morphologie 6491 6505	adénocarcinome
+T127	expression_CIM 6491 6540	adénocarcinome bronchopulmonaire bien différencié
+T128	topographie 6506 6523	bronchopulmonaire
+T129	differenciation 6524 6540	bien différencié
+T130	morphologie 6768 6783	adénocarcinomes
+T131	expression_CIM 6768 6807	adénocarcinomes synchrones, dans le LII
+T132	topographie 6804 6807	LII
+T133	morphologie 6811 6814	ADC
+T134	expression_CIM 6811 6881	ADC pulmonaire T3N0M0 EGFR muté (délétion de l'exon 19) et dans le LSD
+T135	topographie 6815 6825	pulmonaire
+T136	stadeTNM 6826 6832	T3N0M0
+T137	topographie 6878 6881	LSD
+T138	morphologie 6885 6888	ADC
+T139	expression_CIM 6885 6899	ADC pulmonaire
+T140	topographie 6889 6899	pulmonaire
+T141	expression_CIM 7003 7010	lésions
+T142	morphologie 7003 7010	lésions
+T143	expression_CIM 7050 7056	lésion
+T144	morphologie 7050 7056	lésion
+T145	morphologie 7311 7317	lésion
+T146	expression_CIM 7311 7328	lésion pulmonaire
+T147	topographie 7318 7328	pulmonaire
+T148	morphologie 8232 8238	lésion
+T149	expression_CIM 8232 8242	lésion LSD
+T150	topographie 8239 8242	LSD
+T151	morphologie 8263 8269	lésion
+T152	expression_CIM 8263 8273	lésion LII
+T153	topographie 8270 8273	LII
+T154	expression_CIM 8508 8525	lésions tumorales
+T155	morphologie 8508 8525	lésions tumorales
+T156	expression_CIM 9341 9346	CBNPC
+T157	morphologie 9341 9346	CBNPC
+T158	expression_CIM 9614 9621	lésions
+T159	morphologie 9614 9621	lésions
+T160	morphologie 9870 9876	lésion
+T161	expression_CIM 9870 9880	lésion LSD
+T162	topographie 9877 9880	LSD
+T163	morphologie 9959 9965	lésion
+T164	expression_CIM 9959 9969	lésion LII
+T165	topographie 9966 9969	LII
+T166	expression_CIM 10504 10511	tumeurs
+T167	morphologie 10504 10511	tumeurs
+T168	morphologie 10816 10831	adénocarcinomes
+T169	expression_CIM 10816 10843	adénocarcinomes pulmonaires
+T170	topographie 10832 10843	pulmonaires
+T171	topographie 10916 10922	poumon
+T172	expression_CIM 10916 10994	poumon droit, il présente un ADC lépidique de stade IIIB (T4N2M0) EGFR sauvage
+T173	morphologie 10945 10958	ADC lépidique
+T174	stadeTNM 10974 10980	T4N2M0
+T175	morphologie 11025 11028	ADC
+T176	expression_CIM 11025 11039	ADC pulmonaire
+T177	topographie 11029 11039	pulmonaire
+T178	expression_CIM 11146 11153	tumeurs
+T179	morphologie 11146 11153	tumeurs
+T180	expression_CIM 11490 11496	lésion
+T181	morphologie 11490 11496	lésion
+T182	expression_CIM 11546 11552	tumeur
+T183	morphologie 11546 11552	tumeur
+T184	expression_CIM 11857 11864	lésions
+T185	morphologie 11857 11864	lésions
+T186	morphologie 11923 11929	lésion
+T187	expression_CIM 11923 11936	lésion en LII
+T188	topographie 11933 11936	LII
+T189	morphologie 12083 12089	lésion
+T190	expression_CIM 12083 12093	lésion LSD
+T191	topographie 12090 12093	LSD
+#1	ICD-O T1	8120/3
+#2	ICD-O T2	C67.9 8120/3
+#3	ICD-O T3	C67.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C16.9 8000/3
+#6	ICD-O T6	C16.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C34.9 8140/3
+#9	ICD-O T9	C34.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C34.9 8000/1
+#12	ICD-O T12	C34.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C34.1 8000/1
+#15	ICD-O T15	C34.1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C34.9 8000/1
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C34.1 8000/1
+#25	ICD-O T25	C34.1
+#26	ICD-O T26	8000/9
+#27	ICD-O T27	C34.1 8000/1
+#28	ICD-O T28	C34.1
+#29	ICD-O T29	8000/3
+#30	ICD-O T30	C34.9 8000/3
+#31	ICD-O T31	C34.9
+#32	ICD-O T32	8000/1
+#33	ICD-O T34	C34.9
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	C34.1 8000/1
+#36	ICD-O T37	C34.1
+#37	ICD-O T38	8010/3
+#38	ICD-O T39	8010/3
+#39	ICD-O T40	8140/3
+#40	ICD-O T41	8140/3
+#41	ICD-O T42	8140/3
+#42	ICD-O T44	C34.9
+#43	ICD-O T45	todelete
+#44	ICD-O T46	C34.1
+#45	ICD-O T47	8000/1
+#46	ICD-O T50	8000/1
+#47	ICD-O T51	8000/1
+#48	ICD-O T52	8000/1
+#49	ICD-O T53	C34.1 8000/1
+#50	ICD-O T54	C34.1
+#51	ICD-O T55	8140/3
+#52	ICD-O T56	C34.9 8140/3
+#53	ICD-O T57	C34.9
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	C34.3 8000/1
+#56	ICD-O T60	C34.3
+#57	ICD-O T61	8000/3
+#58	ICD-O T62	8000/3
+#59	ICD-O T63	8000/3
+#60	ICD-O T64	C34.1 8000/3
+#61	ICD-O T65	tocheck
+#62	ICD-O T66	C34.1
+#63	ICD-O T67	8000/1
+#64	ICD-O T68	C49.9 8000/1
+#65	ICD-O T69	C49.9
+#66	ICD-O T70	8000/1
+#67	ICD-O T72	C33.9
+#68	ICD-O T73	C34.3
+#69	ICD-O T74	8000/1
+#70	ICD-O T75	C34.1 8000/1
+#71	ICD-O T76	C34.1
+#72	ICD-O T77	8000/6
+#73	ICD-O T78	C34.3 8000/6
+#74	ICD-O T79	C34.3
+#75	ICD-O T80	8000/1
+#76	ICD-O T81	C34.3 8000/1
+#77	ICD-O T82	C34.3
+#78	ICD-O T83	8140/3
+#79	ICD-O T84	C34.9 8140/3
+#80	ICD-O T85	C34.9
+#81	ICD-O T86	8000/1
+#82	ICD-O T87	C34.3 8000/1
+#83	ICD-O T88	C34.3
+#84	ICD-O T89	8000/6
+#85	ICD-O T90	8000/6
+#86	ICD-O T91	8000/1
+#87	ICD-O T92	C34.8 8000/1
+#88	ICD-O T93	C34.8
+#89	ICD-O T94	8000/1
+#90	ICD-O T95	8000/1
+#91	ICD-O T96	8000/3
+#92	ICD-O T97	C34.9 8000/3
+#93	ICD-O T98	C34.9
+#94	ICD-O T99	8000/1
+#95	ICD-O T100	C34.1 8000/1
+#96	ICD-O T101	C34.1
+#97	ICD-O T102	8000/1
+#98	ICD-O T103	8000/1
+#99	ICD-O T104	8000/1
+#100	ICD-O T105	C34.3 8000/1
+#101	ICD-O T106	C34.3
+#102	ICD-O T107	8000/1
+#103	ICD-O T108	C34.1 8000/1
+#104	ICD-O T109	C34.1
+#105	ICD-O T110	8000/1
+#106	ICD-O T111	C34.9 8000/1
+#107	ICD-O T112	C34.9
+#108	ICD-O T113	8000/1
+#109	ICD-O T114	8000/1
+#110	ICD-O T115	8000/1
+#111	ICD-O T116	C34.8 8000/1
+#112	ICD-O T117	C34.8
+#113	ICD-O T118	8000/1
+#114	ICD-O T119	8000/1
+#115	ICD-O T120	8000/1
+#116	ICD-O T121	C34.1 8000/1
+#117	ICD-O T122	C34.1
+#118	ICD-O T123	8000/1
+#119	ICD-O T124	C34.1 8000/1;C34.9 8000/1
+#120	ICD-O T125	C34.1
+#121	ICD-O T126	8140/3
+#122	ICD-O T127	C34.8 8140/31
+#123	ICD-O T128	C34.8
+#124	ICD-O T129	1
+#125	ICD-O T130	8140/3
+#126	ICD-O T131	C34.3 8140/3
+#127	ICD-O T132	C34.3
+#128	ICD-O T133	8140/3
+#129	ICD-O T135	C34.9
+#130	ICD-O T136	todelete
+#131	ICD-O T137	C34.1
+#132	ICD-O T138	8140/3
+#133	ICD-O T139	C34.9 8140/3
+#134	ICD-O T140	C34.9
+#135	ICD-O T141	8000/1
+#136	ICD-O T142	8000/1
+#137	ICD-O T143	8000/1
+#138	ICD-O T144	8000/1
+#139	ICD-O T145	8000/1
+#140	ICD-O T146	C34.9 8000/1
+#141	ICD-O T147	C34.9
+#142	ICD-O T148	8000/1
+#143	ICD-O T149	C34.1 8000/1
+#144	ICD-O T150	C34.1
+#145	ICD-O T151	8000/1
+#146	ICD-O T152	C34.3 8000/1
+#147	ICD-O T153	C34.3
+#148	ICD-O T154	8000/3
+#149	ICD-O T155	8000/3
+#150	ICD-O T156	8046/3
+#151	ICD-O T157	8046/3
+#152	ICD-O T158	8000/1
+#153	ICD-O T159	8000/1
+#154	ICD-O T160	8000/1
+#155	ICD-O T161	C34.1 8000/1
+#156	ICD-O T162	C34.1
+#157	ICD-O T163	8000/1
+#158	ICD-O T164	C34.3 8000/1
+#159	ICD-O T165	C34.3
+#160	ICD-O T166	8000/1
+#161	ICD-O T167	8000/1
+#162	ICD-O T168	8140/3
+#163	ICD-O T169	C34.9 8140/3
+#164	ICD-O T170	C34.9
+#165	ICD-O T171	C34.9
+#166	ICD-O T173	8250/3
+#167	ICD-O T174	todelete
+#168	ICD-O T175	8140/3
+#169	ICD-O T176	C34.9 8140/3
+#170	ICD-O T177	C34.9
+#171	ICD-O T178	8000/1
+#172	ICD-O T179	8000/1
+#173	ICD-O T180	8000/1
+#174	ICD-O T181	8000/1
+#175	ICD-O T182	8000/1
+#176	ICD-O T183	8000/1
+#177	ICD-O T184	8000/1
+#178	ICD-O T185	8000/1
+#179	ICD-O T186	8000/1
+#180	ICD-O T187	C34.3 8000/1
+#181	ICD-O T188	C34.3
+#182	ICD-O T189	8000/1
+#183	ICD-O T190	C34.1 8000/1
+#184	ICD-O T191	C34.1

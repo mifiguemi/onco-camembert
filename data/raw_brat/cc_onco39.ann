@@ -1,0 +1,102 @@
+T1	expression_CIM 542 556	tumeur bénigne
+T2	morphologie 542 556	tumeur bénigne
+T3	topographie 1008 1013	fémur
+T4	expression_CIM 1008 1038	fémur gauche montre une tumeur
+T5	morphologie 1032 1038	tumeur
+T6	morphologie 1183 1191	atteinte
+T7	expression_CIM 1183 1201	atteinte corticale
+T8	topographie 1192 1201	corticale
+T9	morphologie 1209 1221	infiltration
+T10	expression_CIM 1209 1243	infiltration de la moelle épinière
+T11	topographie 1228 1243	moelle épinière
+T12	expression_CIM 1275 1281	lésion
+T13	morphologie 1275 1281	lésion
+T14	morphologie 1382 1403	ostéosarcome parostal
+T15	expression_CIM 1382 1433	ostéosarcome parostal dans le tiers distal du fémur
+T16	topographie 1428 1433	fémur
+T17	expression_CIM 1524 1542	foyer de captation
+T18	morphologie 1524 1542	foyer de captation
+T19	expression_CIM 1856 1862	tumeur
+T20	morphologie 1856 1862	tumeur
+T21	expression_CIM 2080 2087	lésions
+T22	morphologie 2080 2087	lésions
+T23	expression_CIM 2564 2569	masse
+T24	morphologie 2564 2569	masse
+T25	expression_CIM 2663 2669	lésion
+T26	morphologie 2663 2669	lésion
+T27	morphologie 2750 2767	récidive tumorale
+T28	expression_CIM 2750 2792	récidive tumorale d'ostéosarcome paraostal
+T29	morphologie 2770 2792	ostéosarcome paraostal
+T30	expression_CIM 2857 2862	masse
+T31	morphologie 2857 2862	masse
+T32	morphologie 3303 3309	nodule
+T33	expression_CIM 3303 3334	nodule calcifié des tissus mous
+T34	topographie 3323 3334	tissus mous
+T35	expression_CIM 3480 3486	nodule
+T36	morphologie 3480 3486	nodule
+T37	morphologie 3543 3555	micronodules
+T38	expression_CIM 3543 3596	micronodules satellites dans le tiers distal du fémur
+T39	topographie 3591 3596	fémur
+T40	expression_CIM 3675 3681	nodule
+T41	morphologie 3675 3681	nodule
+T42	expression_CIM 3761 3769	récidive
+T43	morphologie 3761 3769	récidive
+T44	expression_CIM 3772 3794	ostéosarcome paraostal
+T45	morphologie 3772 3794	ostéosarcome paraostal
+T46	expression_CIM 3915 3923	récidive
+T47	morphologie 3915 3923	récidive
+T48	expression_CIM 3970 3976	foyers
+T49	morphologie 3970 3976	foyers
+T50	morphologie 4004 4011	nodules
+T51	expression_CIM 4004 4020	nodules fémoraux
+T52	topographie 4012 4020	fémoraux
+#1	ICD-O T1	8000/0
+#2	ICD-O T2	8000/0
+#3	ICD-O T3	C40.2
+#4	ICD-O T4	C40.2 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C71.0 8000/1
+#8	ICD-O T8	C71.0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C72.0 8000/1
+#11	ICD-O T11	C72.0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	9192/3
+#15	ICD-O T15	C40.2 9192/3
+#16	ICD-O T16	C40.2
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8000/6
+#28	ICD-O T29	9192/3
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	C49.9 8000/1
+#33	ICD-O T34	C49.9
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	8000/1
+#37	ICD-O T39	C40.2
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	8000/6
+#42	ICD-O T44	9192/3
+#43	ICD-O T45	9192/3
+#44	ICD-O T46	8000/6
+#45	ICD-O T47	8000/6
+#46	ICD-O T48	8000/1
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	8000/1
+#49	ICD-O T51	C40.2 8000/1
+#50	ICD-O T52	C40.2

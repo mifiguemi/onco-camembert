@@ -1,0 +1,121 @@
+T58	topographie 7231 7239	CARDIQUE
+T1	morphologie 1225 1230	masse
+T2	expression_CIM 1225 1245	masse intracardiaque
+T3	topographie 1231 1245	intracardiaque
+T4	expression_CIM 1298 1314	tumeur primitive
+T5	morphologie 1298 1314	tumeur primitive
+T6	expression_CIM 1316 1328	angiosarcome
+T7	morphologie 1316 1328	angiosarcome
+T8	morphologie 1384 1389	masse
+T9	expression_CIM 1384 1440	masse aux dépens de la paroi postérieure de l'oreillette
+T10	topographie 1430 1440	oreillette
+T11	expression_CIM 3082 3120	prolifération mésenchymateuse atypique
+T13	expression_CIM 4288 4293	masse
+T14	morphologie 4288 4293	masse
+T15	expression_CIM 5118 5123	masse
+T16	morphologie 5118 5123	masse
+T17	expression_CIM 5213 5225	infiltration
+T18	morphologie 5213 5225	infiltration
+T19	expression_CIM 5479 5484	masse
+T20	morphologie 5479 5484	masse
+T21	morphologie 5586 5596	métastases
+T22	expression_CIM 5586 5608	métastases pulmonaires
+T23	topographie 5597 5608	pulmonaires
+T24	expression_CIM 5618 5637	lâchages de ballons
+T25	morphologie 5618 5637	lâchages de ballons
+T26	expression_CIM 5725 5735	métastases
+T27	morphologie 5725 5735	métastases
+T28	morphologie 5742 5747	masse
+T29	expression_CIM 5742 5781	masse décrite au niveau de l'oreillette
+T30	topographie 5771 5781	oreillette
+T31	expression_CIM 5794 5801	lésions
+T32	morphologie 5794 5801	lésions
+T33	expression_CIM 5891 5901	métastases
+T34	morphologie 5891 5901	métastases
+T35	expression_CIM 6048 6054	lésion
+T36	morphologie 6048 6054	lésion
+T37	expression_CIM 6178 6183	masse
+T38	morphologie 6178 6183	masse
+T39	morphologie 6432 6439	lésions
+T40	expression_CIM 6432 6451	lésions pulmonaires
+T41	topographie 6440 6451	pulmonaires
+T42	morphologie 6461 6467	lésion
+T43	expression_CIM 6461 6479	lésion suprarénale
+T44	topographie 6468 6479	suprarénale
+T45	morphologie 6565 6570	Masse
+T46	expression_CIM 6565 6598	Masse cardiaque dans l'oreillette
+T47	topographie 6571 6580	cardiaque
+T48	topographie 6588 6598	oreillette
+T49	morphologie 6626 6632	tumeur
+T50	expression_CIM 6626 6646	tumeur de haut grade
+T51	differenciation 6636 6646	haut grade
+T52	expression_CIM 6714 6724	métastases
+T53	morphologie 6714 6724	métastases
+T54	expression_CIM 7132 7141	néoplasme
+T55	morphologie 7132 7141	néoplasme
+T56	morphologie 7218 7230	ANGIOSARCOME
+T57	expression_CIM 7218 7239	ANGIOSARCOME CARDIQUE
+T59	morphologie 7245 7255	METASTASIS
+T60	expression_CIM 7245 7304	METASTASIS MULTIPLES DANS LES DEUX POUmons ET LES THYROIDES
+T61	topographie 7280 7287	POUmons
+T62	topographie 7295 7304	THYROIDES
+T12	morphologie 3082 3120	prolifération mésenchymateuse atypique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C38.0 8000/1
+#3	ICD-O T3	C38.0
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	9120/3
+#7	ICD-O T7	9120/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C38.0 8000/1
+#10	ICD-O T10	C38.0
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	C34.9 8000/6
+#21	ICD-O T23	C34.9
+#22	ICD-O T25	8000/6
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C38.0 8000/1
+#27	ICD-O T30	C38.0
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	8000/6
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	C34.9 8000/1
+#38	ICD-O T41	C34.9
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C76.2 8000/1
+#41	ICD-O T44	C76.2
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	C38.0 8000/1
+#44	ICD-O T47	C38.0
+#45	ICD-O T48	C38.0
+#46	ICD-O T49	8000/3
+#47	ICD-O T50	8000/14
+#48	ICD-O T51	4
+#49	ICD-O T52	8000/6
+#50	ICD-O T53	8000/6
+#51	ICD-O T54	8000/1
+#52	ICD-O T55	8000/3
+#53	ICD-O T56	9120/3
+#54	ICD-O T59	8000/6
+#55	ICD-O T60	C34.9 8000/6;C73.9 8000/6
+#56	ICD-O T61	C34.9
+#57	ICD-O T62	C73.9
+#58	ICD-O T12	8800/1
+#59	AnnotatorNotes T25	trad

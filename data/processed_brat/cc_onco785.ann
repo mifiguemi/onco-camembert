@@ -1,0 +1,37 @@
+T2	morphologie 343 348	masse
+T3	morphologie 657 663	polype
+T5	topographie 687 701	fundus du côté
+T7	morphologie 843 849	tumeur
+T8	morphologie 862 890	adénocarcinome endométrioïde
+T10	differenciation 891 907	bien différencié
+T11	morphologie 921 935	Adénocarcinome
+T13	topographie 941 950	endomètre
+T15	morphologie 1100 1125	adénocarcinome infiltrant
+T16	morphologie 1297 1309	infiltration
+T18	topographie 1314 1336	structures vasculaires
+T19	morphologie 1463 1491	adénocarcinome endométrioïde
+T22	morphologie 1713 1721	récidive
+T23	morphologie 1776 1782	nodule
+T25	topographie 1801 1826	lobe pulmonaire inférieur
+T26	topographie 1834 1837	LID
+T27	morphologie 1944 1951	nodules
+T29	topographie 1952 1973	sous-diaphragmatiques
+T30	morphologie 1998 2015	implants tumoraux
+T32	topographie 2016 2027	péritonéaux
+T33	morphologie 2298 2304	lésion
+T35	topographie 2305 2315	pulmonaire
+T36	morphologie 2358 2367	métastase
+T38	topographie 2368 2378	pulmonaire
+T40	morphologie 2596 2602	lésion
+T41	morphologie 2747 2775	adénocarcinome endométrioïde
+T43	differenciation 2776 2792	bien différencié
+T45	morphologie 2811 2821	métastases
+T47	morphologie 2828 2843	tumeur primaire
+T48	morphologie 2897 2903	nodule
+T50	topographie 2904 2914	pulmonaire
+T51	topographie 2954 2957	LID
+T53	morphologie 3084 3109	adénocarcinome infiltrant
+T55	morphologie 3163 3172	métastase
+T56	morphologie 3178 3206	adénocarcinome endométrioïde
+T58	differenciation 3207 3223	bien différencié
+T60	morphologie 3491 3499	récidive

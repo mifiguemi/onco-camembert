@@ -1,0 +1,217 @@
+T14	topographie 923 954	ligne interquadrante inférieure
+T11	topographie 790 810	région inframammaire
+T1	morphologie 249 255	nodule
+T2	expression_CIM 249 266	nodule pulmonaire
+T3	topographie 256 266	pulmonaire
+T4	morphologie 595 601	nodule
+T5	expression_CIM 595 614	nodule dans le sein
+T6	topographie 610 614	sein
+T7	expression_CIM 675 690	image nodulaire
+T8	morphologie 675 690	image nodulaire
+T9	morphologie 766 772	nodule
+T10	expression_CIM 766 810	nodule palpable dans la région inframammaire
+T12	morphologie 874 879	masse
+T13	expression_CIM 874 989	masse solide de 4 centimètres de diamètre sur la ligne interquadrante inférieure, au niveau du sillon inframammaire
+T16	morphologie 1016 1028	adénopathies
+T17	expression_CIM 1016 1039	adénopathies axillaires
+T18	topographie 1029 1039	axillaires
+T19	morphologie 1294 1301	nodules
+T20	expression_CIM 1294 1313	nodules pulmonaires
+T21	topographie 1302 1313	pulmonaires
+T22	morphologie 1361 1366	masse
+T23	expression_CIM 1361 1433	masse connue dans le sein droit et des ganglions lymphatiques axillaires
+T24	topographie 1382 1386	sein
+T25	topographie 1400 1433	ganglions lymphatiques axillaires
+T26	morphologie 1486 1492	tumeur
+T27	expression_CIM 1486 1500	tumeur du sein
+T28	topographie 1496 1500	sein
+T29	expression_CIM 1509 1539	carcinome canalaire infiltrant
+T30	morphologie 1509 1539	carcinome canalaire infiltrant
+T31	morphologie 1758 1770	adénopathies
+T32	expression_CIM 1758 1781	adénopathies axillaires
+T33	topographie 1771 1781	axillaires
+T34	expression_CIM 1806 1823	cellules malignes
+T35	morphologie 1806 1823	cellules malignes
+T36	expression_CIM 2068 2098	Carcinome canalaire infiltrant
+T37	morphologie 2068 2098	Carcinome canalaire infiltrant
+T38	expression_CIM 2117 2125	stade IV
+T39	morphologie 2117 2125	stade IV
+T40	morphologie 2144 2154	métastases
+T41	expression_CIM 2144 2166	métastases pulmonaires
+T42	topographie 2155 2166	pulmonaires
+T43	morphologie 2233 2239	cancer
+T44	expression_CIM 2233 2247	cancer du sein
+T45	topographie 2243 2247	sein
+T46	morphologie 2844 2849	masse
+T47	expression_CIM 2844 2862	masse dans le sein
+T48	topographie 2858 2862	sein
+T49	morphologie 2882 2892	métastases
+T50	expression_CIM 2882 2904	métastases pulmonaires
+T51	topographie 2893 2904	pulmonaires
+T52	morphologie 3137 3143	tumeur
+T53	expression_CIM 3137 3151	tumeur du sein
+T54	topographie 3147 3151	sein
+T55	morphologie 3260 3270	métastases
+T56	expression_CIM 3260 3282	métastases pulmonaires
+T57	topographie 3271 3282	pulmonaires
+T58	expression_CIM 3383 3390	lésions
+T59	morphologie 3383 3390	lésions
+T60	morphologie 3411 3417	nodule
+T61	expression_CIM 3411 3426	nodule mammaire
+T62	topographie 3418 3426	mammaire
+T63	morphologie 3593 3599	nodule
+T64	expression_CIM 3593 3608	nodule mammaire
+T65	topographie 3600 3608	mammaire
+T66	morphologie 3649 3656	nodules
+T67	expression_CIM 3649 3668	nodules pulmonaires
+T68	topographie 3657 3668	pulmonaires
+T69	expression_CIM 3807 3813	lésion
+T70	morphologie 3807 3813	lésion
+T71	expression_CIM 3843 3852	métastase
+T72	morphologie 3843 3852	métastase
+T73	morphologie 3858 3882	carcinome neuroendocrine
+T74	expression_CIM 3858 3895	carcinome neuroendocrine de bas grade
+T75	differenciation 3886 3895	bas grade
+T76	expression_CIM 3950 3971	tumeur neuroendocrine
+T77	morphologie 3950 3971	tumeur neuroendocrine
+T78	expression_CIM 4299 4306	tumeurs
+T79	morphologie 4299 4306	tumeurs
+T80	expression_CIM 4321 4351	Carcinome canalaire infiltrant
+T81	morphologie 4321 4351	Carcinome canalaire infiltrant
+T82	morphologie 4389 4410	Tumeur neuroendocrine
+T83	expression_CIM 4389 4485	Tumeur neuroendocrine de bas grade avec métastases au moment du diagnostic et d'origine inconnue
+T84	differenciation 4414 4423	bas grade
+T85	expression_CIM 4429 4439	métastases
+T86	morphologie 4429 4439	métastases
+T87	topographie 4469 4485	origine inconnue
+T88	morphologie 4567 4576	carcinome
+T89	expression_CIM 4567 4585	carcinome mammaire
+T90	topographie 4577 4585	mammaire
+T91	expression_CIM 4711 4720	néoplasie
+T92	morphologie 4711 4720	néoplasie
+T93	morphologie 5087 5094	lésions
+T94	expression_CIM 5087 5106	lésions pulmonaires
+T95	topographie 5095 5106	pulmonaires
+T96	expression_CIM 5124 5145	tumeur neuroendocrine
+T97	morphologie 5124 5145	tumeur neuroendocrine
+T98	expression_CIM 5163 5169	lésion
+T99	morphologie 5163 5169	lésion
+T100	morphologie 5331 5352	tumeur neuroendocrine
+T101	expression_CIM 5331 5384	tumeur neuroendocrine de bas grade d'origine inconnue
+T102	differenciation 5356 5365	bas grade
+T103	topographie 5368 5384	origine inconnue
+T104	morphologie 5386 5398	métastatique
+T105	expression_CIM 5386 5408	métastatique au poumon
+T106	topographie 5402 5408	poumon
+T107	morphologie 5691 5698;5710 5724	maladie neuroendocrine
+T108	expression_CIM 5691 5724	maladie pulmonaire neuroendocrine
+T109	topographie 5699 5709	pulmonaire
+T110	morphologie 5775 5784	carcinome
+T111	expression_CIM 5775 5793	carcinome mammaire
+T112	topographie 5785 5793	mammaire
+T15	topographie 969 989	sillon inframammaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C76.1 8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T16	8000/1
+#13	ICD-O T17	C77.3 8000/1
+#14	ICD-O T18	C76.1
+#15	ICD-O T19	8000/1
+#16	ICD-O T20	C34.9 8000/1
+#17	ICD-O T21	C34.9
+#18	ICD-O T22	8000/1
+#19	ICD-O T24	C50.9
+#20	ICD-O T25	C77.3
+#21	ICD-O T26	8000/1
+#22	ICD-O T27	C50.9 8000/1
+#23	ICD-O T28	C50.9
+#24	ICD-O T29	8500/3
+#25	ICD-O T30	8500/3
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	C77.3 8000/1
+#28	ICD-O T33	C76.1
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	8500/3
+#32	ICD-O T37	8500/3
+#33	ICD-O T38	8000/6
+#34	ICD-O T39	8000/6
+#35	ICD-O T40	8000/6
+#36	ICD-O T41	C34.9 8000/6
+#37	ICD-O T42	C34.9
+#38	ICD-O T43	8000/3
+#39	ICD-O T44	C50.9 8000/3
+#40	ICD-O T45	C50.9
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	C50.9 8000/1
+#43	ICD-O T48	C50.9
+#44	ICD-O T49	8000/6
+#45	ICD-O T50	C34.9 8000/6
+#46	ICD-O T51	C34.9
+#47	ICD-O T52	8000/1
+#48	ICD-O T53	C50.9 8000/1
+#49	ICD-O T54	C50.9
+#50	ICD-O T55	8000/6
+#51	ICD-O T56	C34.9 8000/6
+#52	ICD-O T57	C34.9
+#53	ICD-O T58	8000/1
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	8000/1
+#56	ICD-O T61	C50.9 8000/1
+#57	ICD-O T62	C50.9
+#58	ICD-O T63	8000/1
+#59	ICD-O T64	C50.9 8000/1
+#60	ICD-O T65	C50.9
+#61	ICD-O T66	8000/1
+#62	ICD-O T67	C34.9 8000/1
+#63	ICD-O T68	C34.9
+#64	ICD-O T69	8000/1
+#65	ICD-O T70	8000/1
+#66	ICD-O T72	8000/6
+#67	ICD-O T73	8246/3
+#68	ICD-O T74	8246/31
+#69	ICD-O T75	1
+#70	ICD-O T76	8246/3
+#71	ICD-O T77	8246/3
+#72	ICD-O T78	8000/1
+#73	ICD-O T79	8000/1
+#74	ICD-O T80	8500/3
+#75	ICD-O T81	8500/3
+#76	ICD-O T82	8246/3
+#77	ICD-O T84	1
+#78	ICD-O T85	8000/6
+#79	ICD-O T86	8000/6
+#80	ICD-O T87	C80.9
+#81	ICD-O T88	8010/3
+#82	ICD-O T89	C50.9 8010/3
+#83	ICD-O T90	C50.9
+#84	ICD-O T91	8000/1
+#85	ICD-O T92	8000/1
+#86	ICD-O T93	8000/1
+#87	ICD-O T94	C34.9 8000/1
+#88	ICD-O T95	C34.9
+#89	ICD-O T96	8246/3
+#90	ICD-O T97	8246/3
+#91	ICD-O T98	8000/1
+#92	ICD-O T99	8000/1
+#93	ICD-O T100	8246/3
+#94	ICD-O T101	C80.9 8246/31
+#95	ICD-O T102	1
+#96	ICD-O T103	C80.9
+#97	ICD-O T104	8000/6
+#98	ICD-O T105	C34.9 8000/6
+#99	ICD-O T106	C34.9
+#100	ICD-O T107	8246/3
+#101	ICD-O T108	C34.9 8246/3
+#102	ICD-O T109	C34.9
+#103	ICD-O T110	8010/3
+#104	ICD-O T111	C50.9 8010/3
+#105	ICD-O T112	C50.9

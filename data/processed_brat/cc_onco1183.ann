@@ -1,0 +1,50 @@
+T1	morphologie 402 408	lésion
+T4	morphologie 547 558	adénopathie
+T6	topographie 559 568	inguinale
+T8	morphologie 655 663	mélanome
+T10	morphologie 687 695	mélanome
+T12	morphologie 701 727	mélanome lentigineux acral
+T13	morphologie 801 813	infiltration
+T15	topographie 814 830	lymphovasculaire
+T16	morphologie 893 902	extension
+T18	topographie 903 932	thoracique-abdomino-pelvienne
+T20	morphologie 936 944	mélanome
+T21	morphologie 946 958	Micronodules
+T23	topographie 967 981	lobe supérieur
+T24	morphologie 1111 1121	métastases
+T26	morphologie 1125 1133	mélanome
+T27	topographie 1148 1170	ganglions lymphatiques
+T29	morphologie 1238 1264	mélanome lentigineux acral
+T30	morphologie 1677 1683	nodule
+T32	topographie 1684 1695	sous-cutané
+T34	morphologie 1774 1780	lésion
+T38	morphologie 1869 1877	récidive
+T40	morphologie 1979 1987	mélanome
+T41	morphologie 2254 2260	lésion
+T44	morphologie 2461 2472	progression
+T46	topographie 2473 2480	cutanée
+T47	morphologie 2488 2495	lésions
+T49	topographie 2527 2533	cuisse
+T50	morphologie 2569 2577	atteinte
+T80	morphologie 2597 2607	à distance
+T53	morphologie 2765 2776	progression
+T55	topographie 2777 2784	cutanée
+T56	morphologie 3473 3480	lésions
+T58	topographie 3555 3561	cuisse
+T60	morphologie 3614 3633	atteinte à distance
+T62	morphologie 3639 3649	métastases
+T64	morphologie 3664 3672	mélanome
+T65	morphologie 3818 3825	lésions
+T67	topographie 3826 3839	sous-cutanées
+T69	morphologie 3865 3872	lésions
+T71	morphologie 4151 4158	lésions
+T73	morphologie 4179 4186	lésions
+T74	morphologie 4282 4293	progression
+T76	topographie 4294 4303	inguinale
+T77	morphologie 4318 4329	adénopathie
+T79	topographie 4354 4376	chaîne iliaque externe
+T3	topographie 430 436	hallux
+T33	topographie 1754 1760	hallux
+T36	topographie 1817 1822	jambe
+T43	topographie 2292 2296	pied
+T52	topographie 2578 2596	thoraco-abdominale

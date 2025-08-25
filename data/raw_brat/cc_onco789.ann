@@ -1,0 +1,96 @@
+T8	topographie 400 415	moignon vaginal
+T14	topographie 669 696	paroi abdominale antérieure
+T21	topographie 1083 1101	recto-sigmoïdienne
+T1	morphologie 72 100	adénocarcinome endométrioïde
+T2	expression_CIM 72 123	adénocarcinome endométrioïde modérément différencié
+T3	differenciation 101 123	modérément différencié
+T4	expression_CIM 339 345	tumeur
+T5	morphologie 339 345	tumeur
+T6	morphologie 368 376	récidive
+T7	expression_CIM 368 415	récidive a été détectée dans le moignon vaginal
+T9	morphologie 595 603	récidive
+T10	expression_CIM 595 639	récidive a été détectée dans les tissus mous
+T11	topographie 628 639	tissus mous
+T12	morphologie 641 648	implant
+T13	expression_CIM 641 696	implant de 6 x 5 cm dans la paroi abdominale antérieure
+T15	expression_CIM 702 708	lésion
+T16	morphologie 702 708	lésion
+T17	expression_CIM 1046 1068	récidive locorégionale
+T18	morphologie 1046 1068	récidive locorégionale
+T19	morphologie 1074 1082	atteinte
+T20	expression_CIM 1074 1101	atteinte recto-sigmoïdienne
+T22	morphologie 1303 1311	primitif
+T23	expression_CIM 1303 1323	primitif endométrial
+T24	topographie 1312 1323	endométrial
+T25	morphologie 1340 1352	infiltration
+T26	expression_CIM 1340 1378	infiltration vasculaire et lymphatique
+T27	topographie 1353 1363	vasculaire
+T28	topographie 1367 1378	lymphatique
+T29	expression_CIM 1758 1774	maladie tumorale
+T30	morphologie 1758 1774	maladie tumorale
+T31	expression_CIM 2236 2271	foyer hypermétabolique rétrovésical
+T32	topographie 2259 2271	rétrovésical
+T33	morphologie 2459 2465	lésion
+T34	expression_CIM 2459 2498	lésion de 3 x 3 x 3 x 3 cm de tissu mou
+T35	topographie 2489 2498	tissu mou
+T36	expression_CIM 2565 2584	lésion de tissu mou
+T37	topographie 2575 2584	tissu mou
+T38	expression_CIM 3099 3115	maladie tumorale
+T39	morphologie 3099 3115	maladie tumorale
+T40	expression_CIM 3166 3194	adénocarcinome endométrioïde
+T41	morphologie 3166 3194	adénocarcinome endométrioïde
+T42	morphologie 3204 3221	implants tumoraux
+T43	expression_CIM 3204 3233	implants tumoraux intestinaux
+T44	topographie 3222 3233	intestinaux
+T45	expression_CIM 3791 3799	récidive
+T46	morphologie 3791 3799	récidive
+T47	morphologie 3819 3828	carcinome
+T48	expression_CIM 3819 3843	carcinome de l'endomètre
+T49	topographie 3834 3843	endomètre
+T50	morphologie 3889 3906	implants tumoraux
+T51	expression_CIM 3889 3928	implants tumoraux dans l'intestin grêle
+T52	topographie 3914 3928	intestin grêle
+#1	ICD-O T1	8380/3
+#2	ICD-O T2	8380/32
+#3	ICD-O T3	2
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/6
+#7	ICD-O T9	8000/6
+#8	ICD-O T11	C49
+#9	ICD-O T12	8000/6
+#10	ICD-O T15	8000/1
+#11	ICD-O T16	8000/1
+#12	ICD-O T18	8000/3
+#13	ICD-O T19	8000/9
+#14	ICD-O T22	8000/3
+#15	ICD-O T23	C54.1 8000/3
+#16	ICD-O T24	C54.1
+#17	ICD-O T25	8000/1
+#18	ICD-O T26	C49.9 8000/1
+#19	ICD-O T27	C49.9
+#20	ICD-O T28	C49.9
+#21	ICD-O T29	8000/3
+#22	ICD-O T30	8000/3
+#23	ICD-O T31	C76.2 8000/1
+#24	ICD-O T32	C76.2
+#25	ICD-O T33	8000/1
+#26	ICD-O T34	C49.9 8000/1
+#27	ICD-O T35	C49.9
+#28	ICD-O T36	C49.9 8000/1
+#29	ICD-O T37	C49.9
+#30	ICD-O T38	8000/3
+#31	ICD-O T39	8000/3
+#32	ICD-O T40	8380/3
+#33	ICD-O T41	8380/3
+#34	ICD-O T42	8000/6
+#35	ICD-O T43	C26.0 8000/6
+#36	ICD-O T44	C26.0
+#37	ICD-O T45	8000/6
+#38	ICD-O T46	8000/6
+#39	ICD-O T47	8010/3
+#40	ICD-O T48	C54.1 8010/3
+#41	ICD-O T49	C54.1
+#42	ICD-O T50	8000/6
+#43	ICD-O T51	C17.9 8000/6
+#44	ICD-O T52	C17.9

@@ -1,0 +1,123 @@
+T1	morphologie 96 102	cancer
+T2	expression_CIM 96 111	cancer du côlon
+T3	topographie 106 111	côlon
+T4	morphologie 579 585	lésion
+T5	expression_CIM 579 627	lésion de 3 cm a été observée au niveau du sigma
+T6	topographie 622 627	sigma
+T7	morphologie 665 679	adénocarcinome
+T8	expression_CIM 665 702	adénocarcinome modérément différencié
+T9	differenciation 680 702	modérément différencié
+T10	expression_CIM 771 777	lésion
+T11	morphologie 771 777	lésion
+T12	expression_CIM 811 823	adénopathies
+T13	morphologie 811 823	adénopathies
+T14	expression_CIM 860 890	lésion métastatique à distance
+T15	morphologie 860 890	lésion métastatique à distance
+T16	morphologie 982 996	adénocarcinome
+T17	expression_CIM 982 1005	adénocarcinome du sigma
+T18	topographie 1000 1005	sigma
+T19	morphologie 1383 1395	adénopathies
+T20	expression_CIM 1383 1449	adénopathies avec un centre nécrotique au niveau du hile hépatique
+T21	topographie 1435 1449	hile hépatique
+T22	morphologie 1472 1478	lésion
+T23	expression_CIM 1472 1504	lésion au niveau de la surrénale
+T24	topographie 1495 1504	surrénale
+T25	expression_CIM 1543 1552	métastase
+T26	morphologie 1543 1552	métastase
+T27	topographie 2223 2228	sigma
+T28	expression_CIM 2223 2240	sigma, une lésion
+T29	morphologie 2234 2240	lésion
+T30	morphologie 2390 2408	lésion néoplasique
+T31	expression_CIM 2390 2427	lésion néoplasique au niveau du sigma
+T32	topographie 2422 2427	sigma
+T33	expression_CIM 2446 2458	adénopathies
+T34	morphologie 2446 2458	adénopathies
+T35	expression_CIM 2507 2537	lésion métastatique à distance
+T36	morphologie 2507 2537	lésion métastatique à distance
+T37	morphologie 2599 2613	adénocarcinome
+T38	expression_CIM 2599 2636	adénocarcinome modérément différencié
+T39	differenciation 2614 2636	modérément différencié
+T40	topographie 2641 2663	ganglions lymphatiques
+T41	expression_CIM 2641 2705	ganglions lymphatiques isolés, dont 7 avec atteinte métastatique
+T42	morphologie 2684 2705	atteinte métastatique
+T43	morphologie 2904 2920	lymphadénopathie
+T44	expression_CIM 2904 2966	lymphadénopathie avec centre nécrotique dans le hile hépatique
+T45	topographie 2952 2966	hile hépatique
+T46	expression_CIM 2985 3001	lymphadénopathie
+T47	morphologie 2985 3001	lymphadénopathie
+T48	morphologie 3033 3039	lésion
+T49	expression_CIM 3033 3064	lésion dans la glande surrénale
+T50	topographie 3048 3064	glande surrénale
+T51	morphologie 3324 3338	Adénocarcinome
+T52	expression_CIM 3324 3347	Adénocarcinome du sigma
+T53	topographie 3342 3347	sigma
+T54	expression_CIM 3351 3359	stade IV
+T55	morphologie 3351 3359	stade IV
+T56	morphologie 3376 3384	récidive
+T57	expression_CIM 3376 3415	récidive ganglionnaire et surrénalienne
+T58	topographie 3385 3398	ganglionnaire
+T59	topographie 3402 3415	surrénalienne
+T60	expression_CIM 3503 3520	récidive tumorale
+T61	morphologie 3503 3520	récidive tumorale
+T62	morphologie 3906 3917	progression
+T63	expression_CIM 3906 3948	progression ganglionnaire et surrénalienne
+T64	topographie 3918 3931	ganglionnaire
+T65	topographie 3935 3948	surrénalienne
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C18.7
+#6	ICD-O T7	8140/3
+#7	ICD-O T8	8140/32
+#8	ICD-O T9	2
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C77.9 8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T15	8000/6
+#14	ICD-O T16	8140/3
+#15	ICD-O T18	C18.7
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C77.2 8000/1
+#18	ICD-O T21	C22.0
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	C74.9 8000/1
+#21	ICD-O T24	C74.9
+#22	ICD-O T25	8000/6
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	C18.7
+#25	ICD-O T29	8000/1
+#26	ICD-O T30	8000/3
+#27	ICD-O T32	C18.7
+#28	ICD-O T33	C77.9 8000/1
+#29	ICD-O T34	8000/1
+#30	ICD-O T36	8000/6
+#31	ICD-O T37	8140/3
+#32	ICD-O T38	8140/32
+#33	ICD-O T39	2
+#34	ICD-O T40	C77.9
+#35	ICD-O T41	C77.9 8000/6
+#36	ICD-O T42	8000/6
+#37	ICD-O T43	8000/1
+#38	ICD-O T44	C77.2 8000/1
+#39	ICD-O T45	C22.0
+#40	ICD-O T46	C77.9 8000/1
+#41	ICD-O T47	8000/1
+#42	ICD-O T48	8000/1
+#43	ICD-O T49	C74.9 8000/1
+#44	ICD-O T50	C74.9
+#45	ICD-O T51	8140/3
+#46	ICD-O T53	C18.7
+#47	ICD-O T54	8000/6
+#48	ICD-O T55	8000/6
+#49	ICD-O T56	8000/9
+#50	ICD-O T57	C74.9 8000/6;C77.9 8000/6
+#51	ICD-O T58	C77.9
+#52	ICD-O T59	C74.9
+#53	ICD-O T60	8000/6
+#54	ICD-O T61	8000/9
+#55	ICD-O T62	8000/9
+#56	ICD-O T63	C74.9 8000/6;C77.9 8000/6
+#57	ICD-O T64	C77.9
+#58	ICD-O T65	C74.9

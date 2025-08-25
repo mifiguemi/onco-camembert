@@ -1,0 +1,79 @@
+T1	morphologie 359 369	métastases
+T2	expression_CIM 359 380	métastases hépatiques
+T3	topographie 370 380	hépatiques
+T4	expression_CIM 598 606	primitif
+T5	morphologie 598 606	primitif
+T6	morphologie 652 670	processus expansif
+T7	expression_CIM 652 712	processus expansif a été visualisé dans la queue du pancréas
+T8	topographie 695 712	queue du pancréas
+T9	morphologie 766 777	adénopathie
+T10	expression_CIM 766 809	adénopathie adjacente à la glande surrénale
+T11	topographie 793 809	glande surrénale
+T12	morphologie 831 841	métastases
+T13	expression_CIM 831 852	métastases hépatiques
+T14	topographie 842 852	hépatiques
+T15	morphologie 860 871	adénopathie
+T16	expression_CIM 860 888	adénopathie rétropéritonéale
+T17	topographie 872 888	rétropéritonéale
+T18	morphologie 1110 1128;1142 1147	carcinome acinaire mixte
+T19	expression_CIM 1110 1147	carcinome acinaire pancréatique mixte
+T20	topographie 1129 1141	pancréatique
+T21	expression_CIM 1158 1197	zones de différenciation neuroendocrine
+T22	morphologie 1158 1197	zones de différenciation neuroendocrine
+T23	expression_CIM 1315 1325	métastases
+T24	morphologie 1315 1325	métastases
+T25	expression_CIM 1329 1338	carcinome
+T26	morphologie 1329 1338	carcinome
+T27	expression_CIM 1439 1449	métastases
+T28	morphologie 1439 1449	métastases
+T29	morphologie 1523 1548	accumulation pathologique
+T30	expression_CIM 1523 1574	accumulation pathologique dans la queue du pancréas
+T31	topographie 1557 1574	queue du pancréas
+T32	expression_CIM 1605 1611	cancer
+T33	morphologie 1605 1611	cancer
+T34	expression_CIM 1634 1672	carcinome mixte acineux-neuroendocrine
+T35	morphologie 1634 1672	carcinome mixte acineux-neuroendocrine
+T36	morphologie 2387 2396	carcinome
+T37	expression_CIM 2387 2409	carcinome pancréatique
+T38	topographie 2397 2409	pancréatique
+T39	expression_CIM 2433 2472	zones de différenciation neuroendocrine
+T40	morphologie 2433 2472	zones de différenciation neuroendocrine
+T41	expression_CIM 2490 2498	stade IV
+T42	morphologie 2490 2498	stade IV
+#1	ICD-O T1	8000/6
+#2	ICD-O T2	C22.0 8000/6
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T8	C25.2 
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C77.2 8000/1
+#10	ICD-O T11	C74.9
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	C22.0 8000/6
+#13	ICD-O T14	C22.0
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C77.2 8000/1
+#16	ICD-O T17	C48.0
+#17	ICD-O T18	8550/3
+#18	ICD-O T19	C25.9 8550/3
+#19	ICD-O T20	C25.9
+#20	ICD-O T22	8246/3
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8010/3
+#24	ICD-O T26	8010/3
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	8000/6
+#27	ICD-O T29	8000/9
+#28	ICD-O T31	C25.2 
+#29	ICD-O T32	8000/3
+#30	ICD-O T33	8000/3
+#31	ICD-O T34	8550/3
+#32	ICD-O T35	8550/3
+#33	ICD-O T36	8010/3
+#34	ICD-O T38	C25.9
+#35	ICD-O T40	8246/3
+#36	ICD-O T41	8000/6
+#37	ICD-O T42	8000/6

@@ -1,0 +1,205 @@
+T12	topographie 1068 1079	DCI du sein
+T1	morphologie 195 215	carcinome infiltrant
+T2	expression_CIM 195 234	carcinome infiltrant du col de l'utérus
+T3	topographie 219 234	col de l'utérus
+T4	morphologie 422 443	carcinome épidermoïde
+T5	expression_CIM 422 462	carcinome épidermoïde du col de l'utérus
+T6	topographie 447 462	col de l'utérus
+T7	morphologie 842 850	grosseur
+T8	expression_CIM 842 914	grosseur de 4 cm a été palpée dans le quadrant inférieur externe du sein
+T9	topographie 880 914	quadrant inférieur externe du sein
+T10	morphologie 1043 1049	lésion
+T11	expression_CIM 1043 1079	lésion de 2,6 cm dans la DCI du sein
+T13	expression_CIM 1119 1125	lésion
+T14	morphologie 1119 1125	lésion
+T15	morphologie 1162 1192	carcinome canalaire infiltrant
+T16	expression_CIM 1162 1200	carcinome canalaire infiltrant du sein
+T17	topographie 1196 1200	sein
+T18	morphologie 1330 1360	carcinome canalaire infiltrant
+T19	expression_CIM 1330 1368	carcinome canalaire infiltrant du sein
+T20	topographie 1364 1368	sein
+T21	expression_CIM 2428 2434	lésion
+T22	morphologie 2428 2434	lésion
+T23	morphologie 2634 2653	lésion métastatique
+T24	expression_CIM 2634 2661	lésion métastatique osseuse
+T25	topographie 2654 2661	osseuse
+T26	expression_CIM 2689 2736	masse de tissu mou associée dans l'os sphénoïde
+T27	topographie 2698 2707	tissu mou
+T28	topographie 2724 2736	os sphénoïde
+T29	expression_CIM 2840 2846	lésion
+T30	morphologie 2840 2846	lésion
+T31	expression_CIM 2978 2984	lésion
+T32	morphologie 2978 2984	lésion
+T33	morphologie 3000 3007	implant
+T34	expression_CIM 3000 3024	implant dural et de l'os
+T35	topographie 3008 3013	dural
+T36	topographie 3022 3024	os
+T37	morphologie 3564 3571	lésions
+T38	expression_CIM 3564 3649	lésions cutanées sur le cuir chevelu, la région préauriculaire et la région cervicale
+T39	topographie 3572 3600	cutanées sur le cuir chevelu
+T42	morphologie 4380 4393	carcinomatose
+T43	expression_CIM 4380 4402	carcinomatose méningée
+T44	topographie 4394 4402	méningée
+T45	morphologie 4459 4472	carcinomatose
+T46	expression_CIM 4459 4481	carcinomatose méningée
+T47	topographie 4473 4481	méningée
+T48	morphologie 4483 4490	Lésions
+T49	expression_CIM 4483 4578	Lésions osseuses multiples au niveau de la calotte crânienne, ainsi qu'au niveau de la vertèbre
+T50	topographie 4491 4499	osseuses
+T51	topographie 4526 4543	calotte crânienne
+T52	topographie 4570 4578	vertèbre
+T53	morphologie 4588 4593	masse
+T54	expression_CIM 4588 4609	masse des tissus mous
+T55	topographie 4598 4609	tissus mous
+T56	morphologie 4649 4659	métastases
+T57	expression_CIM 4649 4710	métastases vertébrales au niveau cervical, dorsal et lombaire
+T58	topographie 4660 4710	vertébrales au niveau cervical, dorsal et lombaire
+T59	morphologie 4717 4725	atteinte
+T60	expression_CIM 4717 4744	atteinte du canal rachidien
+T61	topographie 4729 4744	canal rachidien
+T62	morphologie 4791 4801	métastases
+T63	expression_CIM 4791 4812	métastases hépatiques
+T64	topographie 4802 4812	hépatiques
+T65	morphologie 4820 4846	adénopathies métastatiques
+T66	expression_CIM 4820 4864	adénopathies métastatiques rétropéritonéales
+T67	topographie 4847 4864	rétropéritonéales
+T68	morphologie 5136 5142	cancer
+T69	expression_CIM 5136 5150	cancer du sein
+T70	topographie 5146 5150	sein
+T71	expression_CIM 5484 5511	adénocarcinome métastatique
+T72	morphologie 5484 5511	adénocarcinome métastatique
+T73	morphologie 5650 5657	lésions
+T74	expression_CIM 5650 5673	lésions du cuir chevelu
+T75	topographie 5661 5673	cuir chevelu
+T76	expression_CIM 5768 5777	métastase
+T77	morphologie 5768 5777	métastase
+T78	morphologie 5780 5794	adénocarcinome
+T79	expression_CIM 5780 5828	adénocarcinome, confirmant l'origine intestinale
+T80	topographie 5817 5828	intestinale
+T81	morphologie 6026 6032	lésion
+T82	expression_CIM 6026 6094	lésion excroissante et ulcérée a été observée dans l'angle hépatique
+T83	topographie 6079 6094	angle hépatique
+T84	morphologie 6109 6118	néoplasie
+T85	expression_CIM 6109 6126	néoplasie colique
+T86	topographie 6119 6126	colique
+T87	morphologie 6206 6220	adénocarcinome
+T88	expression_CIM 6206 6229	adénocarcinome du côlon
+T89	topographie 6224 6229	côlon
+T90	morphologie 6258 6272	Adénocarcinome
+T91	expression_CIM 6258 6289	Adénocarcinome de novo du côlon
+T92	topographie 6284 6289	côlon
+T93	morphologie 6295 6305	métastases
+T94	expression_CIM 6295 6368	métastases hépatiques, osseuses, cutanées, méningées et rétropéritonéales
+T95	topographie 6306 6316	hépatiques
+T96	topographie 6318 6326	osseuses
+T97	topographie 6328 6336	cutanées
+T98	topographie 6338 6347	méningées
+T99	topographie 6351 6368	rétropéritonéales
+T100	morphologie 6412 6418	cancer
+T101	expression_CIM 6412 6449	cancer du col de l'utérus et du sein.
+T102	topographie 6422 6437	col de l'utérus
+T103	topographie 6444 6448	sein
+T104	expression_CIM 6883 6890	lésions
+T105	morphologie 6883 6890	lésions
+T41	topographie 3633 3649	région cervicale
+T40	topographie 3605 3626	région préauriculaire
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C53.9 8010/3
+#3	ICD-O T3	C53.9
+#4	ICD-O T4	8070/3
+#5	ICD-O T5	C53.9 8070/3
+#6	ICD-O T6	C53.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C50.5
+#9	ICD-O T10	8000/1
+#10	ICD-O T13	8000/1
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	8500/3
+#13	ICD-O T16	C50.9 8500/3
+#14	ICD-O T17	C50.9
+#15	ICD-O T18	8500/3
+#16	ICD-O T19	C50.9 8500/3
+#17	ICD-O T20	C50.9
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	C41.9 8000/6
+#22	ICD-O T25	C41.9
+#23	ICD-O T26	C41.0 8000/1;C49.9 8000/1
+#24	ICD-O T27	C49.9
+#25	ICD-O T28	C41.0
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	C41.9 8000/6;C70.0 8000/6
+#32	ICD-O T35	C70.0
+#33	ICD-O T36	C41.9
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	C44.3 8000/1;C44.4 8000/1;C44.9 8000/1;C76.0 8000/1
+#36	ICD-O T39	C44.4 
+#37	ICD-O T42	8010/9
+#38	ICD-O T43	C70.9 8010/9
+#39	ICD-O T44	C70.9
+#40	ICD-O T45	8010/9
+#41	ICD-O T46	C70.9 8010/9
+#42	ICD-O T47	C70.9
+#43	ICD-O T48	8000/1
+#44	ICD-O T49	C41.0 8000/1;C41.2 8000/1;C41.9 8000/1
+#45	ICD-O T50	C41.9
+#46	ICD-O T51	C41.0
+#47	ICD-O T52	C41.2
+#48	ICD-O T53	8000/1
+#49	ICD-O T54	C49.9 8000/1
+#50	ICD-O T55	C49.9
+#51	ICD-O T56	8000/6
+#52	ICD-O T57	C41.2 8000/6
+#53	ICD-O T58	C41.2
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	C70.1 8000/1
+#56	ICD-O T61	C70.1
+#57	ICD-O T62	8000/6
+#58	ICD-O T63	C22.0 8000/6
+#59	ICD-O T64	C22.0
+#60	ICD-O T65	8000/6
+#61	ICD-O T66	C77.2 8000/6
+#62	ICD-O T67	C48.0
+#63	ICD-O T68	8000/3
+#64	ICD-O T69	C50.9 8000/3
+#65	ICD-O T70	C50.9
+#66	ICD-O T71	8140/6
+#67	ICD-O T72	8140/6
+#68	ICD-O T73	8000/1
+#69	ICD-O T74	C44.4 8000/1
+#70	ICD-O T75	C44.4
+#71	ICD-O T76	8000/6
+#72	ICD-O T77	8000/6
+#73	ICD-O T78	8140/3
+#74	ICD-O T79	C26.0 8140/3
+#75	ICD-O T80	C26.0
+#76	ICD-O T81	8000/1
+#77	ICD-O T82	C18.3 8000/1
+#78	ICD-O T83	C18.3
+#79	ICD-O T84	8000/1
+#80	ICD-O T85	C18.9 8000/1
+#81	ICD-O T86	C18.9
+#82	ICD-O T87	8140/3
+#83	ICD-O T88	C18.9 8140/3
+#84	ICD-O T89	C18.9
+#85	ICD-O T90	8140/3
+#86	ICD-O T91	C18.9 8140/3
+#87	ICD-O T92	C18.9
+#88	ICD-O T93	8000/6
+#89	ICD-O T94	C22.0 8000/6;C41.9 8000/6;C44.9 8000/6;C48.0 8000/6;C70.9 8000/6
+#90	ICD-O T95	C22.0
+#91	ICD-O T96	C41.9
+#92	ICD-O T97	C44.9
+#93	ICD-O T98	C70.9
+#94	ICD-O T99	C48.0
+#95	ICD-O T100	8000/3
+#96	ICD-O T101	C50.9 8000/3;C53.9 8000/3
+#97	ICD-O T102	C53.9
+#98	ICD-O T103	C50.9
+#99	ICD-O T104	8000/1
+#100	ICD-O T105	8000/1

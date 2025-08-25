@@ -1,0 +1,84 @@
+T1	morphologie 276 290	adénocarcinome
+T3	topographie 297 305	prostate
+T4	morphologie 364 386	atteinte adénopathique
+T6	topographie 387 403	rétropéritonéale
+T7	topographie 407 414	iliaque
+T8	morphologie 431 441	métastases
+T10	topographie 442 450	osseuses
+T11	morphologie 561 570	carcinome
+T13	topographie 577 585	prostate
+T15	morphologie 946 971	progression de la maladie
+T16	morphologie 1041 1051	métastases
+T18	topographie 1052 1060	osseuses
+T19	morphologie 1083 1091	atteinte
+T21	topographie 1092 1101	viscérale
+T23	morphologie 1227 1239	adénopathies
+T24	morphologie 1249 1255	tumeur
+T26	topographie 1256 1267	prostatique
+T27	morphologie 1295 1301	nodule
+T29	topographie 1310 1324	lobe supérieur
+T30	morphologie 1470 1476	foyers
+T128	morphologie 1484 1497	métastatiques
+T32	topographie 1477 1483	osseux
+T33	morphologie 1574 1596	carcinome métastatique
+T35	topographie 1603 1611	prostate
+T36	morphologie 1661 1685	progression radiologique
+T38	topographie 1696 1702	osseux
+T39	morphologie 1727 1733	nodule
+T41	topographie 1734 1744	pulmonaire
+T42	morphologie 1959 1965	nodule
+T44	topographie 1966 1976	pulmonaire
+T45	morphologie 2023 2037	adénocarcinome
+T47	topographie 2048 2058	pulmonaire
+T48	morphologie 2173 2182	néoplasme
+T50	topographie 2203 2213	pulmonaire
+T51	morphologie 2384 2391	maladie
+T53	topographie 2398 2406	prostate
+T54	morphologie 2437 2446	carcinome
+T56	topographie 2453 2461	prostate
+T57	morphologie 2519 2530	progression
+T59	topographie 2531 2538	osseuse
+T61	morphologie 2565 2574	néoplasme
+T62	morphologie 2823 2830	lésions
+T64	topographie 2831 2839	osseuses
+T66	morphologie 2885 2891	foyers
+T67	morphologie 2981 2992	adénopathie
+T69	topographie 3027 3048	veine cave inférieure
+T70	morphologie 3141 3152	progression
+T72	topographie 3167 3174	osseuse
+T73	topographie 3178 3191	ganglionnaire
+T74	morphologie 3425 3441	lymphadénopathie
+T76	topographie 3442 3458	rétropéritonéale
+T77	morphologie 3490 3496	lésion
+T79	topographie 3513 3522	surrénale
+T80	morphologie 3556 3567	progression
+T82	topographie 3568 3575	osseuse
+T84	morphologie 3594 3601	lésions
+T86	morphologie 3626 3633	lésions
+T87	morphologie 3689 3710	atteinte métastatique
+T89	topographie 3717 3733	glande surrénale
+T90	morphologie 3742 3748	cancer
+T92	topographie 3755 3763	prostate
+T93	morphologie 3808 3814	nodule
+T95	topographie 3815 3826	surrénalien
+T97	morphologie 3919 3928	métastase
+T98	morphologie 3931 3945	adénocarcinome
+T100	topographie 3946 3956	pulmonaire
+T101	morphologie 4082 4135	progression biochimique et radiologique de la maladie
+T103	topographie 4136 4147	prostatique
+T104	topographie 4158 4164	osseux
+T105	topographie 4168 4181	ganglionnaire
+T106	morphologie 4298 4312	adénocarcinome
+T108	topographie 4313 4323	pulmonaire
+T109	morphologie 4587 4594	lésions
+T111	topographie 4595 4606	pulmonaires
+T112	morphologie 4628 4640	adénopathies
+T114	topographie 4641 4658	rétropéritonéales
+T115	morphologie 4665 4671	nodule
+T117	topographie 4672 4683	surrénalien
+T118	morphologie 4729 4747	lésions blastiques
+T120	topographie 4748 4756	osseuses
+T121	morphologie 4937 4947	métastases
+T123	topographie 4948 4956	osseuses
+T125	morphologie 5060 5070	néoplasmes
+T127	morphologie 5128 5134	foyers

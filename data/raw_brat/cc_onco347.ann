@@ -1,0 +1,124 @@
+T23	topographie 1009 1018	axillaire
+T1	morphologie 101 111	nodulation
+T2	expression_CIM 101 129	nodulation au niveau du sein
+T3	topographie 125 129	sein
+T4	morphologie 334 340	nodule
+T5	expression_CIM 334 406	nodule hypoéchogène de 2*2cm dans le quadrant superexterne (SEQ) du sein
+T6	topographie 371 392	quadrant superexterne
+T8	topographie 402 406	sein
+T9	morphologie 457 469	adénopathies
+T10	expression_CIM 457 480	adénopathies axillaires
+T11	topographie 470 480	axillaires
+T12	morphologie 512 518	tumeur
+T13	expression_CIM 512 547	tumeur de 3*2cm dans le SEQ du sein
+T15	morphologie 827 833	nodule
+T16	expression_CIM 827 842	nodule mammaire
+T17	topographie 834 842	mammaire
+T18	morphologie 855 885	carcinome canalaire infiltrant
+T19	expression_CIM 855 893	carcinome canalaire infiltrant du sein
+T20	topographie 889 893	sein
+T21	expression_CIM 994 1018	l'adénoapathie axillaire
+T22	morphologie 996 1008	adénoapathie
+T24	expression_CIM 1030 1039	métastase
+T25	morphologie 1030 1039	métastase
+T26	expression_CIM 1045 1064	carcinome canalaire
+T27	morphologie 1045 1064	carcinome canalaire
+T28	expression_CIM 1106 1126	maladie métastatique
+T29	morphologie 1106 1126	maladie métastatique
+T30	expression_CIM 1415 1428	foyer tumoral
+T31	morphologie 1415 1428	foyer tumoral
+T32	morphologie 1452 1464	infiltration
+T33	expression_CIM 1452 1479	infiltration sous-aréolaire
+T34	topographie 1465 1479	sous-aréolaire
+T35	expression_CIM 1488 1506	cellules tumorales
+T36	morphologie 1488 1506	cellules tumorales
+T37	morphologie 1519 1534	micrométastases
+T38	expression_CIM 1519 1565	micrométastases dans 14 ganglions lymphatiques
+T39	topographie 1543 1565	ganglions lymphatiques
+T40	expression_CIM 1617 1638	infiltration tumorale
+T41	morphologie 1617 1638	infiltration tumorale
+T42	expression_CIM 1682 1719	prolifération épithéliale néoplasique
+T43	morphologie 1682 1719	prolifération épithéliale néoplasique
+T44	morphologie 2196 2205;2215 2225	carcinome infiltrant
+T45	expression_CIM 2196 2225	carcinome mammaire infiltrant
+T46	topographie 2206 2214	mammaire
+T47	morphologie 2597 2608	progression
+T48	expression_CIM 2597 2639	progression des poumons, du foie et des os
+T49	topographie 2613 2620	poumons
+T50	topographie 2625 2629	foie
+T51	topographie 2637 2639	os
+T52	expression_CIM 2735 2760	progression de la maladie
+T53	morphologie 2735 2760	progression de la maladie
+T54	morphologie 2773 2798	progression de la maladie
+T55	expression_CIM 2773 2808	progression de la maladie hépatique
+T56	topographie 2799 2808	hépatique
+T57	morphologie 2856 2881	Progression de la maladie
+T58	expression_CIM 2856 2908	Progression de la maladie ganglionnaire et hépatique
+T59	topographie 2882 2895	ganglionnaire
+T60	topographie 2899 2908	hépatique
+T61	morphologie 2965 2990	Progression de la maladie
+T62	expression_CIM 2965 3000	Progression de la maladie cérébrale
+T63	topographie 2991 3000	cérébrale
+T64	expression_CIM 5343 5367	implication métastatique
+T65	morphologie 5343 5367	implication métastatique
+T7	topographie 394 397	SEQ
+T14	topographie 536 547	SEQ du sein
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C50.9
+#3	ICD-O T4	8000/1
+#4	ICD-O T6	C50.4
+#5	ICD-O T8	C50.9
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	C77.3 8000/1
+#8	ICD-O T11	C76.1
+#9	ICD-O T12	8000/3
+#10	ICD-O T15	8000/1
+#11	ICD-O T16	C50.9 8000/1
+#12	ICD-O T17	C50.9
+#13	ICD-O T18	8500/3
+#14	ICD-O T19	C50.9 8500/3
+#15	ICD-O T20	C50.9
+#16	ICD-O T22	8000/1
+#17	ICD-O T24	8000/6
+#18	ICD-O T25	8000/6
+#19	ICD-O T26	8500/3
+#20	ICD-O T27	8500/3
+#21	ICD-O T28	8000/6
+#22	ICD-O T29	8000/6
+#23	ICD-O T30	8000/3
+#24	ICD-O T31	8000/9
+#25	ICD-O T32	8000/9
+#26	ICD-O T33	C50.1 8000/1
+#27	ICD-O T34	C50.1
+#28	ICD-O T35	8001/1
+#29	ICD-O T36	8001/3
+#30	ICD-O T37	8000/6
+#31	ICD-O T38	C77.9 8000/6
+#32	ICD-O T39	C77.9
+#33	ICD-O T40	8000/6
+#34	ICD-O T41	8000/9
+#35	ICD-O T42	8010/3
+#36	ICD-O T43	8010/3
+#37	ICD-O T44	8010/3
+#38	ICD-O T45	C50.9 8010/3
+#39	ICD-O T46	C50.9
+#40	ICD-O T47	8000/9
+#41	ICD-O T48	C22.0 8000/6;C34.9 8000/6;C41.9 8000/6
+#42	ICD-O T49	C34.9
+#43	ICD-O T50	C22.0
+#44	ICD-O T51	C41.9
+#45	ICD-O T52	8000/1
+#46	ICD-O T53	8000/9
+#47	ICD-O T54	8000/9
+#48	ICD-O T55	C22.0 8000/1
+#49	ICD-O T56	C22.0
+#50	ICD-O T57	8000/9
+#51	ICD-O T58	C22.0 8000/1;C77.9 8000/1
+#52	ICD-O T59	C77.9
+#53	ICD-O T60	C22.0
+#54	ICD-O T61	8000/9
+#55	ICD-O T62	C71.0 8000/1
+#56	ICD-O T63	C71.9
+#57	ICD-O T64	8000/6
+#58	ICD-O T65	8000/6
+#59	AnnotatorNotes T22	trad

@@ -1,0 +1,95 @@
+T93	topographie 3928 3954	cinquième vertèbre dorsale
+T1	morphologie 189 196	adénome
+T138	morphologie 208 220	folliculaire
+T3	topographie 197 207	thyroïdien
+T5	morphologie 299 327	adénome à cellules de Hurthe
+T6	morphologie 702 716	adénocarcinome
+T8	topographie 720 726	poumon
+T9	morphologie 1240 1252	adénopathies
+T11	topographie 1253 1269	latérocervicales
+T12	topographie 1273 1290	sus-claviculaires
+T13	morphologie 1440 1452	adénopathies
+T15	topographie 1453 1463	axillaires
+T16	morphologie 1527 1532	masse
+T18	topographie 1533 1543	abdominale
+T19	morphologie 1565 1576	adénopathie
+T21	topographie 1577 1586	inguinale
+T22	morphologie 1803 1817	adénocarcinome
+T24	differenciation 1818 1834	bien différencié
+T25	morphologie 2100 2112	Adénopathies
+T27	topographie 2113 2126	médiastinales
+T28	topographie 2130 2138	hilaires
+T29	morphologie 2265 2286	processus néoformatif
+T31	topographie 2287 2297	pulmonaire
+T32	morphologie 2315 2322	nodules
+T34	topographie 2348 2354	poumon
+T35	morphologie 2382 2400	foyer métastatique
+T37	topographie 2401 2410	hépatique
+T38	morphologie 2498 2501	LOE
+T40	topographie 2502 2512	hépatiques
+T41	morphologie 2530 2547	Atteinte tumorale
+T43	topographie 2548 2564	rétropéritonéale
+T44	topographie 2566 2579	surrénalienne
+T45	topographie 2590 2613	ganglionnaire splénique
+T46	morphologie 2643 2655	adénopathies
+T48	morphologie 2787 2799	adénopathies
+T50	topographie 2800 2814	paratrachéales
+T51	morphologie 2845 2857	adénopathies
+T55	morphologie 3142 3148	lésion
+T57	topographie 3153 3164	tissus mous
+T58	topographie 3198 3206	œsophage
+T60	morphologie 3226 3251	conglomérat adénopathique
+T61	morphologie 3289 3295	lésion
+T64	morphologie 3353 3359	Lésion
+T67	morphologie 3431 3438	Nodules
+T69	topographie 3447 3450	LSD
+T70	topographie 3471 3474	LID
+T71	topographie 3499 3519	Parenchyme hépatique
+T73	morphologie 3525 3534	métastase
+T74	morphologie 3536 3561	Conglomérat adénopathique
+T76	topographie 3570 3584	tronc cœliaque
+T77	morphologie 3645 3661	Lésion nodulaire
+T79	topographie 3670 3687	queue du pancréas
+T81	morphologie 3737 3748	adénopathie
+T82	morphologie 3755 3761	lésion
+T84	topographie 3762 3774	pancréatique
+T85	morphologie 3776 3787	Adénopathie
+T87	topographie 3788 3804	rétropéritonéale
+T88	morphologie 3832 3853	dépôt de radiotraceur
+T91	morphologie 3914 3919	dépôt
+T94	morphologie 4130 4144	Adénocarcinome
+T96	topographie 4145 4155	pulmonaire
+T98	morphologie 4167 4176	stade IVB
+T99	morphologie 4178 4188	métastases
+T101	topographie 4189 4219	supra et infradiaphragmatiques
+T102	topographie 4221 4235	surrénaliennes
+T103	topographie 4247 4257	spléniques
+T104	morphologie 5742 5752	métastases
+T106	topographie 5753 5763	cérébrales
+T107	morphologie 5920 5924	LOES
+T109	topographie 5934 5955	hémisphères cérébraux
+T110	topographie 5961 5983	hémisphère cérébelleux
+T112	morphologie 6204 6214	métastases
+T113	morphologie 6396 6403	lésions
+T115	morphologie 6588 6598	métastases
+T117	topographie 6599 6609	cérébrales
+T118	morphologie 7314 7328	adénocarcinome
+T120	topographie 7329 7339	pulmonaire
+T122	morphologie 7351 7360	stade IVB
+T123	morphologie 7362 7372	métastases
+T125	topographie 7373 7418	ganglionnaires supra et infradiaphragmatiques
+T126	topographie 7420 7434	surrénaliennes
+T127	topographie 7444 7454	spléniques
+T128	topographie 7456 7464	osseuses
+T129	topographie 7468 7478	cérébrales
+T130	morphologie 7760 7770	métastases
+T132	topographie 7771 7781	cérébrales
+T133	morphologie 9287 9296	carcinome
+T139	morphologie 9308 9330	non à petites cellules
+T135	topographie 9297 9307	pulmonaire
+T137	morphologie 9334 9342	stade IV
+T63	topographie 3296 3321	para-œsophagienne distale
+T53	topographie 2866 2885	région précarinaire
+T90	topographie 3862 3880	sixième arc costal
+T54	topographie 2907 2920	souscarinaire
+T66	topographie 3364 3398	tissus mous dans la région hilaire

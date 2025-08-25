@@ -1,0 +1,41 @@
+T51	topographie 2755 2777	derme du fuseau cutané
+T50	topographie 2729 2748	parenchyme mammaire
+T9	topographie 873 889	région axillaire
+T1	morphologie 653 665	adénopathies
+T3	topographie 718 726	aisselle
+T4	morphologie 772 778	nodule
+T6	topographie 802 825	quadrant inféro-externe
+T7	morphologie 839 855	lymphadénopathie
+T10	morphologie 1009 1028	carcinome canalaire
+T12	differenciation 1029 1044	peu différencié
+T14	morphologie 1046 1069	carcinome inflammatoire
+T16	morphologie 1276 1299	carcinome inflammatoire
+T17	morphologie 1324 1340	lymphadénopathie
+T19	topographie 1341 1350	axillaire
+T20	morphologie 1380 1387	lésions
+T22	topographie 1428 1451	quadrant supéro-externe
+T23	morphologie 1464 1476	fibroadénome
+T25	topographie 1485 1508	quadrant supéro-externe
+T26	morphologie 1546 1567	carcinome intraductal
+T28	differenciation 1578 1588	haut grade
+T30	morphologie 1595 1636	tumeur phyllode, histologiquement bénigne
+T31	morphologie 1777 1810	Carcinome canalaire inflammatoire
+T33	topographie 1814 1818	sein
+T34	morphologie 1850 1873	Tumeur phyllode bénigne
+T36	topographie 1877 1881	sein
+T37	morphologie 1902 1923	carcinome intraductal
+T39	differenciation 1934 1944	haut grade
+T40	morphologie 1980 2013	carcinome canalaire inflammatoire
+T42	topographie 2017 2021	sein
+T44	stadeTNM 2029 2037	pT4cN1M0
+T45	morphologie 2578 2608	carcinome canalaire infiltrant
+T47	topographie 2622 2626	sein
+T48	morphologie 2691 2708	invasion tumorale
+T53	morphologie 2803 2822	régression tumorale
+T55	morphologie 3213 3224	lit tumoral
+T56	morphologie 3228 3249	carcinome intraductal
+T58	differenciation 3253 3263	haut grade
+T60	morphologie 3424 3447	tumeur phyllode bénigne
+T62	morphologie 3481 3488	lésions
+T64	morphologie 3659 3677	extension tumorale
+T66	morphologie 3743 3749	tumeur

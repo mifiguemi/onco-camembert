@@ -1,0 +1,23 @@
+T1	morphologie 608 613	masse
+T3	topographie 622 626	rein
+T4	morphologie 683 692	néoplasie
+T31	morphologie 700 708	primaire
+T6	topographie 693 699	rénale
+T8	morphologie 796 802	lésion
+T9	morphologie 936 945	carcinome
+T32	morphologie 952 970	à cellules claires
+T11	topographie 946 951	rénal
+T12	differenciation 983 990	grade 4
+T13	morphologie 997 1005	invasion
+T15	topographie 1012 1024	veine rénale
+T16	morphologie 1093 1102	carcinome
+T33	morphologie 1109 1127	à cellules claires
+T18	topographie 1103 1108	rénal
+T19	differenciation 1143 1151	grade IV
+T20	morphologie 1420 1427	nodules
+T22	topographie 1428 1439	pulmonaires
+T23	morphologie 1447 1459	adénopathies
+T25	topographie 1460 1468	hilaires
+T27	morphologie 1517 1527	métastases
+T28	morphologie 2063 2074	progression
+T30	topographie 2075 2115	ganglionnaire pulmonaire et médiastinale

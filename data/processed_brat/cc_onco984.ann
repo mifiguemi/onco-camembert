@@ -1,0 +1,63 @@
+T72	topographie 4510 4543	péritonéaux sous-diaphragmatiques
+T75	topographie 4617 4639	segment VIII hépatique
+T32	topographie 2811 2823	supravésical
+T1	morphologie 132 138	cancer
+T3	topographie 142 146	sein
+T4	morphologie 455 461	lésion
+T6	topographie 462 471	pelvienne
+T7	morphologie 477 485	atteinte
+T9	topographie 486 497	péritonéale
+T11	morphologie 534 548	adénocarcinome
+T13	morphologie 585 605	maladie métastatique
+T14	morphologie 1132 1144	infiltration
+T16	topographie 1158 1166	épiploon
+T17	topographie 1179 1189	paramètres
+T18	morphologie 1197 1218	adénocarcinome séreux
+T20	differenciation 1222 1232	haut grade
+T21	morphologie 1317 1342	progression de la maladie
+T23	topographie 1366 1372	bassin
+T24	topographie 1379 1383	foie
+T26	morphologie 2430 2435	Masse
+T27	morphologie 2673 2685	infiltration
+T29	topographie 2701 2710	péritoine
+T30	morphologie 2744 2751	nodules
+T33	morphologie 2916 2924	implants
+T93	morphologie 2934 2954	de type Omental Cake
+T35	topographie 2925 2933	omentaux
+T36	morphologie 2980 2986	tumeur
+T38	topographie 2987 2996	pelvienne
+T39	morphologie 3082 3091	néoplasme
+T41	topographie 3092 3099	ovarien
+T42	morphologie 3421 3429	implants
+T44	topographie 3430 3441	péritonéaux
+T45	morphologie 3621 3626	masse
+T47	topographie 3627 3637	annexielle
+T48	morphologie 3751 3783	adénocarcinome papillaire séreux
+T50	topographie 3784 3791	ovarien
+T51	differenciation 3805 3815	haut grade
+T52	morphologie 3858 3870	Infiltration
+T54	topographie 3880 3890	paramètres
+T55	morphologie 3898 3919	adénocarcinome séreux
+T57	differenciation 3923 3933	haut grade
+T59	morphologie 3938 3947	néoplasme
+T61	morphologie 4061 4077	lymphadénopathie
+T63	morphologie 4149 4165	lymphadénopathie
+T64	morphologie 4209 4230	adénocarcinome séreux
+T66	differenciation 4234 4244	haut grade
+T67	morphologie 4374 4395	adénocarcinome séreux
+T69	differenciation 4399 4409	haut grade
+T70	morphologie 4501 4509	implants
+T73	morphologie 4582 4588	Lésion
+T76	morphologie 4670 4687	lésions kystiques
+T78	topographie 4732 4738	bassin
+T79	morphologie 4803 4812	processus
+T94	morphologie 4821 4832	néoplasique
+T81	topographie 4813 4820	ovarien
+T82	morphologie 4996 5005	Carcinome
+T95	morphologie 5014 5020	séreux
+T84	topographie 5006 5013	ovarien
+T85	differenciation 5024 5034	haut grade
+T86	morphologie 5586 5594	atteinte
+T88	topographie 5595 5606	péritonéale
+T90	morphologie 5637 5644	lésions
+T92	morphologie 5703 5711	récidive

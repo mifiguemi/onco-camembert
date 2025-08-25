@@ -1,0 +1,47 @@
+T1	morphologie 1734 1752	hypodensité focale
+T5	morphologie 4084 4091	lésions
+T6	morphologie 5258 5271	carcinomatose
+T8	topographie 5272 5280	méningée
+T9	morphologie 5924 5930	tumeur
+T11	topographie 5931 5940	cérébrale
+T13	morphologie 5952 5961	métastase
+T14	morphologie 5963 5976	carcinomatose
+T16	topographie 5977 5985	méningée
+T17	morphologie 6715 6728	Carcinomatose
+T19	topographie 6729 6737	méningée
+T21	morphologie 6763 6770	tumeurs
+T22	morphologie 6799 6814	adénocarcinomes
+T24	topographie 6818 6822	sein
+T25	topographie 6836 6842	poumon
+T27	morphologie 6857 6866	mélanomes
+T28	morphologie 6881 6888	cancers
+T30	topographie 6889 6907	gastro-intestinaux
+T32	morphologie 7240 7257	cellules malignes
+T34	morphologie 8464 8480	maladie de Paget
+T36	morphologie 8569 8575	lésion
+T38	morphologie 10176 10181	masse
+T40	morphologie 10414 10426	néoformative
+T42	morphologie 10610 10622	néoformation
+T43	morphologie 10822 10828	cancer
+T45	topographie 10832 10840	pancréas
+T46	morphologie 11180 11185	masse
+T48	topographie 11186 11206	duodéno-pancréatique
+T49	morphologie 12564 12573	NÉOPLASIE
+T51	topographie 12574 12586	PANCRÉATIQUE
+T53	morphologie 12662 12668	Lésion
+T54	morphologie 12868 12889	Carcinome épidermoïde
+T56	differenciation 12890 12905	peu différencié
+T57	topographie 12909 12933	lobe supérieur du poumon
+T58	morphologie 12945 12953	invasion
+T60	topographie 12954 12971	angliolymphatique
+T61	morphologie 12981 12989	invasion
+T63	topographie 12994 13029	ganglions lymphatiques médiastinaux
+T64	morphologie 13033 13043	métastases
+T66	topographie 13044 13054	hépatiques
+T67	morphologie 13098 13124	Calcification métastatique
+T69	topographie 13134 13141	poumons
+T70	topographie 13147 13152	reins
+T71	topographie 13175 13183	pancréas
+T72	topographie 13188 13196	myocarde
+T73	topographie 13204 13222	vaisseaux sanguins
+T3	topographie 1768 1780	subinsulaire

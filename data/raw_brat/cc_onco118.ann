@@ -1,0 +1,89 @@
+T1	morphologie 717 724;737 760	lésions occupant l'espace (LOE)
+T2	expression_CIM 717 773	lésions hypointense occupant l'espace (LOE) dans le foie
+T3	topographie 769 773	foie
+T4	expression_CIM 878 887	métastase
+T5	morphologie 878 887	métastase
+T6	expression_CIM 891 912	tumeur neuroendocrine
+T7	morphologie 891 912	tumeur neuroendocrine
+T8	topographie 995 999	foie
+T9	expression_CIM 995 1012	foie métastatique
+T10	morphologie 1000 1012	métastatique
+T11	expression_CIM 1022 1028	tumeur
+T12	morphologie 1022 1028	tumeur
+T13	morphologie 1404 1407	LOE
+T14	expression_CIM 1404 1448	LOE a été observée dans le corps du pancréas
+T15	topographie 1431 1448	corps du pancréas
+T16	morphologie 1535 1559	carcinome neuroendocrine
+T17	expression_CIM 1535 1576	carcinome neuroendocrine bien différencié
+T18	differenciation 1560 1576	bien différencié
+T19	expression_CIM 1750 1766	Insulinome malin
+T20	morphologie 1750 1766	Insulinome malin
+T21	expression_CIM 1770 1778	stade IV
+T22	morphologie 1770 1778	stade IV
+T23	morphologie 1780 1790	métastases
+T24	expression_CIM 1780 1811	métastases osseuses, hépatiques
+T25	topographie 1791 1799	osseuses
+T26	topographie 1801 1811	hépatiques
+T27	morphologie 2096 2106	métastases
+T28	expression_CIM 2096 2115	métastases osseuses
+T29	topographie 2107 2115	osseuses
+T30	morphologie 2147 2157;2171 2176	insulinome malin
+T31	expression_CIM 2147 2176	insulinome pancréatique malin
+T32	topographie 2158 2170	pancréatique
+T33	morphologie 2182 2192	métastases
+T34	expression_CIM 2182 2215	métastases hépatiques et osseuses
+T35	topographie 2193 2203	hépatiques
+T36	topographie 2207 2215	osseuses
+T37	morphologie 2599 2610	progression
+T38	expression_CIM 2599 2618	progression osseuse
+T39	topographie 2611 2618	osseuse
+T40	morphologie 3247 3258	progression
+T41	expression_CIM 3247 3289	progression radiologique au niveau du foie
+T42	topographie 3285 3289	foie
+T43	morphologie 3472 3483	progression
+T44	expression_CIM 3472 3493	progression hépatique
+T45	topographie 3484 3493	hépatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C22.0
+#3	ICD-O T4	8000/6
+#4	ICD-O T5	8000/6
+#5	ICD-O T6	8246/3
+#6	ICD-O T7	8246/3
+#7	ICD-O T8	C22.0
+#8	ICD-O T9	C22.0 8000/6
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/3
+#12	ICD-O T13	8000/1
+#13	ICD-O T15	C25.1
+#14	ICD-O T16	8246/3
+#15	ICD-O T17	8246/31
+#16	ICD-O T18	1
+#17	ICD-O T19	8151/3
+#18	ICD-O T20	8151/3
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	C22.0 8000/6;C41.9 8000/6
+#23	ICD-O T25	C41.9
+#24	ICD-O T26	C22.0
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	C41.9 8000/6
+#27	ICD-O T29	C41.9
+#28	ICD-O T30	8151/3
+#29	ICD-O T31	C25.9 8151/3
+#30	ICD-O T32	C25.9
+#31	ICD-O T33	8000/6
+#32	ICD-O T34	C22.0 8000/6;C41.9 8000/6
+#33	ICD-O T35	C22.0
+#34	ICD-O T36	C41.9
+#35	ICD-O T37	8000/9
+#36	ICD-O T38	C41.9 8000/6
+#37	ICD-O T39	C41.9
+#38	ICD-O T40	8000/9
+#39	ICD-O T41	C22.0 8000/6
+#40	ICD-O T42	C22.0
+#41	ICD-O T43	8000/9
+#42	ICD-O T44	C22.0 8000/6
+#43	ICD-O T45	C22.0
+#44	AnnotatorNotes T1	trad

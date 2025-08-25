@@ -1,0 +1,43 @@
+T1	morphologie 100 111	tuméfaction
+T3	topographie 112 121	inguinale
+T4	morphologie 656 668	adénopathies
+T6	topographie 669 679	inguinales
+T7	morphologie 1000 1007	lésions
+T9	topographie 1050 1066	région inguinale
+T10	morphologie 1163 1174	adénopathie
+T12	topographie 1175 1184	inguinale
+T14	morphologie 1199 1208	métastase
+T16	morphologie 1214 1235	carcinome épidermoïde
+T17	morphologie 1459 1475	lymphadénopathie
+T19	topographie 1476 1485	inguinale
+T20	topographie 1500 1507	iliaque
+T21	topographie 1524 1528	Foie
+T23	morphologie 1534 1541	lésions
+T24	morphologie 1543 1573	Épaississement nodulaire focal
+T26	topographie 1591 1608	vésicule biliaire
+T27	morphologie 1622 1628	polype
+T29	topographie 1635 1652	vésicule biliaire
+T30	morphologie 1717 1723	lésion
+T32	topographie 1783 1797	gland du pénis
+T34	morphologie 1838 1846	invasion
+T35	morphologie 1902 1919	Lymphadénopathies
+T37	topographie 1920 1935	inguinocrurales
+T39	morphologie 2074 2081	lésions
+T41	morphologie 2085 2102	carcinome in situ
+T42	morphologie 2135 2146	adénopathie
+T44	topographie 2147 2156	inguinale
+T45	morphologie 2166 2172	lésion
+T47	topographie 2176 2190	gland du pénis
+T48	morphologie 2276 2297	carcinome épidermoïde
+T50	topographie 2301 2306	pénis
+T52	morphologie 2318 2326	Stade IV
+T54	morphologie 2696 2719	stabilité de la maladie
+T55	morphologie 2989 3001	adénopathies
+T57	topographie 3002 3012	inguinales
+T59	morphologie 3271 3283	adénopathies
+T60	morphologie 3566 3578	adénopathies
+T62	topographie 3579 3589	inguinales
+T64	morphologie 3704 3716	adénopathies
+T65	morphologie 3780 3792	adénopathies
+T67	topographie 3793 3810	rétropéritonéales
+T69	morphologie 4070 4082	adénopathies

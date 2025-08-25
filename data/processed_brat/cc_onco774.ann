@@ -1,0 +1,42 @@
+T3	topographie 661 687	région jumelle de la jambe
+T1	morphologie 632 640	grosseur
+T4	morphologie 1117 1123	tumeur
+T6	topographie 1159 1165	mollet
+T8	morphologie 1330 1335	masse
+T9	morphologie 1839 1844	masse
+T11	topographie 1868 1903	tête et le corps unciné du pancréas
+T12	morphologie 2003 2009	lésion
+T14	topographie 2026 2040	lobe hépatique
+T16	morphologie 2061 2075	tumeur maligne
+T17	morphologie 2107 2121	adénocarcinome
+T19	topographie 2122 2134	pancréatique
+T21	morphologie 2254 2261	lésions
+T23	morphologie 2283 2300	lésions distantes
+T24	morphologie 2397 2403	lésion
+T26	topographie 2407 2423	membre inférieur
+T28	morphologie 2449 2471	tumeur des tissus mous
+T30	morphologie 2598 2605	lésions
+T31	morphologie 2721 2728	lésions
+T33	topographie 2729 2742	pancréatiques
+T34	topographie 2746 2756	hépatiques
+T35	morphologie 2819 2825	lésion
+T37	topographie 2829 2845	membre inférieur
+T39	morphologie 2891 2954	processus lymphoprolifératif de différenciation plasmablastique
+T41	morphologie 3169 3193	lymphome plasmablastique
+T43	morphologie 3198 3221	myélome plasmablastique
+T45	morphologie 3228 3245	lymphome B diffus
+T46	morphologie 3313 3319	lésion
+T48	topographie 3323 3339	membre inférieur
+T50	morphologie 3443 3467	lymphome plasmablastique
+T52	morphologie 3878 3902	lymphome plasmablastique
+T54	morphologie 3906 3914	stade IV
+T55	morphologie 3930 3938	atteinte
+T57	topographie 3942 3946	foie
+T58	topographie 3951 3959	pancréas
+T59	topographie 3967 3978	tissus mous
+T60	morphologie 4078 4083	masse
+T62	topographie 4084 4096	pancréatique
+T64	morphologie 5082 5109	maladie lymphoproliférative
+T66	morphologie 5135 5142	lésions
+T68	morphologie 5189 5195	lésion
+T70	morphologie 5384 5403	maladie néoplasique

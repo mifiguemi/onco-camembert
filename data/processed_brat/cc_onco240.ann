@@ -1,0 +1,39 @@
+T1	morphologie 456 462	tumeur
+T3	topographie 519 525	narine
+T4	morphologie 656 667	adénopathie
+T6	topographie 668 677	cervicale
+T7	morphologie 784 789	Masse
+T9	topographie 790 796	nasale
+T11	morphologie 925 930	masse
+T13	morphologie 1291 1297	tumeur
+T14	morphologie 1310 1319	carcinome
+T16	differenciation 1320 1333	indifférencié
+T18	morphologie 1428 1442	masse tumorale
+T19	morphologie 2108 2136	stésioneuroblastome de Hyams
+T21	differenciation 2140 2149	grade III
+T22	morphologie 2185 2204	stésioneuroblastome
+T24	differenciation 2205 2226	de grade III de Hyams
+T26	morphologie 2477 2488	lit tumoral
+T27	morphologie 2950 2956	tumeur
+T29	topographie 2957 2966	cervicale
+T30	morphologie 3030 3036	tumeur
+T33	morphologie 3149 3161	adénopathies
+T35	topographie 3162 3180	sous-mandibulaires
+T36	topographie 3184 3200	latérocervicales
+T38	morphologie 3402 3408	tumeur
+T40	morphologie 3546 3552	tumeur
+T42	morphologie 3609 3618	métastase
+T43	morphologie 3625 3650	tumeur à petites cellules
+T45	differenciation 3651 3667	peu différenciée
+T47	morphologie 3889 3895	masses
+T49	morphologie 4068 4080	adénopathies
+T50	morphologie 4384 4393	métastase
+T52	topographie 4394 4407	ganglionnaire
+T53	morphologie 4417 4441	carcinome neuroendocrine
+T55	differenciation 4445 4455	haut grade
+T57	morphologie 4527 4548	esthésioneuroblastome
+T58	morphologie 4555 4579	carcinome neuroendocrine
+T60	differenciation 4583 4593	haut grade
+T61	morphologie 4838 4862	carcinome neuroendocrine
+T63	differenciation 4866 4876	haut grade
+T32	topographie 3070 3094	région jugulodigastrique

@@ -1,0 +1,160 @@
+T16	topographie 604 607	CSE
+T39	topographie 3154 3174	lymphatique dermique
+T1	morphologie 241 250	néoplasie
+T2	expression_CIM 241 260	néoplasie gastrique
+T3	topographie 251 260	gastrique
+T4	morphologie 321 330	néoplasie
+T5	expression_CIM 321 334	néoplasie ORL
+T6	topographie 331 334	ORL
+T7	morphologie 379 385	cancer
+T8	expression_CIM 379 400	cancer de la prostate
+T9	topographie 392 400	prostate
+T10	morphologie 464 473	néoplasie
+T11	expression_CIM 464 483	néoplasie digestive
+T12	topographie 474 483	digestive
+T13	morphologie 555 561	lésion
+T14	expression_CIM 555 607	lésion suspecte a été trouvée dans le sein droit CSE
+T15	topographie 593 597	sein
+T17	morphologie 727 757	carcinome canalaire infiltrant
+T18	expression_CIM 727 769	carcinome canalaire infiltrant de grade II
+T19	differenciation 761 769	grade II
+T20	morphologie 789 797	invasion
+T21	expression_CIM 789 814	invasion lymphovasculaire
+T22	topographie 798 814	lymphovasculaire
+T23	morphologie 1218 1227;1237 1257	carcinome canalaire infiltrant
+T24	expression_CIM 1218 1257	carcinome mammaire canalaire infiltrant
+T25	topographie 1228 1236	mammaire
+T26	expression_CIM 2119 2149	carcinome canalaire infiltrant
+T27	morphologie 2119 2149	carcinome canalaire infiltrant
+T28	morphologie 2250 2258	atteinte
+T29	expression_CIM 2250 2272	atteinte ganglionnaire
+T30	topographie 2259 2272	ganglionnaire
+T31	morphologie 3013 3020	lésions
+T32	expression_CIM 3013 3044	lésions surélevées dans le sein
+T33	topographie 3040 3044	sein
+T34	morphologie 3111 3123	infiltration
+T35	expression_CIM 3111 3131	infiltration cutanée
+T36	topographie 3124 3131	cutanée
+T37	morphologie 3140 3153	carcinomatose
+T38	expression_CIM 3140 3174	carcinomatose lymphatique dermique
+T40	expression_CIM 3176 3199	carcinome inflammatoire
+T41	morphologie 3176 3199	carcinome inflammatoire
+T42	morphologie 3208 3238	carcinome canalaire infiltrant
+T43	expression_CIM 3208 3248	carcinome canalaire infiltrant (GII-GIII
+T44	differenciation 3240 3248	GII-GIII
+T45	morphologie 3392 3415	carcinome inflammatoire
+T46	expression_CIM 3392 3423	carcinome inflammatoire du sein
+T47	topographie 3419 3423	sein
+T48	expression_CIM 4048 4054	foyers
+T49	morphologie 4048 4054	foyers
+T50	expression_CIM 4058 4088	carcinome canalaire infiltrant
+T51	morphologie 4058 4088	carcinome canalaire infiltrant
+T52	morphologie 4212 4219	lésions
+T53	expression_CIM 4212 4228	lésions cutanées
+T54	topographie 4220 4228	cutanées
+T55	morphologie 4304 4315	adénopathie
+T56	expression_CIM 4304 4325	adénopathie axillaire
+T57	topographie 4316 4325	axillaire
+T58	morphologie 4405 4414	carcinome
+T59	expression_CIM 4405 4467	carcinome, avec un profil compatible avec une origine mammaire
+T60	topographie 4459 4467	mammaire
+T61	expression_CIM 4538 4544	tumeur
+T62	morphologie 4538 4544	tumeur
+T63	morphologie 4566 4577	adénopathie
+T64	expression_CIM 4566 4587	adénopathie axillaire
+T65	topographie 4578 4587	axillaire
+T66	morphologie 4647 4658	adénopathie
+T67	expression_CIM 4647 4684	adénopathie de 3,2 cm dans l'aisselle
+T68	topographie 4676 4684	aisselle
+T69	expression_CIM 4705 4719	tumeur maligne
+T70	morphologie 4705 4719	tumeur maligne
+T71	morphologie 4762 4792	carcinome canalaire infiltrant
+T72	expression_CIM 4762 4800	carcinome canalaire infiltrant du sein
+T73	topographie 4796 4800	sein
+T74	expression_CIM 4845 4853	stade IV
+T75	morphologie 4845 4853	stade IV
+T76	morphologie 4869 4877	atteinte
+T77	expression_CIM 4869 4887	atteinte axillaire
+T78	topographie 4878 4887	axillaire
+T79	expression_CIM 5214 5225	adénopathie
+T80	morphologie 5214 5225	adénopathie
+T81	morphologie 5261 5268	lésions
+T82	expression_CIM 5261 5277	lésions cutanées
+T83	topographie 5269 5277	cutanées
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C16.9 8000/1
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C61.9 8000/3
+#9	ICD-O T9	C61.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C26.9 8000/1
+#12	ICD-O T12	C26.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T15	C50.9
+#15	ICD-O T17	8500/3
+#16	ICD-O T18	8500/32
+#17	ICD-O T19	2
+#18	ICD-O T20	8000/1
+#19	ICD-O T22	C49.9
+#20	ICD-O T23	8500/3
+#21	ICD-O T24	C50.9 8500/3
+#22	ICD-O T25	C50.9
+#23	ICD-O T26	8500/3
+#24	ICD-O T27	8500/3
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C77.9 8000/1
+#27	ICD-O T30	C77.9
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	C50.9 8000/1
+#30	ICD-O T33	C50.9
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	C44.9 8000/1
+#33	ICD-O T36	C44.9
+#34	ICD-O T37	8010/9
+#35	ICD-O T38	C44.9 8010/9;C49.9 8010/9
+#36	ICD-O T40	8530/3
+#37	ICD-O T41	8530/3
+#38	ICD-O T42	8500/3
+#39	ICD-O T44	3
+#40	ICD-O T45	8530/3
+#41	ICD-O T46	C50.9 8530/3
+#42	ICD-O T47	C50.9
+#43	ICD-O T48	8000/1
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	8500/3
+#46	ICD-O T51	8500/3
+#47	ICD-O T52	8000/1
+#48	ICD-O T53	C44.9 8000/1
+#49	ICD-O T54	C44.9
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	C77.3 8000/1
+#52	ICD-O T57	C76.1
+#53	ICD-O T58	8010/3
+#54	ICD-O T60	C50.9
+#55	ICD-O T61	8000/1
+#56	ICD-O T62	8000/1
+#57	ICD-O T63	8000/1
+#58	ICD-O T64	C77.3 8000/1
+#59	ICD-O T65	C76.1
+#60	ICD-O T66	8000/1
+#61	ICD-O T67	C77.3 8000/1
+#62	ICD-O T68	C76.1
+#63	ICD-O T69	8000/3
+#64	ICD-O T70	8000/3
+#65	ICD-O T71	8500/3
+#66	ICD-O T72	C50.9 8500/3
+#67	ICD-O T73	C50.9
+#68	ICD-O T74	8000/6
+#69	ICD-O T75	8000/6
+#70	ICD-O T76	8000/1
+#71	ICD-O T77	C76.1 8000/1
+#72	ICD-O T78	C76.1
+#73	ICD-O T79	C77.9 8000/1
+#74	ICD-O T80	8000/1
+#75	ICD-O T81	8000/1
+#76	ICD-O T82	C44.9 8000/1
+#77	ICD-O T83	C44.9

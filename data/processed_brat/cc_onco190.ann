@@ -1,0 +1,40 @@
+T2	morphologie 1055 1061	lésion
+T4	morphologie 1260 1281	carcinome épidermoïde
+T5	morphologie 1457 1472	image nodulaire
+T7	topographie 1525 1528	LID
+T8	morphologie 1543 1552	néoplasie
+T10	topographie 1553 1563	pulmonaire
+T11	morphologie 1650 1662	adénopathies
+T13	topographie 1663 1676	médiastinales
+T14	topographie 1678 1686	hilaires
+T15	topographie 1690 1700	axillaires
+T16	morphologie 1731 1738	nodules
+T18	topographie 1739 1750	pulmonaires
+T19	morphologie 1758 1766	atteinte
+T21	topographie 1770 1782	cadre osseux
+T23	morphologie 1881 1887	lésion
+T25	morphologie 2172 2193	carcinome épidermoïde
+T26	morphologie 2271 2276	masse
+T29	topographie 2351 2357	glotte
+T31	morphologie 2891 2900	néoplasie
+T33	topographie 2901 2915	transglottique
+T34	morphologie 3466 3498	carcinome épidermoïde infiltrant
+T36	differenciation 3499 3521	modérément différencié
+T37	morphologie 3938 3946	Atteinte
+T39	topographie 3947 3960	ganglionnaire
+T41	morphologie 4030 4038	stade IV
+T43	morphologie 4107 4118	lit tumoral
+T45	morphologie 4126 4138	adénopathies
+T47	morphologie 4940 4947	lésions
+T48	morphologie 5001 5008	nodules
+T50	topographie 5009 5020	pulmonaires
+T52	morphologie 5142 5144	M1
+T53	morphologie 5530 5532	M1
+T55	topographie 5541 5550	clavicule
+T56	morphologie 5559 5561	M1
+T58	topographie 5570 5575	genou
+T59	morphologie 5618 5628	métastases
+T61	topographie 5629 5640	pulmonaires
+T63	morphologie 6401 6403	M1
+T28	topographie 2303 2324	larynx supraglottique
+T30	topographie 2364 2375	sous-glotte

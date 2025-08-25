@@ -1,0 +1,39 @@
+T18	topographie 1452 1461	axillaire
+T17	topographie 1432 1448	cervico-latérale
+T1	morphologie 237 246	néoplasme
+T3	topographie 253 257	tête
+T4	topographie 264 267	cou
+T5	morphologie 477 482	masse
+T7	topographie 483 496	sous-pleurale
+T8	topographie 545 559	lobe supérieur
+T10	morphologie 711 716	masse
+T12	morphologie 776 797	carcinome épidermoïde
+T14	morphologie 908 925	lésion à distance
+T15	morphologie 1420 1431	adénopathie
+T20	morphologie 1723 1728	masse
+T21	morphologie 2054 2059	masse
+T23	topographie 2060 2070	pulmonaire
+T24	topographie 2101 2114	sous-pleurale
+T25	morphologie 2316 2328	adénopathies
+T27	topographie 2329 2342	médiastinales
+T29	morphologie 2410 2417	lésions
+T31	morphologie 2431 2452	métastases à distance
+T32	morphologie 2466 2487	Carcinome épidermoïde
+T34	topographie 2491 2497	poumon
+T36	morphologie 2798 2821	stabilité de la maladie
+T37	morphologie 2996 3001	masse
+T39	topographie 3002 3012	pulmonaire
+T40	morphologie 3113 3118	masse
+T42	topographie 3119 3131	pancréatique
+T43	morphologie 3359 3364	masse
+T45	topographie 3365 3375	pulmonaire
+T46	morphologie 3399 3404	masse
+T48	topographie 3405 3417	pancréatique
+T50	morphologie 3455 3479	foyers hypermétaboliques
+T51	morphologie 3547 3552	masse
+T53	topographie 3553 3565	pancréatique
+T55	morphologie 3626 3646	carcinome infiltrant
+T56	morphologie 3962 3968	tumeur
+T61	morphologie 3982 3991	primitive
+T58	topographie 3969 3981	pancréatique
+T60	morphologie 3995 4004	métastase

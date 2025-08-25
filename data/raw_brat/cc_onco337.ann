@@ -1,0 +1,92 @@
+T1	morphologie 171 179	mélanome
+T2	expression_CIM 171 186	mélanome cutané
+T3	topographie 180 186	cutané
+T4	expression_CIM 233 241	récidive
+T5	morphologie 233 241	récidive
+T6	expression_CIM 545 553	mélanome
+T7	morphologie 545 553	mélanome
+T8	morphologie 694 701	lésions
+T9	expression_CIM 694 711	lésions dermiques
+T10	topographie 702 711	dermiques
+T11	morphologie 844 849	masse
+T12	expression_CIM 844 864	masse rétrocardiaque
+T13	topographie 850 864	rétrocardiaque
+T14	morphologie 943 949	lésion
+T15	expression_CIM 943 996	lésion pulmonaire de 7 cm au niveau du lobe inférieur
+T16	topographie 950 960	pulmonaire
+T17	topographie 982 996	lobe inférieur
+T18	morphologie 1012 1037	conglomérat adénopathique
+T19	expression_CIM 1012 1052	conglomérat adénopathique sous-carénaire
+T20	topographie 1038 1052	sous-carénaire
+T21	morphologie 1475 1480	masse
+T22	expression_CIM 1475 1491	masse pulmonaire
+T23	topographie 1481 1491	pulmonaire
+T24	expression_CIM 1632 1638	lésion
+T25	morphologie 1632 1638	lésion
+T26	morphologie 1729 1743	tumeur maligne
+T27	expression_CIM 1729 1763	tumeur maligne très indifférenciée
+T28	differenciation 1749 1763	indifférenciée
+T29	expression_CIM 1914 1919	masse
+T30	morphologie 1914 1919	masse
+T31	expression_CIM 1974 1999	conglomérat adénopathique
+T32	morphologie 1974 1999	conglomérat adénopathique
+T33	morphologie 2294 2299	masse
+T34	expression_CIM 2294 2310	masse pulmonaire
+T35	topographie 2300 2310	pulmonaire
+T36	morphologie 2317 2342	conglomérat adénopathique
+T37	expression_CIM 2317 2357	conglomérat adénopathique sous-carénaire
+T38	topographie 2343 2357	sous-carénaire
+T39	morphologie 2373 2416	zones d'hypercapture d'origine métastatique
+T40	expression_CIM 2373 2470	zones d'hypercapture d'origine métastatique au niveau de la glande surrénale gauche et de l'iléon
+T41	topographie 2433 2449	glande surrénale
+T42	topographie 2465 2470	iléon
+T43	expression_CIM 2827 2836	métastase
+T44	morphologie 2827 2836	métastase
+T45	expression_CIM 2840 2848	mélanome
+T46	morphologie 2840 2848	mélanome
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C44.9 8720/3
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	8720/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C44.9 8000/1
+#10	ICD-O T10	C44.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C76.1 8000/1
+#13	ICD-O T13	C76.1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C34.3 8000/1;C34.9 8000/1
+#16	ICD-O T16	C34.9
+#17	ICD-O T17	C34.3
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C77.1 8000/1
+#20	ICD-O T20	C76.1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C34.9 8000/1
+#23	ICD-O T23	C34.9
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8000/3
+#27	ICD-O T27	8000/34
+#28	ICD-O T28	4
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C77.9 8000/1
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	C34.9 8000/1
+#35	ICD-O T35	C34.9
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	C77.1 8000/1
+#38	ICD-O T38	C76.1
+#39	ICD-O T39	8000/6
+#40	ICD-O T40	C17.2 8000/6;C74.9 8000/6
+#41	ICD-O T41	C74.9
+#42	ICD-O T42	C17.2
+#43	ICD-O T43	8000/6
+#44	ICD-O T44	8000/6
+#45	ICD-O T45	8720/3
+#46	ICD-O T46	8720/3

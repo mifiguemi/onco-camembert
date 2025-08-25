@@ -1,0 +1,33 @@
+T29	topographie 1985 2000	extrathoracique
+T13	topographie 1009 1022	paroi costale
+T1	morphologie 407 413	cancer
+T53	morphologie 424 446	non à petites cellules
+T3	topographie 417 423	poumon
+T4	morphologie 481 493	adénopathies
+T6	topographie 494 504	axillaires
+T8	morphologie 644 658	masse tumorale
+T10	morphologie 970 986	hypermétabolisme
+T11	morphologie 996 1001	masse
+T14	morphologie 1085 1101	lymphadénopathie
+T18	morphologie 1205 1239	cellules néoplasiques épithéliales
+T19	morphologie 1259 1268	carcinome
+T21	topographie 1279 1289	pulmonaire
+T22	morphologie 1517 1531	adénocarcinome
+T24	topographie 1542 1552	pulmonaire
+T26	morphologie 1612 1630	cellules tumorales
+T27	morphologie 1975 1984	métastase
+T31	morphologie 2649 2682	progression de la tumeur primaire
+T32	morphologie 3295 3300	masse
+T34	topographie 3305 3316	tissus mous
+T36	morphologie 3358 3364	tumeur
+T37	morphologie 3388 3402	adénocarcinome
+T39	topographie 3406 3412	poumon
+T41	morphologie 4207 4221	masse tumorale
+T43	morphologie 4252 4271	lésion métastatique
+T44	morphologie 4987 4993	tumeur
+T46	topographie 4994 5001	costale
+T47	morphologie 5010 5018	atteinte
+T49	topographie 5022 5037	muscle serratus
+T50	morphologie 5065 5072	lésions
+T52	topographie 5077 5088	tissus mous
+T16	topographie 1110 1126	région axillaire

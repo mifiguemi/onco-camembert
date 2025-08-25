@@ -1,0 +1,24 @@
+T32	topographie 2293 2343	adjacente à l'infundibulum de la vésicule biliaire
+T11	topographie 925 965	canal biliaire commun hépatique proximal
+T22	topographie 1252 1266	extrahépatique
+T27	topographie 1554 1568	extrahépatique
+T4	topographie 612 648	infundibulum de la vésicule biliaire
+T1	morphologie 567 573	lésion
+T3	topographie 594 608	canal cystique
+T5	topographie 655 684	canal biliaire intrahépatique
+T6	morphologie 759 765	lésion
+T8	topographie 766 775	hépatique
+T9	morphologie 905 911	lésion
+T12	morphologie 975 987	infiltration
+T14	topographie 994 1011	vésicule biliaire
+T17	morphologie 1099 1113	adénocarcinome
+T19	morphologie 1201 1219	maladie à distance
+T20	morphologie 1233 1251	Cholangiocarcinome
+T24	morphologie 1432 1438	lésion
+T25	morphologie 1535 1553	cholangiocarcinome
+T29	morphologie 2197 2222	progression de la maladie
+T30	morphologie 2286 2292	lésion
+T34	morphologie 3381 3398	récidive tumorale
+T36	morphologie 3434 3451	récidive tumorale
+T38	morphologie 3478 3486	récidive
+T15	topographie 1021 1032	veine porte

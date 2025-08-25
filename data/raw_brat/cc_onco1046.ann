@@ -1,0 +1,78 @@
+T1	expression_CIM 975 980	masse
+T2	morphologie 975 980	masse
+T3	morphologie 1401 1406	masse
+T4	expression_CIM 1401 1419	masse médiastinale
+T5	topographie 1407 1419	médiastinale
+T6	expression_CIM 1496 1501	masse
+T7	morphologie 1496 1501	masse
+T8	morphologie 2001 2007	lésion
+T9	expression_CIM 2001 2038	lésion para-aortique rétropéritonéale
+T11	expression_CIM 2390 2397	thymome
+T12	morphologie 2390 2397	thymome
+T13	morphologie 2611 2616	masse
+T14	expression_CIM 2611 2629	masse médiastinale
+T15	topographie 2617 2629	médiastinale
+T16	morphologie 2809 2818;2834 2856	carcinome non à petites cellules
+T17	expression_CIM 2809 2856	carcinome indifférencié, non à petites cellules
+T18	differenciation 2819 2832	indifférencié
+T19	morphologie 3143 3152	carcinome
+T20	expression_CIM 3143 3161	carcinome thymique
+T21	topographie 3153 3161	thymique
+T22	morphologie 3215 3224	Carcinome
+T23	expression_CIM 3215 3233	Carcinome thymique
+T24	topographie 3225 3233	thymique
+T25	expression_CIM 3237 3245	stade IV
+T26	morphologie 3237 3245	stade IV
+T27	morphologie 3292 3300	atteinte
+T28	expression_CIM 3292 3317	atteinte rétropéritonéale
+T29	topographie 3301 3317	rétropéritonéale
+T30	morphologie 4033 4038	masse
+T31	expression_CIM 4033 4051	masse médiastinale
+T32	topographie 4039 4051	médiastinale
+T33	morphologie 4132 4140	atteinte
+T34	expression_CIM 4132 4157	atteinte rétropéritonéale
+T35	topographie 4141 4157	rétropéritonéale
+T36	morphologie 4329 4337	invasion
+T37	expression_CIM 4329 4365	invasion de la veine cave supérieure
+T38	topographie 4344 4365	veine cave supérieure
+T39	expression_CIM 4773 4800	stabilisation de la maladie
+T40	morphologie 4773 4800	stabilisation de la maladie
+T10	topographie 2008 2038	para-aortique rétropéritonéale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C38.3 8000/1
+#5	ICD-O T5	C38.3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T11	8580/1
+#10	ICD-O T12	8580/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C38.3 8000/1
+#13	ICD-O T15	C38.3
+#14	ICD-O T16	8046/3
+#15	ICD-O T17	8046/34
+#16	ICD-O T18	4
+#17	ICD-O T19	8010/3
+#18	ICD-O T20	C37.9 8010/3
+#19	ICD-O T21	C37.9
+#20	ICD-O T22	8010/3
+#21	ICD-O T23	C37.9 8010/3
+#22	ICD-O T24	C37.9
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	C48.0 8000/1
+#27	ICD-O T29	C48.0
+#28	ICD-O T30	8000/1
+#29	ICD-O T31	C38.3 8000/1
+#30	ICD-O T32	C38.3
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	C48.0 8000/1
+#33	ICD-O T35	C48.0
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	C49.3 8000/1
+#36	ICD-O T38	C49.3
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	8000/6

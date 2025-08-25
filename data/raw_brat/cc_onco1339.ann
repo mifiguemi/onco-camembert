@@ -1,0 +1,119 @@
+T1	morphologie 145 151	lésion
+T2	expression_CIM 145 172	lésion papuloïde sur le dos
+T3	topographie 169 172	dos
+T4	expression_CIM 357 381	carcinome basocellulaire
+T5	morphologie 357 381	carcinome basocellulaire
+T6	morphologie 979 985	lésion
+T7	expression_CIM 979 1000	lésion paravertébrale
+T8	topographie 986 1000	paravertébrale
+T9	morphologie 1138 1145	Lésions
+T10	expression_CIM 1138 1271	Lésions lytiques similaires à l'arc postérieur de la 6e côte, à l'arc postérieur de la 8e côte et à l'arc latéral des 9e et 10e côtes
+T11	topographie 1194 1198	côte
+T12	topographie 1228 1232	côte
+T13	topographie 1266 1271	côtes
+T14	expression_CIM 1352 1359	nodules
+T15	morphologie 1352 1359	nodules
+T16	morphologie 1409 1421	adénopathies
+T17	expression_CIM 1409 1498	adénopathies dans le hile pulmonaire droit et les ganglions lymphatiques péri-œsophagiens
+T18	topographie 1430 1445	hile pulmonaire
+T19	topographie 1459 1498	ganglions lymphatiques péri-œsophagiens
+T20	morphologie 1579 1585	masses
+T21	expression_CIM 1579 1600	masses de tissus mous
+T22	topographie 1589 1600	tissus mous
+T23	morphologie 1616 1622	lésion
+T24	expression_CIM 1616 1630	lésion osseuse
+T25	topographie 1623 1630	osseuse
+T26	morphologie 1751 1758	lésions
+T27	expression_CIM 1751 1815	lésions osseuses scintigraphiques dans les 6e et 8e arcs costaux
+T28	topographie 1759 1767	osseuses
+T29	topographie 1803 1815	arcs costaux
+T30	morphologie 1898 1904	lésion
+T31	expression_CIM 1898 1920	lésion des tissus mous
+T32	topographie 1909 1920	tissus mous
+T33	expression_CIM 1923 1932	métastase
+T34	morphologie 1923 1932	métastase
+T35	expression_CIM 1938 1947	carcinome
+T36	morphologie 1938 1947	carcinome
+T37	expression_CIM 2006 2030	carcinome basocellulaire
+T38	morphologie 2006 2030	carcinome basocellulaire
+T39	morphologie 2044 2053	Métastase
+T40	expression_CIM 2044 2114	Métastase d'un carcinome basocellulaire (CBC), au niveau paravertébral
+T41	morphologie 2059 2083	carcinome basocellulaire
+T42	expression_CIM 2059 2088	carcinome basocellulaire (CBC
+T43	morphologie 2085 2088	CBC
+T45	morphologie 2142 2147	masse
+T46	expression_CIM 2142 2335	masse des tissus mous, pleuro-pulmonaire (nodules entre 5 et 15 mm, en plus de l'épanchement pleural), ganglionnaire (adénopathies dans le hile pulmonaire droit et péri-œsophagienne) et osseuse
+T47	topographie 2165 2182	pleuro-pulmonaire
+T48	expression_CIM 2184 2191	nodules
+T49	morphologie 2184 2191	nodules
+T50	topographie 2245 2258	ganglionnaire
+T51	morphologie 2260 2272	adénopathies
+T52	expression_CIM 2260 2323	adénopathies dans le hile pulmonaire droit et péri-œsophagienne
+T53	topographie 2281 2296	hile pulmonaire
+T55	topographie 2328 2335	osseuse
+T56	morphologie 2337 2344	lésions
+T57	expression_CIM 2337 2379	lésions lytiques des 6e et 8e arcs costaux
+T58	topographie 2367 2379	arcs costaux
+T59	morphologie 2750 2757	maladie
+T60	expression_CIM 2750 2794	maladie pulmonaire, ganglionnaire et osseuse
+T61	topographie 2758 2768	pulmonaire
+T62	topographie 2770 2783	ganglionnaire
+T63	topographie 2787 2794	osseuse
+T44	topographie 2101 2114	paravertébral
+T54	topographie 2306 2323	péri-œsophagienne
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.7 8000/1
+#3	ICD-O T3	C76.7
+#4	ICD-O T4	8090/3
+#5	ICD-O T5	8090/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C76.9 8000/1
+#8	ICD-O T8	C76.9
+#9	ICD-O T9	8000/1
+#10	ICD-O T11	C41.3
+#11	ICD-O T12	C41.3
+#12	ICD-O T13	C41.3
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C77.1 8000/1
+#17	ICD-O T18	C34.0
+#18	ICD-O T19	C77.1
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C49.9 8000/1
+#21	ICD-O T22	C49.9
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	C41.9 8000/1
+#24	ICD-O T25	C41.9
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C41.3 8000/1;C41.9 8000/1
+#27	ICD-O T28	C41.9
+#28	ICD-O T29	C41.3
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C49.9 8000/1
+#31	ICD-O T32	C49.9
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	8010/3
+#35	ICD-O T36	8010/3
+#36	ICD-O T37	8090/3
+#37	ICD-O T38	8090/3
+#38	ICD-O T39	8000/6
+#39	ICD-O T41	8090/3
+#40	ICD-O T43	8090/3
+#41	ICD-O T45	8000/1
+#42	ICD-O T46	C49.9 8000/1;C76.1 8000/1;C77.9 8000/1
+#43	ICD-O T47	C76.1
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	C77.9
+#47	ICD-O T51	8000/1
+#48	ICD-O T53	C34.0
+#49	ICD-O T55	C41.9
+#50	ICD-O T56	8000/1
+#51	ICD-O T57	C41.3 8000/1
+#52	ICD-O T58	C41.3
+#53	ICD-O T59	8000/9
+#54	ICD-O T61	C34.9
+#55	ICD-O T62	C77.9
+#56	ICD-O T63	C41.9

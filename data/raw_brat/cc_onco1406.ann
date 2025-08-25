@@ -1,0 +1,62 @@
+T1	morphologie 732 737	masse
+T2	expression_CIM 732 761	masse au niveau du lobe moyen
+T3	topographie 751 761	lobe moyen
+T4	morphologie 881 893	Adénopathies
+T5	expression_CIM 881 991	Adénopathies médiastinales (paratrachéales, aortiques et sous-carénaires) et rétropéritonéales (para-aortiques
+T6	topographie 894 907	médiastinales
+T7	topographie 909 923	paratrachéales
+T8	topographie 925 934	aortiques
+T9	topographie 938 953	sous-carénaires
+T10	topographie 958 975	rétropéritonéales
+T11	topographie 977 991	para-aortiques
+T12	morphologie 1156 1165;1177 1199	carcinome non à petites cellules
+T13	expression_CIM 1156 1199	carcinome pulmonaire non à petites cellules
+T14	topographie 1166 1176	pulmonaire
+T15	morphologie 1213 1222;1234 1256	Carcinome non à petites cellules
+T16	expression_CIM 1213 1256	Carcinome pulmonaire non à petites cellules
+T17	topographie 1223 1233	pulmonaire
+T18	expression_CIM 1260 1268	stade IV
+T19	morphologie 1260 1268	stade IV
+T20	morphologie 1284 1292	atteinte
+T21	expression_CIM 1284 1363	atteinte des ganglions lymphatiques pleuraux, péricardiques et rétropéritonéaux
+T22	topographie 1297 1363	ganglions lymphatiques pleuraux, péricardiques et rétropéritonéaux
+T23	morphologie 2018 2025	lésions
+T24	expression_CIM 2018 2039	lésions médiastinales
+T25	topographie 2026 2039	médiastinales
+T26	morphologie 2045 2050	masse
+T27	expression_CIM 2045 2061	masse pulmonaire
+T28	topographie 2051 2061	pulmonaire
+T29	morphologie 2614 2639	progression de la maladie
+T30	expression_CIM 2614 2746	progression de la maladie au niveau des ganglions lymphatiques médiastinaux et rétropéritonéaux, pulmonaires, pleuraux et hépatiques
+T31	topographie 2654 2746	ganglions lymphatiques médiastinaux et rétropéritonéaux, pulmonaires, pleuraux et hépatiques
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.2 8000/1
+#3	ICD-O T3	C34.2
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.1 8000/1
+#6	ICD-O T6	C38.3
+#7	ICD-O T7	C33.9
+#8	ICD-O T8	C49.3
+#9	ICD-O T9	C76.1
+#10	ICD-O T10	C48.0
+#11	ICD-O T11	C49.4
+#12	ICD-O T12	8046/3
+#13	ICD-O T13	C34.9 8046/3
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	8046/3
+#16	ICD-O T16	C34.9 8046/3
+#17	ICD-O T17	C34.9
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C77.1 8000/1;C77.2 8000/1
+#22	ICD-O T22	C77.1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C38.3 8000/1
+#25	ICD-O T25	C38.3
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C34.9 8000/1
+#28	ICD-O T28	C34.9
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C22.0 8000/1;C34.9 8000/1;C38.4 8000/1;C77.1 8000/1;C77.2 8000/1
+#31	ICD-O T31	C77.1 
