@@ -2,7 +2,6 @@ T30	topographie 3950 3982	cortico-sous-corticale pariétale
 T9	topographie 386 433	ganglionnaire médiastinale et supraclaviculaire
 T2	morphologie 178 187	néoplasie
 T3	morphologie 340 354	adénocarcinome
-T5	stadeTNM 355 361	T4N3M0
 T6	topographie 365 371	poumon
 T7	morphologie 377 385	atteinte
 T10	morphologie 1214 1220	nodule

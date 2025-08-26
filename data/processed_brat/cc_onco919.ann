@@ -2,7 +2,6 @@ T38	topographie 4059 4084	pôle supérieur de la rate
 T2	morphologie 375 389	adénocarcinome
 T3	morphologie 391 394	ADC
 T5	topographie 399 405	poumon
-T6	stadeTNM 406 412	pT2pN0
 T7	topographie 416 419	LSD
 T9	morphologie 558 566	récidive
 T10	morphologie 568 571	ADC

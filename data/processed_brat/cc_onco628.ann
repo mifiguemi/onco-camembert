@@ -19,7 +19,6 @@ T30	morphologie 2506 2526	carcinome urothélial
 T31	morphologie 2842 2848	cancer
 T33	topographie 2854 2860	urètre
 T34	differenciation 2864 2874	haut grade
-T35	stadeTNM 2884 2887	pT3
 T36	topographie 2896 2900	rein
 T37	morphologie 2912 2920	invasion
 T39	topographie 2921 2939	vasculolymphatique

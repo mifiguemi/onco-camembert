@@ -199,12 +199,12 @@ def dataset_generator(data_files):
     if isinstance(data_files, pathlib.PurePath) : 
         data_files = str(data_files)
     dataset = load_dataset("csv", data_files=data_files)
-    label_list = ["O", "B-morphologie", "I-morphologie", "B-topographie", "I-topographie", "B-differenciation", "I-differenciation", "B-stadeTNM", "I-stadeTNM"]
+    label_list = ["O", "B-morphologie", "I-morphologie", "B-topographie", "I-topographie", "B-differenciation", "I-differenciation"]
     dataset = dataset.map(convert_string_to_list)
     dataset = dataset.map(lambda row: convert_tag_to_id(row, label_list))
     features = Features({
         "words": Sequence(Value("string")),
-        "tags": Sequence(ClassLabel(num_classes=9, names=label_list))
+        "tags": Sequence(ClassLabel(num_classes=len(label_list), names=label_list))
         })
     dataset = dataset.cast(features)
     return dataset
@@ -349,36 +349,47 @@ def compute_objective(m, label_list):
 
 
 def compute_metrics(eval_pred, label_list, ignore_index=-100, _np=np, _seqeval=seqeval):
-    ENTITIES = sorted({lab.split("-", 1)[-1] for lab in label_list if lab != "O"})
-    # be tolerant to EvalPrediction vs tuple
+    # tolerant to EvalPrediction vs tuple
     logits = getattr(eval_pred, "predictions", eval_pred[0])
     labels = getattr(eval_pred, "label_ids",     eval_pred[1])
+
     if isinstance(logits, torch.Tensor): logits = logits.detach().float().cpu().numpy()
     if isinstance(labels, torch.Tensor): labels = labels.detach().cpu().numpy()
 
-    preds = np.argmax(logits, axis=-1)
-    mask  = labels != ignore_index
     id2label = dict(enumerate(label_list))
-    preds_str  = [[id2label[p] for p,m in zip(ps, ms) if m] for ps, ms in zip(preds, mask)]
-    labels_str = [[id2label[l] for l,m in zip(ls, ms) if m] for ls, ms in zip(labels, mask)]
+    preds = _np.argmax(logits, axis=-1)
+    mask  = labels != ignore_index
 
-    rep = seqeval.compute(predictions=preds_str, references=labels_str, zero_division=0)
+    preds_str  = [[id2label[int(p)] for p, m in zip(ps, ms) if m] for ps, ms in zip(preds,  mask)]
+    labels_str = [[id2label[int(l)] for l, m in zip(ls, ms) if m] for ls, ms in zip(labels, mask)]
 
+    # Guard 1: drop empty sequences
+    pairs = [(p, r) for p, r in zip(preds_str, labels_str) if len(r) > 0]
+    if not pairs:
+        return {
+            "f1": 0.0, "precision": 0.0, "recall": 0.0, "accuracy": 0.0
+        }
 
-    # overall metrics
+    preds_str, labels_str = zip(*pairs)
+    preds_str, labels_str = list(preds_str), list(labels_str)
+
+    rep = _seqeval.compute(predictions=preds_str, references=labels_str, zero_division=0)
+
     metrics = {
-        "f1":        rep["overall_f1"],
-        "precision": rep["overall_precision"],
-        "recall":    rep["overall_recall"],
-        "accuracy":  rep["overall_accuracy"],
+        "f1":        rep.get("overall_f1", 0.0),
+        "precision": rep.get("overall_precision", 0.0),
+        "recall":    rep.get("overall_recall", 0.0),
+        "accuracy":  rep.get("overall_accuracy", 0.0),
     }
-    # per-entity; fill zeros for entities missing in `rep`
-    for ent in ENTITIES:
+
+    entities = sorted({lab.split("-", 1)[-1] for lab in label_list if lab != "O"})
+    for ent in entities:
         stats = rep.get(ent, {"f1": 0.0, "precision": 0.0, "recall": 0.0, "number": 0})
-        metrics[f"f1/{ent}"]        = stats["f1"]
-        metrics[f"precision/{ent}"] = stats["precision"]
-        metrics[f"recall/{ent}"]    = stats["recall"]
+        metrics[f"f1/{ent}"]        = stats.get("f1", 0.0)
+        metrics[f"precision/{ent}"] = stats.get("precision", 0.0)
+        metrics[f"recall/{ent}"]    = stats.get("recall", 0.0)
         metrics[f"support/{ent}"]   = stats.get("number", 0)
 
     return metrics
+
 

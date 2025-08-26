@@ -2,7 +2,6 @@ T2	topographie 99 107	mammaire
 T3	morphologie 108 115	maligne
 T96	morphologie 89 98	néoplasie
 T4	morphologie 192 222	carcinome canalaire infiltrant
-T6	stadeTNM 249 258	cT1cN2aM0
 T7	topographie 278 282	sein
 T9	morphologie 362 371	métastase
 T11	morphologie 375 395	carcinome infiltrant

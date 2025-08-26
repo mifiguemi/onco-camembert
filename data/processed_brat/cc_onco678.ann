@@ -14,7 +14,6 @@ T20	topographie 1052 1056	sein
 T22	morphologie 1090 1096	lésion
 T24	morphologie 1155 1185	carcinome canalaire infiltrant
 T25	morphologie 1315 1345	carcinome canalaire infiltrant
-T27	stadeTNM 1346 1354	pT1bN0M0
 T28	differenciation 1359 1368	grade III
 T29	morphologie 1870 1891	image pseudonodulaire
 T31	topographie 1905 1908	LID

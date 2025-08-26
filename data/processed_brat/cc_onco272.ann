@@ -10,7 +10,6 @@ T12	morphologie 1201 1207	tumeur
 T14	differenciation 1303 1321	grade 2 de Fuhrman
 T15	morphologie 1458 1464	tumeur
 T18	morphologie 1519 1548	carcinome du canal collecteur
-T20	stadeTNM 1549 1553	pT3b
 T21	differenciation 1555 1573	grade 2 de Fuhrman
 T22	morphologie 1800 1825	progression de la maladie
 T24	topographie 1836 1846	péritonéal

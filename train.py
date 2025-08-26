@@ -9,7 +9,6 @@ from transformers import (AutoTokenizer, DataCollatorForTokenClassification,
                           Trainer, EarlyStoppingCallback, set_seed) 
 from utils import (dataset_generator, get_tokenize_and_align_labels_fn, 
                        compute_metrics, build_token_cls, hp_space, compute_objective)
-from IPython.display import display
 import evaluate
 import json
 import argparse
@@ -30,6 +29,7 @@ parser.add_argument(
     help="Choose a model name from the available options."
 )
 parsargs = parser.parse_args()
+
 
 # If not provided, prompt interactively
 if parsargs.dir_model_name is None:
@@ -159,8 +159,8 @@ model_init = partial(
     label2id
 )
 
-seeds = [11]
-# seeds = [11, 22, 33, 44, 55] # should i make this random?
+# seeds = [11]
+seeds = [11, 22, 33, 44, 55] # should i make this random?
 val_results, test_results = [], []
 
 for s in seeds:

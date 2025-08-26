@@ -1,9 +1,9 @@
 # ignore model binaries and weights
 models/
 hidden_utils/
+preprocess_and_split.py
 
 .DS_Store
 .env/
 
 **/checkpoint-*/
-data/brat_format_inference.zip

@@ -28,7 +28,6 @@ T39	morphologie 3050 3059	carcinome
 T41	morphologie 3079 3093	adénocarcinome
 T42	morphologie 3160 3174	adénocarcinome
 T44	topographie 3175 3185	pulmonaire
-T45	stadeTNM 3200 3206	T3N0M0
 T46	topographie 3216 3230	lobe supérieur
 T47	morphologie 3246 3252	tumeur
 T51	morphologie 3502 3509	lésions
@@ -87,7 +86,6 @@ T130	morphologie 6768 6783	adénocarcinomes
 T132	topographie 6804 6807	LII
 T133	morphologie 6811 6814	ADC
 T135	topographie 6815 6825	pulmonaire
-T136	stadeTNM 6826 6832	T3N0M0
 T137	topographie 6878 6881	LSD
 T138	morphologie 6885 6888	ADC
 T140	topographie 6889 6899	pulmonaire
@@ -111,7 +109,6 @@ T168	morphologie 10816 10831	adénocarcinomes
 T170	topographie 10832 10843	pulmonaires
 T171	topographie 10916 10922	poumon
 T173	morphologie 10945 10958	ADC lépidique
-T174	stadeTNM 10974 10980	T4N2M0
 T175	morphologie 11025 11028	ADC
 T177	topographie 11029 11039	pulmonaire
 T179	morphologie 11146 11153	tumeurs

@@ -1,7 +1,6 @@
 T1	morphologie 112 118	nodule
 T3	topographie 127 131	sein
 T4	morphologie 147 177	carcinome canalaire infiltrant
-T6	stadeTNM 178 187	pT1cpN0M0
 T7	differenciation 188 196	grade II
 T9	morphologie 587 594	lésions
 T11	morphologie 695 703	récidive
@@ -11,7 +10,6 @@ T16	morphologie 1205 1220	récidive locale
 T17	morphologie 1833 1839	tumeur
 T19	topographie 1848 1852	sein
 T20	morphologie 1869 1872	IDC
-T22	stadeTNM 1873 1879	pT2pN1
 T23	differenciation 1880 1888	grade II
 T25	morphologie 2003 2011	récidive
 T27	morphologie 2135 2150	récidive locale

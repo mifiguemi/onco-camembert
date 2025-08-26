@@ -46,7 +46,6 @@ T68	morphologie 2638 2658	carcinome sécrétoire
 T70	morphologie 2673 2681	invasion
 T72	topographie 2682 2692	vasculaire
 T73	topographie 2696 2707	lymphatique
-T74	stadeTNM 2762 2769	ypT1pN0
 T75	differenciation 2778 2804	Grade 3 selon Miller Payne
 T77	morphologie 3619 3630	progression
 T79	morphologie 3645 3653	primitif

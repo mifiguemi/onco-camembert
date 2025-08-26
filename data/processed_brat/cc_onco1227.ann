@@ -5,7 +5,6 @@ T6	topographie 294 305	pulmonaires
 T7	morphologie 518 527	carcinome
 T89	morphologie 534 552	à cellules claires
 T9	topographie 528 533	rénal
-T10	stadeTNM 553 561	pT3aNxMx
 T11	differenciation 563 580	Grade nucléaire 3
 T13	morphologie 624 632	invasion
 T14	morphologie 653 659	tumeur

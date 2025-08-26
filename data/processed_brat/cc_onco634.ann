@@ -2,7 +2,6 @@ T44	topographie 2122 2145	périhépatique inférieur
 T1	morphologie 392 398	lésion
 T3	topographie 399 405	rénale
 T4	morphologie 491 519	carcinome à cellules claires
-T6	stadeTNM 530 538	pT1pN0M0
 T7	differenciation 540 559	grade IV de Fuhrman
 T8	morphologie 597 602	masse
 T10	topographie 606 615	tissu mou
