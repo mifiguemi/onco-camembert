@@ -78,7 +78,7 @@ TEST_CSV_FILE  = PROJECT_ROOT / "data/csv_data/ner_sentences_test.csv"
 
 # Create output directories
 OUTPUT_DIR = PROJECT_ROOT / "runs/final_best" / f"{dir_model_name}_{datetime.now().strftime('%Y-%m-%d_%H-%M')}"
-MODEL_SAVE_PATH = PROJECT_ROOT / "models" / dir_model_name
+MODEL_SAVE_PATH = PROJECT_ROOT / "models" / f"{dir_model_name}_2"
 
 for p in [OUTPUT_DIR, MODEL_SAVE_PATH]:
     p.mkdir(parents=True, exist_ok=True)
@@ -110,13 +110,18 @@ cfg = {
     "model_name": model_name,
     "seed_list": [11, 22, 33, 44, 55],
     "training_args": {
-        "num_train_epochs": 5,
+        # "num_train_epochs": 5,
+        "num_train_epochs": 7,
         "per_device_train_batch_size": 4,
         "per_device_eval_batch_size": 4,
-        "gradient_accumulation_steps": 2,
-        "learning_rate": 5e-5,
-        "weight_decay": 0.01,
-        "warmup_ratio": 0.1,
+        # "gradient_accumulation_steps": 2,
+        "gradient_accumulation_steps": 1,
+        # "learning_rate": 5e-5,
+        "learning_rate": 3.894793689386536e-5,
+        # "weight_decay": 0.01,
+        "weight_decay" : 0.08061743396237347,
+        # "warmup_ratio": 0.1,
+        "warmup_ratio": 0.13860985884866567,
         "logging_dir": "logs",
         "logging_steps": 100,           # log every N steps
         "report_to": ["tensorboard"],   # log to TensorBoard
@@ -130,6 +135,7 @@ cfg = {
         "remove_unused_columns": True,  # remove columns not used by the model
     }
 }
+
 
 
 # Load tokenizer and model
@@ -159,7 +165,6 @@ model_init = partial(
     label2id
 )
 
-# seeds = [11]
 seeds = [11, 22, 33, 44, 55] # should i make this random?
 val_results, test_results = [], []
 
@@ -185,6 +190,7 @@ for s in seeds:
     val_metrics = trainer.evaluate() # metrics on validation split per seed 
     val_metrics["seed"] = s
     val_results.append(val_metrics)
+    print(f"seed {s}: trained_epochs={trainer.state.epoch}")
 
     # metrics on test set per seed 
     test_metrics = trainer.evaluate(eval_dataset=tokenized_test_dataset["train"])
@@ -193,6 +199,8 @@ for s in seeds:
 
     # Save the final model
     seed_dir = MODEL_SAVE_PATH / f"seed_{s}"
+    if seed_dir.exists():
+        raise SystemExit(f"{seed_dir} already exists; aborting to avoid overwrite.")
     seed_dir.mkdir(parents=True, exist_ok=True)
     trainer.save_model(seed_dir)  # saves model + config + tokenizer
 
