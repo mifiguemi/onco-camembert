@@ -1,0 +1,63 @@
+T16	topographie 1465 1472	iliaque
+T17	topographie 1488 1495	iliaque
+T14	morphologie 1439 1456	microadénopathies
+T1	expression_CIM 236 242	cancer
+T2	morphologie 236 242	cancer
+T3	expression_CIM 699 704	masse
+T4	morphologie 699 704	masse
+T5	morphologie 878 884	tumeur
+T6	expression_CIM 878 918	tumeur palpable dans l'introitus vaginal
+T7	topographie 901 918	introitus vaginal
+T8	morphologie 1255 1261	tumeur
+T9	expression_CIM 1255 1270	tumeur vulvaire
+T10	topographie 1262 1270	vulvaire
+T11	morphologie 1283 1291	atteinte
+T12	expression_CIM 1283 1314	atteinte de l'introitus vaginal
+T13	topographie 1297 1314	introitus vaginal
+T15	expression_CIM 1439 1495	microadénopathies de 5 mm iliaque droite et 7 mm iliaque
+T18	expression_CIM 1639 1671	lésions métastatiques à distance
+T19	morphologie 1639 1671	lésions métastatiques à distance
+T20	morphologie 1718 1730	adénopathies
+T21	expression_CIM 1718 1757	adénopathies subcentimétriques iliaques
+T22	topographie 1749 1757	iliaques
+T23	morphologie 1790 1796	tumeur
+T24	expression_CIM 1790 1805	tumeur vulvaire
+T25	topographie 1797 1805	vulvaire
+T26	morphologie 1919 1933	adénocarcinome
+T27	expression_CIM 1919 1956	adénocarcinome modérément différencié
+T28	differenciation 1934 1956	modérément différencié
+T29	morphologie 2902 2916	adénocarcinome
+T30	expression_CIM 2902 2951	adénocarcinome modérément différencié de l'urètre
+T31	differenciation 2917 2939	modérément différencié
+T32	topographie 2945 2951	urètre
+T33	expression_CIM 3634 3656	récidive de la maladie
+T34	morphologie 3634 3656	récidive de la maladie
+#1	ICD-O T14	8000/1
+#2	ICD-O T1	8000/3
+#3	ICD-O T2	8000/3
+#4	ICD-O T3	8000/1
+#5	ICD-O T4	8000/1
+#6	ICD-O T5	8000/1
+#7	ICD-O T6	C52.9 8000/1
+#8	ICD-O T7	C52.9
+#9	ICD-O T8	8000/1
+#10	ICD-O T9	C51.9 8000/1
+#11	ICD-O T10	C51.9
+#12	ICD-O T11	8000/1
+#13	ICD-O T12	C52.9 8000/1
+#14	ICD-O T13	C52.9
+#15	ICD-O T19	8000/6
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	C77.5 8000/1
+#18	ICD-O T22	C41.4
+#19	ICD-O T23	8000/1
+#20	ICD-O T24	C51.9 8000/1
+#21	ICD-O T25	C51.9
+#22	ICD-O T26	8140/3
+#23	ICD-O T27	8140/32
+#24	ICD-O T28	2
+#25	ICD-O T29	8140/3
+#26	ICD-O T30	C68.0 8140/32
+#27	ICD-O T31	2
+#28	ICD-O T32	C68.0
+#29	ICD-O T34	8000/9

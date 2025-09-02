@@ -1,0 +1,84 @@
+T3	topographie 624 630	clivus
+T20	topographie 2084 2090	clivus
+T28	topographie 2253 2264	corps de C1
+T1	morphologie 594 600	lésion
+T2	expression_CIM 594 630	lésion expansive au niveau du clivus
+T4	expression_CIM 644 652	chordome
+T5	morphologie 644 652	chordome
+T6	expression_CIM 845 853	chordome
+T7	morphologie 845 853	chordome
+T8	expression_CIM 941 947	tumeur
+T9	morphologie 941 947	tumeur
+T10	expression_CIM 1266 1274	récidive
+T11	morphologie 1266 1274	récidive
+T12	expression_CIM 1454 1460	tumeur
+T13	morphologie 1454 1460	tumeur
+T14	expression_CIM 1690 1706	reliquat tumoral
+T15	morphologie 1690 1706	reliquat tumoral
+T16	expression_CIM 1775 1791	reliquat tumoral
+T17	morphologie 1775 1791	reliquat tumoral
+T18	morphologie 2063 2069	tumeur
+T19	expression_CIM 2063 2109	tumeur infiltrant le clivus et le rhinopharynx
+T22	morphologie 2129 2138	extension
+T23	expression_CIM 2129 2169	extension rétropharyngée au niveau de C3
+T24	topographie 2139 2153	rétropharyngée
+T25	topographie 2167 2169	C3
+T26	morphologie 2237 2249	infiltration
+T27	expression_CIM 2237 2264	infiltration du corps de C1
+T29	morphologie 2551 2562	progression
+T30	expression_CIM 2551 2588	progression des os et des tissus mous
+T31	topographie 2567 2569	os
+T32	topographie 2577 2588	tissus mous
+T33	morphologie 3438 3444	lésion
+T34	expression_CIM 3438 3462	lésion infiltrante de C2
+T35	topographie 3460 3462	C2
+T36	morphologie 3468 3476	atteinte
+T37	expression_CIM 3468 3492	atteinte des tissus mous
+T38	topographie 3481 3492	tissus mous
+T39	morphologie 4391 4399	chordome
+T40	expression_CIM 4391 4409	chordome du clivus
+T41	morphologie 4533 4538	masse
+T42	expression_CIM 4533 4553	masse rétropharyngée
+T43	topographie 4539 4553	rétropharyngée
+T44	morphologie 4728 4733	masse
+T45	expression_CIM 4728 4748	masse rétropharyngée
+T46	topographie 4734 4748	rétropharyngée
+T21	topographie 2097 2109	rhinopharynx
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	9370/3
+#3	ICD-O T5	9370/3
+#4	ICD-O T6	9370/3
+#5	ICD-O T7	9370/3
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	8000/6
+#9	ICD-O T11	8000/6
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/3
+#13	ICD-O T15	8000/3
+#14	ICD-O T16	8000/3
+#15	ICD-O T17	8000/3
+#16	ICD-O T18	8000/1
+#17	ICD-O T22	8000/6
+#18	ICD-O T23	C14.0 8000/6;C41.2 8000/6
+#19	ICD-O T24	C14.0
+#20	ICD-O T25	C41.2
+#21	ICD-O T26	8000/1
+#22	ICD-O T27	C41.2 8000/1
+#23	ICD-O T29	8000/6
+#24	ICD-O T30	C41.9 8000/6;C49.9 8000/6
+#25	ICD-O T31	C41.9
+#26	ICD-O T32	C49.9
+#27	ICD-O T33	8000/1
+#28	ICD-O T35	C41.2
+#29	ICD-O T36	8000/1
+#30	ICD-O T37	C49.9 8000/1
+#31	ICD-O T38	C49.9
+#32	ICD-O T39	9370/3
+#33	ICD-O T41	8000/1
+#34	ICD-O T42	C14.0 8000/1
+#35	ICD-O T43	C14.0
+#36	ICD-O T44	8000/1
+#37	ICD-O T45	C14.0 8000/1
+#38	ICD-O T46	C14.0

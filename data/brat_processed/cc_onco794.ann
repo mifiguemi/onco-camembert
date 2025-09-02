@@ -1,0 +1,25 @@
+T1	morphologie 689 694	masse
+T3	topographie 695 701	rénale
+T4	morphologie 777 786	carcinome
+T6	topographie 787 792	rénal
+T8	morphologie 805 823	maladie à distance
+T9	morphologie 1012 1021	carcinome
+T34	morphologie 1028 1046	à cellules claires
+T11	topographie 1022 1027	rénal
+T12	differenciation 1073 1106	grade nucléaire de Fuhrman III/IV
+T14	morphologie 1262 1279	récidive tumorale
+T15	morphologie 1319 1331	adénopathies
+T17	topographie 1332 1345	médiastinales
+T18	morphologie 1365 1372	nodules
+T20	topographie 1373 1384	pulmonaires
+T21	topographie 1388 1400	surrénaliens
+T22	morphologie 1451 1460	carcinome
+T35	morphologie 1467 1485	à cellules claires
+T24	topographie 1461 1466	rénal
+T26	topographie 2165 2175	pulmonaire
+T27	topographie 2179 2188	hépatique
+T28	morphologie 2831 2842	progression
+T30	topographie 2853 2863	pulmonaire
+T31	topographie 2865 2874	hépatique
+T32	topographie 2876 2887	surrénalien
+T33	topographie 2891 2901	musculaire

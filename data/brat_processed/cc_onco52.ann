@@ -1,0 +1,32 @@
+T16	topographie 1224 1245	espaces prévasculaire
+T2	morphologie 238 244	tumeur
+T3	morphologie 369 386	images nodulaires
+T5	topographie 387 397	inguinales
+T7	morphologie 717 735	séminome classique
+T8	morphologie 776 788	infiltration
+T10	topographie 792 810	cordon spermatique
+T11	morphologie 873 881	invasion
+T13	topographie 882 892	vasculaire
+T14	morphologie 1155 1173	lésions nodulaires
+T17	topographie 1247 1259	paratrachéal
+T18	topographie 1269 1275	crural
+T19	topographie 1279 1288	médiastin
+T20	morphologie 1314 1351	conglomérat de ganglions lymphatiques
+T22	topographie 1352 1368	rétropéritonéaux
+T24	morphologie 1556 1574	Séminome classique
+T26	morphologie 1578 1586	stade IV
+T27	morphologie 1935 1960	conglomérat adénopathique
+T29	topographie 1977 1991	rétropéritoine
+T30	morphologie 2200 2212	adénopathies
+T32	topographie 2213 2227	paratrachéales
+T33	topographie 2237 2252	péribronchiques
+T34	topographie 2267 2282	hile pulmonaire
+T35	morphologie 2607 2616	captation
+T37	topographie 2627 2642	rétropéritonéal
+T40	topographie 2687 2708	supradiaphragmatiques
+T42	morphologie 2959 2969	métastases
+T44	morphologie 2973 2981	séminome
+T46	morphologie 3026 3034	primitif
+T47	morphologie 3055 3076	carcinome épidermoïde
+T49	topographie 3080 3086	poumon
+T38	morphologie 2652 2686	progression métabolique des foyers

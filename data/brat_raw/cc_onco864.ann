@@ -1,0 +1,153 @@
+T50	topographie 2954 2958	anse
+T1	expression_CIM 211 219	mélanome
+T2	morphologie 211 219	mélanome
+T3	morphologie 281 289	mélanome
+T4	expression_CIM 281 309	mélanome cutané sur l'épaule
+T5	topographie 290 296	cutané
+T6	topographie 303 309	épaule
+T7	expression_CIM 440 455	micrométastases
+T8	morphologie 440 455	micrométastases
+T9	expression_CIM 521 527	cancer
+T10	morphologie 521 527	cancer
+T11	expression_CIM 550 558	stade IV
+T12	morphologie 550 558	stade IV
+T13	morphologie 588 598	métastases
+T14	expression_CIM 588 650	métastases pulmonaires dans les lobes inférieurs gauche, moyen
+T15	topographie 599 610	pulmonaires
+T16	topographie 620 636;645 650	lobes inférieurs moyen
+T17	morphologie 676 686	métastases
+T18	expression_CIM 676 765	métastases sous-cutanées (région deltoïde, poplité gauche, genou droit et sous-scapulaire
+T20	expression_CIM 1017 1042	progression de la maladie
+T21	morphologie 1017 1042	progression de la maladie
+T22	morphologie 1089 1096	implant
+T23	expression_CIM 1089 1112	implant rétropéritonéal
+T24	topographie 1097 1112	rétropéritonéal
+T25	morphologie 1129 1136	lésions
+T26	expression_CIM 1129 1150	lésions sous-cutanées
+T27	topographie 1137 1150	sous-cutanées
+T28	morphologie 1455 1462	lésions
+T29	expression_CIM 1455 1486	lésions pulmonaires et cutanées
+T30	topographie 1463 1474	pulmonaires
+T31	topographie 1478 1486	cutanées
+T32	morphologie 2274 2281	lésions
+T33	expression_CIM 2274 2367	lésions cérébrales frontales subcentimétriques dans le lobe frontal gauche et le lobe frontal
+T34	topographie 2282 2302	cérébrales frontales
+T35	topographie 2329 2341	lobe frontal
+T36	topographie 2355 2367	lobe frontal
+T37	expression_CIM 2388 2397	métastase
+T38	morphologie 2388 2397	métastase
+T39	morphologie 2795 2804	métastase
+T40	expression_CIM 2795 2820	métastase intramédullaire
+T41	topographie 2805 2820	intramédullaire
+T42	expression_CIM 2836 2844	mélanome
+T43	morphologie 2836 2844	mélanome
+T44	morphologie 2884 2893	métastase
+T45	expression_CIM 2884 2907	métastase surrénalienne
+T46	topographie 2894 2907	surrénalienne
+T47	morphologie 2921 2928	implant
+T48	expression_CIM 2921 2985	implant mésentérique à côté de l'anse droite de l'intestin grêle
+T49	topographie 2929 2941	mésentérique
+T51	topographie 2971 2985	intestin grêle
+T52	morphologie 2995 3004	métastase
+T53	expression_CIM 2995 3031	métastase dans le corps pancréatique
+T54	topographie 3013 3031	corps pancréatique
+T55	morphologie 3033 3039	Nodule
+T56	expression_CIM 3033 3055	Nodule rétropéritonéal
+T57	topographie 3040 3055	rétropéritonéal
+T58	morphologie 3057 3064	nodules
+T59	expression_CIM 3057 3092	nodules pulmonaires et sous-cutanés
+T60	topographie 3065 3076	pulmonaires
+T61	topographie 3080 3092	sous-cutanés
+T62	morphologie 3193 3203	métastases
+T63	expression_CIM 3193 3220	métastases intramédullaires
+T64	topographie 3204 3220	intramédullaires
+T65	expression_CIM 3250 3339	progression de la maladie aux niveaux cérébral, surrénalien, mésentérique et pancréatique
+T66	topographie 3288 3296	cérébral
+T67	topographie 3298 3309	surrénalien
+T68	topographie 3311 3323	mésentérique
+T69	topographie 3327 3339	pancréatique
+T70	morphologie 4079 4085	lésion
+T71	expression_CIM 4079 4093	lésion spinale
+T72	topographie 4086 4093	spinale
+T73	morphologie 4169 4176	lésions
+T74	expression_CIM 4169 4187	lésions cérébrales
+T75	topographie 4177 4187	cérébrales
+T76	expression_CIM 4550 4575	progression de la maladie
+T77	morphologie 4550 4575	progression de la maladie
+T78	expression_CIM 4845 4866	lésions métastatiques
+T79	morphologie 4845 4866	lésions métastatiques
+T19	topographie 687 726;735 740;750 765	sous-cutanées (région deltoïde, poplité genou sous-scapulaire
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	8720/3
+#3	ICD-O T3	8720/3
+#4	ICD-O T4	C44.6 8720/3
+#5	ICD-O T5	C49 
+#6	ICD-O T6	C76.4
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C34.2 8000/6;C34.3 8000/6;C34.9 8000/6
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	C34.3
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C49.1 8000/6;C49.2 8000/6;C49.3 8000/6
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	C48.0 8000/6
+#23	ICD-O T24	C48.0
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C49.9 8000/1
+#26	ICD-O T27	C49.9
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	C34.9 8000/1;C44.9 8000/1
+#29	ICD-O T30	C34.9
+#30	ICD-O T31	C44.9
+#31	ICD-O T32	8000/1
+#32	ICD-O T34	C71.1
+#33	ICD-O T35	C71.1
+#34	ICD-O T36	C71.1
+#35	ICD-O T37	8000/6
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	C72.0 8000/6
+#39	ICD-O T41	C72.0
+#40	ICD-O T42	8720/3
+#41	ICD-O T43	8720/3
+#42	ICD-O T44	8000/6
+#43	ICD-O T45	C74.9 8000/6
+#44	ICD-O T46	C74.9
+#45	ICD-O T47	8000/6
+#46	ICD-O T49	C48.1
+#47	ICD-O T51	C17.9
+#48	ICD-O T52	8000/6
+#49	ICD-O T53	C25.1 8000/6
+#50	ICD-O T54	C25.1
+#51	ICD-O T55	8000/1
+#52	ICD-O T56	C48.0 8000/1
+#53	ICD-O T57	C48.0
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	C34.9 8000/1;C49.9 8000/1
+#56	ICD-O T60	C34.9
+#57	ICD-O T61	C49.9
+#58	ICD-O T62	8000/6
+#59	ICD-O T63	C72.0 8000/6
+#60	ICD-O T64	C72.0
+#61	ICD-O T66	C71.0
+#62	ICD-O T67	C74.9
+#63	ICD-O T68	C48.1
+#64	ICD-O T69	C25.9
+#65	ICD-O T70	8000/1
+#66	ICD-O T71	C41.2 8000/1
+#67	ICD-O T72	C41.2
+#68	ICD-O T73	8000/1
+#69	ICD-O T74	C71.0 8000/1
+#70	ICD-O T75	C71.0
+#71	ICD-O T76	8000/1
+#72	ICD-O T77	8000/1
+#73	ICD-O T78	8000/6
+#74	ICD-O T79	8000/6

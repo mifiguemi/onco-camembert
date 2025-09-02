@@ -1,0 +1,32 @@
+T30	topographie 3950 3982	cortico-sous-corticale pariétale
+T9	topographie 386 433	ganglionnaire médiastinale et supraclaviculaire
+T2	morphologie 178 187	néoplasie
+T3	morphologie 340 354	adénocarcinome
+T6	topographie 365 371	poumon
+T7	morphologie 377 385	atteinte
+T10	morphologie 1214 1220	nodule
+T12	topographie 1239 1242	LSD
+T14	morphologie 2168 2186	maladie systémique
+T15	morphologie 2251 2262	adénopathie
+T17	topographie 2263 2278	latérocervicale
+T18	morphologie 2364 2375	adénopathie
+T20	topographie 2376 2393	supraclaviculaire
+T22	morphologie 2461 2473	adénopathies
+T23	morphologie 3206 3212	lésion
+T25	topographie 3213 3223	pulmonaire
+T27	morphologie 3320 3326	lésion
+T28	morphologie 3933 3949	lésion nodulaire
+T32	morphologie 4078 4087	métastase
+T33	morphologie 4215 4224	métastase
+T35	topographie 4225 4234	cérébrale
+T36	morphologie 4401 4406	masse
+T38	topographie 4410 4413	LSD
+T39	morphologie 4548 4572	progression d'une tumeur
+T41	topographie 4576 4579	SNC
+T42	morphologie 4585 4599	adénocarcinome
+T44	topographie 4603 4609	poumon
+T45	morphologie 4782 4789	maladie
+T47	topographie 4790 4800	pulmonaire
+T48	morphologie 5076 5084	atteinte
+T50	topographie 5088 5091	SNC
+T51	topographie 5102 5110	cortical

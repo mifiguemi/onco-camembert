@@ -1,0 +1,156 @@
+T1	morphologie 490 495	masse
+T2	expression_CIM 490 506	masse abdominale
+T3	topographie 496 506	abdominale
+T4	morphologie 883 900	implants tumoraux
+T5	expression_CIM 883 919	implants tumoraux dans le diaphragme
+T6	topographie 909 919	diaphragme
+T7	morphologie 934 946	adénopathies
+T8	expression_CIM 934 971	adénopathies dans la tête du pancréas
+T9	topographie 955 971	tête du pancréas
+T10	expression_CIM 1062 1068	tumeur
+T11	morphologie 1062 1068	tumeur
+T12	expression_CIM 1113 1119	tumeur
+T13	morphologie 1113 1119	tumeur
+T14	morphologie 1645 1650	masse
+T15	expression_CIM 1645 1661	masse abdominale
+T16	topographie 1651 1661	abdominale
+T17	morphologie 2132 2137	masse
+T18	expression_CIM 2132 2155	masse solide abdominale
+T19	topographie 2145 2155	abdominale
+T20	expression_CIM 2292 2309	images nodulaires
+T21	morphologie 2292 2309	images nodulaires
+T22	morphologie 2323 2331	implants
+T23	expression_CIM 2323 2343	implants péritonéaux
+T24	topographie 2332 2343	péritonéaux
+T25	morphologie 2357 2378;2390 2415	Tumeur desmoplastique à petites cellules rondes
+T26	expression_CIM 2357 2415	Tumeur desmoplastique abdominale à petites cellules rondes
+T27	topographie 2379 2389	abdominale
+T28	expression_CIM 2419 2427	stade IV
+T29	morphologie 2419 2427	stade IV
+T30	morphologie 2429 2437	atteinte
+T31	expression_CIM 2429 2461	atteinte du foie et du péritoine
+T32	topographie 2441 2445	foie
+T33	topographie 2452 2461	péritoine
+T34	expression_CIM 2635 2641	tumeur
+T35	morphologie 2635 2641	tumeur
+T36	expression_CIM 2742 2762	progression tumorale
+T37	morphologie 2742 2762	progression tumorale
+T38	morphologie 2787 2818	implants tumoraux métastatiques
+T39	expression_CIM 2787 2908	implants tumoraux métastatiques (rétropéritonéaux, para-aortiques, intra-abdominaux, iliaques gauches et rétro-ombilicaux
+T40	topographie 2820 2836	rétropéritonéaux
+T41	topographie 2838 2852	para-aortiques
+T42	topographie 2854 2870	intra-abdominaux
+T43	topographie 2872 2880	iliaques
+T44	topographie 2892 2908	rétro-ombilicaux
+T45	morphologie 2914 2945	lésions occupant l'espace (LOE)
+T46	expression_CIM 2914 2958	lésions occupant l'espace (LOE) dans le foie
+T47	topographie 2954 2958	foie
+T48	morphologie 2968 2973	masse
+T49	expression_CIM 2968 2987	masse surrénalienne
+T50	topographie 2974 2987	surrénalienne
+T51	morphologie 3811 3816	masse
+T52	expression_CIM 3811 3826	masse pelvienne
+T53	topographie 3817 3826	pelvienne
+T54	morphologie 4161 4166	masse
+T55	expression_CIM 4161 4176	masse pelvienne
+T56	topographie 4167 4176	pelvienne
+T57	morphologie 4350 4355	masse
+T58	expression_CIM 4350 4365	masse pelvienne
+T59	topographie 4356 4365	pelvienne
+T60	morphologie 4478 4495	implants tumoraux
+T61	expression_CIM 4478 4636	implants tumoraux (ombilical, bassin, mésocôlon transverse, fosse iliaque gauche, flanc gauche, diaphragme gauche et droit, lobe hépatique gauche et surrénale
+T62	topographie 4497 4506	ombilical
+T63	topographie 4508 4514	bassin
+T64	topographie 4516 4536	mésocôlon transverse
+T65	topographie 4538 4551	fosse iliaque
+T66	topographie 4560 4565	flanc
+T67	topographie 4574 4584	diaphragme
+T68	topographie 4602 4616	lobe hépatique
+T69	topographie 4627 4636	surrénale
+T70	morphologie 4978 4989	progression
+T71	expression_CIM 4978 5027	progression des ganglions lymphatiques abdominaux
+T72	topographie 4994 5027	ganglions lymphatiques abdominaux
+T73	expression_CIM 5447 5471	progression de la tumeur
+T74	morphologie 5447 5471	progression de la tumeur
+T75	morphologie 5501 5518	implants tumoraux
+T76	expression_CIM 5501 5609	implants tumoraux dans le ligament gastro-hépatique, la glande surrénale gauche et la chaîne iliaque externe
+T77	topographie 5527 5552	ligament gastro-hépatique
+T78	topographie 5557 5573	glande surrénale
+T79	topographie 5587 5609	chaîne iliaque externe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.2 8000/1
+#3	ICD-O T3	C76.2
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C49.3 8000/6
+#6	ICD-O T6	C49.3
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.2 8000/1
+#9	ICD-O T9	C25.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C76.2 8000/1
+#16	ICD-O T16	C76.2
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C76.2 8000/1
+#19	ICD-O T19	C76.2
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C48.2 8000/6
+#24	ICD-O T24	C48.2
+#25	ICD-O T25	8806/3
+#26	ICD-O T26	C76.2 8806/3
+#27	ICD-O T27	C76.2
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	8000/6
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C22.0 8000/1;C48.2 8000/1
+#32	ICD-O T32	C22.0
+#33	ICD-O T33	C48.2
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	8000/3
+#37	ICD-O T37	8000/3
+#38	ICD-O T38	8000/6
+#39	ICD-O T39	C41.4 8000/6;C48.0 8000/6;C49.4 8000/6;C76.2 8000/6
+#40	ICD-O T40	C48.0
+#41	ICD-O T41	C49.4
+#42	ICD-O T42	C76.2
+#43	ICD-O T43	C41.4
+#44	ICD-O T44	C49.4
+#45	ICD-O T45	8000/1
+#46	ICD-O T47	C22.0
+#47	ICD-O T48	8000/1
+#48	ICD-O T49	C74.9 8000/1
+#49	ICD-O T50	C74.9
+#50	ICD-O T51	8000/1
+#51	ICD-O T52	C76.3 8000/1
+#52	ICD-O T53	C76.3
+#53	ICD-O T54	8000/1
+#54	ICD-O T55	C76.3 8000/1
+#55	ICD-O T56	C76.3
+#56	ICD-O T57	8000/1
+#57	ICD-O T58	C76.3 8000/1
+#58	ICD-O T59	C76.3
+#59	ICD-O T60	8000/6
+#60	ICD-O T62	C44.5
+#61	ICD-O T63	C76.3
+#62	ICD-O T64	C48.1
+#63	ICD-O T65	C76.2
+#64	ICD-O T66	C76.7
+#65	ICD-O T67	C49.3
+#66	ICD-O T68	C22.0
+#67	ICD-O T69	C74.9
+#68	ICD-O T70	8000/9
+#69	ICD-O T71	C77.2 8000/6
+#70	ICD-O T72	C77.2
+#71	ICD-O T73	8000/3
+#72	ICD-O T74	8000/3
+#73	ICD-O T75	8000/6
+#74	ICD-O T77	C48.1
+#75	ICD-O T78	C74.9
+#76	ICD-O T79	C77.5 
+#77	AnnotatorNotes T45	trad

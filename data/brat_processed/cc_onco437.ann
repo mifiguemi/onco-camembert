@@ -1,0 +1,67 @@
+T49	topographie 4271 4281	iléo-cæcal
+T34	topographie 2231 2239	inconnue
+T80	topographie 5127 5140	intraluminale
+T11	topographie 1263 1275	paratrachéal
+T2	morphologie 339 355	myélome multiple
+T4	morphologie 616 623	myélome
+T5	morphologie 943 957	adénocarcinome
+T7	topographie 958 968	pulmonaire
+T8	morphologie 1196 1208	adénopathies
+T12	morphologie 1336 1345	carcinome
+T14	differenciation 1346 1359	indifférencié
+T15	morphologie 1483 1494	adénopathie
+T17	topographie 1505 1522	supraclaviculaire
+T19	morphologie 1543 1564	infiltration tumorale
+T21	morphologie 1599 1605	cancer
+T23	morphologie 1635 1650	cancer primaire
+T25	morphologie 1986 1997	adénopathie
+T26	morphologie 2008 2017	captation
+T28	topographie 2048 2065	amygdale palatine
+T29	morphologie 2082 2093	adénopathie
+T31	topographie 2094 2109	latérocervicale
+T32	morphologie 2204 2219	tumeur primaire
+T35	topographie 2255 2267	amygdalienne
+T36	morphologie 2523 2532	carcinome
+T38	differenciation 2533 2546	indifférencié
+T40	morphologie 2823 2834	adénopathie
+T42	morphologie 2877 2889	adénopathies
+T44	morphologie 2918 2936	captation suspecte
+T46	morphologie 3723 3729	masses
+T47	morphologie 4224 4243	lésion adénomateuse
+T51	morphologie 4386 4398	infiltration
+T52	morphologie 4406 4415	carcinome
+T54	differenciation 4416 4431	peu différencié
+T56	morphologie 4486 4493	lésions
+T57	morphologie 4567 4573	images
+T59	topographie 4631 4644	anses iléales
+T61	morphologie 4675 4683	implants
+T62	morphologie 4713 4733	lésion adénopathique
+T65	morphologie 4785 4807	lésions adénopathiques
+T67	topographie 4808 4821	mésentériques
+T68	morphologie 4855 4871	lésion nodulaire
+T71	morphologie 4992 5001	Carcinome
+T73	differenciation 5002 5015	indifférencié
+T75	morphologie 5041 5054	dissémination
+T77	topographie 5069 5098	supra et infradiaphragmatique
+T78	topographie 5100 5112	amygdalienne
+T79	topographie 5114 5123	splénique
+T81	topographie 5167 5181	intestin grêle
+T83	morphologie 5231 5248	lésions tumorales
+T84	morphologie 5698 5707	carcinome
+T86	differenciation 5708 5721	indifférencié
+T87	topographie 5724 5740	origine inconnue
+T88	morphologie 5846 5854	implants
+T90	topographie 5855 5866	intestinaux
+T92	morphologie 6001 6023	implication à distance
+T93	morphologie 6191 6209	lésions polypoïdes
+T95	topographie 6240 6254	intestin grêle
+T96	morphologie 6263 6281	lésions polypoïdes
+T98	topographie 6290 6305	corps gastrique
+T99	morphologie 6321 6327	lésion
+T101	topographie 6328 6337	splénique
+T102	morphologie 6354 6366	adénopathies
+T104	topographie 6367 6397	supra et infradiaphragmatiques
+T70	topographie 4888 4902	pôle splénique
+T74	topographie 5019 5035	primitif inconnu
+T64	topographie 4750 4770	région para-aortique
+T10	topographie 1243 1259	rétro-œsophagien

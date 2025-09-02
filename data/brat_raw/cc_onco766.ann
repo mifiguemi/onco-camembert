@@ -1,0 +1,48 @@
+T1	morphologie 1285 1305	lésions néoplasiques
+T2	expression_CIM 1285 1355	lésions néoplasiques déjà connues (au niveau pulmonaire et surrénalien
+T3	topographie 1330 1340	pulmonaire
+T4	topographie 1344 1355	surrénalien
+T5	morphologie 1371 1376	masse
+T6	expression_CIM 1371 1452	masse solide de 5,7 x 10,7 x 13 cm a été observée dans le muscle psoas et iliaque
+T7	topographie 1429 1452	muscle psoas et iliaque
+T8	expression_CIM 1533 1539	lésion
+T9	morphologie 1533 1539	lésion
+T10	expression_CIM 1957 1982	progression de la maladie
+T11	morphologie 1957 1982	progression de la maladie
+T12	morphologie 2016 2023	lésions
+T13	expression_CIM 2016 2050	lésions, tant au niveau pulmonaire
+T14	topographie 2040 2050	pulmonaire
+T15	morphologie 4286 4292	lésion
+T16	expression_CIM 4286 4338	lésion située dans le lobe supérieur droit du poumon
+T17	topographie 4308 4322	lobe supérieur
+T18	topographie 4332 4338	poumon
+T19	morphologie 4353 4359;4374 4386	lésion métastatique
+T20	expression_CIM 4353 4373	lésion surrénalienne
+T21	topographie 4360 4373	surrénalienne
+T22	morphologie 4667 4673;4685 4693	lésion primaire
+T23	expression_CIM 4667 4693	lésion pulmonaire primaire
+T24	topographie 4674 4684	pulmonaire
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C34.9 8000/3;C74.9 8000/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	C74.9
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C49.4 8000/1
+#7	ICD-O T7	C49.4
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.9 8000/1
+#14	ICD-O T14	C34.9
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C34.1 8000/1;C34.9 8000/1
+#17	ICD-O T17	C34.1
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	C74.9 8000/1
+#21	ICD-O T21	C74.9
+#22	ICD-O T22	8000/3
+#23	ICD-O T23	C34.9 8000/3
+#24	ICD-O T24	C34.9

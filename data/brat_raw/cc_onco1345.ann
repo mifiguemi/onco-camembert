@@ -1,0 +1,68 @@
+T1	morphologie 139 145	tumeur
+T2	expression_CIM 139 155	tumeur cardiaque
+T3	topographie 146 155	cardiaque
+T4	expression_CIM 193 225	sarcome pléomorphe indifférencié
+T5	morphologie 193 225	sarcome pléomorphe indifférencié
+T6	expression_CIM 405 421	matériel tumoral
+T7	morphologie 405 421	matériel tumoral
+T8	expression_CIM 607 615	récidive
+T9	morphologie 607 615	récidive
+T10	morphologie 637 657	maladie métastatique
+T11	expression_CIM 637 697	maladie métastatique hépatique et probablement surrénalienne
+T12	topographie 658 667	hépatique
+T13	topographie 684 697	surrénalienne
+T14	expression_CIM 1649 1681	sarcome pléomorphe indifférencié
+T15	morphologie 1649 1681	sarcome pléomorphe indifférencié
+T16	expression_CIM 1713 1745	sarcome pléomorphe indifférencié
+T17	morphologie 1713 1745	sarcome pléomorphe indifférencié
+T18	expression_CIM 1802 1810	récidive
+T19	morphologie 1802 1810	récidive
+T20	morphologie 1812 1834	Progression à distance
+T21	expression_CIM 1812 1890	Progression à distance (hépatique, adénopathique et probablement surrénalienne
+T22	topographie 1836 1845	hépatique
+T23	topographie 1847 1860	adénopathique
+T24	topographie 1877 1890	surrénalienne
+T25	morphologie 2100 2107;2118 2142	Sarcome pléomorphe indifférencié
+T26	expression_CIM 2100 2142	Sarcome cardiaque pléomorphe indifférencié
+T27	topographie 2108 2117	cardiaque
+T28	expression_CIM 2227 2252	progression de la maladie
+T29	morphologie 2227 2252	progression de la maladie
+T30	expression_CIM 2420 2436	matériel tumoral
+T31	morphologie 2420 2436	matériel tumoral
+T32	morphologie 3094 3101	maladie
+T33	expression_CIM 3094 3109	maladie osseuse
+T34	topographie 3102 3109	osseuse
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C38.0 8000/1
+#3	ICD-O T3	C38.0
+#4	ICD-O T4	8805/3
+#5	ICD-O T5	8805/3
+#6	ICD-O T6	8000/3
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	C22.0 8000/6;C74.9 8000/6
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	C74.9
+#14	ICD-O T14	8805/3
+#15	ICD-O T15	8805/3
+#16	ICD-O T16	8805/3
+#17	ICD-O T17	8805/3
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C22.0 8000/6;C74.9 8000/6;C77.9 8000/6
+#22	ICD-O T22	C22.0
+#23	ICD-O T23	C77.9
+#24	ICD-O T24	C74.9
+#25	ICD-O T25	8805/3
+#26	ICD-O T26	C38.0 8805/3
+#27	ICD-O T27	C38.0
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	8000/3
+#31	ICD-O T31	8000/3
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	C41.9 8000/6
+#34	ICD-O T34	C41.9

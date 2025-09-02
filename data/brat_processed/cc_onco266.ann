@@ -1,0 +1,26 @@
+T1	morphologie 103 121	cancer épidermoïde
+T3	topographie 127 135	auricule
+T5	morphologie 203 218	hépatocarcinome
+T6	morphologie 270 276	cancer
+T8	topographie 282 288	ovaire
+T9	morphologie 310 324	adénocarcinome
+T11	topographie 328 336	pancréas
+T12	morphologie 597 611	adénocarcinome
+T14	topographie 618 626	prostate
+T16	morphologie 702 710	récidive
+T18	morphologie 794 802	récidive
+T20	morphologie 835 853	maladie à distance
+T21	morphologie 898 909	progression
+T23	topographie 914 936	ganglions lymphatiques
+T24	morphologie 1088 1093	masse
+T26	topographie 1112 1129	queue du pancréas
+T27	morphologie 1148 1160	adénopathies
+T29	topographie 1161 1178	rétropéritonéales
+T30	topographie 1180 1197	péripancréatiques
+T31	topographie 1199 1208	cœliaques
+T32	topographie 1213 1227	hile hépatique
+T33	topographie 1234 1259	ligament gastro-hépatique
+T35	morphologie 1288 1294	lésion
+T36	morphologie 1312 1326	adénocarcinome
+T38	differenciation 1327 1342	peu différencié
+T39	topographie 1346 1354	pancréas

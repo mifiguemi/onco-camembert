@@ -1,0 +1,79 @@
+T12	topographie 1983 2017	canaux spléniques et pancréatiques
+T1	expression_CIM 83 97	hépatoblastome
+T2	morphologie 83 97	hépatoblastome
+T3	morphologie 1746 1760	masse kystique
+T4	expression_CIM 1746 1823	masse kystique solide de 105-107 mm située à la jonction duodéno-pancréatique
+T6	morphologie 1833 1845;1856 1863	infiltration diffuse
+T7	expression_CIM 1833 1863	infiltration hépatique diffuse
+T8	topographie 1846 1855	hépatique
+T9	morphologie 1910 1922	infiltration
+T10	expression_CIM 1910 2017	infiltration des voies biliaires intrahépatiques et extrahépatiques, des canaux spléniques et pancréatiques
+T13	morphologie 2047 2059	infiltration
+T14	expression_CIM 2047 2154	infiltration des structures vasculaires (artère splénique, artères hépatiques, tronc cœliaque et veine cave
+T15	topographie 2064 2086	structures vasculaires
+T16	topographie 2088 2104	artère splénique
+T17	topographie 2106 2124	artères hépatiques
+T18	topographie 2126 2140	tronc cœliaque
+T19	topographie 2144 2154	veine cave
+T20	morphologie 2254 2266	infiltration
+T21	expression_CIM 2254 2276	infiltration hépatique
+T22	topographie 2267 2276	hépatique
+T23	expression_CIM 2285 2310	tumeur à petites cellules
+T24	morphologie 2285 2310	tumeur à petites cellules
+T25	expression_CIM 2330 2344	hépatoblastome
+T26	morphologie 2330 2344	hépatoblastome
+T27	expression_CIM 3015 3029	hépatoblastome
+T28	morphologie 3015 3029	hépatoblastome
+T29	morphologie 3117 3125	atteinte
+T30	expression_CIM 3117 3157	atteinte de tous les segments hépatiques
+T31	topographie 3147 3157	hépatiques
+T32	morphologie 3163 3171	atteinte
+T33	expression_CIM 3163 3187	atteinte extra-hépatique
+T35	morphologie 3194 3204	métastases
+T36	expression_CIM 3194 3218	métastases pancréatiques
+T37	topographie 3205 3218	pancréatiques
+T38	morphologie 5648 5656	atteinte
+T39	expression_CIM 5648 5669	atteinte pancréatique
+T40	topographie 5657 5669	pancréatique
+T41	morphologie 5893 5913	maladie métastatique
+T42	expression_CIM 5893 5926	maladie métastatique pancréatique
+T43	topographie 5914 5926	pancréatique
+T34	topographie 3172 3187	extra-hépatique
+T5	topographie 1794 1823	jonction duodéno-pancréatique
+T11	topographie 1927 1977	voies biliaires intrahépatiques et extrahépatiques
+#1	ICD-O T1	8970/3
+#2	ICD-O T2	8970/3
+#3	ICD-O T3	8440/1
+#4	ICD-O T6	tocheck
+#5	ICD-O T8	C22.0
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	C22.1 8000/1;C24.0 8000/1;C25.3 8000/1;C49.4 8000/1
+#8	ICD-O T13	8000/1
+#9	ICD-O T14	C49.4 8000/1;C49.9 8000/1
+#10	ICD-O T15	C49.9
+#11	ICD-O T16	C49.4
+#12	ICD-O T17	C49.4
+#13	ICD-O T18	C49.4
+#14	ICD-O T19	C49.4
+#15	ICD-O T20	8000/1
+#16	ICD-O T21	C22.0 8000/1
+#17	ICD-O T22	C22.0
+#18	ICD-O T23	8002/3
+#19	ICD-O T24	8002/3
+#20	ICD-O T25	8970/3
+#21	ICD-O T26	8970/3
+#22	ICD-O T27	8970/3
+#23	ICD-O T28	8970/3
+#24	ICD-O T29	8000/1
+#25	ICD-O T30	C22.0 8000/1
+#26	ICD-O T31	C22.0
+#27	ICD-O T32	8000/9
+#28	ICD-O T35	8000/6
+#29	ICD-O T36	C25.9 8000/6
+#30	ICD-O T37	C25.9
+#31	ICD-O T38	8000/1
+#32	ICD-O T39	C25.9 8000/1
+#33	ICD-O T40	C25.9
+#34	ICD-O T41	8000/6
+#35	ICD-O T42	C25.9 8000/6
+#36	ICD-O T43	C25.9

@@ -1,0 +1,38 @@
+T1	morphologie 67 73	cancer
+T3	topographie 80 88	prostate
+T5	morphologie 174 180	myomes
+T6	morphologie 243 249	lésion
+T8	topographie 297 311	supra-fessière
+T10	morphologie 390 396	lésion
+T11	morphologie 509 531	pororcarcinome eccrine
+T15	morphologie 610 619	récidives
+T17	morphologie 705 715	métastases
+T19	morphologie 719 732	porocarcinome
+T21	morphologie 743 755	adénopathies
+T23	morphologie 796 810	rechute locale
+T24	morphologie 818 828	métastases
+T26	topographie 829 899	ganglionnaires au niveau iliaque bilatéral, inguinal droit et présacré
+T28	morphologie 904 910	cancer
+T29	morphologie 962 970	atteinte
+T31	topographie 975 997	ganglions lymphatiques
+T33	morphologie 1030 1037	lésions
+T34	morphologie 1326 1333	Lésions
+T36	topographie 1334 1342	cutanées
+T37	morphologie 1384 1399	lésions létales
+T39	topographie 1415 1429	supra-fessière
+T40	morphologie 1521 1531	métastases
+T42	topographie 1532 1604	ganglionnaires aux niveaux iliaque bilatéral, inguinal droit et présacré
+T44	morphologie 1768 1781	porocarcinome
+T45	morphologie 1859 1866	lésions
+T49	morphologie 1968 1974	tumeur
+T51	morphologie 1980 1995	maladie avancée
+T53	morphologie 2416 2436	progression tumorale
+T54	morphologie 3024 3044	progression tumorale
+T56	topographie 3076 3080	peau
+T57	morphologie 3541 3548	lésions
+T59	topographie 3549 3558	dermiques
+T61	morphologie 3713 3719	tumeur
+T62	morphologie 3791 3799	atteinte
+T64	topographie 3804 3826	ganglions lymphatiques
+T13	topographie 540 555	région lombaire
+T47	topographie 1873 1894	région supraglottique

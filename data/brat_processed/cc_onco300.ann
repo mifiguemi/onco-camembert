@@ -1,0 +1,30 @@
+T1	morphologie 224 248	mélanome malin nodulaire
+T3	topographie 313 323	avant-bras
+T5	morphologie 335 341	lésion
+T7	morphologie 377 388	adénopathie
+T9	morphologie 586 594	mélanome
+T10	morphologie 993 1004	adénopathie
+T12	topographie 1005 1014	axillaire
+T14	morphologie 1101 1109	mélanome
+T16	morphologie 1358 1383	progression de la maladie
+T17	morphologie 1406 1416	métastases
+T19	topographie 1426 1448	ganglions lymphatiques
+T20	topographie 1454 1461	poumons
+T21	topographie 1466 1470	foie
+T22	topographie 1477 1481	rate
+T24	morphologie 1684 1709	progression de la maladie
+T26	morphologie 1756 1763	lésions
+T27	morphologie 1956 1963	nodules
+T29	topographie 1964 1975	pulmonaires
+T30	morphologie 1989 1997	Mélanome
+T32	topographie 1998 2004	cutané
+T33	morphologie 2005 2017	métastatique
+T35	topographie 2019 2029	pulmonaire
+T36	topographie 2031 2042	médiastinal
+T37	topographie 2044 2053	splénique
+T38	topographie 2055 2064	hépatique
+T40	morphologie 2358 2383	progression de la maladie
+T41	morphologie 2483 2499	lymphadénopathie
+T43	topographie 2500 2509	axillaire
+T44	morphologie 2790 2801	adénopathie
+T46	topographie 2802 2811	axillaire

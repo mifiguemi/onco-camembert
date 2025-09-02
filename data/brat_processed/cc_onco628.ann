@@ -1,0 +1,46 @@
+T13	topographie 1876 1889	pelvis rénaux
+T1	morphologie 429 439	hémangiome
+T3	topographie 440 449	hépatique
+T5	morphologie 1006 1012	masses
+T6	morphologie 1479 1510	carcinome urothélial papillaire
+T8	differenciation 1514 1524	haut grade
+T10	morphologie 1526 1529	PTC
+T11	morphologie 1854 1861	lésions
+T14	morphologie 1896 1902	lésion
+T16	topographie 1903 1912	hépatique
+T18	morphologie 1966 1976	hémangiome
+T20	morphologie 2113 2127	tumeur maligne
+T21	morphologie 2307 2314	tumeurs
+T23	topographie 2318 2330	bassin rénal
+T24	morphologie 2367 2387	carcinome urothélial
+T26	differenciation 2391 2401	haut grade
+T28	morphologie 2419 2439	Carcinome urothélial
+T30	morphologie 2506 2526	carcinome urothélial
+T31	morphologie 2842 2848	cancer
+T33	topographie 2854 2860	urètre
+T34	differenciation 2864 2874	haut grade
+T36	topographie 2896 2900	rein
+T37	morphologie 2912 2920	invasion
+T39	topographie 2921 2939	vasculolymphatique
+T40	topographie 2943 2950	uretère
+T42	morphologie 2969 3012	carcinome urothélial papillaire non invasif
+T43	differenciation 3016 3026	haut grade
+T44	morphologie 3034 3040	foyers
+T46	morphologie 3044 3061	carcinome in situ
+T47	topographie 3084 3088	Rein
+T49	morphologie 3101 3132	carcinome urothélial infiltrant
+T50	topographie 3147 3154	uretère
+T52	morphologie 3170 3201	carcinome urothélial papillaire
+T53	differenciation 3205 3215	haut grade
+T55	morphologie 3242 3248	foyers
+T57	morphologie 3252 3269	carcinome in situ
+T58	morphologie 3332 3354	adénocarcinome acineux
+T60	topographie 3355 3366	prostatique
+T61	morphologie 3613 3624	progression
+T63	topographie 3645 3649	foie
+T64	topographie 3657 3664	poumons
+T65	morphologie 4167 4173	lésion
+T67	topographie 4174 4183	hépatique
+T68	morphologie 4492 4498	lésion
+T70	topographie 4499 4508	hépatique
+T72	morphologie 4532 4557	maladie oligométastatique

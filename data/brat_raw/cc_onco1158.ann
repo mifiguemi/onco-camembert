@@ -1,0 +1,84 @@
+T1	morphologie 109 115	nodule
+T2	expression_CIM 109 123	nodule du sein
+T3	topographie 119 123	sein
+T4	morphologie 214 220	nodule
+T5	expression_CIM 214 273	nodule, situé dans le quadrant supéro-interne (CSI) du sein
+T6	topographie 236 273	quadrant supéro-interne (CSI) du sein
+T7	morphologie 287 295	atteinte
+T8	expression_CIM 287 306	atteinte de la peau
+T9	topographie 302 306	peau
+T10	morphologie 523 529	nodule
+T11	expression_CIM 523 554	nodule prolifératif sur le sein
+T12	topographie 550 554	sein
+T13	morphologie 715 745	carcinome canalaire infiltrant
+T14	expression_CIM 715 762	carcinome canalaire infiltrant (CDI), grade III
+T15	morphologie 747 750	CDI
+T16	differenciation 753 762	grade III
+T17	expression_CIM 1183 1189	lésion
+T18	morphologie 1183 1189	lésion
+T19	expression_CIM 1629 1661	mélanome amélanotique non cutané
+T20	morphologie 1629 1661	mélanome amélanotique non cutané
+T21	expression_CIM 1790 1796	tumeur
+T22	morphologie 1790 1796	tumeur
+T23	expression_CIM 1849 1855	tumeur
+T24	morphologie 1849 1855	tumeur
+T25	expression_CIM 1937 1952	tumeur primaire
+T26	morphologie 1937 1952	tumeur primaire
+T27	expression_CIM 1964 1979	lésion suspecte
+T28	morphologie 1964 1979	lésion suspecte
+T29	expression_CIM 2058 2076	maladie à distance
+T30	morphologie 2058 2076	maladie à distance
+T31	morphologie 2219 2246	mélanome malin amélanotique
+T32	expression_CIM 2219 2265	mélanome malin amélanotique non cutané du sein
+T33	topographie 2261 2265	sein
+T34	expression_CIM 2553 2561	récidive
+T35	morphologie 2553 2561	récidive
+T36	expression_CIM 2680 2701	mélanome amélanotique
+T37	morphologie 2680 2701	mélanome amélanotique
+T38	morphologie 2707 2719	infiltration
+T39	expression_CIM 2707 2728	infiltration du derme
+T40	topographie 2723 2728	derme
+T41	expression_CIM 2850 2860	métastases
+T42	morphologie 2850 2860	métastases
+T43	expression_CIM 3163 3171	récidive
+T44	morphologie 3163 3171	récidive
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.2 8000/1;C50.9 8000/1
+#6	ICD-O T6	C50.2
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C44.9 8000/1
+#9	ICD-O T9	C44.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C50.9
+#12	ICD-O T13	8500/3
+#13	ICD-O T14	8500/33
+#14	ICD-O T15	8500/3
+#15	ICD-O T16	3
+#16	ICD-O T18	8000/1
+#17	ICD-O T20	tocheck
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/3
+#23	ICD-O T26	8000/3
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	8000/6
+#26	ICD-O T30	8000/6
+#27	ICD-O T31	8730/3
+#28	ICD-O T32	C50.9 8730/3
+#29	ICD-O T33	C50.9
+#30	ICD-O T34	8000/6
+#31	ICD-O T35	8000/6
+#32	ICD-O T36	8730/3
+#33	ICD-O T37	8730/3
+#34	ICD-O T38	8000/1
+#35	ICD-O T39	C44.9 8000/1
+#36	ICD-O T40	C44.9
+#37	ICD-O T41	8000/6
+#38	ICD-O T42	8000/6
+#39	ICD-O T43	8000/6
+#40	ICD-O T44	8000/6

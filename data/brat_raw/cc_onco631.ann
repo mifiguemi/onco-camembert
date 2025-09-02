@@ -1,0 +1,79 @@
+T39	topographie 2498 2525	intradurale extramédullaire
+T1	morphologie 630 654	lésion occupant l'espace
+T2	expression_CIM 630 676	lésion occupant l'espace au niveau du cervelet
+T3	topographie 668 676	cervelet
+T4	expression_CIM 789 798	métastase
+T5	morphologie 789 798	métastase
+T6	morphologie 801 815	adénocarcinome
+T7	expression_CIM 801 855	adénocarcinome compatible avec une origine colorectale
+T8	topographie 844 855	colorectale
+T9	morphologie 900 906	nodule
+T10	expression_CIM 900 940	nodule pulmonaire dans le lobe supérieur
+T11	topographie 907 917	pulmonaire
+T12	topographie 926 940	lobe supérieur
+T13	morphologie 1029 1043	Adénocarcinome
+T14	expression_CIM 1029 1054	Adénocarcinome colorectal
+T15	topographie 1044 1054	colorectal
+T16	morphologie 1058 1066	stade IV
+T17	expression_CIM 1058 1079	stade IV (SNC, poumon
+T18	topographie 1068 1071	SNC
+T19	topographie 1073 1079	poumon
+T20	expression_CIM 1164 1184	maladie métastatique
+T21	morphologie 1164 1184	maladie métastatique
+T22	expression_CIM 1520 1548	tumeur maligne macroscopique
+T23	morphologie 1520 1548	tumeur maligne macroscopique
+T24	morphologie 1688 1702	adénocarcinome
+T25	expression_CIM 1688 1734	adénocarcinome modérément différencié du sigma
+T26	differenciation 1703 1725	modérément différencié
+T27	topographie 1729 1734	sigma
+T28	morphologie 1970 1995	lésions occupant l'espace
+T29	expression_CIM 1970 2015	lésions occupant l'espace dans l'hémicervelet
+T30	topographie 2003 2015	hémicervelet
+T31	morphologie 2044 2051	rechute
+T32	expression_CIM 2044 2064	rechute cérébelleuse
+T33	topographie 2052 2064	cérébelleuse
+T34	morphologie 2363 2372	captation
+T35	expression_CIM 2363 2415	captation au niveau de la sixième vertèbre cervicale
+T37	morphologie 2478 2497	lésion métastatique
+T38	expression_CIM 2478 2525	lésion métastatique intradurale extramédullaire
+T40	expression_CIM 2654 2660	tumeur
+T41	morphologie 2654 2660	tumeur
+T42	expression_CIM 2765 2771	tumeur
+T43	morphologie 2765 2771	tumeur
+T36	topographie 2389 2415	sixième vertèbre cervicale
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C71.6
+#3	ICD-O T4	8000/6
+#4	ICD-O T5	8000/6
+#5	ICD-O T6	8140/3
+#6	ICD-O T7	C19.9 8140/3
+#7	ICD-O T8	C19.9
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C34.1 8000/1;C34.9 8000/1
+#10	ICD-O T11	C34.9
+#11	ICD-O T12	C34.1
+#12	ICD-O T13	8140/3
+#13	ICD-O T14	C19.9 8140/3
+#14	ICD-O T15	C19.9
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	C34.9 8000/6;C72.9 8000/6
+#17	ICD-O T18	C72.9
+#18	ICD-O T19	C34.9
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T23	8000/3
+#22	ICD-O T24	8140/3
+#23	ICD-O T26	2
+#24	ICD-O T27	C18.7
+#25	ICD-O T28	8000/1
+#26	ICD-O T30	C71.6
+#27	ICD-O T31	8000/9
+#28	ICD-O T32	C71.6 8000/3
+#29	ICD-O T33	C71.6
+#30	ICD-O T34	8000/1
+#31	ICD-O T37	8000/6
+#32	ICD-O T40	8000/1
+#33	ICD-O T41	8000/3
+#34	ICD-O T42	8000/1
+#35	ICD-O T43	8000/3
+#36	AnnotatorNotes T28	trad

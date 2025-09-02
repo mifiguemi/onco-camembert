@@ -1,0 +1,88 @@
+T7	topographie 165 168	HEP
+T1	morphologie 117 131	adénocarcinome
+T2	expression_CIM 117 196	adénocarcinome de la prostate de stade IV (OSS, HEP) combiné de Gleason 7 (3+4)
+T3	topographie 138 146	prostate
+T4	morphologie 150 158	stade IV
+T5	expression_CIM 150 168	stade IV (OSS, HEP
+T6	topographie 160 163	OSS
+T8	differenciation 170 195	combiné de Gleason 7 (3+4
+T9	morphologie 662 673	adénopathie
+T10	expression_CIM 662 714	adénopathie cervicale, sus-claviculaire ou axillaire
+T11	topographie 674 683	cervicale
+T12	topographie 685 701	sus-claviculaire
+T13	topographie 705 714	axillaire
+T14	expression_CIM 853 859	masses
+T15	morphologie 853 859	masses
+T16	morphologie 890 906	lymphadénopathie
+T17	expression_CIM 890 916	lymphadénopathie inguinale
+T18	topographie 907 916	inguinale
+T19	expression_CIM 1215 1222	lésions
+T20	morphologie 1215 1222	lésions
+T21	morphologie 1525 1535	Métastases
+T22	expression_CIM 1525 1587	Métastases osseuses multiples dans le bassin et le corps de L4
+T23	topographie 1536 1544	osseuses
+T24	topographie 1563 1569	bassin
+T25	topographie 1576 1587	corps de L4
+T26	expression_CIM 1730 1742	infiltration
+T27	morphologie 1730 1742	infiltration
+T28	morphologie 1793 1804	Adénopathie
+T29	expression_CIM 1793 1830	Adénopathie dans les chaînes iliaques
+T30	topographie 1814 1830	chaînes iliaques
+T31	morphologie 1832 1842	Métastases
+T32	expression_CIM 1832 1865	Métastases hépatiques et osseuses
+T33	topographie 1843 1853	hépatiques
+T34	topographie 1857 1865	osseuses
+T35	morphologie 2055 2069	adénocarcinome
+T36	expression_CIM 2055 2127	adénocarcinome prostatique de grade histologique combiné Gleason 7 (3+4)
+T37	topographie 2070 2081	prostatique
+T38	differenciation 2082 2127	de grade histologique combiné Gleason 7 (3+4)
+T39	morphologie 2141 2155	ADÉNOCARCINOME
+T40	expression_CIM 2141 2215	ADÉNOCARCINOME DE LA PROSTATE DE GRADE HISTOLOGIQUE COMBINÉ GLEASON 7 (3+4
+T41	topographie 2162 2170	PROSTATE
+T42	differenciation 2174 2215	GRADE HISTOLOGIQUE COMBINÉ GLEASON 7 (3+4
+T43	morphologie 2217 2225	STADE IV
+T44	expression_CIM 2217 2241	STADE IV (OSS, HÉPATIQUE
+T45	topographie 2227 2230	OSS
+T46	topographie 2232 2241	HÉPATIQUE
+#1	ICD-O T1	8140/3
+#2	ICD-O T3	C61.9
+#3	ICD-O T4	8000/6
+#4	ICD-O T6	C41.9
+#5	ICD-O T8	2
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	C77.0 8000/1;C77.3 8000/1
+#8	ICD-O T11	C76.0
+#9	ICD-O T12	C76.0
+#10	ICD-O T13	C76.1
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C77.4 8000/1
+#15	ICD-O T18	C76.3
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	8000/6
+#19	ICD-O T22	C41.2 8000/6;C41.9 8000/6;C76.3 8000/6
+#20	ICD-O T23	C41.9
+#21	ICD-O T24	C76.3
+#22	ICD-O T25	C41.2
+#23	ICD-O T26	8000/1
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C77.5 8000/1
+#27	ICD-O T30	C77.5 
+#28	ICD-O T31	8000/6
+#29	ICD-O T32	C22.0 8000/6;C41.9 8000/6
+#30	ICD-O T33	C22.0
+#31	ICD-O T34	C41.9
+#32	ICD-O T35	8140/3
+#33	ICD-O T37	C61.9
+#34	ICD-O T38	2
+#35	ICD-O T39	8140/3
+#36	ICD-O T40	C61.9 8140/32
+#37	ICD-O T41	C61.9
+#38	ICD-O T42	2
+#39	ICD-O T43	8000/6
+#40	ICD-O T44	C22.0 8000/6;C41.9 8000/6
+#41	ICD-O T45	C41.9
+#42	ICD-O T46	C22.0

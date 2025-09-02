@@ -1,0 +1,134 @@
+T1	morphologie 155 161	nodule
+T2	expression_CIM 155 172	nodule thyroïdien
+T3	topographie 162 172	thyroïdien
+T4	morphologie 264 270	cancer
+T5	expression_CIM 264 278	cancer du sein
+T6	topographie 274 278	sein
+T7	morphologie 300 306	cancer
+T8	expression_CIM 300 316	cancer du larynx
+T9	topographie 310 316	larynx
+T10	morphologie 376 405	carcinome médullaire atypique
+T11	expression_CIM 376 413	carcinome médullaire atypique du sein
+T12	topographie 409 413	sein
+T13	expression_CIM 505 511	cancer
+T14	morphologie 505 511	cancer
+T15	morphologie 754 759	myome
+T16	expression_CIM 754 766	myome utérin
+T17	topographie 760 766	utérin
+T18	morphologie 997 1003	nodule
+T19	expression_CIM 997 1056	nodule de 8 mm a été détecté à la mammographie dans le sein
+T20	topographie 1052 1056	sein
+T21	expression_CIM 1090 1096	lésion
+T22	morphologie 1090 1096	lésion
+T23	expression_CIM 1155 1185	carcinome canalaire infiltrant
+T24	morphologie 1155 1185	carcinome canalaire infiltrant
+T25	morphologie 1315 1345	carcinome canalaire infiltrant
+T26	expression_CIM 1315 1368	carcinome canalaire infiltrant pT1bN0M0, de grade III
+T27	stadeTNM 1346 1354	pT1bN0M0
+T28	differenciation 1359 1368	grade III
+T29	morphologie 1870 1891	image pseudonodulaire
+T30	expression_CIM 1870 1908	image pseudonodulaire au niveau du LID
+T31	topographie 1905 1908	LID
+T32	expression_CIM 2585 2594	métastase
+T33	morphologie 2585 2594	métastase
+T34	morphologie 2604 2613	métastase
+T35	expression_CIM 2604 2624	métastase pulmonaire
+T36	topographie 2614 2624	pulmonaire
+T37	morphologie 2742 2748	lésion
+T38	expression_CIM 2742 2799	lésion hypoéchogène dans le sous-segment médian de la LID
+T39	topographie 2796 2799	LID
+T40	expression_CIM 2955 3010	carcinome non à petites cellules de type adénocarcinome
+T41	morphologie 2955 3010	carcinome non à petites cellules de type adénocarcinome
+T42	morphologie 3045 3053	primitif
+T43	expression_CIM 3045 3064	primitif pulmonaire
+T44	topographie 3054 3064	pulmonaire
+T45	morphologie 3106 3129	images pseudonodulaires
+T46	expression_CIM 3106 3161	images pseudonodulaires dans les deux bases pulmonaires
+T47	topographie 3144 3161	bases pulmonaires
+T48	expression_CIM 3269 3283	tumeur maligne
+T49	morphologie 3269 3283	tumeur maligne
+T50	morphologie 3342 3356	Adénocarcinome
+T51	expression_CIM 3342 3367	Adénocarcinome pulmonaire
+T52	topographie 3357 3367	pulmonaire
+T53	morphologie 3385 3415	carcinome canalaire infiltrant
+T54	expression_CIM 3385 3436	carcinome canalaire infiltrant métastatique du sein
+T55	topographie 3432 3436	sein
+T56	morphologie 3560 3568	primitif
+T57	expression_CIM 3560 3579	primitif pulmonaire
+T58	topographie 3569 3579	pulmonaire
+T59	expression_CIM 3615 3624	métastase
+T60	morphologie 3615 3624	métastase
+T61	morphologie 3630 3639	carcinome
+T62	expression_CIM 3630 3648	carcinome mammaire
+T63	topographie 3640 3648	mammaire
+T64	morphologie 3786 3794	primitif
+T65	expression_CIM 3786 3805	primitif pulmonaire
+T66	topographie 3795 3805	pulmonaire
+T67	morphologie 4093 4100	lésions
+T68	expression_CIM 4093 4133	lésions a progressé au niveau pulmonaire
+T69	topographie 4123 4133	pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C73.9 8000/1
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C32.9 8000/3
+#9	ICD-O T9	C32.9
+#10	ICD-O T10	8513/3
+#11	ICD-O T11	C50.9 8510/3
+#12	ICD-O T12	C50.9
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	8000/3
+#15	ICD-O T15	8895/0
+#16	ICD-O T16	C55.9 8895/0
+#17	ICD-O T17	C55.9
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C50.9 8000/1
+#20	ICD-O T20	C50.9
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8500/3
+#24	ICD-O T24	8500/3
+#25	ICD-O T25	8500/3
+#26	ICD-O T26	8500/33
+#27	ICD-O T27	todelete
+#28	ICD-O T28	3
+#29	ICD-O T29	8000/1
+#30	ICD-O T31	C34.3
+#31	ICD-O T32	8000/6
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	C34.9 8000/6
+#35	ICD-O T36	C34.9
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	C34.3 8000/1
+#38	ICD-O T39	C34.3
+#39	ICD-O T41	8046/3
+#40	ICD-O T42	8000/3
+#41	ICD-O T43	C34.9 8000/3
+#42	ICD-O T44	C34.9
+#43	ICD-O T45	8000/1
+#44	ICD-O T47	C34.3
+#45	ICD-O T48	8000/3
+#46	ICD-O T49	8000/3
+#47	ICD-O T50	8140/3
+#48	ICD-O T51	C34.9 8140/3
+#49	ICD-O T52	C34.9
+#50	ICD-O T53	8500/3
+#51	ICD-O T54	C50.9 8500/3
+#52	ICD-O T55	C50.9
+#53	ICD-O T56	8000/3
+#54	ICD-O T57	C34.9 8000/3
+#55	ICD-O T58	C34.9
+#56	ICD-O T59	8000/6
+#57	ICD-O T60	8000/6
+#58	ICD-O T61	8010/3
+#59	ICD-O T63	C50.9
+#60	ICD-O T64	8000/3
+#61	ICD-O T65	C34.9 8000/3
+#62	ICD-O T66	C34.9
+#63	ICD-O T67	8000/1
+#64	ICD-O T68	C34.9 8000/1
+#65	ICD-O T69	C34.9

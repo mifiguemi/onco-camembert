@@ -1,0 +1,212 @@
+T4	topographie 1532 1541	axillaire
+T5	topographie 1545 1554	inguinale
+T26	topographie 3617 3642	ligament gastro-hépatique
+T48	morphologie 4862 4890	néoplasme d'origine primaire
+T24	topographie 3582 3591	péricæcal
+T1	morphologie 1474 1486	adénomégalie
+T2	expression_CIM 1474 1554	adénomégalie palpable latérocervicale, supraclaviculaire, axillaire ou inguinale
+T3	topographie 1513 1530	supraclaviculaire
+T6	morphologie 2471 2479;2488 2500	atteinte métastatique
+T7	expression_CIM 2471 2500	atteinte osseuse métastatique
+T8	topographie 2480 2487	osseuse
+T9	morphologie 2527 2539	infiltration
+T10	expression_CIM 2527 2561	infiltration de la moelle épinière
+T11	topographie 2546 2561	moelle épinière
+T12	expression_CIM 2906 2918	infiltration
+T13	morphologie 2906 2918	infiltration
+T14	expression_CIM 2923 2932	métastase
+T15	morphologie 2923 2932	métastase
+T16	expression_CIM 2939 2948	néoplasie
+T17	morphologie 2939 2948	néoplasie
+T18	expression_CIM 3153 3162	néoplasme
+T19	morphologie 3153 3162	néoplasme
+T20	expression_CIM 3194 3215	processus néoplasique
+T21	morphologie 3194 3215	processus néoplasique
+T22	morphologie 3539 3573	ganglions d'apparence pathologique
+T23	expression_CIM 3539 3642	ganglions d'apparence pathologique dans le péricæcal, le rétropéritoine et le ligament gastro-hépatique
+T25	topographie 3596 3610	rétropéritoine
+T27	morphologie 3765 3771	lésion
+T28	expression_CIM 3765 3812	lésion solide de 30 mm dans la glande surrénale
+T29	topographie 3796 3812	glande surrénale
+T30	expression_CIM 3833 3842	métastase
+T31	morphologie 3833 3842	métastase
+T32	morphologie 4006 4020;4037 4074	adénocarcinome avec des cellules en anneau de signet
+T33	expression_CIM 4006 4074	adénocarcinome peu différencié avec des cellules en anneau de signet
+T34	differenciation 4021 4036	peu différencié
+T35	expression_CIM 4082 4088	foyers
+T36	morphologie 4082 4088	foyers
+T37	morphologie 4122 4128	lésion
+T38	expression_CIM 4122 4137	lésion du côlon
+T39	topographie 4132 4137	côlon
+T40	expression_CIM 4165 4174	métastase
+T41	morphologie 4165 4174	métastase
+T42	topographie 4495 4515	ganglion lymphatique
+T43	expression_CIM 4495 4621	ganglion lymphatique était atteint de métastases d'un carcinome peu différencié avec d'abondantes cellules en anneau de signet
+T44	morphologie 4533 4543	métastases
+T45	differenciation 4559 4574	peu différencié
+T46	expression_CIM 4701 4774	cellularité épithéliale néoplasique avec des cellules en anneau de signet
+T47	morphologie 4701 4774	cellularité épithéliale néoplasique avec des cellules en anneau de signet
+T49	expression_CIM 4862 4904	néoplasme d'origine primaire dans le côlon
+T50	topographie 4899 4904	côlon
+T51	morphologie 5150 5159	captation
+T52	expression_CIM 5150 5202	captation diffuse parcellaire dans la moelle osseuse
+T53	topographie 5188 5202	moelle osseuse
+T54	expression_CIM 5216 5240	infiltration néoplasique
+T55	morphologie 5216 5240	infiltration néoplasique
+T56	morphologie 5246 5255	captation
+T57	expression_CIM 5246 5280	captation dans la glande surrénale
+T58	topographie 5264 5280	glande surrénale
+T59	morphologie 5321 5333	adénopathies
+T60	expression_CIM 5321 5353	adénopathies infra-médiastinales
+T61	topographie 5334 5353	infra-médiastinales
+T62	expression_CIM 5703 5710	lésions
+T63	morphologie 5703 5710	lésions
+T64	morphologie 5740 5748	atteinte
+T65	expression_CIM 5740 5757	atteinte méningée
+T66	topographie 5749 5757	méningée
+T67	morphologie 6162 6176;6202 6239	adénocarcinome avec des cellules en anneau de signet
+T68	expression_CIM 6162 6239	adénocarcinome peu différencié du côlon avec des cellules en anneau de signet
+T69	differenciation 6177 6192	peu différencié
+T70	topographie 6196 6201	côlon
+T71	expression_CIM 6322 6330	stade IV
+T72	morphologie 6322 6330	stade IV
+T73	morphologie 6346 6354	atteinte
+T74	expression_CIM 6346 6402	atteinte osseuse, surrénalienne, rénale et ganglionnaire
+T75	topographie 6355 6362	osseuse
+T76	topographie 6364 6377	surrénalienne
+T77	topographie 6379 6385	rénale
+T78	topographie 6389 6402	ganglionnaire
+T79	morphologie 6409 6421	infiltration
+T80	expression_CIM 6409 6442	infiltration de la moelle osseuse
+T81	topographie 6428 6442	moelle osseuse
+T82	morphologie 6627 6635	atteinte
+T83	expression_CIM 6627 6683	atteinte du nerf crânien VI gauche et du nerf mentonnier
+T84	topographie 6639 6651	nerf crânien
+T85	topographie 6668 6683	nerf mentonnier
+T86	morphologie 7959 7965	lésion
+T87	expression_CIM 7959 7979	lésion surrénalienne
+T88	topographie 7966 7979	surrénalienne
+T89	morphologie 8001 8013	adénopathies
+T90	expression_CIM 8001 8033	adénopathies gastropancréatiques
+T91	topographie 8014 8033	gastropancréatiques
+T92	morphologie 8354 8360	lésion
+T93	expression_CIM 8354 8374	lésion surrénalienne
+T94	topographie 8361 8374	surrénalienne
+T95	morphologie 8555 8561	tumeur
+T96	expression_CIM 8555 8569	tumeur osseuse
+T97	topographie 8562 8569	osseuse
+T98	morphologie 8597 8616	foyers de captation
+T99	expression_CIM 8597 8693	foyers de captation dans l'omoplate gauche, la colonne vertébrale, les os pelviens et les fémurs
+T100	topographie 8624 8632	omoplate
+T101	topographie 8644 8662	colonne vertébrale
+T102	topographie 8668 8679	os pelviens
+T103	topographie 8687 8693	fémurs
+T104	morphologie 8735 8741	lésion
+T105	expression_CIM 8735 8755	lésion surrénalienne
+T106	topographie 8742 8755	surrénalienne
+T107	morphologie 9742 9753;9762 9772	progression disséminée
+T108	expression_CIM 9742 9772	progression osseuse disséminée
+T109	topographie 9754 9761	osseuse
+T110	expression_CIM 9932 9957	progression de la maladie
+T111	morphologie 9932 9957	progression de la maladie
+#1	ICD-O T48	8000/3
+#2	ICD-O T1	8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T6	8000/6
+#5	ICD-O T7	C41.9 8000/6
+#6	ICD-O T8	C41.9
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	C72.0 8000/1
+#9	ICD-O T11	C72.0
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/6
+#13	ICD-O T15	8000/6
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/3
+#19	ICD-O T21	8000/3
+#20	ICD-O T22	tocheck
+#21	ICD-O T25	C48.0
+#22	ICD-O T27	8000/1
+#23	ICD-O T28	C74.9 8000/1
+#24	ICD-O T29	C74.9
+#25	ICD-O T30	8000/6
+#26	ICD-O T31	8000/6
+#27	ICD-O T32	8490/3
+#28	ICD-O T34	3
+#29	ICD-O T35	8000/1
+#30	ICD-O T36	8000/1
+#31	ICD-O T37	8000/1
+#32	ICD-O T38	C18.9 8000/1
+#33	ICD-O T39	C18.9
+#34	ICD-O T40	8000/6
+#35	ICD-O T41	8000/6
+#36	ICD-O T42	C77.9
+#37	ICD-O T44	8000/6
+#38	ICD-O T45	3
+#39	ICD-O T47	8490/3
+#40	ICD-O T49	C18.9 8000/1
+#41	ICD-O T50	C18.9
+#42	ICD-O T51	8000/1
+#43	ICD-O T53	C42.1
+#44	ICD-O T54	8000/1
+#45	ICD-O T55	8000/9
+#46	ICD-O T56	8000/1
+#47	ICD-O T58	C74.9
+#48	ICD-O T59	8000/1
+#49	ICD-O T60	C77.1 8000/1
+#50	ICD-O T61	C76.1
+#51	ICD-O T62	8000/1
+#52	ICD-O T63	8000/1
+#53	ICD-O T64	8000/9
+#54	ICD-O T65	C70.9 8000/1
+#55	ICD-O T66	C70.9
+#56	ICD-O T67	8490/3
+#57	ICD-O T69	3
+#58	ICD-O T70	C18.9
+#59	ICD-O T71	8000/6
+#60	ICD-O T72	8000/6
+#61	ICD-O T73	8000/9
+#62	ICD-O T74	C41.9 8000/1;C64.9 8000/1;C74.9 8000/1;C77.9 8000/1
+#63	ICD-O T75	C41.9
+#64	ICD-O T76	C74.9
+#65	ICD-O T77	C64.9
+#66	ICD-O T78	C77.9
+#67	ICD-O T79	8000/9
+#68	ICD-O T80	C42.1 8000/1
+#69	ICD-O T81	C42.1
+#70	ICD-O T82	8000/9
+#71	ICD-O T83	C47.0 8000/1
+#72	ICD-O T84	C47.0
+#73	ICD-O T85	C47.0
+#74	ICD-O T86	8000/1
+#75	ICD-O T87	C74.9 8000/1
+#76	ICD-O T88	C74.9
+#77	ICD-O T89	8000/1
+#78	ICD-O T90	C77.2 8000/1
+#79	ICD-O T91	C76.2
+#80	ICD-O T92	8000/1
+#81	ICD-O T93	C74.9 8000/1
+#82	ICD-O T94	C74.9
+#83	ICD-O T95	8000/3
+#84	ICD-O T96	C41.9 8000/1
+#85	ICD-O T97	C41.9
+#86	ICD-O T98	8000/9
+#87	ICD-O T99	C40.0 8000/1;C40.2 8000/1;C41.2 8000/1;C41.4 8000/1
+#88	ICD-O T100	C40.0
+#89	ICD-O T101	C41.2
+#90	ICD-O T102	C41.4
+#91	ICD-O T103	C40.2
+#92	ICD-O T104	8000/1
+#93	ICD-O T105	C74.9 8000/1
+#94	ICD-O T106	C74.9
+#95	ICD-O T107	8000/6
+#96	ICD-O T109	C41.9
+#97	ICD-O T110	8000/1
+#98	ICD-O T111	8000/9
+#99	AnnotatorNotes T32	trad
+#100	AnnotatorNotes T47	trad
+#101	AnnotatorNotes T67	trad

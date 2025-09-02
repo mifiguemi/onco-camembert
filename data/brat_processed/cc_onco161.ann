@@ -1,0 +1,31 @@
+T1	morphologie 1368 1374	tumeur
+T3	topographie 1387 1393	rectum
+T5	morphologie 1438 1457	carcinome colloïdal
+T7	morphologie 1508 1514	tumeur
+T8	morphologie 1551 1565	adénocarcinome
+T10	topographie 1573 1579	rectum
+T12	morphologie 1707 1713	tumeur
+T14	morphologie 1738 1744	tumeur
+T16	morphologie 1914 1943	ganglion lymphatique infiltré
+T18	morphologie 2018 2024	tumeur
+T19	morphologie 2585 2590	masse
+T21	topographie 2599 2605	rectum
+T22	morphologie 3003 3008	masse
+T24	topographie 3009 3016	rectale
+T26	morphologie 3226 3256	tumeur épithéliale infiltrante
+T28	morphologie 3453 3471	cellules tumorales
+T29	morphologie 3591 3599	invasion
+T31	topographie 3600 3611	périneurale
+T33	morphologie 3669 3681	adénopathies
+T35	morphologie 3701 3722	infiltration tumorale
+T37	morphologie 3736 3748	adénopathies
+T39	morphologie 3803 3820	lésions tumorales
+T40	morphologie 3858 3876	Carcinome colloïde
+T42	topographie 3884 3890	rectum
+T44	morphologie 4805 4811	lésion
+T45	morphologie 4918 4927	carcinome
+T52	morphologie 4934 4952	à cellules claires
+T47	topographie 4928 4933	rénal
+T48	differenciation 4954 4974	grade 1-2 de Fürhman
+T49	morphologie 5160 5169	carcinome
+T51	topographie 5170 5176	rectal

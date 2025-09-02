@@ -1,0 +1,38 @@
+T1	morphologie 62 67	masse
+T3	topographie 75 83	aisselle
+T4	morphologie 166 200	mélanome d'extension superficielle
+T8	morphologie 460 476	maladie tumorale
+T9	morphologie 551 558	nodules
+T11	topographie 567 571	sein
+T13	morphologie 677 690	fibroadénomes
+T14	morphologie 844 855	adénopathie
+T16	topographie 856 865	axillaire
+T17	morphologie 902 913	adénopathie
+T19	topographie 921 929	aisselle
+T20	topographie 957 997	ganglions lymphatiques sus-claviculaires
+T22	morphologie 1283 1294	adénopathie
+T24	morphologie 1392 1401	néoplasie
+T26	morphologie 1500 1517	cellules malignes
+T28	morphologie 1654 1662	mélanome
+T29	morphologie 1923 1931	récidive
+T31	topographie 1945 1958	ganglionnaire
+T32	morphologie 1988 1995	nodules
+T34	topographie 1996 2007	pulmonaires
+T35	morphologie 2430 2436	nodule
+T37	topographie 2445 2448	LSD
+T38	morphologie 2667 2674	nodules
+T40	topographie 2683 2689	poumon
+T41	topographie 2710 2724	lobe supérieur
+T42	topographie 2744 2758	lobe inférieur
+T44	morphologie 2801 2811	métastases
+T46	morphologie 2815 2823	mélanome
+T47	morphologie 2854 2861	maladie
+T49	topographie 2862 2872	pulmonaire
+T51	morphologie 3001 3009	mélanome
+T52	morphologie 3026 3036	métastases
+T54	topographie 3037 3048	pulmonaires
+T55	morphologie 3630 3637	nodules
+T57	topographie 3652 3670	membres inférieurs
+T59	morphologie 4835 4843	mélanome
+T61	morphologie 5194 5213	maladie oncologique
+T6	topographie 209 226	région scapulaire

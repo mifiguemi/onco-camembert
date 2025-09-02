@@ -1,0 +1,117 @@
+T1	expression_CIM 253 259	cancer
+T2	morphologie 253 259	cancer
+T3	morphologie 304 310	cancer
+T4	expression_CIM 304 319	cancer du côlon
+T5	topographie 314 319	côlon
+T6	morphologie 366 372	cancer
+T7	expression_CIM 366 398	cancer métastatique, non affilié
+T9	expression_CIM 462 478	Lésion pigmentée
+T10	morphologie 462 478	Lésion pigmentée
+T11	morphologie 909 925	lésion pigmentée
+T12	expression_CIM 909 965	lésion pigmentée mesurant 8x3mm sur le 5e orteil du pied
+T13	topographie 951 957	orteil
+T14	topographie 961 965	pied
+T15	expression_CIM 1021 1027	lésion
+T16	morphologie 1021 1027	lésion
+T17	expression_CIM 1030 1070	Mélanome malin d'extension superficielle
+T18	morphologie 1030 1070	Mélanome malin d'extension superficielle
+T19	morphologie 1580 1591	adénopathie
+T20	expression_CIM 1580 1617	adénopathie médiastinale ou axillaire
+T21	topographie 1592 1604	médiastinale
+T22	topographie 1608 1617	axillaire
+T23	morphologie 1650 1666	lésion nodulaire
+T24	expression_CIM 1650 1702	lésion nodulaire bien circonscrite dans l'oreillette
+T25	topographie 1692 1702	oreillette
+T26	expression_CIM 1861 1867	lésion
+T27	morphologie 1861 1867	lésion
+T28	expression_CIM 1968 1994	adénopathies pathologiques
+T29	morphologie 1968 1994	adénopathies pathologiques
+T30	morphologie 2153 2158	masse
+T31	expression_CIM 2153 2222	masse intracavitaire dépendant de la paroi supérieure de l'oreillette
+T33	expression_CIM 2520 2539	lésion métastatique
+T34	morphologie 2520 2539	lésion métastatique
+T35	morphologie 2626 2632	myxome
+T36	expression_CIM 2626 2644	myxome auriculaire
+T37	topographie 2633 2644	auriculaire
+T38	expression_CIM 2660 2673	lésion focale
+T39	morphologie 2660 2673	lésion focale
+T40	expression_CIM 3021 3036	restes tumoraux
+T41	morphologie 3021 3036	restes tumoraux
+T42	morphologie 3329 3334	Masse
+T43	expression_CIM 3329 3497	Masse de 19 x 17 mm de morphologie arrondie avec micro-dépôts calciques et petites zones de liquéfaction, ancrée au niveau de la paroi antéro-supérieure de l'oreillette
+T45	expression_CIM 3575 3580	masse
+T46	morphologie 3575 3580	masse
+T47	expression_CIM 3753 3761	mélanome
+T48	morphologie 3753 3761	mélanome
+T49	expression_CIM 3951 3957	tumeur
+T50	morphologie 3951 3957	tumeur
+T51	morphologie 4161 4166	masse
+T52	expression_CIM 4161 4174	masse atriale
+T53	topographie 4167 4174	atriale
+T54	morphologie 4179 4184	masse
+T55	expression_CIM 4179 4192	masse atriale
+T56	topographie 4185 4192	atriale
+T57	morphologie 4302 4308	myxome
+T58	expression_CIM 4302 4315	myxome atrial
+T59	topographie 4309 4315	atrial
+T60	expression_CIM 4351 4379	tumeur stromale laxe mucoïde
+T61	morphologie 4351 4379	tumeur stromale laxe mucoïde
+T62	expression_CIM 4498 4514	maladie tumorale
+T63	morphologie 4498 4514	maladie tumorale
+T8	topographie 387 398	non affilié
+T44	topographie 3458 3497	paroi antéro-supérieure de l'oreillette
+T32	topographie 2190 2222	paroi supérieure de l'oreillette
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/3
+#3	ICD-O T3	8000/3
+#4	ICD-O T4	C18.9 8000/3
+#5	ICD-O T5	C18.9
+#6	ICD-O T6	8000/3
+#7	ICD-O T10	8720/1
+#8	ICD-O T11	8720/1
+#9	ICD-O T12	C76.5 8000/1
+#10	ICD-O T13	C76.5
+#11	ICD-O T14	C76.5
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	8743/3
+#15	ICD-O T18	8743/3
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C77.1 8000/1;C77.3 8000/1
+#18	ICD-O T21	C38.3
+#19	ICD-O T22	C76.1
+#20	ICD-O T23	8000/1
+#21	ICD-O T25	C38.0
+#22	ICD-O T26	8000/1
+#23	ICD-O T27	8000/1
+#24	ICD-O T28	C77.9 8000/1
+#25	ICD-O T29	8000/1
+#26	ICD-O T30	8000/1
+#27	ICD-O T33	8000/6
+#28	ICD-O T34	8000/6
+#29	ICD-O T35	8840/0
+#30	ICD-O T36	C44.2 8840/0
+#31	ICD-O T37	C44.2
+#32	ICD-O T39	tocheck
+#33	ICD-O T40	8000/3
+#34	ICD-O T41	8000/3
+#35	ICD-O T42	8000/1
+#36	ICD-O T45	8000/1
+#37	ICD-O T46	8000/1
+#38	ICD-O T47	8720/3
+#39	ICD-O T48	8720/3
+#40	ICD-O T49	8000/1
+#41	ICD-O T50	8000/1
+#42	ICD-O T51	8000/1
+#43	ICD-O T52	C38.0 8000/1
+#44	ICD-O T53	C38.0
+#45	ICD-O T54	8000/1
+#46	ICD-O T55	C38.0 8000/1
+#47	ICD-O T56	C38.0
+#48	ICD-O T57	8840/0
+#49	ICD-O T58	C38.0 8840/0
+#50	ICD-O T59	C38.0
+#51	ICD-O T60	8935/1
+#52	ICD-O T61	8935/1
+#53	ICD-O T62	8000/3
+#54	ICD-O T63	8000/3

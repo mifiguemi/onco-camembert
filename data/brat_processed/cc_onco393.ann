@@ -1,0 +1,26 @@
+T1	morphologie 176 182	cancer
+T3	topographie 186 190	sein
+T4	morphologie 340 370	carcinome canalaire infiltrant
+T6	topographie 374 378	sein
+T7	differenciation 388 396	grade II
+T8	morphologie 1170 1181	progression
+T10	morphologie 1185 1191	cancer
+T12	topographie 1195 1199	sein
+T13	topographie 1231 1253	ganglions lymphatiques
+T14	topographie 1259 1261	os
+T15	topographie 1271 1277	plèvre
+T17	morphologie 1371 1391	maladie métastatique
+T18	morphologie 1503 1517	adénocarcinome
+T20	topographie 1529 1535	rectum
+T21	morphologie 2113 2132	maladie néoplasique
+T23	topographie 2136 2140	sein
+T24	morphologie 2269 2278	métastase
+T26	topographie 2279 2286	osseuse
+T28	morphologie 3433 3441	récidive
+T29	morphologie 3449 3455	cancer
+T31	topographie 3456 3469	rectosigmoïde
+T33	morphologie 3748 3756	récidive
+T34	morphologie 3764 3773	néoplasme
+T36	topographie 3774 3780	rectal
+T37	morphologie 4400 4406	lésion
+T39	topographie 4411 4422	tissus mous

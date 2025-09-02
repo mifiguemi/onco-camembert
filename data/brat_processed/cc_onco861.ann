@@ -1,0 +1,35 @@
+T1	morphologie 665 670	masse
+T3	topographie 697 707	mésogastre
+T4	morphologie 1176 1181	masse
+T6	topographie 1182 1198	rétropéritonéale
+T7	morphologie 1379 1391	infiltration
+T9	topographie 1392 1399	osseuse
+T10	topographie 1413 1419	sacrum
+T11	topographie 1432 1446	lames iliaques
+T13	morphologie 1464 1469	masse
+T15	morphologie 1505 1512	lésions
+T16	morphologie 1615 1620	masse
+T18	topographie 1621 1637	rétropéritonéale
+T20	morphologie 2117 2130	neuroblastome
+T22	morphologie 2194 2215	infiltration tumorale
+T23	morphologie 2282 2287	masse
+T25	topographie 2288 2304	rétropéritonéale
+T27	morphologie 2485 2498	dissémination
+T29	morphologie 2737 2750	neuroblastome
+T31	morphologie 2754 2762	stade IV
+T32	morphologie 2764 2772	atteinte
+T34	topographie 2779 2793	moelle osseuse
+T35	topographie 2801 2803	os
+T37	morphologie 2886 2899	neuroblastome
+T39	morphologie 2964 2977	tissu tumoral
+T41	morphologie 3278 3291	neuroblastome
+T42	morphologie 3662 3667	masse
+T44	topographie 3668 3684	rétropéritonéale
+T46	morphologie 4248 4262	masse tumorale
+T47	morphologie 4677 4682	masse
+T49	topographie 4683 4699	rétropéritonéale
+T50	morphologie 5074 5087	tissu tumoral
+T52	topographie 5088 5097	pré-sacré
+T54	morphologie 5531 5537	tumeur
+T56	morphologie 5684 5689	masse
+T58	morphologie 6847 6872	progression de la maladie

@@ -1,0 +1,119 @@
+T1	expression_CIM 115 123	mélanome
+T2	morphologie 115 123	mélanome
+T3	morphologie 202 211	néoplasie
+T4	expression_CIM 202 225	néoplasie hématologique
+T5	topographie 212 225	hématologique
+T6	morphologie 798 803	masse
+T7	expression_CIM 798 813	masse hépatique
+T8	topographie 804 813	hépatique
+T9	morphologie 859 880	nodules métastatiques
+T10	expression_CIM 859 914	nodules métastatiques dans le lobe hépatique droit (LHD
+T11	topographie 889 903	lobe hépatique
+T12	topographie 911 914	LHD
+T13	expression_CIM 954 985	hépatocarcinome fibrolamellaire
+T14	morphologie 954 985	hépatocarcinome fibrolamellaire
+T15	morphologie 1002 1014	adénopathies
+T16	expression_CIM 1002 1023	adénopathies hilaires
+T17	topographie 1015 1023	hilaires
+T18	expression_CIM 1049 1062	dissémination
+T19	morphologie 1049 1062	dissémination
+T20	expression_CIM 1080 1105	tumeur maligne à distance
+T21	morphologie 1080 1105	tumeur maligne à distance
+T22	morphologie 1322 1353	hépatocarcinome fibrolamellaire
+T23	expression_CIM 1322 1369	hépatocarcinome fibrolamellaire peu différencié
+T24	differenciation 1354 1369	peu différencié
+T25	expression_CIM 2137 2168	Hépatocarcinome fibrolamellaire
+T26	morphologie 2137 2168	Hépatocarcinome fibrolamellaire
+T27	expression_CIM 2172 2180	stade IV
+T28	morphologie 2172 2180	stade IV
+T29	morphologie 2670 2676	lésion
+T30	expression_CIM 2670 2740	lésion hétérogène a été détectée au niveau du segment hépatique VI-VII
+T32	expression_CIM 2831 2839	récidive
+T33	morphologie 2831 2839	récidive
+T34	expression_CIM 2843 2862	CHC fibrolamellaire
+T35	morphologie 2843 2862	CHC fibrolamellaire
+T36	morphologie 2936 2944	récidive
+T37	expression_CIM 2936 3083	récidive hépatique, péritonéale (implants périhépatiques, pelvis), intercostale droite et probable monopulmonaire dans le lobe inférieur droit (LID
+T38	topographie 2945 2954	hépatique
+T39	topographie 2956 2967	péritonéale
+T40	morphologie 2969 2977	implants
+T41	topographie 2978 2992	périhépatiques
+T42	topographie 2994 3000	pelvis
+T43	topographie 3003 3015	intercostale
+T44	topographie 3035 3049	monopulmonaire
+T45	topographie 3058 3072	lobe inférieur
+T46	topographie 3080 3083	LID
+T47	morphologie 3813 3820	lésions
+T48	expression_CIM 3813 3889	lésions ganglionnaires intercostales droites, hépatiques et diaphragmatiques
+T49	topographie 3821 3849	ganglionnaires intercostales
+T50	topographie 3859 3869	hépatiques
+T51	topographie 3873 3889	diaphragmatiques
+T52	morphologie 4539 4550	progression
+T53	expression_CIM 4539 4589	progression hépatique, intercostale et péritonéale
+T54	topographie 4551 4560	hépatique
+T55	topographie 4562 4574	intercostale
+T56	topographie 4578 4589	péritonéale
+T57	morphologie 4764 4766	EP
+T58	expression_CIM 4764 4803	EP pulmonaire, hépatique et péritonéale
+T59	topographie 4767 4777	pulmonaire
+T60	topographie 4779 4788	hépatique
+T61	topographie 4792 4803	péritonéale
+T31	topographie 2716 2740	segment hépatique VI-VII
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	8720/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C42.0 8000/1
+#5	ICD-O T5	C42.0
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C22.0 8000/1
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	C22.0 8000/6
+#11	ICD-O T11	C22.0
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	8171/3
+#14	ICD-O T14	8171/3
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C77.1 8000/1
+#17	ICD-O T17	C76.1
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	8171/3
+#23	ICD-O T23	8171/33
+#24	ICD-O T24	3
+#25	ICD-O T25	8171/3
+#26	ICD-O T26	8171/3
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/1
+#29	ICD-O T32	8000/6
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	8171/3
+#32	ICD-O T35	8171/3
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	C22.0 8000/6;C34.3 8000/6;C34.9 8000/6;C48.2 8000/6;C76.1 8000/6
+#35	ICD-O T38	C22.0
+#36	ICD-O T39	C48.2
+#37	ICD-O T40	8000/6
+#38	ICD-O T41	C24.8
+#39	ICD-O T42	C76.3
+#40	ICD-O T43	C76.1
+#41	ICD-O T44	C34.9
+#42	ICD-O T45	C34.3
+#43	ICD-O T46	C34.3
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C22.0 8000/1;C49.3 8000/1;C77.1 8000/1
+#46	ICD-O T49	C77.1
+#47	ICD-O T50	C22.0
+#48	ICD-O T51	C49.3
+#49	ICD-O T52	8000/6
+#50	ICD-O T53	C22.0 8000/6;C48.2 8000/6;C76.1 8000/6
+#51	ICD-O T54	C22.0
+#52	ICD-O T55	C76.1
+#53	ICD-O T56	C48.2
+#54	ICD-O T57	8000/9
+#55	ICD-O T59	C34.9
+#56	ICD-O T60	C22.0
+#57	ICD-O T61	C48.2
+#58	AnnotatorNotes T57	trad

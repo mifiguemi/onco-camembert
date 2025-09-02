@@ -1,0 +1,204 @@
+T1	morphologie 273 279	nodule
+T2	expression_CIM 273 314	nodule douloureux dans la muqueuse jugale
+T3	topographie 299 314	muqueuse jugale
+T4	expression_CIM 523 529	tumeur
+T5	morphologie 523 529	tumeur
+T6	morphologie 823 829	Tumeur
+T7	expression_CIM 823 861	Tumeur de 5 cm dans la muqueuse jugale
+T8	topographie 846 861	muqueuse jugale
+T9	morphologie 870 881	Adénopathie
+T10	expression_CIM 870 897	Adénopathie sous-maxillaire
+T11	topographie 882 897	sous-maxillaire
+T12	morphologie 1089 1098;1113 1131	carcinome à petites cellules
+T13	expression_CIM 1089 1131	carcinome indifférencié à petites cellules
+T14	differenciation 1099 1112	indifférencié
+T15	morphologie 1301 1307	lésion
+T16	expression_CIM 1301 1374	lésion expansive de l'espace buccal droit provenant de la muqueuse jugale
+T17	topographie 1323 1336	espace buccal
+T18	topographie 1359 1374	muqueuse jugale
+T19	morphologie 1538 1549	adénopathie
+T20	expression_CIM 1538 1580	adénopathie dans la chaîne sous-maxillaire
+T21	topographie 1558 1580	chaîne sous-maxillaire
+T22	expression_CIM 1695 1701	tumeur
+T23	morphologie 1695 1701	tumeur
+T24	morphologie 1798 1822	lésion tumorale primaire
+T25	expression_CIM 1798 1829	lésion tumorale primaire jugale
+T26	topographie 1823 1829	jugale
+T27	morphologie 1843 1885;1900 1912	conglomérat adénopathique hypermétabolique métastatique
+T28	expression_CIM 1843 1952	conglomérat adénopathique hypermétabolique (SUV 10 g/mL) métastatique sous-maxillaire et jugulaire supérieure
+T29	topographie 1913 1928	sous-maxillaire
+T31	morphologie 1972 1978	nodule
+T32	expression_CIM 1972 1988	nodule jugulaire
+T33	topographie 1979 1988	jugulaire
+T34	morphologie 2058 2065;2075 2088	lésions métastatiques
+T35	expression_CIM 2058 2171	lésions osseuses métastatiques dans les corps vertébraux de D11, L2, l'iléon gauche et le tiers proximal du fémur
+T36	topographie 2066 2074	osseuses
+T37	topographie 2098 2114	corps vertébraux
+T38	topographie 2129 2134	iléon
+T39	topographie 2166 2171	fémur
+T40	expression_CIM 2292 2301	métastase
+T41	morphologie 2292 2301	métastase
+T42	morphologie 2404 2414	métastases
+T43	expression_CIM 2404 2425	métastases cérébrales
+T44	topographie 2415 2425	cérébrales
+T45	expression_CIM 2435 2442	lésions
+T46	morphologie 2435 2442	lésions
+T47	expression_CIM 2525 2538	dissémination
+T48	morphologie 2525 2538	dissémination
+T49	morphologie 2579 2588;2603 2621	carcinome à petites cellules
+T50	expression_CIM 2579 2643	carcinome indifférencié à petites cellules de la muqueuse jugale
+T51	differenciation 2589 2602	indifférencié
+T52	topographie 2628 2643	muqueuse jugale
+T53	expression_CIM 2654 2662	stade IV
+T54	morphologie 2654 2662	stade IV
+T55	morphologie 2676 2686	métastases
+T56	expression_CIM 2676 2695	métastases osseuses
+T57	topographie 2687 2695	osseuses
+T58	expression_CIM 3530 3545	tumeur primaire
+T59	morphologie 3530 3545	tumeur primaire
+T60	expression_CIM 3663 3678	tumeur primaire
+T61	morphologie 3663 3678	tumeur primaire
+T62	morphologie 3688 3701	dissémination
+T63	expression_CIM 3688 3709	dissémination osseuse
+T64	topographie 3702 3709	osseuse
+T65	morphologie 3864 3874	métastases
+T66	expression_CIM 3864 3885	métastases cérébrales
+T67	topographie 3875 3885	cérébrales
+T68	expression_CIM 3902 3908	tumeur
+T69	morphologie 3902 3908	tumeur
+T70	morphologie 4129 4135	lésion
+T71	expression_CIM 4129 4219	lésion pierreuse blanchâtre exophytique de 2 x 2 cm a été observée dans la muqueuse jugale
+T72	topographie 4204 4219	muqueuse jugale
+T73	expression_CIM 4309 4320	adénopathie
+T74	morphologie 4309 4320	adénopathie
+T75	morphologie 4420 4456	progression de la maladie localement
+T76	expression_CIM 4420 4491	progression de la maladie localement et dans les ganglions lymphatiques
+T77	topographie 4469 4491	ganglions lymphatiques
+T78	morphologie 4517 4542	progression de la maladie
+T79	expression_CIM 4517 4588	progression de la maladie localement et dans les ganglions lymphatiques
+T80	topographie 4566 4588	ganglions lymphatiques
+T81	morphologie 4619 4629	métastases
+T82	expression_CIM 4619 4638	métastases osseuses
+T83	topographie 4630 4638	osseuses
+T84	morphologie 5101 5119	progression locale
+T85	expression_CIM 5101 5136	progression locale et ganglionnaire
+T86	topographie 5123 5136	ganglionnaire
+T87	morphologie 5324 5335	adénopathie
+T88	expression_CIM 5324 5351	adénopathie sous-maxillaire
+T89	topographie 5336 5351	sous-maxillaire
+T90	expression_CIM 5643 5667	progression du néoplasme
+T91	morphologie 5643 5667	progression du néoplasme
+T92	morphologie 5703 5710	lésions
+T93	expression_CIM 5703 5733	lésions multiples dans le foie
+T94	topographie 5729 5733	foie
+T95	morphologie 5739 5751	adénopathies
+T96	expression_CIM 5739 5798	adénopathies mésentériques, rétropéritonéales et pelviennes
+T97	topographie 5752 5765	mésentériques
+T98	topographie 5767 5784	rétropéritonéales
+T99	topographie 5788 5798	pelviennes
+T100	morphologie 5804 5811	nodules
+T101	expression_CIM 5804 5823	nodules pulmonaires
+T102	topographie 5812 5823	pulmonaires
+T103	morphologie 5853 5860	lésions
+T104	expression_CIM 5853 5869	lésions osseuses
+T105	topographie 5861 5869	osseuses
+T30	topographie 1932 1952	jugulaire supérieure
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C06.0
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C06.0 8000/1
+#7	ICD-O T8	C06.0
+#8	ICD-O T9	8000/1
+#9	ICD-O T11	C76.0
+#10	ICD-O T12	8041/3
+#11	ICD-O T13	8041/34
+#12	ICD-O T14	4
+#13	ICD-O T15	8000/1
+#14	ICD-O T17	C06.9
+#15	ICD-O T18	C06.0
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C77.0 8000/1
+#18	ICD-O T21	C77.0
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	8000/3
+#22	ICD-O T25	C76.0 8000/3
+#23	ICD-O T26	C76.0
+#24	ICD-O T27	8000/6
+#25	ICD-O T29	C76.0
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	C76.0 8000/1
+#28	ICD-O T33	C76.0
+#29	ICD-O T34	8000/6
+#30	ICD-O T35	C17.2 8000/6;C40.2 8000/6;C41.2 8000/6;C41.9 8000/6
+#31	ICD-O T36	C41.9
+#32	ICD-O T37	C41.2
+#33	ICD-O T38	C17.2
+#34	ICD-O T39	C40.2
+#35	ICD-O T40	8000/6
+#36	ICD-O T41	8000/6
+#37	ICD-O T42	8000/6
+#38	ICD-O T43	C71.0 8000/6
+#39	ICD-O T44	C71.0
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	8000/6
+#43	ICD-O T48	8000/6
+#44	ICD-O T49	8041/3
+#45	ICD-O T50	C06.0 8041/34
+#46	ICD-O T51	4
+#47	ICD-O T52	C06.0
+#48	ICD-O T53	8000/6
+#49	ICD-O T54	8000/6
+#50	ICD-O T55	8000/6
+#51	ICD-O T56	C41.9 8000/6
+#52	ICD-O T57	C41.9
+#53	ICD-O T58	8000/3
+#54	ICD-O T59	8000/3
+#55	ICD-O T60	8000/3
+#56	ICD-O T61	8000/3
+#57	ICD-O T62	8000/6
+#58	ICD-O T63	C41.9 8000/6
+#59	ICD-O T64	C41.9
+#60	ICD-O T65	8000/6
+#61	ICD-O T66	C71.0 8000/6
+#62	ICD-O T67	C71.0
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	8000/1
+#65	ICD-O T70	8000/1
+#66	ICD-O T72	C06.0
+#67	ICD-O T73	C77.9 8000/1
+#68	ICD-O T74	8000/1
+#69	ICD-O T75	8000/3
+#70	ICD-O T76	C77.9 8000/1
+#71	ICD-O T77	C77.9
+#72	ICD-O T78	8000/1
+#73	ICD-O T79	C77.9 8000/1
+#74	ICD-O T80	C77.9
+#75	ICD-O T81	8000/6
+#76	ICD-O T82	C41.9 8000/6
+#77	ICD-O T83	C41.9
+#78	ICD-O T84	8000/3
+#79	ICD-O T85	C77.9 8000/6
+#80	ICD-O T86	C77.9
+#81	ICD-O T87	8000/1
+#82	ICD-O T88	C77.0 8000/1
+#83	ICD-O T89	C76.0
+#84	ICD-O T90	8000/6
+#85	ICD-O T91	8000/6
+#86	ICD-O T92	8000/1
+#87	ICD-O T93	C22.0 8000/1
+#88	ICD-O T94	C22.0
+#89	ICD-O T95	8000/1
+#90	ICD-O T96	C77.2 8000/1;C77.5 8000/1
+#91	ICD-O T97	C48.1
+#92	ICD-O T98	C48.0
+#93	ICD-O T99	C76.3
+#94	ICD-O T100	8000/1
+#95	ICD-O T101	C34.9 8000/1
+#96	ICD-O T102	C34.9
+#97	ICD-O T103	8000/1
+#98	ICD-O T104	C41.9 8000/1
+#99	ICD-O T105	C41.9

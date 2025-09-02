@@ -1,0 +1,76 @@
+T14	topographie 2240 2264	fenêtre aorto-pulmonaire
+T11	topographie 1581 1600	région parotidienne
+T1	expression_CIM 798 803	masse
+T2	morphologie 798 803	masse
+T3	morphologie 841 862	carcinome épidermoïde
+T4	expression_CIM 841 878	carcinome épidermoïde intraparotidien
+T5	topographie 863 878	intraparotidien
+T6	morphologie 1125 1146	carcinome épidermoïde
+T7	expression_CIM 1125 1161	carcinome épidermoïde de la parotide
+T8	topographie 1153 1161	parotide
+T9	morphologie 1483 1491	grosseur
+T10	expression_CIM 1483 1600	grosseur dure, non pierreuse, douloureuse à la palpation et d'un diamètre d'environ 3 cm, dans la région parotidienne
+T12	morphologie 2196 2208	adénopathies
+T13	expression_CIM 2196 2282	adénopathies de taille pathologique dans la fenêtre aorto-pulmonaire et prévascualaire
+T15	morphologie 2336 2350	tumeur maligne
+T16	expression_CIM 2336 2365	tumeur maligne endobronchique
+T17	topographie 2351 2365	endobronchique
+T18	morphologie 2565 2582	lymphadénopathies
+T19	expression_CIM 2565 2628	lymphadénopathies latérocervicales, médiastinales et axillaires
+T20	topographie 2583 2599	latérocervicales
+T21	topographie 2601 2614	médiastinales
+T22	topographie 2618 2628	axillaires
+T23	expression_CIM 2778 2790	métastatique
+T24	morphologie 2778 2790	métastatique
+T25	morphologie 2900 2921	carcinome épidermoïde
+T26	expression_CIM 2900 2936	carcinome épidermoïde de la parotide
+T27	topographie 2928 2936	parotide
+T28	expression_CIM 3103 3109	tumeur
+T29	morphologie 3103 3109	tumeur
+T30	morphologie 3162 3183	carcinome épidermoïde
+T31	expression_CIM 3162 3253	carcinome épidermoïde cutané infiltrant la parotide et les ganglions lymphatiques cervicaux
+T32	topographie 3184 3190	cutané
+T33	topographie 3205 3213	parotide
+T34	topographie 3221 3253	ganglions lymphatiques cervicaux
+T35	morphologie 3298 3319	carcinome épidermoïde
+T36	expression_CIM 3298 3326	carcinome épidermoïde cutané
+T37	topographie 3320 3326	cutané
+T38	morphologie 3340 3365	métastases adénopathiques
+T39	expression_CIM 3340 3391	métastases adénopathiques, pleurales, parotidiennes
+T40	topographie 3367 3376	pleurales
+T41	topographie 3378 3391	parotidiennes
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8070/3
+#4	ICD-O T4	C07.9 8070/3
+#5	ICD-O T5	C07.9
+#6	ICD-O T6	8070/3
+#7	ICD-O T7	C07.9 8070/3
+#8	ICD-O T8	C07.9
+#9	ICD-O T9	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T15	8000/3
+#12	ICD-O T16	C34.9 8000/3
+#13	ICD-O T17	C34.9
+#14	ICD-O T18	8000/1
+#15	ICD-O T19	C77.0 8000/1;C77.1 8000/1;C77.3 8000/1
+#16	ICD-O T20	C76.0
+#17	ICD-O T21	C38.3
+#18	ICD-O T22	C76.1
+#19	ICD-O T24	8000/6
+#20	ICD-O T25	8070/3
+#21	ICD-O T26	C07.9 8070/3
+#22	ICD-O T27	C07.9
+#23	ICD-O T28	8000/1
+#24	ICD-O T29	8000/1
+#25	ICD-O T30	8070/3
+#26	ICD-O T32	C44.9
+#27	ICD-O T33	C07.9
+#28	ICD-O T34	C77.0 
+#29	ICD-O T35	8070/3
+#30	ICD-O T36	C44.9 8070/3
+#31	ICD-O T37	C44.9
+#32	ICD-O T38	8000/6
+#33	ICD-O T39	C07.9 8000/6;C38.4 8000/6;C77.9 8000/6
+#34	ICD-O T40	C38.4
+#35	ICD-O T41	C07.9

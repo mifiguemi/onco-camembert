@@ -1,0 +1,40 @@
+T51	topographie 4521 4530	hypophyse
+T46	morphologie 4101 4139	lésion évocatrice d'une tumeur maligne
+T1	morphologie 319 333	adénocarcinome
+T3	topographie 340 348	prostate
+T4	morphologie 534 540	lésion
+T6	topographie 554 557	dos
+T8	morphologie 643 651	mélanome
+T10	morphologie 816 824	mélanome
+T11	morphologie 978 984	tumeur
+T13	topographie 985 994	axillaire
+T15	morphologie 1056 1077	mélanome métastatique
+T17	morphologie 1095 1113	maladie à distance
+T19	morphologie 1337 1351	mélanome malin
+T20	morphologie 1377 1384	nodules
+T22	topographie 1388 1401	tissu adipeux
+T23	morphologie 1483 1490	rechute
+T25	topographie 1539 1547	aisselle
+T27	morphologie 1582 1589	lésions
+T29	morphologie 1604 1616	adénopathies
+T30	morphologie 1846 1857	progression
+T32	topographie 1858 1868	musculaire
+T33	topographie 1870 1883	ganglionnaire
+T34	topographie 1887 1897	pulmonaire
+T36	morphologie 1911 1925	Mélanome malin
+T38	morphologie 1929 1937	stade IV
+T39	morphologie 3356 3364	implants
+T41	topographie 3365 3376	musculaires
+T42	morphologie 3463 3470	nodules
+T44	topographie 3471 3482	pulmonaires
+T48	morphologie 4243 4252	métastase
+T49	morphologie 4482 4515	augmentation diffuse de la taille
+T53	morphologie 4537 4539	M1
+T55	morphologie 4549 4558	métastase
+T56	morphologie 6389 6398	extension
+T58	topographie 6399 6412	suprasellaire
+T59	morphologie 7499 7506	nodules
+T61	topographie 7507 7518	pulmonaires
+T62	morphologie 7602 7608	tumeur
+T64	topographie 7609 7618	axillaire
+T66	morphologie 7700 7724	progression de la tumeur

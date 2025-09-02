@@ -1,0 +1,105 @@
+T24	topographie 2266 2292	médiastinale paratrachéale
+T1	morphologie 351 356	masse
+T2	expression_CIM 351 405	masse échocardiographique dans l'oreillette droite (AR
+T3	topographie 384 394	oreillette
+T4	topographie 403 405	AR
+T5	morphologie 528 533	masse
+T6	expression_CIM 528 543	masse dans l'AR
+T7	topographie 541 543	AR
+T8	expression_CIM 729 735	lésion
+T9	morphologie 729 735	lésion
+T10	morphologie 911 916	foyer
+T11	expression_CIM 911 970	foyer résiduel possible au niveau des veines sus-hépatiques
+T12	topographie 949 970	veines sus-hépatiques
+T13	expression_CIM 1122 1134	adénopathies
+T14	morphologie 1122 1134	adénopathies
+T15	expression_CIM 1370 1375	masse
+T16	morphologie 1370 1375	masse
+T17	expression_CIM 1393 1432	tumeur maligne de croissance biphasique
+T18	morphologie 1393 1432	tumeur maligne de croissance biphasique
+T19	morphologie 1773 1789;1800 1808	Sarcome synovial primaire
+T20	expression_CIM 1773 1822	Sarcome synovial cardiaque primaire de haut grade
+T21	topographie 1790 1799	cardiaque
+T22	morphologie 2254 2265	adénopathie
+T23	expression_CIM 2254 2292	adénopathie médiastinale paratrachéale
+T25	expression_CIM 2318 2324	lésion
+T26	morphologie 2318 2324	lésion
+T27	expression_CIM 2349 2358	métastase
+T28	morphologie 2349 2358	métastase
+T29	morphologie 2545 2550	masse
+T30	expression_CIM 2545 2604	masse solide mesurant 11 x 8 cm dans le médiastin antérieur
+T31	topographie 2585 2604	médiastin antérieur
+T32	morphologie 2629 2636	nodules
+T33	expression_CIM 2629 2648	nodules pulmonaires
+T34	topographie 2637 2648	pulmonaires
+T35	expression_CIM 2673 2683	métastases
+T36	morphologie 2673 2683	métastases
+T37	expression_CIM 2868 2874	lésion
+T38	morphologie 2868 2874	lésion
+T39	expression_CIM 2890 2908	réponse pulmonaire
+T40	topographie 2898 2908	pulmonaire
+T41	morphologie 2978 2989	progression
+T42	expression_CIM 2978 3002	progression médiastinale
+T43	topographie 2990 3002	médiastinale
+T44	morphologie 3499 3504	masse
+T45	expression_CIM 3499 3517	masse médiastinale
+T46	topographie 3505 3517	médiastinale
+T47	morphologie 3551 3557	lésion
+T48	expression_CIM 3551 3599	lésion de 5 cm entre l'œsophage et le ventricule
+T49	topographie 3574 3582	œsophage
+T50	topographie 3589 3599	ventricule
+T51	expression_CIM 3998 4023	progression de la maladie
+T52	morphologie 3998 4023	progression de la maladie
+T53	expression_CIM 4185 4210	progression de la maladie
+T54	morphologie 4185 4210	progression de la maladie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C38.0 8000/1
+#3	ICD-O T3	C38.0
+#4	ICD-O T4	C38.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C38.0 8000/1
+#7	ICD-O T7	C38.0
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C49.4 8000/1
+#12	ICD-O T12	C49.4
+#13	ICD-O T13	C77.9 8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T18	8000/3
+#18	ICD-O T19	9040/3
+#19	ICD-O T20	C38.0 9040/34
+#20	ICD-O T21	C38.0
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C77.1 8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	8000/6
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C38.1 8000/1
+#29	ICD-O T31	C38.1
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	C34.9 8000/1
+#32	ICD-O T34	C34.9
+#33	ICD-O T35	8000/6
+#34	ICD-O T36	8000/6
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T40	C34.9
+#38	ICD-O T41	8000/6
+#39	ICD-O T42	C38.3 8000/6
+#40	ICD-O T43	C38.3
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	C38.3 8000/1
+#43	ICD-O T46	C38.3
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C15.9 8000/1;C71.5 8000/1
+#46	ICD-O T49	C15.9
+#47	ICD-O T50	C71.5
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	8000/1

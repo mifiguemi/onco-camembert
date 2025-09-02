@@ -1,0 +1,100 @@
+T37	topographie 4007 4020	para-aortique
+T1	expression_CIM 616 622	masses
+T2	morphologie 616 622	masses
+T3	morphologie 1095 1100	masse
+T4	expression_CIM 1095 1125	masse au niveau du sinus rénal
+T5	topographie 1114 1125	sinus rénal
+T6	expression_CIM 1200 1228	carcinome à cellules rénales
+T7	morphologie 1200 1228	carcinome à cellules rénales
+T8	morphologie 1444 1449	masse
+T9	expression_CIM 1444 1456	masse rénale
+T10	topographie 1450 1456	rénale
+T11	expression_CIM 1473 1491	maladie à distance
+T12	morphologie 1473 1491	maladie à distance
+T13	morphologie 1688 1694;1703 1744	tumeur variante histologique, à cellules claires
+T14	expression_CIM 1688 1744	tumeur rénale, variante histologique, à cellules claires
+T15	topographie 1695 1701	rénale
+T16	morphologie 1771 1783	infiltration
+T17	expression_CIM 1771 1797	infiltration des vaisseaux
+T18	topographie 1788 1797	vaisseaux
+T19	morphologie 1909 1915	cancer
+T20	expression_CIM 1909 1923	cancer du rein
+T21	topographie 1919 1923	rein
+T22	morphologie 2152 2160	atteinte
+T23	expression_CIM 2152 2171	atteinte vasculaire
+T24	topographie 2161 2171	vasculaire
+T25	morphologie 2221 2227	cancer
+T26	expression_CIM 2221 2235	cancer du rein
+T27	topographie 2231 2235	rein
+T28	morphologie 2669 2685	lymphadénopathie
+T29	expression_CIM 2669 2702	lymphadénopathie rétropéritonéale
+T30	topographie 2686 2702	rétropéritonéale
+T31	expression_CIM 3094 3106	adénopathies
+T32	morphologie 3094 3106	adénopathies
+T33	expression_CIM 3450 3473	stabilité de la maladie
+T34	morphologie 3450 3473	stabilité de la maladie
+T35	morphologie 3987 4006	structure nodulaire
+T36	expression_CIM 3987 4020	structure nodulaire para-aortique
+T38	expression_CIM 4345 4367	foyer hypermétabolique
+T39	morphologie 4345 4367	foyer hypermétabolique
+T40	morphologie 4414 4439	conglomérat adénopathique
+T41	expression_CIM 4414 4455	conglomérat adénopathique rétropéritonéal
+T42	topographie 4440 4455	rétropéritonéal
+T43	morphologie 5332 5357	conglomérat adénopathique
+T44	expression_CIM 5332 5373	conglomérat adénopathique rétropéritonéal
+T45	topographie 5358 5373	rétropéritonéal
+T46	expression_CIM 5535 5557	foyer hypermétabolique
+T47	morphologie 5535 5557	foyer hypermétabolique
+T48	expression_CIM 5572 5589	atteinte tumorale
+T49	morphologie 5572 5589	atteinte tumorale
+T50	expression_CIM 5727 5746	maladie néoplasique
+T51	morphologie 5727 5746	maladie néoplasique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C65.9 8000/1
+#5	ICD-O T5	C65.9
+#6	ICD-O T6	8312/3
+#7	ICD-O T7	8312/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C64.9 8000/1
+#10	ICD-O T10	C64.9
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8005/3
+#14	ICD-O T14	C64.9 8005/0
+#15	ICD-O T15	C64.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C49.9 8000/1
+#18	ICD-O T18	C49.9
+#19	ICD-O T19	8000/3
+#20	ICD-O T20	C64.9 8000/3
+#21	ICD-O T21	C64.9
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C49.9 8000/1
+#24	ICD-O T24	C49.9
+#25	ICD-O T25	8000/3
+#26	ICD-O T26	C64.9 8000/3
+#27	ICD-O T27	C64.9
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C77.2 8000/1
+#30	ICD-O T30	C48.0
+#31	ICD-O T31	C77.9 8000/1
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	C77.2 8000/1
+#40	ICD-O T42	C48.0
+#41	ICD-O T43	8000/1
+#42	ICD-O T44	C77.2 8000/1
+#43	ICD-O T45	C48.0
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	8000/9
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	8000/6
+#48	ICD-O T50	8000/3
+#49	ICD-O T51	8000/3

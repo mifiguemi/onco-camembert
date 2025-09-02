@@ -1,0 +1,18 @@
+T1	morphologie 670 698	lésions occupant de l'espace
+T3	topographie 707 727	parenchyme hépatique
+T5	morphologie 782 791	métastase
+T6	morphologie 946 953	lésions
+T8	topographie 954 964	hépatiques
+T10	morphologie 1078 1084	lésion
+T12	morphologie 1227 1242	lésion tumorale
+T13	morphologie 1281 1295	adénocarcinome
+T15	differenciation 1296 1312	bien différencié
+T16	morphologie 4755 4762	lésions
+T18	topographie 4763 4773	hépatiques
+T20	morphologie 5286 5303	cellules malignes
+T21	morphologie 5436 5443	lésions
+T23	topographie 5444 5454	hépatiques
+T25	morphologie 5913 5919	tumeur
+T27	morphologie 7302 7318	réponse tumorale
+T28	morphologie 7323 7330	lésions
+T30	topographie 7331 7341	hépatiques

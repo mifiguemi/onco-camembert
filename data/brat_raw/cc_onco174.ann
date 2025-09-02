@@ -1,0 +1,194 @@
+T68	topographie 2829 2831	DM
+T3	morphologie 133 135	IM
+T2	expression_CIM 111 144	néoplasme multifocal (IM) du sein
+T4	topographie 140 144	sein
+T5	expression_CIM 202 230	carcinome papillaire invasif
+T6	morphologie 202 230	carcinome papillaire invasif
+T7	morphologie 239 260	carcinome intraductal
+T8	expression_CIM 239 285	carcinome intraductal (DCIS) 8 mm de bas grade
+T9	morphologie 262 266	DCIS
+T10	differenciation 276 285	bas grade
+T11	morphologie 292 327	carcinome canalaire infiltrant (CDI
+T12	expression_CIM 292 353	carcinome canalaire infiltrant (CDI) grade 1 12 mm dans l'UCS
+T13	differenciation 329 336	grade 1
+T15	expression_CIM 476 484	invasion
+T16	morphologie 476 484	invasion
+T17	morphologie 556 562	Cancer
+T18	expression_CIM 556 570	Cancer du sein
+T19	topographie 566 570	sein
+T20	morphologie 801 812	adénopathie
+T21	expression_CIM 801 830	adénopathie supraclaviculaire
+T22	topographie 813 830	supraclaviculaire
+T23	morphologie 1055 1061	Nodule
+T24	expression_CIM 1055 1072	Nodule thyroïdien
+T25	topographie 1062 1072	thyroïdien
+T26	expression_CIM 1257 1266	métastase
+T27	morphologie 1257 1266	métastase
+T28	expression_CIM 1268 1270	M1
+T29	morphologie 1268 1270	M1
+T30	morphologie 1275 1284	carcinome
+T31	expression_CIM 1275 1293	carcinome mammaire
+T32	topographie 1285 1293	mammaire
+T33	expression_CIM 1472 1474	M1
+T34	morphologie 1472 1474	M1
+T35	morphologie 1594 1605	adénopathie
+T36	expression_CIM 1594 1615	adénopathie axillaire
+T37	topographie 1606 1615	axillaire
+T38	morphologie 1729 1740	Adénopathie
+T39	expression_CIM 1729 1804	Adénopathie axillaire droite, ganglions sus-claviculaires et rétropectoraux
+T40	topographie 1741 1750	axillaire
+T41	topographie 1759 1786	ganglions sus-claviculaires
+T43	topographie 1808 1812	Sein
+T44	expression_CIM 1808 1836	Sein gauche (MI) avec nodule
+T45	morphologie 1830 1836	nodule
+T46	expression_CIM 1953 1959	lésion
+T47	morphologie 1953 1959	lésion
+T48	morphologie 2154 2160	Nodule
+T49	expression_CIM 2154 2195	Nodule dans le lobe thyroïdien droit (LTD
+T50	topographie 2169 2184;2192 2195	lobe thyroïdien LTD
+T51	morphologie 2229 2249	ADP hypermétabolique
+T52	expression_CIM 2229 2286	ADP hypermétabolique (SUVmax 6,2), intrathyroïdien en LTI
+T54	morphologie 2288 2291	ADP
+T55	expression_CIM 2288 2318	ADP hypermétabolique axillaire
+T56	topographie 2309 2318	axillaire
+T57	morphologie 2347 2350	ADP
+T58	expression_CIM 2347 2365	ADP rétropectorale
+T59	topographie 2351 2365	rétropectorale
+T60	morphologie 2447 2469	Foyer hypermétabolique
+T61	expression_CIM 2447 2499	Foyer hypermétabolique dans le segment IVA hépatique
+T63	morphologie 2538 2544	lésion
+T64	expression_CIM 2538 2576	lésion n'ayant été observée dans la MI
+T65	topographie 2574 2576	MI
+T66	morphologie 2806 2820	tumeur occulte
+T67	expression_CIM 2806 2831	tumeur occulte dans le DM
+T69	morphologie 2846 2854	atteinte
+T70	expression_CIM 2846 2869	atteinte rétropectorale
+T71	topographie 2855 2869	rétropectorale
+T72	morphologie 3032 3038	Nodule
+T73	expression_CIM 3032 3049	Nodule thyroïdien
+T74	topographie 3039 3049	thyroïdien
+T75	morphologie 3090 3110	carcinome papillaire
+T76	expression_CIM 3090 3125	carcinome papillaire de la thyroïde
+T77	topographie 3117 3125	thyroïde
+T78	expression_CIM 3127 3130	PTC
+T80	topographie 3135 3139	sein
+T81	expression_CIM 3135 3142	sein M1
+T82	morphologie 3140 3142	M1
+T83	expression_CIM 3339 3363	nodules kystiques bénins
+T85	topographie 3544 3552	ganglion
+T86	expression_CIM 3544 3555	ganglion M1
+T87	morphologie 3553 3555	M1
+T88	morphologie 3561 3570	carcinome
+T89	expression_CIM 3561 3589	carcinome d'origine mammaire
+T90	topographie 3581 3589	mammaire
+T91	morphologie 3661 3664	ADP
+T92	expression_CIM 3661 3669	ADP SCLD
+T94	expression_CIM 3822 3824	M1
+T95	morphologie 3822 3824	M1
+T96	expression_CIM 4072 4106	métaplasie des cellules de Hürthle
+T97	morphologie 4072 4106	métaplasie des cellules de Hürthle
+T98	expression_CIM 4257 4264	Maladie
+T99	morphologie 4257 4264	Maladie
+T100	morphologie 4287 4290	ADP
+T101	expression_CIM 4287 4307	ADP sus-claviculaire
+T102	topographie 4291 4307	sus-claviculaire
+T103	morphologie 4589 4592	ADP
+T104	expression_CIM 4589 4597	ADP SPCL
+T105	topographie 4593 4597	SPCL
+T53	topographie 2264 2286	intrathyroïdien en LTI
+T1	morphologie 111 131	néoplasme multifocal
+T84	morphologie 3339 3363	nodules kystiques bénins
+T79	morphologie 3127 3130	PTC
+T42	topographie 1790 1804	rétropectoraux
+T93	topographie 3665 3669	SCLD
+T62	topographie 2478 2499	segment IVA hépatique
+T14	topographie 350 353	UCS
+#1	ICD-O T3	tocheck
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T4	C50.9
+#4	ICD-O T6	8050/3
+#5	ICD-O T7	8500/3
+#6	ICD-O T9	8500/2
+#7	ICD-O T10	1
+#8	ICD-O T11	8500/3
+#9	ICD-O T13	1
+#10	ICD-O T15	8000/1
+#11	ICD-O T16	8000/9
+#12	ICD-O T17	8000/3
+#13	ICD-O T18	C50.9 8000/3
+#14	ICD-O T19	C50.9
+#15	ICD-O T20	8000/1
+#16	ICD-O T21	C77.1 8000/1
+#17	ICD-O T22	C76.0
+#18	ICD-O T23	8000/1
+#19	ICD-O T24	C73.9 8000/1
+#20	ICD-O T25	C73.9
+#21	ICD-O T26	8000/6
+#22	ICD-O T27	8000/6
+#23	ICD-O T28	8000/6
+#24	ICD-O T29	8000/6
+#25	ICD-O T30	8010/3
+#26	ICD-O T31	C50.9 8010/3
+#27	ICD-O T32	C50.9
+#28	ICD-O T33	8000/6
+#29	ICD-O T34	8000/6
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	C77.3 8000/1
+#32	ICD-O T37	C76.1
+#33	ICD-O T38	8000/1
+#34	ICD-O T39	C77.0 8000/1;C77.1 8000/1;C77.3 8000/1
+#35	ICD-O T40	C76.1
+#36	ICD-O T41	C77.0
+#37	ICD-O T43	C50.9
+#38	ICD-O T44	C50.9 8000/1
+#39	ICD-O T45	8000/1
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	8000/1
+#42	ICD-O T48	8000/1
+#43	ICD-O T50	C73.9
+#44	ICD-O T51	8000/6
+#45	ICD-O T54	8000/1
+#46	ICD-O T55	C76.1 8000/1
+#47	ICD-O T56	C76.1
+#48	ICD-O T57	8000/1
+#49	ICD-O T58	C76.1 8000/1
+#50	ICD-O T59	C76.1
+#51	ICD-O T60	8000/9
+#52	ICD-O T61	C22.0 8000/1
+#53	ICD-O T63	8000/1
+#54	ICD-O T65	C72.0 
+#55	ICD-O T66	tocheck
+#56	ICD-O T69	8000/9
+#57	ICD-O T70	C76.1 8000/1
+#58	ICD-O T71	C76.1
+#59	ICD-O T72	8000/1
+#60	ICD-O T73	C73.9 8000/1
+#61	ICD-O T74	C73.9
+#62	ICD-O T75	8050/3
+#63	ICD-O T76	C73.9 8050/3
+#64	ICD-O T77	C73.9
+#65	ICD-O T80	C50.9
+#66	ICD-O T81	C50.9 8000/6
+#67	ICD-O T82	8000/6
+#68	ICD-O T83	8000/0
+#69	ICD-O T85	C77.9
+#70	ICD-O T87	8000/6
+#71	ICD-O T88	8010/3
+#72	ICD-O T89	C50.9 8010/3
+#73	ICD-O T90	C50.9
+#74	ICD-O T91	8000/1
+#75	ICD-O T94	8000/6
+#76	ICD-O T95	8000/6
+#77	ICD-O T96	8290/0
+#78	ICD-O T97	8290/0
+#79	ICD-O T99	8000/9
+#80	ICD-O T100	8000/1
+#81	ICD-O T101	C76.0 8000/1
+#82	ICD-O T102	C76.0
+#83	ICD-O T103	8000/1
+#84	ICD-O T104	C76.0 8000/1
+#85	ICD-O T105	C76.0
+#86	ICD-O T1	8000/3
+#87	ICD-O T84	8440/0
+#88	ICD-O T79	tocheck
+#89	AnnotatorNotes T11	trad

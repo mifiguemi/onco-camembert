@@ -1,0 +1,99 @@
+T1	morphologie 736 745	carcinome
+T2	expression_CIM 736 752	carcinome cutané
+T3	topographie 746 752	cutané
+T4	morphologie 959 964	masse
+T5	expression_CIM 959 981	masse intra-abdominale
+T6	topographie 965 981	intra-abdominale
+T7	expression_CIM 1104 1119	cellule maligne
+T8	morphologie 1104 1119	cellule maligne
+T9	expression_CIM 1535 1552	tératome kystique
+T10	morphologie 1535 1552	tératome kystique
+T11	expression_CIM 1821 1845	tératome kystique mature
+T12	morphologie 1821 1845	tératome kystique mature
+T13	expression_CIM 1900 1909	néoplasie
+T14	morphologie 1900 1909	néoplasie
+T15	morphologie 2833 2839	nodule
+T16	expression_CIM 2833 2850	nodule pulmonaire
+T17	topographie 2840 2850	pulmonaire
+T18	topographie 2951 2958	abdomen
+T19	expression_CIM 2951 2980	abdomen, il y avait une masse
+T20	morphologie 2975 2980	masse
+T21	morphologie 3443 3456	dissémination
+T22	expression_CIM 3443 3468	dissémination péritonéale
+T23	topographie 3457 3468	péritonéale
+T24	expression_CIM 3477 3500	ganglions pathologiques
+T25	morphologie 3477 3500	ganglions pathologiques
+T26	morphologie 3506 3514	atteinte
+T27	expression_CIM 3506 3524	atteinte viscérale
+T28	topographie 3515 3524	viscérale
+T29	morphologie 3578 3583	masse
+T30	expression_CIM 3578 3637	masse de la taille décrite ci-dessus, dépendant de l'ovaire
+T31	topographie 3631 3637	ovaire
+T32	expression_CIM 3743 3749	nodule
+T33	morphologie 3743 3749	nodule
+T34	expression_CIM 3877 3901	tératome kystique mature
+T35	morphologie 3877 3901	tératome kystique mature
+T36	expression_CIM 4048 4065	cellules malignes
+T37	morphologie 4048 4065	cellules malignes
+T38	morphologie 4103 4124	carcinome épidermoïde
+T39	expression_CIM 4103 4140	carcinome épidermoïde peu différencié
+T40	differenciation 4125 4140	peu différencié
+T41	morphologie 4154 4168	kyste dermoïde
+T42	expression_CIM 4154 4176	kyste dermoïde ovarien
+T43	topographie 4169 4176	ovarien
+T44	morphologie 4247 4278	ganglions lymphatiques réactifs
+T45	expression_CIM 4247 4291	ganglions lymphatiques réactifs de l'omentum
+T47	morphologie 4439 4460	carcinome épidermoïde
+T48	expression_CIM 4439 4476	carcinome épidermoïde peu différencié
+T49	differenciation 4461 4476	peu différencié
+T50	morphologie 4484 4498	kyste dermoïde
+T51	expression_CIM 4484 4506	kyste dermoïde ovarien
+T52	topographie 4499 4506	ovarien
+T46	topographie 4284 4291	omentum
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C44.9 8010/3
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.2 8000/1
+#6	ICD-O T6	C76.2
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	9080/0
+#10	ICD-O T10	9080/0
+#11	ICD-O T11	9080/3
+#12	ICD-O T12	9080/3
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C34.9 8000/1
+#17	ICD-O T17	C34.9
+#18	ICD-O T18	C76.2
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	C48.2 8000/6
+#22	ICD-O T23	C48.2
+#23	ICD-O T25	tocheck
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C49.4 8000/1
+#26	ICD-O T28	C49.4
+#27	ICD-O T29	8000/1
+#28	ICD-O T31	C56.9
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	9080/3
+#32	ICD-O T35	9080/3
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	8070/3
+#36	ICD-O T39	8070/33
+#37	ICD-O T40	3
+#38	ICD-O T41	9084/0
+#39	ICD-O T42	C56.9 9084/0
+#40	ICD-O T43	C56.9
+#41	ICD-O T44	tocheck
+#42	ICD-O T47	8070/3
+#43	ICD-O T48	8070/33
+#44	ICD-O T49	3
+#45	ICD-O T50	9084/0
+#46	ICD-O T51	C56.9 9084/0
+#47	ICD-O T52	C56.9

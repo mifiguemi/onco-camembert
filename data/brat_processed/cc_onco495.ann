@@ -1,0 +1,21 @@
+T1	morphologie 1105 1126	carcinome épidermoïde
+T3	differenciation 1127 1142	peu différencié
+T4	morphologie 1202 1223	lésions métastatiques
+T6	topographie 1234 1240	osseux
+T7	morphologie 1254 1275	Carcinome épidermoïde
+T9	topographie 1279 1285	poumon
+T10	morphologie 1309 1321	adénopathies
+T12	topographie 1322 1332	axillaires
+T13	morphologie 2046 2058	adénopathies
+T15	topographie 2059 2069	cervicales
+T16	topographie 2073 2083	axillaires
+T17	morphologie 2205 2227	la maladie a progressé
+T19	topographie 2238 2248	pulmonaire
+T20	topographie 2252 2265	ganglionnaire
+T22	morphologie 2345 2352	tumeurs
+T23	morphologie 2429 2438	carcinome
+T25	differenciation 2439 2452	indifférencié
+T27	morphologie 2483 2508	progression de la maladie
+T29	morphologie 3486 3493	lésions
+T31	morphologie 3495 3506	adénopathie
+T33	morphologie 3526 3541	lésion tumorale

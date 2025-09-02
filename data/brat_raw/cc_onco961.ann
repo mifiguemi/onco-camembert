@@ -1,0 +1,33 @@
+T3	topographie 855 869	région pinéale
+T1	morphologie 840 846	lésion
+T2	expression_CIM 840 869	lésion dans la région pinéale
+T4	morphologie 925 931	tumeur
+T5	expression_CIM 925 939	tumeur pinéale
+T6	topographie 932 939	pinéale
+T7	morphologie 1262 1268	tumeur
+T8	expression_CIM 1262 1282	tumeur de la pinéale
+T9	topographie 1275 1282	pinéale
+T10	expression_CIM 1285 1310	prolifération néoplasique
+T11	morphologie 1285 1310	prolifération néoplasique
+T12	morphologie 1749 1784	Tumeur rhabdoïde-teratoïde atypique
+T13	expression_CIM 1749 1796	Tumeur rhabdoïde-teratoïde atypique de grade IV
+T14	differenciation 1788 1796	grade IV
+T15	morphologie 1912 1918	tumeur
+T16	expression_CIM 1912 1926	tumeur pinéale
+T17	topographie 1919 1926	pinéale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C75.3 8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C75.3 8000/1
+#5	ICD-O T6	C75.3
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	C75.3 8000/1
+#8	ICD-O T9	C75.3
+#9	ICD-O T10	8000/3
+#10	ICD-O T11	8000/3
+#11	ICD-O T12	9508/3
+#12	ICD-O T13	9508/34
+#13	ICD-O T14	4
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C75.3 8000/1
+#16	ICD-O T17	C75.3

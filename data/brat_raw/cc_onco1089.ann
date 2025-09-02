@@ -1,0 +1,207 @@
+T1	morphologie 413 418	masse
+T2	expression_CIM 413 428	masse hépatique
+T3	topographie 419 428	hépatique
+T4	expression_CIM 635 640	masse
+T5	morphologie 635 640	masse
+T6	morphologie 747 753	lésion
+T7	expression_CIM 747 763	lésion hépatique
+T8	topographie 754 763	hépatique
+T9	expression_CIM 1851 1858	nodules
+T10	morphologie 1851 1858	nodules
+T11	morphologie 2179 2185	nodule
+T12	expression_CIM 2179 2244	nodule de 11 mm dans le segment apicopostérieur du lobe supérieur
+T13	topographie 2230 2244	lobe supérieur
+T14	expression_CIM 2272 2281	métastase
+T15	morphologie 2272 2281	métastase
+T16	morphologie 2290 2301	adénopathie
+T17	expression_CIM 2290 2336	adénopathie axillaire, médiastinale ou hilaire
+T18	topographie 2302 2311	axillaire
+T19	topographie 2313 2325	médiastinale
+T20	topographie 2329 2336	hilaire
+T21	expression_CIM 2513 2519	lésion
+T22	morphologie 2513 2519	lésion
+T23	expression_CIM 2651 2668	lésions kystiques
+T24	morphologie 2651 2668	lésions kystiques
+T25	morphologie 2778 2787	carcinome
+T26	expression_CIM 2778 2811	carcinome de la vésicule biliaire
+T27	topographie 2794 2811	vésicule biliaire
+T28	morphologie 2817 2825	invasion
+T29	expression_CIM 2817 2835	invasion hépatique
+T30	topographie 2826 2835	hépatique
+T31	expression_CIM 2879 2885	lésion
+T32	morphologie 2879 2885	lésion
+T33	morphologie 2957 2965	invasion
+T34	expression_CIM 2957 2978	invasion du mésentère
+T35	topographie 2969 2978	mésentère
+T36	morphologie 3009 3020	Adénopathie
+T37	expression_CIM 3009 3065	Adénopathie de 10 mm de petit axe dans le hile hépatique
+T38	topographie 3051 3065	hile hépatique
+T39	morphologie 3162 3171	carcinome
+T40	expression_CIM 3162 3195	carcinome de la vésicule biliaire
+T41	topographie 3178 3195	vésicule biliaire
+T42	morphologie 3357 3380;3396 3414	lésion tumorale maligne à petites cellules
+T43	expression_CIM 3357 3414	lésion tumorale maligne indifférenciée à petites cellules
+T44	differenciation 3381 3395	indifférenciée
+T45	expression_CIM 3446 3453	tumeurs
+T46	morphologie 3446 3453	tumeurs
+T47	expression_CIM 3479 3497	cellules tumorales
+T48	morphologie 3479 3497	cellules tumorales
+T49	expression_CIM 3589 3617	carcinome à petites cellules
+T50	morphologie 3589 3617	carcinome à petites cellules
+T51	expression_CIM 3779 3785	tumeur
+T52	morphologie 3779 3785	tumeur
+T53	morphologie 3823 3829	lésion
+T54	expression_CIM 3823 3839	lésion hépatique
+T55	topographie 3830 3839	hépatique
+T56	expression_CIM 3852 3860	primitif
+T57	morphologie 3852 3860	primitif
+T58	expression_CIM 3939 3957	néoplasme primaire
+T59	morphologie 3939 3957	néoplasme primaire
+T60	expression_CIM 4007 4013	lésion
+T61	morphologie 4007 4013	lésion
+T62	expression_CIM 4163 4169	foyers
+T63	morphologie 4163 4169	foyers
+T64	expression_CIM 4214 4242	néoplasme à petites cellules
+T65	morphologie 4214 4242	néoplasme à petites cellules
+T66	expression_CIM 4324 4352	carcinome à petites cellules
+T67	morphologie 4324 4352	carcinome à petites cellules
+T68	morphologie 4362 4368	tumeur
+T69	expression_CIM 4362 4376	tumeur neurale
+T70	topographie 4369 4376	neurale
+T71	expression_CIM 4385 4393	mélanome
+T72	morphologie 4385 4393	mélanome
+T73	morphologie 4632 4641	métastase
+T74	expression_CIM 4632 4651	métastase hépatique
+T75	topographie 4642 4651	hépatique
+T76	expression_CIM 4662 4673	tumeur PNET
+T77	morphologie 4662 4673	tumeur PNET
+T78	expression_CIM 4728 4743	sarcome d'Ewing
+T79	morphologie 4728 4743	sarcome d'Ewing
+T80	expression_CIM 4768 4783	sarcome d'Ewing
+T81	morphologie 4768 4783	sarcome d'Ewing
+T82	expression_CIM 4800 4808	stade IV
+T83	morphologie 4800 4808	stade IV
+T84	expression_CIM 4854 4869	sarcome d'Ewing
+T85	morphologie 4854 4869	sarcome d'Ewing
+T86	expression_CIM 4886 4894	stade IV
+T87	morphologie 4886 4894	stade IV
+T88	expression_CIM 4992 5017	progression de la maladie
+T89	morphologie 4992 5017	progression de la maladie
+T90	morphologie 5092 5102	métastases
+T91	expression_CIM 5092 5114	métastases pulmonaires
+T92	topographie 5103 5114	pulmonaires
+T93	morphologie 5189 5202	carcinomatose
+T94	expression_CIM 5189 5214	carcinomatose péritonéale
+T95	topographie 5203 5214	péritonéale
+T96	expression_CIM 6121 6127	tumeur
+T97	morphologie 6121 6127	tumeur
+T98	expression_CIM 6345 6370	progression de la maladie
+T99	morphologie 6345 6370	progression de la maladie
+T100	morphologie 6429 6436	nodules
+T101	expression_CIM 6429 6448	nodules pulmonaires
+T102	topographie 6437 6448	pulmonaires
+T103	morphologie 6508 6513	masse
+T104	expression_CIM 6508 6523	masse hépatique
+T105	topographie 6514 6523	hépatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C22.0 8000/1
+#8	ICD-O T8	C22.0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T13	C34.1
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C77.1 8000/1;C77.3 8000/1
+#17	ICD-O T18	C76.1
+#18	ICD-O T19	C38.3
+#19	ICD-O T20	C76.1
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	8000/1
+#22	ICD-O T24	8440/1
+#23	ICD-O T25	8010/3
+#24	ICD-O T26	C23.9 8010/3
+#25	ICD-O T27	C23.9
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C22.0 8000/1
+#28	ICD-O T30	C22.0
+#29	ICD-O T31	8000/1
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	C48.1 8000/1
+#33	ICD-O T35	C48.1
+#34	ICD-O T36	8000/1
+#35	ICD-O T38	 C22.0
+#36	ICD-O T39	8010/3
+#37	ICD-O T40	C23.9 8010/3
+#38	ICD-O T41	C23.9
+#39	ICD-O T42	8002/3
+#40	ICD-O T43	8002/34
+#41	ICD-O T44	4
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	8000/1
+#44	ICD-O T47	8001/1
+#45	ICD-O T48	8001/1
+#46	ICD-O T49	8041/3
+#47	ICD-O T50	8041/3
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	C22.0 8000/1
+#52	ICD-O T55	C22.0
+#53	ICD-O T56	8000/3
+#54	ICD-O T57	8000/3
+#55	ICD-O T58	8000/3
+#56	ICD-O T59	8000/3
+#57	ICD-O T60	8000/1
+#58	ICD-O T61	8000/1
+#59	ICD-O T62	8000/1
+#60	ICD-O T63	8000/1
+#61	ICD-O T64	8002/3
+#62	ICD-O T65	8002/3
+#63	ICD-O T66	8041/3
+#64	ICD-O T67	8041/3
+#65	ICD-O T68	8000/1
+#66	ICD-O T69	C47.9 8000/1
+#67	ICD-O T70	C47.9
+#68	ICD-O T71	8720/3
+#69	ICD-O T72	8720/3
+#70	ICD-O T73	8000/6
+#71	ICD-O T74	C22.0 8000/6
+#72	ICD-O T75	C22.0
+#73	ICD-O T76	9364/3
+#74	ICD-O T77	9364/3
+#75	ICD-O T78	9260/3
+#76	ICD-O T79	9260/3
+#77	ICD-O T80	9260/3
+#78	ICD-O T81	9260/3
+#79	ICD-O T82	8000/6
+#80	ICD-O T83	8000/6
+#81	ICD-O T84	9260/3
+#82	ICD-O T85	9260/3
+#83	ICD-O T86	8000/6
+#84	ICD-O T87	8000/6
+#85	ICD-O T88	8000/1
+#86	ICD-O T89	8000/1
+#87	ICD-O T90	8000/6
+#88	ICD-O T91	C34.9 8000/6
+#89	ICD-O T92	C34.9
+#90	ICD-O T93	8010/9
+#91	ICD-O T94	C48.2 8010/9
+#92	ICD-O T95	C48.2
+#93	ICD-O T96	8000/1
+#94	ICD-O T97	8000/1
+#95	ICD-O T98	8000/1
+#96	ICD-O T99	8000/1
+#97	ICD-O T100	8000/1
+#98	ICD-O T101	C34.9 8000/1
+#99	ICD-O T102	C34.9
+#100	ICD-O T103	8000/1
+#101	ICD-O T104	C22.0 8000/1
+#102	ICD-O T105	C22.0

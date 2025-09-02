@@ -1,0 +1,130 @@
+T22	topographie 2080 2149	chaînes ganglionnaires lymphatiques latérocervicales et médiastinales
+T1	expression_CIM 372 385	neuroblastome
+T2	morphologie 372 385	neuroblastome
+T3	expression_CIM 984 989	masse
+T4	morphologie 984 989	masse
+T5	morphologie 993 999	nodule
+T6	expression_CIM 993 1008	nodule mammaire
+T7	topographie 1000 1008	mammaire
+T8	morphologie 1359 1364	masse
+T9	expression_CIM 1359 1387	masse pulmonaire parahilaire
+T10	topographie 1365 1387	pulmonaire parahilaire
+T11	morphologie 1503 1509	lésion
+T12	expression_CIM 1503 1549	lésion endoluminale dans la bronche principale
+T13	topographie 1531 1549	bronche principale
+T14	morphologie 1590 1604	adénocarcinome
+T15	expression_CIM 1590 1620	adénocarcinome peu différencié
+T16	differenciation 1605 1620	peu différencié
+T17	morphologie 1971 2004	lésions évocatrices de métastases
+T18	expression_CIM 1971 2149	lésions évocatrices de métastases dans les deux champs pulmonaires, le foie, les os polytopiques et dans les chaînes ganglionnaires lymphatiques latérocervicales et médiastinales
+T19	topographie 2019 2037	champs pulmonaires
+T20	topographie 2042 2046	foie
+T21	topographie 2052 2054	os
+T23	morphologie 2218 2232	adénocarcinome
+T24	expression_CIM 2218 2243	adénocarcinome pulmonaire
+T25	topographie 2233 2243	pulmonaire
+T26	expression_CIM 2672 2699	stabilisation de la maladie
+T27	morphologie 2672 2699	stabilisation de la maladie
+T28	morphologie 2947 2972	progression de la maladie
+T29	expression_CIM 2947 3005	progression de la maladie pulmonaire, hépatique et osseuse
+T30	topographie 2973 2983	pulmonaire
+T31	topographie 2985 2994	hépatique
+T32	topographie 2998 3005	osseuse
+T33	morphologie 3089 3095;3107 3115	lésion primaire
+T34	expression_CIM 3089 3115	lésion pulmonaire primaire
+T35	topographie 3096 3106	pulmonaire
+T36	expression_CIM 3195 3200	masse
+T37	morphologie 3195 3200	masse
+T38	morphologie 3538 3545	lésions
+T39	expression_CIM 3538 3615	lésions infracentimétriques occupant l'espace dans le système nerveux central
+T41	morphologie 4185 4190	masse
+T42	expression_CIM 4185 4201	masse pulmonaire
+T43	topographie 4191 4201	pulmonaire
+T44	morphologie 4452 4459	lésions
+T45	expression_CIM 4452 4470	lésions hépatiques
+T46	topographie 4460 4470	hépatiques
+T47	morphologie 5403 5424	lésions métastatiques
+T48	expression_CIM 5403 5450	lésions métastatiques pulmonaires et hépatiques
+T49	topographie 5425 5436	pulmonaires
+T50	topographie 5440 5450	hépatiques
+T51	morphologie 5474 5481	lésions
+T52	expression_CIM 5474 5490	lésions osseuses
+T53	topographie 5482 5490	osseuses
+T54	morphologie 5519 5527	primitif
+T55	expression_CIM 5519 5538	primitif pulmonaire
+T56	topographie 5528 5538	pulmonaire
+T57	morphologie 5666 5674	primitif
+T58	expression_CIM 5666 5685	primitif pulmonaire
+T59	topographie 5675 5685	pulmonaire
+T60	morphologie 5770 5778	primitif
+T61	expression_CIM 5770 5789	primitif pulmonaire
+T62	topographie 5779 5789	pulmonaire
+T63	expression_CIM 5905 5933	carcinome à petites cellules
+T64	morphologie 5905 5933	carcinome à petites cellules
+T65	expression_CIM 6259 6265	lésion
+T66	morphologie 6259 6265	lésion
+T67	expression_CIM 6982 7004	progression systémique
+T68	morphologie 6982 7004	progression systémique
+T40	topographie 3592 3615	système nerveux central
+#1	ICD-O T1	9500/3
+#2	ICD-O T2	9500/3
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C50.9 8000/1
+#7	ICD-O T7	C50.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C34.9 8000/1
+#10	ICD-O T10	C34.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T13	C34.0
+#13	ICD-O T14	8140/3
+#14	ICD-O T15	8140/33
+#15	ICD-O T16	3
+#16	ICD-O T17	8000/6
+#17	ICD-O T19	C34.9
+#18	ICD-O T20	C22.0
+#19	ICD-O T21	C41.9
+#20	ICD-O T23	8140/3
+#21	ICD-O T24	C34.9 8140/3
+#22	ICD-O T25	C34.9
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C22.0 8000/1;C34.9 8000/1;C41.9 8000/1
+#27	ICD-O T30	C34.9
+#28	ICD-O T31	C22.0
+#29	ICD-O T32	C41.9
+#30	ICD-O T33	8000/3
+#31	ICD-O T34	C34.9 8000/3
+#32	ICD-O T35	C34.9
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	8000/1
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	C34.9 8000/1
+#38	ICD-O T43	C34.9
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	C22.0 8000/1
+#41	ICD-O T46	C22.0
+#42	ICD-O T47	8000/6
+#43	ICD-O T48	C22.0 8000/6;C34.9 8000/6
+#44	ICD-O T49	C34.9
+#45	ICD-O T50	C22.0
+#46	ICD-O T51	8000/1
+#47	ICD-O T52	C41.9 8000/1
+#48	ICD-O T53	C41.9
+#49	ICD-O T54	8000/3
+#50	ICD-O T55	C34.9 8000/3
+#51	ICD-O T56	C34.9
+#52	ICD-O T57	8000/3
+#53	ICD-O T58	C34.9 8000/3
+#54	ICD-O T59	C34.9
+#55	ICD-O T60	8000/3
+#56	ICD-O T61	C34.9 8000/3
+#57	ICD-O T62	C34.9
+#58	ICD-O T63	8041/3
+#59	ICD-O T64	8041/3
+#60	ICD-O T65	8000/1
+#61	ICD-O T66	8000/1
+#62	ICD-O T68	8000/6

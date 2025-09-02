@@ -1,0 +1,59 @@
+T1	morphologie 177 183	tumeur
+T3	topographie 184 193	cérébrale
+T5	morphologie 767 787	neurinome acoustique
+T6	morphologie 822 827	masse
+T8	topographie 870 892	hémisphère cérébelleux
+T10	morphologie 908 914	nodule
+T12	morphologie 1134 1152	lésions nodulaires
+T13	morphologie 1268 1285	hémangioblastomes
+T15	topographie 1286 1297	cérébelleux
+T17	morphologie 1557 1562	masse
+T18	morphologie 1618 1643	hémangioblastome kystique
+T20	topographie 1644 1655	cérébelleux
+T21	morphologie 1800 1807	tumeurs
+T23	topographie 1808 1815	rénales
+T24	morphologie 1840 1849	carcinome
+T26	topographie 1850 1855	rénal
+T27	topographie 1889 1902	pancréatiques
+T28	morphologie 2068 2077	carcinome
+T88	morphologie 2084 2102	à cellules claires
+T30	topographie 2078 2083	rénal
+T31	morphologie 2128 2134	tumeur
+T33	differenciation 2155 2184	grade nucléaire de Fuhrman II
+T34	morphologie 2335 2344	carcinome
+T89	morphologie 2351 2369	à cellules claires
+T36	topographie 2345 2350	rénal
+T38	morphologie 2496 2508	adénopathies
+T40	morphologie 2516 2526	métastases
+T41	morphologie 2545 2554	carcinome
+T90	morphologie 2571 2589	à cellules claires
+T43	topographie 2555 2560	rénal
+T44	morphologie 2774 2779	masse
+T46	topographie 2812 2821	testicule
+T48	morphologie 2915 2925	métastases
+T49	morphologie 2941 2950	carcinome
+T91	morphologie 2957 2975	à cellules claires
+T51	topographie 2951 2956	rénal
+T52	morphologie 2981 2989	atteinte
+T54	topographie 2995 3004	épididyme
+T55	morphologie 3130 3140	métastases
+T57	topographie 3141 3151	hépatiques
+T59	morphologie 3353 3362	métastase
+T60	morphologie 3366 3375	carcinome
+T92	morphologie 3382 3400	à cellules claires
+T62	topographie 3376 3381	rénal
+T64	morphologie 3524 3532	récidive
+T65	morphologie 3729 3751	cystadénome papillaire
+T67	topographie 3757 3766	épididyme
+T68	morphologie 3874 3890	hémangioblastome
+T70	topographie 3891 3902	cérébelleux
+T72	morphologie 4072 4082	métastases
+T73	morphologie 4098 4107	carcinome
+T75	topographie 4108 4113	rénal
+T77	morphologie 4194 4210	phéochromocytome
+T78	morphologie 4263 4268	masse
+T80	topographie 4285 4294	surrénale
+T82	morphologie 4415 4420	masse
+T83	morphologie 4458 4490	hyperplasie médullaire nodulaire
+T85	topographie 4491 4504	surrénalienne
+T87	morphologie 4886 4905	maladie oncologique

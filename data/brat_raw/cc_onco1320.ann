@@ -1,0 +1,41 @@
+T1	morphologie 85 100	médulloblastome
+T2	expression_CIM 85 112	médulloblastome cérébelleux
+T3	topographie 101 112	cérébelleux
+T4	morphologie 298 327	foyers de captation nodulaire
+T5	expression_CIM 298 386	foyers de captation nodulaire sont observés à la périphérie de la cavité porencéphalique
+T7	expression_CIM 407 434	foyers de récidive tumorale
+T9	morphologie 455 460	foyer
+T10	expression_CIM 455 518	foyer hyperharmonieux est observé dans l'hémisphère cérébelleux
+T11	topographie 496 518	hémisphère cérébelleux
+T12	expression_CIM 540 555	foyer satellite
+T13	morphologie 540 555	foyer satellite
+T14	morphologie 812 827	Médulloblastome
+T15	expression_CIM 812 839	Médulloblastome cérébelleux
+T16	topographie 828 839	cérébelleux
+T17	expression_CIM 1101 1109	récidive
+T18	morphologie 1101 1109	récidive
+T19	expression_CIM 1713 1721	récidive
+T20	morphologie 1713 1721	récidive
+T21	expression_CIM 1917 1925	récidive
+T22	morphologie 1917 1925	récidive
+T8	morphologie 407 434	foyers de récidive tumorale
+T6	topographie 347 386	périphérie de la cavité porencéphalique
+#1	ICD-O T1	9470/3
+#2	ICD-O T2	C71.6 9470/3
+#3	ICD-O T3	C71.6
+#4	ICD-O T4	8000/9
+#5	ICD-O T9	8000/1
+#6	ICD-O T10	C71.6 8000/1
+#7	ICD-O T11	C71.6
+#8	ICD-O T12	8000/1
+#9	ICD-O T13	8000/1
+#10	ICD-O T14	9470/3
+#11	ICD-O T15	C71.6 9470/3
+#12	ICD-O T16	C71.6
+#13	ICD-O T17	8000/6
+#14	ICD-O T18	8000/6
+#15	ICD-O T19	8000/6
+#16	ICD-O T20	8000/6
+#17	ICD-O T21	8000/6
+#18	ICD-O T22	8000/6
+#19	ICD-O T8	8000/9

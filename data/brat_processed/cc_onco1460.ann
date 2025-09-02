@@ -1,0 +1,58 @@
+T1	morphologie 55 61	cancer
+T3	topographie 65 69	sein
+T4	morphologie 473 479	lésion
+T6	topographie 504 510	hanche
+T7	morphologie 536 542	tumeur
+T83	morphologie 551 559	primaire
+T9	topographie 543 550	osseuse
+T10	morphologie 630 636	nodule
+T12	topographie 688 692	sein
+T13	morphologie 704 710	nodule
+T16	morphologie 778 794	lymphadénopathie
+T18	topographie 795 804	axillaire
+T19	topographie 815 832	supraclaviculaire
+T20	morphologie 925 931	lésion
+T22	topographie 973 980	abdomen
+T23	morphologie 1011 1018	lésions
+T25	topographie 1019 1028	mammaires
+T26	morphologie 1066 1077	adénopathie
+T28	topographie 1078 1087	axillaire
+T29	morphologie 1108 1114	lésion
+T31	topographie 1115 1135	cutanée de l'abdomen
+T32	morphologie 1150 1180	carcinome canalaire infiltrant
+T34	morphologie 1182 1185	CDI
+T35	differenciation 1188 1195	grade 3
+T36	morphologie 1238 1245	nodules
+T38	topographie 1246 1255	mammaires
+T40	morphologie 1263 1273	métastases
+T41	morphologie 1279 1288	carcinome
+T43	topographie 1299 1307	mammaire
+T45	morphologie 1315 1326	adénopathie
+T46	morphologie 1333 1339	lésion
+T48	topographie 1340 1347	cutanée
+T49	morphologie 1406 1422	lymphadénopathie
+T51	topographie 1423 1439	sus-claviculaire
+T52	topographie 1441 1455	rétropectorale
+T53	topographie 1468 1477	axillaire
+T54	topographie 1488 1500	médiastinale
+T55	morphologie 1588 1604	lymphadénopathie
+T57	topographie 1605 1621	rétropéritonéale
+T58	topographie 1635 1645	hile rénal
+T59	morphologie 1681 1689	implants
+T61	morphologie 1690 1702	adénopathies
+T62	topographie 1720 1728	épiploon
+T63	morphologie 1734 1741	lésions
+T65	topographie 1760 1771	os iliaques
+T66	morphologie 2071 2077	cancer
+T68	topographie 2081 2085	sein
+T69	differenciation 2110 2117	grade 3
+T70	morphologie 2166 2176	métastases
+T72	topographie 2177 2191	ganglionnaires
+T73	topographie 2195 2203	osseuses
+T74	morphologie 2219 2229	métastases
+T76	topographie 2230 2238	cutanées
+T77	topographie 2242 2251	pleurales
+T79	morphologie 2253 2261	stade IV
+T80	morphologie 4900 4911	Adénopathie
+T82	topographie 4912 4919	iliaque
+T15	topographie 728 756	quadrants inférieurs du sein

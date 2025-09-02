@@ -1,0 +1,28 @@
+T1	morphologie 460 468	atteinte
+T2	expression_CIM 460 494	atteinte du troisième nerf crânien
+T3	topographie 482 494	nerf crânien
+T4	morphologie 1480 1493	carcinomatose
+T5	expression_CIM 1480 1502	carcinomatose méningée
+T6	topographie 1494 1502	méningée
+T7	morphologie 1513 1525	infiltration
+T8	expression_CIM 1513 1545	infiltration de la base du crâne
+T9	topographie 1540 1545	crâne
+T10	expression_CIM 2054 2071	cellules malignes
+T11	morphologie 2054 2071	cellules malignes
+T12	morphologie 2352 2359	nodules
+T13	expression_CIM 2352 2371	nodules pulmonaires
+T14	topographie 2360 2371	pulmonaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C47.0 8000/1
+#3	ICD-O T3	C47.0
+#4	ICD-O T4	8010/9
+#5	ICD-O T5	C70.9 8010/9
+#6	ICD-O T6	C70.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C41.0 8000/1
+#9	ICD-O T9	C41.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.9 8000/1
+#14	ICD-O T14	C34.9

@@ -1,0 +1,56 @@
+T1	morphologie 777 783	tumeur
+T2	expression_CIM 777 813	tumeur solide dans la région pinéale
+T4	morphologie 1053 1059	tumeur
+T5	expression_CIM 1053 1080	tumeur de la région pinéale
+T7	expression_CIM 1274 1279	masse
+T8	morphologie 1274 1279	masse
+T9	expression_CIM 1427 1433	lésion
+T10	morphologie 1427 1433	lésion
+T12	expression_CIM 1657 1698	tumeur pinéale pléomorphe de grade II-III
+T13	topographie 1664 1671	pinéale
+T14	differenciation 1686 1698	grade II-III
+T15	expression_CIM 1760 1774	masse tumorale
+T16	morphologie 1760 1774	masse tumorale
+T18	expression_CIM 1985 2064	tumeur parenchymateuse pinéale de différenciation intermédiaire de grade II-III
+T19	topographie 2008 2015	pinéale
+T20	differenciation 2016 2064	de différenciation intermédiaire de grade II-III
+T21	morphologie 2484 2498	résidu tumoral
+T22	expression_CIM 2484 2598	résidu tumoral mesurant 8,4 mm de diamètre maximal, situé dans la partie supérieure droite de la région thalamique
+T23	topographie 2588 2598	thalamique
+T24	morphologie 2624 2637	dissémination
+T25	expression_CIM 2624 2657	dissémination sous-arachnoïdienne
+T26	topographie 2638 2657	sous-arachnoïdienne
+T27	morphologie 3754 3767	dissémination
+T28	expression_CIM 3754 3791	dissémination dans la moelle épinière
+T29	topographie 3776 3791	moelle épinière
+T3	topographie 799 813	région pinéale
+T6	topographie 1066 1080	région pinéale
+T17	morphologie 1985 2007	tumeur parenchymateuse
+T11	morphologie 1657 1663;1672 1682	tumeur pléomorphe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C75.3 8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C75.3 8000/1
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T12	9360/13
+#10	ICD-O T13	C75.3
+#11	ICD-O T14	3
+#12	ICD-O T15	8000/3
+#13	ICD-O T16	8000/3
+#14	ICD-O T18	9362/32
+#15	ICD-O T19	C75.3
+#16	ICD-O T20	3
+#17	ICD-O T21	8000/3
+#18	ICD-O T22	C71.0 8000/3
+#19	ICD-O T23	C71.0
+#20	ICD-O T24	8000/6
+#21	ICD-O T25	C76.0 8000/6
+#22	ICD-O T26	C76.0
+#23	ICD-O T27	8000/6
+#24	ICD-O T28	C72.0 8000/6
+#25	ICD-O T29	C72.0
+#26	ICD-O T17	tocheck
+#27	ICD-O T11	8000/3

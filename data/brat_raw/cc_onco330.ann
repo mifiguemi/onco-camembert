@@ -1,0 +1,113 @@
+T42	topographie 4589 4604	extramédullaire
+T6	topographie 287 328	ganglionnaire dans le territoire cervical
+T32	topographie 3812 3853	intrathécale entre les nerfs T1, T2 et T3
+T1	morphologie 217 223	cancer
+T2	expression_CIM 217 231	cancer du sein
+T3	topographie 227 231	sein
+T4	morphologie 273 286	dissémination
+T5	expression_CIM 273 345	dissémination ganglionnaire dans le territoire cervical droit et osseuse
+T7	topographie 338 345	osseuse
+T8	morphologie 353 355	M1
+T9	expression_CIM 353 377	M1 dans la crête iliaque
+T10	topographie 364 377	crête iliaque
+T11	expression_CIM 748 756	récidive
+T12	morphologie 748 756	récidive
+T13	expression_CIM 1819 1824	masse
+T14	morphologie 1819 1824	masse
+T15	morphologie 2851 2862	adénopathie
+T16	expression_CIM 2851 2875	adénopathie médiastinale
+T17	topographie 2863 2875	médiastinale
+T18	morphologie 3075 3082	Adénome
+T19	expression_CIM 3075 3094	Adénome surrénalien
+T20	topographie 3083 3094	surrénalien
+T21	morphologie 3154 3161	Adénome
+T22	expression_CIM 3154 3173	Adénome surrénalien
+T23	topographie 3162 3173	surrénalien
+T24	expression_CIM 3389 3396	lésions
+T25	morphologie 3389 3396	lésions
+T26	expression_CIM 3410 3435	lésions occupant l'espace
+T27	morphologie 3410 3435	lésions occupant l'espace
+T28	expression_CIM 3491 3498	Lésions
+T29	morphologie 3491 3498	Lésions
+T30	morphologie 3806 3811	masse
+T31	expression_CIM 3806 3853	masse intrathécale entre les nerfs T1, T2 et T3
+T33	morphologie 4329 4335;4345 4353	tumeur primaire
+T34	expression_CIM 4329 4353	tumeur mammaire primaire
+T35	topographie 4336 4344	mammaire
+T36	expression_CIM 4382 4388	lésion
+T37	morphologie 4382 4388	lésion
+T38	expression_CIM 4469 4485	tumeur neurogène
+T39	morphologie 4469 4485	tumeur neurogène
+T40	morphologie 4583 4588	Masse
+T41	expression_CIM 4583 4604	Masse extramédullaire
+T43	expression_CIM 4670 4686	tumeur neurogène
+T44	morphologie 4670 4686	tumeur neurogène
+T45	morphologie 4754 4774	Cancer inflammatoire
+T46	expression_CIM 4754 4782	Cancer inflammatoire du sein
+T47	topographie 4778 4782	sein
+T48	morphologie 4908 4917	Métastase
+T49	expression_CIM 4908 4954	Métastase osseuse unique dans la crête iliaque
+T50	topographie 4918 4925	osseuse
+T51	topographie 4941 4954	crête iliaque
+T52	morphologie 4999 5006	Adénome
+T53	expression_CIM 4999 5018	Adénome surrénalien
+T54	topographie 5007 5018	surrénalien
+T55	expression_CIM 5576 5585	Métastase
+T56	morphologie 5576 5585	Métastase
+T57	morphologie 5591 5610	carcinome canalaire
+T58	expression_CIM 5591 5618	carcinome canalaire du sein
+T59	topographie 5614 5618	sein
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C41.9 8000/6;C76.0 8000/6;C77.9 8000/6
+#6	ICD-O T7	C41.9
+#7	ICD-O T8	8000/6
+#8	ICD-O T9	C41.4 8000/6
+#9	ICD-O T10	C41.4
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C77.1 8000/1
+#16	ICD-O T17	C38.3
+#17	ICD-O T18	8140/0
+#18	ICD-O T19	C74.9 8140/0
+#19	ICD-O T20	C74.9
+#20	ICD-O T21	8140/0
+#21	ICD-O T22	C74.9 8140/0
+#22	ICD-O T23	C74.9
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	8000/1
+#29	ICD-O T33	8000/3
+#30	ICD-O T34	C50.9 8000/3
+#31	ICD-O T35	C50.9
+#32	ICD-O T36	8000/1
+#33	ICD-O T37	8000/1
+#34	ICD-O T38	C70.9 8000/1
+#35	ICD-O T39	9540/3
+#36	ICD-O T40	8000/1
+#37	ICD-O T43	C70.9 8000/1
+#38	ICD-O T44	9540/3
+#39	ICD-O T45	8000/3
+#40	ICD-O T46	C50.9 8530/3
+#41	ICD-O T47	C50.9
+#42	ICD-O T48	8000/6
+#43	ICD-O T49	C41.4 8000/6;C41.9 8000/6
+#44	ICD-O T50	C41.9
+#45	ICD-O T51	C41.4
+#46	ICD-O T52	8140/0
+#47	ICD-O T53	C74.9 8140/0
+#48	ICD-O T54	C74.9
+#49	ICD-O T55	8000/6
+#50	ICD-O T56	8000/6
+#51	ICD-O T57	8500/3
+#52	ICD-O T58	C50.9 8500/3
+#53	ICD-O T59	C50.9
+#54	AnnotatorNotes T27	trad

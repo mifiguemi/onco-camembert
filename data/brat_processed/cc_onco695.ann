@@ -1,0 +1,58 @@
+T9	topographie 598 601	CSE
+T1	morphologie 264 272	grosseur
+T3	topographie 276 280	sein
+T4	morphologie 491 497	cancer
+T6	topographie 501 505	sein
+T7	morphologie 563 569	tumeur
+T10	topographie 612 645	ganglions lymphatiques axillaires
+T11	morphologie 745 775	carcinome canalaire infiltrant
+T13	topographie 779 783	sein
+T14	morphologie 785 788	CDI
+T15	morphologie 795 803	invasion
+T17	topographie 807 812	derme
+T18	topographie 829 838	hypoderme
+T19	morphologie 1054 1071	lymphadénopathies
+T21	topographie 1072 1082	axillaires
+T22	morphologie 1106 1116	métastases
+T24	topographie 1117 1128	pulmonaires
+T25	topographie 1132 1142	hépatiques
+T26	morphologie 1194 1197	IDC
+T28	topographie 1201 1205	sein
+T30	morphologie 1232 1240	stade IV
+T31	morphologie 1563 1575	adénopathies
+T33	topographie 1576 1586	axillaires
+T34	morphologie 1602 1608	lésion
+T36	topographie 1609 1617	mammaire
+T37	morphologie 1653 1663	métastases
+T39	topographie 1664 1675	pulmonaires
+T40	topographie 1679 1689	hépatiques
+T42	morphologie 2064 2079	tumeur primaire
+T44	morphologie 2414 2420	tumeur
+T45	morphologie 2435 2443	atteinte
+T47	topographie 2444 2457	ganglionnaire
+T49	morphologie 2704 2710	tumeur
+T50	morphologie 3415 3424	métastase
+T52	topographie 3425 3437	cérébelleuse
+T54	morphologie 3661 3682	atteinte métastatique
+T56	morphologie 3717 3732	lésion tumorale
+T58	morphologie 3951 3957	tumeur
+T60	morphologie 4341 4350	métastase
+T62	morphologie 4356 4365	carcinome
+T63	morphologie 4498 4509	progression
+T65	topographie 4514 4516	os
+T66	topographie 4523 4526	SNC
+T67	morphologie 4579 4588	métastase
+T69	topographie 4589 4601	cérébelleuse
+T70	morphologie 4692 4698	cancer
+T72	topographie 4702 4706	sein
+T73	morphologie 4995 5004	métastase
+T75	topographie 5005 5017	cérébelleuse
+T77	morphologie 5215 5236	atteinte métastatique
+T78	morphologie 5450 5457	nodules
+T87	morphologie 5470 5487	hypermétaboliques
+T80	topographie 5458 5469	pulmonaires
+T81	morphologie 5686 5695	Métastase
+T83	topographie 5696 5708	cérébelleuse
+T84	morphologie 5714 5723	carcinome
+T88	morphologie 5733 5753	canalaire infiltrant
+T86	topographie 5724 5732	mammaire

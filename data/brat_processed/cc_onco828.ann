@@ -1,0 +1,66 @@
+T11	topographie 2322 2331	corticale
+T1	morphologie 2115 2122	nodules
+T3	topographie 2123 2134	pulmonaires
+T4	topographie 2189 2203	lobe inférieur
+T5	morphologie 2257 2268	adénopathie
+T7	topographie 2269 2276	hilaire
+T8	morphologie 2309 2314	masse
+T10	topographie 2315 2321	rénale
+T12	topographie 2499 2515	glande surrénale
+T14	morphologie 2538 2544	lésion
+T15	morphologie 2599 2605	lésion
+T17	topographie 2606 2612	rénale
+T18	morphologie 2689 2697	atteinte
+T20	topographie 2698 2705	osseuse
+T22	topographie 2787 2793	rénale
+T23	morphologie 2799 2807	atteinte
+T25	topographie 2808 2818	pulmonaire
+T26	topographie 2826 2844	glandes surrénales
+T27	morphologie 2942 2948	lésion
+T29	topographie 2949 2955	rénale
+T30	morphologie 3014 3019	masse
+T32	topographie 3020 3026	rénale
+T33	morphologie 3094 3103	carcinome
+T97	morphologie 3110 3128	à cellules claires
+T35	topographie 3104 3109	rénal
+T36	morphologie 3290 3299	néoplasie
+T38	topographie 3300 3306	rénale
+T40	morphologie 3310 3318	stade IV
+T41	morphologie 3334 3345	implication
+T43	topographie 3346 3356	pulmonaire
+T44	topographie 3364 3382	glandes surrénales
+T45	morphologie 3410 3416	tumeur
+T47	topographie 3417 3423	rénale
+T48	morphologie 4389 4395	lésion
+T50	topographie 4396 4402	rénale
+T51	morphologie 4415 4422	lésions
+T53	topographie 4423 4434	pulmonaires
+T54	morphologie 4442 4449	lésions
+T56	topographie 4450 4464	surrénaliennes
+T58	morphologie 4648 4656	primitif
+T60	morphologie 4945 4951	tumeur
+T61	morphologie 5033 5042	carcinome
+T98	morphologie 5049 5067	à cellules claires
+T63	topographie 5043 5048	rénal
+T64	differenciation 5119 5148	grade nucléaire de Führman II
+T65	morphologie 5225 5233	invasion
+T67	topographie 5234 5242	veineuse
+T68	morphologie 5383 5390	nodules
+T70	topographie 5391 5402	pulmonaires
+T71	morphologie 5410 5422	adénopathies
+T73	topographie 5423 5436	médiastinales
+T74	morphologie 6270 6282	adénopathies
+T76	topographie 6283 6296	médiastinales
+T77	morphologie 6345 6351	lésion
+T79	topographie 6352 6362	pulmonaire
+T80	topographie 6382 6396	lobe inférieur
+T82	morphologie 6466 6472	lésion
+T83	morphologie 6765 6776	progression
+T85	topographie 6781 6803	ganglions lymphatiques
+T86	morphologie 6841 6852	adénopathie
+T88	topographie 6853 6866	paratrachéale
+T89	morphologie 6925 6936	adénopathie
+T91	topographie 6940 6955	hile pulmonaire
+T92	morphologie 8522 8535	dissémination
+T94	topographie 8536 8550	intracrânienne
+T96	morphologie 11283 11292	néoplasme

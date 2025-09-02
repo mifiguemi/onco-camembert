@@ -1,0 +1,119 @@
+T11	topographie 1186 1202	cellule thymique
+T113	morphologie 5032 5046	LYIOMYOSARCOMA
+T20	topographie 1481 1507	latérocervicale inférieure
+T58	topographie 3187 3204	manubrium sternal
+T120	topographie 5293 5312	médiastin supérieur
+T72	topographie 4111 4124	moyen fessier
+T1	morphologie 379 390	adénopathie
+T3	topographie 391 407	sus-claviculaire
+T5	morphologie 676 681	masse
+T7	morphologie 970 986	lymphadénopathie
+T8	morphologie 1119 1138	masse adénopathique
+T10	topographie 1147 1173	médiastin antéro-supérieur
+T12	topographie 1206 1227	espace pré-vasculaire
+T13	topographie 1231 1250	espace paratrachéal
+T16	morphologie 1387 1392	masse
+T17	morphologie 1451 1462	adénopathie
+T19	topographie 1463 1480	supraclaviculaire
+T21	morphologie 1532 1583	Lymphome de Hodgkin de sous-type sclérose nodulaire
+T23	differenciation 1587 1594	grade I
+T24	morphologie 1604 1610	foyers
+T25	differenciation 1614 1622	grade II
+T26	morphologie 1747 1753	tumeur
+T28	topographie 1758 1769	tissus mous
+T29	topographie 1799 1808	clavicule
+T31	morphologie 1880 1886	lésion
+T33	morphologie 1959 1974	lésion tumorale
+T34	morphologie 2082 2087	masse
+T36	topographie 2091 2100	tissu mou
+T37	topographie 2114 2123	clavicule
+T39	morphologie 2367 2372	masse
+T41	morphologie 2653 2658	masse
+T42	morphologie 2752 2764	Rehaussement
+T44	topographie 2771 2785	moelle osseuse
+T45	morphologie 2917 2929	infiltration
+T177	morphologie 2938 2946	tumorale
+T47	topographie 2930 2937	osseuse
+T48	morphologie 2976 2987	adénopathie
+T50	topographie 2988 3004	sus-claviculaire
+T51	morphologie 3022 3036	léiomyosarcome
+T53	differenciation 3040 3050	haut grade
+T54	morphologie 3127 3133	tumeur
+T56	topographie 3138 3149	tissus mous
+T57	topographie 3163 3173	arc costal
+T59	morphologie 3637 3651	léiomyosarcome
+T61	differenciation 3655 3665	haut grade
+T62	topographie 3695 3727	tissus mous du manubrium sternal
+T63	topographie 3754 3758	côte
+T65	morphologie 3764 3776	infiltration
+T66	morphologie 3995 4000	masse
+T68	topographie 4004 4015	tissus mous
+T69	topographie 4080 4092	lame iliaque
+T70	morphologie 4099 4107	atteinte
+T74	topographie 4149 4162	grand fessier
+T76	morphologie 4177 4194	récidive tumorale
+T77	morphologie 4243 4257	léiomyosarcome
+T79	topographie 4264 4276	lame iliaque
+T80	morphologie 4304 4309	masse
+T82	topographie 4313 4324	tissus mous
+T84	morphologie 4465 4475	métastases
+T86	topographie 4476 4484	osseuses
+T87	topographie 4493 4499	bassin
+T88	morphologie 4501 4506	Masse
+T90	topographie 4510 4529	tissu mou présacrée
+T91	morphologie 4535 4543	invasion
+T93	topographie 4544 4550	sacrée
+T94	morphologie 4648 4658	métastases
+T96	topographie 4659 4667	dorsales
+T97	topographie 4669 4678	lombaires
+T98	topographie 4682 4689	sacrées
+T99	morphologie 4696 4704	atteinte
+T101	topographie 4708 4723	canal rachidien
+T102	morphologie 4725 4737	Infiltration
+T104	topographie 4744 4779	musculature paravertébrale lombaire
+T107	morphologie 4822 4839	récidive tumorale
+T109	morphologie 4843 4850	sarcome
+T110	morphologie 4956 5004	LYMPHOME DE HODGKIN SOUS-TYPE SCLÉROSE NODULAIRE
+T112	differenciation 5005 5015	GRADE I-II
+T115	differenciation 5047 5060	DE HAUT GRADE
+T117	morphologie 5253 5258	masse
+T118	morphologie 5268 5284	lymphadénopathie
+T121	morphologie 5598 5610	adénopathies
+T123	topographie 5611 5625	rétrosternales
+T125	morphologie 5682 5722	lymphome de Hodgkin à sclérose nodulaire
+T126	morphologie 6197 6204	maladie
+T128	topographie 6239 6265	médiastin antéro-supérieur
+T129	morphologie 6582 6587	masse
+T131	topographie 6618 6627	clavicule
+T132	morphologie 6739 6744	masse
+T134	topographie 6778 6787	clavicule
+T136	morphologie 6876 6882	tumeur
+T137	morphologie 6944 6958	léiomyosarcome
+T139	differenciation 6962 6972	haut grade
+T141	morphologie 8679 8685	tumeur
+T142	morphologie 8911 8917	tumeur
+T144	topographie 8918 8930	claviculaire
+T145	morphologie 8951 8957	lésion
+T147	topographie 8986 8999	sacro-iliaque
+T149	morphologie 9266 9274	récidive
+T151	morphologie 9278 9292	léiomyosarcome
+T152	morphologie 9486 9497	progression
+T154	topographie 9508 9515	iliaque
+T155	morphologie 9527 9539	infiltration
+T157	topographie 9544 9560	muscles fessiers
+T158	morphologie 9568 9579	progression
+T160	topographie 9590 9607	sous-claviculaire
+T162	morphologie 9937 9943	tumeur
+T163	morphologie 11546 11575	progression du léiomyosarcome
+T165	topographie 11584 11596	lame iliaque
+T166	morphologie 11620 11630	métastases
+T168	topographie 11631 11654	osseuses dans le bassin
+T169	morphologie 11664 11669	masse
+T171	topographie 11673 11695	tissus mous pré-sacrés
+T172	morphologie 11703 11711	invasion
+T174	topographie 11712 11718	sacrée
+T176	morphologie 12510 12535	progression de la maladie
+T83	topographie 4325 4335	paraostale
+T73	topographie 4129 4142	petit fessier
+T105	topographie 4789 4804	région fessière
+T14	topographie 1258 1268	subcarinal

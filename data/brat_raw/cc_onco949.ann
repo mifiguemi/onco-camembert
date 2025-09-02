@@ -1,0 +1,99 @@
+T24	topographie 1188 1204	région cervicale
+T1	morphologie 145 151	nodule
+T2	expression_CIM 145 162	nodule thyroïdien
+T3	topographie 152 162	thyroïdien
+T4	morphologie 256 262	Nodule
+T5	expression_CIM 256 336	Nodule thyroïdien ferme et non mobile d'environ 2 à 3 cm dans le lobe thyroïdien
+T6	topographie 263 273	thyroïdien
+T7	topographie 321 336	lobe thyroïdien
+T8	morphologie 352 368	lymphadénopathie
+T9	expression_CIM 352 427	lymphadénopathie latérocervicale, supraclaviculaire, axillaire ou inguinale
+T10	topographie 369 384	latérocervicale
+T11	topographie 386 403	supraclaviculaire
+T12	topographie 405 414	axillaire
+T13	topographie 418 427	inguinale
+T14	morphologie 775 781	Nodule
+T15	expression_CIM 775 792	Nodule thyroïdien
+T16	topographie 782 792	thyroïdien
+T17	expression_CIM 806 820	tumeur maligne
+T18	morphologie 806 820	tumeur maligne
+T19	morphologie 1018 1038	carcinome médullaire
+T20	expression_CIM 1018 1053	carcinome médullaire de la thyroïde
+T21	topographie 1045 1053	thyroïde
+T22	expression_CIM 1172 1178	tumeur
+T23	morphologie 1172 1178	tumeur
+T25	expression_CIM 1188 1270	région cervicale droite, il existe des métastases de CMT dans la seule adénopathie
+T26	morphologie 1227 1237	métastases
+T27	expression_CIM 1241 1244	CMT
+T28	morphologie 1241 1244	CMT
+T29	morphologie 1259 1270	adénopathie
+T30	topographie 1385 1423	ganglions du triangle cervical central
+T31	expression_CIM 1385 1478	ganglions du triangle cervical central, on observe des métastases de MTC dans les 3 ganglions
+T32	morphologie 1440 1450	métastases
+T33	expression_CIM 1454 1457	MTC
+T34	morphologie 1454 1457	MTC
+T35	topographie 1469 1478	ganglions
+T36	expression_CIM 1507 1510	MTC
+T37	morphologie 1507 1510	MTC
+T38	morphologie 1523 1544	atteinte métastatique
+T39	expression_CIM 1523 1571	atteinte métastatique des ganglions lymphatiques
+T40	topographie 1549 1571	ganglions lymphatiques
+T41	expression_CIM 1690 1712	foyer hypermétabolique
+T42	morphologie 1690 1712	foyer hypermétabolique
+T43	morphologie 1719 1730	adénopathie
+T44	expression_CIM 1719 1746	adénopathie latérocervicale
+T45	topographie 1731 1746	latérocervicale
+T46	expression_CIM 2113 2120	maladie
+T47	morphologie 2113 2120	maladie
+T48	morphologie 2444 2451	nodules
+T49	expression_CIM 2444 2463	nodules pulmonaires
+T50	topographie 2452 2463	pulmonaires
+T51	expression_CIM 2511 2521	métastases
+T52	morphologie 2511 2521	métastases
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C73.9 8000/1
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C73.9
+#6	ICD-O T7	C73.9
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C77.0 8000/1;C77.3 8000/1;C77.4 8000/1
+#9	ICD-O T10	C76.0
+#10	ICD-O T11	C76.0
+#11	ICD-O T12	C76.1
+#12	ICD-O T13	C76.3
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	C73.9 8000/1
+#15	ICD-O T16	C73.9
+#16	ICD-O T17	8000/3
+#17	ICD-O T18	8000/3
+#18	ICD-O T19	8510/3
+#19	ICD-O T20	C73.9 8510/3
+#20	ICD-O T21	C73.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/1
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8510/3
+#25	ICD-O T28	8510/3
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	C77.0 
+#28	ICD-O T32	8000/6
+#29	ICD-O T33	8510/3
+#30	ICD-O T34	8510/3
+#31	ICD-O T35	C77.9
+#32	ICD-O T36	8510/3
+#33	ICD-O T37	8510/3
+#34	ICD-O T38	8000/6
+#35	ICD-O T39	C77.9 8000/6
+#36	ICD-O T40	C77.9
+#37	ICD-O T41	8000/1
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	C77.0 8000/1
+#41	ICD-O T45	C76.0
+#42	ICD-O T47	8000/9
+#43	ICD-O T48	8000/1
+#44	ICD-O T49	C34.9 8000/1
+#45	ICD-O T50	C34.9
+#46	ICD-O T51	8000/6
+#47	ICD-O T52	8000/6

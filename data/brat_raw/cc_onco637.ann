@@ -1,0 +1,64 @@
+T18	topographie 1260 1291	jonction pharyngo-oesophagienne
+T1	morphologie 486 493	lésions
+T2	expression_CIM 486 516	lésions dans la cavité buccale
+T3	topographie 502 516	cavité buccale
+T4	morphologie 586 592	lésion
+T5	expression_CIM 586 634	lésion sur la paroi postérieure de l'hypopharynx
+T6	topographie 623 634	hypopharynx
+T7	morphologie 685 693	atteinte
+T8	expression_CIM 685 724	atteinte apparente des sinus piriformes
+T9	topographie 708 724	sinus piriformes
+T10	morphologie 1068 1074	lésion
+T11	expression_CIM 1068 1091	lésion de l'hypopharynx
+T12	topographie 1080 1091	hypopharynx
+T13	morphologie 1145 1166	carcinome épidermoïde
+T14	expression_CIM 1145 1189	carcinome épidermoïde modérément différencié
+T15	differenciation 1167 1189	modérément différencié
+T16	morphologie 1226 1238	rehaussement
+T17	expression_CIM 1226 1291	rehaussement pathologique dans la jonction pharyngo-oesophagienne
+T19	expression_CIM 1311 1317	lésion
+T20	morphologie 1311 1317	lésion
+T21	morphologie 1321 1333	adénopathies
+T22	expression_CIM 1321 1365	adénopathies bilatérales en région II et III
+T24	morphologie 1417 1438	Carcinome épidermoïde
+T25	expression_CIM 1417 1455	Carcinome épidermoïde de l'hypopharynx
+T26	topographie 1444 1455	hypopharynx
+T27	expression_CIM 1707 1728	carcinome épidermoïde
+T28	morphologie 1707 1728	carcinome épidermoïde
+T29	expression_CIM 2042 2063	carcinome épidermoïde
+T30	morphologie 2042 2063	carcinome épidermoïde
+T31	expression_CIM 2772 2783	lit tumoral
+T32	morphologie 2772 2783	lit tumoral
+T33	expression_CIM 4170 4178	récidive
+T34	morphologie 4170 4178	récidive
+T23	topographie 1349 1365	région II et III
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C06.9 8000/1
+#3	ICD-O T3	C06.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C13.9 8000/1
+#6	ICD-O T6	C13.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C12.9 8000/1
+#9	ICD-O T9	C12.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C13.9 8000/1
+#12	ICD-O T12	C13.9
+#13	ICD-O T13	8070/3
+#14	ICD-O T14	8070/32
+#15	ICD-O T15	2
+#16	ICD-O T16	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/1
+#20	ICD-O T24	8070/3
+#21	ICD-O T25	C13.9 8070/3
+#22	ICD-O T26	C13.9
+#23	ICD-O T27	8070/3
+#24	ICD-O T28	8070/3
+#25	ICD-O T29	8070/3
+#26	ICD-O T30	8070/3
+#27	ICD-O T31	8000/3
+#28	ICD-O T32	8000/3
+#29	ICD-O T33	8000/6
+#30	ICD-O T34	8000/6

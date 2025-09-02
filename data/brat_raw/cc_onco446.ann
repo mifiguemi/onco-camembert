@@ -1,0 +1,125 @@
+T1	morphologie 721 729	mélanome
+T2	expression_CIM 721 799	mélanome avec écoulement purulent en juin 2016 au niveau de la région lombaire
+T4	expression_CIM 908 916	mélanome
+T5	morphologie 908 916	mélanome
+T6	expression_CIM 1327 1344	cellules malignes
+T7	morphologie 1327 1344	cellules malignes
+T8	expression_CIM 1559 1565	tumeur
+T9	morphologie 1559 1565	tumeur
+T10	morphologie 1625 1632	nodules
+T11	expression_CIM 1625 1644	nodules pulmonaires
+T12	topographie 1633 1644	pulmonaires
+T13	morphologie 1662 1668	nodule
+T14	expression_CIM 1662 1680	nodule sous-cutané
+T15	topographie 1669 1680	sous-cutané
+T16	morphologie 1902 1912	métastases
+T17	expression_CIM 1902 1950	métastases pulmonaires, hépatiques et spléniques
+T18	topographie 1913 1924	pulmonaires
+T19	topographie 1926 1936	hépatiques
+T20	topographie 1940 1950	spléniques
+T21	morphologie 1981 1989	implants
+T22	expression_CIM 1981 2003	implants mésentériques
+T23	topographie 1990 2003	mésentériques
+T24	morphologie 2009 2019	métastases
+T25	expression_CIM 2009 2037	métastases dans la 9ème côte
+T26	topographie 2033 2037	côte
+T27	morphologie 2051 2074	nodule hypermétabolique
+T28	expression_CIM 2051 2096	nodule hypermétabolique dans le grand fessier
+T29	topographie 2083 2096	grand fessier
+T30	morphologie 2115 2121	lésion
+T31	expression_CIM 2115 2143	lésion lombaire sous-cutanée
+T32	topographie 2122 2143	lombaire sous-cutanée
+T33	expression_CIM 2203 2212	métastase
+T34	morphologie 2203 2212	métastase
+T35	expression_CIM 2216 2224	mélanome
+T36	morphologie 2216 2224	mélanome
+T37	morphologie 2395 2405	métastases
+T38	expression_CIM 2395 2442	métastases au niveau du système nerveux central
+T39	topographie 2419 2442	système nerveux central
+T40	expression_CIM 2461 2469	mélanome
+T41	morphologie 2461 2469	mélanome
+T42	expression_CIM 2473 2481	stade IV
+T43	morphologie 2473 2481	stade IV
+T44	morphologie 3166 3176	métastases
+T45	expression_CIM 3166 3188	métastases pulmonaires
+T46	topographie 3177 3188	pulmonaires
+T47	morphologie 3206 3218	adénopathies
+T48	expression_CIM 3206 3232	adénopathies médiastinales
+T49	topographie 3219 3232	médiastinales
+T50	morphologie 3245 3255	métastases
+T51	expression_CIM 3245 3280	métastases hépatiques ou spléniques
+T52	topographie 3256 3266	hépatiques
+T53	topographie 3270 3280	spléniques
+T54	expression_CIM 3293 3301	récidive
+T55	morphologie 3293 3301	récidive
+T56	morphologie 3308 3314	lésion
+T57	expression_CIM 3308 3336	lésion sous-cutanée lombaire
+T58	topographie 3315 3336	sous-cutanée lombaire
+T59	morphologie 4081 4088;4107 4124	lésions occupant l'espace
+T60	expression_CIM 4081 4267	lésions supratentorielles occupant l'espace, dispersées dans les deux hémisphères cérébraux avec une légère prédominance du côté gauche, la plus grande étant située dans le lobe pariétal
+T61	topographie 4089 4106	supratentorielles
+T62	topographie 4254 4267	lobe pariétal
+T63	expression_CIM 4294 4301	lésions
+T64	morphologie 4294 4301	lésions
+T3	topographie 784 799	région lombaire
+#1	ICD-O T1	8720/3
+#2	ICD-O T4	8720/3
+#3	ICD-O T5	8720/3
+#4	ICD-O T6	8000/1
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	C34.9 8000/1
+#10	ICD-O T12	C34.9
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C49.9 8000/1
+#13	ICD-O T15	C49.9
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	C22.0 8000/6;C34.9 8000/6;C42.2 8000/6
+#16	ICD-O T18	C34.9
+#17	ICD-O T19	C22.0
+#18	ICD-O T20	C42.2
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	C48.1 8000/6
+#21	ICD-O T23	C48.1
+#22	ICD-O T24	8000/6
+#23	ICD-O T26	C41.3
+#24	ICD-O T27	8000/9
+#25	ICD-O T28	C49.5 8000/1
+#26	ICD-O T29	C49.5
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	C49.4 8000/1
+#29	ICD-O T32	C49.4
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	8000/6
+#32	ICD-O T35	8720/3
+#33	ICD-O T36	8720/3
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	C72.9 8000/6
+#36	ICD-O T39	C72.9
+#37	ICD-O T40	8720/3
+#38	ICD-O T41	8720/3
+#39	ICD-O T42	8000/6
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8000/6
+#42	ICD-O T45	C34.9 8000/6
+#43	ICD-O T46	C34.9
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C77.1 8000/1
+#46	ICD-O T49	C38.3
+#47	ICD-O T50	8000/6
+#48	ICD-O T51	C22.0 8000/6;C42.2 8000/6
+#49	ICD-O T52	C22.0
+#50	ICD-O T53	C42.2
+#51	ICD-O T54	8000/6
+#52	ICD-O T55	8000/6
+#53	ICD-O T56	8000/1
+#54	ICD-O T57	C49.4 8000/1
+#55	ICD-O T58	C49.4
+#56	ICD-O T59	8000/1
+#57	ICD-O T61	C71.0
+#58	ICD-O T62	C71.3
+#59	ICD-O T63	8000/1
+#60	ICD-O T64	8000/1
+#61	AnnotatorNotes T59	trad

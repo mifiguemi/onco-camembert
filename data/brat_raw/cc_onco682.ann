@@ -1,0 +1,165 @@
+T1	morphologie 99 128	carcinome épidermoïde in situ
+T2	expression_CIM 99 147	carcinome épidermoïde in situ du col de l'utérus
+T3	topographie 132 147	col de l'utérus
+T4	morphologie 728 734	lésion
+T5	expression_CIM 728 769	lésion située au niveau du vertex crânien
+T6	topographie 755 769	vertex crânien
+T7	expression_CIM 939 945	lésion
+T8	morphologie 939 945	lésion
+T9	expression_CIM 1011 1017	naevus
+T10	morphologie 1011 1017	naevus
+T11	morphologie 1037 1043	Tumeur
+T12	expression_CIM 1037 1066	Tumeur multilobulée du vertex
+T13	topographie 1060 1066	vertex
+T14	morphologie 1252 1264	adénopathies
+T15	expression_CIM 1252 1315	adénopathies fermes rétro- et infra-auriculaires et occipitales
+T16	topographie 1272 1300	rétro- et infra-auriculaires
+T17	topographie 1304 1315	occipitales
+T18	morphologie 1462 1474	adénopathies
+T19	expression_CIM 1462 1615	adénopathies bilatérales de niveau IIb se rehaussant ont été visualisées dans la région postérieure des deux parotides et dans la région rétroauriculaire
+T20	topographie 1571 1580	parotides
+T22	topographie 1679 1685	thorax
+T23	expression_CIM 1679 1773	thorax, plusieurs nodules bilatéraux, principalement à gauche, compatibles avec des métastases
+T24	morphologie 1697 1704;1742 1773	nodules compatibles avec des métastases
+T25	expression_CIM 1798 1810	adénopathies
+T26	morphologie 1798 1810	adénopathies
+T27	topographie 1825 1834	squelette
+T28	expression_CIM 1825 1909	squelette, il y avait également de multiples lésions compatibles avec des métastases
+T29	morphologie 1870 1909	lésions compatibles avec des métastases
+T30	morphologie 1944 1950	masses
+T31	expression_CIM 1944 2110	masses de tissus mous associées (au niveau du 2ème arc costal gauche, du 5ème arc costal et du 6ème arc costal droit, de l'os iliaque gauche et du corps vertébral D11
+T32	topographie 1954 1965	tissus mous
+T33	topographie 1995 2005	arc costal
+T34	topographie 2022 2032	arc costal
+T35	topographie 2044 2060	arc costal droit
+T36	topographie 2067 2077	os iliaque
+T37	topographie 2091 2110	corps vertébral D11
+T38	expression_CIM 2137 2145	mélanome
+T39	morphologie 2137 2145	mélanome
+T40	expression_CIM 2476 2500	lésion occupant l'espace
+T41	morphologie 2476 2500	lésion occupant l'espace
+T42	morphologie 2507 2525	prise pathologique
+T43	expression_CIM 2507 2543	prise pathologique dans les méninges
+T44	topographie 2535 2543	méninges
+T45	expression_CIM 2659 2665	lésion
+T46	morphologie 2659 2665	lésion
+T47	expression_CIM 2743 2759	maladie tumorale
+T48	morphologie 2743 2759	maladie tumorale
+T49	expression_CIM 2803 2830	augmentation du métabolisme
+T50	morphologie 2803 2830	augmentation du métabolisme
+T51	expression_CIM 2988 3000	lésion mixte
+T52	morphologie 2988 3000	lésion mixte
+T53	expression_CIM 3041 3057	maladie tumorale
+T54	morphologie 3041 3057	maladie tumorale
+T55	expression_CIM 3112 3127	maladie maligne
+T56	morphologie 3112 3127	maladie maligne
+T57	expression_CIM 3183 3191	Mélanome
+T58	morphologie 3183 3191	Mélanome
+T59	expression_CIM 3195 3203	stade IV
+T60	morphologie 3195 3203	stade IV
+T61	expression_CIM 3298 3304	lésion
+T62	morphologie 3298 3304	lésion
+T63	expression_CIM 3636 3642	lésion
+T64	morphologie 3636 3642	lésion
+T65	morphologie 4475 4493	lésions nodulaires
+T66	expression_CIM 4475 4526	lésions nodulaires hypercapillaires du cuir chevelu
+T67	topographie 4514 4526	cuir chevelu
+T68	morphologie 4571 4583	adénopathies
+T69	expression_CIM 4571 4601	adénopathies périparotidiennes
+T70	topographie 4584 4601	périparotidiennes
+T71	morphologie 4643 4650	lésions
+T72	expression_CIM 4643 4659	lésions osseuses
+T73	topographie 4651 4659	osseuses
+T74	expression_CIM 4671 4678	lésions
+T75	morphologie 4671 4678	lésions
+T76	morphologie 4733 4739	masses
+T77	expression_CIM 4733 4754	masses de tissus mous
+T78	topographie 4743 4754	tissus mous
+T79	morphologie 4977 4984	lésions
+T80	expression_CIM 4977 4993	lésions cutanées
+T81	topographie 4985 4993	cutanées
+T82	morphologie 6277 6284	maladie
+T83	expression_CIM 6277 6300	maladie dans le cerveau
+T84	topographie 6293 6300	cerveau
+T85	expression_CIM 6414 6429	maladie maligne
+T86	morphologie 6414 6429	maladie maligne
+T21	topographie 1592 1615	région rétroauriculaire
+#1	ICD-O T1	8070/2
+#2	ICD-O T2	C53.9 8070/2
+#3	ICD-O T3	C53.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C49.0 8000/1
+#6	ICD-O T6	C49.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8720/0
+#10	ICD-O T10	8720/0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C41.0 8000/1
+#13	ICD-O T13	C41.0
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C77.0 8000/1
+#16	ICD-O T16	C76.0
+#17	ICD-O T17	C41.0
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C77.0 8000/1
+#20	ICD-O T20	C07.9
+#21	ICD-O T22	C76.1
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	C77.9 8000/1
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C41.9
+#26	ICD-O T29	8000/6
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	C41.2 8000/1;C41.3 8000/1;C41.4 8000/1;C49.9 8000/1
+#29	ICD-O T32	C49.9
+#30	ICD-O T33	C41.3
+#31	ICD-O T34	C41.3
+#32	ICD-O T35	C41.3
+#33	ICD-O T36	C41.4
+#34	ICD-O T37	C41.2
+#35	ICD-O T38	8720/3
+#36	ICD-O T39	8720/3
+#37	ICD-O T41	8000/1
+#38	ICD-O T42	8000/9
+#39	ICD-O T44	C70.9
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	8000/3
+#43	ICD-O T48	8000/3
+#44	ICD-O T50	8000/1
+#45	ICD-O T52	8000/1
+#46	ICD-O T53	8000/3
+#47	ICD-O T54	8000/3
+#48	ICD-O T55	8000/3
+#49	ICD-O T56	8000/3
+#50	ICD-O T57	8720/3
+#51	ICD-O T58	8720/3
+#52	ICD-O T59	8000/6
+#53	ICD-O T60	8000/6
+#54	ICD-O T61	8000/1
+#55	ICD-O T62	8000/1
+#56	ICD-O T63	8000/1
+#57	ICD-O T64	8000/1
+#58	ICD-O T65	8000/1
+#59	ICD-O T66	C44.4 8000/1
+#60	ICD-O T67	C44.4
+#61	ICD-O T68	8000/1
+#62	ICD-O T69	C77.0 8000/1
+#63	ICD-O T70	C76.0
+#64	ICD-O T71	8000/1
+#65	ICD-O T72	C41.9 8000/1
+#66	ICD-O T73	C41.9
+#67	ICD-O T74	8000/1
+#68	ICD-O T75	8000/1
+#69	ICD-O T76	8000/1
+#70	ICD-O T77	C49.9 8000/1
+#71	ICD-O T78	C49.9
+#72	ICD-O T79	8000/1
+#73	ICD-O T80	C44.9 8000/1
+#74	ICD-O T81	C44.9
+#75	ICD-O T82	8000/6
+#76	ICD-O T83	C71.0 8000/6
+#77	ICD-O T84	C71.0
+#78	ICD-O T85	8000/3
+#79	ICD-O T86	8000/3

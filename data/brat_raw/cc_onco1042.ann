@@ -1,0 +1,110 @@
+T1	morphologie 103 117	adénocarcinome
+T2	expression_CIM 103 160	adénocarcinome localement avancé (T3N1-2M0) du bas rectum
+T3	differenciation 118 135	localement avancé
+T4	stadeTNM 137 145	T3N1-2M0
+T5	topographie 154 160	rectum
+T6	morphologie 626 632	lésion
+T7	expression_CIM 626 644	lésion parahilaire
+T8	topographie 633 644	parahilaire
+T9	expression_CIM 706 714	récidive
+T10	morphologie 706 714	récidive
+T11	expression_CIM 730 745	tumeur primaire
+T12	morphologie 730 745	tumeur primaire
+T13	expression_CIM 889 901	adénopathies
+T14	morphologie 889 901	adénopathies
+T15	morphologie 1251 1257	lésion
+T16	expression_CIM 1251 1269	lésion parahilaire
+T17	topographie 1258 1269	parahilaire
+T18	expression_CIM 1460 1467	lésions
+T19	morphologie 1460 1467	lésions
+T20	expression_CIM 1553 1565	adénopathies
+T21	morphologie 1553 1565	adénopathies
+T22	morphologie 1605 1627	atteinte adénopathique
+T23	expression_CIM 1605 1656	atteinte adénopathique dans la région paratrachéale
+T24	topographie 1643 1656	paratrachéale
+T25	morphologie 2041 2047	lésion
+T26	expression_CIM 2041 2076	lésion hypermétabolique parahilaire
+T27	topographie 2069 2076	hilaire
+T28	morphologie 2090 2098	atteinte
+T29	expression_CIM 2090 2127	atteinte du médiastin et de la plèvre
+T30	topographie 2102 2111	médiastin
+T31	topographie 2121 2127	plèvre
+T32	expression_CIM 2231 2239	récidive
+T33	morphologie 2231 2239	récidive
+T34	expression_CIM 2253 2261	primitif
+T35	morphologie 2253 2261	primitif
+T36	morphologie 2324 2335	adénopathie
+T37	expression_CIM 2324 2349	adénopathie sous-carénale
+T39	expression_CIM 2362 2387	conglomérat adénopathique
+T40	morphologie 2362 2387	conglomérat adénopathique
+T41	morphologie 2549 2561	adénopathies
+T42	expression_CIM 2549 2628	adénopathies hyperéchogènes paratrachéales, hilaires droites et sous-carénaires
+T43	topographie 2577 2591	paratrachéales
+T44	topographie 2593 2601	hilaires
+T46	expression_CIM 2656 2673	cellules malignes
+T47	morphologie 2656 2673	cellules malignes
+T48	morphologie 2916 2927	Adénopathie
+T49	expression_CIM 2916 2940	Adénopathie médiastinale
+T50	topographie 2928 2940	médiastinale
+T51	expression_CIM 3005 3020	maladie maligne
+T52	morphologie 3005 3020	maladie maligne
+T53	expression_CIM 3176 3190	tumeur maligne
+T54	morphologie 3176 3190	tumeur maligne
+T55	morphologie 3536 3548	adénopathies
+T56	expression_CIM 3536 3562	adénopathies médiastinales
+T57	topographie 3549 3562	médiastinales
+T45	topographie 2613 2628	sous-carénaires
+T38	topographie 2336 2349	sous-carénale
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C20.9 8140/3
+#3	ICD-O T3	tocheck
+#4	ICD-O T4	todelete
+#5	ICD-O T5	C20.9
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C76.1 8000/1
+#8	ICD-O T8	C76.1
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/3
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	C77.9 8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C76.1 8000/1
+#17	ICD-O T17	C76.1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C77.9 8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C77.1 8000/1
+#24	ICD-O T24	C33.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C76.1 8000/1
+#27	ICD-O T27	C76.1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C38.3 8000/1;C38.4 8000/1
+#30	ICD-O T30	C38.3
+#31	ICD-O T31	C38.4
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/3
+#35	ICD-O T35	8000/3
+#36	ICD-O T36	8000/1
+#37	ICD-O T39	C77.9 8000/1
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T43	C33.9
+#41	ICD-O T44	C76.1
+#42	ICD-O T46	8000/1
+#43	ICD-O T47	8000/1
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	C77.1 8000/1
+#46	ICD-O T50	C38.3
+#47	ICD-O T51	8000/3
+#48	ICD-O T52	8000/3
+#49	ICD-O T53	8000/3
+#50	ICD-O T54	8000/3
+#51	ICD-O T55	8000/1
+#52	ICD-O T56	C77.1 8000/1
+#53	ICD-O T57	C38.3

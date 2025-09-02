@@ -1,0 +1,38 @@
+T43	topographie 3848 3852	base
+T48	morphologie 4893 4915	lésion de type tumoral
+T44	topographie 3882 3903	périhilaire inférieur
+T1	morphologie 437 443	tumeur
+T3	topographie 462 466	sein
+T5	morphologie 514 520	tumeur
+T6	morphologie 870 876	tumeur
+T8	topographie 895 899	sein
+T9	morphologie 990 1002	infiltration
+T11	topographie 1003 1010	cutanée
+T12	morphologie 1219 1225	nodule
+T14	topographie 1262 1266	sein
+T15	topographie 1304 1308	sein
+T17	morphologie 1336 1342	nodule
+T19	morphologie 1570 1576	lésion
+T21	morphologie 1652 1664	fibroadénome
+T23	morphologie 1983 2001	maladie à distance
+T24	morphologie 2061 2080	tumeur de Phyllodes
+T26	topographie 2084 2088	sein
+T28	morphologie 2185 2194	bénignité
+T30	morphologie 2309 2315	tumeur
+T31	morphologie 2458 2485	tumeur maligne de Phyllodes
+T34	differenciation 2753 2755	G2
+T35	topographie 2773 2793	Ganglion lymphatique
+T37	morphologie 2819 2828	métastase
+T39	morphologie 3514 3520	tumeur
+T40	morphologie 3792 3799	nodules
+T42	topographie 3800 3811	pulmonaires
+T46	morphologie 4733 4739	lésion
+T49	morphologie 5390 5396	masses
+T52	topographie 5427 5436	axillaire
+T53	topographie 5445 5455	musculaire
+T54	topographie 5457 5469	intercostale
+T55	topographie 5471 5483	médiastinale
+T56	topographie 5487 5495	pleurale
+T58	morphologie 5525 5535	métastases
+T60	morphologie 5777 5783	lésion
+T51	topographie 5405 5419	région du sein

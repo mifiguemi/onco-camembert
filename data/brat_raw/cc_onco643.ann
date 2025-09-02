@@ -1,0 +1,142 @@
+T1	morphologie 382 387	masse
+T2	expression_CIM 382 419	masse des tissus mous de l'avant-bras
+T3	topographie 392 419	tissus mous de l'avant-bras
+T4	morphologie 579 590	adénopathie
+T5	expression_CIM 579 608	adénopathie sous-mandibulaire
+T6	topographie 591 608	sous-mandibulaire
+T7	expression_CIM 683 694	adénopathie
+T8	morphologie 683 694	adénopathie
+T9	topographie 875 885	Avant-bras
+T10	expression_CIM 875 901	Avant-bras gauche : tumeur
+T11	morphologie 895 901	tumeur
+T12	morphologie 1046 1052	nodule
+T13	expression_CIM 1046 1062	nodule axillaire
+T14	topographie 1053 1062	axillaire
+T15	morphologie 1083 1093	métastases
+T16	expression_CIM 1083 1116	métastases hépatiques et osseuses
+T17	topographie 1094 1104	hépatiques
+T18	topographie 1108 1116	osseuses
+T19	morphologie 1132 1142	métastases
+T20	expression_CIM 1132 1157	métastases surrénaliennes
+T21	topographie 1143 1157	surrénaliennes
+T22	morphologie 1220 1226	lésion
+T23	expression_CIM 1220 1296	lésion des tissus mous dans le SCT du dorsum du tiers distal de l'avant-bras
+T24	topographie 1231 1242	tissus mous
+T25	topographie 1286 1296	avant-bras
+T26	morphologie 1438 1449	adénopathie
+T27	expression_CIM 1438 1459	adénopathie axillaire
+T28	topographie 1450 1459	axillaire
+T29	morphologie 1462 1483	lymphome folliculaire
+T30	expression_CIM 1462 1494	lymphome folliculaire de grade 2
+T31	differenciation 1487 1494	grade 2
+T32	morphologie 1553 1568	lésion tumorale
+T33	expression_CIM 1553 1585	lésion tumorale sur l'avant-bras
+T34	topographie 1575 1585	avant-bras
+T35	morphologie 1595 1619	carcinome neuroendocrine
+T36	expression_CIM 1595 1631	carcinome neuroendocrine anaplasique
+T37	differenciation 1620 1631	anaplasique
+T38	expression_CIM 1651 1681	carcinome à cellules de Merkel
+T39	morphologie 1651 1681	carcinome à cellules de Merkel
+T40	expression_CIM 1695 1725	Carcinome à cellules de Merkel
+T41	morphologie 1695 1725	Carcinome à cellules de Merkel
+T42	expression_CIM 1729 1737	stade IV
+T43	morphologie 1729 1737	stade IV
+T44	morphologie 1754 1762	atteinte
+T45	expression_CIM 1754 1798	atteinte hépatique, osseuse et surrénalienne
+T46	topographie 1763 1772	hépatique
+T47	topographie 1774 1781	osseuse
+T48	topographie 1785 1798	surrénalienne
+T49	expression_CIM 1807 1828	lymphome folliculaire
+T50	morphologie 1807 1828	lymphome folliculaire
+T51	expression_CIM 1875 1878	MBC
+T52	morphologie 1875 1878	MBC
+T53	morphologie 2236 2242	lésion
+T54	expression_CIM 2236 2251	lésion dermique
+T55	topographie 2243 2251	dermique
+T56	expression_CIM 2348 2354	tumeur
+T57	morphologie 2348 2354	tumeur
+T58	expression_CIM 2669 2684	lésion tumorale
+T59	morphologie 2669 2684	lésion tumorale
+T60	expression_CIM 2941 2956	lésion tumorale
+T61	morphologie 2941 2956	lésion tumorale
+T62	expression_CIM 3679 3687	récidive
+T63	morphologie 3679 3687	récidive
+T64	expression_CIM 3830 3857	stabilisation de la maladie
+T65	morphologie 3830 3857	stabilisation de la maladie
+T66	morphologie 4110 4116	lésion
+T67	expression_CIM 4110 4124	lésion cutanée
+T68	topographie 4117 4124	cutanée
+T69	expression_CIM 4160 4166	lésion
+T70	morphologie 4160 4166	lésion
+T71	expression_CIM 4208 4232	progression de la tumeur
+T72	morphologie 4208 4232	progression de la tumeur
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C49.1 8000/1
+#3	ICD-O T3	C49.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C49.0
+#7	ICD-O T7	C77.9 8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C76.4
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C76.1 8000/1
+#13	ICD-O T14	C76.1
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	C22.0 8000/6;C41.9 8000/6
+#16	ICD-O T17	C22.0
+#17	ICD-O T18	C41.9
+#18	ICD-O T19	8000/6
+#19	ICD-O T20	C74.9 8000/6
+#20	ICD-O T21	C74.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T24	C49.9
+#23	ICD-O T25	C76.4
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C77.3 8000/1
+#26	ICD-O T28	C76.1
+#27	ICD-O T29	9690/3
+#28	ICD-O T30	9690/32
+#29	ICD-O T31	2
+#30	ICD-O T32	8000/3
+#31	ICD-O T33	C76.4 8000/3
+#32	ICD-O T34	C76.4
+#33	ICD-O T35	8246/3
+#34	ICD-O T36	8246/34
+#35	ICD-O T37	4
+#36	ICD-O T38	8247/3
+#37	ICD-O T39	8247/3
+#38	ICD-O T40	8247/3
+#39	ICD-O T41	8247/3
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	8000/6
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	C22.0 8000/1;C41.9 8000/1;C74.9 8000/1
+#44	ICD-O T46	C22.0
+#45	ICD-O T47	C41.9
+#46	ICD-O T48	C74.9
+#47	ICD-O T49	9690/3
+#48	ICD-O T50	9690/3
+#49	ICD-O T51	8247/3
+#50	ICD-O T52	8247/3
+#51	ICD-O T53	8000/1
+#52	ICD-O T54	C44.9 8000/1
+#53	ICD-O T55	C44.9
+#54	ICD-O T56	8000/1
+#55	ICD-O T57	8000/1
+#56	ICD-O T58	8000/3
+#57	ICD-O T59	8000/3
+#58	ICD-O T60	8000/3
+#59	ICD-O T61	8000/3
+#60	ICD-O T62	8000/6
+#61	ICD-O T63	8000/6
+#62	ICD-O T64	8000/6
+#63	ICD-O T65	8000/6
+#64	ICD-O T66	8000/1
+#65	ICD-O T67	C44.9 8000/1
+#66	ICD-O T68	C44.9
+#67	ICD-O T69	8000/1
+#68	ICD-O T70	8000/1
+#69	ICD-O T71	8000/3
+#70	ICD-O T72	8000/3

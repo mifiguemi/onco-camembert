@@ -1,0 +1,51 @@
+T15	topographie 2127 2141	extracrânienne
+T1	morphologie 1177 1182	masse
+T2	expression_CIM 1177 1197	masse dans le septum
+T3	topographie 1191 1197	septum
+T4	morphologie 1428 1434	tumeur
+T5	expression_CIM 1428 1543	tumeur centrée dans le fornix gauche et le toit du troisième ventricule, s'implantant dans les ventricules latéraux
+T6	topographie 1451 1457	fornix
+T9	expression_CIM 1846 1852	lésion
+T10	morphologie 1846 1852	lésion
+T11	expression_CIM 1888 1924	lymphome diffus à grandes cellules B
+T12	morphologie 1888 1924	lymphome diffus à grandes cellules B
+T13	morphologie 2119 2126	maladie
+T14	expression_CIM 2119 2141	maladie extracrânienne
+T16	morphologie 2171 2179;2189 2197	lymphome primaire
+T17	expression_CIM 2171 2188	lymphome cérébral
+T18	topographie 2180 2188	cérébral
+T19	morphologie 2313 2321;2331 2339	Lymphome primaire
+T20	expression_CIM 2313 2330	Lymphome cérébral
+T21	topographie 2322 2330	cérébral
+T22	morphologie 2342 2378	lymphome diffus à grandes cellules B
+T23	expression_CIM 2342 2404	lymphome diffus à grandes cellules B dans le septum pellucidum
+T24	topographie 2387 2404	septum pellucidum
+T25	expression_CIM 4592 4598	tumeur
+T26	morphologie 4592 4598	tumeur
+T27	expression_CIM 5220 5226	tumeur
+T28	morphologie 5220 5226	tumeur
+T7	topographie 1471 1499	toit du troisième ventricule
+T8	topographie 1523 1543	ventricules latéraux
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C70.0 8000/1
+#3	ICD-O T3	C70.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T6	C71.0
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	8000/1
+#8	ICD-O T11	9680/3
+#9	ICD-O T12	9680/3
+#10	ICD-O T13	8000/9
+#11	ICD-O T16	9590/3
+#12	ICD-O T17	C71.0 9590/3
+#13	ICD-O T18	C71.0
+#14	ICD-O T19	9590/3
+#15	ICD-O T20	C71.0 9590/3
+#16	ICD-O T21	C71.0
+#17	ICD-O T22	9680/3
+#18	ICD-O T23	C70.0 9680/3
+#19	ICD-O T24	C70.0
+#20	ICD-O T25	8000/1
+#21	ICD-O T26	8000/1
+#22	ICD-O T27	8000/1
+#23	ICD-O T28	8000/1

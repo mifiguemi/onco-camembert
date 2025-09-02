@@ -1,0 +1,49 @@
+T1	expression_CIM 74 92	syndrome de Gorlin
+T2	morphologie 74 92	syndrome de Gorlin
+T3	expression_CIM 134 160	carcinomes basocellulaires
+T4	morphologie 134 160	carcinomes basocellulaires
+T5	expression_CIM 334 360	carcinomes basocellulaires
+T6	morphologie 334 360	carcinomes basocellulaires
+T7	expression_CIM 770 796	carcinomes basocellulaires
+T8	morphologie 770 796	carcinomes basocellulaires
+T9	morphologie 1029 1040	progression
+T10	expression_CIM 1029 1104	progression a été observée au niveau du visage, des avant-bras et des mains
+T11	topographie 1069 1075	visage
+T12	topographie 1081 1091	avant-bras
+T13	topographie 1099 1104	mains
+T14	expression_CIM 2031 2038	lésions
+T15	morphologie 2031 2038	lésions
+T16	morphologie 2060 2083	lésions basocellulaires
+T17	expression_CIM 2060 2110	lésions basocellulaires sur les mains et le visage
+T18	topographie 2092 2097	mains
+T19	topographie 2104 2110	visage
+T20	morphologie 3734 3740	lésion
+T21	expression_CIM 3734 3786	lésion n'a été observée dans la colonne lombo-sacrée
+T22	topographie 3766 3786	colonne lombo-sacrée
+T23	expression_CIM 7663 7680	maladie de Gorlin
+T24	morphologie 7663 7680	maladie de Gorlin
+T25	expression_CIM 7796 7822	carcinomes basocellulaires
+T26	morphologie 7796 7822	carcinomes basocellulaires
+#1	ICD-O T2	8090/3
+#2	ICD-O T3	8090/3
+#3	ICD-O T4	8090/3
+#4	ICD-O T5	8090/3
+#5	ICD-O T6	8090/3
+#6	ICD-O T7	8090/3
+#7	ICD-O T8	8090/3
+#8	ICD-O T9	8000/9
+#9	ICD-O T11	C76.0
+#10	ICD-O T12	C76.4
+#11	ICD-O T13	C76.4
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8090/1
+#15	ICD-O T17	C76.0 8000/1;C76.4 8000/1
+#16	ICD-O T18	C76.4
+#17	ICD-O T19	C76.0
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	C41.8 8000/1
+#20	ICD-O T22	C41.8
+#21	ICD-O T24	8090/3
+#22	ICD-O T25	8090/3
+#23	ICD-O T26	8090/3

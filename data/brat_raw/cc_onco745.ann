@@ -1,0 +1,72 @@
+T1	morphologie 1956 1972	lésion nodulaire
+T2	expression_CIM 1956 2018	lésion nodulaire arrondie bien définie dans la tige pituitaire
+T3	topographie 2003 2018	tige pituitaire
+T4	morphologie 2040 2049	métastase
+T5	expression_CIM 2040 2064	métastase infundibulaire
+T6	topographie 2050 2064	infundibulaire
+T7	morphologie 2078 2090	infiltration
+T8	expression_CIM 2078 2101	infiltration du chiasma
+T9	topographie 2094 2101	chiasma
+T10	morphologie 2116 2124	atteinte
+T11	expression_CIM 2116 2162	atteinte intraparenchymateuse ou leptoméningée
+T12	topographie 2149 2162	leptoméningée
+T13	morphologie 2430 2439	métastase
+T14	expression_CIM 2430 2454	métastase infundibulaire
+T15	topographie 2440 2454	infundibulaire
+T16	morphologie 2487 2496;2506 2526	carcinome canalaire infiltrant
+T17	expression_CIM 2487 2526	carcinome mammaire canalaire infiltrant
+T18	topographie 2497 2505	mammaire
+T19	expression_CIM 2530 2538	stade IV
+T20	morphologie 2530 2538	stade IV
+T21	morphologie 2758 2767	métastase
+T22	expression_CIM 2758 2777	métastase cérébrale
+T23	topographie 2768 2777	cérébrale
+T24	expression_CIM 3439 3458	maladie oncologique
+T25	morphologie 3439 3458	maladie oncologique
+T26	morphologie 3811 3832	atteinte métastatique
+T27	expression_CIM 3811 3848	atteinte métastatique intramédullaire
+T28	topographie 3833 3848	intramédullaire
+T29	morphologie 3877 3885	atteinte
+T30	expression_CIM 3877 3938	atteinte leptoméningée dorsale des racines de la cauda equina
+T31	topographie 3886 3899	leptoméningée
+T32	topographie 3900 3907	dorsale
+T33	topographie 3912 3938	racines de la cauda equina
+T34	morphologie 3944 3952;3961 3973	atteinte métastatique
+T35	expression_CIM 3944 3973	atteinte osseuse métastatique
+T36	topographie 3953 3960	osseuse
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C75.1 8000/1
+#3	ICD-O T3	C75.1
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C75.1 8000/6
+#6	ICD-O T6	C75.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C72.3 8000/1
+#9	ICD-O T9	C72.3
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C70.9 8000/1
+#12	ICD-O T12	C70.9
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C75.1 8000/6
+#15	ICD-O T15	C75.1
+#16	ICD-O T16	8500/3
+#17	ICD-O T17	C50.9 8500/3
+#18	ICD-O T18	C50.9
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C71.0 8000/6
+#23	ICD-O T23	C71.0
+#24	ICD-O T24	8000/3
+#25	ICD-O T25	8000/3
+#26	ICD-O T26	8000/6
+#27	ICD-O T27	C72.0 8000/6
+#28	ICD-O T28	C72.0
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C70.9 8000/1;C72.1 8000/1;C76.7 8000/1
+#31	ICD-O T31	C70.9
+#32	ICD-O T32	C76.7
+#33	ICD-O T33	C72.1
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	C41.9 8000/6
+#36	ICD-O T36	C41.9

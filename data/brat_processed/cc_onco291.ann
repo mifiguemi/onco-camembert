@@ -1,0 +1,45 @@
+T71	topographie 6818 6839	intraparenchymateuses
+T2	morphologie 71 114	leucémie lymphoblastique aiguë à cellules B
+T4	morphologie 218 248	leucémie lymphoblastique aiguë
+T6	morphologie 826 853	rhabdomyosarcome alvéolaire
+T7	morphologie 1507 1519	adénopathies
+T9	topographie 1520 1530	cervicales
+T10	topographie 1532 1550	supraclaviculaires
+T11	topographie 1552 1562	axillaires
+T12	topographie 1566 1576	inguinales
+T13	morphologie 1585 1591	tumeur
+T15	topographie 1592 1600	mammaire
+T16	morphologie 1693 1698	masse
+T18	topographie 1715 1721	narine
+T20	morphologie 1856 1861	masse
+T21	morphologie 2065 2070	masse
+T25	morphologie 2424 2433	extension
+T26	morphologie 2475 2487	infiltration
+T28	topographie 2491 2515	muscle oblique supérieur
+T29	topographie 2522 2542	muscle droit interne
+T30	morphologie 2549 2557	atteinte
+T32	topographie 2558 2572	intracrânienne
+T33	morphologie 2853 2867	masse tumorale
+T35	topographie 2868 2878	ethmoïdale
+T36	morphologie 2947 2956	extension
+T38	topographie 2989 2995	orbite
+T39	topographie 3002 3022	nerf oculaire gauche
+T40	morphologie 3102 3122	foyers métastatiques
+T42	topographie 3131 3161	squelette axial et extra-axial
+T43	morphologie 3177 3183	tumeur
+T45	topographie 3190 3196	narine
+T47	morphologie 3218 3231	tissu tumoral
+T49	morphologie 3423 3441	cellules tumorales
+T51	morphologie 3754 3762	mélanome
+T53	morphologie 3815 3842	rhabdomyosarcome alvéolaire
+T55	morphologie 3941 3949	leucémie
+T56	morphologie 3954 3981	rhabdomyosarcome alvéolaire
+T58	topographie 4070 4078	ethmoïde
+T59	morphologie 4105 4115	métastases
+T61	topographie 4116 4124	osseuses
+T63	morphologie 4334 4350	rhabdomyosarcome
+T65	morphologie 4723 4731	leucémie
+T66	morphologie 6736 6751	lésion primaire
+T68	topographie 6757 6763	orbite
+T69	morphologie 6807 6817	métastases
+T23	topographie 2074 2106	tissu mou dans le sinus ethmoïde

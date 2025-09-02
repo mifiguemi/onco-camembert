@@ -1,0 +1,146 @@
+T1	expression_CIM 570 576	cancer
+T2	morphologie 570 576	cancer
+T3	morphologie 1347 1359	néoformation
+T4	expression_CIM 1347 1404	néoformation a été trouvée dans la tête-corps du pancréas
+T6	expression_CIM 1419 1445	adénopathies pathologiques
+T7	morphologie 1419 1445	adénopathies pathologiques
+T8	morphologie 1462 1469	nodules
+T9	expression_CIM 1462 1480	nodules hépatiques
+T10	topographie 1470 1480	hépatiques
+T11	expression_CIM 1524 1533	métastase
+T12	morphologie 1524 1533	métastase
+T13	morphologie 1696 1702	lésion
+T14	expression_CIM 1696 1712	lésion hépatique
+T15	topographie 1703 1712	hépatique
+T16	expression_CIM 1806 1815	métastase
+T17	morphologie 1806 1815	métastase
+T18	morphologie 1818 1832	adénocarcinome
+T19	expression_CIM 1818 1874	adénocarcinome, compatible avec une origine pancréatique
+T20	topographie 1862 1874	pancréatique
+T21	morphologie 2130 2135	Masse
+T22	expression_CIM 2130 2166	Masse dans le corps-tête du pancréas
+T23	topographie 2144 2166	corps-tête du pancréas
+T24	morphologie 2256 2265	carcinome
+T25	expression_CIM 2256 2278	carcinome pancréatique
+T26	topographie 2266 2278	pancréatique
+T27	morphologie 2280 2304	Épaississement nodulaire
+T28	expression_CIM 2280 2330	Épaississement nodulaire dans la queue du pancréas
+T29	topographie 2313 2330	queue du pancréas
+T30	morphologie 2361 2368	nodules
+T31	expression_CIM 2361 2454	nodules hypodenses ont été observés dans les deux lobes hépatiques, le plus grand dans le LHI
+T32	topographie 2411 2427	lobes hépatiques
+T34	expression_CIM 2492 2501	métastase
+T35	morphologie 2492 2501	métastase
+T36	morphologie 2503 2529	Adénopathies pathologiques
+T37	expression_CIM 2503 2597	Adénopathies pathologiques gastro-hépatiques, para-aortiques, interaortocaves et rétrocrurales
+T38	topographie 2530 2547	gastro-hépatiques
+T39	topographie 2549 2563	para-aortiques
+T40	topographie 2565 2580	interaortocaves
+T41	topographie 2584 2597	rétrocrurales
+T42	morphologie 3019 3026	lésions
+T43	expression_CIM 3019 3037	lésions hépatiques
+T44	topographie 3027 3037	hépatiques
+T45	morphologie 3479 3485	nodule
+T46	expression_CIM 3479 3497	nodule rétrocrural
+T47	topographie 3486 3497	rétrocrural
+T48	morphologie 3566 3573	lésions
+T49	expression_CIM 3566 3584	lésions hépatiques
+T50	topographie 3574 3584	hépatiques
+T51	morphologie 3678 3689	adénopathie
+T52	expression_CIM 3678 3703	adénopathie para-aortique
+T53	topographie 3690 3703	para-aortique
+T54	morphologie 4062 4068	nodule
+T55	expression_CIM 4062 4080	nodule rétrocrural
+T56	topographie 4069 4080	rétrocrural
+T57	morphologie 4158 4165	lésions
+T58	expression_CIM 4158 4176	lésions hépatiques
+T59	topographie 4166 4176	hépatiques
+T60	morphologie 4298 4309	adénopathie
+T61	expression_CIM 4298 4323	adénopathie para-aortique
+T62	topographie 4310 4323	para-aortique
+T63	morphologie 4458 4472	Adénocarcinome
+T64	expression_CIM 4458 4496	Adénocarcinome pancréatique tête-corps
+T65	topographie 4473 4496	pancréatique tête-corps
+T66	expression_CIM 4500 4508	stade IV
+T67	morphologie 4500 4508	stade IV
+T68	expression_CIM 5529 5554	progression de la maladie
+T69	morphologie 5529 5554	progression de la maladie
+T70	morphologie 6954 6964	métastases
+T71	expression_CIM 6954 6975	métastases hépatiques
+T72	topographie 6965 6975	hépatiques
+T73	morphologie 7557 7567	métastases
+T74	expression_CIM 7557 7578	métastases hépatiques
+T75	topographie 7568 7578	hépatiques
+T33	topographie 2451 2454	LHI
+T5	topographie 1382 1404	tête-corps du pancréas
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/3
+#3	ICD-O T3	8000/3
+#4	ICD-O T4	C25.8 8000/1
+#5	ICD-O T6	C77.9 8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C22.0 8000/1
+#9	ICD-O T10	C22.0
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C22.0 8000/1
+#14	ICD-O T15	C22.0
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	8140/3
+#18	ICD-O T19	C25.9 8140/3
+#19	ICD-O T20	C25.9
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C25.8 8000/1
+#22	ICD-O T23	C25.8
+#23	ICD-O T24	8010/3
+#24	ICD-O T25	C25.9 8010/3
+#25	ICD-O T26	C25.9
+#26	ICD-O T27	8000/1
+#27	ICD-O T29	C25.2 
+#28	ICD-O T30	8000/1
+#29	ICD-O T32	C22.0
+#30	ICD-O T34	8000/6
+#31	ICD-O T35	8000/6
+#32	ICD-O T36	8000/1
+#33	ICD-O T37	C77.1 8000/1;C77.2 8000/1;C77.4 8000/1
+#34	ICD-O T38	C76.2
+#35	ICD-O T39	C49.4
+#36	ICD-O T40	C76.1
+#37	ICD-O T41	C76.3
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	C22.0 8000/1
+#40	ICD-O T44	C22.0
+#41	ICD-O T45	8000/1
+#42	ICD-O T46	C76.3 8000/1
+#43	ICD-O T47	C76.3
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	C22.0 8000/1
+#46	ICD-O T50	C22.0
+#47	ICD-O T51	8000/1
+#48	ICD-O T52	C77.2 8000/1
+#49	ICD-O T53	C49.4
+#50	ICD-O T54	8000/1
+#51	ICD-O T55	C76.3 8000/1
+#52	ICD-O T56	C76.3
+#53	ICD-O T57	8000/1
+#54	ICD-O T58	C22.0 8000/1
+#55	ICD-O T59	C22.0
+#56	ICD-O T60	8000/1
+#57	ICD-O T61	C77.2 8000/1
+#58	ICD-O T62	C49.4
+#59	ICD-O T63	8140/3
+#60	ICD-O T64	C25.8 8140/3
+#61	ICD-O T65	C25.8
+#62	ICD-O T66	8000/6
+#63	ICD-O T67	8000/6
+#64	ICD-O T68	8000/1
+#65	ICD-O T69	8000/1
+#66	ICD-O T70	8000/6
+#67	ICD-O T71	C22.0 8000/6
+#68	ICD-O T72	C22.0
+#69	ICD-O T73	8000/6
+#70	ICD-O T74	C22.0 8000/6
+#71	ICD-O T75	C22.0

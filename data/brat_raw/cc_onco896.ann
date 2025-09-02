@@ -1,0 +1,111 @@
+T9	topographie 1284 1293	épigastre
+T1	morphologie 165 171	cancer
+T2	expression_CIM 165 183	cancer du pancréas
+T3	topographie 175 183	pancréas
+T4	morphologie 222 228	cancer
+T5	expression_CIM 222 240	cancer de l'ovaire
+T6	topographie 234 240	ovaire
+T7	morphologie 1247 1252	masse
+T8	expression_CIM 1247 1293	masse douteuse était palpable dans l'épigastre
+T10	morphologie 1464 1471	lésions
+T11	expression_CIM 1464 1482	lésions hépatiques
+T12	topographie 1472 1482	hépatiques
+T13	morphologie 1497 1503	lésion
+T14	expression_CIM 1497 1515	lésion du pancréas
+T15	topographie 1507 1515	pancréas
+T16	expression_CIM 1542 1560	lésions hépatiques
+T17	topographie 1550 1560	hépatiques
+T18	morphologie 1625 1630	masse
+T19	expression_CIM 1625 1647	masse dans le pancréas
+T20	topographie 1639 1647	pancréas
+T21	morphologie 1707 1712	masse
+T22	expression_CIM 1707 1725	masse pancréatique
+T23	topographie 1713 1725	pancréatique
+T24	expression_CIM 1823 1837	adénocarcinome
+T25	morphologie 1823 1837	adénocarcinome
+T26	morphologie 1996 2010	adénocarcinome
+T27	expression_CIM 1996 2031	adénocarcinome probable du pancréas
+T28	topographie 2023 2031	pancréas
+T29	expression_CIM 2110 2116	tumeur
+T30	morphologie 2110 2116	tumeur
+T31	morphologie 2141 2162	tumeur neuroendocrine
+T32	expression_CIM 2141 2174	tumeur neuroendocrine du pancréas
+T33	topographie 2166 2174	pancréas
+T34	expression_CIM 2176 2180	PNET
+T35	morphologie 2176 2180	PNET
+T36	morphologie 2232 2238	cancer
+T37	expression_CIM 2232 2250	cancer du pancréas
+T38	topographie 2242 2250	pancréas
+T39	expression_CIM 2528 2543	cancer primaire
+T40	morphologie 2528 2543	cancer primaire
+T41	expression_CIM 2782 2797	tumeur primaire
+T42	morphologie 2782 2797	tumeur primaire
+T43	morphologie 3411 3417	cancer
+T44	expression_CIM 3411 3429	cancer du pancréas
+T45	topographie 3421 3429	pancréas
+T46	morphologie 3596 3601	masse
+T47	expression_CIM 3596 3629	masse importante dans le pancréas
+T48	topographie 3621 3629	pancréas
+T49	morphologie 3830 3834	PNET
+T50	expression_CIM 3830 3851	PNET bien différencié
+T51	differenciation 3835 3851	bien différencié
+T52	expression_CIM 4119 4142	stabilité de la maladie
+T53	morphologie 4119 4142	stabilité de la maladie
+T54	morphologie 4344 4355	progression
+T55	expression_CIM 4344 4411	progression radiologique a été observée dans le foie et le pancréas
+T56	topographie 4392 4396	foie
+T57	topographie 4403 4411	pancréas
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C25.9 8000/3
+#3	ICD-O T3	C25.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C56.9 8000/3
+#6	ICD-O T6	C56.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	C22.0 8000/1
+#10	ICD-O T12	C22.0
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C25.9 8000/1
+#13	ICD-O T15	C25.9
+#14	ICD-O T16	C22.0 8000/1
+#15	ICD-O T17	C22.0
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C25.9 8000/1
+#18	ICD-O T20	C25.9
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C25.9 8000/1
+#21	ICD-O T23	C25.9
+#22	ICD-O T24	8140/3
+#23	ICD-O T25	8140/3
+#24	ICD-O T26	8140/3
+#25	ICD-O T27	C25.9 8140/3
+#26	ICD-O T28	C25.9
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	8000/1
+#29	ICD-O T31	8246/3
+#30	ICD-O T32	C25.9 8246/3
+#31	ICD-O T33	C25.9
+#32	ICD-O T34	9473/3
+#33	ICD-O T35	9473/3
+#34	ICD-O T36	8000/3
+#35	ICD-O T37	C25.9 8000/3
+#36	ICD-O T38	C25.9
+#37	ICD-O T39	8000/3
+#38	ICD-O T40	8000/3
+#39	ICD-O T41	8000/3
+#40	ICD-O T42	8000/3
+#41	ICD-O T43	8000/3
+#42	ICD-O T44	C25.9 8000/3
+#43	ICD-O T45	C25.9
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	C25.9 8000/1
+#46	ICD-O T48	C25.9
+#47	ICD-O T49	9473/3
+#48	ICD-O T50	9473/31
+#49	ICD-O T51	1
+#50	ICD-O T52	8000/6
+#51	ICD-O T53	8000/6
+#52	ICD-O T54	8000/9
+#53	ICD-O T56	C22.0
+#54	ICD-O T57	C25.9

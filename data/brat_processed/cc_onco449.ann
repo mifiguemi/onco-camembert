@@ -1,0 +1,42 @@
+T53	morphologie 3660 3679	absorption anormale
+T1	morphologie 74 80	tumeur
+T3	topographie 81 97	latéro-cervicale
+T4	morphologie 691 697	tumeur
+T7	morphologie 1256 1262	tumeur
+T9	topographie 1263 1272	cervicale
+T10	morphologie 1318 1327	néoplasme
+T12	topographie 1352 1367	sinus piriforme
+T14	morphologie 1383 1394	adénopathie
+T15	morphologie 1491 1512	carcinome épidermoïde
+T17	differenciation 1513 1528	peu différencié
+T18	morphologie 1713 1743	carcinome malpighien basaloïde
+T20	differenciation 1744 1759	peu différencié
+T21	topographie 1790 1805	sinus piriforme
+T22	morphologie 1891 1899	invasion
+T24	topographie 1900 1910	vasculaire
+T25	topographie 1911 1919	sanguine
+T26	topographie 1923 1934	lymphatique
+T27	morphologie 1940 1952	infiltration
+T29	topographie 1953 1964	périneurale
+T30	morphologie 2041 2053	infiltration
+T32	topographie 2058 2069	tissus mous
+T33	morphologie 2077 2098	carcinome épidermoïde
+T35	differenciation 2099 2114	peu différencié
+T36	morphologie 2421 2442	carcinome épidermoïde
+T38	topographie 2449 2460	supraglotte
+T39	morphologie 2640 2661	carcinome épidermoïde
+T41	topographie 2667 2678	hypopharynx
+T42	morphologie 3406 3424	lésions nodulaires
+T44	topographie 3434 3441	poumons
+T45	topographie 3486 3500	lobe inférieur
+T47	morphologie 3533 3543	métastases
+T49	morphologie 3636 3643	nodules
+T51	morphologie 3648 3654	masses
+T55	morphologie 3694 3714	récidive néoplasique
+T56	morphologie 3774 3785	progression
+T58	topographie 3796 3806	pulmonaire
+T60	morphologie 3909 3924	tumeur primaire
+T61	morphologie 4385 4396	progression
+T63	topographie 4407 4417	pulmonaire
+T65	morphologie 5921 5926	masse
+T6	topographie 714 738	région jugulodigastrique

@@ -1,0 +1,85 @@
+T3	topographie 1005 1019	intestin moyen
+T1	morphologie 980 986	tumeur
+T2	expression_CIM 980 1019	tumeur métastatique de l'intestin moyen
+T4	morphologie 1072 1078	tumeur
+T5	expression_CIM 1072 1094	tumeur de bas grade G1
+T6	differenciation 1082 1091	bas grade
+T7	differenciation 1092 1094	G1
+T8	expression_CIM 1243 1253	métastases
+T9	morphologie 1243 1253	métastases
+T10	morphologie 1301 1310	métastase
+T11	expression_CIM 1301 1320	métastase hépatique
+T12	topographie 1311 1320	hépatique
+T13	morphologie 1493 1504	progression
+T14	expression_CIM 1493 1512	progression du foie
+T15	topographie 1508 1512	foie
+T16	morphologie 1710 1716	lésion
+T17	expression_CIM 1710 1726	lésion hépatique
+T18	topographie 1717 1726	hépatique
+T19	morphologie 1793 1804	adénopathie
+T20	expression_CIM 1793 1827	adénopathie dans le hile hépatique
+T21	topographie 1813 1827	hile hépatique
+T22	expression_CIM 2128 2135	lésions
+T23	morphologie 2128 2135	lésions
+T24	expression_CIM 2468 2493	progression de la maladie
+T25	morphologie 2468 2493	progression de la maladie
+T26	morphologie 2812 2819	lésions
+T27	expression_CIM 2812 2830	lésions hépatiques
+T28	topographie 2820 2830	hépatiques
+T29	morphologie 2938 2963	progression de la maladie
+T30	expression_CIM 2938 2973	progression de la maladie hépatique
+T31	topographie 2964 2973	hépatique
+T32	morphologie 3063 3072	captation
+T33	expression_CIM 3063 3112	captation hépatique, ganglionnaire et péritonéale
+T34	topographie 3073 3082	hépatique
+T35	topographie 3084 3097	ganglionnaire
+T36	topographie 3101 3112	péritonéale
+T37	expression_CIM 5113 5118	masse
+T38	morphologie 5113 5118	masse
+T39	morphologie 5980 5987	maladie
+T40	expression_CIM 5980 5997	maladie hépatique
+T41	topographie 5988 5997	hépatique
+T42	morphologie 6036 6057	tumeur neuroendocrine
+T43	expression_CIM 6036 6090	tumeur neuroendocrine métastatique de l'intestin grêle
+T44	topographie 6076 6090	intestin grêle
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8000/1
+#3	ICD-O T5	8000/11
+#4	ICD-O T6	1
+#5	ICD-O T7	1
+#6	ICD-O T8	8000/6
+#7	ICD-O T9	8000/6
+#8	ICD-O T10	8000/6
+#9	ICD-O T11	C22.0 8000/6
+#10	ICD-O T12	C22.0
+#11	ICD-O T13	8000/6
+#12	ICD-O T14	C22.0 8000/6
+#13	ICD-O T15	C22.0
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	C22.0 8000/1
+#16	ICD-O T18	C22.0
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	C77.2 8000/1
+#19	ICD-O T21	C22.0
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C22.0 8000/1
+#26	ICD-O T28	C22.0
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C22.0 8000/1
+#29	ICD-O T31	C22.0
+#30	ICD-O T32	8000/1
+#31	ICD-O T34	C22.0
+#32	ICD-O T35	C77.9
+#33	ICD-O T36	C48.2 
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	8000/6
+#37	ICD-O T40	C22.0 8000/6
+#38	ICD-O T41	C22.0
+#39	ICD-O T42	8246/3
+#40	ICD-O T43	C17.9 8246/3
+#41	ICD-O T44	C17.9

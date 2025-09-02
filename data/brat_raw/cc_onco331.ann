@@ -1,0 +1,112 @@
+T26	morphologie 2243 2272	microcalcifications suspectes
+T1	morphologie 273 280	lésions
+T2	expression_CIM 273 353	lésions maculopapuleuses sur le visage, le tronc, les phalanges et les paupières
+T3	topographie 305 311	visage
+T4	topographie 316 321	tronc
+T5	topographie 327 336	phalanges
+T6	topographie 344 353	paupières
+T7	morphologie 798 805	lésions
+T8	expression_CIM 798 872	lésions maculaires sur les paupières, les pommettes et la paroi thoracique
+T9	topographie 825 834	paupières
+T10	topographie 840 849	pommettes
+T11	topographie 856 872	paroi thoracique
+T12	expression_CIM 1005 1011	nodule
+T13	morphologie 1005 1011	nodule
+T14	expression_CIM 1753 1765	adénopathies
+T15	morphologie 1753 1765	adénopathies
+T16	expression_CIM 1946 1952	nodule
+T17	morphologie 1946 1952	nodule
+T18	expression_CIM 2006 2018	adénopathies
+T19	morphologie 2006 2018	adénopathies
+T20	morphologie 2126 2135	extension
+T21	expression_CIM 2126 2145	extension axillaire
+T22	topographie 2136 2145	axillaire
+T24	expression_CIM 2168 2272	sein droit (MD) dans le quadrant supéro-externe (CSE), il y a un groupe de microcalcifications suspectes
+T25	topographie 2192 2220	quadrant supéro-externe (CSE
+T27	expression_CIM 2320 2327	lésions
+T28	morphologie 2320 2327	lésions
+T29	morphologie 2451 2481	carcinome canalaire infiltrant
+T30	expression_CIM 2451 2509	carcinome canalaire infiltrant, grade histologique (GH) II
+T31	differenciation 2483 2509	grade histologique (GH) II
+T32	morphologie 2625 2652	carcinome canalaire in situ
+T33	expression_CIM 2625 2675	carcinome canalaire in situ de grade nucléaire 2-3
+T34	differenciation 2656 2675	grade nucléaire 2-3
+T35	expression_CIM 2702 2713	Adénopathie
+T36	morphologie 2702 2713	Adénopathie
+T37	expression_CIM 2741 2750	métastase
+T38	morphologie 2741 2750	métastase
+T39	morphologie 2760 2769	carcinome
+T40	expression_CIM 2760 2788	carcinome d'origine mammaire
+T41	topographie 2780 2788	mammaire
+T42	morphologie 3130 3137	lésions
+T43	expression_CIM 3130 3146	lésions cutanées
+T44	topographie 3138 3146	cutanées
+T45	morphologie 3527 3557	carcinome canalaire infiltrant
+T46	expression_CIM 3527 3565	carcinome canalaire infiltrant du sein
+T47	topographie 3561 3565	sein
+T48	expression_CIM 3591 3598	lésions
+T49	morphologie 3591 3598	lésions
+T50	morphologie 3658 3675	carcinome in situ
+T51	expression_CIM 3658 3683	carcinome in situ du sein
+T52	topographie 3679 3683	sein
+T53	morphologie 3920 3927	lésions
+T54	expression_CIM 3920 3936	lésions cutanées
+T55	topographie 3928 3936	cutanées
+T56	expression_CIM 4296 4314	maladie à distance
+T57	morphologie 4296 4314	maladie à distance
+T23	topographie 2168 2182	sein droit (MD
+#1	ICD-O T26	8000/1
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C40.1 8000/1;C44.1 8000/1;C76.0 8000/1;C76.7 8000/1
+#4	ICD-O T3	C76.0
+#5	ICD-O T4	C76.7
+#6	ICD-O T5	C40.1
+#7	ICD-O T6	C44.1
+#8	ICD-O T7	8000/1
+#9	ICD-O T8	C44.1 8000/1;C76.0 8000/1;C76.1 8000/1
+#10	ICD-O T9	C44.1
+#11	ICD-O T10	C76.0
+#12	ICD-O T11	C76.1
+#13	ICD-O T12	8000/1
+#14	ICD-O T13	8000/1
+#15	ICD-O T14	C77.9 8000/1
+#16	ICD-O T15	8000/1
+#17	ICD-O T16	8000/1
+#18	ICD-O T17	8000/1
+#19	ICD-O T18	C77.9 8000/1
+#20	ICD-O T19	8000/1
+#21	ICD-O T20	8000/6
+#22	ICD-O T21	C76.1 8000/6
+#23	ICD-O T22	C76.1
+#24	ICD-O T25	C50.4
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8500/3
+#28	ICD-O T30	8500/32
+#29	ICD-O T31	2
+#30	ICD-O T32	8500/2
+#31	ICD-O T33	8500/23
+#32	ICD-O T34	3
+#33	ICD-O T35	C77.9 8000/1
+#34	ICD-O T36	8000/1
+#35	ICD-O T37	8000/6
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	8010/3
+#38	ICD-O T40	C50.9 8010/3
+#39	ICD-O T41	C50.9
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	C44.9 8000/1
+#42	ICD-O T44	C44.9
+#43	ICD-O T45	8500/3
+#44	ICD-O T46	C50.9 8500/3
+#45	ICD-O T47	C50.9
+#46	ICD-O T48	8000/1
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	8010/2
+#49	ICD-O T51	C50.9 8010/2
+#50	ICD-O T52	C50.9
+#51	ICD-O T53	8000/1
+#52	ICD-O T54	C44.9 8000/1
+#53	ICD-O T55	C44.9
+#54	ICD-O T56	8000/6
+#55	ICD-O T57	8000/6

@@ -1,0 +1,112 @@
+T1	morphologie 150 156	cancer
+T2	expression_CIM 150 188	cancer du pancréas/des voies biliaires
+T3	topographie 160 168	pancréas
+T4	topographie 173 188	voies biliaires
+T5	morphologie 222 228	cancer
+T6	expression_CIM 222 243	cancer de la prostate
+T7	topographie 235 243	prostate
+T8	expression_CIM 438 445	lésions
+T9	morphologie 438 445	lésions
+T10	expression_CIM 929 934	masse
+T11	morphologie 929 934	masse
+T12	morphologie 1031 1043	infiltration
+T13	expression_CIM 1031 1067	infiltration de la graisse périnéale
+T14	topographie 1050 1067	graisse périnéale
+T15	expression_CIM 1083 1089	tumeur
+T16	morphologie 1083 1089	tumeur
+T17	morphologie 1105 1117	adénopathies
+T18	expression_CIM 1105 1147	adénopathies hilaires et rétropéritonéales
+T19	topographie 1118 1126	hilaires
+T20	topographie 1130 1147	rétropéritonéales
+T21	morphologie 1412 1421;1428 1473	carcinome papillaire à cellules claires et éosinophiles
+T22	expression_CIM 1412 1494	carcinome rénal papillaire à cellules claires et éosinophiles de grade Furhman 3-4
+T23	topographie 1422 1427	rénal
+T24	morphologie 1558 1568	métastases
+T25	expression_CIM 1558 1605	métastases dans 5 des 22 ganglions lymphatiques
+T26	topographie 1583 1605	ganglions lymphatiques
+T27	morphologie 1738 1747	carcinome
+T28	expression_CIM 1738 1753	carcinome rénal
+T29	topographie 1748 1753	rénal
+T30	morphologie 2032 2041	carcinome
+T31	expression_CIM 2032 2047	carcinome rénal
+T32	topographie 2042 2047	rénal
+T33	expression_CIM 2261 2281	maladie métastatique
+T34	morphologie 2261 2281	maladie métastatique
+T35	expression_CIM 2717 2734	récidive tumorale
+T36	morphologie 2717 2734	récidive tumorale
+T37	morphologie 2744 2750	lésion
+T38	expression_CIM 2744 2785	lésion kystique au pôle supérieur du rein
+T39	topographie 2781 2785	rein
+T40	expression_CIM 2889 2897	récidive
+T41	morphologie 2889 2897	récidive
+T42	expression_CIM 2935 2983	récidive des ganglions lymphatiques médiastinaux
+T43	topographie 2948 2983	ganglions lymphatiques médiastinaux
+T44	expression_CIM 3325 3350	progression de sa maladie
+T45	morphologie 3325 3350	progression de sa maladie
+T46	morphologie 3403 3415	adénopathies
+T47	expression_CIM 3403 3433	adénopathies rétropéritonéales
+T48	topographie 3416 3433	rétropéritonéales
+T49	morphologie 3461 3468	nodules
+T50	expression_CIM 3461 3480	nodules pulmonaires
+T51	topographie 3469 3480	pulmonaires
+T52	morphologie 3744 3751	nodules
+T53	expression_CIM 3744 3763	nodules pulmonaires
+T54	topographie 3752 3763	pulmonaires
+T55	expression_CIM 3792 3799	lésions
+T56	morphologie 3792 3799	lésions
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C24.9 8000/3;C25.9 8000/3
+#3	ICD-O T3	C25.9
+#4	ICD-O T4	C24.9
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	C61.9 8000/3
+#7	ICD-O T7	C61.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C49.5 8000/1
+#14	ICD-O T14	C49.5
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C77.1 8000/1;C77.2 8000/1
+#19	ICD-O T19	C34.0
+#20	ICD-O T20	C48.0
+#21	ICD-O T21	8050/3
+#22	ICD-O T22	C64.9 8050/34
+#23	ICD-O T23	C64.9
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	C77.9 8000/6
+#26	ICD-O T26	C77.9
+#27	ICD-O T27	8010/3
+#28	ICD-O T28	C64.9 8010/3
+#29	ICD-O T29	C64.9
+#30	ICD-O T30	8010/3
+#31	ICD-O T31	C64.9 8010/3
+#32	ICD-O T32	C64.9
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	8000/6
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C64.9 8000/1
+#39	ICD-O T39	C64.9
+#40	ICD-O T40	8000/6
+#41	ICD-O T41	8000/6
+#42	ICD-O T42	C77.1 8000/6
+#43	ICD-O T43	C77.1
+#44	ICD-O T44	8000/6
+#45	ICD-O T45	8000/6
+#46	ICD-O T46	8000/1
+#47	ICD-O T47	C77.2 8000/1
+#48	ICD-O T48	C48.0
+#49	ICD-O T49	8000/1
+#50	ICD-O T50	C34.9 8000/1
+#51	ICD-O T51	C34.9
+#52	ICD-O T52	8000/1
+#53	ICD-O T53	C34.9 8000/1
+#54	ICD-O T54	C34.9
+#55	ICD-O T55	8000/1
+#56	ICD-O T56	8000/1

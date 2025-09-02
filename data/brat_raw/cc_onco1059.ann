@@ -1,0 +1,291 @@
+T1	morphologie 1417 1436	Opacités nodulaires
+T2	expression_CIM 1417 1465	Opacités nodulaires médiastinales et pulmonaires
+T3	topographie 1437 1450	médiastinales
+T4	topographie 1454 1465	pulmonaires
+T5	morphologie 1575 1581	nodule
+T6	expression_CIM 1575 1592	nodule thyroïdien
+T7	topographie 1582 1592	thyroïdien
+T8	expression_CIM 1609 1620	adénopathie
+T9	morphologie 1609 1620	adénopathie
+T10	morphologie 1666 1671	masse
+T11	expression_CIM 1666 1703	masse paratrachéale cervicothoracique
+T13	expression_CIM 1771 1796	conglomérat adénopathique
+T14	morphologie 1771 1796	conglomérat adénopathique
+T15	expression_CIM 1840 1847	nodules
+T16	morphologie 1840 1847	nodules
+T17	morphologie 1856 1862	masses
+T18	expression_CIM 1856 1939	masses, l'une dans le lobe supérieur droit et la plus grande dans le lobe inférieur
+T19	topographie 1878 1892	lobe supérieur
+T20	topographie 1925 1939	lobe inférieur
+T21	morphologie 1979 1988	métastase
+T22	expression_CIM 1979 1999	métastase pulmonaire
+T23	topographie 1989 1999	pulmonaire
+T24	morphologie 2031 2046	tumeur primaire
+T25	expression_CIM 2031 2080	tumeur primaire est extrapulmonaire ou pulmonaire
+T27	topographie 2070 2080	pulmonaire
+T28	morphologie 2230 2236	lésion
+T29	expression_CIM 2230 2251	lésion endobronchique
+T30	topographie 2237 2251	endobronchique
+T31	expression_CIM 2511 2559	carcinome neuroendocrine (non à petites cellules
+T32	morphologie 2511 2559	carcinome neuroendocrine (non à petites cellules
+T33	expression_CIM 2565 2571	tumeur
+T34	morphologie 2565 2571	tumeur
+T35	morphologie 2688 2711	tumeurs neuroendocrines
+T36	expression_CIM 2688 2725	tumeurs neuroendocrines thyroïdiennes
+T37	topographie 2712 2725	thyroïdiennes
+T38	morphologie 2790 2801	adénopathie
+T39	expression_CIM 2790 2819	adénopathie supraclaviculaire
+T40	topographie 2802 2819	supraclaviculaire
+T41	expression_CIM 2863 2877	tumeur maligne
+T42	morphologie 2863 2877	tumeur maligne
+T43	morphologie 2879 2884	Masse
+T44	expression_CIM 2879 2934	Masse paratrachéale droite dépendant du lobe thyroïdien
+T45	topographie 2885 2898	paratrachéale
+T46	topographie 2924 2934	thyroïdien
+T47	morphologie 3075 3082	nodules
+T48	expression_CIM 3075 3094	nodules pulmonaires
+T49	topographie 3083 3094	pulmonaires
+T50	morphologie 3270 3281	adénopathie
+T51	expression_CIM 3270 3295	adénopathie paratrachéale
+T52	topographie 3282 3295	paratrachéale
+T53	morphologie 3333 3339	lésion
+T54	expression_CIM 3333 3351	lésion parahilaire
+T55	topographie 3340 3351	parahilaire
+T56	expression_CIM 3396 3410	tumeur maligne
+T57	morphologie 3396 3410	tumeur maligne
+T58	morphologie 3415 3424	carcinome
+T59	expression_CIM 3415 3435	carcinome thyroïdien
+T60	topographie 3425 3435	thyroïdien
+T61	expression_CIM 3555 3582	cellules tumorales malignes
+T62	morphologie 3555 3582	cellules tumorales malignes
+T63	expression_CIM 3584 3635	Carcinome avec des caractéristiques neuroendocrines
+T65	expression_CIM 3794 3812	néoplasme primaire
+T66	morphologie 3794 3812	néoplasme primaire
+T67	morphologie 3820 3840	carcinome médullaire
+T68	expression_CIM 3820 3855	carcinome médullaire de la thyroïde
+T69	topographie 3847 3855	thyroïde
+T70	morphologie 4023 4032;4044 4053	carcinome insulaire
+T71	expression_CIM 4023 4053	carcinome thyroïdien insulaire
+T72	topographie 4033 4043	thyroïdien
+T73	morphologie 4055 4064	carcinome
+T74	expression_CIM 4055 4080	carcinome peu différencié
+T75	differenciation 4065 4080	peu différencié
+T76	morphologie 4310 4328	néoplasme primaire
+T77	expression_CIM 4310 4339	néoplasme primaire pulmonaire
+T78	topographie 4329 4339	pulmonaire
+T80	expression_CIM 4353 4448	Carcinome pulmonaire à grandes cellules avec composante neuroendocrine (pas à petites cellules)
+T81	topographie 4363 4373	pulmonaire
+T82	expression_CIM 4458 4466	stade IV
+T83	morphologie 4458 4466	stade IV
+T84	morphologie 4472 4480	atteinte
+T85	expression_CIM 4472 4491	atteinte pulmonaire
+T86	topographie 4481 4491	pulmonaire
+T87	morphologie 4863 4871	atteinte
+T88	expression_CIM 4863 4884	atteinte thyroïdienne
+T89	topographie 4872 4884	thyroïdienne
+T90	morphologie 4916 4923	nodules
+T91	expression_CIM 4916 4935	nodules pulmonaires
+T92	topographie 4924 4935	pulmonaires
+T93	expression_CIM 5040 5047	nodules
+T94	morphologie 5040 5047	nodules
+T95	morphologie 5151 5157	tumeur
+T96	expression_CIM 5151 5190	tumeur initiale (poumon versus thyroïde
+T97	topographie 5168 5174	poumon
+T98	topographie 5182 5190	thyroïde
+T99	expression_CIM 5327 5334	nodules
+T100	morphologie 5327 5334	nodules
+T101	morphologie 5444 5455	adénopathie
+T102	expression_CIM 5444 5480	adénopathie dans la région cervicale
+T103	topographie 5464 5480	région cervicale
+T104	morphologie 5796 5805;5817 5831	carcinome neuroendocrine
+T105	expression_CIM 5796 5831	carcinome thyroïdien neuroendocrine
+T106	topographie 5806 5816	thyroïdien
+T107	morphologie 5870 5879	carcinome
+T108	expression_CIM 5870 5905	carcinome indifférencié/anaplasique
+T109	differenciation 5880 5905	indifférencié/anaplasique
+T110	expression_CIM 5939 5960	cellules néoplasiques
+T111	morphologie 5939 5960	cellules néoplasiques
+T112	morphologie 6186 6194	invasion
+T113	expression_CIM 6186 6211	invasion lymphovasculaire
+T114	topographie 6195 6211	lymphovasculaire
+T115	morphologie 6223 6235	infiltration
+T116	expression_CIM 6223 6247	infiltration périneurale
+T117	topographie 6236 6247	périneurale
+T118	expression_CIM 6346 6355	carcinome
+T119	morphologie 6346 6355	carcinome
+T120	morphologie 6366 6375	extension
+T121	expression_CIM 6366 6427	extension extracapsulaire dans le tissu conjonctif-vasculaire
+T122	topographie 6400 6427	tissu conjonctif-vasculaire
+T123	morphologie 6496 6505;6520 6567	carcinome présentant des caractéristiques neuroendocrines
+T124	expression_CIM 6496 6567	carcinome de haut grade présentant des caractéristiques neuroendocrines
+T125	differenciation 6509 6519	haut grade
+T126	morphologie 6657 6666	carcinome
+T127	expression_CIM 6657 6692	carcinome indifférencié/anaplasique
+T128	differenciation 6667 6692	indifférencié/anaplasique
+T129	morphologie 6725 6751	carcinomes neuroendocrines
+T130	expression_CIM 6725 6763	carcinomes neuroendocrines thyroïdiens
+T131	topographie 6752 6763	thyroïdiens
+T132	expression_CIM 6831 6839	Stade IV
+T133	morphologie 6831 6839	Stade IV
+T134	morphologie 6856 6864	atteinte
+T135	expression_CIM 6856 6875	atteinte pulmonaire
+T136	topographie 6865 6875	pulmonaire
+T137	morphologie 7139 7146	lésions
+T138	expression_CIM 7139 7217	lésions pulmonaires dans le champ supérieur gauche et le champ paramédiastinal
+T139	topographie 7147 7158	pulmonaires
+T140	topographie 7202 7217	paramédiastinal
+T141	morphologie 7308 7315	lésions
+T142	expression_CIM 7308 7351	lésions paramédiastinales du lobe supérieur
+T143	topographie 7316 7333	paramédiastinales
+T144	topographie 7337 7351	lobe supérieur
+T145	morphologie 7441 7448;7461 7471	lésions nodulaires
+T146	expression_CIM 7441 7471	lésions pulmonaires nodulaires
+T147	topographie 7449 7460	pulmonaires
+T148	morphologie 7541 7548	lésions
+T149	expression_CIM 7541 7560	lésions pulmonaires
+T150	topographie 7549 7560	pulmonaires
+T79	morphologie 4353 4362;4374 4448	Carcinome à grandes cellules avec composante neuroendocrine (pas à petites cellules)
+T64	morphologie 3584 3635	Carcinome avec des caractéristiques neuroendocrines
+T26	topographie 2051 2066	extrapulmonaire
+T12	topographie 1672 1703	paratrachéale cervicothoracique
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C38.3
+#3	ICD-O T4	C34.9
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	C73.9 8000/1
+#6	ICD-O T7	C73.9
+#7	ICD-O T8	C77.9 8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T13	C77.9 8000/1
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	C34.1 8000/1;C34.3 8000/1
+#16	ICD-O T19	C34.1
+#17	ICD-O T20	C34.3
+#18	ICD-O T21	8000/6
+#19	ICD-O T22	C34.9 8000/6
+#20	ICD-O T23	C34.9
+#21	ICD-O T24	8000/3
+#22	ICD-O T27	C34.9
+#23	ICD-O T28	8000/1
+#24	ICD-O T29	C34.9 8000/1
+#25	ICD-O T30	C34.9
+#26	ICD-O T31	8574/3
+#27	ICD-O T32	8246/3
+#28	ICD-O T33	8000/1
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	8000/3
+#31	ICD-O T36	C73.9 8000/3
+#32	ICD-O T37	C73.9
+#33	ICD-O T38	8000/1
+#34	ICD-O T39	C77.1 8000/1
+#35	ICD-O T40	C76.0
+#36	ICD-O T41	8000/3
+#37	ICD-O T42	8000/3
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	C33.9 8000/1;C73.9 8000/1
+#40	ICD-O T45	C33.9
+#41	ICD-O T46	C73.9
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	C34.9 8000/1
+#44	ICD-O T49	C34.9
+#45	ICD-O T50	8000/1
+#46	ICD-O T51	C77.1 8000/1
+#47	ICD-O T52	C33.9
+#48	ICD-O T53	8000/1
+#49	ICD-O T54	C76.1 8000/1
+#50	ICD-O T55	C76.1
+#51	ICD-O T56	8000/3
+#52	ICD-O T57	8000/3
+#53	ICD-O T58	8010/3
+#54	ICD-O T59	C73.9 8010/3
+#55	ICD-O T60	C73.9
+#56	ICD-O T61	8001/3
+#57	ICD-O T62	8001/3
+#58	ICD-O T65	8000/3
+#59	ICD-O T66	8000/3
+#60	ICD-O T67	8510/3
+#61	ICD-O T68	C73.9 8510/3
+#62	ICD-O T69	C73.9
+#63	ICD-O T70	8337/3
+#64	ICD-O T71	C73.9 8337/3
+#65	ICD-O T72	C73.9
+#66	ICD-O T73	8010/3
+#67	ICD-O T74	8010/33
+#68	ICD-O T75	3
+#69	ICD-O T76	8000/3
+#70	ICD-O T77	C34.9 8000/3
+#71	ICD-O T78	C34.9
+#72	ICD-O T81	C34.9
+#73	ICD-O T82	8000/6
+#74	ICD-O T83	8000/6
+#75	ICD-O T84	8000/1
+#76	ICD-O T85	C34.9 8000/1
+#77	ICD-O T86	C34.9
+#78	ICD-O T87	8000/1
+#79	ICD-O T88	C73.9 8000/1
+#80	ICD-O T89	C73.9
+#81	ICD-O T90	8000/1
+#82	ICD-O T91	C34.9 8000/1
+#83	ICD-O T92	C34.9
+#84	ICD-O T93	8000/1
+#85	ICD-O T94	8000/1
+#86	ICD-O T95	8000/1
+#87	ICD-O T96	C34.9 8000/1;C73.9 8000/1
+#88	ICD-O T97	C34.9
+#89	ICD-O T98	C73.9
+#90	ICD-O T99	8000/1
+#91	ICD-O T100	8000/1
+#92	ICD-O T101	8000/1
+#93	ICD-O T102	C77.0 8000/1
+#94	ICD-O T103	C76.0
+#95	ICD-O T104	8246/3
+#96	ICD-O T105	C73.9 8246/3
+#97	ICD-O T106	C73.9
+#98	ICD-O T107	8010/3
+#99	ICD-O T108	8010/34
+#100	ICD-O T109	4
+#101	ICD-O T110	8000/1
+#102	ICD-O T111	8000/1
+#103	ICD-O T112	8000/1
+#104	ICD-O T113	C49.9 8000/1
+#105	ICD-O T114	C49.9
+#106	ICD-O T115	8000/1
+#107	ICD-O T116	C47.9 8000/1
+#108	ICD-O T117	C47.9
+#109	ICD-O T118	8010/3
+#110	ICD-O T119	8010/3
+#111	ICD-O T120	8000/6
+#112	ICD-O T121	C49.9 8000/6
+#113	ICD-O T122	C49.9
+#114	ICD-O T123	8246/3
+#115	ICD-O T125	4
+#116	ICD-O T126	8010/3
+#117	ICD-O T127	8010/34
+#118	ICD-O T128	4
+#119	ICD-O T129	8246/3
+#120	ICD-O T130	C73.9 8246/3
+#121	ICD-O T131	C73.9
+#122	ICD-O T132	8000/6
+#123	ICD-O T133	8000/6
+#124	ICD-O T134	8000/1
+#125	ICD-O T135	C34.9 8000/1
+#126	ICD-O T136	C34.9
+#127	ICD-O T137	8000/1
+#128	ICD-O T138	C34.9 8000/1;C76.1 8000/1
+#129	ICD-O T139	C34.9
+#130	ICD-O T140	C76.1
+#131	ICD-O T141	8000/1
+#132	ICD-O T142	C34.1 8000/1;C76.1 8000/1
+#133	ICD-O T143	C76.1
+#134	ICD-O T144	C34.1
+#135	ICD-O T145	8000/1
+#136	ICD-O T147	C34.9
+#137	ICD-O T148	8000/1
+#138	ICD-O T149	C34.9 8000/1
+#139	ICD-O T150	C34.9
+#140	ICD-O T79	8013/3
+#141	ICD-O T64	8246/3

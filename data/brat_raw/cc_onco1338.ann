@@ -1,0 +1,153 @@
+T1	expression_CIM 216 222	tumeur
+T2	morphologie 216 222	tumeur
+T3	expression_CIM 380 392	adénopathies
+T4	morphologie 380 392	adénopathies
+T5	morphologie 458 464	Tumeur
+T6	expression_CIM 458 487	Tumeur palpable dans la fesse
+T7	topographie 482 487	fesse
+T8	morphologie 646 652	lésion
+T9	expression_CIM 646 720	lésion encapsulée et septée mesurant 60 x 63 x 85 mm dans le grand fessier
+T10	topographie 707 720	grand fessier
+T11	morphologie 776 782	tumeur
+T12	expression_CIM 776 804	tumeur hétérogène du fessier
+T13	topographie 797 804	fessier
+T14	morphologie 829 838	ganglions
+T15	expression_CIM 829 848	ganglions inguinaux
+T17	morphologie 861 872	micronodule
+T18	expression_CIM 861 943	micronodule pulmonaire périphérique sous-pleural dans le lobe supérieur droit (LSD
+T19	topographie 873 883;918 932	pulmonaire lobe supérieur
+T20	topographie 897 909	sous-pleural
+T21	topographie 940 943	LSD
+T22	morphologie 946 952	lésion
+T23	expression_CIM 946 1005	lésion hypervasculaire ovoïde solide dans le lobe hépatique
+T24	topographie 996 1005	hépatique
+T25	morphologie 1044 1062	sarcome pléomorphe
+T26	expression_CIM 1044 1074	sarcome pléomorphe de la fesse
+T27	topographie 1069 1074	fesse
+T28	expression_CIM 1262 1296	fibrohistiocytome malin pléomorphe
+T29	morphologie 1262 1296	fibrohistiocytome malin pléomorphe
+T30	morphologie 1310 1317;1337 1347	Sarcome pléomorphe
+T31	expression_CIM 1310 1347	Sarcome de la fesse gauche pléomorphe
+T32	topographie 1324 1329	fesse
+T33	expression_CIM 1546 1580	fibrohistiocytome malin pléomorphe
+T34	morphologie 1546 1580	fibrohistiocytome malin pléomorphe
+T35	expression_CIM 1635 1641	lésion
+T36	morphologie 1635 1641	lésion
+T37	expression_CIM 1685 1719	fibrohistiocytome malin pléomorphe
+T38	morphologie 1685 1719	fibrohistiocytome malin pléomorphe
+T39	morphologie 1989 2000	progression
+T40	expression_CIM 1989 2021	progression au niveau pulmonaire
+T41	topographie 2011 2021	pulmonaire
+T42	morphologie 2157 2164	nodules
+T43	expression_CIM 2157 2176	nodules pulmonaires
+T44	topographie 2165 2176	pulmonaires
+T45	expression_CIM 2282 2292	métastases
+T46	morphologie 2282 2292	métastases
+T47	expression_CIM 2296 2313	fibrohistiocytome
+T48	morphologie 2296 2313	fibrohistiocytome
+T49	expression_CIM 2676 2682	lésion
+T50	morphologie 2676 2682	lésion
+T51	morphologie 2717 2723	lésion
+T52	expression_CIM 2717 2733	lésion axillaire
+T53	topographie 2724 2733	axillaire
+T54	morphologie 2980 3015	carcinome canalaire infiltrant (CDI
+T55	expression_CIM 2980 3035	carcinome canalaire infiltrant (CDI) du sein droit G2SB
+T56	topographie 3020 3024	sein
+T57	differenciation 3031 3033	G2
+T58	morphologie 3203 3206	IDC
+T59	expression_CIM 3203 3222	IDC bifocal du sein
+T60	topographie 3218 3222	sein
+T61	morphologie 3871 3892	carcinome intraductal
+T62	expression_CIM 3871 3906	carcinome intraductal de haut grade
+T63	differenciation 3896 3906	haut grade
+T64	topographie 3939 3943	sein
+T65	expression_CIM 3939 3971	sein gauche présentait 2 lésions
+T66	morphologie 3964 3971	lésions
+T67	expression_CIM 3994 4006	adénopathies
+T68	morphologie 3994 4006	adénopathies
+T69	morphologie 4091 4094	CDI
+T70	expression_CIM 4091 4097	CDI G2
+T71	differenciation 4095 4097	G2
+T72	morphologie 4400 4415	tumeur primaire
+T73	expression_CIM 4400 4423	tumeur primaire du sein
+T74	topographie 4419 4423	sein
+T75	morphologie 4794 4800	tumeur
+T76	expression_CIM 4794 4809	tumeur mammaire
+T77	topographie 4801 4809	mammaire
+T78	expression_CIM 4875 4894	maladie néoplasique
+T79	morphologie 4875 4894	maladie néoplasique
+T16	topographie 839 848	inguinaux
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	C77.9 8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C76.3 8000/1
+#7	ICD-O T7	C76.3
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C49.5
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C76.3 8000/1
+#12	ICD-O T13	C76.3
+#13	ICD-O T14	tocheck
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	C34.1 8000/1;C34.9 8000/1;C38.8 8000/1
+#16	ICD-O T19	C34.1
+#17	ICD-O T20	C38.8
+#18	ICD-O T21	C34.1
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	C22.0 8000/1
+#21	ICD-O T24	C22.0
+#22	ICD-O T25	8802/3
+#23	ICD-O T26	C76.3 8802/3
+#24	ICD-O T27	C76.3
+#25	ICD-O T28	8830/3
+#26	ICD-O T29	8830/3
+#27	ICD-O T30	8802/3
+#28	ICD-O T31	C76.3 8802/3
+#29	ICD-O T32	C76.3
+#30	ICD-O T33	8830/3
+#31	ICD-O T34	8830/3
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	8830/3
+#35	ICD-O T38	8830/3
+#36	ICD-O T39	8000/6
+#37	ICD-O T40	C34.9 8000/6
+#38	ICD-O T41	C34.9
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	C34.9 8000/1
+#41	ICD-O T44	C34.9
+#42	ICD-O T45	8000/6
+#43	ICD-O T46	8000/6
+#44	ICD-O T47	8830/0
+#45	ICD-O T48	8830/0
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	C76.1 8000/1
+#50	ICD-O T53	C76.1
+#51	ICD-O T54	8500/3
+#52	ICD-O T56	C50.9
+#53	ICD-O T57	2
+#54	ICD-O T58	8500/3
+#55	ICD-O T59	C50.9 8500/3
+#56	ICD-O T60	C50.9
+#57	ICD-O T61	8500/3
+#58	ICD-O T63	4
+#59	ICD-O T64	C50.9
+#60	ICD-O T66	8000/1
+#61	ICD-O T67	C77.9 8000/1
+#62	ICD-O T68	8000/1
+#63	ICD-O T69	8500/3
+#64	ICD-O T71	2
+#65	ICD-O T72	8000/3
+#66	ICD-O T73	C50.9 8000/3
+#67	ICD-O T74	C50.9
+#68	ICD-O T75	8000/3
+#69	ICD-O T76	C50.9 8000/1
+#70	ICD-O T77	C50.9
+#71	ICD-O T78	8000/3
+#72	ICD-O T79	8000/9
+#73	AnnotatorNotes T54	trad
+#74	AnnotatorNotes T69	trad

@@ -1,0 +1,50 @@
+T17	topographie 1788 1808	parenchyme splénique
+T1	morphologie 422 428	lésion
+T2	expression_CIM 422 440	lésion péritonéale
+T3	topographie 429 440	péritonéale
+T4	morphologie 499 508	carcinome
+T5	expression_CIM 499 551	carcinome de haut grade dont l'origine gynécologique
+T6	differenciation 512 522	haut grade
+T7	topographie 538 551	gynécologique
+T8	morphologie 879 887	implants
+T9	expression_CIM 879 899	implants péritonéaux
+T10	topographie 888 899	péritonéaux
+T11	morphologie 1718 1734	carcinome séreux
+T12	expression_CIM 1718 1762	carcinome séreux peu différencié de l'ovaire
+T13	differenciation 1735 1750	peu différencié
+T14	topographie 1756 1762	ovaire
+T15	morphologie 1776 1784	atteinte
+T16	expression_CIM 1776 1924	atteinte du parenchyme splénique, du grand et du petit omentum, de la séreuse de l'utérus, de l'ovaire controlatéral et de la surface appendiculaire
+T18	topographie 1813 1838	grand et du petit omentum
+T19	topographie 1859 1865	utérus
+T20	topographie 1872 1878	ovaire
+T22	morphologie 2329 2349	progression tumorale
+T23	expression_CIM 2329 2396	progression tumorale au niveau hépatique, médiastinal et péritonéal
+T24	topographie 2360 2369	hépatique
+T25	topographie 2371 2382	médiastinal
+T26	topographie 2386 2396	péritonéal
+T21	topographie 1902 1924	surface appendiculaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C48.2 8000/1
+#3	ICD-O T3	C48.2
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C57.9 8010/34
+#6	ICD-O T6	4
+#7	ICD-O T7	C57.9
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C48.2 8000/6
+#10	ICD-O T10	C48.2
+#11	ICD-O T11	8441/3
+#12	ICD-O T12	C56.9 8441/33
+#13	ICD-O T13	3
+#14	ICD-O T14	C56.9
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C18.1 8000/1;C42.2 8000/1;C49.4 8000/1;C55.9 8000/1;C56.9 8000/1
+#17	ICD-O T18	C49.4
+#18	ICD-O T19	C55.9
+#19	ICD-O T20	C56.9
+#20	ICD-O T22	8000/3
+#21	ICD-O T23	C22.0 8000/3;C38.3 8000/3;C48.2 8000/3
+#22	ICD-O T24	C22.0
+#23	ICD-O T25	C38.3
+#24	ICD-O T26	C48.2

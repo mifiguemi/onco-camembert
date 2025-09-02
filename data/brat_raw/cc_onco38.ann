@@ -1,0 +1,118 @@
+T1	expression_CIM 239 263	tératome mature kystique
+T2	morphologie 239 263	tératome mature kystique
+T3	morphologie 426 446	cystadénome mucineux
+T4	expression_CIM 426 461	cystadénome mucineux de l'appendice
+T5	topographie 452 461	appendice
+T6	expression_CIM 517 524	lésions
+T7	morphologie 517 524	lésions
+T8	expression_CIM 1085 1090	masse
+T9	morphologie 1085 1090	masse
+T10	morphologie 1391 1396	masse
+T11	expression_CIM 1391 1407	masse annexielle
+T12	topographie 1397 1407	annexielle
+T13	morphologie 2079 2092	carcinomatose
+T14	expression_CIM 2079 2104	carcinomatose péritonéale
+T15	topographie 2093 2104	péritonéale
+T16	morphologie 2110 2118	atteinte
+T17	expression_CIM 2110 2144	atteinte étendue du grand épiploon
+T18	topographie 2130 2144	grand épiploon
+T19	expression_CIM 2171 2177	masses
+T20	morphologie 2171 2177	masses
+T21	morphologie 2185 2201	lymphadénopathie
+T22	expression_CIM 2185 2213	lymphadénopathie péritonéale
+T23	topographie 2202 2213	péritonéale
+T24	morphologie 2318 2331	carcinomatose
+T25	expression_CIM 2318 2343	carcinomatose péritonéale
+T26	topographie 2332 2343	péritonéale
+T27	morphologie 2382 2396	adénocarcinome
+T28	expression_CIM 2382 2404	adénocarcinome ovarien
+T29	topographie 2397 2404	ovarien
+T30	morphologie 2669 2677	implants
+T31	expression_CIM 2669 2743	implants péritonéaux, de la trompe, de l'ovaire gauche et du méso-intestin
+T32	topographie 2678 2689	péritonéaux
+T33	topographie 2697 2703	trompe
+T34	topographie 2710 2716	ovaire
+T35	topographie 2730 2743	méso-intestin
+T36	expression_CIM 2751 2774	adénocarcinome mucineux
+T37	morphologie 2751 2774	adénocarcinome mucineux
+T38	morphologie 3029 3042	carcinomatose
+T39	expression_CIM 3029 3054	carcinomatose péritonéale
+T40	topographie 3043 3054	péritonéale
+T41	morphologie 3064 3076	pseudomyxome
+T42	expression_CIM 3064 3087	pseudomyxome péritonéal
+T43	topographie 3077 3087	péritonéal
+T44	morphologie 3417 3430	carcinomatose
+T45	expression_CIM 3417 3442	carcinomatose péritonéale
+T46	topographie 3431 3442	péritonéale
+T47	morphologie 3452 3464	pseudomyxome
+T48	expression_CIM 3452 3475	pseudomyxome péritonéal
+T49	topographie 3465 3475	péritonéal
+T50	morphologie 3541 3559	maladie disséminée
+T51	expression_CIM 3541 3595	maladie disséminée dans l'ensemble de l'intestin grêle
+T52	topographie 3581 3595	intestin grêle
+T53	expression_CIM 3717 3724	nodules
+T54	morphologie 3717 3724	nodules
+T55	expression_CIM 4087 4112	progression de la maladie
+T56	morphologie 4087 4112	progression de la maladie
+T57	morphologie 4551 4562	progression
+T58	expression_CIM 4551 4572	progression pelvienne
+T59	topographie 4563 4572	pelvienne
+#1	ICD-O T1	9080/0
+#2	ICD-O T2	9080/0
+#3	ICD-O T3	8470/0
+#4	ICD-O T4	C18.1 8470/0
+#5	ICD-O T5	C18.1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C56.9 8000/1
+#12	ICD-O T12	C56.9
+#13	ICD-O T13	8010/9
+#14	ICD-O T14	C48.2 8010/9
+#15	ICD-O T15	C48.2
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C48.1 8000/1
+#18	ICD-O T18	C48.1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C77.2 8000/1
+#23	ICD-O T23	C48.2
+#24	ICD-O T24	8010/9
+#25	ICD-O T25	C48.2 8010/9
+#26	ICD-O T26	C48.2
+#27	ICD-O T27	8140/3
+#28	ICD-O T28	C56.9 8140/3
+#29	ICD-O T29	C56.9
+#30	ICD-O T30	8000/6
+#31	ICD-O T31	C48.2 8000/6;C49.4 8000/6;C56.9 8000/6;C57.0 8000/6
+#32	ICD-O T32	C48.2
+#33	ICD-O T33	C57.0
+#34	ICD-O T34	C56.9
+#35	ICD-O T35	C49.4
+#36	ICD-O T36	8480/3
+#37	ICD-O T37	8480/3
+#38	ICD-O T38	8010/9
+#39	ICD-O T39	C48.2 8010/9
+#40	ICD-O T40	C48.2
+#41	ICD-O T41	8480/6
+#42	ICD-O T42	C48.2 8480/6
+#43	ICD-O T43	C48.2
+#44	ICD-O T44	8010/9
+#45	ICD-O T45	C48.2 8010/9
+#46	ICD-O T46	C48.2
+#47	ICD-O T47	8480/6
+#48	ICD-O T48	C48.2 8480/6
+#49	ICD-O T49	C48.2
+#50	ICD-O T50	8000/6
+#51	ICD-O T51	C17.9 8000/6
+#52	ICD-O T52	C17.9
+#53	ICD-O T53	8000/1
+#54	ICD-O T54	8000/1
+#55	ICD-O T55	8000/1
+#56	ICD-O T56	8000/1
+#57	ICD-O T57	8000/6
+#58	ICD-O T58	C76.3 8000/6
+#59	ICD-O T59	C76.3

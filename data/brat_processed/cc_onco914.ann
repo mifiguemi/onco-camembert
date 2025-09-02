@@ -1,0 +1,31 @@
+T1	morphologie 485 491	cancer
+T3	topographie 495 500	colon
+T4	morphologie 562 568	cancer
+T6	topographie 574 580	ovaire
+T7	morphologie 636 642	cancer
+T9	topographie 649 657	prostate
+T10	morphologie 827 832	masse
+T12	topographie 871 876	flanc
+T13	topographie 892 903	hypochondre
+T15	morphologie 1277 1282	masse
+T16	morphologie 1518 1525	lésions
+T18	topographie 1526 1536	hépatiques
+T19	morphologie 1608 1617	carcinome
+T21	topographie 1618 1629	surrénalien
+T22	morphologie 1636 1643	sarcome
+T49	morphologie 1660 1668	primaire
+T24	topographie 1644 1659	rétropéritonéal
+T25	morphologie 1679 1689	métastases
+T27	topographie 1690 1700	hépatiques
+T29	morphologie 2175 2180	masse
+T30	morphologie 2573 2582	néoplasme
+T32	topographie 2583 2603	cortical surrénalien
+T34	morphologie 2981 2990	carcinome
+T36	morphologie 3115 3136	infiltration tumorale
+T37	morphologie 3436 3445	métastase
+T39	topographie 3446 3455	hépatique
+T41	morphologie 3864 3874	métastases
+T42	morphologie 4514 4524	métastases
+T44	topographie 4525 4535	hépatiques
+T46	morphologie 4846 4861	récidive locale
+T48	morphologie 4868 4886	maladie à distance

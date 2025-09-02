@@ -1,0 +1,12 @@
+T1	morphologie 370 373	LOE
+T3	topographie 374 381	frontal
+T5	morphologie 720 726	lésion
+T7	morphologie 804 810	lésion
+T9	morphologie 849 857	lymphome
+T11	morphologie 864 887	astrocytome anaplasique
+T12	morphologie 984 995	astrocytome
+T14	differenciation 996 1007	anaplasique
+T15	differenciation 1008 1012	GIII
+T16	morphologie 1129 1141	infiltration
+T18	topographie 1145 1158	corps calleux
+T20	morphologie 4164 4183	maladie oncologique

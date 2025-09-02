@@ -1,0 +1,154 @@
+T1	morphologie 518 524	tumeur
+T2	expression_CIM 518 565	tumeur hétérogène superficielle dans l'aisselle
+T3	topographie 557 565	aisselle
+T4	morphologie 720 726	tumeur
+T5	expression_CIM 720 771	tumeur pigmentée dans la rétine inférieure de l'œil
+T7	morphologie 787 795	mélanome
+T8	expression_CIM 787 806	mélanome choroïdien
+T9	topographie 796 806	choroïdien
+T10	expression_CIM 1283 1289	tumeur
+T11	morphologie 1283 1289	tumeur
+T12	expression_CIM 1366 1372	lésion
+T13	morphologie 1366 1372	lésion
+T14	expression_CIM 1483 1489	lésion
+T15	morphologie 1483 1489	lésion
+T16	morphologie 1511 1519	mélanome
+T17	expression_CIM 1511 1530	mélanome choroïdien
+T18	topographie 1520 1530	choroïdien
+T19	expression_CIM 1749 1759	méningiome
+T20	morphologie 1749 1759	méningiome
+T21	morphologie 1771 1776	masse
+T22	expression_CIM 1771 1820	masse solide située dans le segment apical du LSD
+T23	topographie 1817 1820	LSD
+T24	expression_CIM 1898 1907	métastase
+T25	morphologie 1898 1907	métastase
+T26	morphologie 1908 1914;1926 1934	tumeur primaire
+T27	expression_CIM 1908 1934	tumeur pulmonaire primaire
+T28	topographie 1915 1925	pulmonaire
+T29	expression_CIM 2076 2082	lésion
+T30	morphologie 2076 2082	lésion
+T31	morphologie 2281 2286	masse
+T32	expression_CIM 2281 2316	masse pulmonaire solide dans le DSL
+T33	topographie 2287 2297	pulmonaire
+T34	topographie 2313 2316	DSL
+T35	expression_CIM 2439 2445	lésion
+T36	morphologie 2439 2445	lésion
+T37	morphologie 2496 2521	adénocarcinome papillaire
+T38	expression_CIM 2496 2531	adénocarcinome papillaire du poumon
+T39	topographie 2525 2531	poumon
+T40	morphologie 2588 2593	masse
+T41	expression_CIM 2588 2603	masse axillaire
+T42	topographie 2594 2603	axillaire
+T43	expression_CIM 2641 2661	carcinome papillaire
+T44	morphologie 2641 2661	carcinome papillaire
+T45	expression_CIM 2707 2713	foyers
+T46	morphologie 2707 2713	foyers
+T47	morphologie 2717 2744	carcinome canalaire in situ
+T48	expression_CIM 2717 2757	carcinome canalaire in situ de bas grade
+T49	differenciation 2748 2757	bas grade
+T50	morphologie 2944 2952	mélanome
+T51	expression_CIM 2944 2958	mélanome uvéal
+T52	topographie 2953 2958	uvéal
+T53	morphologie 2965 2973	atteinte
+T54	expression_CIM 2965 2991	atteinte du corps ciliaire
+T55	topographie 2977 2991	corps ciliaire
+T56	morphologie 3206 3220;3232 3242	adénocarcinome papillaire
+T57	expression_CIM 3206 3242	adénocarcinome pulmonaire papillaire
+T58	topographie 3221 3231	pulmonaire
+T59	morphologie 3408 3438	carcinome canalaire infiltrant
+T60	expression_CIM 3408 3451	carcinome canalaire infiltrant de grade III
+T61	differenciation 3442 3451	grade III
+T62	expression_CIM 3462 3480	composante in situ
+T63	morphologie 3462 3480	composante in situ
+T64	morphologie 4153 4160	implant
+T65	expression_CIM 4153 4196	implant péritonéal dans le mésogastre/flanc
+T66	topographie 4161 4171	péritonéal
+T67	topographie 4180 4190	mésogastre
+T68	topographie 4191 4196	flanc
+T69	expression_CIM 4388 4394	nodule
+T70	morphologie 4388 4394	nodule
+T71	expression_CIM 4522 4533	lit tumoral
+T72	morphologie 4522 4533	lit tumoral
+T73	morphologie 4926 4932	nodule
+T74	expression_CIM 4926 4943	nodule péritonéal
+T75	topographie 4933 4943	péritonéal
+T76	morphologie 5072 5078	nodule
+T77	expression_CIM 5072 5091	nodule mésentérique
+T78	topographie 5079 5091	mésentérique
+T6	topographie 745 771	rétine inférieure de l'œil
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.1 8000/1
+#3	ICD-O T3	C76.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C69.2 8000/1;C69.9 8000/1
+#6	ICD-O T7	8720/3
+#7	ICD-O T8	C69.3 8720/3
+#8	ICD-O T9	C69.3
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	8720/3
+#16	ICD-O T17	C69.3 8720/3
+#17	ICD-O T18	C69.3
+#18	ICD-O T19	9530/0
+#19	ICD-O T20	9530/0
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C34.1 8000/1
+#22	ICD-O T23	C34.1
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	8000/6
+#25	ICD-O T26	8000/3
+#26	ICD-O T27	C34.9 8000/3
+#27	ICD-O T28	C34.9
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	C34.1 8000/1;C34.9 8000/1
+#32	ICD-O T33	C34.9
+#33	ICD-O T34	C34.1
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	8260/3
+#37	ICD-O T38	C34.9 8260/3
+#38	ICD-O T39	C34.9
+#39	ICD-O T40	8000/1
+#40	ICD-O T41	C76.1 8000/1
+#41	ICD-O T42	C76.1
+#42	ICD-O T43	8050/3
+#43	ICD-O T44	8050/3
+#44	ICD-O T45	8000/1
+#45	ICD-O T46	8000/1
+#46	ICD-O T47	8500/2
+#47	ICD-O T48	8500/21
+#48	ICD-O T49	1
+#49	ICD-O T50	8720/3
+#50	ICD-O T51	C69.4 8720/3
+#51	ICD-O T52	C69.4
+#52	ICD-O T53	8000/1
+#53	ICD-O T54	C69.4 8000/1
+#54	ICD-O T55	C69.4
+#55	ICD-O T56	8260/3
+#56	ICD-O T57	C34.9 8260/3
+#57	ICD-O T58	C34.9
+#58	ICD-O T59	8500/3
+#59	ICD-O T60	8500/33
+#60	ICD-O T61	3
+#61	ICD-O T63	8000/2
+#62	ICD-O T64	8000/6
+#63	ICD-O T65	C48.1 8000/6;C48.2 8000/6;C76.7 8000/6
+#64	ICD-O T66	C48.2
+#65	ICD-O T67	C48.1
+#66	ICD-O T68	C76.7
+#67	ICD-O T69	8000/1
+#68	ICD-O T70	8000/1
+#69	ICD-O T71	8000/3
+#70	ICD-O T72	8000/3
+#71	ICD-O T73	8000/1
+#72	ICD-O T74	C48.2 8000/1
+#73	ICD-O T75	C48.2
+#74	ICD-O T76	8000/1
+#75	ICD-O T77	C48.1 8000/1
+#76	ICD-O T78	C48.1

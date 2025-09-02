@@ -1,0 +1,30 @@
+T1	morphologie 334 348	adénocarcinome
+T3	topographie 354 363	endomètre
+T4	morphologie 407 421	adénocarcinome
+T6	topographie 427 436	endomètre
+T8	morphologie 630 636	lésion
+T9	morphologie 760 774	adénocarcinome
+T11	differenciation 775 791	bien différencié
+T12	topographie 795 801	rectum
+T13	morphologie 853 860	nodules
+T15	topographie 861 872	pulmonaires
+T16	topographie 941 964	parenchymes pulmonaires
+T17	morphologie 973 982	néoplasme
+T19	topographie 983 989	rectal
+T20	morphologie 1077 1085	invasion
+T22	topographie 1086 1094	veineuse
+T23	morphologie 1493 1507	Adénocarcinome
+T25	topographie 1511 1517	rectum
+T27	morphologie 1518 1521	EIV
+T28	morphologie 1524 1534	Métastases
+T30	topographie 1535 1546	pulmonaires
+T31	morphologie 1705 1714	atteintes
+T33	topographie 1715 1726	pulmonaires
+T35	morphologie 1749 1765	tumeur primitive
+T37	morphologie 2035 2044	métastase
+T39	morphologie 2054 2069	tumeur primaire
+T41	morphologie 2337 2352	tumeur primaire
+T43	morphologie 2907 2913	lésion
+T44	morphologie 2932 2943	adénopathie
+T46	topographie 2944 2953	présacrée
+T48	morphologie 3378 3398	maladie métastatique

@@ -1,0 +1,34 @@
+T1	morphologie 215 238	Carcinome transitionnel
+T2	expression_CIM 215 257	Carcinome transitionnel de la vessie pTaG2
+T3	topographie 245 251	vessie
+T4	differenciation 255 257	G2
+T5	morphologie 508 517	néoplasie
+T6	expression_CIM 508 525	néoplasie colique
+T7	topographie 518 525	colique
+T8	expression_CIM 1792 1798	lésion
+T9	morphologie 1792 1798	lésion
+T10	topographie 1993 2007	intestin grêle
+T11	expression_CIM 1993 2057	intestin grêle de 13 cm de long, à l'ouverture montre une tumeur
+T12	morphologie 2051 2057	tumeur
+T13	morphologie 2224 2230	tumeur
+T14	expression_CIM 2224 2351	tumeur solide, de lignée mésenchymateuse, ulcérée, affectant principalement la sous-muqueuse et la muqueuse de l'intestin grêle
+T16	morphologie 3121 3135;3165 3173	Leiomyosarcome non GIST
+T17	expression_CIM 3121 3173	Leiomyosarcome jéjunal distal de haut grade non GIST
+T18	topographie 3136 3143	jéjunal
+T19	differenciation 3154 3164	haut grade
+T15	topographie 2303 2351	sous-muqueuse et la muqueuse de l'intestin grêle
+#1	ICD-O T1	8120/3
+#2	ICD-O T2	C67.9 8120/32
+#3	ICD-O T3	C67.9
+#4	ICD-O T4	2
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C18.9 8000/1
+#7	ICD-O T7	C18.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C17.9
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T16	8890/3
+#14	ICD-O T18	C17.1
+#15	ICD-O T19	4

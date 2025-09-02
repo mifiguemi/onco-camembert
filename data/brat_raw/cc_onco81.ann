@@ -1,0 +1,108 @@
+T41	topographie 3019 3034	lobe pulmonaire
+T1	morphologie 244 251	adénome
+T2	expression_CIM 244 266	adénome de la prostate
+T3	topographie 258 266	prostate
+T4	expression_CIM 631 647	lymphadénopathie
+T5	morphologie 631 647	lymphadénopathie
+T6	morphologie 799 804	masse
+T7	expression_CIM 799 818	masse paratrachéale
+T8	topographie 805 818	paratrachéale
+T9	morphologie 881 887	tumeur
+T10	expression_CIM 881 927	tumeur pulmonaire du lobe supérieur droit (LSD
+T11	topographie 888 898	pulmonaire
+T12	topographie 902 916	lobe supérieur
+T13	topographie 924 927	LSD
+T14	morphologie 953 965	infiltration
+T15	expression_CIM 953 1019	infiltration médiastinale de l'artère pulmonaire du lobe supérieur
+T16	topographie 966 978	médiastinale
+T17	topographie 984 1001	artère pulmonaire
+T18	topographie 1005 1019	lobe supérieur
+T19	morphologie 1027 1038	adénopathie
+T20	expression_CIM 1027 1086	adénopathie médiastinale antérieure à la bronche principale
+T21	topographie 1039 1062	médiastinale antérieure
+T22	topographie 1068 1086	bronche principale
+T23	morphologie 1270 1284	adénocarcinome
+T24	expression_CIM 1270 1295	adénocarcinome pulmonaire
+T25	topographie 1285 1295	pulmonaire
+T26	morphologie 1444 1458	adénocarcinome
+T27	expression_CIM 1444 1469	adénocarcinome pulmonaire
+T28	topographie 1459 1469	pulmonaire
+T29	morphologie 2148 2154	lésion
+T30	expression_CIM 2148 2172	lésion du lobe supérieur
+T31	topographie 2158 2172	lobe supérieur
+T32	morphologie 2208 2219	adénopathie
+T33	expression_CIM 2208 2232	adénopathie médiastinale
+T34	topographie 2220 2232	médiastinale
+T35	morphologie 2838 2844	lésion
+T36	expression_CIM 2838 2871	lésion pulmonaire et médiastinale
+T37	topographie 2845 2855	pulmonaire
+T38	topographie 2859 2871	médiastinale
+T39	morphologie 3004 3010	lésion
+T40	expression_CIM 3004 3034	lésion dans le lobe pulmonaire
+T42	morphologie 3062 3073	adénopathie
+T43	expression_CIM 3062 3086	adénopathie médiastinale
+T44	topographie 3074 3086	médiastinale
+T45	morphologie 3158 3164	nodule
+T46	expression_CIM 3158 3196	nodule pulmonaire de 11 mm dans le LSD
+T47	topographie 3165 3175	pulmonaire
+T48	topographie 3193 3196	LSD
+T49	expression_CIM 3626 3632	nodule
+T50	morphologie 3626 3632	nodule
+T51	morphologie 3785 3791	nodule
+T52	expression_CIM 3785 3818	nodule a été proposée dans le LSD
+T53	topographie 3815 3818	LSD
+T54	expression_CIM 4226 4255	leucémie aiguë myéloblastique
+T55	morphologie 4226 4255	leucémie aiguë myéloblastique
+#1	ICD-O T1	8140/0
+#2	ICD-O T2	C61.9 8140/0
+#3	ICD-O T3	C61.9
+#4	ICD-O T4	C77.9 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C33.9 8000/1
+#8	ICD-O T8	C33.9
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C34.1 8000/1;C34.9 8000/1
+#11	ICD-O T11	C34.9
+#12	ICD-O T12	C34.1
+#13	ICD-O T13	C34.1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C34.1 8000/1;C38.3 8000/1;C49.3 8000/1
+#16	ICD-O T16	C38.3
+#17	ICD-O T17	C49.3
+#18	ICD-O T18	C34.1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C77.1 8000/1
+#21	ICD-O T21	C38.1 
+#22	ICD-O T22	C34.0
+#23	ICD-O T23	8140/3
+#24	ICD-O T24	C34.9 8140/3
+#25	ICD-O T25	C34.9
+#26	ICD-O T26	8140/3
+#27	ICD-O T27	C34.9 8140/3
+#28	ICD-O T28	C34.9
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C34.1 8000/1
+#31	ICD-O T31	C34.1
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C77.1 8000/1
+#34	ICD-O T34	C38.3
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	C34.9 8000/1;C38.3 8000/1
+#37	ICD-O T37	C34.9
+#38	ICD-O T38	C38.3
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	C34.9 8000/1
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	C77.1 8000/1
+#43	ICD-O T44	C38.3
+#44	ICD-O T45	8000/1
+#45	ICD-O T46	C34.1 8000/1;C34.9 8000/1
+#46	ICD-O T47	C34.9
+#47	ICD-O T48	C34.1
+#48	ICD-O T49	8000/1
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	8000/1
+#51	ICD-O T53	C34.1
+#52	ICD-O T54	9861/3
+#53	ICD-O T55	9861/3

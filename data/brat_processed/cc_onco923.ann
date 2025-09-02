@@ -1,0 +1,108 @@
+T33	topographie 2038 2044	artère
+T80	topographie 4993 5024	corps vers la queue du pancréas
+T112	topographie 6776 6797	graisse péricolonique
+T49	topographie 2790 2798	hilaires
+T110	topographie 6710 6741	muscularis propria de l'estomac
+T48	topographie 2762 2775	paratrachéaux
+T6	topographie 1250 1262	précarinales
+T24	topographie 1864 1878	région hilaire
+T120	topographie 7279 7298	région pré-aortique
+T12	topographie 1377 1400	sortie de la bronche LS
+T111	topographie 6746 6769	sous-muqueuse duodénale
+T2	morphologie 712 724	adénopathies
+T3	morphologie 1221 1233	adénopathies
+T5	topographie 1234 1248	paratrachéales
+T7	topographie 1266 1280	sous-carinales
+T8	morphologie 1294 1300	tumeur
+T10	topographie 1304 1308	hile
+T11	topographie 1347 1365	bronche principale
+T13	topographie 1405 1426	bronche intermédiaire
+T14	topographie 1433 1458	bronche du lobe inférieur
+T15	morphologie 1463 1469	tumeur
+T17	topographie 1482 1491	médiastin
+T18	morphologie 1581 1596	lésion tumorale
+T20	topographie 1650 1653	LSD
+T21	morphologie 1817 1826	néoplasme
+T23	topographie 1827 1837	pulmonaire
+T25	morphologie 1895 1903	atteinte
+T27	topographie 1910 1928	bronche principale
+T28	topographie 1943 1954	bronche LSD
+T29	topographie 1964 1989	bronche intermédiaire LID
+T30	morphologie 1991 2003	Infiltration
+T32	topographie 2010 2031	veine cave supérieure
+T34	topographie 2045 2055	pulmonaire
+T35	morphologie 2085 2103	lésion néoplasique
+T37	topographie 2147 2150	LSD
+T39	morphologie 2236 2248	infiltration
+T41	morphologie 2410 2431	carcinome épidermoïde
+T42	morphologie 2546 2551	masse
+T44	topographie 2552 2562	pulmonaire
+T45	topographie 2597 2604	hilaire
+T47	topographie 2739 2761	ganglions lymphatiques
+T51	morphologie 3195 3204	Carcinome
+T159	morphologie 3216 3266	non à petites cellules (CPNPC) de type épidermoïde
+T53	topographie 3205 3215	pulmonaire
+T55	morphologie 3415 3421	tumeur
+T57	morphologie 3754 3760	tumeur
+T59	morphologie 3837 3852	tumeur primaire
+T60	morphologie 3939 3945	masses
+T62	topographie 3946 3953	hilaire
+T63	topographie 3957 3969	médiastinale
+T64	morphologie 3987 3993	lésion
+T66	topographie 3994 3997	LSD
+T67	morphologie 4105 4111	lésion
+T69	topographie 4145 4162	corps du pancréas
+T71	morphologie 4274 4280	tumeur
+T72	morphologie 4344 4350	tumeur
+T74	topographie 4359 4376	corps du pancréas
+T75	morphologie 4739 4757	néoplasme mucineux
+T77	topographie 4768 4780	pancréatique
+T79	morphologie 4853 4859	lésion
+T83	morphologie 5145 5156	adénopathie
+T84	morphologie 5272 5290	néoplasme kystique
+T86	topographie 5301 5309	pancréas
+T87	morphologie 5489 5496	rechute
+T89	topographie 5497 5509	pancréatique
+T90	morphologie 5784 5789	masse
+T92	topographie 5798 5815	queue du pancréas
+T94	morphologie 6311 6317	lésion
+T95	morphologie 6340 6352	infiltration
+T97	topographie 6353 6363	vasculaire
+T99	morphologie 6367 6379	adénopathies
+T100	morphologie 6386 6392	lésion
+T102	topographie 6393 6403	pulmonaire
+T103	morphologie 6604 6613	métastase
+T105	morphologie 6617 6638	carcinome épidermoïde
+T107	differenciation 6639 6661	modérément différencié
+T108	topographie 6672 6682	pulmonaire
+T109	topographie 6697 6705	pancréas
+T114	morphologie 6835 6860	progression de la maladie
+T115	morphologie 6960 6965	masse
+T117	topographie 6966 6978	pancréatique
+T119	topographie 7230 7250	région surrénalienne
+T122	morphologie 7388 7410	processus métastatique
+T123	morphologie 7458 7464	masses
+T125	topographie 7465 7479	surrénaliennes
+T127	morphologie 7542 7556	AC épidermoïde
+T128	morphologie 7902 7929	conglomérats adénopathiques
+T130	topographie 7930 7946	rétropéritonéaux
+T131	topographie 7948 7962	para-aortiques
+T132	topographie 7984 7998	tronc cœliaque
+T133	topographie 8000 8022	mésentérique supérieur
+T135	morphologie 8765 8788	stabilité de la maladie
+T136	morphologie 9069 9074	masse
+T138	topographie 9075 9088	surrénalienne
+T140	topographie 9130 9139	hépatique
+T142	morphologie 9309 9323	AC épidermoïde
+T143	topographie 9327 9333	poumon
+T145	topographie 10109 10118	hépatique
+T146	morphologie 10166 10171	masse
+T148	topographie 10172 10185	surrénalienne
+T149	morphologie 10294 10300	lésion
+T151	topographie 10314 10323	surrénale
+T152	morphologie 10350 10356	tumeur
+T154	topographie 10357 10367	pulmonaire
+T155	topographie 10368 10371	LSD
+T156	morphologie 10434 10440	lésion
+T158	topographie 10447 10456	surrénale
+T50	topographie 2802 2813	subcarinaux

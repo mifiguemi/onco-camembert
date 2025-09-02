@@ -1,0 +1,49 @@
+T63	topographie 5513 5517	côté
+T19	morphologie 1921 1952	lésion de morphologie nodulaire
+T1	morphologie 51 57	cancer
+T3	topographie 61 66	colon
+T4	morphologie 697 703	lésion
+T6	topographie 704 711	dorsale
+T7	topographie 719 724	tronc
+T9	morphologie 743 749	lipome
+T11	morphologie 882 894	adénopathies
+T13	morphologie 1004 1010	lésion
+T15	morphologie 1057 1088	dermatofibrosarcome protuberans
+T17	morphologie 1440 1446	masses
+T21	morphologie 2018 2036	cellules tumorales
+T23	morphologie 2439 2457	cellules tumorales
+T25	morphologie 2503 2509	tumeur
+T27	morphologie 2615 2621	tumeur
+T28	morphologie 2784 2815	Dermatofibrosarcome protuberans
+T30	differenciation 2819 2826	grade 1
+T32	morphologie 2997 3028	dermatofibrosarcome protuberans
+T34	morphologie 3530 3546	lit de la tumeur
+T36	morphologie 4101 4109	récidive
+T38	morphologie 4113 4119	lésion
+T39	morphologie 4190 4205	image nodulaire
+T41	topographie 4214 4228	lobe inférieur
+T42	morphologie 4367 4374	maladie
+T82	morphologie 4386 4398	métastatique
+T44	topographie 4375 4385	pulmonaire
+T45	morphologie 4406 4413	lésions
+T47	topographie 4425 4431	poumon
+T48	topographie 4451 4457	poumon
+T50	morphologie 4489 4514	progression de la maladie
+T52	morphologie 4774 4808	dermatofibrosarcome protubérantiel
+T53	morphologie 4860 4871	progression
+T55	topographie 4881 4888	poumons
+T57	morphologie 5089 5096	lésions
+T58	morphologie 5443 5450	lésions
+T83	morphologie 5463 5473	nodulaires
+T60	topographie 5451 5462	pulmonaires
+T61	morphologie 5493 5509	lésion nodulaire
+T65	morphologie 5638 5645	lésions
+T66	morphologie 5660 5666	lésion
+T68	topographie 5728 5734	poumon
+T69	morphologie 5890 5897	lésions
+T71	topographie 5898 5909	pulmonaires
+T73	morphologie 5937 5947	métastases
+T75	morphologie 6014 6021	lésions
+T77	morphologie 6049 6059	métastases
+T79	morphologie 6063 6071	primitif
+T81	morphologie 6279 6301	récidive de la maladie

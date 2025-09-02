@@ -1,0 +1,62 @@
+T2	topographie 99 107	mammaire
+T3	morphologie 108 115	maligne
+T96	morphologie 89 98	néoplasie
+T4	morphologie 192 222	carcinome canalaire infiltrant
+T7	topographie 278 282	sein
+T9	morphologie 362 371	métastase
+T11	morphologie 375 395	carcinome infiltrant
+T12	morphologie 399 410	adénopathie
+T14	topographie 411 420	axillaire
+T15	morphologie 953 962	carcinome
+T97	morphologie 972 992	canalaire infiltrant
+T17	topographie 963 971	mammaire
+T18	morphologie 1444 1451	rechute
+T20	topographie 1452 1459	cutanée
+T21	morphologie 1594 1602	atteinte
+T23	topographie 1603 1619	pleuropulmonaire
+T24	morphologie 1981 2006	progression de la maladie
+T26	topographie 2017 2023	cutané
+T27	morphologie 2279 2286	lésions
+T29	topographie 2287 2295	cutanées
+T31	morphologie 2475 2500	progression de la maladie
+T32	morphologie 2573 2584	implication
+T34	topographie 2585 2601	pleuropulmonaire
+T35	morphologie 2616 2629	carcinomatose
+T37	topographie 2630 2641	péritonéale
+T38	morphologie 2648 2672	épaississement nodulaire
+T40	topographie 2681 2697	côlon transverse
+T42	morphologie 2806 2816	métastases
+T44	morphologie 2827 2857	carcinome canalaire infiltrant
+T46	morphologie 3158 3176	lésions nodulaires
+T47	morphologie 3921 3945	Épaississement nodulaire
+T49	topographie 3959 3974	côlon splénique
+T50	morphologie 3985 4009	Épaississement nodulaire
+T52	topographie 4018 4027	péritoine
+T53	morphologie 4049 4062	carcinomatose
+T55	topographie 4063 4074	péritonéale
+T57	morphologie 4134 4140	lésion
+T59	morphologie 4224 4233	carcinome
+T61	morphologie 4421 4430	métastase
+T63	morphologie 4440 4470	carcinome canalaire infiltrant
+T64	morphologie 4499 4529	Carcinome canalaire infiltrant
+T67	morphologie 4545 4549	E-IV
+T68	topographie 4553 4557	sein
+T69	morphologie 4584 4593	Métastase
+T71	topographie 4602 4607	côlon
+T72	morphologie 4622 4652	carcinome canalaire infiltrant
+T74	topographie 4656 4660	sein
+T75	morphologie 4710 4716	cancer
+T77	topographie 4720 4724	sein
+T78	morphologie 4852 4860	atteinte
+T80	topographie 4865 4887	ganglions lymphatiques
+T81	morphologie 4913 4934	rechute de la maladie
+T83	topographie 4945 4951	cutané
+T84	topographie 4955 4971	pleuropulmonaire
+T85	morphologie 5045 5070	progression de la maladie
+T87	topographie 5071 5078	cutanée
+T88	topographie 5082 5092	pulmonaire
+T89	morphologie 5157 5168	progression
+T91	topographie 5179 5189	pulmonaire
+T92	topographie 5193 5203	péritonéal
+T93	morphologie 5207 5217	métastases
+T95	topographie 5226 5231	côlon

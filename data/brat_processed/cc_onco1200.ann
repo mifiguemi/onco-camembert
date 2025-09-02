@@ -1,0 +1,23 @@
+T1	morphologie 67 83	tumeur germinale
+T38	morphologie 96 108	embryonnaire
+T4	morphologie 114 124	métastases
+T6	topographie 125 136	pulmonaires
+T7	topographie 140 189	ganglionnaires médiastinales et rétropéritonéales
+T9	morphologie 584 600	lésion pigmentée
+T11	morphologie 830 836	lésion
+T13	morphologie 1271 1277	lésion
+T15	morphologie 1370 1383	porocarcinome
+T16	morphologie 1596 1606	métastases
+T18	topographie 1627 1649	ganglions lymphatiques
+T20	morphologie 1830 1836	tumeur
+T22	morphologie 1850 1871	Porocarcinome eccrine
+T23	morphologie 1907 1915	atteinte
+T25	topographie 1920 1941	ganglions lymphatique
+T27	morphologie 1970 2001	maladie métastatique à distance
+T28	morphologie 2465 2470	prise
+T30	topographie 2471 2477	rénale
+T31	morphologie 2530 2536	lésion
+T33	topographie 2545 2555	pôle rénal
+T35	morphologie 2633 2643	oncocytome
+T37	morphologie 2877 2895	maladie à distance
+T3	topographie 84 95	extragonale

@@ -1,0 +1,90 @@
+T32	morphologie 2578 2618	Néoplasie trophoblastique gestationnelle
+T43	morphologie 3273 3313	néoplasie trophoblastique gestationnelle
+T1	expression_CIM 795 807	adénopathies
+T2	morphologie 795 807	adénopathies
+T3	topographie 1197 1207	thoracique
+T4	expression_CIM 1197 1278	thoracique : nodulations bilatérales compatibles avec un relâchement du ballonnet
+T5	morphologie 1210 1221;1234 1278	nodulations compatibles avec un relâchement du ballonnet
+T6	morphologie 1682 1692	métastases
+T7	expression_CIM 1682 1760	métastases pulmonaires bilatérales allant jusqu'à 48 mm dans le lobe inférieur
+T8	topographie 1693 1704	pulmonaires
+T9	topographie 1746 1760	lobe inférieur
+T10	morphologie 1825 1832	Lésions
+T11	expression_CIM 1825 1843	Lésions hépatiques
+T12	topographie 1833 1843	hépatiques
+T13	expression_CIM 1879 1890	hémangiomes
+T14	morphologie 1879 1890	hémangiomes
+T15	morphologie 2064 2071	lésions
+T16	expression_CIM 2064 2082	lésions hépatiques
+T17	topographie 2072 2082	hépatiques
+T18	expression_CIM 2109 2120	hémangiomes
+T19	morphologie 2109 2120	hémangiomes
+T20	topographie 2374 2392	canal endocervical
+T21	expression_CIM 2374 2415	canal endocervical, formation vésiculaire
+T22	morphologie 2394 2403	formation
+T24	morphologie 2484 2490	lésion
+T25	expression_CIM 2484 2503	lésion endométriale
+T26	topographie 2491 2503	endométriale
+T27	expression_CIM 2523 2537	foyer primaire
+T28	morphologie 2523 2537	foyer primaire
+T29	expression_CIM 2541 2564	maladie trophoblastique
+T30	morphologie 2541 2564	maladie trophoblastique
+T31	expression_CIM 2578 2618	Néoplasie trophoblastique gestationnelle
+T33	morphologie 2649 2657	atteinte
+T34	expression_CIM 2649 2668	atteinte pulmonaire
+T35	topographie 2658 2668	pulmonaire
+T36	morphologie 3130 3140	métastases
+T37	expression_CIM 3130 3152	métastases pulmonaires
+T38	topographie 3141 3152	pulmonaires
+T39	morphologie 3180 3190	métastases
+T40	expression_CIM 3180 3202	métastases pulmonaires
+T41	topographie 3191 3202	pulmonaires
+T42	expression_CIM 3273 3313	néoplasie trophoblastique gestationnelle
+T44	expression_CIM 3732 3747	choriocarcinome
+T45	morphologie 3732 3747	choriocarcinome
+T46	morphologie 4981 4988	lésions
+T47	expression_CIM 4981 5000	lésions pulmonaires
+T48	topographie 4989 5000	pulmonaires
+T23	topographie 2404 2415	vésiculaire
+#1	ICD-O T32	8000/1
+#2	ICD-O T43	8000/1
+#3	ICD-O T1	C77.9 8000/1
+#4	ICD-O T2	8000/1
+#5	ICD-O T3	C76.1
+#6	ICD-O T5	8000/6
+#7	ICD-O T6	8000/6
+#8	ICD-O T8	C34.9
+#9	ICD-O T9	C34.3
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C22.0 8000/1
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	9120/0
+#14	ICD-O T14	9120/0
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C22.0 8000/1
+#17	ICD-O T17	C22.0
+#18	ICD-O T18	9120/0
+#19	ICD-O T19	9120/0
+#20	ICD-O T20	C53.0
+#21	ICD-O T22	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	C54.1 8000/1
+#24	ICD-O T26	C54.1
+#25	ICD-O T27	8000/3
+#26	ICD-O T28	8000/3
+#27	ICD-O T30	9100/1
+#28	ICD-O T33	8000/9
+#29	ICD-O T34	C34.9 8000/1
+#30	ICD-O T35	C34.9
+#31	ICD-O T36	8000/6
+#32	ICD-O T37	C34.9 8000/6
+#33	ICD-O T38	C34.9
+#34	ICD-O T39	8000/6
+#35	ICD-O T40	C34.9 8000/6
+#36	ICD-O T41	C34.9
+#37	ICD-O T44	9100/3
+#38	ICD-O T45	9100/3
+#39	ICD-O T46	8000/1
+#40	ICD-O T47	C34.9 8000/1
+#41	ICD-O T48	C34.9
+#42	AnnotatorNotes T5	trad

@@ -1,0 +1,28 @@
+T1	morphologie 141 147	cancer
+T3	topographie 151 155	sein
+T4	morphologie 185 191	tumeur
+T6	topographie 198 202	tête
+T7	topographie 209 212	cou
+T8	morphologie 504 509	image
+T10	topographie 555 589	quadrant interne inférieur du sein
+T11	morphologie 665 695	Carcinome canalaire infiltrant
+T13	differenciation 696 711	peu différencié
+T14	morphologie 873 894	rehaussement régional
+T17	morphologie 1027 1036	néoplasie
+T19	topographie 1037 1045	mammaire
+T20	morphologie 1066 1082	lymphadénopathie
+T22	topographie 1083 1092	axillaire
+T24	morphologie 2968 2993	lésions occupant l'espace
+T25	morphologie 5173 5179	cancer
+T27	topographie 5183 5187	sein
+T28	morphologie 5353 5383	carcinome canalaire infiltrant
+T30	topographie 5405 5409	sein
+T31	morphologie 7738 7744	cancer
+T33	topographie 7748 7752	sein
+T35	morphologie 7960 7965	foyer
+T37	morphologie 7969 7988	carcinome canalaire
+T39	morphologie 8045 8051	foyers
+T40	morphologie 8062 8083	carcinome intraductal
+T42	differenciation 8104 8120	peu différenciés
+T44	morphologie 8190 8199	métastase
+T16	topographie 914 942	quadrants inférieurs du sein

@@ -1,0 +1,28 @@
+T1	morphologie 2330 2336	nodule
+T3	topographie 2337 2352	rétro-aréolaire
+T4	morphologie 2604 2610	nodule
+T6	topographie 2611 2619	mammaire
+T7	topographie 2620 2634	rétroaréolaire
+T8	morphologie 2669 2680	adénopathie
+T10	topographie 2681 2690	axillaire
+T12	morphologie 2712 2718	nodule
+T13	morphologie 2848 2853	masse
+T15	topographie 2858 2869	tissus mous
+T16	morphologie 2873 2881	invasion
+T18	topographie 2885 2900	canal rachidien
+T20	morphologie 2904 2909	foyer
+T21	morphologie 2992 3002	métastases
+T23	topographie 3003 3011	osseuses
+T24	topographie 3031 3035	sein
+T26	morphologie 3045 3051	nodule
+T28	morphologie 3266 3273	lésions
+T29	morphologie 3331 3341	métastases
+T31	topographie 3342 3350	osseuses
+T32	morphologie 3422 3440	foyer de captation
+T34	topographie 3452 3462	arc costal
+T35	topographie 3494 3504	arc costal
+T36	morphologie 3545 3565	carcinome infiltrant
+T38	topographie 3574 3578	sein
+T40	morphologie 3918 3927	métastase
+T41	morphologie 3931 3937	cancer
+T43	topographie 3941 3945	sein

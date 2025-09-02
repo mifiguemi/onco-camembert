@@ -1,0 +1,43 @@
+T1	morphologie 804 813	captation
+T3	topographie 827 832	colon
+T4	topographie 846 861	angle hépatique
+T6	morphologie 875 881	tumeur
+T8	morphologie 1023 1030	polypes
+T10	morphologie 1113 1127	tumeur maligne
+T11	morphologie 1271 1285	adénocarcinome
+T13	differenciation 1286 1301	peu différencié
+T14	morphologie 1445 1458	carcinomatose
+T16	topographie 1459 1470	péritonéale
+T17	morphologie 1596 1610	adénocarcinome
+T19	topographie 1611 1620	gastrique
+T21	morphologie 1672 1679	polypes
+T22	morphologie 1967 1981	Adénocarcinome
+T24	topographie 1982 1991	gastrique
+T25	morphologie 2034 2040	cancer
+T27	topographie 2044 2049	côlon
+T28	morphologie 2451 2462	progression
+T30	topographie 2463 2470	osseuse
+T31	morphologie 2676 2686	métastases
+T33	topographie 2687 2695	osseuses
+T34	morphologie 2736 2746	métastases
+T36	topographie 2747 2757	viscérales
+T38	morphologie 2802 2812	métastases
+T39	morphologie 2894 2908	adénocarcinome
+T41	topographie 2909 2918	gastrique
+T42	morphologie 3017 3024	lésions
+T44	topographie 3025 3033	osseuses
+T46	morphologie 3115 3132	adénomes dentelés
+T48	morphologie 3214 3221	tumeurs
+T50	morphologie 3266 3275	métastase
+T51	morphologie 3279 3288	carcinome
+T53	topographie 3299 3310	prostatique
+T55	morphologie 3410 3438	tumeur métastatique primaire
+T56	morphologie 3446 3452	cancer
+T58	topographie 3459 3467	prostate
+T59	morphologie 3527 3541	adénocarcinome
+T61	topographie 3542 3551	gastrique
+T63	morphologie 3579 3585	tumeur
+T64	morphologie 3868 3874	cancer
+T66	topographie 3894 3902	prostate
+T67	morphologie 4018 4025	lésions
+T69	topographie 4026 4034	osseuses

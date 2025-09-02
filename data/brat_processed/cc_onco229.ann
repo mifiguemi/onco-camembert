@@ -1,0 +1,44 @@
+T2	morphologie 242 248	cancer
+T3	morphologie 284 290	cancer
+T5	topographie 294 300	larynx
+T6	morphologie 356 362	cancer
+T8	topographie 366 370	sein
+T9	morphologie 419 425	cancer
+T11	topographie 432 440	thyroïde
+T13	morphologie 482 512	leucémie aiguë lymphoblastique
+T15	morphologie 637 700	hépatoblastome embryonnaire avec différenciation cholangiolaire
+T16	morphologie 705 711	tumeur
+T18	topographie 736 750	lobe hépatique
+T19	topographie 794 808	lobe hépatique
+T21	morphologie 864 878	néphroblastome
+T23	morphologie 882 890	blastome
+T25	morphologie 1006 1013	tumeurs
+T27	morphologie 1234 1290	hépatoblastome mixte : épithélial (embryonnaire et fœtal
+T28	morphologie 1386 1398	infiltration
+T30	topographie 1399 1409	vasculaire
+T31	topographie 1411 1422	lymphatique
+T32	morphologie 1946 1952	lésion
+T34	topographie 1953 1962	hépatique
+T36	morphologie 2055 2083	hyperplasie nodulaire focale
+T38	morphologie 2138 2152	hépatoblastome
+T40	morphologie 2155 2162	adénome
+T42	morphologie 2191 2197	lésion
+T44	morphologie 2286 2292	lésion
+T46	morphologie 2385 2393	récidive
+T48	morphologie 2399 2413	hépatoblastome
+T50	morphologie 3074 3134	hépatoblastome embryonnaire à différenciation cholangiolaire
+T51	morphologie 3189 3195	tumeur
+T53	topographie 3227 3241	lobe hépatique
+T55	morphologie 3357 3363	lésion
+T56	morphologie 3501 3507	lésion
+T58	topographie 3508 3517	hépatique
+T60	morphologie 3702 3708	lésion
+T61	morphologie 4234 4239	masse
+T63	topographie 4240 4249	hépatique
+T65	morphologie 4265 4292	Hépatoblastome embryonnaire
+T66	morphologie 4553 4561	Récidive
+T68	topographie 4562 4571	hépatique
+T70	morphologie 4585 4612	hépatoblastome embryonnaire
+T72	morphologie 4781 4788	tumeurs
+T74	morphologie 4911 4917	tumeur
+T76	morphologie 5595 5618	stabilité de la maladie

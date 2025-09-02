@@ -1,0 +1,60 @@
+T45	topographie 4095 4115	région périorbitaire
+T1	morphologie 346 352	nodule
+T3	topographie 353 363	thyroïdien
+T4	morphologie 751 758	lésions
+T95	morphologie 770 783	métastatiques
+T6	topographie 759 769	hépatiques
+T7	morphologie 879 885	cancer
+T9	topographie 889 894	côlon
+T11	morphologie 1397 1403	lésion
+T13	morphologie 2171 2188	processus tumoral
+T15	morphologie 2348 2373	infiltration métastatique
+T16	morphologie 2381 2390	carcinome
+T18	topographie 2455 2463	mammaire
+T19	morphologie 2481 2511	carcinome lobulaire infiltrant
+T21	morphologie 2528 2531	CLI
+T23	morphologie 3128 3133	masse
+T24	morphologie 3212 3224	adénopathies
+T26	topographie 3225 3235	axillaires
+T27	morphologie 3242 3249	nodules
+T29	topographie 3250 3259	mammaires
+T30	morphologie 3349 3355	lésion
+T32	topographie 3356 3365	orbitaire
+T34	morphologie 3717 3749	atteinte métastatique à distance
+T35	morphologie 3868 3884	atteinte diffuse
+T37	topographie 3888 3897	calvarium
+T39	morphologie 3943 3949	lésion
+T40	morphologie 4022 4028	lésion
+T42	topographie 4029 4043	intracrânienne
+T43	morphologie 4054 4078	augmentation métabolique
+T47	morphologie 4141 4147	lésion
+T48	morphologie 4223 4235	adénopathies
+T50	topographie 4236 4252	latérocervicales
+T51	morphologie 4289 4301	adénopathies
+T54	topographie 4340 4350	axillaires
+T55	topographie 4363 4372	médiastin
+T58	morphologie 4507 4535	atteinte tumorale à distance
+T59	morphologie 4626 4632	lésion
+T61	topographie 4633 4642	orbitaire
+T63	morphologie 4689 4719	Carcinome lobulaire infiltrant
+T65	morphologie 4723 4731	stade IV
+T66	morphologie 4733 4741	atteinte
+T68	topographie 4742 4751	orbitaire
+T69	morphologie 4941 4947	cancer
+T71	topographie 4951 4955	sein
+T73	morphologie 5298 5304	tumeur
+T75	morphologie 5434 5440	tumeur
+T76	morphologie 5454 5463	carcinome
+T96	morphologie 5473 5481	primaire
+T78	topographie 5464 5472	lacrymal
+T80	morphologie 5609 5624	tumeur primaire
+T81	morphologie 5657 5663	cancer
+T83	topographie 5666 5682	origine inconnue
+T85	morphologie 5778 5793	tumeur primaire
+T86	morphologie 6007 6016	carcinome
+T88	topographie 6017 6025	mammaire
+T90	morphologie 6115 6121	tumeur
+T92	morphologie 6151 6170	carcinome lobulaire
+T94	morphologie 6295 6304	carcinome
+T56	topographie 4380 4396	régions hilaires
+T53	topographie 4311 4336	régions sus-claviculaires

@@ -1,0 +1,200 @@
+T1	morphologie 219 225	tumeur
+T2	expression_CIM 219 242	tumeur sus-claviculaire
+T3	topographie 226 242	sus-claviculaire
+T4	morphologie 438 463	Conglomérat adénopathique
+T5	expression_CIM 438 480	Conglomérat adénopathique sus-claviculaire
+T6	topographie 464 480	sus-claviculaire
+T7	morphologie 557 568	Adénopathie
+T8	expression_CIM 557 585	Adénopathie sus-claviculaire
+T9	topographie 569 585	sus-claviculaire
+T10	expression_CIM 826 833	lésions
+T11	morphologie 826 833	lésions
+T12	morphologie 1044 1056	adénopathies
+T13	expression_CIM 1044 1074	adénopathies sus-claviculaires
+T14	topographie 1057 1074	sus-claviculaires
+T15	morphologie 1098 1110	Adénopathies
+T16	expression_CIM 1098 1152	Adénopathies médiastinales supérieures, paratrachéales
+T17	topographie 1111 1124	médiastinales
+T18	topographie 1138 1152	paratrachéales
+T19	morphologie 1252 1264	adénopathies
+T20	expression_CIM 1252 1453	adénopathies para-œsophagiennes (11 mm), paravertébrales gauches (10 mm), rétrocrurales (23 mm) dans la région du tronc cœliaque, interaortocaves, dans le hile hépatique jusqu'à 12 mm et para-aortiques
+T21	topographie 1265 1283	para-œsophagiennes
+T22	topographie 1293 1308	paravertébrales
+T23	topographie 1326 1339	rétrocrurales
+T24	topographie 1366 1380	tronc cœliaque
+T25	topographie 1382 1397	interaortocaves
+T26	topographie 1407 1421	hile hépatique
+T27	topographie 1439 1453	para-aortiques
+T28	expression_CIM 1649 1658	métastase
+T29	morphologie 1649 1658	métastase
+T30	morphologie 1672 1697	conglomérat adénopathique
+T31	expression_CIM 1672 1742	conglomérat adénopathique de 50 x 50 mm dans la région latérocervicale
+T33	morphologie 1779 1790	Conglomérat
+T34	expression_CIM 1779 1952	Conglomérat au niveau paratrachéal supérieur et inférieur, vers le médiastin, de 50 x 70 cm du côté droit et de 50 x 20 cm du côté gauche et dans les régions pré-vasculaires
+T36	topographie 1846 1855	médiastin
+T38	morphologie 1980 1992	Conglomérats
+T39	expression_CIM 1980 2071	Conglomérats au niveau de la fenêtre aortopulmonaire et de la région rétrocave prétrachéale
+T42	morphologie 2108 2120	Adénopathies
+T43	expression_CIM 2108 2158	Adénopathies para-œsophagiennes et paravertébrales
+T44	topographie 2121 2139	para-œsophagiennes
+T45	topographie 2143 2158	paravertébrales
+T46	morphologie 2188 2200	Adénopathies
+T47	expression_CIM 2188 2214	Adénopathies rétrocrurales
+T48	topographie 2201 2214	rétrocrurales
+T49	morphologie 2244 2256	Adénopathies
+T50	expression_CIM 2244 2274	Adénopathies du hile hépatique
+T51	topographie 2260 2274	hile hépatique
+T52	morphologie 2380 2392	adénopathies
+T53	expression_CIM 2380 2423	adénopathies supra et infradiaphragmatiques
+T54	topographie 2393 2423	supra et infradiaphragmatiques
+T55	expression_CIM 2475 2503	processus lymphoprolifératif
+T56	morphologie 2475 2503	processus lymphoprolifératif
+T57	expression_CIM 2626 2654	processus lymphoprolifératif
+T58	morphologie 2626 2654	processus lymphoprolifératif
+T59	morphologie 2785 2794	métastase
+T60	expression_CIM 2785 2808	métastase ganglionnaire
+T61	topographie 2795 2808	ganglionnaire
+T62	morphologie 2814 2830	carcinome solide
+T63	expression_CIM 2814 2849	carcinome solide d'origine inconnue
+T64	topographie 2833 2849	origine inconnue
+T65	morphologie 3192 3206	adénocarcinome
+T66	expression_CIM 3192 3228	adénocarcinome de type indifférencié
+T67	differenciation 3215 3228	indifférencié
+T68	morphologie 3387 3401	Adénocarcinome
+T69	expression_CIM 3387 3462	Adénocarcinome d'origine inconnue, probablement d'origine biliopancréatique
+T70	topographie 3404 3420	origine inconnue
+T71	topographie 3445 3462	biliopancréatique
+T72	expression_CIM 3464 3472	stade IV
+T73	morphologie 3464 3472	stade IV
+T74	morphologie 3488 3496	atteinte
+T75	expression_CIM 3488 3554	atteinte des ganglions lymphatiques supra et infradiaphragmatiques
+T76	topographie 3501 3554	ganglions lymphatiques supra et infradiaphragmatiques
+T77	morphologie 3821 3827	tumeur
+T78	expression_CIM 3821 3847	tumeur des voies biliaires
+T79	topographie 3832 3847	voies biliaires
+T80	morphologie 4141 4152	adénopathie
+T81	expression_CIM 4141 4169	adénopathie sus-claviculaire
+T82	topographie 4153 4169	sus-claviculaire
+T83	morphologie 4462 4474	adénopathies
+T84	expression_CIM 4462 4509	adénopathies rétrocrurales et rétropéritonéales
+T85	topographie 4475 4488	rétrocrurales
+T86	topographie 4492 4509	rétropéritonéales
+T87	morphologie 4517 4529	adénopathies
+T88	expression_CIM 4517 4542	adénopathies du médiastin
+T89	topographie 4533 4542	médiastin
+T90	morphologie 4994 5005	adénopathie
+T91	expression_CIM 4994 5026	adénopathie infradiaphragmatique
+T92	topographie 5006 5026	infradiaphragmatique
+T93	morphologie 5053 5064	adénopathie
+T94	expression_CIM 5053 5082	adénopathie supraclaviculaire
+T95	topographie 5065 5082	supraclaviculaire
+T96	morphologie 5326 5331	masse
+T97	expression_CIM 5326 5363	masse dans la région sus-claviculaire
+T98	topographie 5340 5363	région sus-claviculaire
+T99	morphologie 5516 5527	progression
+T100	expression_CIM 5516 5541	progression ganglionnaire
+T101	topographie 5528 5541	ganglionnaire
+T102	morphologie 5547 5555	atteinte
+T103	expression_CIM 5547 5565	atteinte viscérale
+T104	topographie 5556 5565	viscérale
+T40	topographie 2009 2032	fenêtre aortopulmonaire
+T35	topographie 1801 1813	paratrachéal
+T32	topographie 1720 1742	région latérocervicale
+T41	topographie 2042 2071	région rétrocave prétrachéale
+T37	topographie 1929 1952	régions pré-vasculaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.0 8000/1
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.0 8000/1
+#14	ICD-O T14	C76.0
+#15	ICD-O T15	8000/1
+#16	ICD-O T17	C38.3
+#17	ICD-O T18	C33.9
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C77.1 8000/1;C77.2 8000/1;C77.4 8000/1
+#20	ICD-O T21	C76.1
+#21	ICD-O T22	C76.7
+#22	ICD-O T23	C76.3
+#23	ICD-O T24	C49.4
+#24	ICD-O T25	C76.1
+#25	ICD-O T26	C22.0
+#26	ICD-O T27	C49.4
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C77.0 8000/1
+#31	ICD-O T33	8000/1
+#32	ICD-O T36	C38.3
+#33	ICD-O T38	8000/1
+#34	ICD-O T42	8000/1
+#35	ICD-O T43	C77.1 8000/1
+#36	ICD-O T44	C71.8
+#37	ICD-O T45	C76.7
+#38	ICD-O T46	8000/1
+#39	ICD-O T47	C77.5 8000/1
+#40	ICD-O T48	C76.3
+#41	ICD-O T49	8000/1
+#42	ICD-O T50	C77.2 8000/1
+#43	ICD-O T51	C22.0
+#44	ICD-O T52	8000/1
+#45	ICD-O T53	C77.0 8000/1;C77.1 8000/1
+#46	ICD-O T54	C76.2
+#47	ICD-O T55	9970/1
+#48	ICD-O T56	9970/1
+#49	ICD-O T57	9970/1
+#50	ICD-O T58	9970/1
+#51	ICD-O T59	8000/6
+#52	ICD-O T60	C77.9 8000/6
+#53	ICD-O T61	C77.9
+#54	ICD-O T62	8010/3
+#55	ICD-O T63	C80.9 8010/3
+#56	ICD-O T64	C80.9
+#57	ICD-O T65	8140/3
+#58	ICD-O T66	8140/34
+#59	ICD-O T67	4
+#60	ICD-O T68	8140/3
+#61	ICD-O T69	C76.2 8140/3;C80.9 8140/3
+#62	ICD-O T70	C80.9
+#63	ICD-O T71	C76.2
+#64	ICD-O T72	8000/6
+#65	ICD-O T73	8000/6
+#66	ICD-O T74	8000/1
+#67	ICD-O T75	C77.1 8000/1
+#68	ICD-O T76	C77.1
+#69	ICD-O T77	8000/1
+#70	ICD-O T78	C24.9 8000/1
+#71	ICD-O T79	C24.9
+#72	ICD-O T80	8000/1
+#73	ICD-O T81	C77.0 8000/1
+#74	ICD-O T82	C76.0
+#75	ICD-O T83	8000/1
+#76	ICD-O T84	C77.2 8000/1;C77.4 8000/1
+#77	ICD-O T85	C76.3
+#78	ICD-O T86	C48.0
+#79	ICD-O T87	8000/1
+#80	ICD-O T88	C77.1 8000/1
+#81	ICD-O T89	C38.3
+#82	ICD-O T90	8000/1
+#83	ICD-O T91	C77.2 8000/1
+#84	ICD-O T92	C49.8
+#85	ICD-O T93	8000/1
+#86	ICD-O T94	C77.1 8000/1
+#87	ICD-O T95	C76.0
+#88	ICD-O T96	8000/1
+#89	ICD-O T97	C76.0 8000/1
+#90	ICD-O T98	C76.0
+#91	ICD-O T99	8000/6
+#92	ICD-O T100	C77.9 8000/6
+#93	ICD-O T101	C77.9
+#94	ICD-O T102	8000/1
+#95	ICD-O T103	C49.4 8000/1
+#96	ICD-O T104	C49.4

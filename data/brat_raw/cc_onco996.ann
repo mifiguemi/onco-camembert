@@ -1,0 +1,20 @@
+T1	morphologie 248 257;269 287	carcinome à petites cellules
+T2	expression_CIM 248 287	carcinome pulmonaire à petites cellules
+T3	topographie 258 268	pulmonaire
+T4	expression_CIM 1675 1681	masses
+T5	morphologie 1675 1681	masses
+T6	expression_CIM 2430 2437	lésions
+T7	morphologie 2430 2437	lésions
+T8	morphologie 2915 2924;2936 2954	Carcinome à petites cellules
+T9	expression_CIM 2915 2954	Carcinome pulmonaire à petites cellules
+T10	topographie 2925 2935	pulmonaire
+#1	ICD-O T1	8041/3
+#2	ICD-O T2	C34.9 8041/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8041/3
+#9	ICD-O T9	C34.9 8041/3
+#10	ICD-O T10	C34.9

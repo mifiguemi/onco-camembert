@@ -1,0 +1,48 @@
+T1	morphologie 84 98	adénocarcinome
+T2	expression_CIM 84 108	adénocarcinome urachique
+T3	topographie 99 108	urachique
+T4	expression_CIM 763 771	implants
+T5	morphologie 763 771	implants
+T6	morphologie 848 856	implants
+T7	expression_CIM 848 868	implants péritonéaux
+T8	topographie 857 868	péritonéaux
+T9	morphologie 881 904;922 966	adénocarcinome mucineux avec des cellules isolées en bague de signet
+T10	expression_CIM 881 966	adénocarcinome mucineux bien différencié avec des cellules isolées en bague de signet
+T11	differenciation 905 921	bien différencié
+T12	morphologie 980 1003	Adénocarcinome mucineux
+T13	expression_CIM 980 1015	Adénocarcinome mucineux de l'utérus
+T14	topographie 1009 1015	utérus
+T15	expression_CIM 1019 1027	stade IV
+T16	morphologie 1019 1027	stade IV
+T17	morphologie 1033 1041	atteinte
+T18	expression_CIM 1033 1053	atteinte péritonéale
+T19	topographie 1042 1053	péritonéale
+T20	expression_CIM 1323 1329	tumeur
+T21	morphologie 1323 1329	tumeur
+T22	morphologie 2076 2087	progression
+T23	expression_CIM 2076 2099	progression péritonéale
+T24	topographie 2088 2099	péritonéale
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C49.4 8140/3
+#3	ICD-O T3	C49.4
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C48.2 8000/6
+#8	ICD-O T8	C48.2
+#9	ICD-O T9	8480/3
+#10	ICD-O T11	1
+#11	ICD-O T12	8480/3
+#12	ICD-O T13	C55.9 8480/3
+#13	ICD-O T14	C55.9
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8000/9
+#17	ICD-O T18	C48.2 8000/1
+#18	ICD-O T19	C48.2
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8000/3
+#21	ICD-O T22	8000/9
+#22	ICD-O T23	C48.2 8000/6
+#23	ICD-O T24	C48.2
+#24	AnnotatorNotes T9	trad

@@ -1,0 +1,126 @@
+T1	morphologie 127 143	hémangioblastome
+T2	expression_CIM 127 155	hémangioblastome cérébelleux
+T3	topographie 144 155	cérébelleux
+T4	morphologie 172 188	hémangioblastome
+T5	expression_CIM 172 195	hémangioblastome dorsal
+T6	topographie 189 195	dorsal
+T7	morphologie 230 233;273 293	LOE suspect de néoplasie
+T8	expression_CIM 230 293	LOE dans les deux pôles rénaux supérieurs, suspect de néoplasie
+T9	topographie 254 260	rénaux
+T10	morphologie 339 348;355 373	carcinome à cellules claires
+T11	expression_CIM 339 393	carcinome rénal à cellules claires, grade 2 de Fhurman
+T12	topographie 349 354	rénal
+T13	differenciation 375 393	grade 2 de Fhurman
+T14	expression_CIM 674 684	néoplasies
+T15	morphologie 674 684	néoplasies
+T16	expression_CIM 706 710	CCRc
+T17	morphologie 706 710	CCRc
+T18	expression_CIM 756 760	CCRc
+T19	morphologie 756 760	CCRc
+T20	morphologie 808 817	néoplasie
+T21	expression_CIM 808 826	néoplasie mammaire
+T22	topographie 818 826	mammaire
+T23	expression_CIM 941 958	hémangioblastomes
+T24	morphologie 941 958	hémangioblastomes
+T25	morphologie 1029 1035	tumeur
+T26	expression_CIM 1029 1054	tumeur de la cauda equina
+T27	topographie 1042 1054	cauda equina
+T28	expression_CIM 1122 1139	hémangioblastomes
+T29	morphologie 1122 1139	hémangioblastomes
+T30	morphologie 1490 1496	tumeur
+T31	expression_CIM 1490 1541	tumeur entre les racines du filum terminale à L2-L3
+T33	morphologie 2163 2169	tumeur
+T34	expression_CIM 2163 2261	tumeur de 12 mm de diamètre craniocaudale, entre les racines du filum terminale au niveau de L2-L3
+T36	expression_CIM 2307 2316	métastase
+T37	morphologie 2307 2316	métastase
+T38	morphologie 2326 2335;2342 2360	carcinome à cellules claires
+T39	expression_CIM 2326 2360	carcinome rénal à cellules claires
+T40	topographie 2336 2341	rénal
+T41	morphologie 2620 2629;2636 2654	Carcinome à cellules claires
+T42	expression_CIM 2620 2654	Carcinome rénal à cellules claires
+T43	topographie 2630 2635	rénal
+T44	morphologie 2665 2675	métastases
+T45	expression_CIM 2665 2693	métastases à la cauda equina
+T46	topographie 2681 2693	cauda equina
+T47	morphologie 2729 2738;2745 2763	carcinome à cellules claires
+T48	expression_CIM 2729 2763	carcinome rénal à cellules claires
+T49	topographie 2739 2744	rénal
+T50	morphologie 2770 2780	métastases
+T51	expression_CIM 2770 2801	métastases dans la cauda equina
+T52	topographie 2789 2801	cauda equina
+T53	expression_CIM 3002 3027	progression de la maladie
+T54	morphologie 3002 3027	progression de la maladie
+T55	expression_CIM 3210 3217	lésions
+T56	morphologie 3210 3217	lésions
+T57	expression_CIM 3306 3317	hémangiomes
+T58	morphologie 3306 3317	hémangiomes
+T59	expression_CIM 3330 3358	lésion suspecte de métastase
+T60	morphologie 3330 3358	lésion suspecte de métastase
+T61	expression_CIM 3455 3465	métastases
+T62	morphologie 3455 3465	métastases
+T63	expression_CIM 3542 3559	cellules malignes
+T64	morphologie 3542 3559	cellules malignes
+T65	expression_CIM 3653 3678	progression de la maladie
+T66	morphologie 3653 3678	progression de la maladie
+T35	topographie 2206 2261	entre les racines du filum terminale au niveau de L2-L3
+T32	topographie 1507 1541	racines du filum terminale à L2-L3
+#1	ICD-O T1	9161/1
+#2	ICD-O T2	C71.6 9161/1
+#3	ICD-O T3	C71.6
+#4	ICD-O T4	9161/1
+#5	ICD-O T5	C76.7 9161/1
+#6	ICD-O T6	C76.7
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C64.9
+#9	ICD-O T10	8310/3
+#10	ICD-O T11	C64.9 8310/32
+#11	ICD-O T12	C64.9
+#12	ICD-O T13	2
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/3
+#15	ICD-O T16	8310/3
+#16	ICD-O T17	8310/3
+#17	ICD-O T18	8310/3
+#18	ICD-O T19	8310/3
+#19	ICD-O T20	8000/3
+#20	ICD-O T21	C50.9 8000/1
+#21	ICD-O T22	C50.9
+#22	ICD-O T23	9161/1
+#23	ICD-O T24	9161/1
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	C72.1 8000/1
+#26	ICD-O T27	C72.1
+#27	ICD-O T28	9161/1
+#28	ICD-O T29	9161/1
+#29	ICD-O T30	8000/3
+#30	ICD-O T33	8000/3
+#31	ICD-O T36	8000/6
+#32	ICD-O T37	8000/6
+#33	ICD-O T38	8310/3
+#34	ICD-O T39	C64.9 8310/3
+#35	ICD-O T40	C64.9
+#36	ICD-O T41	8310/3
+#37	ICD-O T42	C64.9 8310/3
+#38	ICD-O T43	C64.9
+#39	ICD-O T44	8000/6
+#40	ICD-O T45	C72.1 8000/6
+#41	ICD-O T46	C72.1
+#42	ICD-O T47	8310/3
+#43	ICD-O T48	C64.9 8310/3
+#44	ICD-O T49	C64.9
+#45	ICD-O T50	8000/6
+#46	ICD-O T51	C72.1 8000/6
+#47	ICD-O T52	C72.1
+#48	ICD-O T53	8000/1
+#49	ICD-O T54	8000/9
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	8000/1
+#52	ICD-O T57	9120/0
+#53	ICD-O T58	9120/0
+#54	ICD-O T60	8000/6
+#55	ICD-O T61	8000/6
+#56	ICD-O T62	8000/6
+#57	ICD-O T63	8000/1
+#58	ICD-O T64	8001/3
+#59	ICD-O T65	8000/1
+#60	ICD-O T66	8000/9

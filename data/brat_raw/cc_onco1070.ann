@@ -1,0 +1,142 @@
+T1	expression_CIM 161 166	masse
+T2	morphologie 161 166	masse
+T3	expression_CIM 253 258	masse
+T4	morphologie 253 258	masse
+T5	expression_CIM 581 589	récidive
+T6	morphologie 581 589	récidive
+T7	expression_CIM 611 617	tumeur
+T8	morphologie 611 617	tumeur
+T9	expression_CIM 988 994	tumeur
+T10	morphologie 988 994	tumeur
+T11	expression_CIM 1420 1436	sarcome synovial
+T12	morphologie 1420 1436	sarcome synovial
+T13	morphologie 1519 1529	métastases
+T14	expression_CIM 1519 1541	métastases pulmonaires
+T15	topographie 1530 1541	pulmonaires
+T16	expression_CIM 1918 1925	nodules
+T17	morphologie 1918 1925	nodules
+T18	morphologie 1985 2010	progression de la maladie
+T19	expression_CIM 1985 2021	progression de la maladie pulmonaire
+T20	topographie 2011 2021	pulmonaire
+T21	expression_CIM 2131 2158	sarcome synovial biphasique
+T22	morphologie 2131 2158	sarcome synovial biphasique
+T23	morphologie 2374 2380	lésion
+T24	expression_CIM 2374 2403	lésion dans le lobe inférieur
+T25	topographie 2389 2403	lobe inférieur
+T26	expression_CIM 2458 2465	lésions
+T27	morphologie 2458 2465	lésions
+T28	expression_CIM 2559 2566	lésions
+T29	morphologie 2559 2566	lésions
+T30	expression_CIM 2613 2638	progression de la maladie
+T31	morphologie 2613 2638	progression de la maladie
+T32	expression_CIM 2882 2889	nodules
+T33	morphologie 2882 2889	nodules
+T34	morphologie 2919 2928	métastase
+T35	expression_CIM 2919 2939	métastase pulmonaire
+T36	topographie 2929 2939	pulmonaire
+T37	morphologie 3489 3496	lésions
+T38	expression_CIM 3489 3508	lésions pulmonaires
+T39	topographie 3497 3508	pulmonaires
+T40	expression_CIM 3539 3546	lésions
+T41	morphologie 3539 3546	lésions
+T42	morphologie 3726 3733	nodules
+T43	expression_CIM 3726 3755	nodules pulmonaires de la LID
+T44	topographie 3734 3745;3752 3755	pulmonaires LID
+T45	expression_CIM 4050 4059	métastase
+T46	morphologie 4050 4059	métastase
+T47	expression_CIM 4089 4123	plèvre viscérale du lobe inférieur
+T48	topographie 4089 4123	plèvre viscérale du lobe inférieur
+T49	expression_CIM 4187 4196	métastase
+T50	morphologie 4187 4196	métastase
+T51	expression_CIM 4262 4268	lésion
+T52	morphologie 4262 4268	lésion
+T53	expression_CIM 4350 4392	sarcome synovial dans un schéma biphasique
+T54	morphologie 4350 4392	sarcome synovial dans un schéma biphasique
+T55	morphologie 5170 5194	progression métastatique
+T56	expression_CIM 5170 5205	progression métastatique pulmonaire
+T57	topographie 5195 5205	pulmonaire
+T58	morphologie 5258 5264	masses
+T59	expression_CIM 5258 5301	masses pulmonaires dans les deux hémithorax
+T60	topographie 5265 5276	pulmonaires
+T61	topographie 5291 5301	hémithorax
+T62	morphologie 5430 5439	extension
+T63	expression_CIM 5430 5510	extension transdiaphragmatique aux segments postéro-supérieurs du lobe hépatique
+T64	topographie 5440 5460	transdiaphragmatique
+T65	topographie 5501 5510	hépatique
+T66	morphologie 5867 5891	conglomérat métastatique
+T67	expression_CIM 5867 5899	conglomérat métastatique pleural
+T68	topographie 5892 5899	pleural
+T70	expression_CIM 6003 6042	progression de l'infiltration hépatique
+T71	topographie 6033 6042	hépatique
+T72	expression_CIM 6085 6091	lésion
+T73	morphologie 6085 6091	lésion
+T69	morphologie 6003 6032	progression de l'infiltration
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	9040/3
+#12	ICD-O T12	9040/3
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C34.9 8000/6
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C34.9 8000/1
+#20	ICD-O T20	C34.9
+#21	ICD-O T22	9043/3
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	C34.3 8000/1
+#24	ICD-O T25	C34.3
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	8000/1
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	C34.9 8000/6
+#35	ICD-O T36	C34.9
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	C34.9 8000/1
+#38	ICD-O T39	C34.9
+#39	ICD-O T40	8000/1
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	C34.3 8000/1;C34.9 8000/1
+#43	ICD-O T44	C34.3
+#44	ICD-O T45	8000/6
+#45	ICD-O T46	8000/6
+#46	ICD-O T48	C38.4
+#47	ICD-O T49	8000/6
+#48	ICD-O T50	8000/6
+#49	ICD-O T51	8000/1
+#50	ICD-O T52	8000/1
+#51	ICD-O T54	9043/3
+#52	ICD-O T55	8000/6
+#53	ICD-O T56	C34.9 8000/6
+#54	ICD-O T57	C34.9
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	C34.9 8000/1;C76.1 8000/1
+#57	ICD-O T60	C34.9
+#58	ICD-O T61	C76.1
+#59	ICD-O T62	8000/6
+#60	ICD-O T63	C22.0 8000/6;C49.8 8000/6
+#61	ICD-O T64	C49.8
+#62	ICD-O T65	C22.0
+#63	ICD-O T66	8000/6
+#64	ICD-O T67	C38.4 8000/6
+#65	ICD-O T68	C38.4
+#66	ICD-O T71	C22.0
+#67	ICD-O T72	8000/1
+#68	ICD-O T73	8000/1
+#69	ICD-O T69	8000/6

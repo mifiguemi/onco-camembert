@@ -1,0 +1,55 @@
+T17	topographie 1476 1493	graisse périnéale
+T1	morphologie 272 278	tumeur
+T2	expression_CIM 272 300	tumeur de 12 cm dans le rein
+T3	topographie 296 300	rein
+T4	morphologie 640 645	masse
+T5	expression_CIM 640 716	masse solide inhomogène mesurant 10 par 13 cm dans le pôle inférieur du rein
+T6	topographie 712 716	rein
+T7	expression_CIM 980 998	maladie à distance
+T8	morphologie 980 998	maladie à distance
+T9	morphologie 1031 1060	CARCINOME DU CANAL COLLECTEUR
+T10	expression_CIM 1031 1066	CARCINOME DU CANAL COLLECTEUR RÉNAL
+T11	topographie 1061 1066	RÉNAL
+T12	morphologie 1201 1207	tumeur
+T13	expression_CIM 1201 1321	tumeur largement nécrosée, composée de structures canalaires avec des noyaux modérément fibromorphes (grade 2 de Fuhrman
+T14	differenciation 1303 1321	grade 2 de Fuhrman
+T15	morphologie 1458 1464	tumeur
+T16	expression_CIM 1458 1493	tumeur envahit la graisse périnéale
+T18	morphologie 1519 1548	carcinome du canal collecteur
+T19	expression_CIM 1519 1573	carcinome du canal collecteur pT3b, grade 2 de Fuhrman
+T20	stadeTNM 1549 1553	pT3b
+T21	differenciation 1555 1573	grade 2 de Fuhrman
+T22	morphologie 1800 1825	progression de la maladie
+T23	expression_CIM 1800 1846	progression de la maladie au niveau péritonéal
+T24	topographie 1836 1846	péritonéal
+T25	morphologie 1871 1884	carcinomatose
+T26	expression_CIM 1871 1896	carcinomatose péritonéale
+T27	topographie 1885 1896	péritonéale
+T28	expression_CIM 1924 1956	carcinome des tubules de Bellini
+T29	morphologie 1924 1956	carcinome des tubules de Bellini
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C64.9 8000/1
+#6	ICD-O T6	C64.9
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8319/3
+#10	ICD-O T10	C64.9 8319/3
+#11	ICD-O T11	C64.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T14	2
+#14	ICD-O T15	8000/1
+#15	ICD-O T18	8319/3
+#16	ICD-O T19	8319/32
+#17	ICD-O T20	todelete
+#18	ICD-O T21	2
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	C48.2 8000/1
+#21	ICD-O T24	C48.2
+#22	ICD-O T25	8010/9
+#23	ICD-O T26	C48.2 8010/9
+#24	ICD-O T27	C48.2
+#25	ICD-O T28	8319/3
+#26	ICD-O T29	8319/3

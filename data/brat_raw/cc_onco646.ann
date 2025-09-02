@@ -1,0 +1,143 @@
+T1	morphologie 977 998	tumeur neuroendocrine
+T2	expression_CIM 977 1020	tumeur neuroendocrine du corps pancréatique
+T3	topographie 1002 1020	corps pancréatique
+T4	expression_CIM 1022 1033	glucagonome
+T5	morphologie 1022 1033	glucagonome
+T6	expression_CIM 1037 1045	stade IV
+T7	morphologie 1037 1045	stade IV
+T8	morphologie 1286 1292	tumeur
+T9	expression_CIM 1286 1329	tumeur hétérogène dans le corps du pancréas
+T10	topographie 1312 1329	corps du pancréas
+T11	morphologie 1380 1387	lésions
+T12	expression_CIM 1380 1427	lésions hypodenses dans les segments VI et VIII
+T14	expression_CIM 1513 1522	métastase
+T15	morphologie 1513 1522	métastase
+T16	morphologie 1607 1613	tumeur
+T17	expression_CIM 1607 1626	tumeur pancréatique
+T18	topographie 1614 1626	pancréatique
+T19	morphologie 1639 1646	lésions
+T20	expression_CIM 1639 1657	lésions hépatiques
+T21	topographie 1647 1657	hépatiques
+T22	morphologie 1909 1930	tumeur neuroendocrine
+T23	expression_CIM 1909 1965	tumeur neuroendocrine avec un grade de différenciation 2
+T24	differenciation 1939 1965	grade de différenciation 2
+T25	morphologie 2637 2658	tumeur neuroendocrine
+T26	expression_CIM 2637 2705	tumeur neuroendocrine de 4,2 cm, avec une différenciation de grade 2
+T27	differenciation 2679 2705	différenciation de grade 2
+T28	expression_CIM 2726 2737	glucagonome
+T29	morphologie 2726 2737	glucagonome
+T30	morphologie 2839 2845	tumeur
+T31	expression_CIM 2839 2886	tumeur dans aucun des 14 ganglions lymphatiques
+T32	topographie 2864 2886	ganglions lymphatiques
+T33	morphologie 2902 2914	infiltration
+T34	expression_CIM 2902 2926	infiltration périneurale
+T35	topographie 2915 2926	périneurale
+T36	morphologie 2932 2940	invasion
+T37	expression_CIM 2932 2957	invasion lymphovasculaire
+T38	topographie 2941 2957	lymphovasculaire
+T39	expression_CIM 3028 3041	foyer tumoral
+T40	morphologie 3028 3041	foyer tumoral
+T41	morphologie 3064 3072	invasion
+T42	expression_CIM 3064 3082	invasion splénique
+T43	topographie 3073 3082	splénique
+T44	morphologie 3118 3128	métastases
+T45	expression_CIM 3118 3139	métastases hépatiques
+T46	topographie 3129 3139	hépatiques
+T47	morphologie 3170 3176	nodule
+T48	expression_CIM 3170 3196	nodule péritonéal viscéral
+T49	topographie 3177 3196	péritonéal viscéral
+T50	expression_CIM 3293 3302	métastase
+T51	morphologie 3293 3302	métastase
+T52	expression_CIM 3306 3330	carcinome neuroendocrine
+T53	morphologie 3306 3330	carcinome neuroendocrine
+T54	expression_CIM 4939 4955	maladie tumorale
+T55	morphologie 4939 4955	maladie tumorale
+T56	morphologie 5042 5062	maladie métastatique
+T57	expression_CIM 5042 5075	maladie métastatique dans le foie
+T58	topographie 5071 5075	foie
+T59	expression_CIM 5099 5106	lésions
+T60	morphologie 5099 5106	lésions
+T61	morphologie 5240 5247	nodules
+T62	expression_CIM 5240 5307	nodules dans le tissu cellulaire sous-cutané de la paroi abdominale
+T63	topographie 5256 5307	tissu cellulaire sous-cutané de la paroi abdominale
+T64	expression_CIM 5344 5357	dissémination
+T65	morphologie 5344 5357	dissémination
+T66	expression_CIM 5503 5509	tumeur
+T67	morphologie 5503 5509	tumeur
+T68	expression_CIM 5658 5669	glucagonome
+T69	morphologie 5658 5669	glucagonome
+T70	expression_CIM 5673 5681	stade IV
+T71	morphologie 5673 5681	stade IV
+T72	expression_CIM 7013 7036	stabilité de la maladie
+T73	morphologie 7013 7036	stabilité de la maladie
+T13	topographie 1408 1427	segments VI et VIII
+#1	ICD-O T1	8246/3
+#2	ICD-O T2	C25.1 8246/3
+#3	ICD-O T3	C25.1
+#4	ICD-O T4	8152/1
+#5	ICD-O T5	8152/1
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C25.1
+#10	ICD-O T11	8000/1
+#11	ICD-O T14	8000/6
+#12	ICD-O T15	8000/6
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C25.9 8000/1
+#15	ICD-O T18	C25.9
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	C22.0 8000/1
+#18	ICD-O T21	C22.0
+#19	ICD-O T22	8246/3
+#20	ICD-O T23	8246/32
+#21	ICD-O T24	2
+#22	ICD-O T25	8246/3
+#23	ICD-O T26	8246/32
+#24	ICD-O T27	2
+#25	ICD-O T28	8152/1
+#26	ICD-O T29	8152/1
+#27	ICD-O T30	8000/1
+#28	ICD-O T31	C77.9 8000/1
+#29	ICD-O T32	C77.9
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	C47.9 8000/1
+#32	ICD-O T35	C47.9
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	C49.9 8000/1
+#35	ICD-O T38	C49.9
+#36	ICD-O T39	8000/3
+#37	ICD-O T40	8000/3
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	C42.2 8000/1
+#40	ICD-O T43	C42.2
+#41	ICD-O T44	8000/6
+#42	ICD-O T45	C22.0 8000/6
+#43	ICD-O T46	C22.0
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C48.2 8000/1
+#46	ICD-O T49	C48.2
+#47	ICD-O T50	8000/6
+#48	ICD-O T51	8000/6
+#49	ICD-O T52	8246/3
+#50	ICD-O T53	8246/3
+#51	ICD-O T54	8000/3
+#52	ICD-O T55	8000/3
+#53	ICD-O T56	8000/6
+#54	ICD-O T57	C22.0 8000/6
+#55	ICD-O T58	C22.0
+#56	ICD-O T59	8000/1
+#57	ICD-O T60	8000/1
+#58	ICD-O T61	8000/1
+#59	ICD-O T62	C49.4 8000/1
+#60	ICD-O T63	C49.4
+#61	ICD-O T64	8000/6
+#62	ICD-O T65	8000/6
+#63	ICD-O T66	8000/1
+#64	ICD-O T67	8000/1
+#65	ICD-O T68	8152/1
+#66	ICD-O T69	8152/1
+#67	ICD-O T70	8000/6
+#68	ICD-O T71	8000/6
+#69	ICD-O T72	8000/6
+#70	ICD-O T73	8000/6

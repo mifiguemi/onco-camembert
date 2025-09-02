@@ -1,0 +1,73 @@
+T4	topographie 2048 2062	région hilaire
+T1	morphologie 2023 2028	masse
+T2	expression_CIM 2023 2062	masse pulmonaire dans la région hilaire
+T3	topographie 2029 2039	pulmonaire
+T5	morphologie 2080 2089	extension
+T6	expression_CIM 2080 2102	extension médiastinale
+T7	topographie 2090 2102	médiastinale
+T8	morphologie 2284 2289	masse
+T9	expression_CIM 2284 2300	masse pulmonaire
+T10	topographie 2290 2300	pulmonaire
+T11	morphologie 2385 2390	masse
+T12	expression_CIM 2385 2398	masse hilaire
+T13	topographie 2391 2398	hilaire
+T14	morphologie 2442 2451;2463 2475	carcinome microcytaire
+T15	expression_CIM 2442 2475	carcinome pulmonaire microcytaire
+T16	topographie 2452 2462	pulmonaire
+T17	morphologie 2636 2643	lésions
+T18	expression_CIM 2636 2654	lésions hépatiques
+T19	topographie 2644 2654	hépatiques
+T20	expression_CIM 2701 2774	foyers ostéoblastiques dans plusieurs arcs costaux et vertèbres lombaires
+T21	topographie 2739 2751	arcs costaux
+T22	topographie 2755 2774	vertèbres lombaires
+T23	morphologie 2797 2807	métastases
+T24	expression_CIM 2797 2830	métastases hépatiques et osseuses
+T25	topographie 2808 2818	hépatiques
+T26	topographie 2822 2830	osseuses
+T27	expression_CIM 2864 2886	carcinome microcytaire
+T28	morphologie 2864 2886	carcinome microcytaire
+T29	expression_CIM 2890 2898	stade IV
+T30	morphologie 2890 2898	stade IV
+T31	expression_CIM 2900 2915	maladie étendue
+T32	morphologie 2900 2915	maladie étendue
+T33	expression_CIM 3591 3619	carcinome à petites cellules
+T34	morphologie 3591 3619	carcinome à petites cellules
+T35	morphologie 5910 5915	masse
+T36	expression_CIM 5910 5926	masse pulmonaire
+T37	topographie 5916 5926	pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.0 8000/1;C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T5	8000/6
+#5	ICD-O T6	C38.3 8000/6
+#6	ICD-O T7	C38.3
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C34.9 8000/1
+#9	ICD-O T10	C34.9
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C34.0 8000/1
+#12	ICD-O T13	C34.0
+#13	ICD-O T14	8041/3
+#14	ICD-O T15	C34.9 8041/3
+#15	ICD-O T16	C34.9
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C22.0 8000/1
+#18	ICD-O T19	C22.0
+#19	ICD-O T20	C41.2 8000/1;C41.3 8000/1
+#20	ICD-O T21	C41.3
+#21	ICD-O T22	C41.2
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	C22.0 8000/6;C41.9 8000/6
+#24	ICD-O T25	C22.0
+#25	ICD-O T26	C41.9
+#26	ICD-O T27	8041/3
+#27	ICD-O T28	8041/3
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8000/6
+#30	ICD-O T31	8000/6
+#31	ICD-O T32	8000/6
+#32	ICD-O T33	8041/3
+#33	ICD-O T34	8041/3
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	C34.9 8000/1
+#36	ICD-O T37	C34.9

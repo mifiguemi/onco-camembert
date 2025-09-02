@@ -1,0 +1,71 @@
+T1	morphologie 135 141	cancer
+T2	expression_CIM 135 156	cancer de l'endomètre
+T3	topographie 147 156	endomètre
+T4	morphologie 207 213	cancer
+T5	expression_CIM 207 222	cancer du côlon
+T6	topographie 217 222	côlon
+T7	morphologie 254 260	cancer
+T8	expression_CIM 254 278	cancer gastro-intestinal
+T9	topographie 261 278	gastro-intestinal
+T10	morphologie 306 312	cancer
+T11	expression_CIM 306 332	cancer des voies biliaires
+T12	topographie 317 332	voies biliaires
+T13	morphologie 366 372	cancer
+T14	expression_CIM 366 384	cancer des ovaires
+T15	topographie 377 384	ovaires
+T16	morphologie 449 455	cancer
+T17	expression_CIM 449 464	cancer du côlon
+T18	topographie 459 464	côlon
+T19	expression_CIM 732 737	masse
+T20	morphologie 732 737	masse
+T21	morphologie 1224 1238;1251 1272	Adénocarcinome de type endométrioïde
+T22	expression_CIM 1224 1272	Adénocarcinome endométrial de type endométrioïde
+T23	topographie 1239 1250	endométrial
+T24	morphologie 1515 1529;1560 1581	adénocarcinome de type endométrioïde
+T25	expression_CIM 1515 1603	adénocarcinome endométrial bien différencié, de type endométrioïde, limité à l'endomètre
+T26	topographie 1530 1541	endométrial
+T27	differenciation 1542 1558	bien différencié
+T28	topographie 1594 1603	endomètre
+T29	topographie 1666 1676	col utérin
+T30	expression_CIM 1666 1723	col utérin, trompes et ovaires sans infiltration tumorale
+T31	topographie 1678 1685	trompes
+T32	topographie 1689 1696	ovaires
+T33	morphologie 1702 1723	infiltration tumorale
+T34	morphologie 1731 1739	atteinte
+T35	expression_CIM 1731 1753	atteinte ganglionnaire
+T36	topographie 1740 1753	ganglionnaire
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C54.1 8000/3
+#3	ICD-O T3	C54.1
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C18.9 8000/3
+#6	ICD-O T6	C18.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C26.9 8000/3
+#9	ICD-O T9	C26.9
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	C24.9 8000/3
+#12	ICD-O T12	C24.9
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	C56.9 8000/3
+#15	ICD-O T15	C56.9
+#16	ICD-O T16	8000/3
+#17	ICD-O T17	C18.9 8000/3
+#18	ICD-O T18	C18.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8380/3
+#22	ICD-O T22	C54.1 8380/3
+#23	ICD-O T23	C54.1
+#24	ICD-O T24	8380/3
+#25	ICD-O T26	C54.1
+#26	ICD-O T27	1
+#27	ICD-O T28	C54.1
+#28	ICD-O T29	C53.9
+#29	ICD-O T30	C53.9 8000/6;C56.9 8000/6;C57.0 8000/6
+#30	ICD-O T31	C57.0
+#31	ICD-O T32	C56.9
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	C77.9 8000/1
+#35	ICD-O T36	C77.9

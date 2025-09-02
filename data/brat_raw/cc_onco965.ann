@@ -1,0 +1,218 @@
+T29	topographie 1847 1863	région axillaire
+T1	morphologie 290 299	néoplasie
+T2	expression_CIM 290 310	néoplasie pulmonaire
+T3	topographie 300 310	pulmonaire
+T4	morphologie 419 425	lésion
+T5	expression_CIM 419 435	lésion cervicale
+T6	topographie 426 435	cervicale
+T7	morphologie 496 503	lésions
+T8	expression_CIM 496 512	lésions cutanées
+T9	topographie 504 512	cutanées
+T10	morphologie 713 729	lymphadénopathie
+T11	expression_CIM 713 739	lymphadénopathie axillaire
+T12	topographie 730 739	axillaire
+T13	morphologie 879 891	adénopathies
+T14	expression_CIM 879 902	adénopathies axillaires
+T15	topographie 892 902	axillaires
+T16	morphologie 1019 1026	lésions
+T17	expression_CIM 1019 1048	lésions palpables sur le sein
+T18	topographie 1044 1048	sein
+T19	morphologie 1089 1096;1106 1115	lésions suspectes
+T20	expression_CIM 1089 1115	lésions cutanées suspectes
+T21	topographie 1097 1105	cutanées
+T22	expression_CIM 1298 1305	nodules
+T23	morphologie 1298 1305	nodules
+T24	morphologie 1458 1469	adénopathie
+T25	expression_CIM 1458 1479	adénopathie axillaire
+T26	topographie 1470 1479	axillaire
+T27	morphologie 1818 1829	adénopathie
+T28	expression_CIM 1818 1863	adénopathie de 32 mm dans la région axillaire
+T30	morphologie 1880 1895	image nodulaire
+T31	expression_CIM 1880 1960	image nodulaire de 45 mm qui semblait solide et dépendant de la glande surrénale
+T32	topographie 1944 1960	glande surrénale
+T33	expression_CIM 1980 1986	lésion
+T34	morphologie 1980 1986	lésion
+T35	morphologie 2077 2089	adénopathies
+T36	expression_CIM 2077 2161	adénopathies infiltrantes au niveau cervical, axillaire bilatéral et intra-abdominal
+T37	topographie 2113 2121	cervical
+T38	topographie 2123 2132	axillaire
+T39	topographie 2146 2161	intra-abdominal
+T40	morphologie 2179 2184	masse
+T41	expression_CIM 2179 2198	masse surrénalienne
+T42	topographie 2185 2198	surrénalienne
+T43	expression_CIM 2227 2236	métastase
+T44	morphologie 2227 2236	métastase
+T45	morphologie 2242 2248	lésion
+T46	expression_CIM 2242 2278	lésion dans le corps vertébral de D9
+T47	topographie 2257 2278	corps vertébral de D9
+T48	morphologie 2312 2321	métastase
+T49	expression_CIM 2312 2329	métastase osseuse
+T50	topographie 2322 2329	osseuse
+T51	morphologie 2427 2449	foyers ostéoblastiques
+T52	expression_CIM 2427 2511	foyers ostéoblastiques peu intenses au niveau du cinquième arc costal droit et de D9
+T53	topographie 2486 2496	arc costal
+T54	topographie 2509 2511	D9
+T55	expression_CIM 2535 2542	lésions
+T56	morphologie 2535 2542	lésions
+T57	expression_CIM 2583 2589	lésion
+T58	morphologie 2583 2589	lésion
+T59	morphologie 2624 2635	adénopathie
+T60	expression_CIM 2624 2645	adénopathie axillaire
+T61	topographie 2636 2645	axillaire
+T62	expression_CIM 2723 2732	métastase
+T63	morphologie 2723 2732	métastase
+T64	expression_CIM 2742 2756	mélanome malin
+T65	morphologie 2742 2756	mélanome malin
+T66	expression_CIM 2911 2932	Mélanome métastatique
+T67	morphologie 2911 2932	Mélanome métastatique
+T68	morphologie 2961 2971	métastases
+T69	expression_CIM 2961 3045	métastases ganglionnaires supra et infradiaphragmatiques, osseuses et surrénaliennes
+T70	topographie 2972 2986	ganglionnaires
+T71	topographie 2987 3017	supra et infradiaphragmatiques
+T72	topographie 3019 3027	osseuses
+T73	topographie 3031 3045	surrénaliennes
+T74	expression_CIM 3472 3479	lésions
+T75	morphologie 3472 3479	lésions
+T76	morphologie 4186 4197	adénopathie
+T77	expression_CIM 4186 4207	adénopathie axillaire
+T78	topographie 4198 4207	axillaire
+T79	morphologie 4267 4272	masse
+T80	expression_CIM 4267 4283	masse pararénale
+T81	topographie 4273 4283	pararénale
+T82	morphologie 4311 4318	lésions
+T83	expression_CIM 4311 4327	lésions osseuses
+T84	topographie 4319 4327	osseuses
+T85	morphologie 4693 4704	adénopathie
+T86	expression_CIM 4693 4714	adénopathie axillaire
+T87	topographie 4705 4714	axillaire
+T88	morphologie 4760 4771	adénopathie
+T89	expression_CIM 4760 4784	adénopathie médiastinale
+T90	topographie 4772 4784	médiastinale
+T91	morphologie 4792 4797	masse
+T92	expression_CIM 4792 4808	masse pararénale
+T93	topographie 4798 4808	pararénale
+T94	expression_CIM 4867 4873	lésion
+T95	morphologie 4867 4873	lésion
+T96	expression_CIM 5170 5182	adénopathies
+T97	morphologie 5170 5182	adénopathies
+T98	expression_CIM 5197 5208	adénopathie
+T99	morphologie 5197 5208	adénopathie
+T100	morphologie 5255 5267	micronodules
+T101	expression_CIM 5255 5329	micronodules pulmonaires sous-pleuraux apparaissent dans le lobe inférieur
+T102	topographie 5268 5279	pulmonaires
+T103	topographie 5315 5329	lobe inférieur
+T104	morphologie 5384 5390	lésion
+T105	expression_CIM 5384 5401	lésion pararénale
+T106	topographie 5391 5401	pararénale
+T107	morphologie 5731 5743	adénopathies
+T108	expression_CIM 5731 5754	adénopathies axillaires
+T109	topographie 5744 5754	axillaires
+T110	morphologie 5865 5871	lésion
+T111	expression_CIM 5865 5893	lésion résiduelle pararénale
+T112	topographie 5883 5893	pararénale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C44.9 8000/1
+#9	ICD-O T9	C44.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.3 8000/1
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C77.3 8000/1
+#15	ICD-O T15	C76.1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C50.9 8000/1
+#18	ICD-O T18	C50.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T21	C44.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	C77.3 8000/1
+#25	ICD-O T26	C76.1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	C77.3 8000/1
+#28	ICD-O T30	8000/1
+#29	ICD-O T32	C74.9 
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	C77.0 8000/1;C77.2 8000/1;C77.3 8000/1
+#34	ICD-O T37	C76.0
+#35	ICD-O T38	C76.1
+#36	ICD-O T39	C76.2
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	C74.9 8000/1
+#39	ICD-O T42	C74.9
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8000/6
+#42	ICD-O T45	8000/1
+#43	ICD-O T47	C41.2
+#44	ICD-O T48	8000/6
+#45	ICD-O T49	C41.9 8000/6
+#46	ICD-O T50	C41.9
+#47	ICD-O T51	tocheck
+#48	ICD-O T53	C41.3
+#49	ICD-O T54	C41.2
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	8000/1
+#52	ICD-O T57	8000/1
+#53	ICD-O T58	8000/1
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	C77.3 8000/1
+#56	ICD-O T61	C76.1
+#57	ICD-O T62	8000/6
+#58	ICD-O T63	8000/6
+#59	ICD-O T64	8720/3
+#60	ICD-O T65	8720/3
+#61	ICD-O T67	8000/6
+#62	ICD-O T68	8000/6
+#63	ICD-O T69	C41.9 8000/6;C74.9 8000/6;C76.8 8000/6;C77.9 8000/6
+#64	ICD-O T70	C77.9
+#65	ICD-O T71	C76.8
+#66	ICD-O T72	C41.9
+#67	ICD-O T73	C74.9
+#68	ICD-O T74	8000/1
+#69	ICD-O T75	8000/1
+#70	ICD-O T76	8000/1
+#71	ICD-O T77	C77.3 8000/1
+#72	ICD-O T78	C76.1
+#73	ICD-O T79	8000/1
+#74	ICD-O T80	C68.8 8000/1
+#75	ICD-O T81	C68.8
+#76	ICD-O T82	8000/1
+#77	ICD-O T83	C41.9 8000/1
+#78	ICD-O T84	C41.9
+#79	ICD-O T85	8000/1
+#80	ICD-O T86	C77.3 8000/1
+#81	ICD-O T87	C76.1
+#82	ICD-O T88	8000/1
+#83	ICD-O T89	C77.1 8000/1
+#84	ICD-O T90	C38.3
+#85	ICD-O T91	8000/1
+#86	ICD-O T92	C68.8 8000/1
+#87	ICD-O T93	C68.8
+#88	ICD-O T94	8000/1
+#89	ICD-O T95	8000/1
+#90	ICD-O T96	C77.9 8000/1
+#91	ICD-O T97	8000/1
+#92	ICD-O T98	C77.9 8000/1
+#93	ICD-O T99	8000/1
+#94	ICD-O T100	8000/1
+#95	ICD-O T101	C34.3 8000/1;C34.9 8000/1;C38.8 8000/1
+#96	ICD-O T102	C34.9
+#97	ICD-O T103	C34.3
+#98	ICD-O T104	8000/1
+#99	ICD-O T105	C68.8 8000/1
+#100	ICD-O T106	C68.8
+#101	ICD-O T107	8000/1
+#102	ICD-O T108	C77.3 8000/1
+#103	ICD-O T109	C76.1
+#104	ICD-O T110	8000/1
+#105	ICD-O T111	C68.8 8000/1
+#106	ICD-O T112	C68.8

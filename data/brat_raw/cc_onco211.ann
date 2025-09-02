@@ -1,0 +1,62 @@
+T24	topographie 1399 1405	glande
+T1	morphologie 135 140	masse
+T2	expression_CIM 135 147	masse rénale
+T3	topographie 141 147	rénale
+T4	morphologie 261 294	carcinome à cellules chromophobes
+T5	expression_CIM 261 314	carcinome à cellules chromophobes, grade 4 de Furhman
+T6	differenciation 296 314	grade 4 de Furhman
+T7	morphologie 585 604	lésion métastatique
+T8	expression_CIM 585 616	lésion métastatique suprarénale
+T9	topographie 605 616	suprarénale
+T10	morphologie 631 638	nodules
+T11	expression_CIM 631 655	nodules rétropéritonéaux
+T12	topographie 639 655	rétropéritonéaux
+T13	expression_CIM 669 686	implants tumoraux
+T14	morphologie 669 686	implants tumoraux
+T15	morphologie 716 724	récidive
+T16	expression_CIM 716 758	récidive rétropéritonéale et surrénalienne
+T17	topographie 725 741	rétropéritonéale
+T18	topographie 745 758	surrénalienne
+T19	morphologie 764 785	carcinome chromophobe
+T20	expression_CIM 764 793	carcinome chromophobe du rein
+T21	topographie 789 793	rein
+T22	morphologie 1353 1359	lésion
+T23	expression_CIM 1353 1405	lésion hypertrophique antérieure dans la même glande
+T25	morphologie 1788 1794	lésion
+T26	expression_CIM 1788 1808	lésion surrénalienne
+T27	topographie 1795 1808	surrénalienne
+T28	morphologie 1840 1847	nodules
+T29	expression_CIM 1840 1859	nodules péritonéaux
+T30	topographie 1848 1859	péritonéaux
+T31	expression_CIM 1949 1972	stabilité de la maladie
+T32	morphologie 1949 1972	stabilité de la maladie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8270/3
+#5	ICD-O T5	8270/34
+#6	ICD-O T6	4
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	C76.2 8000/6
+#9	ICD-O T9	C76.2
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C48.0 8000/1
+#12	ICD-O T12	C48.0
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C48.0 8000/6;C74.9 8000/6
+#17	ICD-O T17	C48.0
+#18	ICD-O T18	C74.9
+#19	ICD-O T19	8270/3
+#20	ICD-O T20	C64.9 8270/3
+#21	ICD-O T21	C64.9
+#22	ICD-O T22	8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	C74.9 8000/1
+#25	ICD-O T27	C74.9
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C48.2 8000/1
+#28	ICD-O T30	C48.2
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	8000/6

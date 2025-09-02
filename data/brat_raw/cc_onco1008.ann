@@ -1,0 +1,108 @@
+T1	morphologie 666 694	carcinome à cellules claires
+T2	expression_CIM 666 706	carcinome à cellules claires de l'ovaire
+T3	topographie 700 706	ovaire
+T4	morphologie 852 885	adénocarcinome à cellules claires
+T5	expression_CIM 852 897	adénocarcinome à cellules claires de l'ovaire
+T6	topographie 891 897	ovaire
+T7	morphologie 1007 1017	Métastases
+T8	expression_CIM 1007 1194	Métastases de l'adénocarcinome à cellules claires dans 2/4 ganglions lymphatiques pelviens droits, 0/6 ganglions lymphatiques pelviens gauches et 1/9 ganglions lymphatiques para-aortiques
+T9	expression_CIM 1023 1056	adénocarcinome à cellules claires
+T10	morphologie 1023 1056	adénocarcinome à cellules claires
+T11	topographie 1066 1097	ganglions lymphatiques pelviens
+T12	topographie 1110 1141	ganglions lymphatiques pelviens
+T13	topographie 1157 1194	ganglions lymphatiques para-aortiques
+T14	morphologie 2061 2073	adénopathies
+T15	expression_CIM 2061 2087	adénopathies médiastinales
+T16	topographie 2074 2087	médiastinales
+T17	morphologie 2103 2110	nodules
+T18	expression_CIM 2103 2162	nodules millimétriques pulmonaires bilatéraux et spléniques
+T19	topographie 2126 2137	pulmonaires
+T20	topographie 2152 2162	spléniques
+T21	expression_CIM 2201 2218	récidive tumorale
+T22	morphologie 2201 2218	récidive tumorale
+T23	expression_CIM 2709 2721	adénopathies
+T24	morphologie 2709 2721	adénopathies
+T25	morphologie 2926 2938	adénopathies
+T26	expression_CIM 2926 2972	adénopathies pré-vasculaires et paratrachéales
+T27	topographie 2943 2954	vasculaires
+T28	topographie 2958 2972	paratrachéales
+T29	morphologie 3008 3015	nodules
+T30	expression_CIM 3008 3027	nodules pulmonaires
+T31	topographie 3016 3027	pulmonaires
+T32	morphologie 3080 3087	nodules
+T33	expression_CIM 3080 3098	nodules spléniques
+T34	topographie 3088 3098	spléniques
+T35	expression_CIM 3124 3133	métastase
+T36	morphologie 3124 3133	métastase
+T37	morphologie 3140 3152	micronodules
+T38	expression_CIM 3140 3163	micronodules hépatiques
+T39	topographie 3153 3163	hépatiques
+T40	morphologie 3717 3731;3740 3758	Adénocarcinome à cellules claires
+T41	expression_CIM 3717 3758	Adénocarcinome ovarien à cellules claires
+T42	topographie 3732 3739	ovarien
+T43	morphologie 3862 3874	Micronodules
+T44	expression_CIM 3862 3900	Micronodules pulmonaires et spléniques
+T45	topographie 3875 3886	pulmonaires
+T46	topographie 3890 3900	spléniques
+T47	morphologie 4613 4620	nodules
+T48	expression_CIM 4613 4632	nodules pulmonaires
+T49	topographie 4621 4632	pulmonaires
+T50	morphologie 4640 4652	adénopathies
+T51	expression_CIM 4640 4666	adénopathies médiastinales
+T52	topographie 4653 4666	médiastinales
+T53	expression_CIM 4889 4897	récidive
+T54	morphologie 4889 4897	récidive
+#1	ICD-O T1	8310/3
+#2	ICD-O T2	C56.9 8310/3
+#3	ICD-O T3	C56.9
+#4	ICD-O T4	8310/3
+#5	ICD-O T5	C56.9 8310/3
+#6	ICD-O T6	C56.9
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	C77.2 8000/6;C77.5 8000/6
+#9	ICD-O T9	8310/3
+#10	ICD-O T10	8310/3
+#11	ICD-O T11	C77.5
+#12	ICD-O T12	C77.5
+#13	ICD-O T13	C77.2
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C77.1 8000/1
+#16	ICD-O T16	C38.3
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C34.9 8000/1;C42.2 8000/1
+#19	ICD-O T19	C34.9
+#20	ICD-O T20	C42.2
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C77.9 8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C77.1 8000/1
+#27	ICD-O T27	C49.9
+#28	ICD-O T28	C33.9
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C34.9 8000/1
+#31	ICD-O T31	C34.9
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C42.2 8000/1
+#34	ICD-O T34	C42.2
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	8000/6
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C22.0 8000/1
+#39	ICD-O T39	C22.0
+#40	ICD-O T40	8310/3
+#41	ICD-O T41	C56.9 8310/3
+#42	ICD-O T42	C56.9
+#43	ICD-O T43	8000/1
+#44	ICD-O T44	C34.9 8000/1;C42.2 8000/1
+#45	ICD-O T45	C34.9
+#46	ICD-O T46	C42.2
+#47	ICD-O T47	8000/1
+#48	ICD-O T48	C34.9 8000/1
+#49	ICD-O T49	C34.9
+#50	ICD-O T50	8000/1
+#51	ICD-O T51	C77.1 8000/1
+#52	ICD-O T52	C38.3
+#53	ICD-O T53	8000/6
+#54	ICD-O T54	8000/6

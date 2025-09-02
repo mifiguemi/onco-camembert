@@ -1,0 +1,61 @@
+T23	topographie 2710 2724	infracarinales
+T42	topographie 3384 3407	région sus-claviculaire
+T1	morphologie 639 644	masse
+T3	topographie 645 658	supra-hilaire
+T5	morphologie 937 942	masse
+T6	morphologie 1060 1078	bloc adénopathique
+T8	topographie 1079 1095	sus-claviculaire
+T9	morphologie 1128 1137	carcinome
+T85	morphologie 1149 1161	microcytaire
+T11	topographie 1138 1148	pulmonaire
+T12	morphologie 1479 1490	adénopathie
+T14	topographie 1491 1507	sus-claviculaire
+T15	morphologie 2486 2491	Masse
+T17	topographie 2492 2505	supra-hilaire
+T18	morphologie 2558 2563	masse
+T20	topographie 2564 2577	supra-hilaire
+T21	morphologie 2697 2709	adénopathies
+T24	topographie 2726 2734	hilaires
+T25	topographie 2750 2760	axillaires
+T26	morphologie 2818 2827	néoplasie
+T86	morphologie 2839 2848	primitive
+T28	topographie 2828 2838	pulmonaire
+T29	morphologie 2850 2855	Masse
+T31	topographie 2874 2888	lobe supérieur
+T32	morphologie 2898 2905	nodules
+T34	topographie 2906 2917	pulmonaires
+T35	topographie 2926 2940	lobe supérieur
+T37	morphologie 2963 2973	métastases
+T39	morphologie 3305 3310	masse
+T40	morphologie 3369 3375	lésion
+T43	morphologie 3417 3426	carcinome
+T87	morphologie 3438 3471	neuroendocrine à petites cellules
+T45	topographie 3427 3437	pulmonaire
+T47	morphologie 3473 3495	carcinome microcytaire
+T48	morphologie 3563 3585	carcinome microcytaire
+T50	topographie 3589 3595	poumon
+T52	morphologie 3597 3612	maladie étendue
+T53	morphologie 3618 3626	atteinte
+T55	topographie 3627 3644	supraclaviculaire
+T56	morphologie 3872 3878	lésion
+T58	topographie 3879 3886	hilaire
+T59	morphologie 3953 3962	carcinome
+T88	morphologie 3974 3986	microcytaire
+T61	topographie 3963 3973	pulmonaire
+T62	morphologie 4717 4722	masse
+T64	topographie 4723 4735	médiastinale
+T65	morphologie 4832 4840	atteinte
+T89	morphologie 4855 4867	métastatique
+T67	topographie 4841 4854	ganglionnaire
+T68	morphologie 4901 4907	lésion
+T90	morphologie 4925 4941	hypermétabolique
+T70	topographie 4908 4924	rétropéritonéale
+T72	morphologie 4956 4966	métastases
+T73	morphologie 5745 5750	masse
+T75	topographie 5751 5763	médiastinale
+T76	topographie 5767 5774	hilaire
+T77	morphologie 6034 6041	nodules
+T79	topographie 6042 6053	pulmonaires
+T81	morphologie 6239 6246	nodules
+T82	morphologie 6291 6296	foyer
+T84	topographie 6322 6338	lobes inférieurs

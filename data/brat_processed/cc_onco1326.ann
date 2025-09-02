@@ -1,0 +1,43 @@
+T1	morphologie 315 326	adénopathie
+T4	morphologie 620 626	nodule
+T6	topographie 627 637	pulmonaire
+T7	morphologie 700 706	nodule
+T9	topographie 707 717	pulmonaire
+T64	topographie 726 747	lobe supérieur gauche
+T10	topographie 749 752	LSI
+T12	morphologie 767 776	néoplasie
+T13	morphologie 856 868	adénopathies
+T15	topographie 869 882	médiastinales
+T16	topographie 886 894	hilaires
+T17	morphologie 912 917	masse
+T19	topographie 993 996	LSI
+T21	morphologie 1011 1039	carcinome à petites cellules
+T22	morphologie 1138 1143	masse
+T65	morphologie 1156 1172	hypermétabolique
+T24	topographie 1152 1155	LSI
+T26	morphologie 1193 1202	néoplasie
+T27	morphologie 1214 1221	nodules
+T31	morphologie 1268 1278	métastases
+T32	morphologie 1280 1291	Adénopathie
+T34	topographie 1292 1299	hilaire
+T36	morphologie 1337 1351	tumeur maligne
+T37	morphologie 1369 1375	lésion
+T41	morphologie 1455 1465	métastases
+T42	morphologie 1555 1564	Carcinome
+T66	morphologie 1576 1594	à petites cellules
+T44	topographie 1565 1575	pulmonaire
+T46	morphologie 1598 1606	stade IV
+T47	morphologie 1612 1625	dissémination
+T49	topographie 1626 1636	pulmonaire
+T50	topographie 1648 1671	système nerveux central
+T52	morphologie 2365 2372	sarcome
+T54	morphologie 2522 2529	sarcome
+T56	morphologie 2665 2671	lésion
+T58	morphologie 2936 2942	tumeur
+T60	morphologie 2953 2962	métastase
+T61	morphologie 2968 2990	carcinome microcytaire
+T63	topographie 3001 3011	pulmonaire
+T3	topographie 327 343	latéro-cervicale
+T39	topographie 1413 1434	pédoncule cérébelleux
+T29	topographie 1222 1233	pulmonaires
+T67	topographie 1242 1245	LSI

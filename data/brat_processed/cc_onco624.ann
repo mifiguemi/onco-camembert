@@ -1,0 +1,36 @@
+T54	topographie 5138 5155	paroi intestinale
+T24	topographie 2312 2321	présacrés
+T3	topographie 899 905	rectal
+T2	morphologie 867 872	masse
+T5	morphologie 911 916	masse
+T6	morphologie 1325 1331	lésion
+T8	topographie 1367 1373	rectum
+T10	morphologie 1507 1532	adénocarcinome infiltrant
+T12	morphologie 1534 1537	ADC
+T14	morphologie 1925 1931	foyers
+T15	morphologie 1958 1970	infiltration
+T17	topographie 1991 1998	graisse
+T19	morphologie 2087 2099	infiltration
+T21	morphologie 2234 2258	infiltration néoplasique
+T22	morphologie 2289 2311	ganglions lymphatiques
+T26	morphologie 2525 2538	M1 à distance
+T27	morphologie 2552 2555	ADC
+T29	topographie 2574 2580	rectum
+T31	morphologie 3680 3689	néoplasme
+T32	morphologie 3747 3756	néoplasie
+T34	topographie 3764 3770	rectum
+T35	morphologie 4080 4092	infiltration
+T38	morphologie 4435 4460	formations ganglionnaires
+T40	topographie 4461 4478	rétropéritonéales
+T42	morphologie 4639 4648	malignité
+T44	topographie 4658 4697	ganglions lymphatiques rétropéritonéaux
+T45	morphologie 4785 4794	néoplasme
+T47	topographie 4802 4808	rectum
+T48	morphologie 5073 5076	ADC
+T50	topographie 5084 5090	rectum
+T51	differenciation 5092 5108	bien différencié
+T52	morphologie 5119 5131	infiltration
+T55	morphologie 5202 5210	invasion
+T57	topographie 5211 5221	vasculaire
+T41	topographie 4520 4540	région para-aortique
+T37	topographie 4103 4125	sphincter anal externe

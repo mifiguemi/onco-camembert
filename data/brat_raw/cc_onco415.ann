@@ -1,0 +1,157 @@
+T1	expression_CIM 631 638	lésions
+T2	morphologie 631 638	lésions
+T3	morphologie 744 774	carcinome canalaire infiltrant
+T4	expression_CIM 744 782	carcinome canalaire infiltrant du sein
+T5	topographie 778 782	sein
+T6	morphologie 1237 1253	lésion nodulaire
+T7	expression_CIM 1237 1266	lésion nodulaire dans le sein
+T8	topographie 1262 1266	sein
+T9	morphologie 1389 1400	Adénopathie
+T10	expression_CIM 1389 1416	Adénopathie dans l'aisselle
+T11	topographie 1408 1416	aisselle
+T12	morphologie 1481 1492	adénopathie
+T13	expression_CIM 1481 1522	adénopathie cervicale ou sus-claviculaire
+T14	topographie 1493 1502	cervicale
+T15	topographie 1506 1522	sus-claviculaire
+T16	topographie 1657 1688	quadrant supéro-externe du sein
+T17	expression_CIM 1657 1809	quadrant supéro-externe du sein gauche, il existe une zone de plus grande densité radiologique, spiculée, mesurant jusqu'à 6 cm, évocatrice de malignité
+T18	morphologie 1711 1751;1786 1809	zone de plus grande densité radiologique évocatrice de malignité
+T19	expression_CIM 1870 1882	adénopathies
+T20	morphologie 1870 1882	adénopathies
+T21	morphologie 1962 1992	carcinome canalaire infiltrant
+T22	expression_CIM 1962 2036	carcinome canalaire infiltrant, grade I de la classification de Nottingham
+T23	differenciation 1994 2036	grade I de la classification de Nottingham
+T24	morphologie 2221 2240	lésion ostéolytique
+T25	expression_CIM 2221 2286	lésion ostéolytique au niveau du pédicule et de l'hémicorps de L5
+T26	topographie 2254 2286	pédicule et de l'hémicorps de L5
+T27	morphologie 2300 2306	lésion
+T28	expression_CIM 2300 2360	lésion de caractéristiques similaires dans l'hémicorps de D9
+T29	topographie 2358 2360	D9
+T30	expression_CIM 2389 2399	métastases
+T31	morphologie 2389 2399	métastases
+T32	morphologie 2417 2424	lésions
+T33	expression_CIM 2417 2460	lésions suspectes dans le foie, les poumons
+T34	topographie 2443 2447	foie
+T35	topographie 2453 2460	poumons
+T36	expression_CIM 2508 2520	adénopathies
+T37	morphologie 2508 2520	adénopathies
+T38	morphologie 2675 2682	lésions
+T39	expression_CIM 2675 2693	lésions hépatiques
+T40	topographie 2683 2693	hépatiques
+T41	expression_CIM 2726 2736	métastases
+T42	morphologie 2726 2736	métastases
+T43	morphologie 2929 2936;2946 2959	lésions métastatiques
+T44	expression_CIM 2929 2959	lésions osseuses métastatiques
+T45	topographie 2937 2945	osseuses
+T46	morphologie 2973 3003	Carcinome canalaire infiltrant
+T47	expression_CIM 2973 3011	Carcinome canalaire infiltrant du sein
+T48	topographie 3007 3011	sein
+T49	morphologie 4487 4493;4559 4581	lésion évoquant une métastase
+T50	expression_CIM 4487 4581	lésion ostéolytique dans le pédicule et l'hémicorps gauche de L5 et D9, évoquant une métastase
+T52	morphologie 4712 4744	foyers de captation pathologique
+T53	expression_CIM 4712 4793	foyers de captation pathologique au niveau de plusieurs arcs costaux et du pelvis
+T54	topographie 4768 4780	arcs costaux
+T55	topographie 4787 4793	pelvis
+T56	morphologie 4877 4883	cancer
+T57	expression_CIM 4877 4891	cancer du sein
+T58	topographie 4887 4891	sein
+T59	morphologie 5150 5159	progressé
+T60	expression_CIM 5150 5204	progressé, cette fois au niveau du foie et des poumons
+T61	topographie 5185 5189	foie
+T62	topographie 5197 5204	poumons
+T63	morphologie 5215 5222	lésions
+T64	expression_CIM 5215 5231	lésions osseuses
+T65	topographie 5223 5231	osseuses
+T66	expression_CIM 5653 5678	progression de la maladie
+T67	morphologie 5653 5678	progression de la maladie
+T68	morphologie 6009 6034	persistance de la maladie
+T69	expression_CIM 6009 6049	persistance de la maladie dans le sacrum
+T70	topographie 6043 6049	sacrum
+T71	morphologie 6075 6082	lésions
+T72	expression_CIM 6075 6108	lésions hépatiques et pulmonaires
+T73	topographie 6083 6093	hépatiques
+T74	topographie 6097 6108	pulmonaires
+T75	morphologie 6665 6676	progression
+T76	expression_CIM 6665 6697	progression hépatique et osseuse
+T77	topographie 6677 6686	hépatique
+T78	topographie 6690 6697	osseuse
+T79	morphologie 8127 8134	lésions
+T80	expression_CIM 8127 8145	lésions hépatiques
+T81	topographie 8135 8145	hépatiques
+T51	topographie 4515 4557	pédicule et l'hémicorps gauche de L5 et D9
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8500/3
+#4	ICD-O T4	C50.9 8500/3
+#5	ICD-O T5	C50.9
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C50.9 8000/1
+#8	ICD-O T8	C50.9
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C77.3 8000/1
+#11	ICD-O T11	C76.1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.0 8000/1
+#14	ICD-O T14	C76.0
+#15	ICD-O T15	C76.0
+#16	ICD-O T16	C50.4
+#17	ICD-O T18	8000/3
+#18	ICD-O T19	C77.9 8000/1
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8500/3
+#21	ICD-O T22	8500/31
+#22	ICD-O T23	1
+#23	ICD-O T24	tocheck
+#24	ICD-O T25	C41.2 8000/1
+#25	ICD-O T26	C41.2
+#26	ICD-O T27	8000/1
+#27	ICD-O T29	C41.2
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	C22.0 8000/1;C34.9 8000/1
+#32	ICD-O T34	C22.0
+#33	ICD-O T35	C34.9
+#34	ICD-O T36	C77.9 8000/1
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	C22.0 8000/1
+#38	ICD-O T40	C22.0
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	8000/6
+#42	ICD-O T44	C41.9 8000/6
+#43	ICD-O T45	C41.9
+#44	ICD-O T46	8500/3
+#45	ICD-O T47	C50.9 8500/3
+#46	ICD-O T48	C50.9
+#47	ICD-O T49	8000/6
+#48	ICD-O T52	8000/9
+#49	ICD-O T54	C41.3
+#50	ICD-O T55	C76.3 
+#51	ICD-O T56	8000/3
+#52	ICD-O T57	C50.9 8000/3
+#53	ICD-O T58	C50.9
+#54	ICD-O T59	8000/6
+#55	ICD-O T60	C22.0 8000/6;C34.9 8000/6
+#56	ICD-O T61	C22.0
+#57	ICD-O T62	C34.9
+#58	ICD-O T63	8000/1
+#59	ICD-O T64	C41.9 8000/1
+#60	ICD-O T65	C41.9
+#61	ICD-O T66	8000/1
+#62	ICD-O T67	8000/1
+#63	ICD-O T68	8000/3
+#64	ICD-O T69	C41.4 8000/3
+#65	ICD-O T70	C41.4
+#66	ICD-O T71	8000/1
+#67	ICD-O T72	C22.0 8000/1;C34.9 8000/1
+#68	ICD-O T73	C22.0
+#69	ICD-O T74	C34.9
+#70	ICD-O T75	8000/6
+#71	ICD-O T76	C22.0 8000/6;C41.9 8000/6
+#72	ICD-O T77	C22.0
+#73	ICD-O T78	C41.9
+#74	ICD-O T79	8000/1
+#75	ICD-O T80	C22.0 8000/1
+#76	ICD-O T81	C22.0

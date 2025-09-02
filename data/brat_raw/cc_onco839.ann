@@ -1,0 +1,25 @@
+T1	expression_CIM 1012 1035	tumeurs neuroendocrines
+T2	morphologie 1012 1035	tumeurs neuroendocrines
+T3	differenciation 1158 1160	G3
+T4	expression_CIM 1158 1198	G3 NEC (ki-67 : 90 %) de stade IV cardia
+T5	morphologie 1161 1164	NEC
+T6	expression_CIM 1183 1191	stade IV
+T7	morphologie 1183 1191	stade IV
+T8	topographie 1192 1198	cardia
+T9	expression_CIM 1205 1229	atteinte multisystémique
+T10	morphologie 1205 1229	atteinte multisystémique
+T11	morphologie 1505 1513	atteinte
+T12	expression_CIM 1505 1523	atteinte hépatique
+T13	topographie 1514 1523	hépatique
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/3
+#3	ICD-O T3	3
+#4	ICD-O T5	tocheck
+#5	ICD-O T6	8000/6
+#6	ICD-O T7	8000/6
+#7	ICD-O T8	C16.0
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/9
+#11	ICD-O T12	C22.0 8000/1
+#12	ICD-O T13	C22.0

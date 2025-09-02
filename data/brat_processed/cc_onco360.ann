@@ -1,0 +1,78 @@
+T72	topographie 3774 3799	cavité crânienne frontale
+T68	topographie 3568 3594	fosse crânienne antérieure
+T1	morphologie 195 204	néoplasie
+T3	topographie 208 213	côlon
+T4	morphologie 576 588	adénopathies
+T6	topographie 642 657	submandibulaire
+T7	morphologie 718 729	Adénopathie
+T9	topographie 730 745	latérocervicale
+T10	morphologie 796 807	Adénopathie
+T12	topographie 808 824	sus-claviculaire
+T14	morphologie 918 924	lésion
+T15	morphologie 1417 1429	Adénopathies
+T17	topographie 1452 1469	rétro-auriculaire
+T18	topographie 1471 1482	sous-mental
+T19	topographie 1490 1506	chaîne jugulaire
+T20	topographie 1508 1524	sus-claviculaire
+T21	topographie 1526 1537	médiastinal
+T22	topographie 1539 1552	para-aortique
+T23	topographie 1556 1568	paratrachéal
+T24	morphologie 1610 1616	Tumeur
+T26	topographie 1633 1645	fosse nasale
+T27	morphologie 1709 1717	atteinte
+T29	topographie 1718 1725	osseuse
+T30	morphologie 1984 2001	invasion tumorale
+T32	topographie 2002 2016	intracrânienne
+T34	morphologie 2190 2196	tumeur
+T36	morphologie 2303 2312	métastase
+T37	morphologie 2319 2330	adénopathie
+T39	topographie 2331 2340	cervicale
+T40	morphologie 2385 2391	tumeur
+T42	differenciation 2392 2408	peu différenciée
+T43	morphologie 2428 2449	esthésioneuroblastome
+T45	differenciation 2453 2463	haut grade
+T46	morphologie 2614 2620	tumeur
+T48	topographie 2627 2633	narine
+T49	morphologie 2647 2668	Esthésioneuroblastome
+T51	differenciation 2670 2709	Classification de Hyams de grade III/IV
+T53	morphologie 2847 2868	esthésioneuroblastome
+T54	morphologie 2912 2920	invasion
+T56	topographie 2921 2930	cérébrale
+T57	morphologie 2937 2949	adénopathies
+T59	topographie 2950 2960	cervicales
+T60	morphologie 2967 2975	atteinte
+T62	topographie 2990 2999	hypophyse
+T64	morphologie 3002 3010	Stade IV
+T65	morphologie 3523 3531	atteinte
+T112	morphologie 3540 3548	tumorale
+T67	topographie 3532 3539	osseuse
+T69	morphologie 3731 3750	composante tumorale
+T71	topographie 3751 3765	intracrânienne
+T74	morphologie 4128 4143	tumeur primaire
+T76	morphologie 4258 4266	récidive
+T77	morphologie 4320 4337	Récidive tumorale
+T79	topographie 4362 4374	fosse nasale
+T80	topographie 4380 4400	cellules ethmoïdales
+T81	morphologie 4437 4449	infiltration
+T83	topographie 4477 4483	orbite
+T84	topographie 4485 4501	sinus maxillaire
+T85	topographie 4547 4558	nasopharynx
+T86	morphologie 4563 4572	extension
+T88	topographie 4573 4587	intracrânienne
+T89	morphologie 4593 4605	infiltration
+T91	topographie 4629 4641	lobe frontal
+T92	morphologie 4650 4657	Lésions
+T94	topographie 4658 4666	osseuses
+T95	topographie 4685 4702	calotte crânienne
+T96	topographie 4707 4729	colonne dorso-lombaire
+T97	topographie 4733 4741	omoplate
+T98	topographie 4782 4794	arcs costaux
+T99	topographie 4805 4815	os iliaque
+T100	topographie 4836 4848	col du fémur
+T101	topographie 4862 4869	ischion
+T102	topographie 4883 4899	branche pubienne
+T104	morphologie 4928 4949	atteinte métastatique
+T106	morphologie 5038 5053	tumeur primaire
+T107	topographie 5426 5436	cérébrales
+T109	morphologie 5437 5439	M1
+T111	morphologie 5662 5687	conglomérat adénopathique

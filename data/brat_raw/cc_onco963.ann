@@ -1,0 +1,112 @@
+T3	topographie 322 326	côté
+T9	topographie 949 953	côté
+T28	topographie 2044 2048	côté
+T63	topographie 3972 3988	région axillaire
+T61	topographie 3912 3946	région supérieure gauche du thorax
+T25	topographie 1918 1941	tissus mous sur le côté
+T1	morphologie 312 318	lésion
+T2	expression_CIM 312 326	lésion du côté
+T4	morphologie 524 538	mélanome malin
+T5	expression_CIM 524 560	mélanome malin de grade III de Clark
+T6	differenciation 539 560	de grade III de Clark
+T7	morphologie 935 941	lésion
+T8	expression_CIM 935 953	lésion sur le côté
+T10	expression_CIM 1125 1143	maladie à distance
+T11	morphologie 1125 1143	maladie à distance
+T12	morphologie 1175 1189	mélanome malin
+T13	expression_CIM 1175 1198	mélanome malin au flanc
+T14	topographie 1193 1198	flanc
+T15	morphologie 1652 1663	adénopathie
+T16	expression_CIM 1652 1673	adénopathie axillaire
+T17	topographie 1664 1673	axillaire
+T18	expression_CIM 1721 1729	mélanome
+T19	morphologie 1721 1729	mélanome
+T20	morphologie 1841 1848	maladie
+T21	expression_CIM 1841 1891	maladie dans les ganglions lymphatiques axillaires
+T22	topographie 1858 1891	ganglions lymphatiques axillaires
+T23	morphologie 1907 1913	lésion
+T24	expression_CIM 1907 1941	lésion des tissus mous sur le côté
+T26	morphologie 2030 2036	nodule
+T27	expression_CIM 2030 2048	nodule sur le côté
+T29	morphologie 2210 2218	récidive
+T30	expression_CIM 2210 2228	récidive axillaire
+T31	topographie 2219 2228	axillaire
+T32	morphologie 2244 2251	nodules
+T33	expression_CIM 2244 2311	nodules sous-cutanés ont également été découverts dans l'hémithorax
+T34	topographie 2252 2264	sous-cutanés
+T35	topographie 2301 2311	hémithorax
+T36	morphologie 2334 2344	métastases
+T37	expression_CIM 2334 2392	métastases osseuses (7e arc costal, D11, 12, L3 et iliaque
+T38	topographie 2345 2353	osseuses
+T39	topographie 2358 2368	arc costal
+T40	topographie 2370 2377	D11, 12
+T41	topographie 2379 2381	L3
+T42	topographie 2385 2392	iliaque
+T43	morphologie 3588 3597	récidives
+T44	expression_CIM 3588 3622	récidives nodulaires sous-cutanées
+T45	topographie 3609 3622	sous-cutanées
+T46	morphologie 3722 3728	nodule
+T47	expression_CIM 3722 3760	nodule crânien dans la capsule interne
+T48	topographie 3729 3736	crânien
+T49	topographie 3745 3760	capsule interne
+T50	morphologie 3766 3776	métastases
+T51	expression_CIM 3766 3788	métastases pulmonaires
+T52	topographie 3777 3788	pulmonaires
+T53	morphologie 3803 3813	métastases
+T54	expression_CIM 3803 3824	métastases hépatiques
+T55	topographie 3814 3824	hépatiques
+T56	morphologie 3830 3849	métastases lytiques
+T57	expression_CIM 3830 3858	métastases lytiques osseuses
+T58	topographie 3850 3858	osseuses
+T59	morphologie 3883 3890	nodules
+T60	expression_CIM 3883 3988	nodules sous-cutanés dans la région supérieure gauche du thorax, le tissu mammaire et la région axillaire
+T62	topographie 3951 3965	tissu mammaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8720/3
+#3	ICD-O T6	tocheck
+#4	ICD-O T7	8000/1
+#5	ICD-O T10	8000/6
+#6	ICD-O T11	8000/6
+#7	ICD-O T12	8720/3
+#8	ICD-O T13	C76.7 8720/3
+#9	ICD-O T14	C41.3
+#10	ICD-O T15	8000/1
+#11	ICD-O T16	C77.3 8000/1
+#12	ICD-O T17	C76.1
+#13	ICD-O T18	8720/3
+#14	ICD-O T19	8720/3
+#15	ICD-O T20	8000/9
+#16	ICD-O T22	C77.3
+#17	ICD-O T23	8000/1
+#18	ICD-O T26	8000/1
+#19	ICD-O T29	8000/9
+#20	ICD-O T30	C76.1 8000/6
+#21	ICD-O T31	C76.1
+#22	ICD-O T32	8000/1
+#23	ICD-O T34	C49.9
+#24	ICD-O T35	C76.1
+#25	ICD-O T36	8000/6
+#26	ICD-O T37	C41.2 8000/6;C41.3 8000/6;C41.4 8000/6;C41.9 8000/6
+#27	ICD-O T38	C41.9
+#28	ICD-O T39	C41.3
+#29	ICD-O T40	C41.2
+#30	ICD-O T41	C41.2
+#31	ICD-O T42	C41.4
+#32	ICD-O T43	8000/9
+#33	ICD-O T44	C49.9 8000/6
+#34	ICD-O T45	C49.9
+#35	ICD-O T46	8000/1
+#36	ICD-O T47	C41.0 8000/1;C71.0 8000/1
+#37	ICD-O T48	C41.0
+#38	ICD-O T49	C71.0
+#39	ICD-O T50	8000/6
+#40	ICD-O T51	C34.9 8000/6
+#41	ICD-O T52	C34.9
+#42	ICD-O T53	8000/6
+#43	ICD-O T55	C22.0
+#44	ICD-O T56	8000/6
+#45	ICD-O T57	C41.9 8000/6
+#46	ICD-O T58	C41.9
+#47	ICD-O T59	8000/1
+#48	ICD-O T60	C49.3 8000/1;C49.9 8000/1;C76.1 8000/1
+#49	ICD-O T62	C49.3

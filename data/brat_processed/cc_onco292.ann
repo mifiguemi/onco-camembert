@@ -1,0 +1,51 @@
+T59	topographie 3463 3502	ligne interquadrantique interne du sein
+T1	morphologie 84 93	métastase
+T3	topographie 98 131	ganglions lymphatiques axillaires
+T4	morphologie 141 150	carcinome
+T6	topographie 151 159	mammaire
+T7	morphologie 289 295	cancer
+T9	topographie 299 303	sein
+T10	morphologie 992 998	cancer
+T12	topographie 1002 1006	sein
+T13	topographie 1015 1021	ovaire
+T15	morphologie 1035 1042	tumeurs
+T16	morphologie 1119 1125	nodule
+T18	topographie 1126 1135	axillaire
+T20	morphologie 1470 1477	nodules
+T21	morphologie 1498 1509	adénopathie
+T25	morphologie 1620 1631	adénopathie
+T26	morphologie 2048 2054	tumeur
+T30	morphologie 2101 2130	lymphadénopathie pathologique
+T31	morphologie 2228 2239	adénopathie
+T33	topographie 2240 2249	axillaire
+T35	morphologie 2266 2288	carcinome métastatique
+T37	morphologie 2334 2340	nodule
+T38	morphologie 2746 2752	nodule
+T40	topographie 2756 2760	sein
+T41	morphologie 2890 2896	nodule
+T43	topographie 3010 3014	sein
+T44	morphologie 3036 3042	kystes
+T46	topographie 3043 3052	mammaires
+T47	morphologie 3091 3106	tumeur primaire
+T49	topographie 3110 3114	sein
+T50	morphologie 3151 3157	nodule
+T52	topographie 3161 3165	sein
+T54	morphologie 3247 3254	lésions
+T56	morphologie 3379 3386	lésions
+T57	morphologie 3440 3446	nodule
+T61	morphologie 3975 3987	adénopathies
+T63	topographie 3988 3998	axillaires
+T65	morphologie 4157 4166	métastase
+T66	morphologie 4534 4545	adénopathie
+T68	topographie 4546 4555	axillaire
+T69	morphologie 4925 4934	carcinome
+T71	topographie 4945 4953	mammaire
+T72	morphologie 5234 5243	carcinome
+T74	topographie 5244 5252	mammaire
+T75	morphologie 5424 5432	atteinte
+T77	morphologie 5745 5753	atteinte
+T79	topographie 5754 5763	axillaire
+T81	morphologie 5841 5847	tumeur
+T23	topographie 1571 1587	région axillaire
+T28	topographie 2072 2088	région axillaire
+T60	topographie 3545 3566	région rétroaréolaire

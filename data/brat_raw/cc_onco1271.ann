@@ -1,0 +1,53 @@
+T1	morphologie 173 183	induration
+T2	expression_CIM 173 191	induration du sein
+T3	topographie 187 191	sein
+T4	expression_CIM 776 791	tumeur phyllode
+T5	morphologie 776 791	tumeur phyllode
+T6	morphologie 1055 1067	angiosarcome
+T7	expression_CIM 1055 1081	angiosarcome de haut grade
+T8	differenciation 1071 1081	haut grade
+T9	expression_CIM 1359 1365	tumeur
+T10	morphologie 1359 1365	tumeur
+T11	expression_CIM 1472 1483	adénopathie
+T12	morphologie 1472 1483	adénopathie
+T13	expression_CIM 1613 1619	tumeur
+T14	morphologie 1613 1619	tumeur
+T15	morphologie 2054 2063	métastase
+T16	expression_CIM 2054 2091	métastase dans le segment VII du foie
+T17	topographie 2087 2091	foie
+T18	morphologie 2171 2178	lésions
+T19	expression_CIM 2171 2189	lésions hépatiques
+T20	topographie 2179 2189	hépatiques
+T21	expression_CIM 2210 2221	hémangiomes
+T22	morphologie 2210 2221	hémangiomes
+T23	morphologie 2348 2369	Angiosarcome primaire
+T24	expression_CIM 2348 2377	Angiosarcome primaire du sein
+T25	topographie 2373 2377	sein
+T26	expression_CIM 2599 2605	tumeur
+T27	morphologie 2599 2605	tumeur
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C50.9
+#3	ICD-O T4	9020/1
+#4	ICD-O T5	9020/1
+#5	ICD-O T6	9120/3
+#6	ICD-O T7	9120/34
+#7	ICD-O T8	4
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C77.9 8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	C22.0 8000/6
+#16	ICD-O T17	C22.0
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	C22.0 8000/1
+#19	ICD-O T20	C22.0
+#20	ICD-O T21	9120/0
+#21	ICD-O T22	9120/0
+#22	ICD-O T23	9120/3
+#23	ICD-O T24	C50.9 9120/3
+#24	ICD-O T25	C50.9
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	8000/1

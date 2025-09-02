@@ -1,0 +1,32 @@
+T1	topographie 615 633	colonne vertébrale
+T3	morphologie 647 662	lésion de blast
+T4	morphologie 721 727	lésion
+T6	topographie 745 766	corps vertébral de L2
+T7	morphologie 777 782	masse
+T9	topographie 786 820	tissus mous pré- et paravertébraux
+T10	morphologie 828 837	extension
+T12	topographie 855 860	psoas
+T13	morphologie 881 891	occupation
+T15	topographie 896 923	foramina au niveau de L1-L3
+T17	morphologie 1126 1132	lésion
+T18	morphologie 1277 1303	ostéosarcome conventionnel
+T20	differenciation 1307 1317	haut grade
+T21	topographie 1334 1360	deuxième vertèbre lombaire
+T23	morphologie 2347 2353	lésion
+T25	morphologie 2949 2961	ostéosarcome
+T26	morphologie 3052 3078	ostéosarcome conventionnel
+T28	differenciation 3082 3092	haut grade
+T29	morphologie 3267 3275	invasion
+T31	topographie 3276 3292	angiolymphatique
+T32	morphologie 3741 3758	récidive tumorale
+T36	morphologie 3812 3818	tumeur
+T38	morphologie 3874 3880	tumeur
+T39	morphologie 3975 3982	maladie
+T41	topographie 3993 4004	médiastinal
+T43	morphologie 4473 4479	tumeur
+T45	morphologie 4792 4798	tumeur
+T46	morphologie 5075 5100	progression de la maladie
+T48	topographie 5101 5113	médiastinale
+T50	morphologie 5205 5230	progression de la maladie
+T52	morphologie 5305 5311	tumeur
+T34	topographie 3776 3779	T12

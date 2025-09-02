@@ -1,0 +1,47 @@
+T1	morphologie 54 60	cancer
+T2	expression_CIM 54 68	cancer du sein
+T3	topographie 64 68	sein
+T4	morphologie 233 268	carcinome canalaire infiltrant (CDI
+T5	expression_CIM 233 277	carcinome canalaire infiltrant (CDI) du sein
+T6	topographie 273 277	sein
+T7	morphologie 495 502	lésions
+T8	expression_CIM 495 511	lésions cutanées
+T9	topographie 503 511	cutanées
+T10	expression_CIM 877 884	lésions
+T11	morphologie 877 884	lésions
+T12	expression_CIM 1026 1033	lésions
+T13	morphologie 1026 1033	lésions
+T14	morphologie 1340 1347	lésions
+T15	expression_CIM 1340 1356	lésions cutanées
+T16	topographie 1348 1356	cutanées
+T17	morphologie 2013 2020	lésions
+T18	expression_CIM 2013 2029	lésions cutanées
+T19	topographie 2021 2029	cutanées
+T20	expression_CIM 2135 2142	lésions
+T21	morphologie 2135 2142	lésions
+T22	expression_CIM 2323 2342	maladie néoplasique
+T23	morphologie 2323 2342	maladie néoplasique
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8500/3
+#5	ICD-O T5	C50.9 8500/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C44.9 8000/1
+#9	ICD-O T9	C44.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C44.9 8000/1
+#16	ICD-O T16	C44.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C44.9 8000/1
+#19	ICD-O T19	C44.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/3
+#23	ICD-O T23	8000/3
+#24	AnnotatorNotes T4	trad

@@ -1,0 +1,64 @@
+T1	morphologie 140 146	nodule
+T2	expression_CIM 140 163	nodule palpable au sein
+T3	topographie 159 163	sein
+T4	morphologie 516 525	carcinome
+T5	expression_CIM 516 534	carcinome mammaire
+T6	topographie 526 534	mammaire
+T7	morphologie 828 834	nodule
+T8	expression_CIM 828 917	nodule solide d'environ 4 cm était palpable dans le quadrant supéro-externe droit du sein
+T9	topographie 880 917	quadrant supéro-externe droit du sein
+T10	expression_CIM 1080 1086	nodule
+T11	morphologie 1080 1086	nodule
+T12	expression_CIM 1318 1354	tumeur maligne à cellules fusiformes
+T13	morphologie 1318 1354	tumeur maligne à cellules fusiformes
+T14	expression_CIM 1433 1447	léiomyosarcome
+T15	morphologie 1433 1447	léiomyosarcome
+T16	morphologie 1615 1622	adénome
+T17	expression_CIM 1615 1634	adénome surrénalien
+T18	topographie 1623 1634	surrénalien
+T19	morphologie 1726 1733;1743 1759	lésions occupantes (LOE)
+T20	expression_CIM 1726 1759	lésions utérines occupantes (LOE)
+T21	topographie 1734 1742	utérines
+T22	morphologie 2032 2046	léiomyosarcome
+T23	expression_CIM 2032 2054	léiomyosarcome du sein
+T24	topographie 2050 2054	sein
+T25	expression_CIM 2089 2105	maladie tumorale
+T26	morphologie 2089 2105	maladie tumorale
+T27	morphologie 2187 2201	léiomyosarcome
+T28	expression_CIM 2187 2218	léiomyosarcome localisé du sein
+T29	topographie 2214 2218	sein
+T30	morphologie 2341 2355	léiomyosarcome
+T31	expression_CIM 2341 2369	léiomyosarcome de haut grade
+T32	differenciation 2359 2369	haut grade
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C50.9 8010/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C50.4 8000/1;C50.9 8000/1
+#9	ICD-O T9	C50.4
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8004/3
+#13	ICD-O T13	8004/3
+#14	ICD-O T14	8890/3
+#15	ICD-O T15	8890/3
+#16	ICD-O T16	8140/0
+#17	ICD-O T17	C74.9 8140/0
+#18	ICD-O T18	C74.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T21	C55.9
+#21	ICD-O T22	8890/3
+#22	ICD-O T23	C50.9 8890/3
+#23	ICD-O T24	C50.9
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	8000/3
+#26	ICD-O T27	8890/3
+#27	ICD-O T28	C50.9 8890/3
+#28	ICD-O T29	C50.9
+#29	ICD-O T30	8890/3
+#30	ICD-O T31	8890/34
+#31	ICD-O T32	4
+#32	AnnotatorNotes T19	trad

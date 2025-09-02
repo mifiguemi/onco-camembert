@@ -1,0 +1,31 @@
+T20	topographie 1401 1410	squelette
+T1	morphologie 304 318	adénocarcinome
+T3	differenciation 319 338	de Gleason 8 (3 + 5
+T5	morphologie 466 486	métastase à distance
+T6	morphologie 584 598	adénocarcinome
+T8	topographie 599 610	prostatique
+T9	differenciation 611 630	de Gleason 8 (3 + 5
+T10	morphologie 789 797	invasion
+T12	topographie 798 809	périneurale
+T13	morphologie 1275 1287	adénopathies
+T15	topographie 1288 1298	cervicales
+T16	topographie 1300 1313	médiastinales
+T17	topographie 1317 1334	rétropéritonéales
+T18	morphologie 1359 1374	images de blast
+T22	morphologie 1432 1442	métastases
+T24	morphologie 2079 2106	stabilisation de la maladie
+T26	morphologie 2209 2229	maladie métastatique
+T27	morphologie 3812 3819	maladie
+T29	topographie 3820 3827	osseuse
+T31	morphologie 4919 4937	cellules tumorales
+T32	morphologie 5108 5120	infiltration
+T34	topographie 5127 5141	moelle osseuse
+T35	morphologie 5149 5158	carcinome
+T48	morphologie 5174 5206	à différenciation neuroendocrine
+T37	topographie 5165 5173	prostate
+T38	morphologie 5504 5511	maladie
+T40	topographie 5512 5519	osseuse
+T41	morphologie 5549 5557	atteinte
+T43	topographie 5582 5597	squelette axial
+T45	morphologie 6348 6358	métastases
+T47	morphologie 6493 6513	maladie métastatique

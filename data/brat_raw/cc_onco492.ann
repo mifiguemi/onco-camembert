@@ -1,0 +1,35 @@
+T1	expression_CIM 502 507	masse
+T2	morphologie 502 507	masse
+T4	expression_CIM 1040 1125	tumeur carcinoïde à cellules gobétiques, située dans le tiers proximal de l'appendice
+T6	expression_CIM 1130 1136	tumeur
+T7	morphologie 1130 1136	tumeur
+T8	morphologie 1267 1275	invasion
+T9	expression_CIM 1267 1309	invasion vasculolymphatique ou périneurale
+T10	topographie 1276 1294	vasculolymphatique
+T11	topographie 1298 1309	périneurale
+T12	expression_CIM 1681 1705	infiltration néoplasique
+T13	morphologie 1681 1705	infiltration néoplasique
+T14	expression_CIM 2018 2024	tumeur
+T15	morphologie 2018 2024	tumeur
+T16	morphologie 2124 2138	adénocarcinome
+T17	expression_CIM 2124 2147	adénocarcinome du côlon
+T18	topographie 2142 2147	côlon
+T3	morphologie 1040 1079	tumeur carcinoïde à cellules gobétiques
+T5	topographie 1096 1125	tiers proximal de l'appendice
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T6	8000/1
+#4	ICD-O T7	8000/3
+#5	ICD-O T8	8000/9
+#6	ICD-O T9	C47.9 8000/1;C49.9 8000/1
+#7	ICD-O T10	C49.9
+#8	ICD-O T11	C47.9
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	8000/9
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	8000/3
+#13	ICD-O T16	8140/3
+#14	ICD-O T17	C18.9 8140/3
+#15	ICD-O T18	C18.9
+#16	ICD-O T3	8243/3
+#17	AnnotatorNotes T3	trad

@@ -1,0 +1,95 @@
+T1	morphologie 105 130	tumeur à cellules géantes
+T2	expression_CIM 105 138	tumeur à cellules géantes de l'os
+T3	topographie 136 138	os
+T4	morphologie 144 152	invasion
+T5	expression_CIM 144 168	invasion des tissus mous
+T6	topographie 157 168	tissus mous
+T7	expression_CIM 298 304	lésion
+T8	morphologie 298 304	lésion
+T9	morphologie 376 397	atteinte métastatique
+T10	expression_CIM 376 424	atteinte métastatique des structures thoraciques
+T12	expression_CIM 659 667	récidive
+T13	morphologie 659 667	récidive
+T14	morphologie 946 952	masses
+T15	expression_CIM 946 967	masses de tissus mous
+T16	topographie 956 967	tissus mous
+T17	morphologie 1268 1273;1320 1342	image évoquant une métastase
+T18	expression_CIM 1268 1342	image dans le tiers inférieur de l'hémithorax droit évoquant une métastase
+T20	expression_CIM 1979 1985	masses
+T21	morphologie 1979 1985	masses
+T22	morphologie 2192 2199	nodules
+T23	expression_CIM 2192 2212	nodules sous-cutanés
+T24	topographie 2200 2212	sous-cutanés
+T25	expression_CIM 2499 2505	tumeur
+T26	morphologie 2499 2505	tumeur
+T27	expression_CIM 2573 2583	métastases
+T28	morphologie 2573 2583	métastases
+T29	expression_CIM 2613 2633	lâchage de ballonnet
+T30	morphologie 2613 2633	lâchage de ballonnet
+T31	morphologie 2723 2748	tumeur à cellules géantes
+T32	expression_CIM 2723 2761	tumeur à cellules géantes de l'humérus
+T33	topographie 2754 2761	humérus
+T34	morphologie 2773 2783	métastases
+T35	expression_CIM 2773 2795	métastases pulmonaires
+T36	topographie 2784 2795	pulmonaires
+T37	expression_CIM 2986 2992	lésion
+T38	morphologie 2986 2992	lésion
+T39	expression_CIM 3033 3040	lésions
+T40	morphologie 3033 3040	lésions
+T41	expression_CIM 3308 3315	nodules
+T42	morphologie 3308 3315	nodules
+T43	morphologie 3388 3400	infiltration
+T44	expression_CIM 3388 3432	infiltration du tissu cellulaire sous-cutané
+T45	topographie 3404 3432	tissu cellulaire sous-cutané
+T46	morphologie 3441 3466	tumeur à cellules géantes
+T47	expression_CIM 3441 3474	tumeur à cellules géantes de l'os
+T48	topographie 3472 3474	os
+T49	expression_CIM 4222 4247	progression de la maladie
+T50	morphologie 4222 4247	progression de la maladie
+T11	topographie 402 424	structures thoraciques
+T19	topographie 1282 1313	tiers inférieur de l'hémithorax
+#1	ICD-O T1	8003/3
+#2	ICD-O T2	9250/1
+#3	ICD-O T3	C41.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C49.9 8000/1
+#6	ICD-O T6	C49.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/6
+#10	ICD-O T12	8000/6
+#11	ICD-O T13	8000/6
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	C49.9 8000/1
+#14	ICD-O T16	C49.9
+#15	ICD-O T17	8000/6
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	C49.9 8000/1
+#20	ICD-O T24	C49.9
+#21	ICD-O T25	8000/1
+#22	ICD-O T26	8000/1
+#23	ICD-O T27	8000/6
+#24	ICD-O T28	8000/6
+#25	ICD-O T30	8000/6
+#26	ICD-O T31	8003/3
+#27	ICD-O T33	C40.0
+#28	ICD-O T34	8000/6
+#29	ICD-O T35	C34.9 8000/6
+#30	ICD-O T36	C34.9
+#31	ICD-O T37	8000/1
+#32	ICD-O T38	8000/1
+#33	ICD-O T39	8000/1
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	8000/1
+#37	ICD-O T43	8000/9
+#38	ICD-O T44	C49.9 8000/1
+#39	ICD-O T45	C49.9
+#40	ICD-O T46	8003/3
+#41	ICD-O T47	9250/1
+#42	ICD-O T48	C41.9
+#43	ICD-O T49	8000/1
+#44	ICD-O T50	8000/9
+#45	AnnotatorNotes T30	trad

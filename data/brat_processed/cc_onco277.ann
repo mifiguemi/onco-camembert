@@ -1,0 +1,38 @@
+T1	morphologie 58 93	sarcome ostéogénique-ostéoblastique
+T4	morphologie 456 463	nodules
+T6	topographie 464 475	pulmonaires
+T7	morphologie 583 594	progression
+T9	topographie 595 605	pulmonaire
+T10	morphologie 724 731	lésions
+T12	topographie 732 743	pulmonaires
+T13	morphologie 775 786	progression
+T15	topographie 787 803	pleuropulmonaire
+T17	morphologie 842 849	lésions
+T18	morphologie 938 949	progression
+T20	topographie 950 960	pulmonaire
+T21	morphologie 1244 1250	images
+T23	topographie 1251 1262	pulmonaires
+T24	morphologie 1278 1292	calcifications
+T58	morphologie 1324 1360	suggérant une dissémination tumorale
+T26	topographie 1293 1305	péritonéales
+T30	morphologie 1502 1511	métastase
+T32	morphologie 1517 1552	sarcome ostéogénique-ostéoblastique
+T33	morphologie 1670 1681	progression
+T35	topographie 1682 1693	péritonéale
+T36	topographie 1695 1711	pleuropulmonaire
+T37	topographie 1715 1724	hépatique
+T38	morphologie 2221 2228	nodules
+T40	topographie 2229 2240	péritonéaux
+T41	morphologie 2604 2612	implants
+T43	topographie 2630 2651	angle cardiophrénique
+T44	topographie 2661 2674	paracardiaque
+T45	morphologie 2895 2903	atteinte
+T47	topographie 2904 2921	hilaire hépatique
+T48	morphologie 4100 4111	progression
+T50	topographie 4112 4123	péritonéale
+T52	morphologie 4139 4159	sarcome ostéogénique
+T54	morphologie 4570 4590	infiltration diffuse
+T55	morphologie 4871 4879	atteinte
+T27	topographie 1309 1323	périspléniques
+T3	topographie 97 134	tiers proximal de la diaphyse tibiale
+T57	topographie 4896 4911	voies biliaires

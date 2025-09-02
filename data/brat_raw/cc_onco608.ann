@@ -1,0 +1,64 @@
+T1	morphologie 200 209	néoplasie
+T2	expression_CIM 200 218	néoplasie du colon
+T3	topographie 213 218	colon
+T4	expression_CIM 222 245	glioblastome multiforme
+T5	morphologie 222 245	glioblastome multiforme
+T6	morphologie 442 447	masse
+T7	expression_CIM 442 471	masse médiastinale antérieure
+T8	topographie 448 471	médiastinale antérieure
+T9	expression_CIM 682 688	lésion
+T10	morphologie 682 688	lésion
+T11	expression_CIM 719 730	adénopathie
+T12	morphologie 719 730	adénopathie
+T13	morphologie 736 744	atteinte
+T14	expression_CIM 736 754	atteinte viscérale
+T15	topographie 745 754	viscérale
+T16	morphologie 1027 1036	carcinome
+T17	expression_CIM 1027 1045	carcinome thymique
+T18	morphologie 1076 1085	carcinome
+T19	expression_CIM 1076 1094	carcinome thymique
+T20	expression_CIM 2154 2159	masse
+T21	morphologie 2154 2159	masse
+T22	morphologie 2853 2862	Carcinome
+T23	expression_CIM 2853 2871	Carcinome thymique
+T24	topographie 2863 2871	thymique
+T25	morphologie 5208 5213	masse
+T26	expression_CIM 5208 5237	masse médiastinale antérieure
+T27	topographie 5214 5237	médiastinale antérieure
+T28	morphologie 5364 5376	infiltration
+T29	expression_CIM 5364 5389	infiltration médiastinale
+T30	topographie 5377 5389	médiastinale
+T31	morphologie 5495 5504	carcinome
+T32	expression_CIM 5495 5513	carcinome thymique
+T33	topographie 5505 5513	thymique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C18.9 8000/1
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	9440/3
+#5	ICD-O T5	9440/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T8	C38.1 
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C77.9 8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C49.4 8000/1
+#14	ICD-O T15	C49.4
+#15	ICD-O T16	8010/3
+#16	ICD-O T17	C37.9 8010/3
+#17	ICD-O T18	8010/3
+#18	ICD-O T19	C37.9 8010/3
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	8010/3
+#22	ICD-O T23	C37.9 8010/3
+#23	ICD-O T24	C37.9
+#24	ICD-O T25	8000/1
+#25	ICD-O T27	C38.1 
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C38.3 8000/1
+#28	ICD-O T30	C38.3
+#29	ICD-O T31	8010/3
+#30	ICD-O T32	C37.9 8010/3
+#31	ICD-O T33	C37.9

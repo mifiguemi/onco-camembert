@@ -1,0 +1,100 @@
+T17	topographie 756 785	corps et la queue du pancréas
+T1	morphologie 198 204	tumeur
+T2	expression_CIM 198 240	tumeur de 5,5 cm dans la queue du pancréas
+T3	topographie 223 240	queue du pancréas
+T4	morphologie 364 378	adénocarcinome
+T5	expression_CIM 364 394	adénocarcinome peu différencié
+T6	differenciation 379 394	peu différencié
+T7	morphologie 459 465	nodule
+T8	expression_CIM 459 475	nodule hépatique
+T9	topographie 466 475	hépatique
+T10	expression_CIM 489 499	métastases
+T11	morphologie 489 499	métastases
+T12	morphologie 617 623	nodule
+T13	expression_CIM 617 633	nodule hépatique
+T14	topographie 624 633	hépatique
+T15	morphologie 684 708	carcinome neuroendocrine
+T16	expression_CIM 684 785	carcinome neuroendocrine multinodulaire étendu, mesurant 10 cm, dans le corps et la queue du pancréas
+T18	morphologie 877 890	dissémination
+T19	expression_CIM 877 900	dissémination hépatique
+T20	topographie 891 900	hépatique
+T21	morphologie 1035 1042	lésions
+T22	expression_CIM 1035 1053	lésions hépatiques
+T23	topographie 1043 1053	hépatiques
+T24	expression_CIM 1092 1102	métastases
+T25	morphologie 1092 1102	métastases
+T26	morphologie 1414 1425	progression
+T27	expression_CIM 1414 1435	progression hépatique
+T28	topographie 1426 1435	hépatique
+T29	expression_CIM 1931 1954	stabilité de la maladie
+T30	morphologie 1931 1954	stabilité de la maladie
+T31	morphologie 2018 2029	progression
+T32	expression_CIM 2018 2039	progression hépatique
+T33	topographie 2030 2039	hépatique
+T34	morphologie 2436 2444	atteinte
+T35	expression_CIM 2436 2452	atteinte osseuse
+T36	topographie 2445 2452	osseuse
+T37	morphologie 2844 2851	lésions
+T38	expression_CIM 2844 2862	lésions hépatiques
+T39	topographie 2852 2862	hépatiques
+T40	morphologie 5646 5652	lésion
+T41	expression_CIM 5646 5660	lésion cutanée
+T42	topographie 5653 5660	cutanée
+T43	morphologie 6971 6992	Tumeur neuroendocrine
+T44	expression_CIM 6971 7005	Tumeur neuroendocrine pancréatique
+T45	topographie 6993 7005	pancréatique
+T46	morphologie 7006 7016	disséminée
+T47	expression_CIM 7006 7036	disséminée au niveau hépatique
+T48	topographie 7027 7036	hépatique
+T49	morphologie 7607 7630	stabilité de la maladie
+T50	expression_CIM 7607 7648	stabilité de la maladie au niveau du foie
+T51	topographie 7644 7648	foie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C25.2 8000/1
+#3	ICD-O T3	C25.2
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	8140/33
+#6	ICD-O T6	3
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C22.0 8000/1
+#9	ICD-O T9	C22.0
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C22.0 8000/1
+#14	ICD-O T14	C22.0
+#15	ICD-O T15	8246/3
+#16	ICD-O T18	8000/6
+#17	ICD-O T19	C22.0 8000/6
+#18	ICD-O T20	C22.0
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C22.0 8000/1
+#21	ICD-O T23	C22.0
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	C22.0 8000/6
+#26	ICD-O T28	C22.0
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	C22.0 8000/6
+#31	ICD-O T33	C22.0
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	C41.9 8000/1
+#34	ICD-O T36	C41.9
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	C22.0 8000/1
+#37	ICD-O T39	C22.0
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	C44.9 8000/1
+#40	ICD-O T42	C44.9
+#41	ICD-O T43	8246/3
+#42	ICD-O T44	C25.9 8246/3
+#43	ICD-O T45	C25.9
+#44	ICD-O T46	8000/6
+#45	ICD-O T47	C22.0 8000/6
+#46	ICD-O T48	C22.0
+#47	ICD-O T49	8000/6
+#48	ICD-O T50	C22.0 8000/6
+#49	ICD-O T51	C22.0

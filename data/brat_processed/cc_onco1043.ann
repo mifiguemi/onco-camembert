@@ -1,0 +1,19 @@
+T2	morphologie 2571 2578	lésions
+T4	morphologie 3679 3685	tumeur
+T6	morphologie 3783 3789	lésion
+T7	morphologie 3898 3904	lésion
+T9	topographie 3905 3918	sous-pleurale
+T10	morphologie 4099 4105	lésion
+T12	topographie 4121 4125	sein
+T14	morphologie 4231 4238	lésions
+T16	morphologie 4359 4365	nodule
+T18	morphologie 4439 4448	malignité
+T20	morphologie 4501 4507	nodule
+T22	morphologie 4682 4688	nodule
+T23	morphologie 4947 4977	Carcinome canalaire infiltrant
+T25	topographie 4999 5003	sein
+T26	morphologie 5016 5024	atteinte
+T28	topographie 5025 5034	axillaire
+T29	morphologie 5668 5674	cancer
+T31	topographie 5678 5682	sein
+T33	morphologie 6405 6411	tumeur

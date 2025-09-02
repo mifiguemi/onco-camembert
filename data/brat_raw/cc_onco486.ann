@@ -1,0 +1,56 @@
+T12	topographie 2019 2046	abdominale rétropéritonéale
+T1	morphologie 1167 1178	Adénopathie
+T2	expression_CIM 1167 1188	Adénopathie inguinale
+T3	topographie 1179 1188	inguinale
+T4	morphologie 1594 1620	adénopathies pathologiques
+T5	expression_CIM 1594 1656	adénopathies pathologiques occupant toute la cavité abdominale
+T6	topographie 1639 1656	cavité abdominale
+T7	morphologie 1741 1746	masse
+T8	expression_CIM 1741 1763	masse rétropéritonéale
+T9	topographie 1747 1763	rétropéritonéale
+T10	morphologie 2013 2018	masse
+T11	expression_CIM 2013 2046	masse abdominale rétropéritonéale
+T13	morphologie 2298 2305	lésions
+T14	expression_CIM 2298 2347	lésions lytiques de la première vertèbre lombaire
+T15	topographie 2330 2347	vertèbre lombaire
+T16	morphologie 2546 2555;2569 2584	néoplasie germinale mixte
+T17	expression_CIM 2546 2584	néoplasie testiculaire germinale mixte
+T18	topographie 2556 2568	testiculaire
+T19	expression_CIM 2824 2850	séminome de type classique
+T20	morphologie 2824 2850	séminome de type classique
+T21	morphologie 2889 2897	séminome
+T22	expression_CIM 2889 2910	séminome testiculaire
+T23	topographie 2898 2910	testiculaire
+T24	morphologie 2932 2942	métastases
+T25	expression_CIM 2932 2997	métastases ganglionnaires, hépatiques, surrénaliennes et osseuses
+T26	topographie 2943 2957	ganglionnaires
+T27	topographie 2959 2969	hépatiques
+T28	topographie 2971 2985	surrénaliennes
+T29	topographie 2989 2997	osseuses
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.4 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.2 8000/1
+#6	ICD-O T6	C76.2
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C48.0 8000/1
+#9	ICD-O T9	C48.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C48.0 8000/1;C76.2 8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C41.2 8000/1
+#14	ICD-O T15	C41.2
+#15	ICD-O T16	9085/3
+#16	ICD-O T17	C62.9 9085/3
+#17	ICD-O T18	C62.9
+#18	ICD-O T20	9061/3
+#19	ICD-O T21	9061/3
+#20	ICD-O T22	C62.9 9061/3
+#21	ICD-O T23	C62.9
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	C22.0 8000/6;C41.9 8000/6;C74.9 8000/6;C77.9 8000/6
+#24	ICD-O T26	C77.9
+#25	ICD-O T27	C22.0
+#26	ICD-O T28	C74.9
+#27	ICD-O T29	C41.9

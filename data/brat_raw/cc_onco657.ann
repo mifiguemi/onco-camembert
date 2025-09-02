@@ -1,0 +1,135 @@
+T13	topographie 3021 3030	antérieur
+T60	topographie 6465 6487	pulmonaire parahilaire
+T1	morphologie 354 359	Myome
+T2	expression_CIM 354 366	Myome utérin
+T3	topographie 360 366	utérin
+T4	morphologie 2396 2407	adénopathie
+T5	expression_CIM 2396 2466	adénopathie palpable latéro-cervicale, supra-claviculaire ou axillaire
+T6	topographie 2417 2433	latéro-cervicale
+T7	topographie 2435 2453	supra-claviculaire
+T8	topographie 2457 2466	axillaire
+T9	expression_CIM 2667 2672	masse
+T10	morphologie 2667 2672	masse
+T11	morphologie 3005 3010	masse
+T12	expression_CIM 3005 3030	masse au niveau antérieur
+T14	expression_CIM 3529 3541	infiltration
+T15	morphologie 3529 3541	infiltration
+T16	morphologie 3936 3948	adénopathies
+T17	expression_CIM 3936 3962	adénopathies médiastinales
+T18	topographie 3949 3962	médiastinales
+T19	morphologie 4192 4196	LOES
+T20	expression_CIM 4192 4248	LOES hépatiques, dispersées dans le parenchyme hépatique
+T21	topographie 4197 4207	hépatiques
+T22	topographie 4228 4248	parenchyme hépatique
+T23	expression_CIM 4453 4462	métastase
+T24	morphologie 4453 4462	métastase
+T25	morphologie 4464 4470	Tumeur
+T26	expression_CIM 4464 4507	Tumeur en relation avec la glande surrénale
+T27	topographie 4491 4507	glande surrénale
+T28	expression_CIM 4632 4641	métastase
+T29	morphologie 4632 4641	métastase
+T30	morphologie 4643 4656	Image lytique
+T31	expression_CIM 4643 4713	Image lytique en localisation postéro-supérieure du corps vertébral L1
+T32	topographie 4695 4713	corps vertébral L1
+T33	expression_CIM 4751 4760	métastase
+T34	morphologie 4751 4760	métastase
+T35	morphologie 5594 5603	néoplasie
+T36	expression_CIM 5594 5618	néoplasie endobronchique
+T37	topographie 5604 5618	endobronchique
+T38	expression_CIM 5644 5655	adénopathie
+T39	morphologie 5644 5655	adénopathie
+T40	expression_CIM 5710 5727	cellules malignes
+T41	morphologie 5710 5727	cellules malignes
+T42	expression_CIM 5729 5738	Métastase
+T43	morphologie 5729 5738	Métastase
+T44	morphologie 5744 5758	adénocarcinome
+T45	expression_CIM 5744 5793	adénocarcinome, probablement d'origine pulmonaire
+T46	topographie 5783 5793	pulmonaire
+T47	expression_CIM 5973 5991	cellules tumorales
+T48	morphologie 5973 5991	cellules tumorales
+T49	morphologie 6004 6010	Lésion
+T50	expression_CIM 6004 6024	Lésion surrénalienne
+T51	topographie 6011 6024	surrénalienne
+T52	expression_CIM 6072 6089	cellules malignes
+T53	morphologie 6072 6089	cellules malignes
+T54	expression_CIM 6091 6100	Métastase
+T55	morphologie 6091 6100	Métastase
+T56	expression_CIM 6106 6127	carcinome épidermoïde
+T57	morphologie 6106 6127	carcinome épidermoïde
+T58	morphologie 6459 6464	Masse
+T59	expression_CIM 6459 6487	Masse pulmonaire parahilaire
+T61	expression_CIM 6510 6522	adénopathies
+T62	morphologie 6510 6522	adénopathies
+T63	morphologie 6526 6529	LOE
+T64	expression_CIM 6526 6539	LOE hépatique
+T65	topographie 6530 6539	hépatique
+T66	morphologie 6560 6574	adénocarcinome
+T67	expression_CIM 6560 6585	adénocarcinome pulmonaire
+T68	topographie 6575 6585	pulmonaire
+T69	morphologie 6624 6632;6647 6659	Atteinte métastatique
+T70	expression_CIM 6624 6659	Atteinte surrénalienne métastatique
+T71	topographie 6633 6646	surrénalienne
+#1	ICD-O T1	8895/0
+#2	ICD-O T2	C55.9 8895/0
+#3	ICD-O T3	C55.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1;C77.3 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	C76.1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	8000/1
+#14	ICD-O T17	C77.1 8000/1
+#15	ICD-O T18	C38.3
+#16	ICD-O T19	8000/1
+#17	ICD-O T21	C22.0
+#18	ICD-O T22	C22.0
+#19	ICD-O T23	8000/6
+#20	ICD-O T24	8000/6
+#21	ICD-O T25	8000/3
+#22	ICD-O T26	C74.9 8000/1
+#23	ICD-O T27	C74.9
+#24	ICD-O T28	8000/6
+#25	ICD-O T29	8000/6
+#26	ICD-O T30	tocheck
+#27	ICD-O T32	C41.2
+#28	ICD-O T33	8000/6
+#29	ICD-O T34	8000/6
+#30	ICD-O T35	8000/3
+#31	ICD-O T36	C34.9 8000/1
+#32	ICD-O T37	C34.9
+#33	ICD-O T38	C77.9 8000/1
+#34	ICD-O T39	8000/1
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	8001/3
+#37	ICD-O T42	8000/6
+#38	ICD-O T43	8000/6
+#39	ICD-O T44	8140/3
+#40	ICD-O T45	C34.9 8140/3
+#41	ICD-O T46	C34.9
+#42	ICD-O T47	8001/1
+#43	ICD-O T48	8001/3
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C74.9 8000/1
+#46	ICD-O T51	C74.9
+#47	ICD-O T52	8000/1
+#48	ICD-O T53	8001/3
+#49	ICD-O T54	8000/6
+#50	ICD-O T55	8000/6
+#51	ICD-O T56	8070/3
+#52	ICD-O T57	8070/3
+#53	ICD-O T58	8000/1
+#54	ICD-O T59	C34.9 8000/1;C76.1 8000/1
+#55	ICD-O T61	C77.9 8000/1
+#56	ICD-O T62	8000/1
+#57	ICD-O T63	8000/1
+#58	ICD-O T65	C22.0
+#59	ICD-O T66	8140/3
+#60	ICD-O T67	C34.9 8140/3
+#61	ICD-O T68	C34.9
+#62	ICD-O T69	8000/6
+#63	ICD-O T70	C74.9 8000/6
+#64	ICD-O T71	C74.9

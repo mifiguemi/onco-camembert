@@ -1,0 +1,140 @@
+T1	morphologie 339 353	adénocarcinome
+T2	expression_CIM 339 382	adénocarcinome pulmonaire du lobe inférieur
+T3	topographie 354 364	pulmonaire
+T4	topographie 368 382	lobe inférieur
+T5	expression_CIM 534 542	récidive
+T6	morphologie 534 542	récidive
+T7	morphologie 544 558	Adénocarcinome
+T8	expression_CIM 544 583	Adénocarcinome de la prostate Gleason 6
+T9	topographie 565 573	prostate
+T10	differenciation 574 583	Gleason 6
+T11	expression_CIM 1909 1915	lésion
+T12	morphologie 1909 1915	lésion
+T13	morphologie 2033 2042	métastase
+T14	expression_CIM 2033 2069	métastase hépatique ou ganglionnaire
+T15	topographie 2043 2052	hépatique
+T16	topographie 2056 2069	ganglionnaire
+T17	morphologie 2551 2557	lésion
+T18	expression_CIM 2551 2589	lésion située dans la tête du pancréas
+T19	topographie 2573 2589	tête du pancréas
+T20	expression_CIM 2621 2645	adénocarcinome canalaire
+T21	morphologie 2621 2645	adénocarcinome canalaire
+T22	morphologie 2808 2814	lésion
+T23	expression_CIM 2808 2823	lésion frontale
+T24	topographie 2815 2823	frontale
+T25	morphologie 3039 3047	atteinte
+T26	expression_CIM 3039 3061	atteinte leptoméningée
+T27	topographie 3048 3061	leptoméningée
+T28	expression_CIM 3081 3094	carcinomatose
+T29	morphologie 3081 3094	carcinomatose
+T30	morphologie 3230 3244	adénocarcinome
+T31	expression_CIM 3230 3257	adénocarcinome pancréatique
+T32	topographie 3245 3257	pancréatique
+T33	expression_CIM 3261 3269	stade IV
+T34	morphologie 3261 3269	stade IV
+T35	morphologie 3310 3320	métastases
+T36	expression_CIM 3310 3331	métastases cérébrales
+T37	topographie 3321 3331	cérébrales
+T38	morphologie 3339 3352	carcinomatose
+T39	expression_CIM 3339 3366	carcinomatose leptoméningée
+T40	topographie 3353 3366	leptoméningée
+T41	morphologie 3446 3453	tumeurs
+T42	expression_CIM 3446 3476	tumeurs de l'appareil digestif
+T43	topographie 3459 3476	appareil digestif
+T44	morphologie 3547 3556	métastase
+T45	expression_CIM 3547 3566	métastase cérébrale
+T46	topographie 3557 3566	cérébrale
+T47	expression_CIM 3679 3685	tumeur
+T48	morphologie 3679 3685	tumeur
+T49	expression_CIM 3916 3930	adénocarcinome
+T50	morphologie 3916 3930	adénocarcinome
+T51	morphologie 4138 4145	tumeurs
+T52	expression_CIM 4138 4162	tumeurs du tube digestif
+T53	topographie 4149 4162	tube digestif
+T54	expression_CIM 4442 4453	lit tumoral
+T55	morphologie 4442 4453	lit tumoral
+T56	expression_CIM 4541 4552	lit tumoral
+T57	morphologie 4541 4552	lit tumoral
+T58	morphologie 5357 5366	néoplasme
+T59	expression_CIM 5357 5379	néoplasme pancréatique
+T60	topographie 5367 5379	pancréatique
+T61	morphologie 5757 5778	nodules métastatiques
+T62	expression_CIM 5757 5788	nodules métastatiques cérébraux
+T63	topographie 5779 5788	cérébraux
+T64	morphologie 5900 5909	néoplasme
+T65	expression_CIM 5900 5922	néoplasme pancréatique
+T66	topographie 5910 5922	pancréatique
+T67	morphologie 6407 6432	progression de la maladie
+T68	expression_CIM 6407 6456	progression de la maladie abdominale et cérébrale
+T69	topographie 6433 6443	abdominale
+T70	topographie 6447 6456	cérébrale
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C34.3 8140/3;C34.9 8140/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	C34.3
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C61.9 8140/31
+#9	ICD-O T9	C61.9
+#10	ICD-O T10	1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C22.0 8000/6;C77.9 8000/6
+#15	ICD-O T15	C22.0
+#16	ICD-O T16	C77.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C25.0 8000/1
+#19	ICD-O T19	C25.0
+#20	ICD-O T20	8500/3
+#21	ICD-O T21	8500/3
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C71.1 8000/1
+#24	ICD-O T24	C71.1
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C70.9 8000/1
+#27	ICD-O T27	C70.9
+#28	ICD-O T28	8010/9
+#29	ICD-O T29	8010/9
+#30	ICD-O T30	8140/3
+#31	ICD-O T31	C25.9 8140/3
+#32	ICD-O T32	C25.9
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	C71.0 8000/6
+#37	ICD-O T37	C71.0
+#38	ICD-O T38	8010/9
+#39	ICD-O T39	C70.9 8010/9
+#40	ICD-O T40	C70.9
+#41	ICD-O T41	8000/1
+#42	ICD-O T42	C26.9 8000/1
+#43	ICD-O T43	C26.9
+#44	ICD-O T44	8000/6
+#45	ICD-O T45	C71.0 8000/6
+#46	ICD-O T46	C71.0
+#47	ICD-O T47	8000/1
+#48	ICD-O T48	8000/1
+#49	ICD-O T49	8140/3
+#50	ICD-O T50	8140/3
+#51	ICD-O T51	8000/3
+#52	ICD-O T52	C26.9 8000/1
+#53	ICD-O T53	C26.9
+#54	ICD-O T54	8000/3
+#55	ICD-O T55	8000/3
+#56	ICD-O T56	8000/3
+#57	ICD-O T57	8000/3
+#58	ICD-O T58	8000/3
+#59	ICD-O T59	C25.9 8000/1
+#60	ICD-O T60	C25.9
+#61	ICD-O T61	8000/6
+#62	ICD-O T62	C71.0 8000/6
+#63	ICD-O T63	C71.9
+#64	ICD-O T64	8000/3
+#65	ICD-O T65	C25.9 8000/1
+#66	ICD-O T66	C25.9
+#67	ICD-O T67	8000/9
+#68	ICD-O T68	C71.0 8000/1;C76.2 8000/1
+#69	ICD-O T69	C76.2
+#70	ICD-O T70	C71.9

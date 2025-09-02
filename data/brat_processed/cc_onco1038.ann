@@ -1,0 +1,76 @@
+T1	morphologie 518 527	carcinome
+T110	morphologie 534 552	à cellules claires
+T3	topographie 528 533	rénal
+T5	morphologie 556 564	stade IV
+T6	morphologie 587 596	métastase
+T8	topographie 597 606	cérébrale
+T9	morphologie 981 987	lésion
+T11	topographie 988 997	cérébrale
+T12	morphologie 1264 1273	carcinome
+T111	morphologie 1280 1298	à cellules claires
+T14	topographie 1274 1279	rénal
+T15	differenciation 1302 1311	grade III
+T16	morphologie 1568 1577	carcinome
+T112	morphologie 1584 1602	à cellules claires
+T18	topographie 1578 1583	rénal
+T19	differenciation 1604 1623	grade II de Furhman
+T20	morphologie 1663 1668	masse
+T22	topographie 1669 1675	rénale
+T23	morphologie 1805 1814	carcinome
+T25	topographie 1815 1820	rénal
+T26	morphologie 2059 2083	lésion occupant l'espace
+T30	morphologie 2477 2486	métastase
+T31	morphologie 2515 2524	Carcinome
+T113	morphologie 2531 2549	à cellules claires
+T33	topographie 2525 2530	rénal
+T34	differenciation 2553 2573	grade III de Fuhrman
+T35	morphologie 2594 2604	infiltrant
+T39	morphologie 2666 2684	Thrombose tumorale
+T42	morphologie 2731 2743	Infiltration
+T44	topographie 2744 2760	lymphovasculaire
+T45	morphologie 3110 3116	lésion
+T47	topographie 3140 3152	muscle psoas
+T48	morphologie 3175 3181	Lésion
+T50	topographie 3190 3207	queue du pancréas
+T52	morphologie 3265 3274	métastase
+T53	morphologie 3282 3303	tumeur neuroendocrine
+T114	morphologie 3317 3325	primaire
+T55	topographie 3304 3316	pancréatique
+T57	morphologie 3851 3857	lésion
+T59	morphologie 4106 4131	progression de la maladie
+T60	morphologie 4280 4293	carcinomatose
+T62	topographie 4294 4305	péritonéale
+T63	morphologie 4323 4329	lésion
+T65	topographie 4330 4342	pancréatique
+T67	morphologie 4428 4450	implants métastatiques
+T68	morphologie 4465 4485	Carcinome papillaire
+T70	topographie 4486 4491	rénal
+T72	morphologie 4495 4503	stade IV
+T73	morphologie 4703 4714	Progression
+T75	topographie 4715 4726	péritonéale
+T76	morphologie 4869 4896	stabilisation de la maladie
+T78	topographie 4905 4928	système nerveux central
+T79	morphologie 6305 6311	lésion
+T81	topographie 6312 6321	cérébrale
+T83	morphologie 6475 6484	métastase
+T84	morphologie 6488 6497	carcinome
+T86	topographie 6498 6503	rénal
+T88	morphologie 6834 6841	lésions
+T89	morphologie 6855 6862	rechute
+T91	topographie 6883 6895	muscle psoas
+T92	morphologie 6915 6921	lésion
+T94	topographie 6930 6947	queue du pancréas
+T96	morphologie 6952 6958	lésion
+T97	morphologie 7097 7103	lésion
+T99	topographie 7117 7129	muscle psoas
+T101	morphologie 8018 8025	lésions
+T102	morphologie 8177 8188	progression
+T104	topographie 8189 8198	cérébrale
+T106	morphologie 8238 8244	lésion
+T107	morphologie 8747 8760	carcinomatose
+T109	topographie 8761 8772	péritonéale
+T28	topographie 2085 2096	intraaxiale
+T115	topographie 2106 2115	pariétale
+T37	topographie 2608 2624	parenchyme rénal
+T38	topographie 2629 2664	tissu adipeux périrénal et mammaire
+T41	topographie 2701 2713	veine rénale

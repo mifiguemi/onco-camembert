@@ -1,0 +1,161 @@
+T1	morphologie 176 182	cancer
+T2	expression_CIM 176 202	cancer du sein et du colon
+T3	topographie 186 190	sein
+T4	topographie 197 202	colon
+T5	morphologie 687 690	LOE
+T6	expression_CIM 687 700	LOE hépatique
+T7	topographie 691 700	hépatique
+T8	expression_CIM 720 730	hémangiome
+T9	morphologie 720 730	hémangiome
+T10	morphologie 738 744	lésion
+T11	expression_CIM 738 755	lésion annexielle
+T12	topographie 745 755	annexielle
+T13	morphologie 809 818	formation
+T14	expression_CIM 809 828	formation pelvienne
+T15	topographie 819 828	pelvienne
+T16	morphologie 1235 1254	pathologie tumorale
+T17	expression_CIM 1235 1265	pathologie tumorale annexielle
+T18	topographie 1255 1265	annexielle
+T19	morphologie 1308 1321	dissémination
+T20	expression_CIM 1308 1333	dissémination péritonéale
+T21	topographie 1322 1333	péritonéale
+T22	morphologie 1342 1350	implants
+T23	expression_CIM 1342 1460	implants gélatineux-mucoïdes recouvrant l'intestin grêle, l'utérus et les appendices, le bassin et la poche de Douglas
+T24	topographie 1384 1398	intestin grêle
+T25	topographie 1402 1408	utérus
+T26	topographie 1416 1426	appendices
+T27	topographie 1431 1437	bassin
+T29	morphologie 1475 1481	tumeur
+T30	expression_CIM 1475 1498	tumeur dans l'appendice
+T31	topographie 1489 1498	appendice
+T32	morphologie 1686 1700;1716 1724	adénocarcinome mucineux
+T33	expression_CIM 1686 1749	adénocarcinome appendiculaire mucineux invasif bien différencié
+T34	topographie 1701 1715	appendiculaire
+T35	differenciation 1733 1749	bien différencié
+T36	morphologie 1937 1943	nodule
+T37	expression_CIM 1937 1984	nodule pulmonaire cavité dans le lobe inférieur
+T38	topographie 1944 1954	pulmonaire
+T39	topographie 1970 1984	lobe inférieur
+T40	morphologie 1998 2004	lésion
+T41	expression_CIM 1998 2049	lésion kystique-solide dans le segment VIII du foie
+T43	morphologie 2059 2071	infiltration
+T44	expression_CIM 2059 2113	infiltration de la graisse mésentérique dans le bassin
+T45	topographie 2078 2098	graisse mésentérique
+T46	topographie 2107 2113	bassin
+T47	morphologie 2129 2136	lésions
+T48	expression_CIM 2129 2162	lésions pulmonaires et hépatiques
+T49	topographie 2137 2148	pulmonaires
+T50	topographie 2152 2162	hépatiques
+T51	morphologie 2369 2372	LOE
+T52	expression_CIM 2369 2383	LOE hépatiques
+T53	topographie 2373 2383	hépatiques
+T54	expression_CIM 2441 2448	lésions
+T55	morphologie 2441 2448	lésions
+T56	morphologie 2819 2826	lésions
+T57	expression_CIM 2819 2837	lésions hépatiques
+T58	topographie 2827 2837	hépatiques
+T59	expression_CIM 2847 2867	hémangiome caverneux
+T60	morphologie 2847 2867	hémangiome caverneux
+T61	morphologie 3043 3076	hyperplasie mésothéliale réactive
+T62	expression_CIM 3043 3090	hyperplasie mésothéliale réactive dans le côlon
+T63	topographie 3085 3090	côlon
+T64	morphologie 3149 3155	nodule
+T65	expression_CIM 3149 3166	nodule pulmonaire
+T66	topographie 3156 3166	pulmonaire
+T67	morphologie 3633 3645	adénopathies
+T68	expression_CIM 3633 3671	adénopathies hilaires et médiastinales
+T69	topographie 3646 3654	hilaires
+T70	topographie 3658 3671	médiastinales
+T71	morphologie 3941 3953	Adénopathies
+T72	expression_CIM 3941 4141	Adénopathies autour du centimètre médiastinal, paratrachéales droites (SUVmax 4,1) ,prévasculaires (SUVmax 6), précarinales (SUVmax 4,3), en fenêtre aortopulmonaire, souscarinales (SUVmax 6), hilaires
+T73	topographie 3975 3986	médiastinal
+T74	topographie 3988 4002	paratrachéales
+T75	topographie 4025 4039	prévasculaires
+T77	topographie 4082 4105	fenêtre aortopulmonaire
+T79	topographie 4133 4141	hilaires
+T80	expression_CIM 5313 5322	néoplasie
+T81	morphologie 5313 5322	néoplasie
+T82	morphologie 5429 5445	lymphadénopathie
+T83	expression_CIM 5429 5468	lymphadénopathie dans le hile hépatique
+T84	topographie 5454 5468	hile hépatique
+T85	morphologie 5720 5745	conglomérat adénopathique
+T86	expression_CIM 5720 5768	conglomérat adénopathique dans le hile hépatique
+T87	topographie 5754 5768	hile hépatique
+T28	topographie 1444 1460	poche de Douglas
+T76	topographie 4052 4064	précarinales
+T42	topographie 2029 2049	segment VIII du foie
+T78	topographie 4107 4120	souscarinales
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3;C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	C18.9
+#5	ICD-O T5	8000/1
+#6	ICD-O T7	C22.0
+#7	ICD-O T8	9120/0
+#8	ICD-O T9	9120/0
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C56.9 8000/1
+#11	ICD-O T12	C56.9
+#12	ICD-O T13	8000/1
+#13	ICD-O T15	C76.3 
+#14	ICD-O T16	8000/9
+#15	ICD-O T17	C56.9 8000/1
+#16	ICD-O T18	C56.9
+#17	ICD-O T19	8000/6
+#18	ICD-O T20	C48.2 8000/6
+#19	ICD-O T21	C48.2
+#20	ICD-O T22	8000/6
+#21	ICD-O T24	C26.0
+#22	ICD-O T25	C55.9
+#23	ICD-O T26	C18.1
+#24	ICD-O T27	C76.3
+#25	ICD-O T29	8000/3
+#26	ICD-O T30	C18.1 8000/1
+#27	ICD-O T31	C18.1
+#28	ICD-O T32	8480/3
+#29	ICD-O T33	C18.1 8480/31
+#30	ICD-O T34	C18.1
+#31	ICD-O T35	1
+#32	ICD-O T36	8000/1
+#33	ICD-O T38	C34.9
+#34	ICD-O T39	C34.3
+#35	ICD-O T40	8000/1
+#36	ICD-O T43	8000/9
+#37	ICD-O T44	C48.1 8000/1;C76.3 8000/1
+#38	ICD-O T45	C48.1
+#39	ICD-O T46	C76.3
+#40	ICD-O T47	8000/1
+#41	ICD-O T48	C22.0 8000/1;C34.9 8000/1
+#42	ICD-O T49	C34.9
+#43	ICD-O T50	C22.0
+#44	ICD-O T51	8000/1
+#45	ICD-O T53	C22.0
+#46	ICD-O T54	8000/1
+#47	ICD-O T55	8000/1
+#48	ICD-O T56	8000/1
+#49	ICD-O T57	C22.0 8000/1
+#50	ICD-O T58	C22.0
+#51	ICD-O T59	9121/0
+#52	ICD-O T60	9121/0
+#53	ICD-O T61	8000/1
+#54	ICD-O T63	C18
+#55	ICD-O T64	8000/1
+#56	ICD-O T65	C34.9 8000/1
+#57	ICD-O T66	C34.9
+#58	ICD-O T67	8000/1
+#59	ICD-O T68	C77.1 8000/1
+#60	ICD-O T69	C76.1
+#61	ICD-O T70	C38.3
+#62	ICD-O T71	8000/1
+#63	ICD-O T73	C38.3
+#64	ICD-O T74	C33.9
+#65	ICD-O T75	C49.8
+#66	ICD-O T77	C49.3
+#67	ICD-O T79	C76.1
+#68	ICD-O T80	8000/1
+#69	ICD-O T81	8000/3
+#70	ICD-O T82	8000/1
+#71	ICD-O T84	C22.0
+#72	ICD-O T85	8000/1
+#73	ICD-O T86	C77.2 8000/1
+#74	ICD-O T87	C22.0

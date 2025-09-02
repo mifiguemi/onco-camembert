@@ -1,0 +1,20 @@
+T1	morphologie 44 57	fibroadénomes
+T3	topographie 58 67	mammaires
+T4	morphologie 103 108	myome
+T6	topographie 109 115	utérin
+T7	morphologie 176 185	néoplasme
+T9	topographie 189 193	sein
+T11	morphologie 204 267	carcinome infiltrant à composante mixte (canalaire et lobulaire
+T12	morphologie 510 518	récidive
+T14	topographie 519 528	axillaire
+T16	morphologie 580 586	lésion
+T18	morphologie 624 654	carcinome canalaire infiltrant
+T19	morphologie 901 918	récidive tumorale
+T21	topographie 926 934	aisselle
+T23	morphologie 987 996	carcinome
+T25	morphologie 1451 1484	leucémie promyélocytaire aiguë M3
+T27	morphologie 2472 2509	Leucémie aiguë non lymphoblastique M3
+T28	morphologie 2511 2517	Cancer
+T33	morphologie 2526 2536	infiltrant
+T30	topographie 2521 2525	sein
+T32	morphologie 2919 2929	néoplasmes

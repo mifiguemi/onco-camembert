@@ -1,0 +1,60 @@
+T1	morphologie 62 71	carcinome
+T2	expression_CIM 62 80	carcinome du colon
+T3	topographie 75 80	colon
+T4	morphologie 138 147	carcinome
+T5	expression_CIM 138 155	carcinome ovarien
+T6	topographie 148 155	ovarien
+T7	morphologie 1420 1425	masse
+T8	expression_CIM 1420 1449	masse médiastinale antérieure
+T9	topographie 1426 1449	médiastinale antérieure
+T10	expression_CIM 1477 1483	foyers
+T11	morphologie 1477 1483	foyers
+T12	morphologie 1742 1754	adénopathies
+T13	expression_CIM 1742 1780	adénopathies hilaires et médiastinales
+T14	topographie 1755 1763	hilaires
+T15	topographie 1767 1780	médiastinales
+T16	expression_CIM 2046 2074	processus lymphoprolifératif
+T17	morphologie 2046 2074	processus lymphoprolifératif
+T18	expression_CIM 2169 2177	lymphome
+T19	morphologie 2169 2177	lymphome
+T20	expression_CIM 2251 2272	LNH lymphoblastique T
+T21	morphologie 2251 2272	LNH lymphoblastique T
+T22	expression_CIM 2366 2407	Lymphome lymphoblastique T non hodgkinien
+T24	morphologie 2930 2935	masse
+T25	expression_CIM 2930 2948	masse médiastinale
+T26	topographie 2936 2948	médiastinale
+T27	morphologie 2971 2983	adénopathies
+T28	expression_CIM 2971 2992	adénopathies hilaires
+T29	topographie 2984 2992	hilaires
+T30	expression_CIM 3224 3232	lymphome
+T31	morphologie 3224 3232	lymphome
+T23	morphologie 2366 2407	Lymphome lymphoblastique T non hodgkinien
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C18.9 8010/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C56.9 8010/3
+#6	ICD-O T6	C56.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C38.1 
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C77.1 8000/1
+#13	ICD-O T14	C76.1
+#14	ICD-O T15	C38.3
+#15	ICD-O T16	9970/1
+#16	ICD-O T17	9970/1
+#17	ICD-O T18	9590/3
+#18	ICD-O T19	9590/3
+#19	ICD-O T20	9729/3
+#20	ICD-O T21	9729/3
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	C38.3 8000/1
+#23	ICD-O T26	C38.3
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	C77.1 8000/1
+#26	ICD-O T29	C76.1
+#27	ICD-O T30	9590/3
+#28	ICD-O T31	9590/3
+#29	ICD-O T23	9729/3

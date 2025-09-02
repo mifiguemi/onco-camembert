@@ -1,0 +1,225 @@
+T47	morphologie 1977 1996	carcinome nucléaire
+T1	morphologie 274 280	cancer
+T2	expression_CIM 274 288	cancer du sein
+T3	topographie 284 288	sein
+T4	morphologie 377 386	néoplasie
+T5	expression_CIM 377 399	néoplasie pancréatique
+T6	topographie 387 399	pancréatique
+T7	morphologie 454 460	cancer
+T8	expression_CIM 454 468	cancer du sein
+T9	topographie 464 468	sein
+T10	morphologie 669 675	nodule
+T11	expression_CIM 669 684	nodule mammaire
+T12	topographie 676 684	mammaire
+T13	expression_CIM 724 745	processus néoplasique
+T14	morphologie 724 745	processus néoplasique
+T15	morphologie 801 807	nodule
+T16	expression_CIM 801 859	nodule de 35 mm dans le quadrant inférieur externe du sein
+T17	topographie 825 859	quadrant inférieur externe du sein
+T18	morphologie 879 885	nodule
+T19	expression_CIM 879 923	nodule de 20 mm dans le sillon sous-mammaire
+T20	topographie 903 923	sillon sous-mammaire
+T21	morphologie 933 941	atteinte
+T22	expression_CIM 933 949	atteinte cutanée
+T23	topographie 942 949	cutanée
+T24	morphologie 984 996	adénopathies
+T25	expression_CIM 984 1007	adénopathies axillaires
+T26	topographie 997 1007	axillaires
+T27	morphologie 1151 1157	nodule
+T28	expression_CIM 1151 1209	nodule de 35 mm dans le quadrant inférieur externe du sein
+T29	topographie 1175 1209	quadrant inférieur externe du sein
+T30	morphologie 1229 1235	nodule
+T31	expression_CIM 1229 1273	nodule de 20 mm dans le sillon sous-mammaire
+T32	topographie 1253 1273	sillon sous-mammaire
+T33	morphologie 1284 1292	atteinte
+T34	expression_CIM 1284 1300	atteinte cutanée
+T35	topographie 1293 1300	cutanée
+T36	morphologie 1358 1380;1405 1413	ganglions lymphatiques suspects
+T37	expression_CIM 1358 1413	ganglions lymphatiques axillaires ipsilatéraux suspects
+T38	topographie 1381 1391	axillaires
+T39	morphologie 1596 1602	nodule
+T40	expression_CIM 1596 1686	nodule hypoéchogène, à contours irréguliers, spiculé, de 17 mm à 3 h en périphérie du sein
+T41	topographie 1682 1686	sein
+T43	expression_CIM 1776 1823	juxta-aréolaire externe, il y a un autre nodule
+T44	morphologie 1817 1823	nodule
+T45	expression_CIM 1962 1968	lésion
+T46	morphologie 1962 1968	lésion
+T48	expression_CIM 1977 2007	carcinome nucléaire de grade 2
+T49	differenciation 1997 2007	de grade 2
+T50	morphologie 2019 2049	carcinome canalaire infiltrant
+T51	expression_CIM 2019 2054	carcinome canalaire infiltrant (CDI
+T52	morphologie 2051 2054	CDI
+T53	morphologie 2233 2249	lymphadénopathie
+T54	expression_CIM 2233 2286	lymphadénopathie suspecte de 10 mm à la queue du sein
+T56	morphologie 2290 2306	lymphadénopathie
+T57	expression_CIM 2290 2316	lymphadénopathie axillaire
+T58	topographie 2307 2316	axillaire
+T59	expression_CIM 2345 2354	carcinome
+T60	morphologie 2345 2354	carcinome
+T61	morphologie 2828 2831	CDI
+T62	expression_CIM 2828 2842	CDI de grade 1
+T63	differenciation 2835 2842	grade 1
+T64	expression_CIM 2884 2892	stade IV
+T65	morphologie 2884 2892	stade IV
+T66	morphologie 2917 2927	métastases
+T67	expression_CIM 2917 2936	métastases osseuses
+T68	topographie 2928 2936	osseuses
+T69	topographie 2956 2962	poumon
+T70	expression_CIM 2956 2977	poumon unique douteux
+T71	morphologie 2970 2977	douteux
+T72	morphologie 3681 3692	progression
+T73	expression_CIM 3681 3701	progression pleurale
+T74	topographie 3693 3701	pleurale
+T75	morphologie 4384 4390	lésion
+T76	expression_CIM 4384 4405	lésion intracrânienne
+T77	topographie 4391 4405	intracrânienne
+T78	morphologie 4519 4546	épaississement pathologique
+T79	expression_CIM 4519 4593	épaississement pathologique dural et leptoméningé, supra et infratentoriel
+T80	topographie 4547 4552	dural
+T81	topographie 4556 4568	leptoméningé
+T83	morphologie 4615 4628	carcinomatose
+T84	expression_CIM 4615 4637	carcinomatose méningée
+T85	topographie 4629 4637	méningée
+T86	expression_CIM 5234 5252	maladie systémique
+T87	morphologie 5234 5252	maladie systémique
+T88	morphologie 5308 5314	nodule
+T89	expression_CIM 5308 5325	nodule pulmonaire
+T90	topographie 5315 5325	pulmonaire
+T91	morphologie 5333 5340	lésions
+T92	expression_CIM 5333 5349	lésions osseuses
+T93	topographie 5341 5349	osseuses
+T94	morphologie 5759 5768	stabilité
+T95	expression_CIM 5759 5790	stabilité pulmonaire et osseuse
+T96	topographie 5769 5779	pulmonaire
+T97	topographie 5783 5790	osseuse
+T98	morphologie 5876 5889	carcinomatose
+T99	expression_CIM 5876 5898	carcinomatose méningée
+T100	topographie 5890 5898	méningée
+T101	expression_CIM 6176 6189	carcinomatose
+T102	morphologie 6176 6189	carcinomatose
+T103	morphologie 6272 6283	progression
+T104	expression_CIM 6272 6293	progression hépatique
+T105	topographie 6284 6293	hépatique
+T106	morphologie 6464 6471	lésions
+T107	expression_CIM 6464 6511	lésions osseuses, pulmonaires et leptoméningées
+T108	topographie 6472 6480	osseuses
+T109	topographie 6482 6493	pulmonaires
+T110	topographie 6497 6511	leptoméningées
+T111	morphologie 6865 6876	progression
+T112	expression_CIM 6865 6886	progression hépatique
+T113	topographie 6877 6886	hépatique
+T114	expression_CIM 6890 6904	carcinomateuse
+T115	morphologie 6890 6904	carcinomateuse
+T116	expression_CIM 7180 7193	carcinomatose
+T117	morphologie 7180 7193	carcinomatose
+T42	topographie 1776 1799	juxta-aréolaire externe
+T55	topographie 2273 2286	queue du sein
+T82	topographie 4570 4593	supra et infratentoriel
+#1	ICD-O T47	tocheck
+#2	ICD-O T1	8000/3
+#3	ICD-O T2	C50.9 8000/3
+#4	ICD-O T3	C50.9
+#5	ICD-O T4	8000/1
+#6	ICD-O T5	C25.9 8000/1
+#7	ICD-O T6	C25.9
+#8	ICD-O T7	8000/3
+#9	ICD-O T8	C50.9 8000/3
+#10	ICD-O T9	C50.9
+#11	ICD-O T10	8000/1
+#12	ICD-O T11	C50.9 8000/1
+#13	ICD-O T12	C50.9
+#14	ICD-O T13	8000/3
+#15	ICD-O T14	8000/3
+#16	ICD-O T15	8000/1
+#17	ICD-O T16	C50.3 8000/1
+#18	ICD-O T17	C50.3
+#19	ICD-O T18	8000/1
+#20	ICD-O T19	C44.5 8000/1
+#21	ICD-O T20	C44.5
+#22	ICD-O T21	8000/1
+#23	ICD-O T22	C44.9 8000/1
+#24	ICD-O T23	C44.9
+#25	ICD-O T24	8000/1
+#26	ICD-O T25	C77.3 8000/1
+#27	ICD-O T26	C76.1
+#28	ICD-O T27	8000/1
+#29	ICD-O T28	C50.3 8000/1
+#30	ICD-O T29	C50.3
+#31	ICD-O T30	8000/1
+#32	ICD-O T31	C44.5 8000/1
+#33	ICD-O T32	C44.5
+#34	ICD-O T33	8000/1
+#35	ICD-O T34	C44.9 8000/1
+#36	ICD-O T35	C44.9
+#37	ICD-O T36	tocheck
+#38	ICD-O T38	C76.1
+#39	ICD-O T39	8000/1
+#40	ICD-O T41	C50.9
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	8000/1
+#44	ICD-O T49	2
+#45	ICD-O T50	8500/3
+#46	ICD-O T52	8500/3
+#47	ICD-O T53	8000/1
+#48	ICD-O T56	8000/1
+#49	ICD-O T57	C77.3 8000/1
+#50	ICD-O T58	C76.1
+#51	ICD-O T59	8010/3
+#52	ICD-O T60	8010/3
+#53	ICD-O T61	8500/3
+#54	ICD-O T62	8500/31
+#55	ICD-O T63	1
+#56	ICD-O T64	8000/6
+#57	ICD-O T65	8000/6
+#58	ICD-O T66	8000/6
+#59	ICD-O T67	C41.9 8000/6
+#60	ICD-O T68	C41.9
+#61	ICD-O T69	C34.9
+#62	ICD-O T71	8000/1
+#63	ICD-O T72	8000/9
+#64	ICD-O T73	C38.4 8000/6
+#65	ICD-O T74	C38.4
+#66	ICD-O T75	8000/1
+#67	ICD-O T76	C71.9 8000/1
+#68	ICD-O T77	C71.9
+#69	ICD-O T78	8000/1
+#70	ICD-O T80	C70.9
+#71	ICD-O T81	C70.1 
+#72	ICD-O T83	8000/6
+#73	ICD-O T84	C70.9 8010/9
+#74	ICD-O T85	C70.9
+#75	ICD-O T86	8000/6
+#76	ICD-O T87	8000/6
+#77	ICD-O T88	8000/1
+#78	ICD-O T89	C34.9 8000/1
+#79	ICD-O T90	C34.9
+#80	ICD-O T91	8000/1
+#81	ICD-O T92	C41.9 8000/1
+#82	ICD-O T93	C41.9
+#83	ICD-O T94	tocheck
+#84	ICD-O T96	C34.9
+#85	ICD-O T97	C41.9
+#86	ICD-O T98	8000/6
+#87	ICD-O T99	C70.9 8010/9
+#88	ICD-O T100	C70.9
+#89	ICD-O T101	8010/9
+#90	ICD-O T102	8000/6
+#91	ICD-O T103	8000/9
+#92	ICD-O T104	C22.0 8000/6
+#93	ICD-O T105	C22.0
+#94	ICD-O T106	8000/1
+#95	ICD-O T107	C34.9 8000/1;C41.9 8000/1;C70.9 8000/1
+#96	ICD-O T108	C41.9
+#97	ICD-O T109	C34.9
+#98	ICD-O T110	C70.9
+#99	ICD-O T111	8000/9
+#100	ICD-O T112	C22.0 8000/6
+#101	ICD-O T113	C22.0
+#102	ICD-O T115	tocheck
+#103	ICD-O T116	8010/9
+#104	ICD-O T117	8000/6
+#105	AnnotatorNotes T83	trad
+#106	AnnotatorNotes T98	trad
+#107	AnnotatorNotes T102	trad
+#108	AnnotatorNotes T117	trad

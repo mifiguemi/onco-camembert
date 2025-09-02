@@ -1,0 +1,91 @@
+T1	morphologie 235 240	masse
+T2	expression_CIM 235 258	masse dans l'avant-pied
+T3	topographie 248 258	avant-pied
+T4	morphologie 392 397	masse
+T5	expression_CIM 392 431	masse de 8,9 x 2,9 cm dans l'avant-pied
+T6	topographie 421 431	avant-pied
+T7	expression_CIM 569 588	signes de malignité
+T8	morphologie 569 588	signes de malignité
+T9	expression_CIM 648 672	tumeur à cellules rondes
+T10	morphologie 648 672	tumeur à cellules rondes
+T11	expression_CIM 712 727	sarcome d'Ewing
+T12	morphologie 712 727	sarcome d'Ewing
+T13	expression_CIM 873 894	sarcome indifférencié
+T14	morphologie 873 894	sarcome indifférencié
+T15	morphologie 1143 1151	récidive
+T16	expression_CIM 1143 1162	récidive pulmonaire
+T17	topographie 1152 1162	pulmonaire
+T18	morphologie 1175 1182	nodules
+T19	expression_CIM 1175 1194	nodules pulmonaires
+T20	topographie 1183 1194	pulmonaires
+T21	morphologie 1344 1354	métastases
+T22	expression_CIM 1344 1366	métastases pulmonaires
+T23	topographie 1355 1366	pulmonaires
+T24	expression_CIM 1370 1377	sarcome
+T25	morphologie 1370 1377	sarcome
+T26	morphologie 1437 1442	masse
+T27	expression_CIM 1437 1491	masse de 30 mm adjacente aux sutures du lobe supérieur
+T28	topographie 1477 1491	lobe supérieur
+T29	morphologie 1503 1510	implant
+T30	expression_CIM 1503 1523	implant paratrachéal
+T31	topographie 1511 1523	paratrachéal
+T32	morphologie 1550 1555	masse
+T33	expression_CIM 1550 1570	masse sous-carénaire
+T34	topographie 1556 1570	sous-carénaire
+T35	expression_CIM 1653 1659	cancer
+T36	morphologie 1653 1659	cancer
+T37	expression_CIM 2111 2117	lésion
+T38	morphologie 2111 2117	lésion
+T39	morphologie 2246 2255	progressé
+T40	expression_CIM 2246 2311	progressé vers les niveaux pulmonaire, subcarinal et paratrachéal
+T41	topographie 2273 2283	pulmonaire
+T43	topographie 2299 2311	paratrachéal
+T44	morphologie 2835 2841	lésion
+T45	expression_CIM 2835 2896	lésion résiduelle de 19 x 27 mm subcarinale para-œsophagienne
+T47	expression_CIM 3136 3155	preuve de malignité
+T48	morphologie 3136 3155	preuve de malignité
+T42	topographie 2285 2295	subcarinal
+T46	topographie 2867 2896	subcarinale para-œsophagienne
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.5 8000/1
+#3	ICD-O T3	C76.5
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.5 8000/1
+#6	ICD-O T6	C76.5
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	8000/3
+#9	ICD-O T9	8041/3
+#10	ICD-O T10	8041/3
+#11	ICD-O T11	9260/3
+#12	ICD-O T12	9260/3
+#13	ICD-O T13	8805/3
+#14	ICD-O T14	8805/3
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C34.9 8000/6
+#17	ICD-O T17	C34.9
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C34.9 8000/1
+#20	ICD-O T20	C34.9
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C34.9 8000/6
+#23	ICD-O T23	C34.9
+#24	ICD-O T24	8800/3
+#25	ICD-O T25	8800/3
+#26	ICD-O T26	8000/1
+#27	ICD-O T28	C34.1
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	C71.0 8000/6
+#30	ICD-O T31	C71.0
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	C76.1 8000/1
+#33	ICD-O T34	C76.1
+#34	ICD-O T35	8000/3
+#35	ICD-O T36	8000/3
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	8000/6
+#39	ICD-O T41	C34.9
+#40	ICD-O T43	C71.0
+#41	ICD-O T44	8000/1
+#42	ICD-O T47	8000/3
+#43	ICD-O T48	8000/9

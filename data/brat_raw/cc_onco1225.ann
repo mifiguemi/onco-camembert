@@ -1,0 +1,60 @@
+T1	morphologie 190 201	adénopathie
+T2	expression_CIM 190 211	adénopathie inguinale
+T3	topographie 202 211	inguinale
+T4	expression_CIM 317 353	lymphome diffus à grandes cellules B
+T5	morphologie 317 353	lymphome diffus à grandes cellules B
+T6	expression_CIM 1042 1054	adénopathies
+T7	morphologie 1042 1054	adénopathies
+T8	morphologie 1119 1129	induration
+T9	expression_CIM 1119 1152	induration de la région inguinale
+T10	topographie 1136 1152	région inguinale
+T11	morphologie 1316 1337	masses adénopathiques
+T12	expression_CIM 1316 1451	masses adénopathiques (jusqu'à 5,5 cm) dans le rétropéritoine, au niveau para-aortique gauche infrarénal et à l'origine iliaque commune
+T13	topographie 1363 1377	rétropéritoine
+T16	expression_CIM 1474 1486	adénopathies
+T17	morphologie 1474 1486	adénopathies
+T18	expression_CIM 1582 1594	adénopathies
+T19	morphologie 1582 1594	adénopathies
+T20	morphologie 1726 1762;1785 1796	Lymphome diffus à grandes cellules B non Hodking
+T21	expression_CIM 1726 1796	Lymphome diffus à grandes cellules B de haut grade CD 20+, non Hodking
+T22	differenciation 1766 1776	haut grade
+T23	morphologie 2314 2325	adénopathie
+T24	expression_CIM 2314 2362	adénopathie significative dans le rétropéritoine
+T25	topographie 2348 2362	rétropéritoine
+T26	morphologie 2443 2450	lésions
+T27	expression_CIM 2443 2467	lésions hépatospléniques
+T28	topographie 2451 2467	hépatospléniques
+T29	morphologie 2503 2511	atteinte
+T30	expression_CIM 2503 2523	atteinte péritonéale
+T31	topographie 2512 2523	péritonéale
+T32	expression_CIM 3163 3174	adénopathie
+T33	morphologie 3163 3174	adénopathie
+T15	topographie 1436 1451	iliaque commune
+T14	topographie 1389 1402	para-aortique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.4 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T5	9680/3
+#5	ICD-O T6	C77.9 8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T10	C76.3
+#9	ICD-O T11	8000/1
+#10	ICD-O T13	C48.0
+#11	ICD-O T16	C77.9 8000/1
+#12	ICD-O T17	8000/1
+#13	ICD-O T18	C77.9 8000/1
+#14	ICD-O T19	8000/1
+#15	ICD-O T20	9680/3
+#16	ICD-O T22	4
+#17	ICD-O T23	8000/1
+#18	ICD-O T24	C77.2 8000/1
+#19	ICD-O T25	C48.0
+#20	ICD-O T26	8000/1
+#21	ICD-O T27	C76.2 8000/1
+#22	ICD-O T28	C76.2
+#23	ICD-O T29	8000/1
+#24	ICD-O T30	C48.2 8000/1
+#25	ICD-O T31	C48.2
+#26	ICD-O T32	C77.9 8000/1
+#27	ICD-O T33	8000/1

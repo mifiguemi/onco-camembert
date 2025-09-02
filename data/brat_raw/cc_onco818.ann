@@ -1,0 +1,94 @@
+T22	topographie 1450 1464	région costale
+T47	topographie 4823 4837	région costale
+T6	topographie 715 739	région rétro-auriculaire
+T1	morphologie 516 530	adénocarcinome
+T2	expression_CIM 516 539	adénocarcinome du côlon
+T3	topographie 534 539	côlon
+T4	morphologie 642 648	lésion
+T5	expression_CIM 642 739	lésion pigmentée à bords irréguliers mesurant 1,7 x 1 cm, située dans la région rétro-auriculaire
+T7	expression_CIM 755 761	lésion
+T8	morphologie 755 761	lésion
+T9	expression_CIM 853 859	lésion
+T10	morphologie 853 859	lésion
+T11	expression_CIM 918 926	mélanome
+T12	morphologie 918 926	mélanome
+T13	expression_CIM 945 951	lésion
+T14	morphologie 945 951	lésion
+T15	expression_CIM 1006 1026	mélanome superficiel
+T16	morphologie 1006 1026	mélanome superficiel
+T17	morphologie 1097 1105	invasion
+T18	expression_CIM 1097 1114	invasion du derme
+T19	topographie 1109 1114	derme
+T20	morphologie 1413 1419	lésion
+T21	expression_CIM 1413 1464	lésion pigmentée est apparue dans la région costale
+T23	morphologie 1551 1563	infiltration
+T24	expression_CIM 1551 1572	infiltration dermique
+T25	topographie 1564 1572	dermique
+T26	expression_CIM 1580 1594	mélanome malin
+T27	morphologie 1580 1594	mélanome malin
+T28	expression_CIM 1669 1678	métastase
+T29	morphologie 1669 1678	métastase
+T30	expression_CIM 1684 1692	mélanome
+T31	morphologie 1684 1692	mélanome
+T32	morphologie 1908 1916	mélanome
+T33	expression_CIM 1908 1934	mélanome rétro-auriculaire
+T34	topographie 1917 1934	rétro-auriculaire
+T35	expression_CIM 2072 2092	maladie métastatique
+T36	morphologie 2072 2092	maladie métastatique
+T37	expression_CIM 2225 2233	mélanome
+T38	morphologie 2225 2233	mélanome
+T39	expression_CIM 4244 4265	lésions métastatiques
+T40	morphologie 4244 4265	lésions métastatiques
+T41	morphologie 4727 4735	Mélanome
+T42	expression_CIM 4727 4752	Mélanome rétroauriculaire
+T43	topographie 4736 4752	rétroauriculaire
+T44	morphologie 4792 4799	Rechute
+T45	expression_CIM 4792 4837	Rechute cutanée unique dans la région costale
+T46	topographie 4800 4807	cutanée
+T48	expression_CIM 4845 4848	M1a
+T49	morphologie 4845 4848	M1a
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C18.9 8140/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8720/3
+#11	ICD-O T12	8720/3
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8000/1
+#14	ICD-O T15	8743/3
+#15	ICD-O T16	8743/3
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C44.9 8000/1
+#18	ICD-O T19	C44.9
+#19	ICD-O T20	8000/1
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	C44.9 8000/1
+#22	ICD-O T25	C44.9
+#23	ICD-O T26	8720/3
+#24	ICD-O T27	8720/3
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	8000/6
+#27	ICD-O T30	8720/3
+#28	ICD-O T31	8720/3
+#29	ICD-O T32	8720/3
+#30	ICD-O T33	C77.0 8720/3
+#31	ICD-O T34	C77.0
+#32	ICD-O T35	8000/6
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	8720/3
+#35	ICD-O T38	8720/3
+#36	ICD-O T39	8000/6
+#37	ICD-O T40	8000/6
+#38	ICD-O T41	8720/3
+#39	ICD-O T42	C76.0 8720/3
+#40	ICD-O T43	C76.0
+#41	ICD-O T44	8000/3
+#42	ICD-O T45	C41.3 8000/3;C44.9 8000/3
+#43	ICD-O T46	C44.9
+#44	ICD-O T48	8000/6
+#45	ICD-O T49	8000/6

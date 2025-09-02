@@ -1,0 +1,40 @@
+T2	morphologie 1220 1225	masse
+T3	morphologie 1722 1727	masse
+T5	topographie 1786 1791	flanc
+T7	morphologie 1939 1951	sarcomateuse
+T8	morphologie 1998 2004	tumeur
+T10	topographie 2005 2021	intra-abdominale
+T11	topographie 2059 2073	intestin grêle
+T13	morphologie 2083 2088	masse
+T14	morphologie 2150 2164	léiomyosarcome
+T16	topographie 2170 2184	intestin grêle
+T17	morphologie 2256 2270	Tumeur maligne
+T19	differenciation 2271 2287	peu différenciée
+T21	morphologie 2787 2813	Tumeur épithéliale maligne
+T23	morphologie 2835 2849	Mélanome malin
+T25	morphologie 2881 2894	Leimiosarcome
+T27	morphologie 2896 2912	rhabdomyosarcome
+T29	morphologie 2946 2954	Lymphome
+T31	morphologie 2978 2996	Mésothéliome malin
+T33	morphologie 3058 3073	sarcome d'Ewing
+T34	morphologie 3095 3129	tumeur stromale gastro-intestinale
+T36	morphologie 3131 3135	GIST
+T37	morphologie 4492 4506	tumeur d'Ewing
+T41	morphologie 5347 5359	infiltration
+T42	morphologie 5457 5472	sarcome d'Ewing
+T46	morphologie 5759 5765	nodule
+T47	morphologie 6240 6255	sarcome d'Ewing
+T49	topographie 6256 6266	intestinal
+T50	morphologie 7157 7162	masse
+T52	topographie 7170 7181	hémiabdomen
+T54	morphologie 7279 7285	masses
+T55	morphologie 7630 7635	masse
+T57	topographie 7643 7654	hémiabdomen
+T59	morphologie 7819 7824	masse
+T61	morphologie 7830 7836	masses
+T63	morphologie 8156 8172	masses tumorales
+T65	morphologie 8321 8329	récidive
+T66	morphologie 8333 8348	sarcome d'Ewing
+T68	topographie 8349 8359	intestinal
+T39	topographie 4507 4524	extrasquelettique
+T44	topographie 5473 5490	extrasquelettique

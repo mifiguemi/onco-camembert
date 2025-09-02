@@ -1,0 +1,126 @@
+T3	topographie 449 491	de l'hypogastre à la région sus-ombilicale
+T1	morphologie 428 434	tumeur
+T2	expression_CIM 428 491	tumeur mobile allant de l'hypogastre à la région sus-ombilicale
+T4	morphologie 654 659	masse
+T5	expression_CIM 654 670	masse abdominale
+T6	topographie 660 670	abdominale
+T7	expression_CIM 707 730	foyers de calcification
+T8	morphologie 707 730	foyers de calcification
+T9	expression_CIM 774 782	tératome
+T10	morphologie 774 782	tératome
+T11	expression_CIM 787 793	lésion
+T12	morphologie 787 793	lésion
+T13	morphologie 1035 1046	Adénopathie
+T14	expression_CIM 1035 1134	Adénopathie de 12 mm dans la graisse paracardiaque droite et de 10 mm dans la graisse paracardiaque
+T15	topographie 1064 1085	graisse paracardiaque
+T16	topographie 1113 1134	graisse paracardiaque
+T17	expression_CIM 1184 1190	tumeur
+T18	morphologie 1184 1190	tumeur
+T19	expression_CIM 1616 1633	Tératome immature
+T20	morphologie 1616 1633	Tératome immature
+T21	expression_CIM 1637 1645	stade IV
+T22	morphologie 1637 1645	stade IV
+T23	morphologie 1745 1753	implants
+T24	expression_CIM 1745 1765	implants péritonéaux
+T25	topographie 1754 1765	péritonéaux
+T26	morphologie 1845 1853;1862 1870	tératome immature
+T27	expression_CIM 1845 1881	tératome ovarien immature de grade 3
+T28	topographie 1854 1861	ovarien
+T29	differenciation 1874 1881	grade 3
+T30	morphologie 1891 1899	implants
+T31	expression_CIM 1891 1915	implants dans l'épiploon
+T32	topographie 1907 1915	épiploon
+T33	morphologie 2034 2042	implants
+T34	expression_CIM 2034 2092	implants péri-hépatiques, péritonéaux et du sac de Douglas
+T35	topographie 2043 2058	péri-hépatiques
+T36	topographie 2060 2071	péritonéaux
+T37	topographie 2078 2092	sac de Douglas
+T38	morphologie 2107 2123	lymphadénopathie
+T39	expression_CIM 2107 2155	lymphadénopathie dans les sinus cardiophréniques
+T40	topographie 2133 2155	sinus cardiophréniques
+T41	expression_CIM 2657 2665	implants
+T42	morphologie 2657 2665	implants
+T43	expression_CIM 2673 2685	adénopathies
+T44	morphologie 2673 2685	adénopathies
+T45	morphologie 3081 3091	métastases
+T46	expression_CIM 3081 3106	métastases périhépatiques
+T47	topographie 3092 3106	périhépatiques
+T48	morphologie 3256 3271	implant tumoral
+T49	expression_CIM 3256 3296	implant tumoral dans la poche de Douglas
+T51	morphologie 3554 3566	implantation
+T52	expression_CIM 3554 3591	implantation dans la poche de Douglas
+T54	morphologie 3723 3735	adénopathies
+T55	expression_CIM 3723 3772	adénopathies cardiophréniques et diaphragmatiques
+T56	topographie 3736 3752	cardiophréniques
+T57	topographie 3756 3772	diaphragmatiques
+T58	topographie 3815 3828	tissu adipeux
+T59	expression_CIM 3815 3838	tissu adipeux métastasé
+T60	morphologie 3829 3838	métastasé
+T61	expression_CIM 3846 3883	tissu tératomateux entièrement mature
+T63	morphologie 3886 3905	tératomes immatures
+T64	expression_CIM 3886 3916	tératomes immatures de grade 0
+T65	differenciation 3909 3916	grade 0
+T66	expression_CIM 4293 4301	récidive
+T67	morphologie 4293 4301	récidive
+T50	topographie 3280 3296	poche de Douglas
+T53	topographie 3575 3591	poche de Douglas
+T62	morphologie 3846 3883	tissu tératomateux entièrement mature
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8000/1
+#3	ICD-O T5	C76.2 8000/1
+#4	ICD-O T6	C76.2
+#5	ICD-O T8	8000/1
+#6	ICD-O T9	9080/1
+#7	ICD-O T10	9080/1
+#8	ICD-O T11	8000/1
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	8000/1
+#11	ICD-O T14	C77.1 8000/1
+#12	ICD-O T15	C49.3
+#13	ICD-O T16	C49.3
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	9080/3
+#17	ICD-O T20	9080/3
+#18	ICD-O T21	8000/6
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	C48.2 8000/6
+#22	ICD-O T25	C48.2
+#23	ICD-O T26	9080/3
+#24	ICD-O T27	C56.9 9080/33
+#25	ICD-O T28	C56.9
+#26	ICD-O T29	3
+#27	ICD-O T30	8000/6
+#28	ICD-O T31	C48.1 8000/6
+#29	ICD-O T32	C48.1
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	C48.1 8000/6;C48.2 8000/6;C76.2 8000/6
+#32	ICD-O T35	C76.2
+#33	ICD-O T36	C48.2
+#34	ICD-O T37	C48.1
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	C77.1 8000/1
+#37	ICD-O T40	C76.1
+#38	ICD-O T41	8000/6
+#39	ICD-O T42	8000/6
+#40	ICD-O T43	C77.9 8000/1
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	8000/6
+#43	ICD-O T46	C24.8 8000/6
+#44	ICD-O T47	C24.8
+#45	ICD-O T48	8000/6
+#46	ICD-O T51	8000/6
+#47	ICD-O T54	8000/1
+#48	ICD-O T55	C77.1 8000/1
+#49	ICD-O T56	C76.1
+#50	ICD-O T57	C49.3
+#51	ICD-O T58	C49.9
+#52	ICD-O T59	C49.9 8000/6
+#53	ICD-O T60	8000/6
+#54	ICD-O T63	9080/3
+#55	ICD-O T64	9080/30
+#56	ICD-O T65	0
+#57	ICD-O T66	8000/6
+#58	ICD-O T67	8000/9
+#59	ICD-O T62	9080/0

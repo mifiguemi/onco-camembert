@@ -1,0 +1,37 @@
+T1	morphologie 146 152	lésion
+T3	topographie 153 160	cutanée
+T5	morphologie 329 335	lésion
+T7	morphologie 751 777	sarcome à cellules claires
+T9	morphologie 779 782	SCC
+T11	morphologie 1032 1038	lésion
+T13	morphologie 1058 1064	tumeur
+T15	morphologie 1523 1531	récidive
+T16	morphologie 2043 2050	lésions
+T18	topographie 2051 2059	cutanées
+T19	morphologie 2255 2262	nodules
+T21	topographie 2263 2271	pleuraux
+T23	morphologie 2293 2303	métastases
+T24	morphologie 2383 2394	adénopathie
+T26	topographie 2395 2402	hilaire
+T27	topographie 2406 2418	médiastinale
+T29	morphologie 2520 2537	cellules malignes
+T31	morphologie 2667 2681	mélanome malin
+T33	morphologie 2848 2874	sarcome à cellules claires
+T35	morphologie 3004 3018	mélanome malin
+T37	morphologie 3204 3230	sarcome à cellules claires
+T39	morphologie 3261 3273	infiltration
+T41	morphologie 3282 3288	tumeur
+T43	morphologie 3580 3606	sarcome à cellules claires
+T45	morphologie 3622 3636	mélanome malin
+T47	morphologie 3665 3673	récidive
+T48	morphologie 3677 3703	sarcome à cellules claires
+T50	topographie 3720 3726	plèvre
+T52	morphologie 3759 3774	tumeur primaire
+T54	morphologie 3953 3977	sarcomes des tissus mous
+T55	morphologie 4286 4302	lymphadénopathie
+T57	topographie 4303 4319	sus-claviculaire
+T58	morphologie 4336 4346	métastases
+T60	topographie 4347 4355	osseuses
+T61	morphologie 4363 4386	progression des lésions
+T63	topographie 4387 4396	pleurales
+T65	morphologie 4629 4637	récidive

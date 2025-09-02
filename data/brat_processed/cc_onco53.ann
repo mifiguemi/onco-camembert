@@ -1,0 +1,144 @@
+T121	topographie 6499 6517	carotide jugulaire
+T126	topographie 6652 6709	chaînes ganglionnaires périaortiques thoraciques distales
+T174	topographie 8445 8466	espace sous-phrénique
+T146	topographie 7545 7560	iliaque externe
+T1	morphologie 239 259	lésion mélanocytaire
+T66	topographie 4499 4543	lymphatique inguinale, fémorale et pelvienne
+T103	topographie 6036 6078	lymphatique supra- et infradiaphragmatique
+T124	topographie 6596 6612	mammaire interne
+T85	topographie 5537 5563	médiastinale paratrachéale
+T175	topographie 8474 8485	paracolique
+T122	topographie 6529 6553	paratrachéale supérieure
+T177	topographie 8515 8525	péri-rénal
+T3	topographie 267 273	cuisse
+T5	morphologie 322 342	mélanome superficiel
+T7	morphologie 560 568	mélanome
+T8	morphologie 820 828	atteinte
+T10	topographie 829 851	lymphatique abdominale
+T12	morphologie 932 940	mélanome
+T14	morphologie 1298 1310	adénopathies
+T15	morphologie 1376 1384	atteinte
+T17	topographie 1385 1413	lymphatique rétropéritonéale
+T18	morphologie 1584 1592	atteinte
+T20	topographie 1597 1619	ganglions lymphatiques
+T22	morphologie 1722 1734	adénopathies
+T23	morphologie 2114 2139	progression de la maladie
+T25	topographie 2154 2176	ganglions lymphatiques
+T26	morphologie 2305 2330	progression de la maladie
+T28	topographie 2354 2382	tissu cellulaire sous-cutané
+T29	morphologie 2393 2400	nodules
+T31	topographie 2408 2415	calotte
+T32	topographie 2419 2425	épaule
+T33	topographie 2437 2453	membre inférieur
+T34	topographie 2465 2470	fesse
+T36	morphologie 2501 2511	métastases
+T38	topographie 2520 2536	glande surrénale
+T40	morphologie 2732 2757	progression de la maladie
+T42	topographie 2805 2833	tissu cellulaire sous-cutané
+T43	morphologie 2861 2868	nodules
+T47	morphologie 3243 3264	lésions métastatiques
+T49	morphologie 3285 3292	lésions
+T51	morphologie 3328 3334	lésion
+T53	morphologie 3366 3373	lésions
+T54	morphologie 3675 3682	nodules
+T56	topographie 3683 3695	sous-cutanés
+T57	morphologie 3736 3743	lésions
+T59	topographie 3754 3766	sous-pleural
+T95	topographie 5751 5774	pleuraux paravertébraux
+T61	morphologie 3831 3843	adénopathies
+T64	morphologie 4490 4498	récidive
+T67	morphologie 4758 4777	image adénopathique
+T69	topographie 4807 4857	bifurcation des artères iliaques internes-externes
+T71	morphologie 4903 4923	origine métastatique
+T73	morphologie 4938 4949	adénopathie
+T74	morphologie 5129 5136	tumeurs
+T76	topographie 5137 5149	lymphatiques
+T78	morphologie 5272 5280	atteinte
+T80	topographie 5281 5309	lymphatique rétropéritonéale
+T82	morphologie 5485 5510	progression de la maladie
+T83	morphologie 5520 5536	lymphadénopathie
+T86	morphologie 5605 5621	lymphadénopathie
+T88	topographie 5622 5635	para-aortique
+T89	topographie 5656 5675	corps vertébral T10
+T90	morphologie 5681 5697	lymphadénopathie
+T92	topographie 5698 5710	rétrocrurale
+T93	morphologie 5742 5750	implants
+T96	morphologie 5859 5868	Métastase
+T98	topographie 5869 5882	surrénalienne
+T100	morphologie 5996 6021	progression de la maladie
+T101	morphologie 6027 6035	atteinte
+T104	morphologie 6080 6088	implants
+T106	topographie 6089 6097	pleuraux
+T107	topographie 6101 6112	péritonéaux
+T108	morphologie 6114 6122	atteinte
+T110	topographie 6127 6138	tissus mous
+T111	topographie 6148 6164	glande surrénale
+T112	morphologie 6299 6320	lésions métastatiques
+T114	topographie 6321 6334	sous-cutanées
+T116	topographie 6365 6374	pectorale
+T117	topographie 6385 6400	para-ombilicale
+T118	topographie 6417 6444	musculature infrascapulaire
+T119	morphologie 6480 6490	métastases
+T125	topographie 6624 6637	prévertébrale
+T127	morphologie 6752 6762	métastases
+T130	topographie 6911 6925	chaîne iliaque
+T132	morphologie 7178 7199	lésions métastatiques
+T134	morphologie 7217 7224	lésions
+T136	morphologie 7252 7258	lésion
+T138	morphologie 7405 7424	maladie néoplasique
+T140	morphologie 7460 7467	lésions
+T141	morphologie 7483 7490	implant
+T143	topographie 7491 7506	rétropéritonéal
+T144	morphologie 7533 7544	adénopathie
+T147	morphologie 7609 7616	implant
+T150	morphologie 7647 7653	lésion
+T154	morphologie 7928 7935	lésions
+T155	morphologie 8005 8011	tumeur
+T157	topographie 8025 8040	muscle pectoral
+T158	morphologie 8156 8172	lymphadénopathie
+T161	morphologie 8216 8232	lymphadénopathie
+T163	topographie 8233 8242	axillaire
+T164	morphologie 8280 8287	lésions
+T166	topographie 8288 8303	paravertébrales
+T168	morphologie 8377 8385	atteinte
+T170	topographie 8386 8399	surrénalienne
+T171	topographie 8403 8421	para-surrénalienne
+T172	morphologie 8430 8437	Nodules
+T179	morphologie 8554 8561	lésions
+T181	morphologie 8653 8674	Mélanome polytatrique
+T183	morphologie 8678 8686	stade IV
+T184	morphologie 8692 8702	métastases
+T186	topographie 8717 8739	ganglions lymphatiques
+T187	topographie 8744 8772	tissu cellulaire sous-cutané
+T188	topographie 8774 8787	paravertébral
+T189	topographie 8789 8800	surrénalien
+T190	topographie 8804 8813	pararénal
+T192	morphologie 9239 9246	lésions
+T193	morphologie 9270 9276	tumeur
+T195	topographie 9285 9300	muscle pectoral
+T196	morphologie 9787 9812	progression de la maladie
+T198	topographie 9823 9836	paravertébral
+T199	topographie 9838 9851	ganglionnaire
+T200	topographie 9853 9864	surrénalien
+T201	topographie 9868 9877	pararénal
+T203	morphologie 9956 9964	mélanome
+T205	morphologie 10279 10304	progression de la maladie
+T206	morphologie 10314 10331	atteinte tumorale
+T208	topographie 10342 10356	latérocervical
+T209	topographie 10358 10368	thoracique
+T210	topographie 10370 10379	abdominal
+T211	topographie 10383 10390	pelvien
+T167	topographie 8331 8358	première vertèbre cervicale
+T123	topographie 6565 6591	prévasculaire médiastinale
+T77	topographie 5223 5237	région iliaque
+T63	topographie 3852 3874	région iliaque externe
+T60	topographie 3778 3799	région infratemporale
+T152	topographie 7678 7699	région infratemporale
+T35	topographie 2477 2492	région lombaire
+T160	topographie 8181 8199	région sous-lacale
+T39	topographie 2550 2570	région sous-pleurale
+T45	topographie 2869 2944	sous-cutanés sur le crâne, l'hémithorax gauche et la région para-ombilicale
+T149	topographie 7617 7639	sous-pleural antérieur
+T129	topographie 6771 6891	tissu adipeux extrapéritonéal (graisse prépéritonéale ventrale au lobe hépatique gauche, périnéale gauche et infrarénale
+T176	topographie 8493 8501	urétéral
+T115	topographie 6341 6356	zone occipitale

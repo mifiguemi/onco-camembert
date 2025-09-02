@@ -1,0 +1,88 @@
+T15	topographie 636 652	espace pararénal
+T24	topographie 819 835	espace pararénal
+T1	morphologie 79 84	masse
+T2	expression_CIM 79 91	masse rénale
+T3	topographie 85 91	rénale
+T4	morphologie 230 239;246 264	carcinome à cellules claires
+T5	expression_CIM 230 264	carcinome rénal à cellules claires
+T6	morphologie 373 379	nodule
+T7	expression_CIM 373 392	nodule sous-pleural
+T8	topographie 380 392	sous-pleural
+T9	expression_CIM 494 503	métastase
+T10	morphologie 494 503	métastase
+T11	expression_CIM 517 523	nodule
+T12	morphologie 517 523	nodule
+T13	morphologie 596 616	implant métastatique
+T14	expression_CIM 596 652	implant métastatique est observé dans l'espace pararénal
+T16	morphologie 732 741;748 766	Carcinome à cellules claires
+T17	expression_CIM 732 766	Carcinome rénal à cellules claires
+T18	topographie 742 747	rénal
+T19	expression_CIM 770 778	stade IV
+T20	morphologie 770 778	stade IV
+T21	morphologie 788 798	métastases
+T22	expression_CIM 788 835	métastases pulmonaires et à un espace pararénal
+T23	topographie 799 810	pulmonaires
+T25	morphologie 921 927	nodule
+T26	expression_CIM 921 938	nodule pulmonaire
+T27	topographie 928 938	pulmonaire
+T28	morphologie 1155 1160	masse
+T29	expression_CIM 1155 1178	masse sous-pleurale LII
+T31	morphologie 1239 1244	masse
+T32	expression_CIM 1239 1265	masse sous-diaphragmatique
+T33	topographie 1245 1265	sous-diaphragmatique
+T34	morphologie 1907 1913	lésion
+T35	expression_CIM 1907 1934	lésion sous-pleurale de LII
+T37	morphologie 1960 1966	lésion
+T38	expression_CIM 1960 1996	lésion postéro-inférieure de la rate
+T39	topographie 1992 1996	rate
+T40	expression_CIM 2641 2647	nodule
+T41	morphologie 2641 2647	nodule
+T42	morphologie 2688 2697	métastase
+T43	expression_CIM 2688 2707	métastase splénique
+T44	topographie 2698 2707	splénique
+T45	morphologie 2713 2725	infiltration
+T46	expression_CIM 2713 2741	infiltration diaphragmatique
+T47	topographie 2726 2741	diaphragmatique
+T36	topographie 1914 1934	sous-pleurale de LII
+T30	topographie 1161 1178	sous-pleurale LII
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C64.9 8000/1
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8310/3
+#5	ICD-O T5	C64.9 8310/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C38.8 8000/1
+#8	ICD-O T8	C38.8
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C68.8 8000/6
+#15	ICD-O T16	8310/3
+#16	ICD-O T17	C64.9 8310/3
+#17	ICD-O T18	C64.9
+#18	ICD-O T19	8000/6
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T23	C34.9
+#22	ICD-O T25	8000/1
+#23	ICD-O T27	C34.9
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	C34.3 8000/1;C38.8 8000/1
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	C76.2 8000/1
+#28	ICD-O T33	C76.2
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	C34.3 8000/1;C38.8 8000/1
+#31	ICD-O T37	8000/1
+#32	ICD-O T38	C42.2 8000/1
+#33	ICD-O T39	C42.2
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	8000/6
+#37	ICD-O T43	C42.2 8000/6
+#38	ICD-O T44	C42.2
+#39	ICD-O T45	8000/1
+#40	ICD-O T46	C49.3 8000/1
+#41	ICD-O T47	C49.3

@@ -1,0 +1,21 @@
+T1	morphologie 234 246	tumeur mixte
+T31	morphologie 262 271	müllérien
+T3	morphologie 277 285	invasion
+T5	topographie 286 297	myométriale
+T7	morphologie 310 322	adénopathies
+T9	morphologie 698 722	tumeur müllérienne mixte
+T10	morphologie 748 755	sarcome
+T32	morphologie 770 806	à différenciation rhabdomyoblastique
+T12	differenciation 759 769	haut grade
+T14	morphologie 818 834	carcinome séreux
+T16	differenciation 838 848	haut grade
+T17	morphologie 1325 1332	rechute
+T19	topographie 1343 1353	péritonéal
+T20	topographie 1357 1370	ganglionnaire
+T21	morphologie 1380 1406	adénopathies pathologiques
+T23	topographie 1415 1437	chaîne iliaque externe
+T24	morphologie 1522 1528	cancer
+T26	topographie 1534 1543	endomètre
+T27	morphologie 1674 1685	progression
+T29	topographie 1686 1697	péritonéale
+T30	topographie 1701 1714	ganglionnaire

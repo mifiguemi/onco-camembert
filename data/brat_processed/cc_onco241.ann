@@ -1,0 +1,31 @@
+T1	morphologie 1052 1077	adénocarcinome infiltrant
+T3	topographie 1084 1092	prostate
+T5	morphologie 1129 1135	tumeur
+T6	morphologie 1219 1227	invasion
+T8	topographie 1228 1244	lymphovasculaire
+T9	morphologie 1333 1339	lésion
+T11	topographie 1364 1377	sacro-iliaque
+T12	morphologie 1487 1497	métastases
+T14	topographie 1498 1506	osseuses
+T15	morphologie 1581 1590	métastase
+T17	topographie 1591 1598	osseuse
+T18	topographie 1606 1617	aile sacrée
+T19	morphologie 1652 1677	Adénocarcinome infiltrant
+T21	topographie 1684 1692	prostate
+T23	morphologie 1696 1704	stade IV
+T24	morphologie 1720 1729	métastase
+T26	topographie 1730 1737	osseuse
+T27	topographie 1754 1767	sacro-iliaque
+T28	morphologie 5668 5674	tumeur
+T30	topographie 5675 5688	sacro-iliaque
+T31	morphologie 6208 6217	métastase
+T33	topographie 6218 6225	osseuse
+T35	morphologie 6230 6242	plasmocytome
+T37	morphologie 6249 6274	tumeur à cellules géantes
+T38	morphologie 6437 6443	lésion
+T40	topographie 6444 6451	osseuse
+T41	morphologie 6487 6493	tumeur
+T47	morphologie 6502 6510	primaire
+T43	topographie 6494 6501	osseuse
+T44	morphologie 6623 6648	tumeur à cellules géantes
+T46	topographie 6654 6656	os

@@ -1,0 +1,64 @@
+T80	topographie 7146 7162	parenchyme rénal
+T1	morphologie 160 166	cancer
+T3	topographie 170 174	sein
+T4	morphologie 1289 1303	lésion lytique
+T6	topographie 1304 1309	L4-L5
+T7	morphologie 1317 1323	lésion
+T10	morphologie 1435 1456	atteinte métastatique
+T12	topographie 1461 1483	ganglions lymphatiques
+T13	topographie 1489 1496	poumons
+T14	topographie 1504 1506	os
+T15	morphologie 1512 1517	masse
+T17	topographie 1518 1524	rénale
+T19	morphologie 1755 1763	récidive
+T20	morphologie 1767 1773	cancer
+T22	topographie 1777 1781	sein
+T24	morphologie 1972 1978	lésion
+T25	morphologie 2058 2064	lésion
+T27	topographie 2065 2072	costale
+T28	topographie 2081 2090	tissu mou
+T30	morphologie 2332 2338	tumeur
+T31	morphologie 2667 2676	carcinome
+T33	topographie 2677 2685	mammaire
+T35	morphologie 2758 2776	cellules tumorales
+T36	morphologie 3383 3389	cancer
+T38	topographie 3393 3397	sein
+T39	morphologie 3563 3569	cancer
+T41	topographie 3573 3577	sein
+T43	morphologie 3665 3685	maladie métastatique
+T44	morphologie 3745 3755	métastases
+T46	topographie 3756 3766	cérébrales
+T47	morphologie 4960 4967	lésions
+T49	topographie 4968 4979	pulmonaires
+T51	morphologie 5045 5052	nodules
+T53	morphologie 5124 5130	nodule
+T54	morphologie 5168 5174	lésion
+T56	topographie 5204 5214	arc costal
+T57	morphologie 5375 5382	lésions
+T59	topographie 5392 5398	osseux
+T60	morphologie 5466 5471	masse
+T62	topographie 5500 5504	rein
+T63	morphologie 5584 5593	néoplasie
+T95	morphologie 5601 5609	primaire
+T65	topographie 5594 5600	rénale
+T67	morphologie 5638 5648	métastases
+T68	morphologie 5881 5893	néoformation
+T70	topographie 5894 5900	rénale
+T72	morphologie 6878 6894	lésion nodulaire
+T73	morphologie 7025 7034	métastase
+T75	morphologie 7040 7049	carcinome
+T96	morphologie 7059 7068	canalaire
+T76	topographie 7050 7058	mammaire
+T77	morphologie 7076 7109	carcinome à cellules chromophobes
+T79	topographie 7113 7117	rein
+T81	morphologie 7169 7177	atteinte
+T83	topographie 7181 7205	tissu adipeux péri-rénal
+T84	topographie 7224 7233	mammaires
+T86	morphologie 7267 7277	métastases
+T87	morphologie 7281 7290	carcinome
+T89	topographie 7291 7299	mammaire
+T90	morphologie 7536 7542	tumeur
+T97	morphologie 7552 7560	primaire
+T92	topographie 7543 7551	mammaire
+T94	morphologie 7711 7718	maladie
+T9	topographie 1324 1355	supra-acétabulaire de la hanche

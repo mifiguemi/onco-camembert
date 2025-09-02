@@ -1,0 +1,59 @@
+T1	morphologie 447 477	carcinome canalaire infiltrant
+T3	topographie 481 485	sein
+T4	morphologie 511 519	atteinte
+T6	topographie 520 527	cutanée
+T8	morphologie 633 639	nodule
+T9	morphologie 692 697	masse
+T12	morphologie 1017 1029	adénopathies
+T14	topographie 1030 1040	axillaires
+T15	morphologie 1105 1111	lésion
+T17	topographie 1112 1120	mammaire
+T19	morphologie 1151 1181	carcinome canalaire infiltrant
+T21	morphologie 1309 1321	infiltration
+T22	morphologie 1329 1348	carcinome canalaire
+T24	topographie 1352 1356	sein
+T26	morphologie 1404 1414	métastases
+T27	morphologie 1898 1903	masse
+T29	topographie 1904 1912	mammaire
+T30	topographie 1926 1935	axillaire
+T31	morphologie 2080 2110	carcinome canalaire infiltrant
+T33	topographie 2114 2118	sein
+T34	morphologie 2130 2138	atteinte
+T36	topographie 2139 2148	axillaire
+T37	morphologie 3621 3638	zone plus indurée
+T39	topographie 3662 3688	quadrant inférieur externe
+T41	morphologie 3754 3759	masse
+T42	morphologie 4449 4454	masse
+T44	topographie 4455 4471	rétropéritonéale
+T45	topographie 4472 4486	paravertébrale
+T46	morphologie 4903 4908	masse
+T48	topographie 4909 4925	rétropéritonéale
+T49	morphologie 5074 5079	masse
+T51	topographie 5080 5094	paravertébrale
+T53	morphologie 5196 5205	métastase
+T54	morphologie 5309 5315	lésion
+T56	topographie 5316 5332	rétropéritonéale
+T57	morphologie 5559 5565	lésion
+T59	topographie 5566 5582	rétropéritonéale
+T60	morphologie 5613 5622	carcinome
+T62	differenciation 5623 5638	peu différencié
+T63	morphologie 5728 5747	Carcinome canalaire
+T65	topographie 5751 5755	sein
+T66	morphologie 5776 5783	rechute
+T68	topographie 5784 5800	rétropéritonéale
+T70	morphologie 6742 6763	processus néoplasique
+T71	morphologie 7173 7180	rechute
+T73	topographie 7181 7197	rétropéritonéale
+T74	morphologie 7201 7210	carcinome
+T93	morphologie 7220 7229	canalaire
+T76	topographie 7211 7219	mammaire
+T78	morphologie 7291 7311	maladie métastatique
+T80	morphologie 8701 8721	progression tumorale
+T81	morphologie 8772 8777	masse
+T83	topographie 8778 8790	rétrocrurale
+T85	morphologie 8948 8968	maladie métastatique
+T86	morphologie 9331 9336	masse
+T88	topographie 9337 9349	rétrocrurale
+T90	morphologie 9534 9541	lésions
+T92	morphologie 9556 9576	maladie métastatique
+T11	topographie 817 843	quadrants externes du sein

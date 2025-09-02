@@ -1,0 +1,222 @@
+T1	expression_CIM 628 634	lésion
+T2	morphologie 628 634	lésion
+T3	morphologie 809 827	cystadénocarcinome
+T4	expression_CIM 809 835	cystadénocarcinome ovarien
+T5	topographie 828 835	ovarien
+T6	morphologie 841 853	infiltration
+T7	expression_CIM 841 865	infiltration de l'utérus
+T8	topographie 859 865	utérus
+T9	morphologie 879 887	implants
+T10	expression_CIM 879 899	implants péritonéaux
+T11	topographie 888 899	péritonéaux
+T12	morphologie 903 912	néoplasie
+T13	expression_CIM 903 920	néoplasie utérine
+T14	topographie 913 920	utérine
+T15	morphologie 960 988	Adénocarcinome endométrioïde
+T16	expression_CIM 960 1000	Adénocarcinome endométrioïde de l'ovaire
+T17	topographie 994 1000	ovaire
+T18	morphologie 1009 1037	Adénocarcinome endométrioïde
+T19	expression_CIM 1009 1055	Adénocarcinome endométrioïde de l'endomètre G2
+T20	topographie 1043 1052	endomètre
+T21	differenciation 1053 1055	G2
+T22	morphologie 1064 1078	Adénocarcinome
+T23	expression_CIM 1064 1089	Adénocarcinome intestinal
+T24	topographie 1079 1089	intestinal
+T25	morphologie 1180 1190	néoplasies
+T26	expression_CIM 1180 1220	néoplasies endométriales et intestinales
+T27	topographie 1191 1204	endométriales
+T28	topographie 1208 1220	intestinales
+T29	expression_CIM 1330 1351	cellules néoplasiques
+T30	morphologie 1330 1351	cellules néoplasiques
+T31	expression_CIM 1575 1582	tumeurs
+T32	morphologie 1575 1582	tumeurs
+T33	morphologie 1595 1623	adénocarcinome endométrioïde
+T34	expression_CIM 1595 1635	adénocarcinome endométrioïde de l'ovaire
+T35	topographie 1629 1635	ovaire
+T36	morphologie 1640 1668	adénocarcinome endométrioïde
+T37	expression_CIM 1640 1683	adénocarcinome endométrioïde de l'endomètre
+T38	topographie 1674 1683	endomètre
+T39	morphologie 1690 1704	adénocarcinome
+T40	expression_CIM 1690 1715	adénocarcinome intestinal
+T41	topographie 1705 1715	intestinal
+T42	morphologie 1826 1834	grosseur
+T43	expression_CIM 1826 1844	grosseur ovarienne
+T44	topographie 1835 1844	ovarienne
+T45	expression_CIM 2004 2010	tumeur
+T46	morphologie 2004 2010	tumeur
+T47	morphologie 2186 2192	cancer
+T48	expression_CIM 2186 2204	cancer de l'ovaire
+T49	topographie 2198 2204	ovaire
+T50	morphologie 2489 2498	néoplasie
+T51	expression_CIM 2489 2507	néoplasie du côlon
+T52	topographie 2502 2507	côlon
+T53	morphologie 3042 3060	cystadénocarcinome
+T54	expression_CIM 3042 3068	cystadénocarcinome ovarien
+T55	topographie 3061 3068	ovarien
+T56	morphologie 3074 3086	infiltration
+T57	expression_CIM 3074 3098	infiltration de l'utérus
+T58	topographie 3092 3098	utérus
+T59	morphologie 3102 3110	implants
+T60	expression_CIM 3102 3122	implants péritonéaux
+T61	topographie 3111 3122	péritonéaux
+T62	morphologie 3126 3135	néoplasie
+T63	expression_CIM 3126 3143	néoplasie utérine
+T64	topographie 3136 3143	utérine
+T65	morphologie 3259 3287	adénocarcinome endométrioïde
+T66	expression_CIM 3259 3327	adénocarcinome endométrioïde modérément différencié (G2) de l'ovaire
+T67	differenciation 3288 3310	modérément différencié
+T68	differenciation 3312 3314	G2
+T69	topographie 3321 3327	ovaire
+T70	morphologie 3458 3464	cancer
+T71	expression_CIM 3458 3476	cancer de l'ovaire
+T72	topographie 3470 3476	ovaire
+T73	expression_CIM 3509 3518	néoplasie
+T74	morphologie 3509 3518	néoplasie
+T75	morphologie 3613 3621	implants
+T76	expression_CIM 3613 3651	implants ont été trouvés dans le côlon
+T77	topographie 3646 3651	côlon
+T78	morphologie 3896 3902	cancer
+T79	expression_CIM 3896 3914	cancer de l'ovaire
+T80	topographie 3908 3914	ovaire
+T81	morphologie 4509 4517	atteinte
+T82	expression_CIM 4509 4532	atteinte du côlon droit
+T83	topographie 4521 4532	côlon droit
+T84	morphologie 4597 4612	tumeur primaire
+T85	expression_CIM 4597 4638	tumeur primaire s'installant sur le côlon
+T86	topographie 4633 4638	côlon
+T87	expression_CIM 4672 4692	entités néoplasiques
+T88	morphologie 4672 4692	entités néoplasiques
+T89	morphologie 4734 4762	adénocarcinome endométrioïde
+T90	expression_CIM 4734 4822	adénocarcinome endométrioïde de l'ovaire pT1a) ; une seconde, localisée dans l'endomètre
+T91	topographie 4768 4774	ovaire
+T92	topographie 4813 4822	endomètre
+T93	morphologie 4824 4852	adénocarcinome endométrioïde
+T94	expression_CIM 4824 4917	adénocarcinome endométrioïde de l'endomètre G2, pT1a) et, enfin, celle présente dans le côlon
+T95	topographie 4858 4867	endomètre
+T96	differenciation 4868 4870	G2
+T97	topographie 4912 4917	côlon
+T98	morphologie 4919 4933	adénocarcinome
+T99	expression_CIM 4919 4944	adénocarcinome intestinal
+T100	topographie 4934 4944	intestinal
+T101	expression_CIM 4993 5030	l'atteinte ovarienne était secondaire
+T102	morphologie 4995 5003;5020 5030	atteinte secondaire
+T103	topographie 5004 5013	ovarienne
+T104	morphologie 5037 5043	tumeur
+T105	expression_CIM 5037 5056	tumeur endométriale
+T106	topographie 5044 5056	endométriale
+T107	morphologie 5390 5404	adénocarcinome
+T108	expression_CIM 5390 5413	adénocarcinome du côlon
+T109	topographie 5408 5413	côlon
+T110	morphologie 5473 5483	néoplasies
+T111	expression_CIM 5473 5511	néoplasies ovariennes et endométriales
+T112	topographie 5484 5494	ovariennes
+T113	topographie 5498 5511	endométriales
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8440/3
+#4	ICD-O T4	C56.9 8440/3
+#5	ICD-O T5	C56.9
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C55.9 8000/1
+#8	ICD-O T8	C55.9
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	C48.2 8000/6
+#11	ICD-O T11	C48.2
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C55.9 8000/1
+#14	ICD-O T14	C55.9
+#15	ICD-O T15	8380/3
+#16	ICD-O T16	C56.9 8380/3
+#17	ICD-O T17	C56.9
+#18	ICD-O T18	8380/3
+#19	ICD-O T19	C54.1 8380/32
+#20	ICD-O T20	C54.1
+#21	ICD-O T21	2
+#22	ICD-O T22	8140/3
+#23	ICD-O T24	C26.0
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C26.0 8000/1;C54.1 8000/1
+#26	ICD-O T27	C54.1
+#27	ICD-O T28	C26.0
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	8380/3
+#33	ICD-O T34	C56.9 8380/3
+#34	ICD-O T35	C56.9
+#35	ICD-O T36	8380/3
+#36	ICD-O T37	C54.1 8380/3
+#37	ICD-O T38	C54.1
+#38	ICD-O T39	8140/3
+#39	ICD-O T40	C26.0 8140/3
+#40	ICD-O T41	C26.0
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	C56.9 8000/1
+#43	ICD-O T44	C56.9
+#44	ICD-O T45	8000/1
+#45	ICD-O T46	8000/1
+#46	ICD-O T47	8000/3
+#47	ICD-O T48	C56.9 8000/3
+#48	ICD-O T49	C56.9
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	C18.9 8000/1
+#51	ICD-O T52	C18.9
+#52	ICD-O T53	8440/3
+#53	ICD-O T54	C56.9 8440/3
+#54	ICD-O T55	C56.9
+#55	ICD-O T56	8000/1
+#56	ICD-O T57	C55.9 8000/1
+#57	ICD-O T58	C55.9
+#58	ICD-O T59	8000/6
+#59	ICD-O T60	C48.2 8000/6
+#60	ICD-O T61	C48.2
+#61	ICD-O T62	8000/1
+#62	ICD-O T63	C55.9 8000/1
+#63	ICD-O T64	C55.9
+#64	ICD-O T65	8380/3
+#65	ICD-O T66	C56.9 8380/32
+#66	ICD-O T67	2
+#67	ICD-O T68	2
+#68	ICD-O T69	C56.9
+#69	ICD-O T70	8000/3
+#70	ICD-O T71	C56.9 8000/3
+#71	ICD-O T72	C56.9
+#72	ICD-O T73	8000/1
+#73	ICD-O T74	8000/1
+#74	ICD-O T75	8000/6
+#75	ICD-O T76	C18.9 8000/6
+#76	ICD-O T77	C18.9
+#77	ICD-O T78	8000/3
+#78	ICD-O T79	C56.9 8000/3
+#79	ICD-O T80	C56.9
+#80	ICD-O T81	8000/1
+#81	ICD-O T82	C18.2 8000/1
+#82	ICD-O T83	C18.2
+#83	ICD-O T84	8000/3
+#84	ICD-O T85	C18.9 8000/3
+#85	ICD-O T86	C18.9
+#86	ICD-O T87	8000/3
+#87	ICD-O T88	8000/3
+#88	ICD-O T89	8380/3
+#89	ICD-O T91	C56.9
+#90	ICD-O T92	C54.1
+#91	ICD-O T93	8380/3
+#92	ICD-O T95	C54.1
+#93	ICD-O T96	2
+#94	ICD-O T97	C18.9
+#95	ICD-O T98	8140/3
+#96	ICD-O T99	C26.0 8140/3
+#97	ICD-O T100	C26.0
+#98	ICD-O T102	8000/6
+#99	ICD-O T103	C56.9
+#100	ICD-O T104	8000/1
+#101	ICD-O T105	C54.1 8000/1
+#102	ICD-O T106	C54.1
+#103	ICD-O T107	8140/3
+#104	ICD-O T108	C18.9 8140/3
+#105	ICD-O T109	C18.9
+#106	ICD-O T110	8000/1
+#107	ICD-O T111	C54.1 8000/1;C56.9 8000/1
+#108	ICD-O T112	C56.9
+#109	ICD-O T113	C54.1

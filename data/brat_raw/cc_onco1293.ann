@@ -1,0 +1,37 @@
+T1	morphologie 465 470	masse
+T2	expression_CIM 465 498	masse dans le médiastin antérieur
+T3	topographie 479 498	médiastin antérieur
+T4	expression_CIM 544 549	masse
+T5	morphologie 544 549	masse
+T6	expression_CIM 587 598	adénopathie
+T7	morphologie 587 598	adénopathie
+T8	expression_CIM 691 709	thymome de type AB
+T9	morphologie 691 709	thymome de type AB
+T10	expression_CIM 729 736	thymome
+T11	morphologie 729 736	thymome
+T12	expression_CIM 864 882	thymome de type AB
+T13	morphologie 864 882	thymome de type AB
+T14	expression_CIM 1728 1734	masses
+T15	morphologie 1728 1734	masses
+T16	expression_CIM 2282 2289	Thymome
+T17	morphologie 2282 2289	Thymome
+T18	expression_CIM 2332 2348	syndrome de Good
+T19	morphologie 2332 2348	syndrome de Good
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C38.1 8000/1
+#3	ICD-O T3	C38.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C77.9 8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8582/1
+#9	ICD-O T9	8582/1
+#10	ICD-O T10	8580/1
+#11	ICD-O T11	8580/1
+#12	ICD-O T12	8582/1
+#13	ICD-O T13	8582/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8580/1
+#17	ICD-O T17	8580/1
+#18	ICD-O T19	8580/1

@@ -1,0 +1,31 @@
+T1	morphologie 312 323	adénopathie
+T3	topographie 324 333	inguinale
+T4	morphologie 757 763	tumeur
+T6	topographie 764 775	prostatique
+T7	morphologie 992 998	tumeur
+T9	topographie 999 1010	prostatique
+T10	morphologie 1198 1210	Adénopathies
+T12	topographie 1217 1243	chaîne obturatrice interne
+T13	topographie 1277 1285	prostate
+T15	morphologie 1288 1303	néoplasme malin
+T16	morphologie 1862 1909	Tumeur desmoplastique à petites cellules rondes
+T18	topographie 1916 1924	prostate
+T20	morphologie 1926 1934	stade IV
+T21	morphologie 1987 2034	tumeur desmoplastique à petites cellules rondes
+T23	topographie 2041 2049	prostate
+T25	morphologie 2885 2892	lésions
+T26	morphologie 3365 3412	tumeur desmoplastique à petites cellules rondes
+T28	topographie 3425 3433	prostate
+T29	topographie 3444 3463	vésicules séminales
+T30	topographie 3467 3474	uretère
+T31	topographie 3508 3530	ganglions lymphatiques
+T33	morphologie 3605 3610	masse
+T34	morphologie 3908 3919	progression
+T36	topographie 3920 3930	pulmonaire
+T38	morphologie 3976 3982	tumeur
+T39	morphologie 4361 4372	progression
+T41	topographie 4373 4383	pulmonaire
+T42	morphologie 4654 4665	progression
+T44	topographie 4666 4676	pulmonaire
+T45	morphologie 5310 5324	masse tumorale
+T47	topographie 5329 5340	tissus mous

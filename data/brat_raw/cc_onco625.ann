@@ -1,0 +1,84 @@
+T1	morphologie 533 539	cancer
+T2	expression_CIM 533 547	cancer du sein
+T3	topographie 543 547	sein
+T4	morphologie 1139 1145	tumeur
+T5	expression_CIM 1139 1155	tumeur pelvienne
+T6	topographie 1146 1155	pelvienne
+T7	morphologie 1209 1215	tumeur
+T8	expression_CIM 1209 1239	tumeur d'origine gynécologique
+T9	topographie 1226 1239	gynécologique
+T10	morphologie 1402 1407	masse
+T11	expression_CIM 1402 1415	masse utérine
+T12	topographie 1408 1415	utérine
+T13	expression_CIM 1457 1469	adénopathies
+T14	morphologie 1457 1469	adénopathies
+T15	morphologie 1475 1485	métastases
+T16	expression_CIM 1475 1496	métastases viscérales
+T17	topographie 1486 1496	viscérales
+T18	topographie 1577 1583	ovaire
+T19	expression_CIM 1577 1598	ovaire gauche tumoral
+T20	morphologie 1591 1598	tumoral
+T21	morphologie 1615 1623	implants
+T22	expression_CIM 1615 1635	implants péritonéaux
+T23	topographie 1624 1635	péritonéaux
+T24	expression_CIM 1720 1738	mésothéliome malin
+T25	morphologie 1720 1738	mésothéliome malin
+T26	expression_CIM 1744 1762	cellules tumorales
+T27	morphologie 1744 1762	cellules tumorales
+T28	expression_CIM 1984 1990	tumeur
+T29	morphologie 1984 1990	tumeur
+T30	morphologie 3679 3691	mésothéliome
+T31	expression_CIM 3679 3702	mésothéliome péritonéal
+T32	topographie 3692 3702	péritonéal
+T33	expression_CIM 4036 4059	stabilité de la maladie
+T34	morphologie 4036 4059	stabilité de la maladie
+T35	expression_CIM 4397 4422	progression de la maladie
+T36	morphologie 4397 4422	progression de la maladie
+T37	morphologie 4432 4445	carcinomatose
+T38	expression_CIM 4432 4457	carcinomatose péritonéale
+T39	topographie 4446 4457	péritonéale
+T40	morphologie 4491 4505	masse tumorale
+T41	expression_CIM 4491 4515	masse tumorale pelvienne
+T42	topographie 4506 4515	pelvienne
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.3 8000/1
+#6	ICD-O T6	C76.3
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C57.9 8000/1
+#9	ICD-O T9	C57.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C55.9 8000/1
+#12	ICD-O T12	C55.9
+#13	ICD-O T13	C77.9 8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C49.4 8000/6
+#17	ICD-O T17	C49.4
+#18	ICD-O T18	C56.9
+#19	ICD-O T19	C56.9 8000/3
+#20	ICD-O T20	8000/3
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C48.2 8000/6
+#23	ICD-O T23	C48.2
+#24	ICD-O T24	9050/3
+#25	ICD-O T25	9050/3
+#26	ICD-O T26	8001/1
+#27	ICD-O T27	8001/1
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	9050/3
+#31	ICD-O T31	C48.2 9050/3
+#32	ICD-O T32	C48.2
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	8010/9
+#38	ICD-O T38	C48.2 8010/9
+#39	ICD-O T39	C48.2
+#40	ICD-O T40	8000/3
+#41	ICD-O T41	C76.3 8000/3
+#42	ICD-O T42	C76.3

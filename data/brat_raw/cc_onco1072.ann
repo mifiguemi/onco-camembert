@@ -1,0 +1,85 @@
+T1	expression_CIM 571 582	hémangiomes
+T2	morphologie 571 582	hémangiomes
+T3	morphologie 754 771	lésions kystiques
+T4	expression_CIM 754 782	lésions kystiques hépatiques
+T5	topographie 772 782	hépatiques
+T6	expression_CIM 795 802	lésions
+T7	morphologie 795 802	lésions
+T8	expression_CIM 833 844	hémangiomes
+T9	morphologie 833 844	hémangiomes
+T10	morphologie 1424 1430	lésion
+T11	expression_CIM 1424 1440	lésion duodénale
+T12	topographie 1431 1440	duodénale
+T13	expression_CIM 1630 1645	choriocarcinome
+T14	morphologie 1630 1645	choriocarcinome
+T15	expression_CIM 1794 1802	tumorale
+T16	morphologie 1794 1802	tumorale
+T17	morphologie 2166 2172	lésion
+T18	expression_CIM 2166 2183	lésion pulmonaire
+T19	topographie 2173 2183	pulmonaire
+T20	expression_CIM 2218 2227	métastase
+T21	morphologie 2218 2227	métastase
+T22	expression_CIM 2485 2502	cellules malignes
+T23	morphologie 2485 2502	cellules malignes
+T24	morphologie 3086 3101	Choriocarcinome
+T25	expression_CIM 3086 3149	Choriocarcinome extragonadique d'origine probablement duodénale
+T27	morphologie 3155 3165	métastases
+T28	expression_CIM 3155 3191	métastases hépatiques et pulmonaires
+T29	topographie 3166 3176	hépatiques
+T30	topographie 3180 3191	pulmonaires
+T31	expression_CIM 3617 3633	tumeur germinale
+T32	morphologie 3617 3633	tumeur germinale
+T33	expression_CIM 4121 4127	lésion
+T34	morphologie 4121 4127	lésion
+T35	morphologie 4909 4916	lésions
+T36	expression_CIM 4909 4942	lésions hépatiques et pulmonaires
+T37	topographie 4917 4927	hépatiques
+T38	topographie 4931 4942	pulmonaires
+T39	morphologie 6587 6593	lésion
+T40	expression_CIM 6587 6625	lésion pulmonaire droite sous-pleurale
+T41	topographie 6594 6604	pulmonaire
+T42	topographie 6612 6625	sous-pleurale
+T43	expression_CIM 6682 6699	lésions kystiques
+T44	morphologie 6682 6699	lésions kystiques
+T26	topographie 3102 3116	extragonadique
+#1	ICD-O T1	9120/0
+#2	ICD-O T2	9120/0
+#3	ICD-O T3	8440/1
+#4	ICD-O T4	C22.0 8000/1
+#5	ICD-O T5	C22.0
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	9120/0
+#9	ICD-O T9	9120/0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C17.0 8000/1
+#12	ICD-O T12	C17.0
+#13	ICD-O T13	9100/3
+#14	ICD-O T14	9100/3
+#15	ICD-O T16	8000/3
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C34.9 8000/1
+#18	ICD-O T19	C34.9
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	9100/3
+#24	ICD-O T25	C17.0 9100/3
+#25	ICD-O T27	8000/6
+#26	ICD-O T28	C22.0 8000/6;C34.9 8000/6
+#27	ICD-O T29	C22.0
+#28	ICD-O T30	C34.9
+#29	ICD-O T31	9064/3
+#30	ICD-O T32	9064/3
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	8000/1
+#34	ICD-O T36	C22.0 8000/1;C34.9 8000/1
+#35	ICD-O T37	C22.0
+#36	ICD-O T38	C34.9
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	C34.9 8000/1;C38.8 8000/1
+#39	ICD-O T41	C34.9
+#40	ICD-O T42	C38.8
+#41	ICD-O T44	8440/1

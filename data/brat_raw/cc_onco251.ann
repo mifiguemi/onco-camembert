@@ -1,0 +1,84 @@
+T1	morphologie 141 147	cancer
+T2	expression_CIM 141 155	cancer du sein
+T3	topographie 151 155	sein
+T4	morphologie 185 191	tumeur
+T5	expression_CIM 185 212	tumeur de la tête et du cou
+T6	topographie 198 202	tête
+T7	topographie 209 212	cou
+T8	morphologie 504 509	image
+T9	expression_CIM 504 589	image anéchogène de morphologie elliptique dans le quadrant interne inférieur du sein
+T10	topographie 555 589	quadrant interne inférieur du sein
+T11	morphologie 665 695	Carcinome canalaire infiltrant
+T12	expression_CIM 665 711	Carcinome canalaire infiltrant peu différencié
+T13	differenciation 696 711	peu différencié
+T14	morphologie 873 894	rehaussement régional
+T15	expression_CIM 873 942	rehaussement régional important dans les quadrants inférieurs du sein
+T17	morphologie 1027 1036	néoplasie
+T18	expression_CIM 1027 1045	néoplasie mammaire
+T19	topographie 1037 1045	mammaire
+T20	morphologie 1066 1082	lymphadénopathie
+T21	expression_CIM 1066 1092	lymphadénopathie axillaire
+T22	topographie 1083 1092	axillaire
+T23	expression_CIM 2968 2993	lésions occupant l'espace
+T24	morphologie 2968 2993	lésions occupant l'espace
+T25	morphologie 5173 5179	cancer
+T26	expression_CIM 5173 5187	cancer du sein
+T27	topographie 5183 5187	sein
+T28	morphologie 5353 5383	carcinome canalaire infiltrant
+T29	expression_CIM 5353 5409	carcinome canalaire infiltrant localement avancé du sein
+T30	topographie 5405 5409	sein
+T31	morphologie 7738 7744	cancer
+T32	expression_CIM 7738 7752	cancer du sein
+T33	topographie 7748 7752	sein
+T34	expression_CIM 7960 7965	foyer
+T35	morphologie 7960 7965	foyer
+T36	expression_CIM 7969 7988	carcinome canalaire
+T37	morphologie 7969 7988	carcinome canalaire
+T38	expression_CIM 8045 8051	foyers
+T39	morphologie 8045 8051	foyers
+T40	morphologie 8062 8083	carcinome intraductal
+T41	expression_CIM 8062 8120	carcinome intraductal résiduel, tous deux peu différenciés
+T42	differenciation 8104 8120	peu différenciés
+T43	expression_CIM 8190 8199	métastase
+T44	morphologie 8190 8199	métastase
+T16	topographie 914 942	quadrants inférieurs du sein
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C50.3
+#10	ICD-O T11	8500/3
+#11	ICD-O T12	8500/33
+#12	ICD-O T13	3
+#13	ICD-O T14	8000/3
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	C50.9 8000/1
+#16	ICD-O T19	C50.9
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	C77.3 8000/1
+#19	ICD-O T22	C76.1
+#20	ICD-O T24	8000/1
+#21	ICD-O T25	8000/3
+#22	ICD-O T26	C50.9 8000/3
+#23	ICD-O T27	C50.9
+#24	ICD-O T28	8500/3
+#25	ICD-O T29	C50.9 8500/3
+#26	ICD-O T30	C50.9
+#27	ICD-O T31	8000/3
+#28	ICD-O T32	C50.9 8000/3
+#29	ICD-O T33	C50.9
+#30	ICD-O T34	8000/1
+#31	ICD-O T35	8000/1
+#32	ICD-O T36	8500/3
+#33	ICD-O T37	8500/3
+#34	ICD-O T38	8000/1
+#35	ICD-O T39	8000/1
+#36	ICD-O T40	8500/3
+#37	ICD-O T42	3
+#38	ICD-O T43	8000/6
+#39	ICD-O T44	8000/6
+#40	AnnotatorNotes T24	trad

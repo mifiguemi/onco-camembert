@@ -1,0 +1,56 @@
+T12	topographie 2113 2162	autour des vaisseaux mésentériques du flanc droit
+T1	expression_CIM 1313 1319	masses
+T2	morphologie 1313 1319	masses
+T3	expression_CIM 1736 1741	masse
+T4	morphologie 1736 1741	masse
+T5	morphologie 1940 1945	masse
+T6	expression_CIM 1940 2027	masse hétérogène d'extension craniocaudale de 22 cm dépendant de la racine du mésentère
+T8	expression_CIM 2041 2057	tumeur primitive
+T9	morphologie 2041 2057	tumeur primitive
+T10	morphologie 2078 2090	adénopathies
+T11	expression_CIM 2078 2162	adénopathies d'allure pathologique autour des vaisseaux mésentériques du flanc droit
+T13	morphologie 2605 2610	Masse
+T14	expression_CIM 2605 2621	Masse abdominale
+T15	topographie 2611 2621	abdominale
+T16	expression_CIM 2697 2705	sarcomes
+T17	morphologie 2697 2705	sarcomes
+T18	morphologie 2930 2936	tumeur
+T19	expression_CIM 2930 2966	tumeur semble dépendre du méso-iléon
+T21	morphologie 3310 3316	tumeur
+T22	expression_CIM 3310 3327	tumeur abdominale
+T23	topographie 3317 3327	abdominale
+T24	expression_CIM 3392 3398	tumeur
+T25	morphologie 3392 3398	tumeur
+T26	expression_CIM 3403 3441	Tumeur myofibroblastique inflammatoire
+T27	morphologie 3403 3441	Tumeur myofibroblastique inflammatoire
+T28	expression_CIM 3454 3481	Conglomérats adénopathiques
+T29	morphologie 3454 3481	Conglomérats adénopathiques
+T30	expression_CIM 3649 3687	tumeur myofibroblastique inflammatoire
+T31	morphologie 3649 3687	tumeur myofibroblastique inflammatoire
+T20	topographie 2956 2966	méso-iléon
+T7	topographie 2008 2027	racine du mésentère
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T8	8000/3
+#7	ICD-O T9	8000/3
+#8	ICD-O T10	8000/1
+#9	ICD-O T13	8000/1
+#10	ICD-O T14	C76.2 8000/1
+#11	ICD-O T15	C76.2
+#12	ICD-O T16	8800/3
+#13	ICD-O T17	8800/3
+#14	ICD-O T18	8000/1
+#15	ICD-O T21	8000/1
+#16	ICD-O T22	C76.2 8000/1
+#17	ICD-O T23	C76.2
+#18	ICD-O T24	8000/1
+#19	ICD-O T25	8000/1
+#20	ICD-O T26	8825/1
+#21	ICD-O T27	8825/1
+#22	ICD-O T28	C77.9 8000/1
+#23	ICD-O T29	8000/1
+#24	ICD-O T30	8825/1
+#25	ICD-O T31	8825/1

@@ -1,0 +1,68 @@
+T86	topographie 4001 4008	lingula
+T1	morphologie 467 472	Masse
+T3	topographie 490 495	flanc
+T4	morphologie 644 649	masse
+T6	topographie 650 656	rénale
+T7	morphologie 811 822	Adénopathie
+T9	topographie 823 830	hilaire
+T10	morphologie 841 847	nodule
+T12	topographie 856 859	LII
+T13	topographie 1151 1154	LSI
+T15	morphologie 1170 1176	nodule
+T16	morphologie 1187 1198	Adénopathie
+T18	topographie 1199 1206	hilaire
+T19	topographie 1210 1222	médiastinale
+T20	morphologie 1275 1280	masse
+T22	topographie 1319 1323	rein
+T23	morphologie 1604 1613	carcinome
+T25	topographie 1614 1619	rénal
+T26	morphologie 1627 1638	adénopathie
+T28	topographie 1639 1655	rétropéritonéale
+T29	morphologie 1658 1665	Adénome
+T31	topographie 1666 1677	surrénalien
+T32	morphologie 1705 1715	Hémangiome
+T34	topographie 1716 1725	hépatique
+T35	morphologie 1819 1824	masse
+T37	topographie 1825 1831	rénale
+T38	morphologie 2021 2044	Nodule hypermétabolique
+T40	topographie 2053 2056	LII
+T42	morphologie 2062 2090	adénopathie hypermétabolique
+T43	morphologie 2108 2119	Adénopathie
+T45	topographie 2120 2127	hilaire
+T47	morphologie 2152 2161	métastase
+T48	morphologie 2165 2174	carcinome
+T50	topographie 2175 2180	rénal
+T51	morphologie 2270 2279	Carcinome
+T100	morphologie 2286 2304	à cellules claires
+T53	topographie 2280 2285	rénal
+T54	morphologie 2312 2314	M1
+T56	topographie 2316 2326	pulmonaire
+T58	morphologie 2329 2337	stade IV
+T59	morphologie 2405 2411	lésion
+T61	topographie 2412 2422	pulmonaire
+T62	topographie 2440 2443	LSI
+T64	morphologie 2497 2506	métastase
+T65	morphologie 2510 2519	carcinome
+T67	topographie 2520 2525	rénal
+T68	morphologie 2540 2548	primitif
+T70	topographie 2549 2559	pulmonaire
+T72	morphologie 2588 2598	métastases
+T73	morphologie 2602 2611	carcinome
+T75	topographie 2612 2617	rénal
+T76	morphologie 2833 2842	carcinome
+T101	morphologie 2849 2867	à cellules claires
+T78	topographie 2843 2848	rénal
+T79	differenciation 2869 2878	Fuhrman 3
+T80	morphologie 3015 3023	atteinte
+T82	morphologie 3944 3950	nodule
+T84	topographie 3951 3961	pulmonaire
+T85	topographie 3970 3973	LSI
+T87	morphologie 4039 4051	adénopathies
+T89	topographie 4052 4060	hilaires
+T90	morphologie 4093 4099	nodule
+T92	topographie 4100 4110	pulmonaire
+T93	morphologie 4134 4146	adénopathies
+T95	topographie 4147 4164	rétropéritonéales
+T96	topographie 4168 4178	pelviennes
+T97	morphologie 4270 4277	lésions
+T99	topographie 4278 4289	pulmonaires

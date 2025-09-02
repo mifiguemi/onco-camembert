@@ -1,0 +1,46 @@
+T29	morphologie 3132 3152	carcinome multifocal
+T44	topographie 4083 4091	exocrine
+T1	morphologie 513 518	masse
+T3	topographie 519 531	pancréatique
+T4	topographie 540 557	queue du pancréas
+T6	morphologie 809 819	néoplasmes
+T7	morphologie 885 907	Adénocarcinome acineux
+T9	differenciation 908 924	bien différencié
+T10	topographie 948 956	pancréas
+T11	morphologie 1130 1148	Cystadénocarcinome
+T73	morphologie 1157 1165	mucineux
+T13	topographie 1149 1156	ovarien
+T14	differenciation 1166 1182	bien différencié
+T16	morphologie 1494 1501	tumeurs
+T17	morphologie 1882 1912	lésions occupant l'espace (LOE
+T19	topographie 1927 1931	rein
+T20	morphologie 2487 2490	LOE
+T22	topographie 2491 2497	rénaux
+T23	topographie 2860 2864	rein
+T25	morphologie 2887 2891	LOEs
+T27	morphologie 3042 3051	malignité
+T31	morphologie 3164 3171	nodules
+T33	morphologie 3593 3600	lésions
+T35	morphologie 3659 3666	lésions
+T36	morphologie 3688 3698	métastases
+T38	topographie 3709 3721	pancréatique
+T39	morphologie 3878 3887	carcinome
+T41	topographie 3888 3893	rénal
+T42	morphologie 4050 4065	tumeur primaire
+T45	topographie 4129 4141	pancréatique
+T46	morphologie 4360 4370	néoplasmes
+T48	topographie 4371 4394	pancréatiques exocrines
+T50	morphologie 4854 4882	carcinome à cellules rénales
+T51	morphologie 4960 4969	néoplasme
+T53	topographie 4970 4982	pancréatique
+T54	morphologie 5056 5065	néoplasme
+T56	topographie 5066 5078	pancréatique
+T58	morphologie 5125 5157	adénocarcinome acineux endocrine
+T59	morphologie 5190 5197	lésions
+T61	topographie 5198 5205	rénales
+T64	morphologie 5438 5470	adénocarcinome endocrine acineux
+T66	topographie 5474 5482	pancréas
+T68	morphologie 5704 5722	néoplasme primaire
+T70	morphologie 5730 5740	métastases
+T72	morphologie 6073 6081	récidive
+T63	morphologie 5391 5414	néoplasmes endocriniens

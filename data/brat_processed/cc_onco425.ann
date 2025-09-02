@@ -1,0 +1,28 @@
+T1	morphologie 228 234	tumeur
+T3	topographie 261 280	médiastin antérieur
+T5	morphologie 420 426	tumeur
+T7	morphologie 501 519	thymome de type B1
+T8	morphologie 1142 1153	progression
+T10	topographie 1154 1162	pleurale
+T11	topographie 1166 1176	pararénale
+T13	morphologie 1460 1487	stabilisation de la maladie
+T14	morphologie 1561 1568	lésions
+T16	topographie 1569 1578	pleurales
+T17	topographie 1582 1593	pararénales
+T18	morphologie 1670 1691	rechute de la maladie
+T20	topographie 1702 1709	pleural
+T21	morphologie 1923 1932	progressé
+T23	topographie 1943 1950	pleural
+T24	topographie 1954 1967	ganglionnaire
+T26	morphologie 2227 2250	stabilité de la maladie
+T27	morphologie 2313 2352	progression de la maladie locorégionale
+T29	topographie 2356 2364	pleurale
+T31	morphologie 2548 2574	thymome invasif de type B2
+T32	morphologie 2756 2767	progression
+T34	topographie 2793 2809	pleuropulmonaire
+T35	topographie 2813 2822	pararénal
+T36	morphologie 2846 2854	implants
+T38	topographie 2855 2871	intra-abdominaux
+T40	morphologie 4173 4180	thymome
+T42	morphologie 4699 4724	progression de la maladie
+T44	morphologie 5469 5484	tumeur primaire

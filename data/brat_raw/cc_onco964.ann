@@ -1,0 +1,45 @@
+T1	expression_CIM 92 135	adénocarcinome gastrique de type intestinal
+T2	topographie 107 116	gastrique
+T3	morphologie 117 135;92 106	de type intestinal adénocarcinome
+T4	expression_CIM 199 207	stade IV
+T5	morphologie 199 207	stade IV
+T6	morphologie 233 246	carcinomatose
+T7	expression_CIM 233 258	carcinomatose péritonéale
+T8	topographie 247 258	péritonéale
+T9	morphologie 1419 1428	néoplasie
+T10	expression_CIM 1419 1438	néoplasie gastrique
+T11	topographie 1429 1438	gastrique
+T12	expression_CIM 1846 1852	tumeur
+T13	morphologie 1846 1852	tumeur
+T14	morphologie 1859 1865	foyers
+T15	expression_CIM 1859 1877	foyers vasculaires
+T16	topographie 1866 1877	vasculaires
+T17	morphologie 2370 2383	carcinomatose
+T18	expression_CIM 2370 2392	carcinomatose méningée
+T19	topographie 2384 2392	méningée
+T20	morphologie 2979 2990	progression
+T21	expression_CIM 2979 3000	progression hépatique
+T22	topographie 2991 3000	hépatique
+#1	ICD-O T1	C16.9 8144/3
+#2	ICD-O T2	C16.9
+#3	ICD-O T3	8144/3
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8010/9
+#7	ICD-O T7	C48.2 8010/9
+#8	ICD-O T8	C48.2
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C16.9 8000/1
+#11	ICD-O T11	C16.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C49.9 8000/1
+#16	ICD-O T16	C49.9
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	C70.9 8010/9
+#19	ICD-O T19	C70.9
+#20	ICD-O T20	8000/9
+#21	ICD-O T21	C22.0 8000/6
+#22	ICD-O T22	C22.0
+#23	AnnotatorNotes T17	trad

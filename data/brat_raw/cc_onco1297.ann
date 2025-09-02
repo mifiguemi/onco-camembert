@@ -1,0 +1,106 @@
+T1	morphologie 372 377	masse
+T2	expression_CIM 372 400	masse douloureuse " au genou
+T3	topographie 395 400	genou
+T4	morphologie 570 576	lésion
+T5	expression_CIM 570 619	lésion lytique au niveau de la tête-cou du péroné
+T6	topographie 613 619	péroné
+T7	morphologie 676 681	Masse
+T8	expression_CIM 676 714	Masse pierreuse dans la tête du péroné
+T9	topographie 708 714	péroné
+T10	morphologie 908 914	lésion
+T11	expression_CIM 908 932	lésion osseuse péronière
+T12	topographie 915 932	osseuse péronière
+T13	morphologie 1034 1039	masse
+T14	expression_CIM 1034 1055	masse des tissus mous
+T15	topographie 1044 1055	tissus mous
+T16	morphologie 1108 1123	lésion tumorale
+T17	expression_CIM 1108 1169	lésion tumorale au niveau de la tête, du col, de la métaphyse
+T18	topographie 1140 1144	tête
+T19	topographie 1149 1152	col
+T20	topographie 1160 1169	métaphyse
+T21	morphologie 1171 1180	extension
+T22	expression_CIM 1171 1192	extension diaphysaire
+T23	topographie 1181 1192	diaphysaire
+T24	morphologie 1196 1208	infiltration
+T25	expression_CIM 1196 1219	infiltration médullaire
+T26	topographie 1209 1219	médullaire
+T27	morphologie 1276 1281	masse
+T28	expression_CIM 1276 1297	masse des tissus mous
+T29	topographie 1286 1297	tissus mous
+T30	expression_CIM 1339 1351	ostéosarcome
+T31	morphologie 1339 1351	ostéosarcome
+T32	expression_CIM 1360 1375	sarcome d'Ewing
+T33	morphologie 1360 1375	sarcome d'Ewing
+T34	morphologie 1413 1457	augmentation du flux en phase angiographique
+T35	expression_CIM 1413 1492	augmentation du flux en phase angiographique dans la partie proximale du péroné
+T36	topographie 1486 1492	péroné
+T37	expression_CIM 1553 1565	ostéosarcome
+T38	morphologie 1553 1565	ostéosarcome
+T39	morphologie 1596 1652	néoplasme mésodermique à cellules fusiformes pléomorphes
+T40	expression_CIM 1596 1666	néoplasme mésodermique à cellules fusiformes pléomorphes de haut grade
+T41	differenciation 1656 1666	haut grade
+T42	morphologie 1819 1837	Sarcome pléomorphe
+T43	expression_CIM 1819 1844	Sarcome pléomorphe des os
+T44	topographie 1842 1844	os
+T45	morphologie 1850 1860	métastases
+T46	expression_CIM 1850 1872	métastases pulmonaires
+T47	topographie 1861 1872	pulmonaires
+T48	expression_CIM 1974 2000	ostéosarcome conventionnel
+T49	morphologie 1974 2000	ostéosarcome conventionnel
+T50	expression_CIM 2810 2829	régression tumorale
+T51	morphologie 2810 2829	régression tumorale
+T52	expression_CIM 2923 2929	tumeur
+T53	morphologie 2923 2929	tumeur
+T54	expression_CIM 3304 3323	maladie néoplasique
+T55	morphologie 3304 3323	maladie néoplasique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.5 8000/1
+#3	ICD-O T3	C76.5
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C40.2 8000/1
+#6	ICD-O T6	C40.2
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C40.2
+#9	ICD-O T10	8000/1
+#10	ICD-O T12	C41.9
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C49.9 8000/1
+#13	ICD-O T15	C49.9
+#14	ICD-O T16	8000/3
+#15	ICD-O T17	C41.9 8000/3;C53.9 8000/3;C76.0 8000/3
+#16	ICD-O T18	C76.0
+#17	ICD-O T19	C53.9
+#18	ICD-O T20	C41.9
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	C41.9 8000/6
+#21	ICD-O T23	C41.9
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	C42.1 8000/1
+#24	ICD-O T26	C42.1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	C49.9 8000/1
+#27	ICD-O T29	C49.9
+#28	ICD-O T30	9180/3
+#29	ICD-O T31	9180/3
+#30	ICD-O T32	9260/3
+#31	ICD-O T33	9260/3
+#32	ICD-O T34	8000/1
+#33	ICD-O T36	C40.2
+#34	ICD-O T37	9180/3
+#35	ICD-O T38	9180/3
+#36	ICD-O T39	8004/3
+#37	ICD-O T40	8004/34
+#38	ICD-O T41	4
+#39	ICD-O T42	8802/3
+#40	ICD-O T43	C41.9 8802/3
+#41	ICD-O T44	C41.9
+#42	ICD-O T45	8000/6
+#43	ICD-O T46	C34.9 8000/6
+#44	ICD-O T47	C34.9
+#45	ICD-O T48	9186/3
+#46	ICD-O T49	9186/3
+#47	ICD-O T51	8000/3
+#48	ICD-O T52	8000/1
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	8000/3
+#51	ICD-O T55	8000/3

@@ -1,0 +1,21 @@
+T2	morphologie 203 209	cancer
+T4	morphologie 226 232	tumeur
+T5	morphologie 303 309	cancer
+T7	topographie 310 319	gastrique
+T9	morphologie 675 691	lymphadénopathie
+T11	morphologie 959 964	masse
+T12	morphologie 1255 1261	tumeur
+T14	topographie 1262 1272	pulmonaire
+T15	morphologie 1330 1340	métastases
+T17	topographie 1341 1352	pulmonaires
+T19	morphologie 1380 1398	stade clinique IVa
+T20	morphologie 1503 1517	adénocarcinome
+T22	topographie 1518 1528	pulmonaire
+T23	morphologie 1582 1596	adénocarcinome
+T25	topographie 1597 1607	pulmonaire
+T27	morphologie 1643 1661	stade clinique IVa
+T29	morphologie 1973 1992	maladie oncologique
+T30	morphologie 2521 2528	nodules
+T32	topographie 2529 2541	sous-cutanés
+T33	morphologie 3470 3481	progression
+T35	topographie 3482 3492	pulmonaire

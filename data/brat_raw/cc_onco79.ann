@@ -1,0 +1,129 @@
+T1	expression_CIM 310 324	d'adénopathies
+T2	morphologie 312 324	adénopathies
+T3	expression_CIM 542 547	masse
+T4	morphologie 542 547	masse
+T5	morphologie 768 773	masse
+T6	expression_CIM 768 783	masse pelvienne
+T7	topographie 774 783	pelvienne
+T8	expression_CIM 1003 1031	lésion suspecte de malignité
+T9	morphologie 1003 1031	lésion suspecte de malignité
+T10	expression_CIM 1055 1062	lésions
+T11	morphologie 1055 1062	lésions
+T12	morphologie 1160 1166	Lésion
+T13	expression_CIM 1160 1178	Lésion de l'ovaire
+T14	topographie 1172 1178	ovaire
+T15	expression_CIM 1202 1216	tumeur maligne
+T16	morphologie 1202 1216	tumeur maligne
+T17	expression_CIM 1328 1337	malignité
+T18	morphologie 1328 1337	malignité
+T19	expression_CIM 1623 1674	carcinome à cellules claires de type tubulokystique
+T20	morphologie 1623 1674	carcinome à cellules claires de type tubulokystique
+T21	morphologie 1738 1746	invasion
+T22	expression_CIM 1738 1763	invasion lymphovasculaire
+T23	topographie 1747 1763	lymphovasculaire
+T24	expression_CIM 1897 1903	tumeur
+T25	morphologie 1897 1903	tumeur
+T26	morphologie 1988 1997;2006 2024	carcinome à cellules claires
+T27	expression_CIM 1988 2024	carcinome ovarien à cellules claires
+T28	topographie 1998 2005	ovarien
+T29	expression_CIM 2415 2500	lésion nodulaire est apparue dans le segment médian du lobe supérieur droit du poumon
+T30	topographie 2470 2484	lobe supérieur
+T31	topographie 2494 2500	poumon
+T32	expression_CIM 2578 2598	maladie métastatique
+T33	morphologie 2578 2598	maladie métastatique
+T34	expression_CIM 2793 2799	lésion
+T35	morphologie 2793 2799	lésion
+T36	expression_CIM 2987 2996	métastase
+T37	morphologie 2987 2996	métastase
+T38	morphologie 3002 3030	carcinome à cellules claires
+T39	expression_CIM 3002 3050	carcinome à cellules claires d'origine ovarienne
+T40	topographie 3041 3050	ovarienne
+T41	morphologie 3318 3324	lésion
+T42	expression_CIM 3318 3354	lésion dans le sinus cardiophrénique
+T43	topographie 3333 3354	sinus cardiophrénique
+T44	expression_CIM 3521 3568	carcinome concordant avec une origine ovarienne
+T45	topographie 3559 3568	ovarienne
+T46	expression_CIM 3836 3842	nodule
+T47	morphologie 3836 3842	nodule
+T48	expression_CIM 4096 4102	nodule
+T49	morphologie 4096 4102	nodule
+T50	morphologie 4393 4399	nodule
+T51	expression_CIM 4393 4447	nodule a été découvert à côté du précédent dans le LSD
+T52	topographie 4444 4447	LSD
+T53	expression_CIM 4576 4582	nodule
+T54	morphologie 4576 4582	nodule
+T55	morphologie 4605 4611	nodule
+T56	expression_CIM 4605 4654	nodule de 7 mm est passé à 18 x 15 mm dans le LSD
+T57	topographie 4651 4654	LSD
+T58	expression_CIM 4703 4709	nodule
+T59	morphologie 4703 4709	nodule
+T60	expression_CIM 4797 4803	tumeur
+T61	morphologie 4797 4803	tumeur
+T62	expression_CIM 4926 4935	métastase
+T63	morphologie 4926 4935	métastase
+T64	morphologie 4941 4950;4959 4977	carcinome à cellules claires
+T65	expression_CIM 4941 4977	carcinome ovarien à cellules claires
+T66	topographie 4951 4958	ovarien
+#1	ICD-O T2	8000/1
+#2	ICD-O T3	8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	C76.3 8000/1
+#6	ICD-O T7	C76.3
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	C56.9 8000/1
+#12	ICD-O T14	C56.9
+#13	ICD-O T15	8000/3
+#14	ICD-O T16	8000/3
+#15	ICD-O T17	8000/3
+#16	ICD-O T18	8000/3
+#17	ICD-O T20	8310/3
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	C49.9 8000/1
+#20	ICD-O T23	C49.9
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	8310/3
+#24	ICD-O T27	C56.9 8310/3
+#25	ICD-O T28	C56.9
+#26	ICD-O T29	C34.1 8000/1;C34.9 8000/1
+#27	ICD-O T30	C34.1
+#28	ICD-O T31	C34.9
+#29	ICD-O T32	8000/6
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	8000/1
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8310/3
+#36	ICD-O T39	C56.9 8310/3
+#37	ICD-O T40	C56.9
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	C76.1 8000/1
+#40	ICD-O T43	C76.1
+#41	ICD-O T44	C56.9 8010/3
+#42	ICD-O T45	C56.9
+#43	ICD-O T46	8000/1
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	8000/1
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	C34.1 8000/1
+#49	ICD-O T52	C34.1
+#50	ICD-O T53	8000/1
+#51	ICD-O T54	8000/1
+#52	ICD-O T55	8000/1
+#53	ICD-O T56	C34.1 8000/1
+#54	ICD-O T57	C34.1
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	8000/1
+#57	ICD-O T60	8000/1
+#58	ICD-O T61	8000/1
+#59	ICD-O T62	8000/6
+#60	ICD-O T63	8000/6
+#61	ICD-O T64	8310/3
+#62	ICD-O T65	C56.9 8310/3
+#63	ICD-O T66	C56.9

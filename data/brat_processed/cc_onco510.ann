@@ -1,0 +1,25 @@
+T27	topographie 2074 2088	muqueuse anale
+T1	morphologie 423 429	lésion
+T3	topographie 463 471	périanal
+T5	morphologie 561 579	mélanome nodulaire
+T6	morphologie 707 715	invasion
+T8	topographie 716 726	vasculaire
+T9	topographie 730 741	lymphatique
+T10	morphologie 895 911	lymphadénopathie
+T12	topographie 920 936	région inguinale
+T14	morphologie 975 993	prise pathologique
+T16	morphologie 1005 1021	lymphadénopathie
+T18	morphologie 1440 1450	métastases
+T20	morphologie 1454 1462	mélanome
+T22	morphologie 1662 1681	atteinte à distance
+T24	morphologie 1952 1973	infiltration tumorale
+T25	morphologie 2059 2067	mélanome
+T29	morphologie 2509 2528	maladie oncologique
+T30	morphologie 2883 2888	masse
+T32	topographie 2889 2901	parotidienne
+T34	morphologie 3004 3020	lymphadénopathie
+T36	morphologie 3076 3094	pathologie maligne
+T37	morphologie 3949 3954	masse
+T39	topographie 3955 3967	parotidienne
+T41	morphologie 4094 4110	lymphadénopathie
+T43	morphologie 4166 4184	pathologie maligne

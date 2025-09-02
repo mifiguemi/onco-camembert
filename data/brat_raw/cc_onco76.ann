@@ -1,0 +1,115 @@
+T38	topographie 3836 3864	cervicothoracique antérieure
+T1	morphologie 408 413	Masse
+T2	expression_CIM 408 426	Masse sus-sternale
+T3	topographie 414 426	sus-sternale
+T4	morphologie 966 971	masse
+T5	expression_CIM 966 989	masse cervicothoracique
+T6	topographie 972 989	cervicothoracique
+T7	expression_CIM 1121 1126	masse
+T8	morphologie 1121 1126	masse
+T9	morphologie 1337 1346	métastase
+T10	expression_CIM 1337 1357	métastase pulmonaire
+T11	topographie 1347 1357	pulmonaire
+T12	morphologie 1361 1372	adénopathie
+T13	expression_CIM 1361 1389	adénopathie rétropéritonéale
+T14	topographie 1373 1389	rétropéritonéale
+T15	morphologie 1425 1430	masse
+T16	expression_CIM 1425 1443	masse médiastinale
+T17	topographie 1431 1443	médiastinale
+T18	expression_CIM 1463 1479	tumeur germinale
+T19	morphologie 1463 1479	tumeur germinale
+T20	expression_CIM 1482 1490	séminome
+T21	morphologie 1482 1490	séminome
+T22	expression_CIM 1570 1588	cellules tumorales
+T23	morphologie 1570 1588	cellules tumorales
+T24	morphologie 2838 2854;2883 2888	Tumeur germinale mixte
+T25	expression_CIM 2838 2888	Tumeur germinale extragonadique médiastinale mixte
+T26	topographie 2870 2882	médiastinale
+T27	expression_CIM 2969 3006	tumeur germinale mixte extragonadique
+T28	morphologie 2969 3006	tumeur germinale mixte extragonadique
+T29	morphologie 3570 3575	masse
+T30	expression_CIM 3570 3588	masse médiastinale
+T31	topographie 3576 3588	médiastinale
+T32	morphologie 3654 3675	infiltration tumorale
+T33	expression_CIM 3654 3748	infiltration tumorale suspectée au niveau de la trachée et des deux troncs brachio-céphaliques
+T34	topographie 3702 3709	trachée
+T35	topographie 3722 3748	troncs brachio-céphaliques
+T36	morphologie 3830 3835	masse
+T37	expression_CIM 3830 3864	masse cervicothoracique antérieure
+T39	expression_CIM 4060 4066	tumeur
+T40	morphologie 4060 4066	tumeur
+T41	morphologie 4256 4261	masse
+T42	expression_CIM 4256 4289	masse au niveau supraclaviculaire
+T43	topographie 4272 4289	supraclaviculaire
+T44	expression_CIM 4355 4361	tumeur
+T45	morphologie 4355 4361	tumeur
+T46	expression_CIM 4468 4474	lésion
+T47	morphologie 4468 4474	lésion
+T48	expression_CIM 4489 4503	tératome malin
+T49	morphologie 4489 4503	tératome malin
+T50	expression_CIM 4578 4583	foyer
+T51	morphologie 4578 4583	foyer
+T52	morphologie 4916 4924	atteinte
+T53	expression_CIM 4916 4947	atteinte du médiastin antérieur
+T54	topographie 4928 4947	médiastin antérieur
+T55	morphologie 4977 4985	atteinte
+T56	expression_CIM 4977 5013	atteinte de la veine cave supérieure
+T57	topographie 4992 5013	veine cave supérieure
+T58	expression_CIM 5038 5054	tumeur germinale
+T59	morphologie 5038 5054	tumeur germinale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.1 8000/1
+#3	ICD-O T3	C76.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.8 8000/1
+#6	ICD-O T6	C76.8
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	C34.9 8000/6
+#11	ICD-O T11	C34.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.2 8000/1
+#14	ICD-O T14	C48.0
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C38.3 8000/1
+#17	ICD-O T17	C38.3
+#18	ICD-O T18	9064/3
+#19	ICD-O T19	9064/3
+#20	ICD-O T20	9061/3
+#21	ICD-O T21	9061/3
+#22	ICD-O T22	8001/1
+#23	ICD-O T23	8001/1
+#24	ICD-O T24	9085/3
+#25	ICD-O T25	C38.3 9085/3
+#26	ICD-O T26	C38.3
+#27	ICD-O T28	9085/3
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C38.3 8000/1
+#30	ICD-O T31	C38.3
+#31	ICD-O T32	8000/6
+#32	ICD-O T33	C33.9 8000/6;C49.3 8000/6
+#33	ICD-O T34	C33.9
+#34	ICD-O T35	C49.3
+#35	ICD-O T36	8000/1
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	8000/1
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	C76.0 8000/1
+#40	ICD-O T43	C76.0
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	8000/1
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	9080/3
+#46	ICD-O T49	9080/3
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	C38.1 8000/1
+#51	ICD-O T54	C38.1
+#52	ICD-O T55	8000/1
+#53	ICD-O T56	C49.3 8000/1
+#54	ICD-O T57	C49.3
+#55	ICD-O T58	9064/3
+#56	ICD-O T59	9064/3

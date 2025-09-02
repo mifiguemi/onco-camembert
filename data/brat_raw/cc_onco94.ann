@@ -1,0 +1,59 @@
+T16	topographie 2159 2171	épigastrique
+T8	topographie 1653 1699	inguinal gauche, occupant les chaînes iliaques
+T11	topographie 1751 1770	segment hépatique 7
+T1	morphologie 1447 1454	nodules
+T2	expression_CIM 1447 1514	nodules pulmonaires bilatéraux en verre dépoli. Au niveau abdominal
+T3	topographie 1455 1466	pulmonaires
+T4	topographie 1505 1514	abdominal
+T5	morphologie 1537 1556	masse adénopathique
+T6	expression_CIM 1537 1699	masse adénopathique autour du greffon rénal qui s'étend dans le rétropéritoine jusqu'au tronc cœliaque et au niveau inguinal gauche, occupant les chaînes iliaques
+T7	topographie 1601 1615	rétropéritoine
+T9	morphologie 1706 1712	lésion
+T10	expression_CIM 1706 1770	lésion solide est également observée dans le segment hépatique 7
+T12	expression_CIM 1813 1821	lymphome
+T13	morphologie 1813 1821	lymphome
+T14	morphologie 2121 2132	adénopathie
+T15	expression_CIM 2121 2171	adénopathie accessible, dans ce cas l'épigastrique
+T17	expression_CIM 2206 2234	processus lymphoprolifératif
+T18	morphologie 2206 2234	processus lymphoprolifératif
+T19	morphologie 2243 2252	carcinome
+T20	expression_CIM 2243 2258	carcinome rénal
+T21	topographie 2253 2258	rénal
+T22	expression_CIM 2589 2606	sarcome de Kaposi
+T23	morphologie 2589 2606	sarcome de Kaposi
+T24	expression_CIM 2608 2610	KS
+T25	morphologie 2608 2610	KS
+T26	morphologie 2625 2642	Sarcome de Kaposi
+T27	expression_CIM 2625 2651	Sarcome de Kaposi viscéral
+T28	topographie 2643 2651	viscéral
+T29	morphologie 3046 3048	KS
+T30	expression_CIM 3046 3057	KS viscéral
+T31	topographie 3049 3057	viscéral
+T32	expression_CIM 3473 3475	KS
+T33	morphologie 3473 3475	KS
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C34.9
+#3	ICD-O T4	C76.2
+#4	ICD-O T5	8000/1
+#5	ICD-O T7	C48.0
+#6	ICD-O T9	8000/1
+#7	ICD-O T12	9590/3
+#8	ICD-O T13	9590/3
+#9	ICD-O T14	8000/1
+#10	ICD-O T17	9970/1
+#11	ICD-O T18	9970/1
+#12	ICD-O T19	8010/3
+#13	ICD-O T20	C64.9 8010/3
+#14	ICD-O T21	C64.9
+#15	ICD-O T22	9140/3
+#16	ICD-O T23	9140/3
+#17	ICD-O T24	9140/3
+#18	ICD-O T25	9140/3
+#19	ICD-O T26	9140/3
+#20	ICD-O T27	C49.4 9140/3
+#21	ICD-O T28	C49.4
+#22	ICD-O T29	9140/3
+#23	ICD-O T30	C49.4 9140/3
+#24	ICD-O T31	C49.4
+#25	ICD-O T32	9140/3
+#26	ICD-O T33	9140/3

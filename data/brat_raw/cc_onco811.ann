@@ -1,0 +1,91 @@
+T3	topographie 451 466	région frontale
+T1	morphologie 436 442	lésion
+T2	expression_CIM 436 466	lésion dans la région frontale
+T4	morphologie 574 583	processus
+T5	expression_CIM 574 600	processus expansif frontal
+T6	topographie 593 600	frontal
+T7	expression_CIM 753 780	astrocytome hautement malin
+T8	morphologie 753 780	astrocytome hautement malin
+T9	morphologie 794 800	Lésion
+T10	expression_CIM 794 834	Lésion cérébrale dans la région frontale
+T11	topographie 801 810	cérébrale
+T12	topographie 826 834	frontale
+T13	expression_CIM 878 905	astrocytome hautement malin
+T14	morphologie 878 905	astrocytome hautement malin
+T15	expression_CIM 1125 1144	tumeur astrocytaire
+T16	morphologie 1125 1144	tumeur astrocytaire
+T17	expression_CIM 1195 1221	astrocytome gemistocytique
+T18	morphologie 1195 1221	astrocytome gemistocytique
+T19	expression_CIM 1327 1333	tumeur
+T20	morphologie 1327 1333	tumeur
+T21	expression_CIM 1638 1661	glioblastome multiforme
+T22	morphologie 1638 1661	glioblastome multiforme
+T23	expression_CIM 1691 1714	glioblastome secondaire
+T24	morphologie 1691 1714	glioblastome secondaire
+T25	expression_CIM 2110 2121	lit tumoral
+T26	morphologie 2110 2121	lit tumoral
+T27	expression_CIM 2799 2816	récidive tumorale
+T28	morphologie 2799 2816	récidive tumorale
+T29	expression_CIM 2888 2894	nodule
+T30	morphologie 2888 2894	nodule
+T31	expression_CIM 2921 2929	récidive
+T32	morphologie 2921 2929	récidive
+T33	expression_CIM 3031 3048	récidive tumorale
+T34	morphologie 3031 3048	récidive tumorale
+T35	expression_CIM 3606 3614	récidive
+T36	morphologie 3606 3614	récidive
+T37	expression_CIM 3813 3819	tumeur
+T38	morphologie 3813 3819	tumeur
+T39	expression_CIM 3918 3920	GB
+T40	morphologie 3918 3920	GB
+T41	expression_CIM 3941 3958	oligodendrogliome
+T42	morphologie 3941 3958	oligodendrogliome
+T43	expression_CIM 4191 4227	foyer de rehaussement avec contraste
+T44	morphologie 4191 4227	foyer de rehaussement avec contraste
+T45	expression_CIM 4385 4410	progression de la maladie
+T46	morphologie 4385 4410	progression de la maladie
+T47	expression_CIM 4508 4514	tumeur
+T48	morphologie 4508 4514	tumeur
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C71.1 8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T6	C71.1
+#5	ICD-O T8	9400/3
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	C71.0 8000/1;C71.1 8000/1
+#8	ICD-O T11	C71.0
+#9	ICD-O T12	C71.1
+#10	ICD-O T14	9400/3
+#11	ICD-O T15	9400/3
+#12	ICD-O T16	9400/3
+#13	ICD-O T17	9411/3
+#14	ICD-O T18	9411/3
+#15	ICD-O T19	8000/1
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	9440/3
+#18	ICD-O T22	9440/3
+#19	ICD-O T23	9440/6
+#20	ICD-O T24	9440/6
+#21	ICD-O T25	8000/3
+#22	ICD-O T26	8000/3
+#23	ICD-O T27	8000/6
+#24	ICD-O T28	8000/6
+#25	ICD-O T29	8000/1
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	8000/6
+#28	ICD-O T32	8000/6
+#29	ICD-O T33	8000/6
+#30	ICD-O T34	8000/6
+#31	ICD-O T35	8000/6
+#32	ICD-O T36	8000/6
+#33	ICD-O T37	8000/1
+#34	ICD-O T38	8000/1
+#35	ICD-O T39	9440/3
+#36	ICD-O T40	9440/3
+#37	ICD-O T41	9450/3
+#38	ICD-O T42	9450/3
+#39	ICD-O T44	8000/9
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	8000/1

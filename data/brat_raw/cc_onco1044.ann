@@ -1,0 +1,58 @@
+T1	morphologie 429 435	tumeur
+T2	expression_CIM 429 453	tumeur temporo-pariétale
+T3	topographie 436 453	temporo-pariétale
+T4	expression_CIM 474 495	néoformation primaire
+T5	morphologie 474 495	néoformation primaire
+T6	expression_CIM 621 627	lésion
+T7	morphologie 621 627	lésion
+T8	expression_CIM 634 646	glioblastome
+T9	morphologie 634 646	glioblastome
+T10	expression_CIM 738 744	lésion
+T11	morphologie 738 744	lésion
+T12	expression_CIM 795 826	glioblastome à cellules géantes
+T13	morphologie 795 826	glioblastome à cellules géantes
+T14	expression_CIM 2458 2465	lésions
+T15	morphologie 2458 2465	lésions
+T16	morphologie 2631 2641	métastases
+T17	expression_CIM 2631 2654	métastases rachidiennes
+T18	topographie 2642 2654	rachidiennes
+T19	expression_CIM 2748 2754	lésion
+T20	morphologie 2748 2754	lésion
+T21	expression_CIM 2797 2803	lésion
+T22	morphologie 2797 2803	lésion
+T23	expression_CIM 2860 2872	glioblastome
+T24	morphologie 2860 2872	glioblastome
+T25	morphologie 2933 2943	métastases
+T26	expression_CIM 2933 2959	métastases endomédullaires
+T27	topographie 2944 2959	endomédullaires
+T28	expression_CIM 2964 2995	glioblastome à cellules géantes
+T29	morphologie 2964 2995	glioblastome à cellules géantes
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C71.8 8000/1
+#3	ICD-O T3	C71.8
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	9440/3
+#9	ICD-O T9	9440/3
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	9441/3
+#13	ICD-O T13	9441/3
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C41.2 8000/6
+#18	ICD-O T18	C41.2
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	9440/3
+#24	ICD-O T24	9440/3
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	C72.0 8000/6
+#27	ICD-O T27	C72.0
+#28	ICD-O T28	9441/3
+#29	ICD-O T29	9441/3

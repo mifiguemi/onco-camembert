@@ -1,0 +1,71 @@
+T1	morphologie 1409 1426	lâcher de ballons
+T2	expression_CIM 1409 1450	lâcher de ballons'' dans les deux poumons
+T3	topographie 1443 1450	poumons
+T4	morphologie 1555 1562	nodules
+T5	expression_CIM 1555 1574	nodules pulmonaires
+T6	topographie 1563 1574	pulmonaires
+T7	expression_CIM 1591 1608	lâcher de ballons
+T8	morphologie 1591 1608	lâcher de ballons
+T9	expression_CIM 1632 1642	métastases
+T10	morphologie 1632 1642	métastases
+T11	morphologie 1767 1779	infiltration
+T12	expression_CIM 1767 1817	infiltration possible du ligament gastro-hépatique
+T13	topographie 1792 1817	ligament gastro-hépatique
+T14	morphologie 2241 2250	néoplasie
+T15	expression_CIM 2241 2271	néoplasie de l'œsophage distal
+T16	topographie 2256 2271	œsophage distal
+T17	expression_CIM 2380 2405	adénocarcinome infiltrant
+T18	morphologie 2380 2405	adénocarcinome infiltrant
+T19	morphologie 2419 2433	Adénocarcinome
+T20	expression_CIM 2419 2469	Adénocarcinome de la jonction gastro-oesophagienne
+T21	topographie 2440 2469	jonction gastro-oesophagienne
+T22	expression_CIM 2471 2479	stade IV
+T23	morphologie 2471 2479	stade IV
+T24	morphologie 2481 2483	M1
+T25	expression_CIM 2481 2494	M1 pulmonaire
+T26	topographie 2484 2494	pulmonaire
+T27	expression_CIM 2964 2972	récidive
+T28	morphologie 2964 2972	récidive
+T29	morphologie 3039 3046	lésions
+T30	expression_CIM 3039 3058	lésions pulmonaires
+T31	topographie 3047 3058	pulmonaires
+T33	expression_CIM 3682 3720	lésion infiltrative d'origine tumorale
+T34	morphologie 3744 3755	progression
+T35	expression_CIM 3744 3763	progression osseuse
+T36	topographie 3756 3763	osseuse
+T32	morphologie 3682 3688;3702 3720	lésion d'origine tumorale
+#1	ICD-O T1	8000/6
+#2	ICD-O T3	 C34.9
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C34.9 8000/1
+#5	ICD-O T6	C34.9
+#6	ICD-O T8	8000/6
+#7	ICD-O T9	8000/6
+#8	ICD-O T10	8000/6
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	C48.1 8000/1
+#11	ICD-O T13	C48.1
+#12	ICD-O T14	8000/1
+#13	ICD-O T16	C15.5
+#14	ICD-O T17	8140/3
+#15	ICD-O T18	8140/3
+#16	ICD-O T19	8140/3
+#17	ICD-O T20	C16.0 8140/3
+#18	ICD-O T21	C16.0
+#19	ICD-O T22	8000/6
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	8000/6
+#22	ICD-O T25	C34.9 8000/6
+#23	ICD-O T26	C34.9
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	8000/1
+#27	ICD-O T30	C34.9 8000/1
+#28	ICD-O T31	C34.9
+#29	ICD-O T33	8000/3
+#30	ICD-O T34	8000/6
+#31	ICD-O T35	C41.9 8000/6
+#32	ICD-O T36	C41.9
+#33	ICD-O T32	8000/9
+#34	AnnotatorNotes T1	trad
+#35	AnnotatorNotes T8	trad

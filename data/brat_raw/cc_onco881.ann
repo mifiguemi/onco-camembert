@@ -1,0 +1,94 @@
+T1	expression_CIM 254 284	carcinome canalaire infiltrant
+T2	morphologie 254 284	carcinome canalaire infiltrant
+T3	expression_CIM 460 467	maladie
+T4	morphologie 460 467	maladie
+T5	morphologie 490 509	pathologie tumorale
+T6	expression_CIM 490 518	pathologie tumorale mammaire
+T7	topographie 510 518	mammaire
+T8	morphologie 946 957	adénopathie
+T9	expression_CIM 946 1003	adénopathie palpable latérocervicale ou supraclaviculaire
+T10	topographie 967 982	latérocervicale
+T11	topographie 986 1003	supraclaviculaire
+T12	expression_CIM 1194 1200	masses
+T13	morphologie 1194 1200	masses
+T14	morphologie 1584 1591	nodules
+T15	expression_CIM 1584 1603	nodules pulmonaires
+T16	topographie 1592 1603	pulmonaires
+T17	morphologie 1718 1725	nodules
+T18	expression_CIM 1718 1754	nodules touchant les deux hémithorax
+T19	topographie 1744 1754	hémithorax
+T20	morphologie 1877 1897	maladie métastatique
+T21	expression_CIM 1877 1908	maladie métastatique pulmonaire
+T22	topographie 1898 1908	pulmonaire
+T23	morphologie 1935 1940	masse
+T24	expression_CIM 1935 1947	masse rénale
+T25	topographie 1941 1947	rénale
+T26	expression_CIM 2042 2062	maladie métastatique
+T27	morphologie 2042 2062	maladie métastatique
+T28	morphologie 2075 2093	néoplasie primaire
+T29	expression_CIM 2075 2101	néoplasie primaire du rein
+T30	topographie 2097 2101	rein
+T31	morphologie 2589 2596	lésions
+T32	expression_CIM 2589 2608	lésions pulmonaires
+T33	topographie 2597 2608	pulmonaires
+T34	expression_CIM 2683 2704	lésions métastatiques
+T35	morphologie 2683 2704	lésions métastatiques
+T36	morphologie 2718 2724	lésion
+T37	expression_CIM 2718 2731	lésion rénale
+T38	topographie 2725 2731	rénale
+T39	morphologie 2756 2762	tumeur
+T40	expression_CIM 2756 2769	tumeur rénale
+T41	topographie 2763 2769	rénale
+T42	morphologie 2875 2881	lésion
+T43	expression_CIM 2875 2888	lésion rénale
+T44	topographie 2882 2888	rénale
+T45	morphologie 3330 3335	masse
+T46	expression_CIM 3330 3342	masse rénale
+T47	topographie 3336 3342	rénale
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	8500/3
+#3	ICD-O T3	8000/3
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C50.9 8000/1
+#7	ICD-O T7	C50.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C77.0 8000/1
+#10	ICD-O T10	C76.0
+#11	ICD-O T11	C76.0
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C34.9 8000/1
+#16	ICD-O T16	C34.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C76.1 8000/1
+#19	ICD-O T19	C76.1
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C34.9 8000/6
+#22	ICD-O T22	C34.9
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C64.9 8000/1
+#25	ICD-O T25	C64.9
+#26	ICD-O T26	8000/6
+#27	ICD-O T27	8000/6
+#28	ICD-O T28	8000/3
+#29	ICD-O T29	C64.9 8000/3
+#30	ICD-O T30	C64.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	C34.9 8000/1
+#33	ICD-O T33	C34.9
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	C64.9 8000/1
+#38	ICD-O T38	C64.9
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	C64.9 8000/1
+#41	ICD-O T41	C64.9
+#42	ICD-O T42	8000/1
+#43	ICD-O T43	C64.9 8000/1
+#44	ICD-O T44	C64.9
+#45	ICD-O T45	8000/1
+#46	ICD-O T46	C64.9 8000/1
+#47	ICD-O T47	C64.9

@@ -1,0 +1,107 @@
+T31	topographie 3267 3277	hémisacrum
+T1	morphologie 255 285	carcinome canalaire infiltrant
+T2	expression_CIM 255 293	carcinome canalaire infiltrant du sein
+T3	topographie 289 293	sein
+T4	expression_CIM 302 305	CDI
+T5	morphologie 302 305	CDI
+T6	morphologie 340 357	carcinome in situ
+T7	expression_CIM 340 371	carcinome in situ de haut grade
+T8	morphologie 393 405	infiltration
+T9	expression_CIM 393 424	infiltration vasculolymphatique
+T10	topographie 406 424	vasculolymphatique
+T11	expression_CIM 499 509	métastases
+T12	morphologie 499 509	métastases
+T13	expression_CIM 517 529	adénopathies
+T14	morphologie 517 529	adénopathies
+T15	expression_CIM 662 673	IDC luminal
+T16	morphologie 662 673	IDC luminal
+T17	morphologie 2930 2937	nodules
+T18	expression_CIM 2930 2949	nodules pulmonaires
+T19	topographie 2938 2949	pulmonaires
+T20	expression_CIM 3070 3091	atteinte métastatique
+T21	morphologie 3070 3091	atteinte métastatique
+T22	morphologie 3122 3128	lésion
+T23	expression_CIM 3122 3136	lésion osseuse
+T24	topographie 3129 3136	osseuse
+T25	expression_CIM 3154 3168	tumeur maligne
+T26	morphologie 3154 3168	tumeur maligne
+T27	expression_CIM 3185 3191	lésion
+T28	morphologie 3185 3191	lésion
+T29	expression_CIM 3209 3277	masse de tissu mou associée sur le versant supérieur de l'hémisacrum
+T30	topographie 3218 3227	tissu mou
+T32	expression_CIM 3306 3315	métastase
+T33	morphologie 3306 3315	métastase
+T34	morphologie 3357 3365	atteinte
+T35	expression_CIM 3357 3497	atteinte diffuse de l'intensité du signal de la moelle épinière de la colonne lombaire, du bassin et de la partie visualisée des deux fémurs
+T36	topographie 3405 3443	moelle épinière de la colonne lombaire
+T37	topographie 3448 3454	bassin
+T38	topographie 3491 3497	fémurs
+T39	expression_CIM 3588 3609	atteinte métastatique
+T40	morphologie 3588 3609	atteinte métastatique
+T41	morphologie 3673 3684	ostéoblaste
+T42	expression_CIM 3673 3691	ostéoblaste osseux
+T43	topographie 3685 3691	osseux
+T44	expression_CIM 3692 3694	M1
+T45	morphologie 3692 3694	M1
+T46	morphologie 3792 3798	lésion
+T47	expression_CIM 3792 3819	lésion pulmonaire et sacrée
+T48	topographie 3799 3809	pulmonaire
+T49	topographie 3813 3819	sacrée
+T50	expression_CIM 5074 5090	Myélome multiple
+T51	morphologie 5074 5090	Myélome multiple
+T52	expression_CIM 5092 5094	MM
+T53	morphologie 5092 5094	MM
+T54	morphologie 5111 5123	plasmocytome
+T55	expression_CIM 5111 5134	plasmocytome pulmonaire
+T56	topographie 5124 5134	pulmonaire
+#1	ICD-O T1	8500/3
+#2	ICD-O T2	C50.9 8500/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8500/3
+#5	ICD-O T5	8500/3
+#6	ICD-O T6	8010/2
+#7	ICD-O T7	8010/24
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C49.9 8000/1
+#10	ICD-O T10	C49.9
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	C77.9 8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T16	8050/3
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C34.9 8000/1
+#18	ICD-O T19	C34.9
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C41.9 8000/1
+#23	ICD-O T24	C41.9
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	8000/3
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T30	C49.9
+#29	ICD-O T32	8000/6
+#30	ICD-O T33	8000/6
+#31	ICD-O T34	8000/1
+#32	ICD-O T36	C72.0 
+#33	ICD-O T37	C76.3
+#34	ICD-O T38	C40.2
+#35	ICD-O T39	8000/6
+#36	ICD-O T40	8000/6
+#37	ICD-O T41	tocheck
+#38	ICD-O T43	C41.9
+#39	ICD-O T44	8000/6
+#40	ICD-O T45	8000/6
+#41	ICD-O T46	8000/1
+#42	ICD-O T47	C34.9 8000/1;C41.4 8000/1
+#43	ICD-O T48	C34.9
+#44	ICD-O T49	C41.4
+#45	ICD-O T50	9732/3
+#46	ICD-O T51	9732/3
+#47	ICD-O T52	9732/3
+#48	ICD-O T53	9732/3
+#49	ICD-O T54	9731/3
+#50	ICD-O T55	C34.9 9731/3
+#51	ICD-O T56	C34.9

@@ -1,0 +1,22 @@
+T1	morphologie 1054 1062	Mélanome
+T3	topographie 1069 1083	glande pinéale
+T4	morphologie 1089 1102	carcinomatose
+T6	topographie 1103 1116	leptoméningée
+T7	morphologie 1333 1336	LOE
+T9	topographie 1345 1359	glande pinéale
+T10	morphologie 1649 1655	lésion
+T12	topographie 1656 1663	pinéale
+T13	morphologie 1793 1811	lésions pigmentées
+T15	topographie 1826 1839	ventriculaire
+T16	morphologie 1846 1852	tumeur
+T18	topographie 1859 1873	glande pinéale
+T20	morphologie 2046 2064	cellules tumorales
+T21	morphologie 2177 2190	carcinomatose
+T23	topographie 2191 2199	méningée
+T24	morphologie 2209 2217	mélanome
+T26	topographie 2224 2238	glande pinéale
+T28	morphologie 2275 2282	lésions
+T29	morphologie 2303 2311	mélanome
+T31	topographie 2312 2322	choroïdien
+T33	morphologie 2391 2399	mélanome
+T35	morphologie 2953 2978	progression de la maladie

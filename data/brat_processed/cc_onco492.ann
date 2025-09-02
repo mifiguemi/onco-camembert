@@ -1,0 +1,11 @@
+T2	morphologie 502 507	masse
+T7	morphologie 1130 1136	tumeur
+T8	morphologie 1267 1275	invasion
+T10	topographie 1276 1294	vasculolymphatique
+T11	topographie 1298 1309	périneurale
+T13	morphologie 1681 1705	infiltration néoplasique
+T15	morphologie 2018 2024	tumeur
+T16	morphologie 2124 2138	adénocarcinome
+T18	topographie 2142 2147	côlon
+T3	morphologie 1040 1079	tumeur carcinoïde à cellules gobétiques
+T5	topographie 1096 1125	tiers proximal de l'appendice

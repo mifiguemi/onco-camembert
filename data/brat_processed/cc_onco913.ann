@@ -1,0 +1,28 @@
+T9	topographie 988 1023	région latéro-cervicale postérieure
+T20	topographie 1606 1608	S1
+T21	topographie 1610 1612	S2
+T1	morphologie 239 244	masse
+T3	topographie 245 251	rénale
+T5	differenciation 403 413	Fürhmann 3
+T6	topographie 428 440	bassin rénal
+T7	morphologie 928 934	tumeur
+T10	morphologie 1149 1159	métastases
+T12	topographie 1160 1168	osseuses
+T15	morphologie 1455 1462	lésions
+T16	morphologie 1538 1545	lésions
+T18	topographie 1554 1572	colonne vertébrale
+T19	topographie 1602 1604	L4
+T22	topographie 1625 1639	lames iliaques
+T23	morphologie 1711 1717	lésion
+T25	topographie 1718 1727	cervicale
+T27	morphologie 1744 1753	métastase
+T28	morphologie 1759 1781	carcinome sarcomatoïde
+T30	topographie 1805 1811	rénale
+T32	morphologie 2056 2065	métastase
+T34	morphologie 2071 2130	carcinome à cellules claires à différenciation sarcomatoïde
+T36	topographie 3483 3494	tissus mous
+T37	topographie 3505 3513	cervical
+T38	morphologie 3535 3542	lésions
+T40	topographie 3561 3571	lombosacré
+T41	topographie 3584 3598	lames iliaques
+T13	topographie 1288 1335	vertèbres de la région cervicale et lombosacrée

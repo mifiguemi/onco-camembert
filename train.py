@@ -22,9 +22,9 @@ parser.add_argument(
     choices=[
         "camembert-bio",
         "camembert-base",
-        "flaubert-base",
         "bert-base-multilingual",
-        "fr-albert"
+        "fr-albert", 
+        "xlm-roberta"
     ],
     help="Choose a model name from the available options."
 )
@@ -37,9 +37,9 @@ if parsargs.dir_model_name is None:
     options = [
         "camembert-bio",
         "camembert-base",
-        "flaubert-base",
         "bert-base-multilingual",
-        "fr-albert"
+        "fr-albert",
+        "xlm-roberta"
     ]
     for i, opt in enumerate(options, 1):
         print(f"{i}. {opt}")
@@ -63,9 +63,9 @@ print(f"Using model: {dir_model_name}")
 MODEL_NAME_MAP = {
     "camembert-bio": "almanach/camembert-bio-base",
     "camembert-base": "camembert-base",
-    "flaubert-base": "flaubert/flaubert_base_cased",
     "bert-base-multilingual": "bert-base-multilingual-cased",
-    "fr-albert": "cservan/french-albert-base-cased"
+    "fr-albert": "cservan/french-albert-base-cased",
+    "xlm-roberta": "FacebookAI/roberta-base"
 }
 
 model_name = MODEL_NAME_MAP[dir_model_name]
@@ -73,8 +73,8 @@ model_name = MODEL_NAME_MAP[dir_model_name]
 PROJECT_ROOT = Path.cwd()
 if not (PROJECT_ROOT / "data").exists():
     PROJECT_ROOT = PROJECT_ROOT.parent
-TRAIN_CSV_FILE = PROJECT_ROOT / "data/csv_data/ner_sentences_train.csv"
-TEST_CSV_FILE  = PROJECT_ROOT / "data/csv_data/ner_sentences_test.csv"
+TRAIN_CSV_FILE = PROJECT_ROOT / "data/csv/ner_sentences_train.csv"
+TEST_CSV_FILE  = PROJECT_ROOT / "data/csv/ner_sentences_test.csv"
 
 # Create output directories
 OUTPUT_DIR = PROJECT_ROOT / "runs/final_best" / f"{dir_model_name}_{datetime.now().strftime('%Y-%m-%d_%H-%M')}"
@@ -106,22 +106,20 @@ else:
 print("Using:", device)
 
 
+
+
 cfg = {
     "model_name": model_name,
-    "seed_list": [11, 22, 33, 44, 55],
+    "seed_list": [44, 55],
     "training_args": {
-        # "num_train_epochs": 5,
-        "num_train_epochs": 7,
         "per_device_train_batch_size": 4,
         "per_device_eval_batch_size": 4,
+        # Default hyperparameters (runs 1):
+        # "num_train_epochs": 5,
         # "gradient_accumulation_steps": 2,
-        "gradient_accumulation_steps": 1,
         # "learning_rate": 5e-5,
-        "learning_rate": 3.894793689386536e-5,
         # "weight_decay": 0.01,
-        "weight_decay" : 0.08061743396237347,
         # "warmup_ratio": 0.1,
-        "warmup_ratio": 0.13860985884866567,
         "logging_dir": "logs",
         "logging_steps": 100,           # log every N steps
         "report_to": ["tensorboard"],   # log to TensorBoard
@@ -133,6 +131,21 @@ cfg = {
         "save_strategy": "epoch",       # checkpoint each epoch 
         # save_strategy : "best",  # save only the best model
         "remove_unused_columns": True,  # remove columns not used by the model
+        
+        # HPO for camembert-bio (runs 2):
+        "num_train_epochs": 7,
+        "gradient_accumulation_steps": 1,
+        "learning_rate": 3.894793689386536e-5,
+        "weight_decay" : 0.08061743396237347,
+        "warmup_ratio": 0.13860985884866567,
+
+        # HPO for camembert-base (runs 3): 
+        # 'learning_rate': 4.082472187975843e-05, 
+        # 'num_train_epochs': 6, 
+        # 'weight_decay': 0.059269381748047745, 
+        # 'warmup_ratio': 0.08682116258227697, 
+        # 'per_device_train_batch_size': 4, 
+        # 'gradient_accumulation_steps': 2
     }
 }
 
@@ -140,6 +153,8 @@ cfg = {
 
 # Load tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(cfg["model_name"], use_fast=True)
+if hasattr(tokenizer, "add_prefix_space"):
+    tokenizer.add_prefix_space = True
 model = AutoModelForTokenClassification.from_pretrained(cfg["model_name"], num_labels=len(label_list), id2label=id2label, label2id=label2id)
 data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer) 
 
@@ -165,14 +180,21 @@ model_init = partial(
     label2id
 )
 
-seeds = [11, 22, 33, 44, 55] # should i make this random?
 val_results, test_results = [], []
 
-for s in seeds:
+for s in cfg["seed_list"]:
     args = TrainingArguments(**cfg["training_args"], 
                              seed=s, data_seed=s, 
                              output_dir=os.fspath(OUTPUT_DIR / f"s{s}"), 
                              run_name=f"{dir_model_name}_s{s}")
+    
+    seed_dir = MODEL_SAVE_PATH / f"seed_{s}"
+    if seed_dir.exists():
+        print(f"{seed_dir} already exists; skipping.")
+        continue
+        
+    seed_dir.mkdir(parents=True, exist_ok=True)
+
     trainer = Trainer(
         args=args,
         model_init=model_init,   # ensures model is (re)initialized *after* seeding
@@ -198,10 +220,6 @@ for s in seeds:
     test_results.append(test_metrics)
 
     # Save the final model
-    seed_dir = MODEL_SAVE_PATH / f"seed_{s}"
-    if seed_dir.exists():
-        raise SystemExit(f"{seed_dir} already exists; aborting to avoid overwrite.")
-    seed_dir.mkdir(parents=True, exist_ok=True)
     trainer.save_model(seed_dir)  # saves model + config + tokenizer
 
     # Save run metadata alongside weights:

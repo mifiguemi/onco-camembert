@@ -1,0 +1,104 @@
+T1	expression_CIM 490 496	masses
+T2	morphologie 490 496	masses
+T3	morphologie 702 708	tumeur
+T4	expression_CIM 702 733	tumeur sténosante dans le côlon
+T5	topographie 728 733	côlon
+T6	expression_CIM 750 762	adénopathies
+T7	morphologie 750 762	adénopathies
+T8	morphologie 780 785	masse
+T9	expression_CIM 780 802	masse paramédiastinale
+T10	topographie 786 802	paramédiastinale
+T11	morphologie 841 848;867 890	lésions évoquant des métastases
+T12	expression_CIM 841 858	lésions pleurales
+T13	topographie 849 858	pleurales
+T14	expression_CIM 880 890	métastases
+T15	expression_CIM 1116 1137	carcinome épidermoïde
+T16	morphologie 1116 1137	carcinome épidermoïde
+T17	expression_CIM 1251 1269	cellules tumorales
+T18	morphologie 1251 1269	cellules tumorales
+T19	expression_CIM 1314 1332	cellules tumorales
+T20	morphologie 1314 1332	cellules tumorales
+T21	morphologie 1462 1471	carcinome
+T22	expression_CIM 1462 1480	carcinome thymique
+T23	topographie 1472 1480	thymique
+T24	morphologie 1520 1526	lésion
+T25	expression_CIM 1520 1537	lésion pulmonaire
+T26	topographie 1527 1537	pulmonaire
+T27	morphologie 1693 1702	carcinome
+T28	expression_CIM 1693 1711	carcinome thymique
+T29	topographie 1703 1711	thymique
+T30	morphologie 1757 1771	adénocarcinome
+T31	expression_CIM 1757 1797	adénocarcinome bien différencié du côlon
+T32	differenciation 1772 1788	bien différencié
+T33	topographie 1792 1797	côlon
+T34	morphologie 1886 1900	adénocarcinome
+T35	expression_CIM 1886 1919	adénocarcinome sténosant du côlon
+T36	topographie 1914 1919	côlon
+T37	morphologie 1952 1961;1971 1981	carcinome malpighien
+T38	expression_CIM 1952 1981	carcinome thymique malpighien
+T39	morphologie 1987 1995	atteinte
+T40	expression_CIM 1987 2004	atteinte pleurale
+T41	topographie 1996 2004	pleurale
+T42	morphologie 2080 2101	carcinome épidermoïde
+T43	expression_CIM 2080 2124	carcinome épidermoïde métastatique du poumon
+T44	topographie 2118 2124	poumon
+T45	morphologie 2483 2488	masse
+T46	expression_CIM 2483 2505	masse paramédiastinale
+T47	topographie 2489 2505	paramédiastinale
+T48	morphologie 2513 2521	implants
+T49	expression_CIM 2513 2530	implants pleuraux
+T50	topographie 2522 2530	pleuraux
+T51	expression_CIM 4455 4469	tumeur maligne
+T52	morphologie 4455 4469	tumeur maligne
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C18.9 8000/1
+#5	ICD-O T5	C18.9
+#6	ICD-O T6	C77.9 8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C38.8 8000/1
+#10	ICD-O T10	C38.8
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	C38.4 8000/1
+#13	ICD-O T13	C38.4
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8070/3
+#16	ICD-O T16	8070/3
+#17	ICD-O T17	8001/1
+#18	ICD-O T18	8001/1
+#19	ICD-O T19	8001/1
+#20	ICD-O T20	8001/1
+#21	ICD-O T21	8010/3
+#22	ICD-O T22	C37.9 8010/3
+#23	ICD-O T23	C37.9
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	C34.9 8000/1
+#26	ICD-O T26	C34.9
+#27	ICD-O T27	8010/3
+#28	ICD-O T28	C37.9 8010/3
+#29	ICD-O T29	C37.9
+#30	ICD-O T30	8140/3
+#31	ICD-O T31	C18.9 8140/31
+#32	ICD-O T32	1
+#33	ICD-O T33	C18.9
+#34	ICD-O T34	8140/3
+#35	ICD-O T35	C18.9 8140/3
+#36	ICD-O T36	C18.9
+#37	ICD-O T37	8070/3
+#38	ICD-O T38	C37.9 8070/3
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	C38.4 8000/1
+#41	ICD-O T41	C38.4
+#42	ICD-O T42	8070/3
+#43	ICD-O T43	C34.9 8070/3
+#44	ICD-O T44	C34.9
+#45	ICD-O T45	8000/1
+#46	ICD-O T46	C38.8 8000/1
+#47	ICD-O T47	C38.8
+#48	ICD-O T48	8000/6
+#49	ICD-O T49	C38.4 8000/6
+#50	ICD-O T50	C38.4
+#51	ICD-O T51	8000/3
+#52	ICD-O T52	8000/3

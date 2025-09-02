@@ -1,0 +1,29 @@
+T1	morphologie 13 20	tumeurs
+T44	morphologie 32 42	primitives
+T3	topographie 21 31	cardiaques
+T4	morphologie 178 191	angiosarcomes
+T6	topographie 192 202	cardiaques
+T7	morphologie 324 336	angiosarcome
+T9	topographie 337 346	cardiaque
+T11	morphologie 350 358	stade IV
+T12	morphologie 1035 1040	masse
+T14	topographie 1048 1058	oreillette
+T15	morphologie 1134 1141	lésions
+T17	topographie 1160 1176	corps vertébraux
+T18	morphologie 1214 1226	angiosarcome
+T20	differenciation 1230 1239	grade III
+T21	morphologie 1253 1265	Angiosarcome
+T23	topographie 1271 1281	oreillette
+T25	morphologie 1290 1298	stade IV
+T26	morphologie 1309 1319	métastases
+T28	topographie 1320 1340	osseuses vertébrales
+T29	morphologie 1416 1422	tumeur
+T31	topographie 1423 1432	cardiaque
+T33	morphologie 1560 1575	tumeur primaire
+T34	morphologie 1593 1599	tumeur
+T36	topographie 1628 1638	oreillette
+T38	morphologie 2335 2345	métastases
+T40	topographie 2346 2356	hépatiques
+T41	morphologie 2686 2697	progression
+T43	topographie 2698 2707	hépatique
+T37	topographie 1663 1692	septum auriculo-ventriculaire

@@ -1,0 +1,36 @@
+T3	topographie 198 224	cervicale sous-digastrique
+T1	morphologie 186 197	adénopathie
+T4	morphologie 367 378	Adénopathie
+T8	morphologie 466 472	lésion
+T10	morphologie 703 714	adénopathie
+T12	morphologie 730 739	métastase
+T13	morphologie 745 754	carcinome
+T15	differenciation 755 770	peu différencié
+T16	morphologie 784 793	Carcinome
+T18	differenciation 794 809	peu différencié
+T19	topographie 812 828	origine inconnue
+T20	morphologie 1022 1031	carcinome
+T22	differenciation 1032 1047	peu différencié
+T23	morphologie 1288 1297	carcinome
+T56	morphologie 1325 1341	non kératinisant
+T25	topographie 1298 1310	nasopharyngé
+T26	differenciation 1311 1324	indifférencié
+T28	morphologie 1343 1360	lymphoépithéliome
+T29	morphologie 1400 1409	carcinome
+T31	topographie 1410 1422	nasopharyngé
+T33	morphologie 1506 1512	tumeur
+T35	morphologie 1600 1608	récidive
+T36	morphologie 1649 1655	lésion
+T38	topographie 1696 1703	humérus
+T40	morphologie 1737 1746	métastase
+T42	morphologie 1748 1750	M1
+T43	morphologie 1757 1766	carcinome
+T45	topographie 1767 1779	nasopharyngé
+T46	morphologie 1844 1846	M1
+T48	topographie 1847 1853	osseux
+T49	morphologie 1870 1880	métastases
+T51	topographie 1881 1892	pulmonaires
+T52	morphologie 2089 2100	progression
+T54	topographie 2101 2108	osseuse
+T55	topographie 2112 2122	pulmonaire
+T6	topographie 379 395	sous-digastrique

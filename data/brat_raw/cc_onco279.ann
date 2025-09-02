@@ -1,0 +1,88 @@
+T1	morphologie 95 125	carcinome canalaire infiltrant
+T2	expression_CIM 95 149	carcinome canalaire infiltrant enrichi en HER2 du sein
+T3	topographie 145 149	sein
+T4	morphologie 1337 1362	Conglomérat adénopathique
+T5	expression_CIM 1337 1372	Conglomérat adénopathique axillaire
+T6	topographie 1363 1372	axillaire
+T7	morphologie 1588 1597	Captation
+T8	expression_CIM 1588 1636	Captation diffuse intense du parenchyme mammaire
+T10	expression_CIM 1650 1655	masse
+T11	morphologie 1650 1655	masse
+T12	morphologie 1657 1668	Adénopathie
+T13	expression_CIM 1657 1678	Adénopathie axillaire
+T14	topographie 1669 1678	axillaire
+T15	expression_CIM 1793 1825	processus néoplasique infiltrant
+T16	morphologie 1793 1825	processus néoplasique infiltrant
+T17	morphologie 1827 1838	Adénopathie
+T18	expression_CIM 1827 1848	Adénopathie axillaire
+T19	topographie 1839 1848	axillaire
+T20	morphologie 1942 1966	Adénopathie pathologique
+T21	expression_CIM 1942 2042	Adénopathie pathologique dans la région axillaire gauche, prévasculaire, précarinale et souscarinale
+T26	morphologie 2180 2192	Condensation
+T27	expression_CIM 2180 2240	Condensation en verre dépoli dans les deux bases pulmonaires
+T28	topographie 2223 2240	bases pulmonaires
+T29	morphologie 2595 2607	infiltration
+T30	expression_CIM 2595 2632	infiltration cutanée lymphovasculaire
+T31	topographie 2608 2615	cutanée
+T32	topographie 2616 2632	lymphovasculaire
+T33	expression_CIM 2640 2649	carcinome
+T34	morphologie 2640 2649	carcinome
+T35	morphologie 2715 2730	Récidive locale
+T36	expression_CIM 2715 2759	Récidive locale, ganglionnaire et pulmonaire
+T37	topographie 2732 2745	ganglionnaire
+T38	topographie 2749 2759	pulmonaire
+T39	morphologie 2765 2774	carcinome
+T40	expression_CIM 2765 2783	carcinome mammaire
+T41	topographie 2775 2783	mammaire
+T42	expression_CIM 3440 3446	tumeur
+T43	morphologie 3440 3446	tumeur
+T44	morphologie 4286 4298	adénopathies
+T45	expression_CIM 4286 4309	adénopathies axillaires
+T46	topographie 4299 4309	axillaires
+T47	morphologie 4380 4392	adénopathies
+T48	expression_CIM 4380 4406	adénopathies médiastinales
+T49	topographie 4393 4406	médiastinales
+T9	topographie 1617 1636	parenchyme mammaire
+T24	topographie 2015 2026	précarinale
+T23	topographie 2000 2013	prévasculaire
+T22	topographie 1975 1991	région axillaire
+T25	topographie 2030 2042	souscarinale
+#1	ICD-O T1	8500/3
+#2	ICD-O T3	C50.9 
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	C77.3 8000/1
+#5	ICD-O T6	C76.1
+#6	ICD-O T7	8000/1
+#7	ICD-O T10	8000/1
+#8	ICD-O T11	8000/1
+#9	ICD-O T12	8000/1
+#10	ICD-O T13	C77.3 8000/1
+#11	ICD-O T14	C76.1
+#12	ICD-O T16	8000/9
+#13	ICD-O T17	8000/1
+#14	ICD-O T18	C77.3 8000/1
+#15	ICD-O T19	C76.1
+#16	ICD-O T20	8000/1
+#17	ICD-O T26	8000/1
+#18	ICD-O T28	C34.3
+#19	ICD-O T29	8000/1
+#20	ICD-O T30	C44.9 8000/1;C49.9 8000/1
+#21	ICD-O T31	C44.9
+#22	ICD-O T32	C49.9
+#23	ICD-O T33	8010/3
+#24	ICD-O T34	8010/3
+#25	ICD-O T35	8000/3
+#26	ICD-O T36	C34.9 8000/6;C77.9 8000/6
+#27	ICD-O T37	C77.9
+#28	ICD-O T38	C34.9
+#29	ICD-O T39	8010/3
+#30	ICD-O T40	C50.9 8010/3
+#31	ICD-O T41	C50.9
+#32	ICD-O T42	8000/1
+#33	ICD-O T43	8000/1
+#34	ICD-O T44	8000/1
+#35	ICD-O T45	C77.3 8000/1
+#36	ICD-O T46	C76.1
+#37	ICD-O T47	8000/1
+#38	ICD-O T48	C77.1 8000/1
+#39	ICD-O T49	C38.3

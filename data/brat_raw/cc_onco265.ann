@@ -1,0 +1,121 @@
+T36	topographie 2076 2083	GANGLES
+T27	topographie 1817 1824	GANGLIE
+T1	morphologie 268 274	lésion
+T2	expression_CIM 268 313	lésion hyperpigmentée dans la région poplitée
+T3	topographie 298 313	région poplitée
+T4	expression_CIM 452 460	mélanome
+T5	morphologie 452 460	mélanome
+T6	expression_CIM 513 553	mélanome malin d'extension superficielle
+T7	morphologie 513 553	mélanome malin d'extension superficielle
+T8	expression_CIM 700 706	tumeur
+T9	morphologie 700 706	tumeur
+T10	morphologie 868 880	adénopathies
+T11	expression_CIM 868 905	adénopathies dans la région inguinale
+T12	topographie 889 905	région inguinale
+T13	morphologie 1405 1417	Adénopathies
+T14	expression_CIM 1405 1428	Adénopathies inguinales
+T15	topographie 1418 1428	inguinales
+T16	morphologie 1450 1456	nodule
+T17	expression_CIM 1450 1505	nodule sous-cutané dans la zone postérieure de la jambe
+T19	expression_CIM 1686 1709	extension de la maladie
+T20	morphologie 1686 1709	extension de la maladie
+T21	morphologie 1743 1753	METASTASIS
+T22	expression_CIM 1743 1824	METASTASIS DANS L'ADENOPATHIE DU MELANOMA MALIGNANT (1 sur 6) RESTE DE LA GANGLIE
+T23	expression_CIM 1761 1772	ADENOPATHIE
+T24	morphologie 1761 1772	ADENOPATHIE
+T25	expression_CIM 1776 1794	MELANOMA MALIGNANT
+T26	morphologie 1776 1794	MELANOMA MALIGNANT
+T28	expression_CIM 1832 1839	lésions
+T29	morphologie 1832 1839	lésions
+T30	morphologie 2003 2013	METASTASIS
+T31	expression_CIM 2003 2083	METASTASIS DANS UN ADENOPATHIE DE MELANOMA MALIGNANT (1 sur 6) RESTE DES GANGLES
+T32	expression_CIM 2022 2033	ADENOPATHIE
+T33	morphologie 2022 2033	ADENOPATHIE
+T34	expression_CIM 2037 2055	MELANOMA MALIGNANT
+T35	morphologie 2037 2055	MELANOMA MALIGNANT
+T37	expression_CIM 2265 2283	MELANOMA MALIGNANT
+T38	morphologie 2265 2283	MELANOMA MALIGNANT
+T39	expression_CIM 2439 2447	mélanome
+T40	morphologie 2439 2447	mélanome
+T41	expression_CIM 3134 3159	progression de la maladie
+T42	morphologie 3134 3159	progression de la maladie
+T43	morphologie 3188 3193	masse
+T44	expression_CIM 3188 3209	masse des tissus mous
+T45	expression_CIM 3188 3240	masse des tissus mous au niveau de la région dorsale
+T46	topographie 3198 3209	tissus mous
+T47	topographie 3233 3240	dorsale
+T48	morphologie 3328 3344	lésion nodulaire
+T49	expression_CIM 3328 3374	lésion nodulaire au niveau du membre supérieur
+T50	topographie 3358 3374	membre supérieur
+T51	expression_CIM 3466 3480	mélanome malin
+T52	morphologie 3466 3480	mélanome malin
+T53	expression_CIM 3508 3526	cellules tumorales
+T54	morphologie 3508 3526	cellules tumorales
+T55	morphologie 3867 3875;3886 3898	atteinte métastatique
+T56	expression_CIM 3867 3898	atteinte cérébrale métastatique
+T57	topographie 3876 3885	cérébrale
+T58	morphologie 4335 4359;4451 4481	foyers d'hyper captation compatibles avec une métastase
+T59	expression_CIM 4335 4434	foyers d'hyper captation cortico-sous-corticaux, l'un pariétal droit de 3 mm et l'autre frontobasal
+T60	topographie 4360 4382	cortico-sous-corticaux
+T61	topographie 4389 4397	pariétal
+T62	topographie 4423 4434	frontobasal
+T63	expression_CIM 4472 4481	métastase
+T18	topographie 1457 1505	sous-cutané dans la zone postérieure de la jambe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.5 8000/1
+#3	ICD-O T3	C76.5
+#4	ICD-O T4	8720/3
+#5	ICD-O T5	8720/3
+#6	ICD-O T6	8743/3
+#7	ICD-O T7	8743/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.4 8000/1
+#12	ICD-O T12	C76.3
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C77.4 8000/1
+#15	ICD-O T15	C76.3
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C49.9 8000/1;C76.5 8000/1
+#18	ICD-O T19	8000/6
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T26	8720/3
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	8000/1
+#26	ICD-O T30	8000/6
+#27	ICD-O T32	8000/1
+#28	ICD-O T33	8000/1
+#29	ICD-O T35	8720/3
+#30	ICD-O T38	8720/3
+#31	ICD-O T39	8720/3
+#32	ICD-O T40	8720/3
+#33	ICD-O T41	8000/1
+#34	ICD-O T42	8000/9
+#35	ICD-O T43	8000/1
+#36	ICD-O T45	C49.9 8000/1;C76.7 8000/1
+#37	ICD-O T46	C49.9
+#38	ICD-O T47	C76.7
+#39	ICD-O T48	8000/1
+#40	ICD-O T50	C76.4
+#41	ICD-O T51	8720/3
+#42	ICD-O T52	8720/3
+#43	ICD-O T53	8001/1
+#44	ICD-O T54	8001/3
+#45	ICD-O T55	8000/6
+#46	ICD-O T56	C71.0 8000/6
+#47	ICD-O T57	C71.9
+#48	ICD-O T58	8000/6
+#49	ICD-O T59	C71.0 8000/1;C71.3 8000/1;C71.8 8000/1
+#50	ICD-O T60	C71.0
+#51	ICD-O T61	C71.3
+#52	ICD-O T62	C71.8
+#53	ICD-O T63	8000/6
+#54	AnnotatorNotes T21	trad
+#55	AnnotatorNotes T26	trad
+#56	AnnotatorNotes T30	trad
+#57	AnnotatorNotes T35	trad
+#58	AnnotatorNotes T38	trad

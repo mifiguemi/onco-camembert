@@ -1,0 +1,43 @@
+T1	expression_CIM 382 422	occupation du médiastin antéro-supérieur
+T3	morphologie 437 442	masse
+T4	expression_CIM 437 455	masse de tissu mou
+T5	topographie 446 455	tissu mou
+T6	morphologie 623 628	masse
+T7	expression_CIM 623 656	masse dans le médiastin antérieur
+T8	topographie 637 656	médiastin antérieur
+T9	morphologie 1568 1573	masse
+T10	expression_CIM 1568 1597	masse médiastinale antérieure
+T11	topographie 1574 1597	médiastinale antérieure
+T12	topographie 1876 1888	médiastinale
+T13	expression_CIM 1876 1921	médiastinale : tumeur à cellules épithéliales
+T14	morphologie 1891 1921	tumeur à cellules épithéliales
+T15	morphologie 2153 2172	Carcinome basaloïde
+T16	expression_CIM 2153 2182	Carcinome basaloïde du thymus
+T17	topographie 2176 2182	thymus
+T18	expression_CIM 2272 2278	tumeur
+T19	morphologie 2272 2278	tumeur
+T20	expression_CIM 2461 2488	stabilisation de la maladie
+T21	morphologie 2461 2488	stabilisation de la maladie
+T22	expression_CIM 2533 2539	lésion
+T23	morphologie 2533 2539	lésion
+T2	topographie 396 422	médiastin antéro-supérieur
+#1	ICD-O T3	8000/1
+#2	ICD-O T4	C49.9 8000/1
+#3	ICD-O T5	C49.9
+#4	ICD-O T6	8000/1
+#5	ICD-O T7	C38.1 8000/1
+#6	ICD-O T8	C38.1
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	C38.1 8000/1
+#9	ICD-O T11	C38.1
+#10	ICD-O T12	C38.3
+#11	ICD-O T14	8010/3
+#12	ICD-O T15	8123/3
+#13	ICD-O T16	C37.9 8123/3
+#14	ICD-O T17	C37.9
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	8000/6
+#18	ICD-O T21	8000/6
+#19	ICD-O T22	8000/1
+#20	ICD-O T23	8000/1

@@ -1,0 +1,49 @@
+T1	morphologie 922 929	nodules
+T2	expression_CIM 922 941	nodules pulmonaires
+T3	topographie 930 941	pulmonaires
+T4	expression_CIM 998 1029	lésions occupant l'espace (LOES
+T5	morphologie 998 1029	lésions occupant l'espace (LOES
+T6	morphologie 1032 1044	Conglomérats
+T7	expression_CIM 1032 1084	Conglomérats rétropéritonéaux dans le tronc cœliaque
+T8	topographie 1045 1061	rétropéritonéaux
+T9	topographie 1070 1084	tronc cœliaque
+T10	morphologie 1244 1250	lésion
+T11	expression_CIM 1244 1260	lésion hépatique
+T12	topographie 1251 1260	hépatique
+T13	expression_CIM 1263 1272	métastase
+T14	morphologie 1263 1272	métastase
+T15	morphologie 1278 1292	adénocarcinome
+T16	expression_CIM 1278 1314	adénocarcinome d'origine intestinale
+T17	topographie 1303 1314	intestinale
+T18	morphologie 1479 1493	Adénocarcinome
+T19	expression_CIM 1479 1527	Adénocarcinome de stade IV d'origine intestinale
+T20	morphologie 1497 1505	stade IV
+T21	expression_CIM 1497 1562	stade IV d'origine intestinale (pulmonaire, hépatique, péritonéal
+T22	topographie 1516 1527	intestinale
+T23	topographie 1529 1539	pulmonaire
+T24	topographie 1541 1550	hépatique
+T25	topographie 1552 1562	péritonéal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C48.0 8000/1;C49.4 8000/1
+#7	ICD-O T8	C48.0
+#8	ICD-O T9	C49.4
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C22.0 8000/1
+#11	ICD-O T12	C22.0
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8140/3
+#15	ICD-O T16	C26.0 8140/3
+#16	ICD-O T17	C26.0
+#17	ICD-O T18	8140/3
+#18	ICD-O T19	8140/3
+#19	ICD-O T20	8000/6
+#20	ICD-O T22	C26.0
+#21	ICD-O T23	C34.9
+#22	ICD-O T24	C22.0
+#23	ICD-O T25	C48.2
+#24	AnnotatorNotes T5	trad

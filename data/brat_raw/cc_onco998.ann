@@ -1,0 +1,86 @@
+T11	topographie 1593 1614	cutanées sur le tronc
+T1	expression_CIM 628 634	lésion
+T2	morphologie 628 634	lésion
+T3	expression_CIM 745 751	lésion
+T4	morphologie 745 751	lésion
+T5	expression_CIM 1146 1153	lésions
+T6	morphologie 1146 1153	lésions
+T7	expression_CIM 1434 1439	masse
+T8	morphologie 1434 1439	masse
+T9	morphologie 1585 1592	lésions
+T10	expression_CIM 1585 1614	lésions cutanées sur le tronc
+T12	morphologie 1647 1653	lésion
+T13	expression_CIM 1647 1666	lésion sur le flanc
+T14	topographie 1661 1666	flanc
+T15	morphologie 1947 1959	adénopathies
+T16	expression_CIM 1947 1991	adénopathies pelviennes et rétropéritonéales
+T17	topographie 1960 1970	pelviennes
+T18	topographie 1974 1991	rétropéritonéales
+T19	morphologie 2068 2088	carcinome urothélial
+T20	expression_CIM 2068 2102	carcinome urothélial de haut grade
+T21	differenciation 2092 2102	haut grade
+T22	morphologie 2167 2184	foyers d'invasion
+T23	expression_CIM 2167 2195	foyers d'invasion vasculaire
+T24	topographie 2185 2195	vasculaire
+T25	morphologie 2219 2239	carcinome urothélial
+T26	expression_CIM 2219 2297	carcinome urothélial de haut grade de stade IV est diagnostiqué dans la vessie
+T27	differenciation 2243 2253	haut grade
+T28	expression_CIM 2257 2265	stade IV
+T29	topographie 2291 2297	vessie
+T30	morphologie 2682 2689	lésions
+T31	expression_CIM 2682 2698	lésions cutanées
+T32	topographie 2690 2698	cutanées
+T33	morphologie 3588 3595	nodules
+T34	expression_CIM 3588 3608	nodules sous-cutanés
+T35	topographie 3596 3608	sous-cutanés
+T36	expression_CIM 3762 3769	tumeurs
+T37	morphologie 3762 3769	tumeurs
+T38	morphologie 3863 3870	lésions
+T39	expression_CIM 3863 3879	lésions cutanées
+T40	topographie 3871 3879	cutanées
+T41	morphologie 4078 4085	lésions
+T42	expression_CIM 4078 4094	lésions cutanées
+T43	topographie 4086 4094	cutanées
+T44	expression_CIM 4138 4150	adénopathies
+T45	morphologie 4138 4150	adénopathies
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	C76.7 8000/1
+#12	ICD-O T14	C76.7
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	C77.2 8000/1;C77.5 8000/1
+#15	ICD-O T17	C76.3
+#16	ICD-O T18	C48.0
+#17	ICD-O T19	8120/3
+#18	ICD-O T20	8120/34
+#19	ICD-O T21	4
+#20	ICD-O T22	8000/6
+#21	ICD-O T24	C49.9
+#22	ICD-O T25	8120/3
+#23	ICD-O T27	4
+#24	ICD-O T28	8000/6
+#25	ICD-O T29	C67
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	C44.9 8000/1
+#28	ICD-O T32	C44.9
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	C49.9 8000/1
+#31	ICD-O T35	C49.9
+#32	ICD-O T36	8000/1
+#33	ICD-O T37	8000/1
+#34	ICD-O T38	8000/1
+#35	ICD-O T39	C44.9 8000/1
+#36	ICD-O T40	C44.9
+#37	ICD-O T41	8000/1
+#38	ICD-O T42	C44.9 8000/1
+#39	ICD-O T43	C44.9
+#40	ICD-O T44	C77.9 8000/1
+#41	ICD-O T45	8000/1

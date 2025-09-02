@@ -1,0 +1,37 @@
+T1	morphologie 666 694	carcinome à cellules claires
+T3	topographie 700 706	ovaire
+T4	morphologie 852 885	adénocarcinome à cellules claires
+T6	topographie 891 897	ovaire
+T7	morphologie 1007 1017	Métastases
+T10	morphologie 1023 1056	adénocarcinome à cellules claires
+T11	topographie 1066 1097	ganglions lymphatiques pelviens
+T12	topographie 1110 1141	ganglions lymphatiques pelviens
+T13	topographie 1157 1194	ganglions lymphatiques para-aortiques
+T14	morphologie 2061 2073	adénopathies
+T16	topographie 2074 2087	médiastinales
+T17	morphologie 2103 2110	nodules
+T19	topographie 2126 2137	pulmonaires
+T20	topographie 2152 2162	spléniques
+T22	morphologie 2201 2218	récidive tumorale
+T24	morphologie 2709 2721	adénopathies
+T25	morphologie 2926 2938	adénopathies
+T27	topographie 2943 2954	vasculaires
+T28	topographie 2958 2972	paratrachéales
+T29	morphologie 3008 3015	nodules
+T31	topographie 3016 3027	pulmonaires
+T32	morphologie 3080 3087	nodules
+T34	topographie 3088 3098	spléniques
+T36	morphologie 3124 3133	métastase
+T37	morphologie 3140 3152	micronodules
+T39	topographie 3153 3163	hépatiques
+T40	morphologie 3717 3731	Adénocarcinome
+T55	morphologie 3740 3758	à cellules claires
+T42	topographie 3732 3739	ovarien
+T43	morphologie 3862 3874	Micronodules
+T45	topographie 3875 3886	pulmonaires
+T46	topographie 3890 3900	spléniques
+T47	morphologie 4613 4620	nodules
+T49	topographie 4621 4632	pulmonaires
+T50	morphologie 4640 4652	adénopathies
+T52	topographie 4653 4666	médiastinales
+T54	morphologie 4889 4897	récidive

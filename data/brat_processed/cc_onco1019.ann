@@ -1,0 +1,74 @@
+T1	morphologie 38 44	tumeur
+T3	topographie 45 57	hypophysaire
+T5	morphologie 222 239	macroprolactinome
+T6	morphologie 1613 1623	méningiome
+T8	topographie 1681 1697	cisterna ambiens
+T9	morphologie 1710 1718	atteinte
+T11	topographie 1732 1769	troisième et quatrième nerfs crâniens
+T12	morphologie 1795 1805	méningiome
+T14	topographie 1833 1861	atrium du ventricule latéral
+T16	morphologie 2157 2163	lésion
+T18	morphologie 2405 2414	métastase
+T19	morphologie 2420 2434	adénocarcinome
+T21	differenciation 2435 2457	modérément différencié
+T22	topographie 2468 2478	pulmonaire
+T23	morphologie 3113 3122	néoplasie
+T25	topographie 3123 3139	pleuropulmonaire
+T26	topographie 3148 3162	lobe supérieur
+T27	morphologie 3187 3197	métastases
+T29	topographie 3198 3207	pleurales
+T30	topographie 3211 3225	ganglionnaires
+T31	topographie 3234 3243	médiastin
+T33	topographie 3273 3287	rétropéritoine
+T34	morphologie 3312 3322	métastases
+T36	topographie 3323 3333	hépatiques
+T37	topographie 3365 3381	glande surrénale
+T38	morphologie 3396 3406	métastases
+T40	topographie 3407 3415	osseuses
+T41	topographie 3449 3465	corps vertébraux
+T42	topographie 3492 3504	arcs costaux
+T43	topographie 3510 3524	anneau pelvien
+T45	morphologie 3637 3647	métastases
+T46	morphologie 3669 3674	masse
+T48	topographie 3678 3701	tissu mou paravertébral
+T49	morphologie 3719 3727	invasion
+T51	topographie 3731 3746	canal rachidien
+T52	morphologie 3750 3758	atteinte
+T54	topographie 3765 3780	moelle épinière
+T55	morphologie 3795 3809	Adénocarcinome
+T57	topographie 3810 3820	pulmonaire
+T59	morphologie 3824 3832	stade IV
+T60	morphologie 3834 3844	métastases
+T62	topographie 3845 3855	cérébrales
+T63	topographie 3857 3865	osseuses
+T64	topographie 3867 3876	pleurales
+T65	topographie 3878 3892	ganglionnaires
+T66	topographie 3894 3904	hépatiques
+T67	topographie 3908 3922	surrénaliennes
+T68	morphologie 4381 4391	métastases
+T70	topographie 4411 4437	colonne vertébrale dorsale
+T72	morphologie 4772 4799	stabilisation de la maladie
+T73	morphologie 5240 5246	nodule
+T75	topographie 5247 5258	sous-cutané
+T76	topographie 5274 5281	dorsale
+T77	morphologie 5323 5348	progression adénopathique
+T79	topographie 5349 5361	médiastinale
+T80	topographie 5363 5372	axillaire
+T81	topographie 5376 5386	abdominale
+T82	morphologie 5401 5412	progression
+T84	topographie 5413 5423	pulmonaire
+T85	morphologie 5443 5453	métastases
+T87	topographie 5454 5462	cutanées
+T101	topographie 5478 5485	dorsale
+T88	morphologie 5821 5846	progression de la maladie
+T90	topographie 5847 5857	abdominale
+T91	topographie 5859 5868	hépatique
+T92	topographie 5870 5883	ganglionnaire
+T93	topographie 5885 5891	rénale
+T94	topographie 5893 5902	ovarienne
+T95	topographie 5906 5917	péritonéale
+T96	morphologie 6583 6608	progression de la maladie
+T98	topographie 6609 6620	péritonéale
+T99	topographie 6622 6632	annexielle
+T100	topographie 6636 6644	pleurale
+T32	topographie 3248 3266	région périportale

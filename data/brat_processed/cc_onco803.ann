@@ -1,0 +1,47 @@
+T46	topographie 3409 3441	péritoine de la poche de Douglas
+T1	morphologie 527 536	carcinome
+T3	topographie 537 545	mammaire
+T4	morphologie 607 616	carcinome
+T6	topographie 620 624	sein
+T8	morphologie 815 821	tumeur
+T9	morphologie 826 856	carcinome canalaire infiltrant
+T11	topographie 860 864	sein
+T12	differenciation 907 909	G3
+T14	morphologie 1075 1084	néoplasme
+T16	morphologie 1135 1143	implants
+T17	morphologie 1155 1168	carcinomatose
+T19	topographie 1169 1180	péritonéale
+T20	morphologie 1200 1205	masse
+T22	topographie 1206 1216	annexielle
+T23	morphologie 1237 1251	tumeur maligne
+T25	topographie 1280 1289	ovarienne
+T26	morphologie 1354 1363	carcinome
+T28	topographie 1364 1371	ovarien
+T30	morphologie 1941 1955	carcinosarcome
+T31	morphologie 1957 1989	tumeur müllérienne mixte maligne
+T33	topographie 1996 2002	ovaire
+T34	morphologie 2465 2477	adénopathies
+T36	topographie 2478 2494	latérocervicales
+T37	topographie 2498 2516	supraclaviculaires
+T39	morphologie 3250 3264	carcinosarcome
+T40	morphologie 3266 3298	tumeur müllérienne mixte maligne
+T42	topographie 3305 3311	ovaire
+T43	morphologie 3371 3388	implants tumoraux
+T45	topographie 3396 3404	épiploon
+T47	topographie 3446 3459	fosse iliaque
+T48	topographie 3473 3486	mésoappendice
+T49	morphologie 3536 3543	nodules
+T51	topographie 3544 3552	omentaux
+T52	morphologie 3665 3678	carcinomatose
+T54	topographie 3679 3690	péritonéale
+T55	morphologie 3901 3914	carcinomatose
+T57	topographie 3915 3926	péritonéale
+T58	morphologie 4375 4386	progression
+T60	topographie 4387 4398	péritonéale
+T62	morphologie 4446 4464	maladie systémique
+T63	morphologie 4648 4655	implant
+T65	topographie 4656 4666	péritonéal
+T66	morphologie 5276 5283	implant
+T68	topographie 5284 5294	péritonéal
+T70	morphologie 5395 5419	tumeur müllérienne mixte
+T72	morphologie 5426 5440	carcinosarcome

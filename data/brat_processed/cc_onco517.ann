@@ -1,0 +1,15 @@
+T1	morphologie 376 384	mélanome
+T24	morphologie 392 397	malin
+T3	topographie 385 391	cutané
+T4	topographie 435 443	omoplate
+T6	morphologie 456 462	lésion
+T7	morphologie 658 666	récidive
+T9	topographie 670 700	ganglion lymphatique axillaire
+T10	morphologie 1066 1082	lésions lytiques
+T14	morphologie 1152 1160	récidive
+T16	morphologie 1164 1178	mélanome malin
+T17	morphologie 1476 1485	atteintes
+T19	topographie 1486 1494	osseuses
+T21	morphologie 3453 3462	métastase
+T23	morphologie 3679 3693	tumeur maligne
+T12	topographie 1091 1106	squelette axial

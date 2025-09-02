@@ -1,0 +1,99 @@
+T1	expression_CIM 549 554	masse
+T2	morphologie 549 554	masse
+T3	expression_CIM 729 736	lésions
+T4	morphologie 729 736	lésions
+T5	topographie 872 876	foie
+T6	expression_CIM 872 906	foie présente de multiples lésions
+T7	morphologie 899 906	lésions
+T8	expression_CIM 1014 1024	métastases
+T9	morphologie 1014 1024	métastases
+T10	morphologie 1137 1146	extension
+T11	expression_CIM 1137 1159	extension à la graisse
+T12	topographie 1152 1159	graisse
+T13	morphologie 1174 1185	Adénopathie
+T14	expression_CIM 1174 1198	Adénopathie mésentérique
+T15	topographie 1186 1198	mésentérique
+T16	morphologie 1284 1290	lésion
+T17	expression_CIM 1284 1324	lésion sténosante dans l'angle splénique
+T18	topographie 1309 1324	angle splénique
+T19	expression_CIM 1354 1368	adénocarcinome
+T20	morphologie 1354 1368	adénocarcinome
+T21	morphologie 1393 1407	Adénocarcinome
+T22	expression_CIM 1393 1427	Adénocarcinome du côlon transverse
+T23	topographie 1411 1427	côlon transverse
+T24	morphologie 1456 1466	métastases
+T25	expression_CIM 1456 1477	métastases hépatiques
+T26	topographie 1467 1477	hépatiques
+T27	morphologie 1638 1640	M1
+T28	expression_CIM 1638 1650	M1 hépatique
+T29	topographie 1641 1650	hépatique
+T30	morphologie 1992 2006	adénocarcinome
+T31	expression_CIM 1992 2042	adénocarcinome de bas grade modérément différencié
+T32	differenciation 2010 2019	bas grade
+T33	differenciation 2020 2042	modérément différencié
+T34	morphologie 2048 2056	invasion
+T35	expression_CIM 2048 2088	invasion lymphovasculaire et périneurale
+T36	topographie 2057 2073	lymphovasculaire
+T37	topographie 2077 2088	périneurale
+T38	morphologie 2207 2221	adénocarcinome
+T39	expression_CIM 2207 2232	adénocarcinome intestinal
+T40	topographie 2222 2232	intestinal
+T41	morphologie 2524 2532	récidive
+T42	expression_CIM 2524 2559	récidive dans le segment IV du foie
+T43	topographie 2555 2559	foie
+T44	expression_CIM 2691 2701	métastases
+T45	morphologie 2691 2701	métastases
+T46	expression_CIM 2704 2718	adénocarcinome
+T47	morphologie 2704 2718	adénocarcinome
+T48	morphologie 2769 2778	métastase
+T49	expression_CIM 2769 2790	métastase colorectale
+T50	topographie 2779 2790	colorectale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C22.0
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	8000/6
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	C49.9 8000/6
+#11	ICD-O T12	C49.9
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.2 8000/1
+#14	ICD-O T15	C48.1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	C18.5 8000/1
+#17	ICD-O T18	C18.5
+#18	ICD-O T19	8140/3
+#19	ICD-O T20	8140/3
+#20	ICD-O T21	8140/3
+#21	ICD-O T22	C18.4 8140/3
+#22	ICD-O T23	C18.4
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	C22.0 8000/6
+#25	ICD-O T26	C22.0
+#26	ICD-O T27	8000/6
+#27	ICD-O T28	C22.0 8000/6
+#28	ICD-O T29	C22.0
+#29	ICD-O T30	8140/3
+#30	ICD-O T31	8140/31
+#31	ICD-O T32	1
+#32	ICD-O T33	2
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	C47.9 8000/1;C49.9 8000/1
+#35	ICD-O T36	C49.9
+#36	ICD-O T37	C47.9
+#37	ICD-O T38	8140/3
+#38	ICD-O T39	C26.0 8140/3
+#39	ICD-O T40	C26.0
+#40	ICD-O T41	8000/6
+#41	ICD-O T42	C22.0 8000/6
+#42	ICD-O T43	C22.0
+#43	ICD-O T44	8000/6
+#44	ICD-O T45	8000/6
+#45	ICD-O T46	8140/3
+#46	ICD-O T47	8140/3
+#47	ICD-O T48	8000/6
+#48	ICD-O T49	C19.9 8000/6
+#49	ICD-O T50	C19.9

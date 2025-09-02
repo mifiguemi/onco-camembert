@@ -1,0 +1,44 @@
+T3	topographie 449 491	de l'hypogastre à la région sus-ombilicale
+T1	morphologie 428 434	tumeur
+T4	morphologie 654 659	masse
+T6	topographie 660 670	abdominale
+T8	morphologie 707 730	foyers de calcification
+T10	morphologie 774 782	tératome
+T12	morphologie 787 793	lésion
+T13	morphologie 1035 1046	Adénopathie
+T15	topographie 1064 1085	graisse paracardiaque
+T16	topographie 1113 1134	graisse paracardiaque
+T18	morphologie 1184 1190	tumeur
+T20	morphologie 1616 1633	Tératome immature
+T22	morphologie 1637 1645	stade IV
+T23	morphologie 1745 1753	implants
+T25	topographie 1754 1765	péritonéaux
+T26	morphologie 1845 1853	tératome
+T68	morphologie 1862 1870	immature
+T28	topographie 1854 1861	ovarien
+T29	differenciation 1874 1881	grade 3
+T30	morphologie 1891 1899	implants
+T32	topographie 1907 1915	épiploon
+T33	morphologie 2034 2042	implants
+T35	topographie 2043 2058	péri-hépatiques
+T36	topographie 2060 2071	péritonéaux
+T37	topographie 2078 2092	sac de Douglas
+T38	morphologie 2107 2123	lymphadénopathie
+T40	topographie 2133 2155	sinus cardiophréniques
+T42	morphologie 2657 2665	implants
+T44	morphologie 2673 2685	adénopathies
+T45	morphologie 3081 3091	métastases
+T47	topographie 3092 3106	périhépatiques
+T48	morphologie 3256 3271	implant tumoral
+T51	morphologie 3554 3566	implantation
+T54	morphologie 3723 3735	adénopathies
+T56	topographie 3736 3752	cardiophréniques
+T57	topographie 3756 3772	diaphragmatiques
+T58	topographie 3815 3828	tissu adipeux
+T60	morphologie 3829 3838	métastasé
+T63	morphologie 3886 3905	tératomes immatures
+T65	differenciation 3909 3916	grade 0
+T67	morphologie 4293 4301	récidive
+T50	topographie 3280 3296	poche de Douglas
+T53	topographie 3575 3591	poche de Douglas
+T62	morphologie 3846 3883	tissu tératomateux entièrement mature

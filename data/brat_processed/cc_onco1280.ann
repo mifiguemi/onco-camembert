@@ -1,0 +1,42 @@
+T1	morphologie 67 97	carcinome canalaire infiltrant
+T3	topographie 101 105	sein
+T5	morphologie 274 282	récidive
+T7	morphologie 631 640	carcinome
+T9	morphologie 1209 1218	carcinome
+T10	morphologie 1238 1246	invasion
+T12	topographie 1247 1257	vasculaire
+T13	topographie 1258 1269	lymphatique
+T15	morphologie 1326 1335	métastase
+T16	morphologie 1339 1348	carcinome
+T18	topographie 1349 1357	mammaire
+T19	morphologie 1551 1576	rehaussement pathologique
+T22	morphologie 1639 1670	foyer d'absorption pathologique
+T24	topographie 1696 1701	seins
+T25	topographie 1730 1785	ganglions lymphatiques axillaires et mammaires internes
+T26	morphologie 1825 1835	métastases
+T28	topographie 1849 1854	crâne
+T29	topographie 1863 1878	voûte crânienne
+T30	morphologie 1884 1896	infiltration
+T32	topographie 1903 1912	dure-mère
+T33	morphologie 1937 1945	atteinte
+T35	topographie 1951 1957	orbite
+T37	morphologie 2007 2032	dissémination néoplasique
+T38	morphologie 2046 2056	métastases
+T40	topographie 2057 2068	pulmonaires
+T41	topographie 2070 2079	pleurales
+T42	topographie 2081 2095	ganglionnaires
+T43	topographie 2097 2105	osseuses
+T44	topographie 2109 2134	musculaires pré-sternales
+T45	morphologie 2162 2172	métastases
+T47	topographie 2173 2181	osseuses
+T49	morphologie 2282 2289	Rechute
+T50	morphologie 2303 2312	carcinome
+T52	topographie 2313 2321	mammaire
+T54	morphologie 2335 2348	dissémination
+T55	morphologie 2707 2715	atteinte
+T57	topographie 2716 2724	méningée
+T58	morphologie 2854 2861	lésions
+T60	topographie 2862 2869	durales
+T61	topographie 2873 2881	osseuses
+T63	morphologie 2905 2910	masse
+T21	topographie 1593 1616	musculature présternale

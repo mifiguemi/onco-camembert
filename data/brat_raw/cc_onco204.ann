@@ -1,0 +1,140 @@
+T61	topographie 4889 4959	ganglions lymphatiques intrapéritonéaux et rétropéritonéaux, inguinaux
+T1	morphologie 329 335	lésion
+T2	expression_CIM 329 355	lésion cutanée dans le dos
+T3	topographie 336 343	cutanée
+T4	topographie 352 355	dos
+T5	expression_CIM 387 401	mélanome malin
+T6	morphologie 387 401	mélanome malin
+T7	morphologie 572 578	tumeur
+T8	expression_CIM 572 588	tumeur axillaire
+T9	topographie 579 588	axillaire
+T10	topographie 604 612	ganglion
+T11	expression_CIM 604 631	ganglion sentinelle positif
+T13	expression_CIM 1020 1044	infiltration néoplasique
+T14	morphologie 1020 1044	infiltration néoplasique
+T15	morphologie 1072 1084	micronodules
+T16	expression_CIM 1072 1096	micronodules pulmonaires
+T17	topographie 1085 1096	pulmonaires
+T18	expression_CIM 1227 1241	mélanome malin
+T19	morphologie 1227 1241	mélanome malin
+T20	expression_CIM 1715 1736	rechute locorégionale
+T21	morphologie 1715 1736	rechute locorégionale
+T22	morphologie 1738 1749	adénopathie
+T23	expression_CIM 1738 1759	adénopathie axillaire
+T24	topographie 1750 1759	axillaire
+T25	expression_CIM 1800 1818	rechute à distance
+T26	morphologie 1800 1818	rechute à distance
+T27	morphologie 1820 1829	métastase
+T28	expression_CIM 1820 1839	métastase hépatique
+T29	topographie 1830 1839	hépatique
+T30	morphologie 1861 1868	nodules
+T31	expression_CIM 1861 1880	nodules pulmonaires
+T32	topographie 1869 1880	pulmonaires
+T33	morphologie 1903 1910	implant
+T34	expression_CIM 1903 1921	implant péritonéal
+T35	topographie 1911 1921	péritonéal
+T36	morphologie 2696 2703	lésions
+T37	expression_CIM 2696 2794	lésions cutanées verruqueuses sur le cou, la partie supérieure du thorax et les membres inférieurs
+T38	topographie 2704 2712	cutanées
+T39	topographie 2733 2736	cou
+T40	topographie 2762 2768	thorax
+T41	topographie 2776 2794	membres inférieurs
+T42	expression_CIM 2862 2901	progression locorégionale et à distance
+T44	morphologie 2903 2928	conglomérat adénopathique
+T45	expression_CIM 2903 2938	conglomérat adénopathique axillaire
+T46	topographie 2929 2938	axillaire
+T47	morphologie 2947 2957	métastases
+T48	expression_CIM 2947 2983	métastases hépatiques et pulmonaires
+T49	topographie 2958 2968	hépatiques
+T50	topographie 2972 2983	pulmonaires
+T51	expression_CIM 3400 3425	progression locorégionale
+T52	morphologie 3400 3425	progression locorégionale
+T53	morphologie 3919 3926	nodules
+T54	expression_CIM 3919 4004	nodules sous-cutanés mous, dépressibles, globuleux, palpables sur la paroi abdominale
+T55	topographie 3927 3939	sous-cutanés
+T56	topographie 3988 4004	paroi abdominale
+T57	expression_CIM 4843 4854	progression
+T58	morphologie 4843 4854	progression
+T59	morphologie 4869 4887	maladie à distance
+T60	expression_CIM 4869 4959	maladie à distance (ganglions lymphatiques intrapéritonéaux et rétropéritonéaux, inguinaux
+T62	morphologie 4969 4977	implants
+T63	expression_CIM 4969 4989	implants péritonéaux
+T64	topographie 4978 4989	péritonéaux
+T65	morphologie 5001 5011	métastases
+T66	expression_CIM 5001 5052	métastases pancréatiques, dans le tissu sous-cutané
+T67	topographie 5012 5025	pancréatiques
+T68	topographie 5035 5052	tissu sous-cutané
+T69	morphologie 5071 5081	métastases
+T70	expression_CIM 5071 5092	métastases hépatiques
+T71	topographie 5082 5092	hépatiques
+T72	morphologie 5972 5997	progression de la maladie
+T73	expression_CIM 5972 6007	progression de la maladie hépatique
+T74	topographie 5998 6007	hépatique
+T12	morphologie 624 631	positif
+T43	morphologie 2862 2901	progression locorégionale et à distance
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1;C76.7 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C76.7
+#5	ICD-O T5	8720/3
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C76.1
+#9	ICD-O T10	C77.9
+#10	ICD-O T13	8000/1
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	C34.9 8000/1
+#14	ICD-O T17	C34.9
+#15	ICD-O T18	8720/3
+#16	ICD-O T19	8720/3
+#17	ICD-O T21	8000/3
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	C77.3 8000/1
+#20	ICD-O T24	C76.1
+#21	ICD-O T25	8000/6
+#22	ICD-O T26	8000/6
+#23	ICD-O T27	8000/6
+#24	ICD-O T28	C22.0 8000/6
+#25	ICD-O T29	C22.0
+#26	ICD-O T30	8000/1
+#27	ICD-O T31	C34.9 8000/1
+#28	ICD-O T32	C34.9
+#29	ICD-O T33	8000/6
+#30	ICD-O T34	C48.2 8000/6
+#31	ICD-O T35	C48.2
+#32	ICD-O T36	8000/1
+#33	ICD-O T37	C44.9 8000/1;C76.0 8000/1;C76.1 8000/1;C76.5 8000/1
+#34	ICD-O T38	C44.9
+#35	ICD-O T39	C76.0
+#36	ICD-O T40	C76.1
+#37	ICD-O T41	C76.5
+#38	ICD-O T42	8000/6
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	C77.3 8000/1
+#41	ICD-O T46	C76.1
+#42	ICD-O T47	8000/6
+#43	ICD-O T48	C22.0 8000/6;C34.9 8000/6
+#44	ICD-O T49	C22.0
+#45	ICD-O T50	C34.9
+#46	ICD-O T52	8000/3
+#47	ICD-O T53	8000/1
+#48	ICD-O T55	C49.9
+#49	ICD-O T56	C76.2
+#50	ICD-O T58	8000/9
+#51	ICD-O T59	8000/6
+#52	ICD-O T60	C48.0 8000/6;C76.3 8000/6;C77.2 8000/6
+#53	ICD-O T62	8000/6
+#54	ICD-O T63	C48.2 8000/6
+#55	ICD-O T64	C48.2
+#56	ICD-O T65	8000/6
+#57	ICD-O T66	C25.9 8000/6;C49.9 8000/6
+#58	ICD-O T67	C25.9
+#59	ICD-O T68	C49.9
+#60	ICD-O T69	8000/6
+#61	ICD-O T70	C22.0 8000/6
+#62	ICD-O T71	C22.0
+#63	ICD-O T72	8000/9
+#64	ICD-O T74	C22.0
+#65	ICD-O T12	8000/9
+#66	ICD-O T43	8000/9

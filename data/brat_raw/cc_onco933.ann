@@ -1,0 +1,54 @@
+T1	expression_CIM 2309 2314	masse
+T2	morphologie 2309 2314	masse
+T3	morphologie 3032 3037	masse
+T4	expression_CIM 3032 3047	masse pelvienne
+T5	topographie 3038 3047	pelvienne
+T6	expression_CIM 3309 3314	masse
+T7	morphologie 3309 3314	masse
+T8	morphologie 3696 3715	lésion néoformative
+T9	expression_CIM 3696 3728	lésion néoformative endométriale
+T10	topographie 3716 3728	endométriale
+T11	morphologie 4224 4233	néoplasme
+T12	expression_CIM 4224 4288	néoplasme endométrial de 35 mm siégeant dans le fond de l'utérus
+T13	topographie 4234 4245	endométrial
+T14	topographie 4272 4288	fond de l'utérus
+T15	expression_CIM 4353 4359	tumeur
+T16	morphologie 4353 4359	tumeur
+T17	expression_CIM 4730 4768	lésion intra-épithéliale de type CIN-3
+T18	morphologie 4730 4768	lésion intra-épithéliale de type CIN-3
+T19	morphologie 4916 4925	carcinome
+T20	expression_CIM 4916 4944	carcinome du col de l'utérus
+T21	topographie 4929 4944	col de l'utérus
+T22	morphologie 5498 5507	carcinome
+T23	expression_CIM 5498 5516	carcinome cervical
+T24	topographie 5508 5516	cervical
+T25	expression_CIM 6436 6452	réponse tumorale
+T26	morphologie 6436 6452	réponse tumorale
+T27	expression_CIM 6513 6519	tumeur
+T28	morphologie 6513 6519	tumeur
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C76.3 8000/1
+#5	ICD-O T5	C76.3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/3
+#9	ICD-O T10	C54.1
+#10	ICD-O T11	8000/3
+#11	ICD-O T13	C54.1
+#12	ICD-O T14	C54.3 
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/3
+#15	ICD-O T17	8077/2
+#16	ICD-O T18	8077/2
+#17	ICD-O T19	8010/3
+#18	ICD-O T20	C53.9 8010/3
+#19	ICD-O T21	C53.9
+#20	ICD-O T22	8010/3
+#21	ICD-O T23	C76.0 8010/3
+#22	ICD-O T24	C76.0
+#23	ICD-O T25	8000/3
+#24	ICD-O T26	8000/9
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/3

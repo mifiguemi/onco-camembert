@@ -1,0 +1,29 @@
+T2	morphologie 444 456	néoformation
+T4	morphologie 517 531	adénocarcinome
+T5	morphologie 613 623	métastases
+T7	topographie 624 634	hépatiques
+T9	morphologie 805 813	primitif
+T10	morphologie 891 901	métastases
+T12	topographie 902 912	hépatiques
+T13	morphologie 1028 1038	métastases
+T15	topographie 1039 1049	hépatiques
+T16	morphologie 1258 1272	adénocarcinome
+T18	topographie 1276 1281	côlon
+T19	morphologie 1298 1308	métastases
+T21	topographie 1323 1345	ganglions lymphatiques
+T22	morphologie 1619 1629	métastases
+T24	topographie 1630 1640	hépatiques
+T25	morphologie 1800 1811	progression
+T27	topographie 1812 1821	hépatique
+T28	morphologie 2020 2027	lésions
+T30	topographie 2028 2038	hépatiques
+T32	morphologie 3509 3526	cellules malignes
+T34	morphologie 3741 3749	lymphome
+T35	morphologie 4370 4384	adénocarcinome
+T37	topographie 4388 4393	côlon
+T38	morphologie 4404 4406	M1
+T40	topographie 4408 4417	hépatique
+T42	morphologie 4870 4889	maladie oncologique
+T43	morphologie 4986 4993	rechute
+T45	topographie 4994 5003	hépatique
+T46	topographie 5007 5020	ganglionnaire

@@ -1,0 +1,80 @@
+T1	morphologie 107 113	cancer
+T2	expression_CIM 107 121	cancer du sein
+T3	topographie 117 121	sein
+T4	morphologie 231 240;250 260	carcinome infiltrant
+T5	expression_CIM 231 271	carcinome mammaire infiltrant de grade 2
+T6	topographie 241 249	mammaire
+T7	differenciation 264 271	grade 2
+T8	expression_CIM 993 1054	maladie osseuse métastatique multiple au niveau des vertèbres
+T9	topographie 1001 1008	osseuse
+T10	morphologie 1009 1021;993 1000	métastatique maladie
+T11	topographie 1045 1054	vertèbres
+T12	expression_CIM 1098 1118	maladie métastatique
+T13	morphologie 1098 1118	maladie métastatique
+T14	morphologie 1432 1444	infiltration
+T15	expression_CIM 1432 1465	infiltration de la moelle osseuse
+T16	topographie 1451 1465	moelle osseuse
+T17	expression_CIM 1475 1484	carcinome
+T18	morphologie 1475 1484	carcinome
+T19	expression_CIM 2002 2009	lésions
+T20	morphologie 2002 2009	lésions
+T21	morphologie 2672 2681	Carcinome
+T22	expression_CIM 2672 2690	Carcinome mammaire
+T23	topographie 2682 2690	mammaire
+T24	expression_CIM 2713 2721	stade IV
+T25	morphologie 2713 2721	stade IV
+T26	morphologie 2738 2746	atteinte
+T27	expression_CIM 2738 2754	atteinte osseuse
+T28	topographie 2747 2754	osseuse
+T29	morphologie 2764 2776	infiltration
+T30	expression_CIM 2764 2797	infiltration de la moelle osseuse
+T31	topographie 2783 2797	moelle osseuse
+T32	morphologie 4354 4364	métastases
+T33	expression_CIM 4354 4375	métastases hépatiques
+T34	topographie 4365 4375	hépatiques
+T35	morphologie 4669 4681	infiltration
+T36	expression_CIM 4669 4691	infiltration hépatique
+T37	topographie 4682 4691	hépatique
+T38	morphologie 4757 4769	infiltration
+T39	expression_CIM 4757 4790	infiltration de la moelle osseuse
+T40	topographie 4776 4790	moelle osseuse
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C50.9 8010/32
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	2
+#8	ICD-O T8	C41.2 8000/6;C41.9 8000/6
+#9	ICD-O T9	C41.9
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	C41.2
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C42.1 8000/1
+#16	ICD-O T16	C42.1
+#17	ICD-O T17	8010/3
+#18	ICD-O T18	8010/3
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8010/3
+#22	ICD-O T22	C50.9 8010/3
+#23	ICD-O T23	C50.9
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C41.9 8000/1
+#28	ICD-O T28	C41.9
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C42.1 8000/1
+#31	ICD-O T31	C42.1
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	C22.0 8000/6
+#34	ICD-O T34	C22.0
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	C22.0 8000/1
+#37	ICD-O T37	C22.0
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	C42.1 8000/1
+#40	ICD-O T40	C42.1

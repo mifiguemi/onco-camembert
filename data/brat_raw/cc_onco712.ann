@@ -1,0 +1,131 @@
+T48	topographie 3113 3127;3136 3139	lobe hépatique LHI
+T1	morphologie 138 159	carcinome épidermoïde
+T2	expression_CIM 138 176	carcinome épidermoïde bien différencié
+T3	differenciation 160 176	bien différencié
+T4	expression_CIM 178 184	nodule
+T5	morphologie 178 184	nodule
+T6	expression_CIM 203 229	tumeur carcinoïde atypique
+T7	morphologie 203 229	tumeur carcinoïde atypique
+T8	expression_CIM 254 266	infiltration
+T9	morphologie 254 266	infiltration
+T10	morphologie 270 296	tumeur carcinoïde atypique
+T11	expression_CIM 270 351	tumeur carcinoïde atypique a été observée dans l'un des 19 ganglions lymphatiques
+T12	topographie 329 351	ganglions lymphatiques
+T13	morphologie 1063 1096	lésions évocatrices de métastases
+T14	expression_CIM 1063 1107	lésions évocatrices de métastases hépatiques
+T15	topographie 1097 1107	hépatiques
+T16	morphologie 1534 1555	Carcinome épidermoïde
+T17	expression_CIM 1534 1598	Carcinome épidermoïde dans le segment apical LII (lobe inférieur
+T18	topographie 1579 1582	LII
+T19	topographie 1584 1598	lobe inférieur
+T20	morphologie 1611 1628	tumeur carcinoïde
+T21	expression_CIM 1611 1684	tumeur carcinoïde partiellement calcifiée dans le segment antérobasal LII
+T22	topographie 1681 1684	LII
+T23	morphologie 1746 1753	lésions
+T24	expression_CIM 1746 1802	lésions solides réparties dans les deux lobes hépatiques
+T25	topographie 1786 1802	lobes hépatiques
+T26	morphologie 1881 1891	métastases
+T27	expression_CIM 1881 1902	métastases hépatiques
+T28	topographie 1892 1902	hépatiques
+T29	morphologie 1961 1968	lésions
+T30	expression_CIM 1961 1980	lésions pulmonaires
+T31	topographie 1969 1980	pulmonaires
+T32	morphologie 2056 2068	infiltration
+T33	expression_CIM 2056 2113	infiltration hépatique prédominant dans le lobe hépatique
+T34	topographie 2069 2078	hépatique
+T35	topographie 2099 2113	lobe hépatique
+T36	morphologie 2196 2206	métastases
+T37	expression_CIM 2196 2217	métastases hépatiques
+T38	topographie 2207 2217	hépatiques
+T39	expression_CIM 2228 2231	NER
+T40	morphologie 2228 2231	NER
+T41	expression_CIM 2730 2737	lésions
+T42	morphologie 2730 2737	lésions
+T43	expression_CIM 3035 3060	progression de la maladie
+T44	morphologie 3035 3060	progression de la maladie
+T45	morphologie 3070 3080	métastases
+T46	expression_CIM 3070 3139	métastases hépatiques étendues touchant le lobe hépatique gauche (LHI
+T47	topographie 3081 3091	hépatiques
+T49	expression_CIM 3270 3276	lésion
+T50	morphologie 3270 3276	lésion
+T51	morphologie 3312 3322	métastases
+T52	expression_CIM 3312 3358	métastases ont persisté inchangées dans le LHI
+T53	topographie 3355 3358	LHI
+T54	morphologie 3376 3386	métastases
+T55	expression_CIM 3376 3397	métastases hépatiques
+T56	topographie 3387 3397	hépatiques
+T57	morphologie 3409 3441	tumeur neuroendocrine carcinoïde
+T58	expression_CIM 3409 3452	tumeur neuroendocrine carcinoïde pulmonaire
+T59	topographie 3442 3452	pulmonaire
+T60	expression_CIM 3551 3558	lésions
+T61	morphologie 3551 3558	lésions
+T62	expression_CIM 8344 8369	progression de la maladie
+T63	morphologie 8344 8369	progression de la maladie
+T64	morphologie 8388 8398	métastases
+T65	expression_CIM 8388 8409	métastases hépatiques
+T66	topographie 8399 8409	hépatiques
+T67	expression_CIM 9162 9185	stabilité de la maladie
+T68	morphologie 9162 9185	stabilité de la maladie
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	8070/31
+#3	ICD-O T3	1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8249/3
+#7	ICD-O T7	8249/3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8249/3
+#11	ICD-O T12	C77.9
+#12	ICD-O T13	8000/6
+#13	ICD-O T15	C22.0
+#14	ICD-O T16	8070/3
+#15	ICD-O T17	C34.3 8070/3
+#16	ICD-O T18	C34.3
+#17	ICD-O T19	C34.3
+#18	ICD-O T20	8240/3
+#19	ICD-O T21	C34.3 8240/3
+#20	ICD-O T22	C34.3
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	C22.0 8000/1
+#23	ICD-O T25	C22.0
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	C22.0 8000/6
+#26	ICD-O T28	C22.0
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C34.9 8000/1
+#29	ICD-O T31	C34.9
+#30	ICD-O T32	8000/1
+#31	ICD-O T34	C22.0
+#32	ICD-O T35	C22.0
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	C22.0 8000/6
+#35	ICD-O T38	C22.0
+#36	ICD-O T39	8246/3
+#37	ICD-O T40	8246/3
+#38	ICD-O T41	8000/1
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	8000/1
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	8000/6
+#43	ICD-O T47	C22.0
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	8000/1
+#46	ICD-O T51	8000/6
+#47	ICD-O T52	C22.0 8000/6
+#48	ICD-O T53	C22.0
+#49	ICD-O T54	8000/6
+#50	ICD-O T55	C22.0 8000/6
+#51	ICD-O T56	C22.0
+#52	ICD-O T57	8246/3
+#53	ICD-O T58	C34.9 8246/3
+#54	ICD-O T59	C34.9
+#55	ICD-O T60	8000/1
+#56	ICD-O T61	8000/1
+#57	ICD-O T62	8000/1
+#58	ICD-O T63	8000/1
+#59	ICD-O T64	8000/6
+#60	ICD-O T65	C22.0 8000/6
+#61	ICD-O T66	C22.0
+#62	ICD-O T67	8000/6
+#63	ICD-O T68	8000/6

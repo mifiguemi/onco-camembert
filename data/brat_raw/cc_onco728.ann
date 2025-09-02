@@ -1,0 +1,6 @@
+T1	morphologie 2333 2353	carcinome urothélial
+T2	expression_CIM 2333 2366	carcinome urothélial de la vessie
+T3	topographie 2360 2366	vessie
+#1	ICD-O T1	8120/3
+#2	ICD-O T2	C67.9 8120/3
+#3	ICD-O T3	C67.9

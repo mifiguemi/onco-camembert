@@ -1,0 +1,115 @@
+T31	topographie 1742 1747	antre
+T24	topographie 1597 1649	région alvéolaire du deuxième quadrant du maxillaire
+T1	morphologie 236 242	cancer
+T2	expression_CIM 236 250	cancer du sein
+T3	topographie 246 250	sein
+T4	morphologie 431 437	lésion
+T5	expression_CIM 431 458	lésion de la cavité buccale
+T6	topographie 444 458	cavité buccale
+T7	expression_CIM 857 863	lésion
+T8	morphologie 857 863	lésion
+T9	morphologie 1025 1032	lésions
+T10	expression_CIM 1025 1041	lésions buccales
+T11	topographie 1033 1041	buccales
+T12	morphologie 1279 1285	lésion
+T13	expression_CIM 1279 1293	lésion buccale
+T14	topographie 1286 1293	buccale
+T15	expression_CIM 1303 1317	adénocarcinome
+T16	morphologie 1303 1317	adénocarcinome
+T17	expression_CIM 1353 1363	métastases
+T18	morphologie 1353 1363	métastases
+T19	morphologie 1366 1373	origine
+T20	expression_CIM 1366 1392	origine gastro-intestinale
+T21	topographie 1374 1392	gastro-intestinale
+T22	morphologie 1577 1588	dépôt focal
+T23	expression_CIM 1577 1649	dépôt focal dans la région alvéolaire du deuxième quadrant du maxillaire
+T25	morphologie 1662 1671	extension
+T26	expression_CIM 1662 1681	extension gingivale
+T27	topographie 1672 1681	gingivale
+T28	morphologie 1687 1696	captation
+T29	expression_CIM 1687 1747	captation intense au niveau du corps gastrique et de l'antre
+T30	topographie 1718 1733	corps gastrique
+T32	morphologie 1800 1807	nodules
+T33	expression_CIM 1800 1866	nodules de 20 mm également hyperintenses au niveau de la surrénale
+T34	topographie 1857 1866	surrénale
+T35	morphologie 1995 2009;2027 2064	adénocarcinome avec des cellules en anneau de signet
+T36	expression_CIM 1995 2064	adénocarcinome gastrique diffus avec des cellules en anneau de signet
+T37	topographie 2010 2019	gastrique
+T38	expression_CIM 2170 2191	lésions métastatiques
+T39	morphologie 2170 2191	lésions métastatiques
+T40	morphologie 2397 2411;2441 2474	Adénocarcinome avec cellules en anneau de signet
+T41	expression_CIM 2397 2474	Adénocarcinome gastrique diffus de stade IV avec cellules en anneau de signet
+T42	topographie 2412 2421	gastrique
+T43	expression_CIM 2432 2440	stade IV
+T44	morphologie 2432 2440	stade IV
+T45	morphologie 2476 2486	métastases
+T46	expression_CIM 2476 2533	métastases dans la cavité buccale et présumées surrénales
+T47	topographie 2495 2509	cavité buccale
+T48	topographie 2523 2533	surrénales
+T49	morphologie 3030 3036	tumeur
+T50	expression_CIM 3030 3069	tumeur était stable au niveau gastrique
+T51	topographie 3060 3069	gastrique
+T52	morphologie 3117 3124	lésions
+T53	expression_CIM 3117 3192	lésions dans la cavité buccale (de 3 à 2 cm) et dans les glandes surrénales
+T54	topographie 3133 3147	cavité buccale
+T55	topographie 3174 3192	glandes surrénales
+T56	morphologie 3658 3664	lésion
+T57	expression_CIM 3658 3685	lésion de la cavité buccale
+T58	topographie 3671 3685	cavité buccale
+T59	morphologie 4045 4050	masse
+T60	expression_CIM 4045 4060	masse gastrique
+T61	topographie 4051 4060	gastrique
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C06.9 8000/1
+#6	ICD-O T6	C06.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C06.9 8000/1
+#11	ICD-O T11	C06.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C06.9 8000/1
+#14	ICD-O T14	C06.9
+#15	ICD-O T16	8140/3
+#16	ICD-O T17	8000/6
+#17	ICD-O T18	8000/6
+#18	ICD-O T19	8000/3
+#19	ICD-O T21	C26.9
+#20	ICD-O T22	8000/1
+#21	ICD-O T25	8000/6
+#22	ICD-O T26	C03.9 8000/6
+#23	ICD-O T27	C03.9
+#24	ICD-O T28	8000/1
+#25	ICD-O T30	C16.2 
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	C74.9 8000/1
+#28	ICD-O T34	C74.9
+#29	ICD-O T35	8490/3
+#30	ICD-O T37	C16.9
+#31	ICD-O T38	8000/6
+#32	ICD-O T39	8000/6
+#33	ICD-O T40	8490/3
+#34	ICD-O T42	C16.9
+#35	ICD-O T43	8000/6
+#36	ICD-O T44	8000/6
+#37	ICD-O T45	8000/6
+#38	ICD-O T46	C06.9 8000/6;C74.9 8000/6
+#39	ICD-O T47	C06.9
+#40	ICD-O T48	C74.9
+#41	ICD-O T49	8000/3
+#42	ICD-O T51	C16.9
+#43	ICD-O T52	8000/1
+#44	ICD-O T53	C06.9 8000/1;C74.9 8000/1
+#45	ICD-O T54	C06.9
+#46	ICD-O T55	C74.9
+#47	ICD-O T56	8000/1
+#48	ICD-O T57	C06.9 8000/1
+#49	ICD-O T58	C06.9
+#50	ICD-O T59	8000/1
+#51	ICD-O T60	C16.9 8000/1
+#52	ICD-O T61	C16.9
+#53	AnnotatorNotes T35	trad
+#54	AnnotatorNotes T40	trad

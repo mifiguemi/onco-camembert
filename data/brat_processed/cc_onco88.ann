@@ -1,0 +1,36 @@
+T1	morphologie 150 156	cancer
+T3	topographie 160 168	pancréas
+T4	topographie 173 188	voies biliaires
+T5	morphologie 222 228	cancer
+T7	topographie 235 243	prostate
+T9	morphologie 438 445	lésions
+T11	morphologie 929 934	masse
+T12	morphologie 1031 1043	infiltration
+T14	topographie 1050 1067	graisse périnéale
+T16	morphologie 1083 1089	tumeur
+T17	morphologie 1105 1117	adénopathies
+T19	topographie 1118 1126	hilaires
+T20	topographie 1130 1147	rétropéritonéales
+T21	morphologie 1412 1421	carcinome
+T57	morphologie 1428 1473	papillaire à cellules claires et éosinophiles
+T23	topographie 1422 1427	rénal
+T24	morphologie 1558 1568	métastases
+T26	topographie 1583 1605	ganglions lymphatiques
+T27	morphologie 1738 1747	carcinome
+T29	topographie 1748 1753	rénal
+T30	morphologie 2032 2041	carcinome
+T32	topographie 2042 2047	rénal
+T34	morphologie 2261 2281	maladie métastatique
+T36	morphologie 2717 2734	récidive tumorale
+T37	morphologie 2744 2750	lésion
+T39	topographie 2781 2785	rein
+T41	morphologie 2889 2897	récidive
+T43	topographie 2948 2983	ganglions lymphatiques médiastinaux
+T45	morphologie 3325 3350	progression de sa maladie
+T46	morphologie 3403 3415	adénopathies
+T48	topographie 3416 3433	rétropéritonéales
+T49	morphologie 3461 3468	nodules
+T51	topographie 3469 3480	pulmonaires
+T52	morphologie 3744 3751	nodules
+T54	topographie 3752 3763	pulmonaires
+T56	morphologie 3792 3799	lésions

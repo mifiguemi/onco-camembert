@@ -1,0 +1,119 @@
+T1	morphologie 1120 1127	lésions
+T2	expression_CIM 1120 1148	lésions focales dans le lobe
+T3	topographie 1144 1148	lobe
+T4	expression_CIM 1212 1222	métastases
+T5	morphologie 1212 1222	métastases
+T6	expression_CIM 1405 1411	tumeur
+T7	morphologie 1405 1411	tumeur
+T8	morphologie 1669 1676	lésions
+T9	expression_CIM 1669 1687	lésions hépatiques
+T10	topographie 1677 1687	hépatiques
+T11	expression_CIM 1799 1806	nodules
+T12	morphologie 1799 1806	nodules
+T13	morphologie 1972 1985	dissémination
+T14	expression_CIM 1972 2000	dissémination endobronchique
+T15	topographie 1986 2000	endobronchique
+T16	expression_CIM 2405 2414	métastase
+T17	morphologie 2405 2414	métastase
+T18	morphologie 2420 2429;2444 2462	carcinome à petites cellules
+T19	expression_CIM 2420 2472	carcinome indifférencié à petites cellules du poumon
+T20	differenciation 2430 2443	indifférencié
+T21	topographie 2466 2472	poumon
+T22	expression_CIM 2474 2502	carcinome à petites cellules
+T23	morphologie 2474 2502	carcinome à petites cellules
+T24	expression_CIM 2670 2691	cellules néoplasiques
+T25	morphologie 2670 2691	cellules néoplasiques
+T26	expression_CIM 2752 2771	formation nodulaire
+T27	morphologie 2752 2771	formation nodulaire
+T28	expression_CIM 2923 2932	métastase
+T29	morphologie 2923 2932	métastase
+T30	morphologie 2938 2966	carcinome à petites cellules
+T31	expression_CIM 2938 2990	carcinome à petites cellules indifférencié du poumon
+T32	differenciation 2967 2980	indifférencié
+T33	topographie 2984 2990	poumon
+T34	expression_CIM 3165 3184	maladie néoplasique
+T35	morphologie 3165 3184	maladie néoplasique
+T36	expression_CIM 3296 3312	maladie tumorale
+T37	morphologie 3296 3312	maladie tumorale
+T38	morphologie 3413 3419;3430 3448	cancer à petites cellules
+T39	expression_CIM 3413 3448	cancer du poumon à petites cellules
+T40	topographie 3423 3429	poumon
+T41	morphologie 3462 3471;3497 3515	Carcinome à petites cellules
+T42	expression_CIM 3462 3515	Carcinome pulmonaire indifférencié à petites cellules
+T43	topographie 3472 3482	pulmonaire
+T44	differenciation 3483 3496	indifférencié
+T45	expression_CIM 3517 3539	carcinome microcytaire
+T46	morphologie 3517 3539	carcinome microcytaire
+T47	expression_CIM 3544 3552	stade IV
+T48	morphologie 3544 3552	stade IV
+T49	morphologie 3554 3564	métastases
+T50	expression_CIM 3554 3575	métastases hépatiques
+T51	topographie 3565 3575	hépatiques
+T52	expression_CIM 3853 3876	stabilité de la maladie
+T53	morphologie 3853 3876	stabilité de la maladie
+T54	morphologie 3908 3918	métastases
+T55	expression_CIM 3908 3929	métastases hépatiques
+T56	topographie 3919 3929	hépatiques
+T57	expression_CIM 4302 4309	lésions
+T58	morphologie 4302 4309	lésions
+T59	morphologie 4343 4350	lésions
+T60	expression_CIM 4343 4378	lésions dans les segments VII et VI
+T61	topographie 4360 4378	segments VII et VI
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C22.0 8000/1
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C22.0 8000/1
+#10	ICD-O T10	C22.0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	C34.9 8000/6
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	8041/3
+#19	ICD-O T19	C34.9 8041/34
+#20	ICD-O T20	4
+#21	ICD-O T21	C34.9
+#22	ICD-O T22	8041/3
+#23	ICD-O T23	8041/3
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8000/1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8041/3
+#30	ICD-O T31	C34.9 8041/34
+#31	ICD-O T32	4
+#32	ICD-O T33	C34.9
+#33	ICD-O T34	8000/3
+#34	ICD-O T35	8000/3
+#35	ICD-O T36	8000/3
+#36	ICD-O T37	8000/3
+#37	ICD-O T38	8002/3
+#38	ICD-O T39	C34.9 8002/3
+#39	ICD-O T40	C34.9
+#40	ICD-O T41	8041/3
+#41	ICD-O T42	C34.9 8041/34
+#42	ICD-O T43	C34.9
+#43	ICD-O T44	4
+#44	ICD-O T45	8041/3
+#45	ICD-O T46	8041/3
+#46	ICD-O T47	8000/6
+#47	ICD-O T48	8000/6
+#48	ICD-O T49	8000/6
+#49	ICD-O T50	C22.0 8000/6
+#50	ICD-O T51	C22.0
+#51	ICD-O T52	8000/6
+#52	ICD-O T53	8000/6
+#53	ICD-O T54	8000/6
+#54	ICD-O T55	C22.0 8000/6
+#55	ICD-O T56	C22.0
+#56	ICD-O T57	8000/1
+#57	ICD-O T58	8000/1
+#58	ICD-O T59	8000/1

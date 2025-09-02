@@ -1,0 +1,74 @@
+T1	morphologie 278 284	tumeur
+T2	expression_CIM 278 299	tumeur dans la narine
+T3	topographie 293 299	narine
+T4	expression_CIM 441 446	masse
+T5	morphologie 441 446	masse
+T7	expression_CIM 626 680	tumeur polypoïde hémorragique occupant toute la narine
+T8	topographie 674 680	narine
+T9	expression_CIM 700 722	tumeur mésenchymateuse
+T10	morphologie 700 722	tumeur mésenchymateuse
+T11	expression_CIM 759 802	zones de différenciation rhabdomyoblastique
+T12	morphologie 759 802	zones de différenciation rhabdomyoblastique
+T13	expression_CIM 908 937	rhabdomyosarcome embryonnaire
+T14	morphologie 908 937	rhabdomyosarcome embryonnaire
+T15	morphologie 951 980	Rhabdomyosarcome embryonnaire
+T16	expression_CIM 951 1011	Rhabdomyosarcome embryonnaire localement avancé de la narine
+T17	topographie 1005 1011	narine
+T18	expression_CIM 1371 1377	lésion
+T19	morphologie 1371 1377	lésion
+T20	expression_CIM 1469 1500	néoplasie à cellules fusiformes
+T21	morphologie 1469 1500	néoplasie à cellules fusiformes
+T22	expression_CIM 1538 1567	rhabdomyosarcome embryonnaire
+T23	morphologie 1538 1567	rhabdomyosarcome embryonnaire
+T24	expression_CIM 1700 1749	rhabdomyosarcome à cellules fusiformes sclérosées
+T25	morphologie 1700 1749	rhabdomyosarcome à cellules fusiformes sclérosées
+T26	expression_CIM 1797 1813	lit de la tumeur
+T27	morphologie 1797 1813	lit de la tumeur
+T28	expression_CIM 1972 1989	récidive tumorale
+T29	morphologie 1972 1989	récidive tumorale
+T30	expression_CIM 2249 2261	infiltration
+T31	morphologie 2249 2261	infiltration
+T32	expression_CIM 2280 2307	rhabdomyosarcome sclérosant
+T33	morphologie 2280 2307	rhabdomyosarcome sclérosant
+T34	expression_CIM 2495 2503	récidive
+T35	morphologie 2495 2503	récidive
+T36	expression_CIM 2510 2519	métastase
+T37	morphologie 2510 2519	métastase
+T6	morphologie 626 655	tumeur polypoïde hémorragique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C30.0 8000/1
+#3	ICD-O T3	C30.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T7	C30.0 8000/1
+#7	ICD-O T8	C30.0
+#8	ICD-O T9	8800/1
+#9	ICD-O T10	8800/1
+#10	ICD-O T11	8900/3
+#11	ICD-O T12	8900/3
+#12	ICD-O T13	8910/3
+#13	ICD-O T14	8910/3
+#14	ICD-O T15	8910/3
+#15	ICD-O T16	C30.0 8910/3
+#16	ICD-O T17	C30.0
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8004/3
+#20	ICD-O T21	8004/3
+#21	ICD-O T22	8910/3
+#22	ICD-O T23	8910/3
+#23	ICD-O T24	8912/3
+#24	ICD-O T25	8912/3
+#25	ICD-O T26	8000/3
+#26	ICD-O T27	8000/3
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8900/3
+#32	ICD-O T33	8900/3
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	8000/6
+#35	ICD-O T36	8000/6
+#36	ICD-O T37	8000/6
+#37	ICD-O T6	8210/3

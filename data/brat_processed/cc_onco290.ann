@@ -1,0 +1,23 @@
+T1	morphologie 140 163	adénocarcinome mucineux
+T3	topographie 167 173	rectum
+T5	morphologie 1715 1721	lésion
+T6	morphologie 1872 1891	lésion métastatique
+T8	topographie 1892 1899	osseuse
+T9	topographie 1905 1913	omoplate
+T10	morphologie 1935 1942	lésions
+T12	topographie 1943 1953	hépatiques
+T13	morphologie 1959 1971	infiltration
+T15	topographie 1978 1985	graisse
+T17	morphologie 2012 2023	adénopathie
+T18	morphologie 2060 2067	lésions
+T20	topographie 2072 2109	corps vertébraux dorsaux et lombaires
+T21	morphologie 2143 2149	lésion
+T23	topographie 2150 2160	scapulaire
+T25	morphologie 2197 2206	métastase
+T26	morphologie 2212 2226	adénocarcinome
+T28	topographie 2227 2233	rectal
+T29	morphologie 3506 3513	maladie
+T31	topographie 3514 3521	osseuse
+T32	topographie 3525 3538	adénopathique
+T33	morphologie 3564 3571	lésions
+T35	topographie 3572 3582	hépatiques

@@ -1,0 +1,59 @@
+T5	topographie 154 174	cervico-claviculaire
+T6	morphologie 176 202;95 114	de type sclérose nodulaire lymphome de Hodgkin
+T1	expression_CIM 95 202	lymphome de Hodgkin de stade IIB (atteinte médistinique et cervico-claviculaire) de type sclérose nodulaire
+T2	morphologie 129 137	atteinte
+T3	expression_CIM 129 174	atteinte médistinique et cervico-claviculaire
+T7	morphologie 466 471	masse
+T8	expression_CIM 466 482	masse pulmonaire
+T9	topographie 472 482	pulmonaire
+T10	expression_CIM 563 575	adénopathies
+T11	morphologie 563 575	adénopathies
+T12	expression_CIM 737 756	lymphome hodgkinien
+T13	morphologie 737 756	lymphome hodgkinien
+T14	morphologie 787 792	masse
+T15	expression_CIM 787 847	masse pulmonaire de 9 cm de grand axe dans le lobe inférieur
+T16	topographie 793 803	pulmonaire
+T17	topographie 833 847	lobe inférieur
+T18	morphologie 897 909	adénopathies
+T19	expression_CIM 897 925	adénopathies sous-carénaires
+T20	topographie 910 925	sous-carénaires
+T21	morphologie 982 1004	captation pathologique
+T22	expression_CIM 982 1027	captation pathologique dans le muscle iliaque
+T24	expression_CIM 1176 1182	lésion
+T25	morphologie 1176 1182	lésion
+T26	expression_CIM 1307 1319	adénopathies
+T27	morphologie 1307 1319	adénopathies
+T28	expression_CIM 1592 1617	adénocarcinome infiltrant
+T29	morphologie 1592 1617	adénocarcinome infiltrant
+T30	morphologie 1631 1653	Adénocarcinome acineux
+T31	expression_CIM 1631 1686	Adénocarcinome acineux modérément différencié du poumon
+T32	differenciation 1654 1676	modérément différencié
+T33	topographie 1680 1686	poumon
+T4	topographie 138 150	médistinique
+T23	topographie 1013 1027	muscle iliaque
+#1	ICD-O T6	tocheck
+#2	ICD-O T2	8000/9
+#3	ICD-O T7	8000/1
+#4	ICD-O T8	C34.9 8000/1
+#5	ICD-O T9	C34.9
+#6	ICD-O T10	C77.9 8000/1
+#7	ICD-O T11	8000/1
+#8	ICD-O T12	9650/3
+#9	ICD-O T13	9650/3
+#10	ICD-O T14	8000/1
+#11	ICD-O T16	C34.9
+#12	ICD-O T17	C34.3
+#13	ICD-O T18	8000/1
+#14	ICD-O T19	C77.1 8000/1
+#15	ICD-O T20	C76.1
+#16	ICD-O T21	8000/9
+#17	ICD-O T24	8000/1
+#18	ICD-O T25	8000/1
+#19	ICD-O T26	C77.9 8000/1
+#20	ICD-O T27	8000/1
+#21	ICD-O T28	8140/3
+#22	ICD-O T29	8140/3
+#23	ICD-O T30	8550/3
+#24	ICD-O T31	C34.9 8550/32
+#25	ICD-O T32	2
+#26	ICD-O T33	C34.9

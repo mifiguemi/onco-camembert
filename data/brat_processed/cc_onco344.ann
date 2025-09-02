@@ -1,0 +1,83 @@
+T1	morphologie 94 102	atteinte
+T3	topographie 103 110	cutanée
+T4	morphologie 183 185	OS
+T6	differenciation 189 198	bas grade
+T8	morphologie 406 418	ostéosarcome
+T9	morphologie 677 689	ostéosarcome
+T11	differenciation 693 702	bas grade
+T12	topographie 760 765	tibia
+T13	morphologie 895 907	ostéosarcome
+T124	morphologie 930 944	fusocellulaire
+T15	differenciation 911 920	bas grade
+T16	differenciation 993 1009	bien différencié
+T18	morphologie 1014 1020	tumeur
+T19	morphologie 1254 1261	rechute
+T21	topographie 1262 1272	pulmonaire
+T22	topographie 1281 1295	lobe inférieur
+T23	morphologie 1374 1401	tumeur fibreuse sclérosante
+T25	differenciation 1405 1414	bas grade
+T27	morphologie 1520 1526	nodule
+T29	morphologie 1576 1596	cellularité tumorale
+T30	morphologie 1624 1630	lésion
+T32	topographie 1645 1651	plèvre
+T33	morphologie 1927 1933	tumeur
+T35	topographie 1967 1980	creux poplité
+T36	morphologie 1992 2004	infiltration
+T38	topographie 2005 2015	vasculaire
+T40	morphologie 2030 2038	récidive
+T41	morphologie 2066 2072	nodule
+T43	topographie 2073 2083	pulmonaire
+T44	topographie 2092 2106	lobe supérieur
+T46	morphologie 2127 2136	métastase
+T47	morphologie 2184 2190	lésion
+T50	morphologie 2255 2262	sarcome
+T52	differenciation 2266 2276	haut grade
+T53	morphologie 2614 2621	nodules
+T57	morphologie 2764 2776	ostéosarcome
+T58	morphologie 2827 2859	sarcome pléomorphe indifférencié
+T60	differenciation 2863 2873	haut grade
+T62	morphologie 2877 2885	stade IV
+T63	morphologie 2887 2897	métastases
+T65	topographie 2898 2909	pulmonaires
+T66	morphologie 3400 3406	lésion
+T68	topographie 3407 3415	poplitée
+T69	morphologie 3694 3726	sarcome pléomorphe indifférencié
+T71	differenciation 3730 3740	haut grade
+T72	morphologie 3762 3795	néoformation sarcomatoïde typique
+T74	topographie 3800 3814	parties molles
+T75	morphologie 3880 3885	masse
+T77	topographie 3886 3904	pariéto-occipitale
+T79	morphologie 3925 3931	Nodule
+T80	morphologie 3945 3952	lésions
+T82	topographie 3977 4000	hémisphères cérébelleux
+T83	morphologie 4017 4035	sarcome pléomorphe
+T85	differenciation 4039 4049	haut grade
+T86	morphologie 4062 4072	Métastases
+T88	topographie 4073 4084	pulmonaires
+T89	morphologie 4088 4100	Ostéosarcome
+T91	differenciation 4120 4129	bas grade
+T92	morphologie 4628 4653	progression de la maladie
+T94	topographie 4654 4664	pulmonaire
+T95	morphologie 4694 4701	lésions
+T97	topographie 4702 4712	hépatiques
+T98	morphologie 5107 5114	lésions
+T100	topographie 5175 5182	cerveau
+T101	morphologie 5249 5260	progression
+T103	topographie 5274 5278	foie
+T104	topographie 5284 5291	poumons
+T105	topographie 5299 5301	os
+T106	morphologie 5408 5415	lésions
+T108	topographie 5416 5426	cérébrales
+T109	morphologie 5910 5935	progression de la maladie
+T111	topographie 5946 5956	pulmonaire
+T112	morphologie 6009 6016	sarcome
+T114	differenciation 6020 6030	haut grade
+T115	morphologie 6034 6045	progression
+T117	topographie 6056 6066	pulmonaire
+T118	topographie 6068 6077	hépatique
+T119	topographie 6079 6085	osseux
+T120	topographie 6089 6097	cérébral
+T121	morphologie 6271 6282	progression
+T123	topographie 6283 6293	pulmonaire
+T55	topographie 2622 2632	pumonaires
+T49	topographie 2199 2214	région poplitée

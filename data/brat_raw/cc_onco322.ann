@@ -1,0 +1,62 @@
+T1	expression_CIM 1110 1124	tumeur maligne
+T2	morphologie 1110 1124	tumeur maligne
+T3	morphologie 1148 1157;1172 1205	carcinome à petites cellules intermédiaires
+T4	expression_CIM 1148 1205	carcinome indifférencié à petites cellules intermédiaires
+T5	differenciation 1158 1171	indifférencié
+T6	expression_CIM 1220 1248	adénocarcinome endométrioïde
+T7	morphologie 1220 1248	adénocarcinome endométrioïde
+T8	expression_CIM 1307 1334	composante stromale maligne
+T9	morphologie 1307 1334	composante stromale maligne
+T10	morphologie 1669 1681	adénopathies
+T11	expression_CIM 1669 1699	adénopathies rétropéritonéales
+T12	topographie 1682 1699	rétropéritonéales
+T13	morphologie 1779 1791	adénopathies
+T14	expression_CIM 1779 1826	adénopathies sous-centimétriques para-aortiques
+T15	topographie 1812 1826	para-aortiques
+T16	morphologie 1849 1854	masse
+T17	expression_CIM 1849 1881	masse occupant la cavité utérine
+T18	topographie 1867 1881	cavité utérine
+T19	morphologie 1996 2002	tumeur
+T20	expression_CIM 1996 2135	tumeur de 81 x 70,9 mm avec une distribution circonférentielle occupant la cavité utérine, affectant plus de 50% de l'épaisseur du myomètre
+T22	morphologie 2528 2555	sarcome stromal endométrial
+T23	expression_CIM 2528 2569	sarcome stromal endométrial indifférencié
+T24	differenciation 2556 2569	indifférencié
+T25	expression_CIM 2602 2630	adénocarcinome endométrioïde
+T26	morphologie 2602 2630	adénocarcinome endométrioïde
+T27	expression_CIM 2719 2738	composante tumorale
+T28	morphologie 2719 2738	composante tumorale
+T29	morphologie 2991 3002	adénopathie
+T30	expression_CIM 2991 3119	adénopathie para-aortique gauche (la plus grande mesurant 9x11 mm), iliaque gauche (la plus grande mesurant 10x15 mm) et iliaque
+T31	topographie 3003 3016	para-aortique
+T32	topographie 3059 3066	iliaque
+T33	topographie 3112 3119	iliaque
+T21	topographie 2127 2135	myomètre
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/3
+#3	ICD-O T3	8044/3
+#4	ICD-O T4	8044/34
+#5	ICD-O T5	4
+#6	ICD-O T6	8380/3
+#7	ICD-O T7	8380/3
+#8	ICD-O T8	8935/3
+#9	ICD-O T9	8935/3
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.2 8000/1
+#12	ICD-O T12	C48.0
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C77.1 8000/1
+#15	ICD-O T15	C49.4
+#16	ICD-O T16	8000/1
+#17	ICD-O T18	C55.9
+#18	ICD-O T19	8000/1
+#19	ICD-O T22	8930/3
+#20	ICD-O T23	8930/34
+#21	ICD-O T24	4
+#22	ICD-O T25	8380/3
+#23	ICD-O T26	8380/3
+#24	ICD-O T28	8000/3
+#25	ICD-O T29	8000/1
+#26	ICD-O T30	C77.2 8000/1;C77.5 8000/1
+#27	ICD-O T31	C49.4
+#28	ICD-O T32	C41.4
+#29	ICD-O T33	C41.4

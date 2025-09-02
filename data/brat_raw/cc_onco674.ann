@@ -1,0 +1,133 @@
+T16	topographie 1303 1327	fenêtre aorto-pulmonaire
+T17	topographie 1331 1338	hilaire
+T1	morphologie 363 369	lésion
+T2	expression_CIM 363 404	lésion est apparue dans la cavité buccale
+T3	topographie 390 404	cavité buccale
+T4	morphologie 558 564	lésion
+T5	expression_CIM 558 611	lésion excroissante au niveau du trigone rétromolaire
+T6	topographie 591 611	trigone rétromolaire
+T7	morphologie 998 1010	infiltration
+T8	expression_CIM 998 1033	infiltration muqueuse de la bronche
+T9	topographie 1026 1033	bronche
+T10	morphologie 1232 1237	masse
+T11	expression_CIM 1232 1249	masse parahilaire
+T12	topographie 1238 1249	parahilaire
+T13	morphologie 1265 1277	adénopathies
+T14	expression_CIM 1265 1338	adénopathies pré-vasculaires, dans la fenêtre aorto-pulmonaire et hilaire
+T15	topographie 1278 1293	pré-vasculaires
+T18	morphologie 1358 1384	captation hypermétabolique
+T19	expression_CIM 1358 1473	captation hypermétabolique dans les territoires ganglionnaires para-aortiques (SUVmax 4,6 et 3,7) et sous-aortiques
+T22	morphologie 1488 1493;1505 1521	Masse hypermétabolique
+T23	expression_CIM 1488 1533	Masse pulmonaire hypermétabolique parahilaire
+T24	topographie 1494 1504	pulmonaire
+T25	topographie 1522 1533	parahilaire
+T26	morphologie 1601 1622	Atteinte métastatique
+T27	expression_CIM 1601 1630	Atteinte métastatique osseuse
+T28	topographie 1623 1630	osseuse
+T29	morphologie 1714 1728	adénocarcinome
+T30	expression_CIM 1714 1739	adénocarcinome pulmonaire
+T31	topographie 1729 1739	pulmonaire
+T32	morphologie 1857 1863	lésion
+T33	expression_CIM 1857 1884	lésion de la cavité buccale
+T34	topographie 1870 1884	cavité buccale
+T35	expression_CIM 1887 1896	métastase
+T36	morphologie 1887 1896	métastase
+T37	morphologie 1902 1916	adénocarcinome
+T38	expression_CIM 1902 1937	adénocarcinome d'origine pulmonaire
+T39	topographie 1927 1937	pulmonaire
+T40	morphologie 1951 1965	Adénocarcinome
+T41	expression_CIM 1951 1976	Adénocarcinome pulmonaire
+T42	topographie 1966 1976	pulmonaire
+T43	morphologie 2243 2249	lésion
+T44	expression_CIM 2243 2273	lésion du trigone rétromolaire
+T45	topographie 2253 2273	trigone rétromolaire
+T46	morphologie 2490 2495	masse
+T47	expression_CIM 2490 2507	masse parahilaire
+T48	topographie 2496 2507	parahilaire
+T49	expression_CIM 2520 2532	adénopathies
+T50	morphologie 2520 2532	adénopathies
+T51	morphologie 2540 2547	lésions
+T52	expression_CIM 2540 2556	lésions osseuses
+T53	topographie 2548 2556	osseuses
+T54	morphologie 2705 2730	progression de la maladie
+T55	expression_CIM 2705 2738	progression de la maladie osseuse
+T56	topographie 2731 2738	osseuse
+T57	morphologie 2758 2764	lésion
+T58	expression_CIM 2758 2782	lésion dans l'hémisacrum
+T59	topographie 2772 2782	hémisacrum
+T60	morphologie 3323 3330	lésions
+T61	expression_CIM 3323 3341	lésions hépatiques
+T62	topographie 3331 3341	hépatiques
+T63	morphologie 3407 3413	lésion
+T64	expression_CIM 3407 3436	lésion dans la cavité buccale
+T65	topographie 3422 3436	cavité buccale
+T66	morphologie 3511 3518	lésions
+T67	expression_CIM 3511 3529	lésions hépatiques
+T68	topographie 3519 3529	hépatiques
+T69	expression_CIM 3572 3582	métastases
+T70	morphologie 3572 3582	métastases
+T21	topographie 1459 1473	sous-aortiques
+T20	topographie 1394 1435	territoires ganglionnaires para-aortiques
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C06.9 8000/1
+#3	ICD-O T3	C06.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C06.2 8000/1
+#6	ICD-O T6	C06.2
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C34.9 8000/1
+#9	ICD-O T9	C34.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C76.1 8000/1
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	8000/1
+#14	ICD-O T15	C49.8
+#15	ICD-O T18	8000/9
+#16	ICD-O T22	8000/9
+#17	ICD-O T23	C34.9 8000/1;C76.1 8000/1
+#18	ICD-O T24	C34.9
+#19	ICD-O T25	C76.1
+#20	ICD-O T26	8000/6
+#21	ICD-O T27	C41.9 8000/6
+#22	ICD-O T28	C41.9
+#23	ICD-O T29	8140/3
+#24	ICD-O T30	C34.9 8140/3
+#25	ICD-O T31	C34.9
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	C06.9 8000/1
+#28	ICD-O T34	C06.9
+#29	ICD-O T36	8000/6
+#30	ICD-O T37	8140/3
+#31	ICD-O T38	C34.9 8140/3
+#32	ICD-O T39	C34.9
+#33	ICD-O T40	8140/3
+#34	ICD-O T41	C34.9 8140/3
+#35	ICD-O T42	C34.9
+#36	ICD-O T43	8000/1
+#37	ICD-O T44	C06.2 8000/1
+#38	ICD-O T45	C06.2
+#39	ICD-O T46	8000/1
+#40	ICD-O T47	C76.1 8000/1
+#41	ICD-O T48	C76.1
+#42	ICD-O T49	C77.9 8000/1
+#43	ICD-O T50	8000/1
+#44	ICD-O T51	8000/1
+#45	ICD-O T52	C41.9 8000/1
+#46	ICD-O T53	C41.9
+#47	ICD-O T54	8000/1
+#48	ICD-O T55	C41.9 8000/1
+#49	ICD-O T56	C41.9
+#50	ICD-O T57	8000/1
+#51	ICD-O T58	C41.4 8000/1
+#52	ICD-O T59	C41.4
+#53	ICD-O T60	8000/1
+#54	ICD-O T61	C22.0 8000/1
+#55	ICD-O T62	C22.0
+#56	ICD-O T63	8000/1
+#57	ICD-O T64	C06.9 8000/1
+#58	ICD-O T65	C06.9
+#59	ICD-O T66	8000/1
+#60	ICD-O T67	C22.0 8000/1
+#61	ICD-O T68	C22.0
+#62	ICD-O T69	8000/6
+#63	ICD-O T70	8000/6

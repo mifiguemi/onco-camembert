@@ -1,0 +1,31 @@
+T2	morphologie 210 217	thymome
+T4	morphologie 478 484	tumeur
+T5	morphologie 493 523	carcinome canalaire infiltrant
+T7	topographie 527 531	sein
+T9	morphologie 628 636	récidive
+T11	morphologie 677 683	tumeur
+T13	morphologie 692 709	thymome de type A
+T14	morphologie 720 725	masse
+T16	topographie 763 777	lobe supérieur
+T17	morphologie 789 797	invasion
+T19	topographie 804 814	veine cave
+T21	morphologie 871 885	masse tumorale
+T23	morphologie 1027 1054	stabilisation de la maladie
+T25	morphologie 1646 1652	tumeur
+T26	morphologie 2754 2766	adénopathies
+T28	topographie 2767 2783	latérocervicales
+T29	topographie 2787 2805	supraclaviculaires
+T30	morphologie 3394 3399	masse
+T32	topographie 3408 3427	médiastin antérieur
+T34	morphologie 3528 3535	thymome
+T35	morphologie 3681 3689	invasion
+T37	topographie 3696 3717	veine cave supérieure
+T38	morphologie 3910 3915	masse
+T40	topographie 3924 3933	médiastin
+T41	morphologie 3949 3980	foyer pathologique de captation
+T43	topographie 4013 4018	crâne
+T45	morphologie 4098 4119	atteinte métastatique
+T47	morphologie 4133 4140	Thymome
+T49	morphologie 4209 4216	thymome
+T50	morphologie 4495 4500	masse
+T52	topographie 4501 4513	médiastinale

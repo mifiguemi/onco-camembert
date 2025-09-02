@@ -1,0 +1,239 @@
+T89	topographie 4238 4265	adjacente à la veine rénale
+T1	morphologie 240 246	Cancer
+T2	expression_CIM 240 265	Cancer du col de l'utérus
+T3	topographie 250 265	col de l'utérus
+T4	morphologie 508 514	tumeur
+T5	expression_CIM 508 526	tumeur dans le dos
+T6	topographie 523 526	dos
+T7	expression_CIM 585 591	lipome
+T8	morphologie 585 591	lipome
+T9	morphologie 771 780	carcinome
+T10	expression_CIM 771 796	carcinome peu différencié
+T11	differenciation 781 796	peu différencié
+T12	expression_CIM 949 955	lésion
+T13	morphologie 949 955	lésion
+T14	morphologie 1075 1081	Tumeur
+T15	expression_CIM 1075 1104	Tumeur de 5 x 5 cm sur le dos
+T16	topographie 1101 1104	dos
+T17	morphologie 1381 1407	Formation hypermétabolique
+T18	expression_CIM 1381 1469	Formation hypermétabolique située dans la région scapulaire gauche, cutanée-sous-cutanée
+T20	expression_CIM 1540 1548	invasion
+T21	morphologie 1540 1548	invasion
+T22	morphologie 1656 1673	activité tumorale
+T23	expression_CIM 1656 1756	activité tumorale hautement proliférative ou de haut grade histologique (probablement indifférenciée
+T24	differenciation 1704 1727	haut grade histologique
+T25	differenciation 1742 1756	indifférenciée
+T26	morphologie 1761 1772	Adénopathie
+T27	expression_CIM 1761 1782	Adénopathie axillaire
+T28	topographie 1773 1782	axillaire
+T29	expression_CIM 1867 1876	métastase
+T30	morphologie 1867 1876	métastase
+T31	morphologie 1883 1889	lésion
+T32	expression_CIM 1883 1900	lésion scapulaire
+T33	topographie 1890 1900	scapulaire
+T34	morphologie 1904 1927	Nodule hypermétabolique
+T35	expression_CIM 1904 1954	Nodule hypermétabolique situé dans la fosse rénale
+T36	topographie 1942 1954	fosse rénale
+T37	expression_CIM 1976 1985	métastase
+T38	morphologie 1976 1985	métastase
+T39	morphologie 1995 2018	nodule hypermétabolique
+T40	expression_CIM 1995 2037	nodule hypermétabolique dans le hile rénal
+T41	topographie 2027 2037	hile rénal
+T42	morphologie 2067 2076	métastase
+T43	expression_CIM 2067 2090	métastase ganglionnaire
+T44	topographie 2077 2090	ganglionnaire
+T45	morphologie 2097 2103	lésion
+T46	expression_CIM 2097 2114	lésion pararénale
+T47	topographie 2104 2114	pararénale
+T48	expression_CIM 2246 2255	métastase
+T49	morphologie 2246 2255	métastase
+T50	morphologie 2263 2271	fibromes
+T51	expression_CIM 2263 2281	fibromes mammaires
+T52	topographie 2272 2281	mammaires
+T53	morphologie 2456 2479	lésion hypermétabolique
+T54	expression_CIM 2456 2503	lésion hypermétabolique hépatique ou pulmonaire
+T55	topographie 2480 2489	hépatique
+T56	topographie 2493 2503	pulmonaire
+T57	expression_CIM 2583 2593	métastases
+T58	morphologie 2583 2593	métastases
+T59	morphologie 2607 2613	cancer
+T60	expression_CIM 2607 2635	cancer indifférencié pelvien
+T61	differenciation 2614 2627	indifférencié
+T62	topographie 2628 2635	pelvien
+T63	expression_CIM 2761 2769	primitif
+T64	morphologie 2761 2769	primitif
+T65	morphologie 2888 2922	foyer d'hyperabsorption du traceur
+T66	expression_CIM 2888 3016	foyer d'hyperabsorption du traceur situé sur une lésion cutanée-sous-cutanée située dans les tissus mous de la région scapulaire
+T68	expression_CIM 3042 3051	néoplasie
+T69	morphologie 3042 3051	néoplasie
+T70	morphologie 3151 3167	lésion nodulaire
+T71	expression_CIM 3151 3225	lésion nodulaire déjà observée dans le scanner PET/CT dans la fosse rénale
+T72	topographie 3213 3225	fosse rénale
+T73	expression_CIM 3349 3368	maladie néoplasique
+T74	morphologie 3349 3368	maladie néoplasique
+T75	morphologie 3383 3389	tumeur
+T76	expression_CIM 3383 3397	tumeur cutanée
+T77	topographie 3390 3397	cutanée
+T78	expression_CIM 3693 3717	infiltration néoplasique
+T79	morphologie 3693 3717	infiltration néoplasique
+T81	expression_CIM 3879 3970	formation multinodulaire mesurant 28 x 20 mm a été observée dans la région rétropéritonéale
+T83	expression_CIM 4101 4123	rehaussement nodulaire
+T84	morphologie 4101 4123	rehaussement nodulaire
+T85	expression_CIM 4180 4189	métastase
+T86	morphologie 4180 4189	métastase
+T87	morphologie 4217 4228	Adénopathie
+T88	expression_CIM 4217 4265	Adénopathie de 10 mm adjacente à la veine rénale
+T90	expression_CIM 4283 4290	lésions
+T91	morphologie 4283 4290	lésions
+T92	morphologie 4357 4363	kystes
+T93	expression_CIM 4357 4374	kystes hépatiques
+T94	topographie 4364 4374	hépatiques
+T95	expression_CIM 4742 4751	métastase
+T96	morphologie 4742 4751	métastase
+T97	expression_CIM 4757 4781	carcinome neuroendocrine
+T98	morphologie 4757 4781	carcinome neuroendocrine
+T99	morphologie 5104 5110	lésion
+T100	expression_CIM 5104 5125	lésion cutanée du dos
+T101	topographie 5111 5118	cutanée
+T102	topographie 5122 5125	dos
+T103	morphologie 5160 5165	masse
+T104	expression_CIM 5160 5182	masse rétropéritonéale
+T105	topographie 5166 5182	rétropéritonéale
+T106	morphologie 5200 5221	tumeur neuroendocrine
+T107	expression_CIM 5200 5229	tumeur neuroendocrine cutanée
+T108	topographie 5222 5229	cutanée
+T109	expression_CIM 5233 5241	stade IV
+T110	morphologie 5233 5241	stade IV
+T111	morphologie 5588 5594	lésion
+T112	expression_CIM 5588 5602	lésion cutanée
+T113	topographie 5595 5602	cutanée
+T114	morphologie 5631 5665	zone d'augmentation du métabolisme
+T115	expression_CIM 5631 5718	zone d'augmentation du métabolisme d'intensité modérée située dans la région scapulaire
+T116	topographie 5701 5718	région scapulaire
+T117	morphologie 5842 5848	lésion
+T118	expression_CIM 5842 5880	lésion décrite au niveau de l'omoplate
+T119	topographie 5872 5880	omoplate
+T120	morphologie 5963 5970	lésions
+T121	expression_CIM 5963 6036	lésions axillaires gauches et celles du hile gauche et de la fosse rénale
+T122	topographie 5971 5981	axillaires
+T124	topographie 6024 6036	fosse rénale
+T125	expression_CIM 6172 6227	lésion hypermétabolique suggérant une atteinte tumorale
+T126	morphologie 6172 6227	lésion hypermétabolique suggérant une atteinte tumorale
+T67	topographie 2944 3016	cutanée-sous-cutanée située dans les tissus mous de la région scapulaire
+T80	morphologie 3879 3903	formation multinodulaire
+T123	topographie 6003 6007	hile
+T82	topographie 3947 3970	région rétropéritonéale
+T19	topographie 1423 1469	région scapulaire gauche, cutanée-sous-cutanée
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C53.9 8000/3
+#3	ICD-O T3	C53.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.7 8000/1
+#6	ICD-O T6	C76.7
+#7	ICD-O T7	8850/0
+#8	ICD-O T8	8850/0
+#9	ICD-O T9	8010/3
+#10	ICD-O T10	8010/33
+#11	ICD-O T11	3
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C76.7 8000/1
+#16	ICD-O T16	C76.7
+#17	ICD-O T17	8000/9
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/3
+#21	ICD-O T23	8000/34
+#22	ICD-O T24	4
+#23	ICD-O T25	4
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	C77.3 8000/1
+#26	ICD-O T28	C76.1
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	8000/6
+#29	ICD-O T31	8000/1
+#30	ICD-O T32	C40.0 8000/1
+#31	ICD-O T33	C40.0
+#32	ICD-O T34	8000/9
+#33	ICD-O T35	C64.9 8000/1
+#34	ICD-O T36	C76.2
+#35	ICD-O T37	8000/6
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	8000/9
+#38	ICD-O T40	C64.9 8000/1
+#39	ICD-O T41	C64.9
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	C77.9 8000/6
+#42	ICD-O T44	C77.9
+#43	ICD-O T45	8000/1
+#44	ICD-O T46	C68.8 8000/1
+#45	ICD-O T47	C68.8
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	8000/6
+#48	ICD-O T50	8810/0
+#49	ICD-O T51	C50.9 8810/0
+#50	ICD-O T52	C50.9
+#51	ICD-O T53	8000/9
+#52	ICD-O T54	C22.0 8000/1;C34.9 8000/1
+#53	ICD-O T55	C22.0
+#54	ICD-O T56	C34.9
+#55	ICD-O T57	8000/6
+#56	ICD-O T58	8000/6
+#57	ICD-O T59	8000/3
+#58	ICD-O T60	C76.3 8000/34
+#59	ICD-O T61	4
+#60	ICD-O T62	C76.3
+#61	ICD-O T63	8000/3
+#62	ICD-O T64	8000/3
+#63	ICD-O T65	8000/9
+#64	ICD-O T68	8000/1
+#65	ICD-O T69	8000/1
+#66	ICD-O T70	8000/1
+#67	ICD-O T71	C76.2 8000/1
+#68	ICD-O T72	C76.2
+#69	ICD-O T73	8000/3
+#70	ICD-O T74	8000/3
+#71	ICD-O T75	8000/1
+#72	ICD-O T76	C44.9 8000/1
+#73	ICD-O T77	C44.9
+#74	ICD-O T78	8000/1
+#75	ICD-O T79	8000/1
+#76	ICD-O T84	8000/1
+#77	ICD-O T85	8000/6
+#78	ICD-O T86	8000/6
+#79	ICD-O T87	8000/1
+#80	ICD-O T88	C77.2 8000/1
+#81	ICD-O T90	8000/1
+#82	ICD-O T91	8000/1
+#83	ICD-O T92	8440/0
+#84	ICD-O T94	C22.0
+#85	ICD-O T95	8000/6
+#86	ICD-O T96	8000/6
+#87	ICD-O T97	8246/3
+#88	ICD-O T98	8246/3
+#89	ICD-O T99	8000/1
+#90	ICD-O T100	C44.9 8000/1;C76.7 8000/1
+#91	ICD-O T101	C44.9
+#92	ICD-O T102	C76.7
+#93	ICD-O T103	8000/1
+#94	ICD-O T104	C48.0 8000/1
+#95	ICD-O T105	C48.0
+#96	ICD-O T106	8246/3
+#97	ICD-O T107	C44.9 8246/3
+#98	ICD-O T108	C44.9
+#99	ICD-O T109	8000/6
+#100	ICD-O T110	8000/6
+#101	ICD-O T111	8000/1
+#102	ICD-O T112	C44.9 8000/1
+#103	ICD-O T113	C44.9
+#104	ICD-O T114	8000/9
+#105	ICD-O T116	C76.1
+#106	ICD-O T117	8000/1
+#107	ICD-O T118	C40.0 8000/1
+#108	ICD-O T119	C40.0
+#109	ICD-O T120	8000/1
+#110	ICD-O T122	C76.1
+#111	ICD-O T124	C76.2
+#112	ICD-O T126	8000/9
+#113	ICD-O T80	8000/1

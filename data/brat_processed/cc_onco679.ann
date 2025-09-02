@@ -1,0 +1,41 @@
+T34	topographie 3620 3635	chiasma optique
+T33	topographie 3594 3615	citerne suprasellaire
+T3	topographie 914 931	lobes thyroïdiens
+T1	morphologie 855 862	nodules
+T4	morphologie 1036 1043	lésions
+T6	topographie 1063 1069	coudes
+T7	topographie 1083 1097	périombilicale
+T8	morphologie 2741 2753	adénopathies
+T10	topographie 2778 2789	médiastinal
+T11	morphologie 2890 2899	processus
+T61	morphologie 2911 2919	primaire
+T13	topographie 2900 2910	pulmonaire
+T14	morphologie 3023 3036	dissémination
+T16	topographie 3047 3067	infradiaphragmatique
+T17	morphologie 3077 3085	atteinte
+T19	topographie 3086 3095	hépatique
+T20	topographie 3097 3110	surrénalienne
+T21	topographie 3112 3128	rétropéritonéale
+T22	topographie 3130 3142	mésentérique
+T23	morphologie 3159 3167	implants
+T25	topographie 3178 3189	sous-cutané
+T26	morphologie 3403 3410	lésions
+T28	topographie 3433 3447	infratentoriel
+T29	topographie 3451 3465	supratentoriel
+T30	morphologie 3551 3556	masse
+T32	topographie 3572 3581	hypophyse
+T36	morphologie 3667 3673	lésion
+T38	topographie 3674 3686	hypophysaire
+T40	morphologie 3705 3714	métastase
+T42	morphologie 3754 3766	macroadénome
+T44	morphologie 3775 3782	lésions
+T46	morphologie 3816 3835	atteinte secondaire
+T47	morphologie 4015 4022	lésions
+T49	topographie 4023 4036	sous-cutanées
+T50	morphologie 4091 4123	carcinome non à petites cellules
+T52	differenciation 4125 4140	peu différencié
+T54	morphologie 4372 4415	carcinome neuroendocrine à grandes cellules
+T56	morphologie 4478 4496	cellules tumorales
+T58	morphologie 4532 4575	carcinome neuroendocrine à grandes cellules
+T60	morphologie 4579 4587	stade IV
+T35	topographie 3652 3662	ventricule

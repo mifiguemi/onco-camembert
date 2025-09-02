@@ -1,0 +1,116 @@
+T18	topographie 1452 1461	axillaire
+T17	topographie 1432 1448	cervico-latérale
+T1	morphologie 237 246	néoplasme
+T2	expression_CIM 237 267	néoplasme de la tête et du cou
+T3	topographie 253 257	tête
+T4	topographie 264 267	cou
+T5	morphologie 477 482	masse
+T6	expression_CIM 477 559	masse sous-pleurale mesurant 68 x 42 mm de diamètre maximal dans le lobe supérieur
+T7	topographie 483 496	sous-pleurale
+T8	topographie 545 559	lobe supérieur
+T9	expression_CIM 711 716	masse
+T10	morphologie 711 716	masse
+T11	expression_CIM 776 797	carcinome épidermoïde
+T12	morphologie 776 797	carcinome épidermoïde
+T13	expression_CIM 908 925	lésion à distance
+T14	morphologie 908 925	lésion à distance
+T15	morphologie 1420 1431	adénopathie
+T16	expression_CIM 1420 1461	adénopathie cervico-latérale ou axillaire
+T19	expression_CIM 1723 1728	masse
+T20	morphologie 1723 1728	masse
+T21	morphologie 2054 2059	masse
+T22	expression_CIM 2054 2114	masse pulmonaire de 68 x 42 mm en localisation sous-pleurale
+T23	topographie 2060 2070	pulmonaire
+T24	topographie 2101 2114	sous-pleurale
+T25	morphologie 2316 2328	adénopathies
+T26	expression_CIM 2316 2342	adénopathies médiastinales
+T27	topographie 2329 2342	médiastinales
+T28	expression_CIM 2410 2417	lésions
+T29	morphologie 2410 2417	lésions
+T30	expression_CIM 2431 2452	métastases à distance
+T31	morphologie 2431 2452	métastases à distance
+T32	morphologie 2466 2487	Carcinome épidermoïde
+T33	expression_CIM 2466 2497	Carcinome épidermoïde du poumon
+T34	topographie 2491 2497	poumon
+T35	expression_CIM 2798 2821	stabilité de la maladie
+T36	morphologie 2798 2821	stabilité de la maladie
+T37	morphologie 2996 3001	masse
+T38	expression_CIM 2996 3012	masse pulmonaire
+T39	topographie 3002 3012	pulmonaire
+T40	morphologie 3113 3118	masse
+T41	expression_CIM 3113 3131	masse pancréatique
+T42	topographie 3119 3131	pancréatique
+T43	morphologie 3359 3364	masse
+T44	expression_CIM 3359 3375	masse pulmonaire
+T45	topographie 3365 3375	pulmonaire
+T46	morphologie 3399 3404	masse
+T47	expression_CIM 3399 3417	masse pancréatique
+T48	topographie 3405 3417	pancréatique
+T49	expression_CIM 3455 3479	foyers hypermétaboliques
+T50	morphologie 3455 3479	foyers hypermétaboliques
+T51	morphologie 3547 3552	masse
+T52	expression_CIM 3547 3565	masse pancréatique
+T53	topographie 3553 3565	pancréatique
+T54	expression_CIM 3626 3646	carcinome infiltrant
+T55	morphologie 3626 3646	carcinome infiltrant
+T56	morphologie 3962 3968;3982 3991	tumeur primitive
+T57	expression_CIM 3962 3991	tumeur pancréatique primitive
+T58	topographie 3969 3981	pancréatique
+T59	expression_CIM 3995 4004	métastase
+T60	morphologie 3995 4004	métastase
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C34.1 8000/1;C38.8 8000/1
+#7	ICD-O T7	C38.8
+#8	ICD-O T8	C34.1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8070/3
+#12	ICD-O T12	8070/3
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/1
+#16	ICD-O T19	8000/1
+#17	ICD-O T20	8000/1
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	C34.9 8000/1;C38.8 8000/1
+#20	ICD-O T23	C34.9
+#21	ICD-O T24	C38.8
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	C77.1 8000/1
+#24	ICD-O T27	C38.3
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	8000/1
+#27	ICD-O T31	8000/6
+#28	ICD-O T32	8070/3
+#29	ICD-O T33	C34.9 8070/3
+#30	ICD-O T34	C34.9
+#31	ICD-O T35	8000/6
+#32	ICD-O T36	8000/6
+#33	ICD-O T37	8000/1
+#34	ICD-O T38	C34.9 8000/1
+#35	ICD-O T39	C34.9
+#36	ICD-O T40	8000/1
+#37	ICD-O T41	C25.9 8000/1
+#38	ICD-O T42	C25.9
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	C34.9 8000/1
+#41	ICD-O T45	C34.9
+#42	ICD-O T46	8000/1
+#43	ICD-O T47	C25.9 8000/1
+#44	ICD-O T48	C25.9
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	8000/1
+#47	ICD-O T51	8000/1
+#48	ICD-O T52	C25.9 8000/1
+#49	ICD-O T53	C25.9
+#50	ICD-O T54	8010/3
+#51	ICD-O T55	8010/3
+#52	ICD-O T56	8000/3
+#53	ICD-O T57	C25.9 8000/3
+#54	ICD-O T58	C25.9
+#55	ICD-O T59	8000/6
+#56	ICD-O T60	8000/6

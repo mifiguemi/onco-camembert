@@ -1,0 +1,22 @@
+T1	morphologie 300 309	néoplasie
+T3	topographie 310 317	rectale
+T5	morphologie 511 523	adénopathies
+T6	morphologie 541 551	métastases
+T8	topographie 552 562	hépatiques
+T9	topographie 566 577	pulmonaires
+T10	morphologie 928 934	lésion
+T12	topographie 935 953	cérébrale frontale
+T14	morphologie 994 1003	métastase
+T16	morphologie 1599 1605	tumeur
+T17	morphologie 1789 1803	adénocarcinome
+T19	topographie 1804 1814	colorectal
+T20	differenciation 1815 1831	bien différencié
+T21	morphologie 1843 1853	métastases
+T23	topographie 1854 1864	cérébrales
+T24	morphologie 1916 1930	Adénocarcinome
+T26	topographie 1931 1941	colorectal
+T27	differenciation 1942 1958	bien différencié
+T29	morphologie 1962 1970	stade IV
+T30	morphologie 1976 1986	métastases
+T32	topographie 1987 1997	cérébrales
+T34	morphologie 2171 2177	lésion

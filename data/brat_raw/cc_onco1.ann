@@ -1,0 +1,42 @@
+T1	morphologie 2300 2311	adénopathie
+T2	expression_CIM 2300 2323	adénopathie parahilaire
+T3	topographie 2312 2323	parahilaire
+T4	morphologie 2348 2359	adénopathie
+T5	expression_CIM 2348 2374	adénopathie sous-carcinale
+T6	topographie 2360 2374	sous-carcinale
+T7	morphologie 2580 2591	adénopathie
+T8	expression_CIM 2580 2606	adénopathie sous-cardinale
+T9	topographie 2592 2606	sous-cardinale
+T10	morphologie 2978 3000	Carcinome microcytaire
+T11	expression_CIM 2978 3010	Carcinome microcytaire du poumon
+T12	topographie 3004 3010	poumon
+T13	morphologie 3225 3234;3246 3258	carcinome microcytaire
+T14	expression_CIM 3225 3258	carcinome pulmonaire microcytaire
+T15	topographie 3235 3245	pulmonaire
+T16	morphologie 5046 5052	nodule
+T17	expression_CIM 5046 5083	nodule de 7 mm dans le lobe inférieur
+T18	topographie 5069 5083	lobe inférieur
+T19	expression_CIM 5197 5222	progression de la maladie
+T20	morphologie 5197 5222	progression de la maladie
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.1 8000/1
+#3	ICD-O T3	C77.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.1 8000/1
+#6	ICD-O T6	C77.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.1 8000/1
+#9	ICD-O T9	C77.1
+#10	ICD-O T10	8041/3
+#11	ICD-O T11	C34.9 8041/3
+#12	ICD-O T12	C34.9
+#13	ICD-O T13	8041/3
+#14	ICD-O T14	C34.9 8041/3
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C34.3 8000/1
+#18	ICD-O T18	C34.3
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	AnnotatorNotes T6	trad
+#22	AnnotatorNotes T9	trad

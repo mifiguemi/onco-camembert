@@ -1,0 +1,43 @@
+T2	morphologie 229 237	mélanome
+T3	morphologie 379 385	lésion
+T5	topographie 406 422	membre supérieur
+T7	morphologie 487 493	lésion
+T9	morphologie 556 564	mélanome
+T11	morphologie 569 575	lésion
+T12	morphologie 1101 1108	lésions
+T14	topographie 1109 1119	hépatiques
+T16	morphologie 1133 1151	maladie secondaire
+T18	topographie 1224 1234	hépatiques
+T20	morphologie 1350 1368	lésion néoplasique
+T22	morphologie 2418 2424	masses
+T23	morphologie 3503 3515	infiltration
+T70	morphologie 3526 3538	métastatique
+T25	topographie 3516 3525	hépatique
+T26	morphologie 3545 3552	maladie
+T28	topographie 3553 3562	hépatique
+T30	morphologie 3802 3812	métastases
+T32	morphologie 3816 3824	mélanome
+T33	morphologie 4040 4050	métastases
+T35	topographie 4051 4061	hépatiques
+T36	morphologie 4099 4106	lésions
+T38	topographie 4107 4115	osseuses
+T39	morphologie 4609 4619	métastases
+T41	topographie 4620 4630	hépatiques
+T42	morphologie 4657 4666	métastase
+T44	topographie 4667 4677	osseuse D6
+T46	topographie 4749 4753	rate
+T47	topographie 4760 4775	lobe thyroïdien
+T49	topographie 5209 5218	hépatique
+T50	topographie 5220 5229	splénique
+T51	topographie 5231 5243	thyroïdienne
+T52	topographie 5247 5254	osseuse
+T53	morphologie 5278 5286	implants
+T55	topographie 5287 5298	péritonéaux
+T56	morphologie 5306 5317	adénopathie
+T58	topographie 5318 5327	axillaire
+T60	topographie 5362 5370	aisselle
+T62	morphologie 5519 5544	progression de la maladie
+T64	morphologie 5670 5695	progression de la maladie
+T66	topographie 6477 6486	hépatique
+T67	morphologie 6613 6620	lésions
+T69	topographie 6621 6631	hépatiques

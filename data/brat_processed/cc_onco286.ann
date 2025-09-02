@@ -1,0 +1,27 @@
+T2	morphologie 88 95	thymome
+T4	morphologie 455 497	lymphome centroblastique diffus de Hodgkin
+T6	morphologie 501 509	stade IV
+T8	morphologie 1441 1449	lymphome
+T9	morphologie 1685 1708	lésion hypermétabolique
+T11	topographie 1746 1751	fémur
+T13	morphologie 1897 1915	pathologie maligne
+T15	morphologie 1917 1926	métastase
+T17	morphologie 1928 1935	myélome
+T19	morphologie 1937 1945	lymphome
+T21	morphologie 2140 2146	lésion
+T23	morphologie 2197 2203	lésion
+T25	morphologie 2476 2483	lésions
+T27	morphologie 3186 3207	tumeur fibroblastique
+T28	morphologie 3229 3241	fibrosarcome
+T30	topographie 3249 3251	os
+T31	morphologie 3540 3565	processus néoprolifératif
+T33	topographie 3580 3603	condyle fémoral externe
+T35	morphologie 3639 3645	lésion
+T37	morphologie 3884 3896	ostéosarcome
+T39	morphologie 3951 3972	infiltration tumorale
+T41	morphologie 4542 4563	atteinte métastatique
+T42	morphologie 4616 4642	histiocytome fibreux malin
+T45	morphologie 4752 4764	ostéosarcome
+T47	topographie 4768 4780	fémur distal
+T49	morphologie 5019 5027	lymphome
+T44	topographie 4648 4666	os du fémur distal

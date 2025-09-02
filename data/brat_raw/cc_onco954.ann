@@ -1,0 +1,34 @@
+T1	morphologie 845 859	adénocarcinome
+T2	expression_CIM 845 874	adénocarcinome de la prostate
+T3	topographie 866 874	prostate
+T4	morphologie 900 910	métastases
+T5	expression_CIM 900 928	métastases osseuses costales
+T6	topographie 911 928	osseuses costales
+T7	morphologie 1228 1253	progression de la maladie
+T8	expression_CIM 1228 1261	progression de la maladie osseuse
+T9	topographie 1254 1261	osseuse
+T10	expression_CIM 1481 1488	lésions
+T11	morphologie 1481 1488	lésions
+T12	morphologie 1553 1559	lésion
+T13	expression_CIM 1553 1590	lésion dans la 4ème vertèbre lombaire
+T14	topographie 1573 1590	vertèbre lombaire
+T15	morphologie 1794 1801	lésions
+T16	expression_CIM 1794 1810	lésions osseuses
+T17	topographie 1802 1810	osseuses
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C61.9 8140/3
+#3	ICD-O T3	C61.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C41.3 8000/6;C41.9 8000/6
+#6	ICD-O T6	C41.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C41.9 8000/1
+#9	ICD-O T9	C41.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C41.2 8000/1
+#14	ICD-O T14	C41.2
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C41.9 8000/1
+#17	ICD-O T17	C41.9

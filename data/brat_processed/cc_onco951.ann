@@ -1,0 +1,42 @@
+T42	topographie 2446 2463	espace pararectal
+T12	topographie 1390 1399	mésosigme
+T25	topographie 1731 1748	paroi intestinale
+T1	morphologie 52 58	lésion
+T3	topographie 124 129	verge
+T4	morphologie 950 956	tumeur
+T6	topographie 960 965	sigma
+T7	morphologie 1025 1039	adénocarcinome
+T9	topographie 1040 1050	intestinal
+T10	morphologie 1365 1381	lymphadénopathie
+T13	morphologie 1427 1436	néoplasme
+T15	topographie 1437 1447	sigmoïdien
+T17	morphologie 1456 1472	lymphadénopathie
+T19	morphologie 1482 1515	lésion métastatique ou à distance
+T20	morphologie 1653 1667	adénocarcinome
+T22	differenciation 1668 1690	modérément différencié
+T23	morphologie 1711 1721	infiltrant
+T27	morphologie 1773 1790	atteinte tumorale
+T28	morphologie 1820 1830	métastases
+T30	topographie 1831 1845	ganglionnaires
+T31	morphologie 2140 2148	récidive
+T33	topographie 2149 2158	hépatique
+T34	morphologie 2191 2212	lésions métastatiques
+T36	topographie 2235 2249	lobe hépatique
+T37	morphologie 2391 2398	lésions
+T39	topographie 2399 2409	hépatiques
+T40	morphologie 2432 2438	tumeur
+T44	morphologie 2620 2628	récidive
+T45	morphologie 2660 2668	récidive
+T47	topographie 2669 2678	pelvienne
+T48	morphologie 2942 2948	lésion
+T50	topographie 3018 3032	hampe du pénis
+T51	morphologie 3155 3161	nodule
+T53	topographie 3184 3200	région inguinale
+T54	morphologie 3331 3338	lésions
+T56	topographie 3364 3388	branches ischiopubiennes
+T57	morphologie 3403 3409	lésion
+T59	topographie 3428 3433	pénis
+T60	morphologie 3503 3512	Métastase
+T62	topographie 3513 3521	pénienne
+T63	morphologie 3528 3543	tumeur primaire
+T65	topographie 3544 3552	sigmoïde

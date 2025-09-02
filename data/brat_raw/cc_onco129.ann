@@ -1,0 +1,111 @@
+T28	topographie 4135 4140	cavum
+T39	topographie 4882 4891	digestive
+T1	expression_CIM 856 868	adénopathies
+T2	morphologie 856 868	adénopathies
+T3	expression_CIM 1102 1107	masse
+T4	morphologie 1102 1107	masse
+T5	morphologie 2752 2771	lésion métastatique
+T6	expression_CIM 2752 2783	lésion métastatique connue à L5
+T7	topographie 2781 2783	L5
+T8	expression_CIM 2961 2968	lésions
+T9	morphologie 2961 2968	lésions
+T10	expression_CIM 2983 2998	tumeur primaire
+T11	morphologie 2983 2998	tumeur primaire
+T12	morphologie 3096 3104	atteinte
+T13	expression_CIM 3096 3169	atteinte osseuse diffuse avec une composante de tissu mou au niveau de L5
+T14	topographie 3105 3112	osseuse
+T15	topographie 3167 3169	L5
+T16	expression_CIM 3322 3334	infiltration
+T17	morphologie 3322 3334	infiltration
+T18	morphologie 3354 3368;3385 3422	adénocarcinome avec des cellules en anneau de signet
+T19	expression_CIM 3354 3422	adénocarcinome peu différencié avec des cellules en anneau de signet
+T20	differenciation 3369 3384	peu différencié
+T21	expression_CIM 3676 3694	lésion néoplasique
+T22	morphologie 3676 3694	lésion néoplasique
+T23	morphologie 3871 3878	lésions
+T24	expression_CIM 3871 3887	lésions osseuses
+T25	topographie 3879 3887	osseuses
+T26	expression_CIM 3902 3923	atteinte métastatique
+T27	morphologie 3902 3923	atteinte métastatique
+T29	expression_CIM 4135 4173	cavum : pas d'infiltration néoplasique
+T30	morphologie 4149 4173	infiltration néoplasique
+T31	morphologie 4754 4764	Métastases
+T32	expression_CIM 4754 4773	Métastases osseuses
+T33	topographie 4765 4773	osseuses
+T34	morphologie 4788 4800	infiltration
+T35	expression_CIM 4788 4821	infiltration de la moelle osseuse
+T36	topographie 4807 4821	moelle osseuse
+T37	morphologie 4830 4858	cellules en anneau de signet
+T38	expression_CIM 4830 4891	cellules en anneau de signet d'origine probablement digestive
+T40	expression_CIM 4900 4915	tumeur primaire
+T41	morphologie 4900 4915	tumeur primaire
+T42	morphologie 5020 5030	métastases
+T43	expression_CIM 5020 5039	métastases osseuses
+T44	topographie 5031 5039	osseuses
+T45	expression_CIM 5054 5069	tumeur primaire
+T46	morphologie 5054 5069	tumeur primaire
+T47	morphologie 6116 6124	atteinte
+T48	expression_CIM 6116 6132	atteinte osseuse
+T49	topographie 6125 6132	osseuse
+T50	expression_CIM 7047 7068	infiltration tumorale
+T51	morphologie 7047 7068	infiltration tumorale
+T52	expression_CIM 8898 8918	progression tumorale
+T53	morphologie 8898 8918	progression tumorale
+T54	morphologie 8988 8995	lésions
+T55	expression_CIM 8988 9004	lésions osseuses
+T56	topographie 8996 9004	osseuses
+T57	expression_CIM 9046 9071	progression de la maladie
+T58	morphologie 9046 9071	progression de la maladie
+#1	ICD-O T1	C77.9 8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/6
+#6	ICD-O T7	C41.2
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/3
+#10	ICD-O T11	8000/3
+#11	ICD-O T12	8000/1
+#12	ICD-O T14	C41.9
+#13	ICD-O T15	C41.2
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8490/3
+#17	ICD-O T20	3
+#18	ICD-O T21	8000/3
+#19	ICD-O T22	8000/3
+#20	ICD-O T23	8000/1
+#21	ICD-O T24	C41.9 8000/1
+#22	ICD-O T25	C41.9
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8000/6
+#25	ICD-O T30	8000/9
+#26	ICD-O T31	8000/6
+#27	ICD-O T32	C41.9 8000/6
+#28	ICD-O T33	C41.9
+#29	ICD-O T34	8000/9
+#30	ICD-O T35	C42.1 8000/1
+#31	ICD-O T36	C42.1
+#32	ICD-O T37	tocheck
+#33	ICD-O T40	8000/3
+#34	ICD-O T41	8000/3
+#35	ICD-O T42	8000/6
+#36	ICD-O T43	C41.9 8000/6
+#37	ICD-O T44	C41.9
+#38	ICD-O T45	8000/3
+#39	ICD-O T46	8000/3
+#40	ICD-O T47	8000/9
+#41	ICD-O T48	C41.9 8000/1
+#42	ICD-O T49	C41.9
+#43	ICD-O T50	8000/6
+#44	ICD-O T51	8000/9
+#45	ICD-O T52	8000/3
+#46	ICD-O T53	8000/9
+#47	ICD-O T54	8000/1
+#48	ICD-O T55	C41.9 8000/1
+#49	ICD-O T56	C41.9
+#50	ICD-O T57	8000/1
+#51	ICD-O T58	8000/9
+#52	AnnotatorNotes T18	trad
+#53	AnnotatorNotes T37	trad

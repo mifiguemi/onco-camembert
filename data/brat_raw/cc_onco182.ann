@@ -1,0 +1,110 @@
+T1	morphologie 805 811	nodule
+T2	expression_CIM 805 859	nodule aux contours mal définis dans le lobe inférieur
+T3	topographie 845 859	lobe inférieur
+T4	expression_CIM 919 1033	images de 1,5 cm dans la région pariéto-occipitale droite et de 2 cm controlatérale compatibles avec une métastase
+T6	morphologie 1003 1033;919 925	compatibles avec une métastase images
+T7	morphologie 1366 1372	nodule
+T8	expression_CIM 1366 1406	nodule pulmonaire dans le lobe inférieur
+T9	topographie 1373 1383	pulmonaire
+T10	topographie 1392 1406	lobe inférieur
+T11	morphologie 1471 1483	adénopathies
+T12	expression_CIM 1471 1529	adénopathies médiastinales sous-carénales et prétrachéales
+T14	topographie 1516 1529	prétrachéales
+T15	morphologie 1560 1567	Lésions
+T16	expression_CIM 1560 1612	Lésions hypodenses au niveau du parenchyme splénique
+T18	morphologie 1682 1689	lésions
+T19	expression_CIM 1682 1731	lésions intra-axiales supra- et infratentorielles
+T21	morphologie 1870 1884	adénocarcinome
+T22	expression_CIM 1870 1895	adénocarcinome pulmonaire
+T23	topographie 1885 1895	pulmonaire
+T24	morphologie 1955 1969	Adénocarcinome
+T25	expression_CIM 1955 1980	Adénocarcinome pulmonaire
+T26	topographie 1970 1980	pulmonaire
+T27	morphologie 2408 2419	adénopathie
+T28	expression_CIM 2408 2432	adénopathie médiastinale
+T29	topographie 2420 2432	médiastinale
+T30	morphologie 2678 2692	adénocarcinome
+T31	expression_CIM 2678 2703	adénocarcinome pulmonaire
+T32	topographie 2693 2703	pulmonaire
+T33	morphologie 2709 2717	atteinte
+T34	expression_CIM 2709 2753	atteinte probable du système nerveux central
+T35	topographie 2730 2753	système nerveux central
+T36	morphologie 3296 3311	image nodulaire
+T37	expression_CIM 3296 3380	image nodulaire spéculaire mal définie (1,47 x 1,23 cm) dans le segment VI du poumon
+T39	morphologie 3442 3454	adénopathies
+T40	expression_CIM 3442 3535	adénopathies de 10 mm avec activité métabolique discrète au niveau paratrachéal, sous-carénal
+T43	morphologie 3544 3550	Lésion
+T44	expression_CIM 3544 3562	Lésion suprarénale
+T45	topographie 3551 3562	suprarénale
+T46	expression_CIM 3588 3595	adénome
+T47	morphologie 3588 3595	adénome
+T48	morphologie 3849 3863	adénocarcinome
+T49	expression_CIM 3849 3874	adénocarcinome pulmonaire
+T50	topographie 3864 3874	pulmonaire
+T51	morphologie 4458 4472;4484 4499	adénocarcinome de type acineux
+T52	expression_CIM 4458 4499	adénocarcinome pulmonaire de type acineux
+T53	topographie 4473 4483	pulmonaire
+T54	expression_CIM 4567 4573	tumeur
+T55	morphologie 4567 4573	tumeur
+T56	morphologie 4587 4595	invasion
+T57	expression_CIM 4587 4615	invasion vasculo-lymphatique
+T58	topographie 4596 4615	vasculo-lymphatique
+T59	expression_CIM 4887 4902	maladie maligne
+T60	morphologie 4887 4902	maladie maligne
+T20	topographie 1690 1731	intra-axiales supra- et infratentorielles
+T13	topographie 1484 1512	médiastinales sous-carénales
+T41	topographie 3509 3521	paratrachéal
+T17	topographie 1592 1612	parenchyme splénique
+T5	topographie 944 969	région pariéto-occipitale
+T38	topographie 3360 3380	segment VI du poumon
+T42	topographie 3523 3535	sous-carénal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.3 8000/1
+#3	ICD-O T3	C34.3
+#4	ICD-O T6	8000/6
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	C34.3 8000/1;C34.9 8000/1
+#7	ICD-O T9	C34.9
+#8	ICD-O T10	C34.3
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	C77.1 8000/1
+#11	ICD-O T14	C76.0
+#12	ICD-O T15	8000/1
+#13	ICD-O T16	C42.2 8000/1
+#14	ICD-O T18	8000/1
+#15	ICD-O T21	8140/3
+#16	ICD-O T22	C34.9 8140/3
+#17	ICD-O T23	C34.9
+#18	ICD-O T24	8140/3
+#19	ICD-O T25	C34.9 8140/3
+#20	ICD-O T26	C34.9
+#21	ICD-O T27	8000/1
+#22	ICD-O T28	C77.1 8000/1
+#23	ICD-O T29	C38.3
+#24	ICD-O T30	8140/3
+#25	ICD-O T31	C34.9 8140/3
+#26	ICD-O T32	C34.9
+#27	ICD-O T33	8000/1
+#28	ICD-O T34	C72.9 8000/1
+#29	ICD-O T35	C72.9
+#30	ICD-O T36	8000/1
+#31	ICD-O T37	C34.9 8000/1
+#32	ICD-O T39	8000/1
+#33	ICD-O T43	8000/1
+#34	ICD-O T44	C76.2 8000/1
+#35	ICD-O T45	C76.2
+#36	ICD-O T46	8140/0
+#37	ICD-O T47	8140/0
+#38	ICD-O T48	8140/3
+#39	ICD-O T49	C34.9 8140/3
+#40	ICD-O T50	C34.9
+#41	ICD-O T51	8550/3
+#42	ICD-O T52	C34.9 8550/3
+#43	ICD-O T53	C34.9
+#44	ICD-O T54	8000/1
+#45	ICD-O T55	8000/1
+#46	ICD-O T56	8000/1
+#47	ICD-O T57	C49.9 8000/1
+#48	ICD-O T58	C49.9
+#49	ICD-O T59	8000/3
+#50	ICD-O T60	8000/3

@@ -1,0 +1,70 @@
+T1	expression_CIM 12 25	thymome malin
+T2	morphologie 12 25	thymome malin
+T3	morphologie 781 789	implants
+T4	expression_CIM 781 832	implants pleuraux, diaphragmatiques et médiastinaux
+T5	topographie 790 798	pleuraux
+T6	topographie 800 816	diaphragmatiques
+T7	topographie 820 832	médiastinaux
+T8	expression_CIM 985 996	lit tumoral
+T9	morphologie 985 996	lit tumoral
+T10	morphologie 1100 1121	rechute de la maladie
+T11	expression_CIM 1100 1163	rechute de la maladie au niveau pulmonaire, hépatique et osseux
+T12	topographie 1132 1142	pulmonaire
+T13	topographie 1144 1153	hépatique
+T14	topographie 1157 1163	osseux
+T15	expression_CIM 1415 1442	stabilisation de la maladie
+T16	morphologie 1415 1442	stabilisation de la maladie
+T17	expression_CIM 2536 2551	Image nodulaire
+T18	morphologie 2536 2551	Image nodulaire
+T19	expression_CIM 2565 2574	métastase
+T20	morphologie 2565 2574	métastase
+T21	morphologie 2664 2671	lésions
+T22	expression_CIM 2664 2742	lésions aiguës dans les parenchymes cérébral, cérébelleux et du tronc cérébral
+T23	topographie 2700 2708	cérébral
+T24	topographie 2710 2721	cérébelleux
+T25	topographie 2728 2742	tronc cérébral
+T26	expression_CIM 3173 3190	cellules malignes
+T27	morphologie 3173 3190	cellules malignes
+T28	morphologie 5226 5251	progression de la maladie
+T29	expression_CIM 5226 5270	progression de la maladie au niveau cérébral
+T30	topographie 5262 5270	cérébral
+T31	morphologie 5287 5296	métastase
+T32	expression_CIM 5287 5306	métastase cérébrale
+T33	topographie 5297 5306	cérébrale
+T34	morphologie 5336 5343	lésions
+T35	expression_CIM 5336 5363	lésions au niveau vertébral
+T36	topographie 5354 5363	vertébral
+#1	ICD-O T1	8580/3
+#2	ICD-O T2	8580/3
+#3	ICD-O T3	8000/6
+#4	ICD-O T4	C38.3 8000/6;C38.4 8000/6;C49.3 8000/6
+#5	ICD-O T5	C38.4
+#6	ICD-O T6	C49.3
+#7	ICD-O T7	C38.3
+#8	ICD-O T8	8000/3
+#9	ICD-O T9	8000/3
+#10	ICD-O T10	8000/9
+#11	ICD-O T12	C34.9
+#12	ICD-O T13	C22.0
+#13	ICD-O T14	C41.9
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/6
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/6
+#18	ICD-O T20	8000/6
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C71.0 8000/1;C71.6 8000/1;C71.7 8000/1
+#21	ICD-O T23	C71.0
+#22	ICD-O T24	C71.6
+#23	ICD-O T25	C71.7
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C71.0 8000/1
+#28	ICD-O T30	C71.0
+#29	ICD-O T31	8000/6
+#30	ICD-O T32	C71.0 8000/6
+#31	ICD-O T33	C71.0
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	C41.2 8000/1
+#34	ICD-O T36	C41.2

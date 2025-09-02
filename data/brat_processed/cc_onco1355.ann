@@ -1,0 +1,21 @@
+T1	morphologie 466 471	masse
+T3	topographie 501 516	sinus sphénoïde
+T5	morphologie 539 548	néoplasie
+T7	morphologie 684 690	lésion
+T9	morphologie 765 771	tumeur
+T11	morphologie 839 858	stésioneuroblastome
+T13	morphologie 1111 1122	adénopathie
+T15	morphologie 1200 1205	masse
+T16	morphologie 1478 1487	extension
+T20	morphologie 1662 1668	lésion
+T21	morphologie 1803 1811	invasion
+T23	topographie 1826 1841	sinus caverneux
+T24	morphologie 1985 1994	extension
+T26	topographie 2002 2014	os sphénoïde
+T28	morphologie 2194 2200	tumeur
+T29	morphologie 2327 2346	stésioneuroblastome
+T31	differenciation 2347 2361	GI-II de Hyams
+T33	morphologie 2426 2445	stésioneuroblastome
+T35	morphologie 2498 2504	lésion
+T37	morphologie 2651 2656	masse
+T18	topographie 1488 1528	intracrânienne dans les citernes basales

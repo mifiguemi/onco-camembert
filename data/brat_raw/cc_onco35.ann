@@ -1,0 +1,181 @@
+T15	topographie 495 503	inguinal
+T1	morphologie 63 79	lymphadénopathie
+T2	expression_CIM 63 89	lymphadénopathie inguinale
+T3	topographie 80 89	inguinale
+T4	morphologie 205 211	nodule
+T5	expression_CIM 205 224	nodule dans le sein
+T6	topographie 220 224	sein
+T7	morphologie 407 418	adénopathie
+T8	expression_CIM 407 435	adénopathie sus-claviculaire
+T9	topographie 419 435	sus-claviculaire
+T10	morphologie 448 459	adénopathie
+T11	expression_CIM 448 469	adénopathie axillaire
+T12	topographie 460 469	axillaire
+T13	morphologie 483 494	conglomérat
+T14	expression_CIM 483 503	conglomérat inguinal
+T16	expression_CIM 543 550	nodules
+T17	morphologie 543 550	nodules
+T18	morphologie 746 753	lésions
+T19	expression_CIM 746 762	lésions osseuses
+T20	topographie 754 762	osseuses
+T21	expression_CIM 779 791	adénopathies
+T22	morphologie 779 791	adénopathies
+T23	expression_CIM 850 865	tumeur primaire
+T24	morphologie 850 865	tumeur primaire
+T25	morphologie 972 982	métastases
+T26	expression_CIM 972 1018	métastases osseuses axiales et appendiculaires
+T27	topographie 983 999	osseuses axiales
+T28	topographie 1003 1018	appendiculaires
+T29	morphologie 1162 1173	adénopathie
+T30	expression_CIM 1162 1183	adénopathie inguinale
+T31	topographie 1174 1183	inguinale
+T32	expression_CIM 1328 1349	cellules néoplasiques
+T33	morphologie 1328 1349	cellules néoplasiques
+T34	morphologie 1728 1737	carcinome
+T35	expression_CIM 1728 1770	carcinome indifférencié d'origine mammaire
+T36	differenciation 1738 1751	indifférencié
+T37	topographie 1762 1770	mammaire
+T38	morphologie 2003 2012	carcinome
+T39	expression_CIM 2003 2021	carcinome mammaire
+T40	topographie 2013 2021	mammaire
+T41	expression_CIM 2040 2048	stade IV
+T42	morphologie 2040 2048	stade IV
+T43	morphologie 2231 2238	maladie
+T44	expression_CIM 2231 2263	maladie osseuse et ganglionnaire
+T45	topographie 2239 2246	osseuse
+T46	topographie 2250 2263	ganglionnaire
+T47	morphologie 2435 2451	lymphadénopathie
+T48	expression_CIM 2435 2481	lymphadénopathie axillaire et rétropéritonéale
+T49	topographie 2452 2461	axillaire
+T50	topographie 2465 2481	rétropéritonéale
+T51	morphologie 2509 2525	lymphadénopathie
+T52	expression_CIM 2509 2535	lymphadénopathie inguinale
+T53	topographie 2526 2535	inguinale
+T54	morphologie 2601 2608	lésions
+T55	expression_CIM 2601 2617	lésions osseuses
+T56	topographie 2609 2617	osseuses
+T57	morphologie 2724 2744	maladie métastatique
+T58	expression_CIM 2724 2752	maladie métastatique osseuse
+T59	topographie 2745 2752	osseuse
+T60	morphologie 2968 2974	nodule
+T61	expression_CIM 2968 3011	nodule hypercapillaire de 1 cm dans le sein
+T62	topographie 3007 3011	sein
+T63	morphologie 3037 3042	masse
+T64	expression_CIM 3037 3052	masse ovarienne
+T65	topographie 3043 3052	ovarienne
+T66	morphologie 3100 3107	lésions
+T67	expression_CIM 3100 3116	lésions osseuses
+T68	topographie 3108 3116	osseuses
+T69	morphologie 3308 3313	masse
+T70	expression_CIM 3308 3323	masse ovarienne
+T71	topographie 3314 3323	ovarienne
+T72	morphologie 3447 3456	carcinome
+T73	expression_CIM 3447 3488	carcinome métastatique d'origine mammaire
+T74	morphologie 3457 3469	métastatique
+T75	expression_CIM 3457 3539	métastatique d'origine mammaire dans les deux annexes et dans la trompe de Fallope
+T77	topographie 3503 3510	annexes
+T78	topographie 3522 3539	trompe de Fallope
+T79	expression_CIM 3595 3601	nodule
+T80	morphologie 3595 3601	nodule
+T81	morphologie 3664 3673	carcinome
+T82	expression_CIM 3664 3682	carcinome mammaire
+T83	topographie 3674 3682	mammaire
+T84	morphologie 4086 4111	progression de la maladie
+T85	expression_CIM 4086 4121	progression de la maladie pelvienne
+T86	topographie 4112 4121	pelvienne
+T87	morphologie 4452 4458	lésion
+T88	expression_CIM 4452 4497	lésion est apparue sur la paupière inférieure
+T90	expression_CIM 4594 4603	métastase
+T91	morphologie 4594 4603	métastase
+T92	morphologie 4607 4616	carcinome
+T93	expression_CIM 4607 4625	carcinome mammaire
+T94	topographie 4617 4625	mammaire
+T76	topographie 3472 3488	origine mammaire
+T89	topographie 4478 4497	paupière inférieure
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.4 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C77.0 8000/1
+#9	ICD-O T9	C76.0
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.3 8000/1
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	8000/1
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C41.9 8000/1
+#18	ICD-O T20	C41.9
+#19	ICD-O T21	C77.9 8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/3
+#22	ICD-O T24	8000/3
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	C18.1 8000/6;C41.2 8000/6
+#25	ICD-O T27	C41.2
+#26	ICD-O T28	C18.1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C77.4 8000/1
+#29	ICD-O T31	C76.3
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	8010/3
+#33	ICD-O T35	C50.9 8020/3
+#34	ICD-O T36	4
+#35	ICD-O T37	C50.9
+#36	ICD-O T38	8010/3
+#37	ICD-O T39	C50.9 8010/3
+#38	ICD-O T40	C50.9
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	8000/6
+#42	ICD-O T44	C41.9 8000/6;C77.9 8000/6
+#43	ICD-O T45	C41.9
+#44	ICD-O T46	C77.9
+#45	ICD-O T47	8000/1
+#46	ICD-O T48	C77.2 8000/1;C77.3 8000/1
+#47	ICD-O T49	C76.1
+#48	ICD-O T50	C48.0
+#49	ICD-O T51	8000/1
+#50	ICD-O T52	C77.4 8000/1
+#51	ICD-O T53	C76.3
+#52	ICD-O T54	8000/1
+#53	ICD-O T55	C41.9 8000/1
+#54	ICD-O T56	C41.9
+#55	ICD-O T57	8000/6
+#56	ICD-O T58	C41.9 8000/6
+#57	ICD-O T59	C41.9
+#58	ICD-O T60	8000/1
+#59	ICD-O T61	C50.9 8000/1
+#60	ICD-O T62	C50.9
+#61	ICD-O T63	8000/1
+#62	ICD-O T64	C56.9 8000/1
+#63	ICD-O T65	C56.9
+#64	ICD-O T66	8000/1
+#65	ICD-O T67	C41.9 8000/1
+#66	ICD-O T68	C41.9
+#67	ICD-O T69	8000/1
+#68	ICD-O T70	C56.9 8000/1
+#69	ICD-O T71	C56.9
+#70	ICD-O T72	8010/3
+#71	ICD-O T74	8000/6
+#72	ICD-O T77	C57.4
+#73	ICD-O T78	C57.0
+#74	ICD-O T79	8000/1
+#75	ICD-O T80	8000/1
+#76	ICD-O T81	8010/3
+#77	ICD-O T82	C50.9 8010/3
+#78	ICD-O T83	C50.9
+#79	ICD-O T84	8000/1
+#80	ICD-O T85	C76.3 8000/1
+#81	ICD-O T86	C76.3
+#82	ICD-O T87	8000/1
+#83	ICD-O T90	8000/6
+#84	ICD-O T91	8000/6
+#85	ICD-O T92	8010/3
+#86	ICD-O T93	C50.9 8010/3
+#87	ICD-O T94	C50.9

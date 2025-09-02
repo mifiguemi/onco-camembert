@@ -1,0 +1,35 @@
+T11	topographie 1961 1979	muqueuse gastrique
+T9	morphologie 1907 1944	prolifération néoplasique épithéliale
+T1	expression_CIM 1553 1565	adénopathies
+T2	morphologie 1553 1565	adénopathies
+T3	morphologie 1588 1596	atteinte
+T4	expression_CIM 1588 1604	atteinte osseuse
+T5	topographie 1597 1604	osseuse
+T6	morphologie 1734 1740	lésion
+T7	expression_CIM 1734 1750	lésion gastrique
+T8	topographie 1741 1750	gastrique
+T10	expression_CIM 1907 1979	prolifération néoplasique épithéliale provenant de la muqueuse gastrique
+T12	expression_CIM 2035 2056	cellules néoplasiques
+T13	morphologie 2035 2056	cellules néoplasiques
+T14	morphologie 2234 2248;2259 2265	adénocarcinome diffus
+T15	expression_CIM 2234 2265	adénocarcinome gastrique diffus
+T16	morphologie 2354 2368	adénocarcinome
+T17	expression_CIM 2354 2378	adénocarcinome gastrique
+T18	topographie 2369 2378	gastrique
+#1	ICD-O T9	8010/3
+#2	ICD-O T1	C77.9 8000/1
+#3	ICD-O T2	8000/1
+#4	ICD-O T3	8000/1
+#5	ICD-O T4	C41.9 8000/1
+#6	ICD-O T5	C41.9
+#7	ICD-O T6	8000/1
+#8	ICD-O T7	C16.9 8000/1
+#9	ICD-O T8	C16.9
+#10	ICD-O T10	C16.9 8000/3
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	8145/3
+#14	ICD-O T15	C16.9 8145/3
+#15	ICD-O T16	8140/3
+#16	ICD-O T17	C16.9 8140/3
+#17	ICD-O T18	C16.9

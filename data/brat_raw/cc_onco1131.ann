@@ -1,0 +1,22 @@
+T1	expression_CIM 3626 3635	néoplasie
+T2	morphologie 3626 3635	néoplasie
+T4	expression_CIM 4765 4873	lésion kystique a été trouvée dans la région annexielle droite, compatible avec une tumeur dermoïde-tératome
+T6	expression_CIM 5231 5237	tumeur
+T7	morphologie 5231 5237	tumeur
+T8	expression_CIM 5642 5648	tumeur
+T9	morphologie 5642 5648	tumeur
+T10	morphologie 6021 6029	tératome
+T11	expression_CIM 6021 6037	tératome ovarien
+T12	topographie 6030 6037	ovarien
+T3	morphologie 4765 4780;4829 4873	lésion kystique compatible avec une tumeur dermoïde-tératome
+T5	topographie 4803 4820	région annexielle
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T6	8000/1
+#4	ICD-O T7	8000/1
+#5	ICD-O T8	8000/1
+#6	ICD-O T9	8000/1
+#7	ICD-O T10	9080/1
+#8	ICD-O T11	C56.9 9080/1
+#9	ICD-O T12	C56.9
+#10	ICD-O T3	9084/3

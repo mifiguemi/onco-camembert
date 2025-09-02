@@ -1,0 +1,103 @@
+T1	morphologie 71 85	adénocarcinome
+T2	expression_CIM 71 94	adénocarcinome du côlon
+T3	topographie 89 94	côlon
+T4	morphologie 393 407	adénocarcinome
+T5	expression_CIM 393 454	adénocarcinome modérément différencié et infiltrant du rectum
+T6	differenciation 408 430	modérément différencié
+T7	topographie 448 454	rectum
+T8	morphologie 869 877	atteinte
+T9	expression_CIM 869 887	atteinte urétérale
+T10	topographie 878 887	urétérale
+T11	expression_CIM 1528 1536	récidive
+T12	morphologie 1528 1536	récidive
+T13	morphologie 1556 1568	infiltration
+T14	expression_CIM 1556 1577	infiltration vaginale
+T15	topographie 1569 1577	vaginale
+T16	morphologie 1898 1903	masse
+T17	expression_CIM 1898 1926	masse dans l'espace présacré
+T19	expression_CIM 1940 1969	récidive locale de sa maladie
+T20	morphologie 1940 1969	récidive locale de sa maladie
+T21	morphologie 2056 2068	infiltration
+T22	expression_CIM 2056 2102	infiltration de la voûte vaginale, de l'utérus
+T23	topographie 2075 2089	voûte vaginale
+T24	topographie 2096 2102	utérus
+T25	morphologie 2255 2260	Myome
+T26	expression_CIM 2255 2304	Myome sous-muqueux de 1 cm dans la cavité utérine
+T27	topographie 2290 2304	cavité utérine
+T28	expression_CIM 2576 2590	tumeur maligne
+T29	morphologie 2576 2590	tumeur maligne
+T30	topographie 2680 2688	vaginale
+T31	expression_CIM 2680 2709	vaginale (2/2012) : une masse
+T32	morphologie 2704 2709	masse
+T33	expression_CIM 2785 2791	tumeur
+T34	morphologie 2785 2791	tumeur
+T35	topographie 2932 2948	Colon descendant
+T36	expression_CIM 2932 2970	Colon descendant et cæcum sans lésions
+T37	topographie 2952 2957	cæcum
+T38	morphologie 2963 2970	lésions
+T39	expression_CIM 3072 3096	lésion intra-épithéliale
+T41	expression_CIM 3104 3118	tumeur maligne
+T42	morphologie 3104 3118	tumeur maligne
+T43	morphologie 3263 3277	Adénocarcinome
+T44	expression_CIM 3263 3287	Adénocarcinome du rectum
+T45	topographie 3281 3287	rectum
+T46	morphologie 3335 3340	Masse
+T47	expression_CIM 3335 3350	Masse présacrée
+T48	topographie 3341 3350	présacrée
+T49	expression_CIM 3404 3412	récidive
+T50	morphologie 3404 3412	récidive
+T51	expression_CIM 3555 3563	récidive
+T52	morphologie 3555 3563	récidive
+T53	expression_CIM 4011 4017	lésion
+T54	morphologie 4011 4017	lésion
+T18	topographie 1911 1926	espace présacré
+T40	morphologie 3072 3096	lésion intra-épithéliale
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C18.9 8140/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	C20.9 8140/32
+#6	ICD-O T6	2
+#7	ICD-O T7	C20.9
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C66.9 8000/1
+#10	ICD-O T10	C66.9
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C52.9 8000/1
+#15	ICD-O T15	C52.9
+#16	ICD-O T16	8000/1
+#17	ICD-O T20	8000/3
+#18	ICD-O T21	8000/1
+#19	ICD-O T22	C52.9 8000/1;C55.9 8000/1
+#20	ICD-O T23	C52.9
+#21	ICD-O T24	C55.9
+#22	ICD-O T25	8895/0
+#23	ICD-O T26	C55.9 8895/0
+#24	ICD-O T27	C55.9
+#25	ICD-O T28	8000/3
+#26	ICD-O T29	8000/3
+#27	ICD-O T30	C52.9
+#28	ICD-O T32	8000/1
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	8000/1
+#31	ICD-O T35	C18.6
+#32	ICD-O T36	C18.0 8000/1;C18.6 8000/1
+#33	ICD-O T37	C18.0
+#34	ICD-O T38	8000/1
+#35	ICD-O T41	8000/3
+#36	ICD-O T42	8000/3
+#37	ICD-O T43	8140/3
+#38	ICD-O T44	C20.9 8140/3
+#39	ICD-O T45	C20.9
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	C76.3 8000/1
+#42	ICD-O T48	C76.3
+#43	ICD-O T49	8000/6
+#44	ICD-O T50	8000/6
+#45	ICD-O T51	8000/6
+#46	ICD-O T52	8000/6
+#47	ICD-O T53	8000/1
+#48	ICD-O T54	8000/1
+#49	ICD-O T40	8010/1

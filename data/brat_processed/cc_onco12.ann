@@ -1,0 +1,15 @@
+T1	morphologie 191 215	mélanome nodulaire malin
+T3	topographie 231 240	pectorale
+T5	morphologie 363 371	mélanome
+T6	morphologie 580 587	nodules
+T8	topographie 588 599	pulmonaires
+T9	morphologie 607 623	lésion nodulaire
+T11	topographie 652 669	vésicule biliaire
+T13	morphologie 691 700	métastase
+T14	morphologie 1340 1349	métastase
+T16	topographie 1350 1366	intravésiculaire
+T17	morphologie 1654 1660	lésion
+T19	topographie 1661 1677	intravésiculaire
+T21	morphologie 4434 4458	progression métastatique
+T22	morphologie 4580 4589	métastase
+T24	topographie 4598 4615	vésicule biliaire

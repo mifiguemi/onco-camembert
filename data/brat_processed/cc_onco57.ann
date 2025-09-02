@@ -1,0 +1,38 @@
+T1	morphologie 146 151	masse
+T3	topographie 152 168	latéro-cervicale
+T4	morphologie 258 263	Masse
+T6	topographie 276 292	latéro-cervicale
+T8	morphologie 483 488	masse
+T9	morphologie 596 601	masse
+T12	morphologie 653 678	conglomérat adénopathique
+T13	morphologie 859 879	carcinome papillaire
+T15	topographie 886 894	thyroïde
+T16	morphologie 908 928	Carcinome papillaire
+T18	topographie 935 943	thyroïde
+T20	morphologie 952 960	stade IV
+T22	morphologie 1034 1059	conglomérat adénopathique
+T24	morphologie 1095 1121	positive pour la malignité
+T25	morphologie 1403 1432	lymphadénopathie métastatique
+T27	topographie 1433 1442	cervicale
+T28	morphologie 1462 1482	carcinome papillaire
+T30	topographie 1489 1497	thyroïde
+T31	morphologie 1733 1740	maladie
+T33	topographie 1763 1773	pulmonaire
+T34	morphologie 1788 1795	nodules
+T36	topographie 1839 1860	parenchyme pulmonaire
+T37	morphologie 1891 1897	lésion
+T39	topographie 1898 1921	ganglionnaire cervicale
+T41	morphologie 1977 1984	tumeurs
+T43	morphologie 2226 2235	néoplasme
+T44	morphologie 2287 2312	conglomérat adénopathique
+T46	topographie 2313 2321	cervical
+T47	morphologie 2847 2853	lésion
+T49	topographie 2885 2899	lobe supérieur
+T50	morphologie 3220 3241	maladie ganglionnaire
+T52	topographie 3242 3251	cervicale
+T53	morphologie 3265 3271	lésion
+T57	morphologie 3473 3479	lésion
+T59	morphologie 3528 3548	maladie métastatique
+T61	morphologie 3625 3631	lésion
+T63	morphologie 3682 3702	maladie métastatique
+T55	topographie 3290 3311	sous-cortical frontal

@@ -1,0 +1,60 @@
+T11	morphologie 2036 2058	infiltration nodulaire
+T1	expression_CIM 1234 1240	masses
+T2	morphologie 1234 1240	masses
+T3	morphologie 1744 1749	masse
+T4	expression_CIM 1744 1874	masse hétérogène avec une zone centrale hypodense évocatrice de nécrose mesurant 10 x 17 x 19 cm située dans la région péritonéale
+T6	expression_CIM 1986 1998	adénopathies
+T7	morphologie 1986 1998	adénopathies
+T8	morphologie 2002 2014	conglomérats
+T9	expression_CIM 2002 2028	conglomérats mésentériques
+T10	topographie 2015 2028	mésentériques
+T12	expression_CIM 2036 2072	infiltration nodulaire de la graisse
+T13	topographie 2065 2072	graisse
+T14	expression_CIM 2087 2100	carcinomatose
+T15	morphologie 2087 2100	carcinomatose
+T16	expression_CIM 2214 2219	masse
+T17	morphologie 2214 2219	masse
+T18	expression_CIM 2233 2240	lésions
+T19	morphologie 2233 2240	lésions
+T20	expression_CIM 2256 2291	implication métastatique à distance
+T21	morphologie 2256 2291	implication métastatique à distance
+T22	morphologie 2359 2373;2386 2394	tumeur maligne primaire
+T23	expression_CIM 2359 2394	tumeur maligne péritonéale primaire
+T24	topographie 2374 2385	péritonéale
+T25	morphologie 3136 3142	lésion
+T26	expression_CIM 3136 3154	lésion péritonéale
+T27	topographie 3143 3154	péritonéale
+T28	expression_CIM 3214 3248	tumeur stromale gastro-intestinale
+T29	morphologie 3214 3248	tumeur stromale gastro-intestinale
+T30	expression_CIM 3250 3254	GIST
+T31	morphologie 3250 3254	GIST
+T5	topographie 1856 1874	région péritonéale
+#1	ICD-O T11	8000/1
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	8000/1
+#4	ICD-O T3	8000/1
+#5	ICD-O T4	C48.2 8000/1
+#6	ICD-O T6	C77.9 8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C48.1 8000/1
+#10	ICD-O T10	C48.1
+#11	ICD-O T12	C49.9 8000/1
+#12	ICD-O T13	C49.9
+#13	ICD-O T14	8010/9
+#14	ICD-O T15	8010/9
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	C48.2 8000/6
+#22	ICD-O T24	C48.2
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	C48.2 8000/1
+#25	ICD-O T27	C48.2
+#26	ICD-O T28	8936/1
+#27	ICD-O T29	8936/1
+#28	ICD-O T30	8936/1
+#29	ICD-O T31	8936/1

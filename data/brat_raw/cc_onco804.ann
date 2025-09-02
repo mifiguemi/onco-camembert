@@ -1,0 +1,160 @@
+T80	topographie 6293 6318	ligament gastro-hépatique
+T81	topographie 6323 6333	porto-cava
+T1	morphologie 418 430	adénopathies
+T2	expression_CIM 418 544	adénopathies d'aspect pathologique, dont la plus importante était spatialement liée à la tête du pancréas et au hile hépatique
+T3	topographie 507 523	tête du pancréas
+T4	topographie 530 544	hile hépatique
+T5	morphologie 1195 1200	masse
+T6	expression_CIM 1195 1229	masse mal définie dans l'épigastre
+T7	topographie 1220 1229	épigastre
+T8	morphologie 1907 1932	conglomérat adénopathique
+T9	expression_CIM 1907 1948	conglomérat adénopathique rétropéritonéal
+T10	topographie 1933 1948	rétropéritonéal
+T11	expression_CIM 1979 1988	métastase
+T12	morphologie 1979 1988	métastase
+T13	expression_CIM 1992 2001	carcinome
+T14	morphologie 1992 2001	carcinome
+T15	expression_CIM 2270 2279	métastase
+T16	morphologie 2270 2279	métastase
+T17	expression_CIM 2285 2304	carcinome hépatoïde
+T18	morphologie 2285 2304	carcinome hépatoïde
+T19	expression_CIM 2366 2381	hépatocarcinome
+T20	morphologie 2366 2381	hépatocarcinome
+T21	expression_CIM 2389 2457	variante hépatoïde de la tumeur germinale de type sinus endodermique
+T22	morphologie 2389 2457	variante hépatoïde de la tumeur germinale de type sinus endodermique
+T23	expression_CIM 2668 2679	adénopathie
+T24	morphologie 2668 2679	adénopathie
+T25	topographie 2708 2712	foie
+T26	expression_CIM 2708 2731	foie avec lésion focale
+T27	morphologie 2718 2731	lésion focale
+T28	morphologie 2776 2798	atteinte adénopathique
+T29	expression_CIM 2776 2843	atteinte adénopathique abdominale, rétropéritonéale et mésentérique
+T30	topographie 2799 2809	abdominale
+T31	topographie 2811 2827	rétropéritonéale
+T32	topographie 2831 2843	mésentérique
+T33	expression_CIM 2969 2996	conglomérats adénopathiques
+T34	morphologie 2969 2996	conglomérats adénopathiques
+T35	morphologie 2998 3020	Lésion de type tumoral
+T36	expression_CIM 2998 3046	Lésion de type tumoral dans le corps du pancréas
+T37	topographie 3029 3046	corps du pancréas
+T38	morphologie 3159 3165	Lésion
+T39	expression_CIM 3159 3187	Lésion millimétrique du foie
+T40	topographie 3183 3187	foie
+T41	morphologie 3210 3218	tératome
+T42	expression_CIM 3210 3226	tératome ovarien
+T43	topographie 3219 3226	ovarien
+T44	expression_CIM 3377 3396	Carcinome hépatoïde
+T45	morphologie 3377 3396	Carcinome hépatoïde
+T46	morphologie 3450 3459	métastase
+T47	expression_CIM 3450 3472	métastase pancréatique
+T48	topographie 3460 3472	pancréatique
+T49	morphologie 3493 3505	adénopathies
+T50	expression_CIM 3493 3531	adénopathies dans la cavité abdominale
+T51	topographie 3514 3531	cavité abdominale
+T52	expression_CIM 3747 3766	carcinome hépatoïde
+T53	morphologie 3747 3766	carcinome hépatoïde
+T54	expression_CIM 3773 3811	tumeur du sinus endodermique hépatoïde
+T55	morphologie 3773 3811	tumeur du sinus endodermique hépatoïde
+T56	morphologie 3860 3875	tumeur primaire
+T57	expression_CIM 3860 3904	tumeur primaire se trouvait dans le pancréas
+T58	topographie 3896 3904	pancréas
+T59	morphologie 3949 3955	lésion
+T60	expression_CIM 3949 3991	lésion hypodense dans le corps du pancréas
+T61	topographie 3974 3991	corps du pancréas
+T62	expression_CIM 4005 4020	tumeur primaire
+T63	morphologie 4005 4020	tumeur primaire
+T64	expression_CIM 4242 4260	maladie disséminée
+T65	morphologie 4242 4260	maladie disséminée
+T66	morphologie 5110 5132	atteinte adénopathique
+T67	expression_CIM 5110 5153	atteinte adénopathique infradiaphragmatique
+T68	topographie 5133 5153	infradiaphragmatique
+T69	morphologie 5163 5179	lésion primitive
+T70	expression_CIM 5163 5191	lésion primitive du pancréas
+T71	topographie 5183 5191	pancréas
+T72	morphologie 5240 5255	Tératome mature
+T73	expression_CIM 5240 5277	Tératome mature au niveau de l'annexe
+T74	topographie 5271 5277	annexe
+T75	morphologie 5519 5530	adénopathie
+T76	expression_CIM 5519 5545	adénopathie interaortocave
+T77	topographie 5531 5545	interaortocave
+T78	morphologie 6254 6266	adénopathies
+T79	expression_CIM 6254 6354	adénopathies volumineuses au niveau du ligament gastro-hépatique, du porto-cava et du rétropéritoine
+T82	topographie 6340 6354	rétropéritoine
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.2 8000/1
+#3	ICD-O T3	C25.0
+#4	ICD-O T4	C22.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C76.2 8000/1
+#7	ICD-O T7	C76.2
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C77.2 8000/1
+#10	ICD-O T10	C48.0
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8010/3
+#14	ICD-O T14	8010/3
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	8576/3
+#18	ICD-O T18	8576/3
+#19	ICD-O T19	8170/3
+#20	ICD-O T20	8170/3
+#21	ICD-O T21	9071/3
+#22	ICD-O T22	9071/3
+#23	ICD-O T23	C77.9 8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	C22.0
+#26	ICD-O T27	tocheck
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	C77.2 8000/1
+#29	ICD-O T30	C76.2
+#30	ICD-O T31	C48.0
+#31	ICD-O T32	C48.1
+#32	ICD-O T33	C77.9 8000/1
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	8000/3
+#35	ICD-O T36	C25.1 8000/3
+#36	ICD-O T37	C25.1
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	C22.0 8000/1
+#39	ICD-O T40	C22.0
+#40	ICD-O T41	9080/1
+#41	ICD-O T42	C56.9 9080/1
+#42	ICD-O T43	C56.9
+#43	ICD-O T44	8576/3
+#44	ICD-O T45	8576/3
+#45	ICD-O T46	8000/6
+#46	ICD-O T47	C25.9 8000/6
+#47	ICD-O T48	C25.9
+#48	ICD-O T49	8000/1
+#49	ICD-O T50	C77.2 8000/1
+#50	ICD-O T51	C76.2
+#51	ICD-O T52	8576/3
+#52	ICD-O T53	8576/3
+#53	ICD-O T54	9071/3
+#54	ICD-O T55	9071/3
+#55	ICD-O T56	8000/3
+#56	ICD-O T57	C25.9 8000/3
+#57	ICD-O T58	C25.9
+#58	ICD-O T59	8000/1
+#59	ICD-O T60	C25.1 8000/1
+#60	ICD-O T61	C25.1
+#61	ICD-O T62	8000/3
+#62	ICD-O T63	8000/3
+#63	ICD-O T64	8000/6
+#64	ICD-O T65	8000/6
+#65	ICD-O T66	8000/1
+#66	ICD-O T67	C77.2 8000/1
+#67	ICD-O T68	C49.8
+#68	ICD-O T69	8000/3
+#69	ICD-O T70	C25.9 8000/3
+#70	ICD-O T71	C25.9
+#71	ICD-O T72	9080/0
+#72	ICD-O T73	C56.9 9080/0
+#73	ICD-O T74	C56.9
+#74	ICD-O T75	8000/1
+#75	ICD-O T76	C77.1 8000/1
+#76	ICD-O T77	C76.1
+#77	ICD-O T78	8000/1
+#78	ICD-O T82	C48.0

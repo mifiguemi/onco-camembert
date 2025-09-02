@@ -1,0 +1,32 @@
+T37	topographie 4007 4020	para-aortique
+T2	morphologie 616 622	masses
+T3	morphologie 1095 1100	masse
+T5	topographie 1114 1125	sinus rénal
+T7	morphologie 1200 1228	carcinome à cellules rénales
+T8	morphologie 1444 1449	masse
+T10	topographie 1450 1456	rénale
+T12	morphologie 1473 1491	maladie à distance
+T13	morphologie 1688 1694	tumeur
+T52	morphologie 1703 1744	variante histologique, à cellules claires
+T15	topographie 1695 1701	rénale
+T16	morphologie 1771 1783	infiltration
+T18	topographie 1788 1797	vaisseaux
+T19	morphologie 1909 1915	cancer
+T21	topographie 1919 1923	rein
+T22	morphologie 2152 2160	atteinte
+T24	topographie 2161 2171	vasculaire
+T25	morphologie 2221 2227	cancer
+T27	topographie 2231 2235	rein
+T28	morphologie 2669 2685	lymphadénopathie
+T30	topographie 2686 2702	rétropéritonéale
+T32	morphologie 3094 3106	adénopathies
+T34	morphologie 3450 3473	stabilité de la maladie
+T35	morphologie 3987 4006	structure nodulaire
+T39	morphologie 4345 4367	foyer hypermétabolique
+T40	morphologie 4414 4439	conglomérat adénopathique
+T42	topographie 4440 4455	rétropéritonéal
+T43	morphologie 5332 5357	conglomérat adénopathique
+T45	topographie 5358 5373	rétropéritonéal
+T47	morphologie 5535 5557	foyer hypermétabolique
+T49	morphologie 5572 5589	atteinte tumorale
+T51	morphologie 5727 5746	maladie néoplasique

@@ -1,0 +1,68 @@
+T1	morphologie 245 254	néoplasie
+T2	expression_CIM 245 266	néoplasie du sigmoïde
+T3	topographie 258 266	sigmoïde
+T4	expression_CIM 307 316	néoplasie
+T5	morphologie 307 316	néoplasie
+T6	morphologie 419 427	mélanome
+T7	expression_CIM 419 438	mélanome choroïdien
+T8	topographie 428 438	choroïdien
+T9	morphologie 587 601	adénocarcinome
+T10	expression_CIM 587 621	adénocarcinome du côlon transverse
+T11	topographie 605 621	côlon transverse
+T12	morphologie 638 663	lésions occupant l'espace
+T13	expression_CIM 638 676	lésions occupant l'espace dans le foie
+T14	topographie 672 676	foie
+T15	morphologie 867 881	adénocarcinome
+T16	expression_CIM 867 903	adénocarcinome du côlon de bas grade
+T17	topographie 885 890	côlon
+T18	differenciation 894 903	bas grade
+T19	morphologie 995 1002	lésions
+T20	expression_CIM 995 1013	lésions hépatiques
+T21	topographie 1003 1013	hépatiques
+T22	morphologie 1078 1087	métastase
+T23	expression_CIM 1078 1097	métastase hépatique
+T24	topographie 1088 1097	hépatique
+T25	expression_CIM 1107 1115	mélanome
+T26	morphologie 1107 1115	mélanome
+T27	expression_CIM 1279 1287	mélanome
+T28	morphologie 1279 1287	mélanome
+T29	expression_CIM 1291 1299	stade IV
+T30	morphologie 1291 1299	stade IV
+T31	expression_CIM 2550 2558	Mélanome
+T32	morphologie 2550 2558	Mélanome
+T33	expression_CIM 2562 2570	stade IV
+T34	morphologie 2562 2570	stade IV
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C18.7 8000/1
+#3	ICD-O T3	C18.7
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8720/3
+#7	ICD-O T7	C69.3 8720/3
+#8	ICD-O T8	C69.3
+#9	ICD-O T9	8140/3
+#10	ICD-O T10	C18.4 8140/3
+#11	ICD-O T11	C18.4
+#12	ICD-O T12	8000/1
+#13	ICD-O T14	C22.0
+#14	ICD-O T15	8140/3
+#15	ICD-O T16	C18.9 8140/31
+#16	ICD-O T17	C18.9
+#17	ICD-O T18	1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C22.0 8000/1
+#20	ICD-O T21	C22.0
+#21	ICD-O T22	8000/6
+#22	ICD-O T23	C22.0 8000/6
+#23	ICD-O T24	C22.0
+#24	ICD-O T25	8720/3
+#25	ICD-O T26	8720/3
+#26	ICD-O T27	8720/3
+#27	ICD-O T28	8720/3
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	8000/6
+#30	ICD-O T31	8720/3
+#31	ICD-O T32	8720/3
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	8000/6
+#34	AnnotatorNotes T12	trad

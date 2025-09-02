@@ -1,0 +1,19 @@
+T1	morphologie 1819 1829	métastases
+T3	topographie 1845 1850	corps
+T4	morphologie 1865 1873	atteinte
+T6	topographie 1880 1895	moelle épinière
+T7	morphologie 2268 2281	carcinomatose
+T9	topographie 2282 2290	méningée
+T10	morphologie 2668 2681	carcinomatose
+T12	topographie 2682 2690	méningée
+T14	morphologie 2713 2720	lésions
+T15	morphologie 3426 3434	atteinte
+T29	morphologie 3443 3455	métastatique
+T17	topographie 3435 3442	osseuse
+T18	morphologie 3458 3472	Adénocarcinome
+T20	topographie 3488 3493	sigma
+T21	morphologie 5319 5329	métastases
+T23	topographie 5330 5338	osseuses
+T25	morphologie 5368 5374	cancer
+T26	morphologie 6128 6134	lésion
+T28	topographie 6149 6161	aile iliaque

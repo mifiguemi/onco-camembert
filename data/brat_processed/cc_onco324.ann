@@ -1,0 +1,49 @@
+T1	morphologie 512 518	lésion
+T3	topographie 540 555	corps gastrique
+T4	morphologie 590 604	adénocarcinome
+T6	topographie 605 615	intestinal
+T8	morphologie 694 710	lymphadénopathie
+T9	morphologie 731 742	hémangiomes
+T11	topographie 743 753	hépatiques
+T12	morphologie 959 968	métastase
+T14	topographie 969 978	hépatique
+T15	morphologie 1077 1091	adénocarcinome
+T17	topographie 1092 1101	gastrique
+T18	topographie 1105 1121	corps intestinal
+T20	morphologie 1125 1133	stade IV
+T21	morphologie 1180 1190	métastases
+T23	topographie 1191 1201	hépatiques
+T24	morphologie 1846 1852	lésion
+T26	topographie 1877 1886	hépatique
+T28	morphologie 2478 2493	tumeur primaire
+T29	morphologie 2619 2625	lésion
+T31	topographie 2626 2635	hépatique
+T33	morphologie 2700 2717	cellules malignes
+T34	morphologie 2758 2771	carcinomatose
+T36	topographie 2772 2783	péritonéale
+T38	morphologie 2831 2848	cellules malignes
+T39	morphologie 2913 2927	adénocarcinome
+T77	morphologie 2951 2969	de type intestinal
+T41	differenciation 2928 2943	peu différencié
+T42	morphologie 3094 3102	invasion
+T44	topographie 3103 3113	vasculaire
+T45	morphologie 3125 3133	invasion
+T47	topographie 3134 3145	périneurale
+T49	morphologie 3200 3209	néoplasie
+T51	morphologie 3332 3341	néoplasie
+T52	morphologie 3497 3503	lésion
+T56	morphologie 3553 3563	métastases
+T57	morphologie 3601 3607	nodule
+T78	morphologie 3621 3637	hypermétabolique
+T59	morphologie 3689 3700	progression
+T61	topographie 3701 3710	hépatique
+T62	morphologie 4307 4313	lésion
+T64	topographie 4314 4323	hépatique
+T66	morphologie 4627 4632	foyer
+T68	morphologie 4646 4652	tumeur
+T70	morphologie 4680 4689	métastase
+T71	morphologie 4693 4702	carcinome
+T73	differenciation 4703 4718	peu différencié
+T74	topographie 4729 4738	gastrique
+T76	morphologie 4846 4854	récidive
+T54	topographie 3507 3527	segment VI hépatique

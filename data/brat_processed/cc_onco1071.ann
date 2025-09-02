@@ -1,0 +1,48 @@
+T1	morphologie 191 202	hémangiomes
+T3	topographie 203 213	hépatiques
+T4	morphologie 388 393	masse
+T6	topographie 394 400	rénale
+T7	morphologie 498 504	nodule
+T9	topographie 527 533	poumon
+T10	morphologie 549 565	lymphadénopathie
+T12	topographie 566 578	médiastinale
+T13	topographie 584 593	trachéale
+T14	morphologie 773 779	cancer
+T74	morphologie 786 804	à cellules claires
+T16	topographie 780 785	rénal
+T17	differenciation 808 828	grade III de Furhman
+T18	morphologie 849 868	foyers néoplasiques
+T20	topographie 882 895	tissu adipeux
+T21	topographie 896 904	périnéal
+T23	morphologie 2789 2801	adénopathies
+T24	morphologie 2829 2841	adénopathies
+T26	topographie 2842 2855	médiastinales
+T27	morphologie 2862 2868	nodule
+T29	topographie 2886 2896	lobe moyen
+T30	morphologie 3202 3208	lésion
+T32	topographie 3235 3249	intestin grêle
+T34	morphologie 3481 3487	lésion
+T36	morphologie 3535 3540	masse
+T37	morphologie 3779 3807	néoplasme à cellules claires
+T39	differenciation 3817 3858	zones de haut et de bas grade cytologique
+T41	morphologie 3935 3944	métastase
+T43	morphologie 3948 3976	carcinome à cellules claires
+T45	morphologie 4036 4042	lésion
+T47	morphologie 4107 4112	masse
+T49	morphologie 4254 4279	tumeur à cellules claires
+T51	morphologie 4300 4309	métastase
+T52	morphologie 4315 4324	carcinome
+T54	topographie 4325 4330	rénal
+T56	morphologie 4405 4411	tumeur
+T57	morphologie 4519 4526	lésions
+T59	topographie 4527 4555	ganglionnaires médiastinales
+T60	morphologie 4719 4728	métastase
+T62	topographie 4729 4737	jéjunale
+T63	morphologie 4752 4761	carcinome
+T75	morphologie 4768 4786	à cellules claires
+T65	topographie 4762 4767	rénal
+T66	morphologie 4791 4801	métastases
+T68	topographie 4802 4830	ganglionnaires médiastinales
+T69	morphologie 4851 4857	nodule
+T71	topographie 4858 4868	pulmonaire
+T73	morphologie 5501 5528	stabilisation de la maladie

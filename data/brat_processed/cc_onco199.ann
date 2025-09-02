@@ -1,0 +1,41 @@
+T1	morphologie 200 209	néoplasie
+T3	topographie 210 216	rénale
+T5	morphologie 343 359	lésion nodulaire
+T6	morphologie 532 571	carcinome papillaire à cellules claires
+T8	differenciation 619 637	grade 2 de Fuhrman
+T10	morphologie 665 671	tumeur
+T12	morphologie 785 793	récidive
+T13	morphologie 1543 1548	masse
+T15	topographie 1603 1623	médiastin postérieur
+T16	morphologie 1822 1844	masse hypermétabolique
+T19	topographie 1900 1907	hilaire
+T21	morphologie 1935 1952	masse néoplasique
+T23	morphologie 2002 2027	conglomérat adénopathique
+T24	morphologie 2037 2043	lésion
+T65	morphologie 2055 2064	primitive
+T26	topographie 2044 2054	bronchique
+T28	morphologie 2138 2147	carcinome
+T29	morphologie 2276 2283	tumeurs
+T31	topographie 2284 2295	thoraciques
+T33	morphologie 2400 2405	masse
+T35	morphologie 2437 2452	tumeur primaire
+T37	morphologie 2460 2469	métastase
+T39	morphologie 2487 2493	tumeur
+T40	morphologie 2561 2572	adénopathie
+T42	topographie 2573 2586	sous-carénale
+T44	morphologie 2609 2618	métastase
+T46	morphologie 2622 2631	carcinome
+T47	morphologie 2729 2738	Métastase
+T49	topographie 2739 2751	médiastinale
+T50	morphologie 2757 2766	carcinome
+T66	morphologie 2773 2781	primaire
+T52	topographie 2767 2772	rénal
+T53	morphologie 3481 3486	masse
+T55	topographie 3487 3499	médiastinale
+T56	topographie 3500 3514	infracarinaire
+T57	morphologie 3604 3615	adénopathie
+T59	topographie 3616 3623	iliaque
+T60	morphologie 3647 3658	adénopathie
+T62	topographie 3659 3666	iliaque
+T64	morphologie 4669 4677	récidive
+T18	topographie 1886 1896	subcarinal

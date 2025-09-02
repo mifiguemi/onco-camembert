@@ -1,0 +1,109 @@
+T1	morphologie 553 565	adénopathies
+T2	expression_CIM 553 625	adénopathies aux niveaux cervical tardif, supraclaviculaire et axillaire
+T3	topographie 578 586	cervical
+T4	topographie 595 612	supraclaviculaire
+T5	topographie 616 625	axillaire
+T6	expression_CIM 1467 1484	lymphadénopathies
+T7	morphologie 1467 1484	lymphadénopathies
+T8	morphologie 1629 1651	atteinte adénopathique
+T9	expression_CIM 1629 1800	atteinte adénopathique supra- et infradiaphragmatique, principalement supraclaviculaire droite, axillaire gauche, hiliomédiastinale, rétropéritonéale, iliaque et inguinale
+T10	topographie 1652 1682	supra- et infradiaphragmatique
+T11	topographie 1699 1716	supraclaviculaire
+T12	topographie 1725 1734	axillaire
+T13	topographie 1743 1760	hiliomédiastinale
+T14	topographie 1762 1778	rétropéritonéale
+T15	topographie 1780 1787	iliaque
+T16	topographie 1791 1800	inguinale
+T17	morphologie 1826 1833	lésions
+T18	expression_CIM 1826 1844	lésions spléniques
+T19	topographie 1834 1844	spléniques
+T20	morphologie 1870 1877	lésions
+T21	expression_CIM 1870 1886	lésions osseuses
+T22	topographie 1878 1886	osseuses
+T23	expression_CIM 1966 1993	syndrome lymphoprolifératif
+T24	morphologie 1966 1993	syndrome lymphoprolifératif
+T25	expression_CIM 2062 2074	adénopathies
+T26	morphologie 2062 2074	adénopathies
+T27	expression_CIM 2126 2141	néoplasme malin
+T28	morphologie 2126 2141	néoplasme malin
+T29	expression_CIM 2259 2306	sarcome des cellules dendritiques folliculaires
+T30	morphologie 2259 2306	sarcome des cellules dendritiques folliculaires
+T31	expression_CIM 2362 2374	myélofibrose
+T32	morphologie 2362 2374	myélofibrose
+T33	expression_CIM 2390 2414	infiltration néoplasique
+T34	morphologie 2390 2414	infiltration néoplasique
+T35	expression_CIM 2457 2502	sarcome à cellules dendritiques folliculaires
+T36	morphologie 2457 2502	sarcome à cellules dendritiques folliculaires
+T37	expression_CIM 2506 2514	stade IV
+T38	morphologie 2506 2514	stade IV
+T39	morphologie 2560 2567	lésions
+T40	expression_CIM 2560 2576	lésions osseuses
+T41	topographie 2568 2576	osseuses
+T42	expression_CIM 2583 2603	pathologie lymphoïde
+T44	expression_CIM 2660 2671	adénopathie
+T45	morphologie 2660 2671	adénopathie
+T46	expression_CIM 2937 2960	lymphome non hodgkinien
+T47	morphologie 2937 2960	lymphome non hodgkinien
+T48	expression_CIM 3321 3339	maladie de Hodgkin
+T49	morphologie 3321 3339	maladie de Hodgkin
+T50	expression_CIM 3925 3981	lymphome de Hodgkin classique de type sclérose nodulaire
+T51	morphologie 3925 3981	lymphome de Hodgkin classique de type sclérose nodulaire
+T52	expression_CIM 3985 3994	stade IVB
+T53	morphologie 3985 3994	stade IVB
+T54	expression_CIM 4669 4677	récidive
+T55	morphologie 4669 4677	récidive
+T43	morphologie 2583 2603	pathologie lymphoïde
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1;C77.3 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	C76.1
+#6	ICD-O T6	C77.9 8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C77.0 8000/1;C77.1 8000/1;C77.2 8000/1;C77.3 8000/1;C77.4 8000/1;C77.5 8000/1
+#10	ICD-O T10	C76.8
+#11	ICD-O T11	C76.0
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	C76.1
+#14	ICD-O T14	C48.0
+#15	ICD-O T15	C41.4
+#16	ICD-O T16	C76.3
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C42.2 8000/1
+#19	ICD-O T19	C42.2
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C41.9 8000/1
+#22	ICD-O T22	C41.9
+#23	ICD-O T23	9970/1
+#24	ICD-O T24	9970/1
+#25	ICD-O T25	C77.9 8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8000/3
+#28	ICD-O T28	8000/3
+#29	ICD-O T29	9758/3
+#30	ICD-O T30	9758/3
+#31	ICD-O T31	9931/3
+#32	ICD-O T32	9931/3
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	9758/3
+#36	ICD-O T36	9758/3
+#37	ICD-O T37	8000/6
+#38	ICD-O T38	8000/6
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	C41.9 8000/1
+#41	ICD-O T41	C41.9
+#42	ICD-O T44	C77.9 8000/1
+#43	ICD-O T45	8000/1
+#44	ICD-O T46	9591/3
+#45	ICD-O T47	9591/3
+#46	ICD-O T48	9650/3
+#47	ICD-O T49	9650/3
+#48	ICD-O T50	9663/3
+#49	ICD-O T51	9663/3
+#50	ICD-O T52	8000/6
+#51	ICD-O T53	8000/6
+#52	ICD-O T54	8000/6
+#53	ICD-O T55	8000/6
+#54	ICD-O T43	9820/3

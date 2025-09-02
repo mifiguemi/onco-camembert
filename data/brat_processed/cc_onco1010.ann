@@ -1,0 +1,66 @@
+T1	morphologie 137 152	médulloblastome
+T3	topographie 159 176	fosse postérieure
+T4	morphologie 542 554	adénopathies
+T6	topographie 555 572	latéro-cervicales
+T7	morphologie 1153 1165	adénopathies
+T9	topographie 1166 1182	latérocervicales
+T10	morphologie 1392 1398	tumeur
+T12	topographie 1399 1411	thyroïdienne
+T13	morphologie 1461 1482	masses adénopathiques
+T15	topographie 1483 1498	endothoraciques
+T18	morphologie 1555 1561	Tumeur
+T20	topographie 1576 1590	lobe supérieur
+T22	morphologie 1646 1674	processus lymphoprolifératif
+T24	morphologie 1692 1695	LNH
+T25	morphologie 1752 1759	tumeurs
+T98	morphologie 1774 1783	primaires
+T27	topographie 1760 1773	thyroïdiennes
+T28	morphologie 1789 1799	métastases
+T30	topographie 1809 1844	ganglions lymphatiques médiastinaux
+T31	topographie 1851 1872	parenchyme pulmonaire
+T33	morphologie 1927 1944	cellules malignes
+T34	morphologie 1946 1955	Carcinome
+T36	topographie 1956 1966	thyroïdien
+T37	morphologie 2011 2020	carcinome
+T39	differenciation 2021 2036	peu différencié
+T41	morphologie 2055 2061	tumeur
+T42	morphologie 2171 2182	adénopathie
+T44	topographie 2183 2199	latéro-cervicale
+T46	morphologie 2207 2216	métastase
+T47	morphologie 2222 2231	carcinome
+T49	differenciation 2232 2247	peu différencié
+T51	morphologie 2253 2271	cellules tumorales
+T52	topographie 2486 2498	thyroïdienne
+T54	morphologie 2505 2511	tumeur
+T55	morphologie 2534 2555	infiltration tumorale
+T57	topographie 2562 2570	thyroïde
+T58	morphologie 2574 2586	infiltration
+T60	topographie 2587 2597	pulmonaire
+T61	morphologie 2601 2627	infiltration adénopathique
+T63	topographie 2628 2643	latérocervicale
+T64	topographie 2656 2672	sus-claviculaire
+T65	topographie 2673 2680	nuchale
+T66	topographie 2691 2703	médiastinale
+T67	morphologie 2731 2740	carcinome
+T69	differenciation 2752 2767	peu différencié
+T71	morphologie 2799 2807	stade IV
+T72	morphologie 2813 2835	atteinte adénopathique
+T74	topographie 2837 2866	endothoracique sous-carénaire
+T75	topographie 2870 2877	hilaire
+T76	morphologie 2893 2902	métastase
+T78	topographie 2903 2913	pulmonaire
+T79	morphologie 2915 2921	nodule
+T81	topographie 2937 2951	lobe supérieur
+T82	morphologie 3383 3392	carcinome
+T84	topographie 3393 3403	thyroïdien
+T85	differenciation 3404 3417	indifférencié
+T87	morphologie 3443 3455	adénopathies
+T88	morphologie 3967 3979	adénopathies
+T90	topographie 3980 3993	médiastinales
+T91	topographie 3997 4005	hilaires
+T92	morphologie 4040 4046	lésion
+T94	topographie 4065 4079	lobe supérieur
+T95	morphologie 4117 4128	adénopathie
+T97	topographie 4129 4136	hilaire
+T17	topographie 1528 1553	deux hilaires pulmonaires
+T16	topographie 1509 1520	souscarinal

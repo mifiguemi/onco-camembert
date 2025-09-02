@@ -75,26 +75,6 @@ def load_ner_dataframe(input_dir):
     return pd.DataFrame(rows)
 
 
-# def load_ner_dataframe(input_dir):
-#     """
-#     Walk through all .txt/.ann pairs in input_dir, 
-#     split into sentences, and return a DataFrame with columns ["words","tags"].
-#     """
-#     rows = []
-#     txt_paths = glob.glob(os.path.join(input_dir, "*.txt"))
-#     for txt_path in tqdm(txt_paths, desc="Processing files"):
-#         text = open(txt_path, encoding="utf-8").read()
-#         ann = parse_ann(txt_path[:-4] + ".ann")
-#         for sent in nlp(text).sents:
-#             words = [w.text for w in sent if not w.is_space]
-#             tags  = [get_word_tag(w.idx, w.idx + len(w), ann)
-#                      for w in sent if not w.is_space]
-#             if len(words) != len(tags):
-#                 # skip malformed
-#                 continue
-#             rows.append({"words": words, "tags": tags})
-#     return pd.DataFrame(rows)
-
 
 def split_and_save(df, output_dir, test_size=0.2, random_state=42):
     """
@@ -261,25 +241,6 @@ def build_token_cls(model_name: str, num_labels: int, id2label: dict, label2id: 
     )
 
 
-def hp_space(trial):
-    # define distributions to sample per trial
-    return {
-        "learning_rate": trial.suggest_float("learning_rate", 1e-5, 5e-5, log=True),
-        "num_train_epochs": trial.suggest_int("num_train_epochs", 3, 7),
-        "weight_decay": trial.suggest_float("weight_decay", 0.0, 0.1),
-        # fixed small per-device batch to avoid OOM during search
-        # "per_device_train_batch_size": 4,               # or 8 if you know it fits
-        # keep compute comparable across trials by holding effective batch ~8
-        # "gradient_accumulation_steps": 2,               # 4×2 ≈ 8 effective
-        "warmup_ratio": trial.suggest_float("warmup_ratio", 0.0, 0.2),
-        "per_device_train_batch_size": trial.suggest_categorical("per_device_train_batch_size", [4, 8]),
-        "gradient_accumulation_steps": trial.suggest_categorical("gradient_accumulation_steps", [1, 2]),
-    }
-
-# def compute_objective(metrics):
-#     # trainer.evaluate() returns keys like "eval_f1"
-#     return metrics["eval_f1"]
-
 
 # # overall (micro) F1:
 # compute_objective = lambda m: m["eval_f1"]
@@ -289,63 +250,6 @@ def compute_objective(m, label_list):
     ENTITIES = sorted({lab.split("-", 1)[-1] for lab in label_list if lab != "O"})
     vals = [m.get(f"eval_f1/{e}", 0.0) for e in ENTITIES]
     return float(sum(vals) / len(vals)) if vals else m["eval_f1"]
-
-
-
-# def compute_metrics(p, label_list):
-#     predictions, labels = p
-#     predictions = np.argmax(predictions, axis=2)
-
-#     true_predictions = [
-#         [label_list[p] for (p, l) in zip(prediction, label) if l != -100]
-#         for prediction, label in zip(predictions, labels)
-#     ]
-#     true_labels = [
-#         [label_list[l] for (p, l) in zip(prediction, label) if l != -100]
-#         for prediction, label in zip(predictions, labels)
-#     ]
-
-#     results = seqeval.compute(predictions=true_predictions, references=true_labels)
-#     return {
-#         "precision": results["overall_precision"],
-#         "recall": results["overall_recall"],
-#         "f1": results["overall_f1"],
-#         "accuracy": results["overall_accuracy"],
-#     }
-
-
-# def compute_metrics(p, label_list):
-#     logits, labels = p
-#     preds = np.argmax(logits, axis=-1)
-
-#     # drop subword positions with label -100
-#     true_preds = [
-#         [label_list[pp] for pp, ll in zip(p_seq, l_seq) if ll != -100]
-#         for p_seq, l_seq in zip(preds, labels)
-#     ]
-#     true_labels = [
-#         [label_list[ll] for pp, ll in zip(p_seq, l_seq) if ll != -100]
-#         for p_seq, l_seq in zip(preds, labels)
-#     ]
-
-#     # you can add scheme="IOB2", mode="strict", zero_division=0 if you want
-#     rep = seqeval.compute(predictions=true_preds, references=true_labels, zero_division=0)
-
-#     metrics = {
-#         "precision": rep["overall_precision"],
-#         "recall":    rep["overall_recall"],
-#         "f1":        rep["overall_f1"],
-#         "accuracy":  rep["overall_accuracy"],
-#     }
-#     # per-entity: rep[ENT] = {"precision":..,"recall":..,"f1":..,"number":..}
-#     for ent, stats in rep.items():
-#         if ent.startswith("overall"):
-#             continue
-#         metrics[f"f1_{ent}"] = stats["f1"]
-#         metrics[f"p_{ent}"]  = stats["precision"]
-#         metrics[f"r_{ent}"]  = stats["recall"]
-#         metrics[f"support_{ent}"] = stats.get("number", stats.get("support", 0))
-#     return metrics
 
 
 def compute_metrics(eval_pred, label_list, ignore_index=-100, _np=np, _seqeval=seqeval):

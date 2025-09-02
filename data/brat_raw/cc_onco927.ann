@@ -1,0 +1,95 @@
+T43	topographie 2450 2468	os vertébral L5-S1
+T1	morphologie 180 185	myome
+T2	expression_CIM 180 192	myome utérin
+T3	topographie 186 192	utérin
+T4	morphologie 487 493	cancer
+T5	expression_CIM 487 501	cancer du sein
+T6	topographie 497 501	sein
+T7	morphologie 567 573	cancer
+T8	expression_CIM 567 581	cancer du sein
+T9	topographie 577 581	sein
+T10	morphologie 589 595	cancer
+T11	expression_CIM 589 604	cancer du côlon
+T12	topographie 599 604	côlon
+T13	morphologie 1570 1575	masse
+T14	expression_CIM 1570 1624	masse solide infiltrante dans le corps vertébral de L5
+T15	topographie 1603 1624	corps vertébral de L5
+T16	morphologie 1630 1639	extension
+T17	expression_CIM 1630 1644	extension à S1
+T18	topographie 1642 1644	S1
+T19	morphologie 1890 1895	masse
+T20	expression_CIM 1890 1902	masse rénale
+T21	topographie 1896 1902	rénale
+T22	morphologie 1953 1961	invasion
+T23	expression_CIM 1953 1981	invasion du fascia de Gerota
+T24	topographie 1965 1981	fascia de Gerota
+T25	morphologie 1993 2001	atteinte
+T26	expression_CIM 1993 2028	atteinte des ganglions lymphatiques
+T27	topographie 2006 2028	ganglions lymphatiques
+T28	morphologie 2212 2221;2228 2246	carcinome à cellules claires
+T29	expression_CIM 2212 2276	carcinome rénal à cellules claires, grade nucléaire de Furhman 3
+T30	topographie 2222 2227	rénal
+T31	differenciation 2248 2276	grade nucléaire de Furhman 3
+T32	morphologie 2287 2299	infiltration
+T33	expression_CIM 2287 2323	infiltration douteuse du sinus rénal
+T34	topographie 2312 2323	sinus rénal
+T35	morphologie 2334 2342	invasion
+T36	expression_CIM 2334 2359	invasion lymphovasculaire
+T37	topographie 2343 2359	lymphovasculaire
+T38	expression_CIM 2401 2407	tumeur
+T39	morphologie 2401 2407	tumeur
+T40	morphologie 2430 2438	stade IV
+T41	expression_CIM 2430 2468	stade IV, pT3aN0M1 (os vertébral L5-S1
+T42	stadeTNM 2440 2448	pT3aN0M1
+T44	morphologie 4708 4713	masse
+T45	expression_CIM 4708 4724	masse vertébrale
+T46	topographie 4714 4724	vertébrale
+T47	expression_CIM 5490 5511	cellules néoplasiques
+T48	morphologie 5490 5511	cellules néoplasiques
+#1	ICD-O T1	8895/0
+#2	ICD-O T2	C55.9 8895/0
+#3	ICD-O T3	C55.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C50.9 8000/3
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C50.9 8000/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	C18.9 8000/3
+#12	ICD-O T12	C18.9
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C41.2 8000/1
+#15	ICD-O T15	C41.2
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C41.4 8000/6
+#18	ICD-O T18	C41.4
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C64.9 8000/1
+#21	ICD-O T21	C64.9
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C49.4 8000/1
+#24	ICD-O T24	C49.4
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C77.9 8000/1
+#27	ICD-O T27	C77.9
+#28	ICD-O T28	8310/3
+#29	ICD-O T29	C64.9 8310/33
+#30	ICD-O T30	C64.9
+#31	ICD-O T31	3
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C65.9 8000/1
+#34	ICD-O T34	C65.9
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	C49.9 8000/1
+#37	ICD-O T37	C49.9
+#38	ICD-O T38	8000/1
+#39	ICD-O T39	8000/1
+#40	ICD-O T40	8000/6
+#41	ICD-O T41	C41.2 8000/6;C41.4 8000/6
+#42	ICD-O T42	todelete
+#43	ICD-O T44	8000/1
+#44	ICD-O T45	C41.2 8000/1
+#45	ICD-O T46	C41.2
+#46	ICD-O T47	8000/1
+#47	ICD-O T48	8000/1

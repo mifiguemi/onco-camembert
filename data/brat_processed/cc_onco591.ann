@@ -1,0 +1,34 @@
+T1	morphologie 595 601	lésion
+T3	topographie 615 636	corps vertébral de L3
+T5	morphologie 730 740	hémangiome
+T6	morphologie 836 844	récidive
+T8	topographie 858 860	L3
+T9	morphologie 1951 1958	lésions
+T11	topographie 1976 1979	D12
+T12	topographie 1981 1983	L2
+T13	topographie 1985 1987	L3
+T15	morphologie 2276 2310	lésions lytiques hypermétaboliques
+T17	topographie 2313 2315	C5
+T18	topographie 2317 2319	D6
+T19	topographie 2321 2324	D10
+T20	topographie 2326 2329	D12
+T21	topographie 2331 2335	côte
+T22	topographie 2344 2353	clavicule
+T23	topographie 2362 2372	ala sacrée
+T24	topographie 2381 2393	lame iliaque
+T25	topographie 2402 2409	ischion
+T26	topographie 2413 2423	acétabulum
+T27	morphologie 2473 2479	tumeur
+T29	topographie 2480 2490	vasculaire
+T30	differenciation 2494 2503	bas grade
+T31	morphologie 2523 2535	angiosarcome
+T33	differenciation 2539 2548	bas grade
+T35	morphologie 2555 2580	hémangiome multicentrique
+T36	morphologie 2594 2606	Angiosarcome
+T38	topographie 2607 2613	osseux
+T40	morphologie 2684 2702	néoplasie primaire
+T41	morphologie 3283 3290	lésions
+T43	topographie 3291 3299	osseuses
+T46	morphologie 3385 3406	lésions métastatiques
+T14	topographie 1991 1993	S1
+T44	topographie 3339 3354	squelette axial

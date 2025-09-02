@@ -1,0 +1,92 @@
+T1	morphologie 271 295	carcinome basocellulaire
+T2	expression_CIM 271 306	carcinome basocellulaire de la joue
+T3	topographie 302 306	joue
+T4	expression_CIM 832 837	masse
+T5	morphologie 832 837	masse
+T6	expression_CIM 986 992	lésion
+T7	morphologie 986 992	lésion
+T8	expression_CIM 1188 1194	lésion
+T9	morphologie 1188 1194	lésion
+T10	morphologie 1223 1237	adénocarcinome
+T11	expression_CIM 1223 1251	adénocarcinome indifférencié
+T12	differenciation 1238 1251	indifférencié
+T13	morphologie 1344 1350	tumeur
+T14	expression_CIM 1344 1389	tumeur au niveau de la jonction œso-gastrique
+T15	topographie 1367 1389	jonction œso-gastrique
+T16	morphologie 1397 1409	adénopathies
+T17	expression_CIM 1397 1477	adénopathies juxta-œsophagiennes ainsi qu'au niveau du ligament gastro-hépatique
+T18	topographie 1410 1429	juxta-œsophagiennes
+T19	topographie 1452 1477	ligament gastro-hépatique
+T20	expression_CIM 1486 1506	métastase à distance
+T21	morphologie 1486 1506	métastase à distance
+T22	morphologie 1641 1653	adécarcinome
+T23	expression_CIM 1641 1694	adécarcinome indifférencié localement avancé de l'UGE
+T24	differenciation 1654 1667	indifférencié
+T26	morphologie 2051 2072;2101 2137	adénocarcinome diffus avec des cellules en bague de signet
+T27	expression_CIM 2051 2146	adénocarcinome diffus de grade 3 peu différencié, avec des cellules en bague de signet de l'UGE
+T28	differenciation 2076 2083	grade 3
+T29	differenciation 2084 2099	peu différencié
+T31	expression_CIM 2218 2244	lymphangite carcinomateuse
+T32	morphologie 2218 2244	lymphangite carcinomateuse
+T33	morphologie 2270 2282	infiltration
+T34	expression_CIM 2270 2299	infiltration des lymphatiques
+T35	topographie 2287 2299	lymphatiques
+T36	morphologie 2319 2344	infiltration métastatique
+T37	expression_CIM 2319 2367	infiltration métastatique de 15 des 23 ganglions
+T38	topographie 2358 2367	ganglions
+T39	expression_CIM 2395 2409	adénocarcinome
+T40	morphologie 2395 2409	adénocarcinome
+T41	expression_CIM 2819 2860	tumeur une différenciation neuroendocrine
+T42	morphologie 2819 2860	tumeur une différenciation neuroendocrine
+T43	expression_CIM 2980 2992	tumeur mixte
+T44	morphologie 2980 2992	tumeur mixte
+T45	morphologie 2995 3009;3026 3059	adénocarcinome avec cellules en anneau de signet
+T46	expression_CIM 2995 3059	adénocarcinome peu différencié avec cellules en anneau de signet
+T47	differenciation 3010 3025	peu différencié
+T48	expression_CIM 3063 3087	carcinome neuroendocrine
+T49	morphologie 3063 3087	carcinome neuroendocrine
+T25	topographie 1691 1694	UGE
+T30	topographie 2143 2146	UGE
+#1	ICD-O T1	8090/3
+#2	ICD-O T2	C76.0 8090/3
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8140/3
+#11	ICD-O T11	8140/34
+#12	ICD-O T12	4
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C16.0 8000/1
+#15	ICD-O T15	C16.0
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C77.1 8000/1;C77.2 8000/1
+#18	ICD-O T18	C76.0
+#19	ICD-O T19	C48.1
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8140/3
+#22	ICD-O T24	4
+#23	ICD-O T26	8490/3
+#24	ICD-O T28	3
+#25	ICD-O T29	3
+#26	ICD-O T32	8000/6
+#27	ICD-O T33	8000/9
+#28	ICD-O T35	C77.9
+#29	ICD-O T36	8000/6
+#30	ICD-O T37	C77.9 8000/6
+#31	ICD-O T38	C77.9
+#32	ICD-O T39	8140/3
+#33	ICD-O T40	8140/3
+#34	ICD-O T41	8246/3
+#35	ICD-O T42	8246/3
+#36	ICD-O T43	8940/0
+#37	ICD-O T44	8000/3
+#38	ICD-O T45	8490/3
+#39	ICD-O T47	3
+#40	ICD-O T48	8246/3
+#41	ICD-O T49	8246/3
+#42	AnnotatorNotes T26	trad
+#43	AnnotatorNotes T45	trad

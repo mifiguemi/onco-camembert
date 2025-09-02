@@ -1,0 +1,32 @@
+T43	topographie 2450 2468	os vertébral L5-S1
+T1	morphologie 180 185	myome
+T3	topographie 186 192	utérin
+T4	morphologie 487 493	cancer
+T6	topographie 497 501	sein
+T7	morphologie 567 573	cancer
+T9	topographie 577 581	sein
+T10	morphologie 589 595	cancer
+T12	topographie 599 604	côlon
+T13	morphologie 1570 1575	masse
+T15	topographie 1603 1624	corps vertébral de L5
+T16	morphologie 1630 1639	extension
+T18	topographie 1642 1644	S1
+T19	morphologie 1890 1895	masse
+T21	topographie 1896 1902	rénale
+T22	morphologie 1953 1961	invasion
+T24	topographie 1965 1981	fascia de Gerota
+T25	morphologie 1993 2001	atteinte
+T27	topographie 2006 2028	ganglions lymphatiques
+T28	morphologie 2212 2221	carcinome
+T49	morphologie 2228 2246	à cellules claires
+T30	topographie 2222 2227	rénal
+T31	differenciation 2248 2276	grade nucléaire de Furhman 3
+T32	morphologie 2287 2299	infiltration
+T34	topographie 2312 2323	sinus rénal
+T35	morphologie 2334 2342	invasion
+T37	topographie 2343 2359	lymphovasculaire
+T39	morphologie 2401 2407	tumeur
+T40	morphologie 2430 2438	stade IV
+T44	morphologie 4708 4713	masse
+T46	topographie 4714 4724	vertébrale
+T48	morphologie 5490 5511	cellules néoplasiques

@@ -1,0 +1,63 @@
+T1	morphologie 246 252	nodule
+T2	expression_CIM 246 263	nodule thyroïdien
+T3	topographie 253 263	thyroïdien
+T4	morphologie 329 335	polype
+T5	expression_CIM 329 348	polype endocervical
+T6	topographie 336 348	endocervical
+T7	morphologie 1956 1961	masse
+T8	expression_CIM 1956 1972	masse pulmonaire
+T9	topographie 1962 1972	pulmonaire
+T10	morphologie 2120 2128	invasion
+T11	expression_CIM 2120 2152	invasion du médiastin postérieur
+T12	topographie 2132 2152	médiastin postérieur
+T13	morphologie 2158 2170	adénopathies
+T14	expression_CIM 2158 2225	adénopathies hilaires, sous-carénaires et médiastinales antérieures
+T15	topographie 2171 2179	hilaires
+T16	topographie 2181 2196	sous-carénaires
+T17	topographie 2200 2225	médiastinales antérieures
+T18	morphologie 2441 2469	carcinome à petites cellules
+T19	expression_CIM 2441 2485	carcinome à petites cellules peu différencié
+T20	differenciation 2470 2485	peu différencié
+T21	morphologie 2504 2510	tumeur
+T22	expression_CIM 2504 2520	tumeur cérébrale
+T23	topographie 2511 2520	cérébrale
+T24	expression_CIM 3076 3090	tumeur maligne
+T25	morphologie 3076 3090	tumeur maligne
+T26	morphologie 3107 3116;3128 3146	carcinome à petites cellules
+T27	expression_CIM 3107 3146	carcinome pulmonaire à petites cellules
+T28	topographie 3117 3127	pulmonaire
+T29	expression_CIM 4015 4026	lit tumoral
+T30	morphologie 4015 4026	lit tumoral
+T31	expression_CIM 4234 4242	récidive
+T32	morphologie 4234 4242	récidive
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C73.9 8000/1
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	8210/1
+#5	ICD-O T6	C53.0
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	C34.9 8000/1
+#8	ICD-O T9	C34.9
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C38.2 8000/1
+#11	ICD-O T12	C38.2
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.1 8000/1
+#14	ICD-O T15	C76.1
+#15	ICD-O T16	C76.1
+#16	ICD-O T17	C38.1
+#17	ICD-O T18	8041/3
+#18	ICD-O T19	8041/33
+#19	ICD-O T20	3
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C71.0 8000/1
+#22	ICD-O T23	C71.0
+#23	ICD-O T24	8000/3
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	8041/3
+#26	ICD-O T27	C34.9 8041/3
+#27	ICD-O T28	C34.9
+#28	ICD-O T29	8000/3
+#29	ICD-O T30	8000/3
+#30	ICD-O T31	8000/6
+#31	ICD-O T32	8000/6

@@ -1,0 +1,66 @@
+T2	topographie 936 940	foie
+T4	morphologie 960 974	tumeur maligne
+T5	morphologie 1021 1026	masse
+T7	topographie 1064 1067	LID
+T8	morphologie 1123 1135	Adénopathies
+T10	topographie 1136 1149	médiastinales
+T11	topographie 1151 1165	prévasculaires
+T12	topographie 1167 1181	paratrachéales
+T13	topographie 1191 1206	sous-carénaires
+T14	morphologie 1314 1325	Adénopathie
+T16	topographie 1326 1333	hilaire
+T17	morphologie 1351 1362	adénopathie
+T19	topographie 1363 1379	sus-claviculaire
+T20	morphologie 1408 1415	lésions
+T22	topographie 1416 1426	hépatiques
+T24	morphologie 1456 1466	métastases
+T25	morphologie 1520 1529	néoplasme
+T27	topographie 1530 1540	pulmonaire
+T29	morphologie 1544 1552	stade IV
+T30	morphologie 1574 1579	masse
+T32	topographie 1580 1590	pulmonaire
+T33	morphologie 1604 1610	lésion
+T35	topographie 1611 1620	hépatique
+T36	morphologie 1655 1669	adénocarcinome
+T38	topographie 1670 1680	pulmonaire
+T39	morphologie 1852 1866	adénocarcinome
+T41	topographie 1867 1877	pulmonaire
+T43	morphologie 1881 1889	stade IV
+T44	morphologie 1900 1908	atteinte
+T46	topographie 1909 1918	hépatique
+T47	morphologie 2071 2079	atteinte
+T49	topographie 2080 2089	hépatique
+T50	morphologie 2911 2916	masse
+T52	topographie 2917 2927	pulmonaire
+T53	morphologie 2943 2950	lésions
+T55	topographie 2951 2961	hépatiques
+T57	morphologie 3229 3236	lésions
+T59	morphologie 3269 3279	métastases
+T60	morphologie 3553 3560	lésions
+T100	morphologie 3570 3583	métastatiques
+T62	topographie 3561 3569	osseuses
+T64	morphologie 3751 3756	masse
+T66	topographie 3757 3767	pulmonaire
+T67	morphologie 3943 3950	lésions
+T69	topographie 3951 3961	cérébrales
+T70	morphologie 4143 4153	métastases
+T72	topographie 4154 4164	cérébrales
+T73	morphologie 4551 4558	maladie
+T75	topographie 4559 4566	osseuse
+T76	morphologie 4630 4637	lésions
+T78	topographie 4638 4648	cérébrales
+T79	morphologie 4838 4843	masse
+T81	topographie 4844 4854	pulmonaire
+T82	morphologie 4862 4869	lésions
+T84	topographie 4870 4880	hépatiques
+T85	morphologie 4905 4912	maladie
+T87	topographie 4923 4929	osseux
+T89	morphologie 4955 4962	lésions
+T90	morphologie 5018 5025	maladie
+T92	topographie 5036 5044	cérébral
+T93	morphologie 5202 5209	maladie
+T95	topographie 5223 5230	cerveau
+T96	topographie 5237 5241	foie
+T97	morphologie 5472 5483	progression
+T99	topographie 5498 5533	ganglions lymphatiques médiastinaux
+T63	topographie 3628 3644	squelette osseux

@@ -1,0 +1,36 @@
+T2	morphologie 81 88	tumeurs
+T4	morphologie 494 500	tumeur
+T5	morphologie 753 782	image évocatrice de malignité
+T7	topographie 814 819	tibia
+T8	morphologie 1054 1060	lésion
+T10	topographie 1064 1069	tibia
+T12	morphologie 1203 1209	lésion
+T14	morphologie 2086 2112	ostéosarcome conventionnel
+T15	morphologie 2168 2175	nodules
+T17	topographie 2342 2359	bases pulmonaires
+T18	morphologie 2382 2403	atteinte métastatique
+T20	topographie 2404 2414	pulmonaire
+T21	morphologie 2450 2461	adénopathie
+T23	topographie 2462 2480	broncho-pulmonaire
+T24	morphologie 2592 2618	ostéosarcome conventionnel
+T26	topographie 2622 2627	tibia
+T27	differenciation 2635 2637	G3
+T29	morphologie 2641 2643	M1
+T30	morphologie 2655 2665	métastases
+T32	topographie 2666 2677	pulmonaires
+T33	morphologie 3137 3148	nodulations
+T35	topographie 3149 3160	pulmonaires
+T36	morphologie 3380 3385	masse
+T39	morphologie 3407 3419	ostéosarcome
+T40	morphologie 3960 3970	métastases
+T42	topographie 3971 3982	pulmonaires
+T43	morphologie 4151 4156	masse
+T46	morphologie 4639 4682	ostéosarcome chondroblastique conventionnel
+T48	morphologie 4730 4736	tumeur
+T49	morphologie 4968 4975	nodules
+T51	topographie 4976 4987	pulmonaires
+T53	morphologie 5232 5252	maladie métastatique
+T55	morphologie 6055 6062	nodules
+T56	morphologie 6104 6111	maladie
+T58	topographie 6112 6122	pulmonaire
+T60	morphologie 6429 6441	micronodules

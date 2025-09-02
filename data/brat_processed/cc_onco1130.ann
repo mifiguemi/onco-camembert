@@ -1,0 +1,35 @@
+T2	morphologie 2303 2314	adénopathie
+T4	morphologie 2731 2736	masse
+T5	morphologie 3635 3650	image nodulaire
+T7	topographie 3712 3721	clavicule
+T8	morphologie 3741 3765	image d'aspect similaire
+T10	topographie 3810 3814	côte
+T13	morphologie 4391 4420	syndromes lymphoprolifératifs
+T15	morphologie 4565 4575	néoplasmes
+T16	morphologie 4969 4976	lésions
+T18	topographie 4977 4988	pulmonaires
+T20	morphologie 6182 6191	néoplasie
+T21	morphologie 6230 6236	tumeur
+T23	topographie 6284 6288	rein
+T25	morphologie 6319 6347	néoplasie à cellules rénales
+T26	morphologie 6353 6363	métastases
+T28	topographie 6364 6375	pulmonaires
+T29	topographie 6379 6389	hépatiques
+T31	morphologie 6391 6403	adénopathies
+T33	morphologie 7006 7012	lésion
+T34	morphologie 7180 7185	masse
+T36	topographie 7186 7192	rénale
+T37	morphologie 7273 7282	carcinome
+T52	morphologie 7289 7307	à cellules claires
+T39	topographie 7283 7288	rénal
+T40	differenciation 7316 7325	Fuhrman 4
+T42	morphologie 7936 7951	tumeur primaire
+T43	morphologie 8104 8113	Carcinome
+T53	morphologie 8120 8138	à cellules claires
+T45	topographie 8114 8119	rénal
+T46	differenciation 8147 8156	Fuhrman 4
+T47	morphologie 8179 8189	métastases
+T49	topographie 8190 8200	hépatiques
+T50	topographie 8202 8213	pulmonaires
+T51	topographie 8217 8231	ganglionnaires
+T11	topographie 3835 3848	rétrocardique

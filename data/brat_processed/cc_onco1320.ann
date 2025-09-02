@@ -1,0 +1,13 @@
+T1	morphologie 85 100	médulloblastome
+T3	topographie 101 112	cérébelleux
+T4	morphologie 298 327	foyers de captation nodulaire
+T9	morphologie 455 460	foyer
+T11	topographie 496 518	hémisphère cérébelleux
+T13	morphologie 540 555	foyer satellite
+T14	morphologie 812 827	Médulloblastome
+T16	topographie 828 839	cérébelleux
+T18	morphologie 1101 1109	récidive
+T20	morphologie 1713 1721	récidive
+T22	morphologie 1917 1925	récidive
+T8	morphologie 407 434	foyers de récidive tumorale
+T6	topographie 347 386	périphérie de la cavité porencéphalique

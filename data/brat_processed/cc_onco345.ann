@@ -1,0 +1,32 @@
+T2	morphologie 796 801	masse
+T3	morphologie 1674 1704	lésion occupant l'espace (LOE)
+T5	topographie 1705 1713	frontale
+T7	morphologie 2266 2272	lésion
+T8	morphologie 2469 2484	néoplasme malin
+T10	differenciation 2488 2498	haut grade
+T11	morphologie 2557 2576	tumeur astrocytaire
+T13	differenciation 2580 2590	haut grade
+T15	morphologie 2606 2615	métastase
+T16	morphologie 2720 2729	néoplasme
+T18	topographie 2730 2740	pulmonaire
+T20	morphologie 2763 2778	microcytaire Ca
+T21	morphologie 2784 2796	infiltration
+T23	topographie 2797 2810	ganglionnaire
+T25	morphologie 2858 2879	cellules néoplasiques
+T27	morphologie 3049 3071	carcinome microcytaire
+T28	morphologie 3203 3225	Carcinome microcytaire
+T31	morphologie 3255 3264	métastase
+T33	topographie 3265 3274	cérébrale
+T34	morphologie 3327 3330	LOE
+T36	topographie 3331 3340	cérébrale
+T38	morphologie 3453 3459	lésion
+T39	morphologie 3892 3898	lésion
+T52	morphologie 3910 3922	microcytaire
+T41	topographie 3899 3909	pulmonaire
+T43	morphologie 4086 4105	lésion métastatique
+T44	morphologie 4140 4147	maladie
+T46	topographie 4148 4158	pulmonaire
+T47	morphologie 6203 6220	récidive tumorale
+T49	topographie 6231 6238	crânien
+T51	morphologie 7007 7014	maladie
+T30	topographie 3229 3243	poumon hilaire

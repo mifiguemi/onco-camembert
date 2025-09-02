@@ -1,0 +1,53 @@
+T59	topographie 3830 3853	parenchyme testiculaire
+T1	morphologie 312 318	lésion
+T3	topographie 363 367	rein
+T4	morphologie 379 391	infiltration
+T6	topographie 398 415	graisse périnéale
+T7	morphologie 517 526	métastase
+T9	topographie 527 540	surrénalienne
+T10	morphologie 553 577	adénopathie pathologique
+T12	topographie 578 585	hilaire
+T13	morphologie 728 733	masse
+T15	topographie 734 740	rénale
+T16	morphologie 874 885	adénopathie
+T18	topographie 886 896	thoracique
+T19	morphologie 958 967	carcinome
+T78	morphologie 974 992	à cellules claires
+T21	topographie 968 973	rénal
+T22	morphologie 1299 1308	carcinome
+T79	morphologie 1315 1333	à cellules claires
+T24	topographie 1309 1314	rénal
+T25	morphologie 1779 1785	lésion
+T27	topographie 1819 1823	foie
+T29	morphologie 1855 1862	angiome
+T30	morphologie 1871 1878	nodules
+T32	topographie 1879 1890	pulmonaires
+T33	topographie 1917 1931	lobe supérieur
+T34	morphologie 2059 2066	nodules
+T36	topographie 2067 2078	pulmonaires
+T37	topographie 2105 2119	lobe inférieur
+T39	morphologie 2151 2158	nodules
+T41	morphologie 2191 2197	tumeur
+T42	morphologie 2508 2515	nodules
+T44	topographie 2516 2527	pulmonaires
+T45	morphologie 2586 2597	adénopathie
+T47	topographie 2598 2605	hilaire
+T48	morphologie 3051 3058	lésions
+T50	topographie 3059 3070	pulmonaires
+T51	morphologie 3089 3100	adénopathie
+T53	topographie 3104 3108	hile
+T54	morphologie 3559 3565	lésion
+T56	topographie 3599 3608	testicule
+T57	morphologie 3812 3821	métastase
+T60	morphologie 3859 3887	carcinome à cellules claires
+T62	topographie 3898 3904	rénale
+T63	morphologie 4144 4155	progression
+T65	topographie 4166 4178	testiculaire
+T66	morphologie 4403 4409	lésion
+T68	topographie 4421 4424	D11
+T69	morphologie 4489 4498	métastase
+T71	topographie 4502 4505	D11
+T72	morphologie 4525 4536	progression
+T74	topographie 4537 4544	osseuse
+T75	morphologie 4712 4718	lésion
+T77	topographie 4719 4725	axiale

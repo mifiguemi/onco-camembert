@@ -1,0 +1,199 @@
+T46	topographie 3168 3171	FII
+T79	topographie 6427 6447	parasagittal frontal
+T1	expression_CIM 500 532	lésion pigmentée suprascapulaire
+T2	topographie 517 532	suprascapulaire
+T3	expression_CIM 651 678	mélanome malin épithélioïde
+T4	morphologie 651 678	mélanome malin épithélioïde
+T5	morphologie 784 792	invasion
+T6	expression_CIM 784 809	invasion lymphovasculaire
+T7	topographie 793 809	lymphovasculaire
+T8	expression_CIM 881 902	métastases à distance
+T9	morphologie 881 902	métastases à distance
+T10	expression_CIM 1122 1132	métastases
+T11	morphologie 1122 1132	métastases
+T12	morphologie 1537 1548	micronodule
+T13	expression_CIM 1537 1610	micronodule a été identifié au niveau apical du lobe supérieur droit (LSD
+T14	topographie 1585 1599	lobe supérieur
+T15	topographie 1607 1610	LSD
+T16	expression_CIM 1724 1734	métastases
+T17	morphologie 1724 1734	métastases
+T18	morphologie 1780 1791	micronodule
+T19	expression_CIM 1780 1808	micronodule au niveau du LSD
+T20	topographie 1805 1808	LSD
+T21	expression_CIM 1922 1928	nodule
+T22	morphologie 1922 1928	nodule
+T23	expression_CIM 1942 1951	métastase
+T24	morphologie 1942 1951	métastase
+T25	expression_CIM 1955 1963	mélanome
+T26	morphologie 1955 1963	mélanome
+T27	morphologie 2195 2206	adénopathie
+T28	expression_CIM 2195 2263	adénopathie cervico-faciale, suprascapulaire, axillaire ou inguinale
+T29	topographie 2207 2222	cervico-faciale
+T30	topographie 2224 2239	suprascapulaire
+T31	topographie 2241 2250	axillaire
+T32	topographie 2254 2263	inguinale
+T33	expression_CIM 2866 2893	mélanome épithélioïde malin
+T34	morphologie 2866 2893	mélanome épithélioïde malin
+T35	morphologie 2912 2921	métastase
+T36	expression_CIM 2912 2932	métastase pulmonaire
+T37	topographie 2922 2932	pulmonaire
+T38	expression_CIM 2947 2959	micronodules
+T39	morphologie 2947 2959	micronodules
+T40	morphologie 3082 3094	micronodules
+T41	expression_CIM 3082 3106	micronodules pulmonaires
+T42	topographie 3095 3106	pulmonaires
+T43	morphologie 3130 3142	micronodules
+T44	expression_CIM 3130 3171	micronodules intra-abdominaux dans le FII
+T45	topographie 3143 3159	intra-abdominaux
+T47	morphologie 4418 4424	lésion
+T48	expression_CIM 4418 4433	lésion frontale
+T49	topographie 4425 4433	frontale
+T50	morphologie 4480 4489	métastase
+T51	expression_CIM 4480 4499	métastase cérébrale
+T52	topographie 4490 4499	cérébrale
+T53	expression_CIM 4745 4751	lésion
+T54	morphologie 4745 4751	lésion
+T55	expression_CIM 4888 4897	métastase
+T56	morphologie 4888 4897	métastase
+T57	expression_CIM 4901 4909	mélanome
+T58	morphologie 4901 4909	mélanome
+T59	expression_CIM 5022 5033	lit tumoral
+T60	morphologie 5022 5033	lit tumoral
+T61	morphologie 5293 5299	nodule
+T62	expression_CIM 5293 5309	nodule splénique
+T63	topographie 5300 5309	splénique
+T64	expression_CIM 5349 5358	métastase
+T65	morphologie 5349 5358	métastase
+T66	morphologie 5685 5693	récidive
+T67	expression_CIM 5685 5712	récidive cérébrale frontale
+T68	topographie 5694 5712	cérébrale frontale
+T69	morphologie 5775 5781	lésion
+T70	expression_CIM 5775 5814	lésion temporale droite et cérébelleuse
+T71	topographie 5782 5791	temporale
+T72	topographie 5802 5814	cérébelleuse
+T73	morphologie 5829 5840	progression
+T74	expression_CIM 5829 5890	progression vers la moelle épinière et le niveau leptoméningé
+T75	topographie 5849 5864	moelle épinière
+T76	topographie 5878 5890	leptoméningé
+T77	morphologie 6405 6416	progression
+T78	expression_CIM 6405 6447	progression au niveau parasagittal frontal
+T80	morphologie 6486 6492	lésion
+T81	expression_CIM 6486 6507	lésion préérolandique
+T82	topographie 6493 6507	préérolandique
+T83	expression_CIM 6705 6711	lésion
+T84	morphologie 6705 6711	lésion
+T85	morphologie 6809 6815	lésion
+T86	expression_CIM 6809 6841	lésion frontale et parasagittale
+T87	topographie 6816 6824	frontale
+T88	topographie 6828 6841	parasagittale
+T89	expression_CIM 6886 6907	lésions métastatiques
+T90	morphologie 6886 6907	lésions métastatiques
+T91	morphologie 7307 7318	progression
+T92	expression_CIM 7307 7328	progression cérébrale
+T93	topographie 7319 7328	cérébrale
+T94	morphologie 7502 7508	lésion
+T95	expression_CIM 7502 7524	lésion frontopariétale
+T96	topographie 7509 7524	frontopariétale
+T97	morphologie 7570 7576	lésion
+T98	expression_CIM 7570 7593	lésion du lobe temporal
+T99	topographie 7580 7593	lobe temporal
+T100	morphologie 7665 7671	lésion
+T101	expression_CIM 7665 7680	lésion frontale
+T102	topographie 7672 7680	frontale
+#1	ICD-O T1	C76.1 8000/1
+#2	ICD-O T2	C76.1
+#3	ICD-O T3	8771/3
+#4	ICD-O T4	8771/3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C49.9 8000/1
+#7	ICD-O T7	C49.9
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	8000/6
+#10	ICD-O T11	8000/6
+#11	ICD-O T12	8000/1
+#12	ICD-O T14	C34.1
+#13	ICD-O T15	C34.1
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	8000/6
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C34.1 8000/1
+#18	ICD-O T20	C34.1
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8720/3
+#24	ICD-O T26	8720/3
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	C77.2 8000/1;C77.3 8000/1;C77.4 8000/1
+#27	ICD-O T29	C76.0
+#28	ICD-O T30	C76.0
+#29	ICD-O T31	C76.1
+#30	ICD-O T32	C76.3
+#31	ICD-O T33	8771/3
+#32	ICD-O T34	8771/3
+#33	ICD-O T35	8000/6
+#34	ICD-O T36	C34.9 8000/6
+#35	ICD-O T37	C34.9
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	C34.9 8000/1
+#40	ICD-O T42	C34.9
+#41	ICD-O T43	8000/1
+#42	ICD-O T45	C76.2
+#43	ICD-O T47	8000/1
+#44	ICD-O T48	C71.1 8000/1
+#45	ICD-O T49	C71.1
+#46	ICD-O T50	8000/6
+#47	ICD-O T51	C71.0 8000/6
+#48	ICD-O T52	C71.9
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	8000/1
+#51	ICD-O T55	8000/6
+#52	ICD-O T56	8000/6
+#53	ICD-O T57	8720/3
+#54	ICD-O T58	8720/3
+#55	ICD-O T59	8000/3
+#56	ICD-O T60	8000/3
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	C42.2 8000/1
+#59	ICD-O T63	C42.2
+#60	ICD-O T64	8000/6
+#61	ICD-O T65	8000/6
+#62	ICD-O T66	8000/9
+#63	ICD-O T67	C71.1 8000/6
+#64	ICD-O T68	C71.1
+#65	ICD-O T69	8000/1
+#66	ICD-O T70	C41.0 8000/1;C71.6 8000/1
+#67	ICD-O T71	C41.0
+#68	ICD-O T72	C71.6
+#69	ICD-O T73	8000/9
+#70	ICD-O T74	C70.9 8000/6;C72.0 8000/6
+#71	ICD-O T75	C72.0
+#72	ICD-O T76	C70.9
+#73	ICD-O T77	8000/9
+#74	ICD-O T78	C71.1 8000/6
+#75	ICD-O T80	8000/1
+#76	ICD-O T81	C71.9 8000/1
+#77	ICD-O T82	C71.9
+#78	ICD-O T83	8000/1
+#79	ICD-O T84	8000/1
+#80	ICD-O T85	8000/1
+#81	ICD-O T86	C71.1 8000/1;C71.9 8000/1
+#82	ICD-O T87	C71.1
+#83	ICD-O T88	C71.9
+#84	ICD-O T89	8000/6
+#85	ICD-O T90	8000/6
+#86	ICD-O T91	8000/9
+#87	ICD-O T92	C71.0 8000/6
+#88	ICD-O T93	C71.9
+#89	ICD-O T94	8000/1
+#90	ICD-O T95	C71.9 8000/1
+#91	ICD-O T96	C71.9
+#92	ICD-O T97	8000/1
+#93	ICD-O T98	C71.2 8000/1
+#94	ICD-O T99	C71.2
+#95	ICD-O T100	8000/1
+#96	ICD-O T101	C71.1 8000/1
+#97	ICD-O T102	C71.1

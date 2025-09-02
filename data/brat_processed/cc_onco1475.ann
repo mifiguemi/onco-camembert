@@ -1,0 +1,24 @@
+T33	topographie 3778 3801	compartiments cervicaux
+T1	morphologie 549 555	nodule
+T3	topographie 590 598	thyroïde
+T4	topographie 880 888	thyroïde
+T6	morphologie 906 912	nodule
+T8	morphologie 1331 1338	nodules
+T10	morphologie 1397 1404	nodules
+T11	morphologie 1495 1507	adénopathies
+T13	topographie 1508 1524	latérocervicales
+T14	topographie 1562 1587	chaîne jugulocarotidienne
+T15	topographie 1874 1882	thyroïde
+T17	morphologie 1903 1909	nodule
+T19	morphologie 2013 2019	nodule
+T20	morphologie 2146 2158	Adénopathies
+T22	topographie 2159 2175	latérocervicales
+T23	topographie 2213 2238	chaîne jugulocarotidienne
+T24	morphologie 2401 2407	nodule
+T26	topographie 2411 2426	lobe thyroïdien
+T28	morphologie 2708 2750	lymphome de la zone marginale de type MALT
+T30	morphologie 2840 2882	Lymphome de la zone marginale de type MALT
+T31	morphologie 3726 3738	adénopathies
+T35	morphologie 4341 4348	nodules
+T36	morphologie 4350 4366	lymphadénopathie
+T38	topographie 4374 4398	espace sous-mandibulaire

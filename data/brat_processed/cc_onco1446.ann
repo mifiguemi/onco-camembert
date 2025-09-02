@@ -1,0 +1,19 @@
+T2	morphologie 550 564	léiomyosarcome
+T4	morphologie 778 798	implication tumorale
+T5	morphologie 923 929	tumeur
+T7	topographie 933 941	deltoïde
+T9	morphologie 1005 1017	neurofibrome
+T11	morphologie 1024 1033	neurinome
+T12	morphologie 1047 1054	nodules
+T14	topographie 1055 1066	pulmonaires
+T15	morphologie 1282 1289	nodules
+T17	topographie 1306 1320	lobe supérieur
+T18	topographie 1334 1348	lobe inférieur
+T20	morphologie 1370 1379	métastase
+T22	morphologie 1404 1418	léiomyosarcome
+T23	morphologie 2067 2074	nodules
+T25	topographie 2075 2086	pulmonaires
+T27	morphologie 3056 3063	lésions
+T29	morphologie 3098 3104	tumeur
+T30	morphologie 3112 3120	atteinte
+T32	topographie 3121 3131	vasculaire

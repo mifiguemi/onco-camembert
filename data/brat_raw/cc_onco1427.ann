@@ -1,0 +1,118 @@
+T1	morphologie 318 324	cancer
+T2	expression_CIM 318 333	cancer du côlon
+T3	topographie 328 333	côlon
+T4	morphologie 367 376	néoplasie
+T5	expression_CIM 367 389	néoplasie de la vessie
+T6	topographie 383 389	vessie
+T7	morphologie 919 924	masse
+T8	expression_CIM 919 954	masse abdominale dans l'hémiabdomen
+T9	topographie 925 935	abdominale
+T10	topographie 943 954	hémiabdomen
+T11	morphologie 1181 1186	masse
+T12	expression_CIM 1181 1217	masse hétérogène dans le côlon droit
+T13	topographie 1206 1217	côlon droit
+T14	expression_CIM 1233 1240	nodules
+T15	morphologie 1233 1240	nodules
+T16	expression_CIM 1273 1284	adénopathie
+T17	morphologie 1273 1284	adénopathie
+T18	morphologie 1426 1436	néoplasmes
+T19	expression_CIM 1426 1507	néoplasmes synchrones, l'un au niveau du côlon ascendant et l'autre dans le cæcum
+T20	topographie 1467 1482	côlon ascendant
+T21	topographie 1502 1507	cæcum
+T22	morphologie 1550 1579	adénocarcinome mucosécrétoire
+T23	expression_CIM 1550 1588	adénocarcinome mucosécrétoire du côlon
+T24	topographie 1583 1588	côlon
+T25	expression_CIM 1783 1812	adénocarcinome mucosécrétoire
+T26	morphologie 1783 1812	adénocarcinome mucosécrétoire
+T27	morphologie 1910 1920	métastases
+T28	expression_CIM 1910 1974	métastases d'adénocarcinome dans 4 des 22 ganglions lymphatiques
+T29	expression_CIM 1923 1937	adénocarcinome
+T30	morphologie 1923 1937	adénocarcinome
+T31	topographie 1952 1974	ganglions lymphatiques
+T32	morphologie 2073 2087	adénocarcinome
+T33	expression_CIM 2073 2127	adénocarcinome synchrone (côlon ascendant et cæcum) G3
+T34	topographie 2099 2114	côlon ascendant
+T35	topographie 2118 2123	cæcum
+T36	morphologie 2223 2229	lésion
+T37	expression_CIM 2223 2246	lésion rétropéritonéale
+T38	topographie 2230 2246	rétropéritonéale
+T39	expression_CIM 2267 2283	lymphadénopathie
+T40	morphologie 2267 2283	lymphadénopathie
+T41	expression_CIM 2312 2328	lymphadénopathie
+T42	morphologie 2312 2328	lymphadénopathie
+T43	morphologie 2375 2389	adénocarcinome
+T44	expression_CIM 2375 2398	adénocarcinome du côlon
+T45	topographie 2393 2398	côlon
+T46	expression_CIM 2402 2410	stade IV
+T47	morphologie 2402 2410	stade IV
+T48	morphologie 2427 2436	métastase
+T49	expression_CIM 2427 2480	métastase des ganglions lymphatiques rétropéritonéaux
+T50	topographie 2441 2480	ganglions lymphatiques rétropéritonéaux
+T51	expression_CIM 2562 2582	maladie métastatique
+T52	morphologie 2562 2582	maladie métastatique
+T53	expression_CIM 2788 2815	stabilisation de la maladie
+T54	morphologie 2788 2815	stabilisation de la maladie
+T55	morphologie 2849 2856	Rechute
+T56	expression_CIM 2849 2887	Rechute ganglionnaire rétropéritonéale
+T57	topographie 2857 2887	ganglionnaire rétropéritonéale
+T58	expression_CIM 2916 2924	primitif
+T59	morphologie 2916 2924	primitif
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C67.9 8000/1
+#6	ICD-O T6	C67.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C76.2 8000/1
+#9	ICD-O T9	C76.2
+#10	ICD-O T10	C76.2
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C18.2 8000/1
+#13	ICD-O T13	C18.2
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C77.9 8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C18.0 8000/1;C18.2 8000/1
+#20	ICD-O T20	C18.2
+#21	ICD-O T21	C18.0
+#22	ICD-O T22	8481/3
+#23	ICD-O T23	C18.9 8481/3
+#24	ICD-O T24	C18.9
+#25	ICD-O T25	8481/3
+#26	ICD-O T26	8481/3
+#27	ICD-O T27	8000/6
+#28	ICD-O T28	C77.9 8000/6
+#29	ICD-O T29	8140/3
+#30	ICD-O T30	8140/3
+#31	ICD-O T31	C77.9
+#32	ICD-O T32	8140/3
+#33	ICD-O T33	C18.0 8140/33;C18.2 8140/33
+#34	ICD-O T34	C18.2
+#35	ICD-O T35	C18.0
+#36	ICD-O T36	8000/1
+#37	ICD-O T37	C48.0 8000/1
+#38	ICD-O T38	C48.0
+#39	ICD-O T39	C77.9 8000/1
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	C77.9 8000/1
+#42	ICD-O T42	8000/1
+#43	ICD-O T43	8140/3
+#44	ICD-O T44	C18.9 8140/3
+#45	ICD-O T45	C18.9
+#46	ICD-O T46	8000/6
+#47	ICD-O T47	8000/6
+#48	ICD-O T48	8000/6
+#49	ICD-O T49	C77.2 8000/6
+#50	ICD-O T50	C77.2
+#51	ICD-O T51	8000/6
+#52	ICD-O T52	8000/6
+#53	ICD-O T53	8000/6
+#54	ICD-O T54	8000/6
+#55	ICD-O T55	8000/3
+#56	ICD-O T56	C77.2 8000/3
+#57	ICD-O T57	C77.2
+#58	ICD-O T58	8000/3
+#59	ICD-O T59	8000/3

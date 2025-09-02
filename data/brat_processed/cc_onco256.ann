@@ -1,0 +1,46 @@
+T1	morphologie 284 290	nodule
+T3	topographie 313 316	cou
+T4	morphologie 441 447	nodule
+T6	topographie 485 500	lobe thyroïdien
+T7	morphologie 574 586	adénopathies
+T9	topographie 587 603	latérocervicales
+T11	morphologie 689 698	carcinome
+T12	morphologie 863 883	carcinome médullaire
+T14	topographie 890 898	thyroïde
+T15	morphologie 940 946	nodule
+T19	morphologie 1279 1285	nodule
+T20	morphologie 1314 1326	adénopathies
+T22	topographie 1392 1400	thyroïde
+T23	morphologie 1455 1467	adénopathies
+T25	topographie 1468 1478	cervicales
+T26	morphologie 1527 1539	infiltration
+T28	topographie 1552 1574	nerf laryngé récurrent
+T29	morphologie 1629 1636	nodules
+T31	topographie 1675 1681	poumon
+T32	morphologie 1788 1794	nodule
+T34	topographie 1795 1805	thyroïdien
+T36	morphologie 1871 1878	nodules
+T37	morphologie 2238 2258	carcinome médullaire
+T39	topographie 2265 2273	thyroïde
+T40	morphologie 2279 2292	dissémination
+T42	topographie 2293 2304	lymphatique
+T43	morphologie 2318 2328	métastases
+T45	topographie 2329 2340	pulmonaires
+T47	morphologie 2410 2415	MEN 2
+T48	morphologie 2561 2581	carcinome médullaire
+T50	topographie 2588 2596	thyroïde
+T51	morphologie 3454 3461	nodules
+T53	topographie 3462 3473	pulmonaires
+T55	morphologie 3577 3587	métastases
+T56	morphologie 4180 4187	nodules
+T58	topographie 4188 4199	pulmonaires
+T60	morphologie 4327 4354	leucémie myéloïde chronique
+T61	morphologie 4461 4478	récidive tumorale
+T63	topographie 4495 4503	thyroïde
+T65	morphologie 4535 4542	tumeurs
+T68	morphologie 4818 4825	lésions
+T70	topographie 4826 4837	vasculaires
+T71	morphologie 5001 5008	nodules
+T73	topographie 5009 5020	pulmonaires
+T67	morphologie 4651 4674	néoplasme hématologique
+T17	topographie 986 1008	région latérocervicale

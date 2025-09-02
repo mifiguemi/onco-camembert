@@ -1,0 +1,64 @@
+T20	topographie 2620 2654	intersection des segments VII/VIII
+T1	morphologie 580 589	carcinome
+T2	expression_CIM 580 599	carcinome gastrique
+T3	topographie 590 599	gastrique
+T4	morphologie 646 652	cancer
+T5	expression_CIM 646 662	cancer du poumon
+T6	topographie 656 662	poumon
+T7	morphologie 1608 1614	lésion
+T8	expression_CIM 1608 1691	lésion hypoéchogène occupant l'espace de 17 x 15 mm au niveau du segment VI du lobe
+T10	morphologie 1800 1806	nodule
+T11	expression_CIM 1800 2043	nodule solide, avec hyperenhancement vasculaire artériel homogène, en localisation postérieure et périphérique du segment VI du lobe hépatique droit, mesurant 21 x 15 mm, avec un washout précoce en phase portale, suspect d'hépatocarcinome (CHC
+T13	morphologie 2023 2043	hépatocarcinome (CHC
+T14	expression_CIM 2180 2183	CHC
+T15	morphologie 2180 2183	CHC
+T16	expression_CIM 2449 2452	CHC
+T17	morphologie 2449 2452	CHC
+T18	morphologie 2545 2560	image nodulaire
+T19	expression_CIM 2545 2654	image nodulaire de 10 mm a été observée en phase artérielle et portale à l'intersection des segments VII/VIII
+T21	expression_CIM 2717 2723	nodule
+T22	morphologie 2717 2723	nodule
+T23	expression_CIM 2742 2745	CHC
+T24	morphologie 2742 2745	CHC
+T25	morphologie 2768 2774	nodule
+T26	expression_CIM 2768 2793	nodule dans le segment VI
+T28	expression_CIM 2897 2903	lésion
+T29	morphologie 2897 2903	lésion
+T30	morphologie 3071 3077	lésion
+T31	expression_CIM 3071 3087	lésion hépatique
+T32	topographie 3078 3087	hépatique
+T33	expression_CIM 3207 3210	CHC
+T34	morphologie 3207 3210	CHC
+T35	expression_CIM 5949 5952	CHC
+T36	morphologie 5949 5952	CHC
+T27	topographie 2783 2793	segment VI
+T9	topographie 1673 1691	segment VI du lobe
+T12	topographie 1914 1942	segment VI du lobe hépatique
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C16.9 8010/3
+#3	ICD-O T3	C16.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C34.9 8000/3
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T13	8170/3
+#10	ICD-O T14	8170/3
+#11	ICD-O T15	8170/3
+#12	ICD-O T16	8170/3
+#13	ICD-O T17	8170/3
+#14	ICD-O T18	8000/1
+#15	ICD-O T21	8000/1
+#16	ICD-O T22	8000/1
+#17	ICD-O T23	8170/3
+#18	ICD-O T24	8170/3
+#19	ICD-O T25	8000/1
+#20	ICD-O T28	8000/1
+#21	ICD-O T29	8000/1
+#22	ICD-O T30	8000/1
+#23	ICD-O T31	C22.0 8000/1
+#24	ICD-O T32	C22.0
+#25	ICD-O T33	8170/3
+#26	ICD-O T34	8170/3
+#27	ICD-O T35	8170/3
+#28	ICD-O T36	8170/3

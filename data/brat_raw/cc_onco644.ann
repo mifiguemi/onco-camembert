@@ -1,0 +1,89 @@
+T1	morphologie 228 234	cancer
+T2	expression_CIM 228 242	cancer du sein
+T3	topographie 238 242	sein
+T4	expression_CIM 273 280	lésions
+T5	morphologie 273 280	lésions
+T6	topographie 317 321	sein
+T7	expression_CIM 317 438	sein gauche, un carcinome canalaire infiltrant a été identifié, de grade 2-3 avec des foyers de différenciation mucineuse
+T8	morphologie 333 363;394 438	carcinome canalaire infiltrant avec des foyers de différenciation mucineuse
+T9	differenciation 384 393	grade 2-3
+T10	morphologie 808 827	carcinome lobulaire
+T11	expression_CIM 808 849	carcinome lobulaire invasif de haut grade
+T12	differenciation 839 849	haut grade
+T13	morphologie 1128 1138	métastases
+T14	expression_CIM 1128 1147	métastases osseuses
+T15	topographie 1139 1147	osseuses
+T16	expression_CIM 1904 1929	progression de la maladie
+T17	morphologie 1904 1929	progression de la maladie
+T18	morphologie 3443 3473	Carcinome canalaire infiltrant
+T19	expression_CIM 3443 3481	Carcinome canalaire infiltrant du sein
+T20	topographie 3477 3481	sein
+T21	morphologie 3541 3571	Carcinome lobulaire infiltrant
+T22	expression_CIM 3541 3579	Carcinome lobulaire infiltrant du sein
+T23	topographie 3575 3579	sein
+T24	morphologie 3638 3648	Métastases
+T25	expression_CIM 3638 3657	Métastases osseuses
+T26	topographie 3649 3657	osseuses
+T27	expression_CIM 3990 3999	carcinome
+T28	morphologie 3990 3999	carcinome
+T29	morphologie 4292 4311	carcinome lobulaire
+T30	expression_CIM 4292 4336	carcinome lobulaire, compatible avec le sein
+T31	topographie 4332 4336	sein
+T32	expression_CIM 4444 4453	métastase
+T33	morphologie 4444 4453	métastase
+T34	morphologie 4461 4470	néoplasme
+T35	expression_CIM 4461 4479	néoplasme mammaire
+T36	topographie 4471 4479	mammaire
+T37	expression_CIM 4503 4522	carcinome lobulaire
+T38	morphologie 4503 4522	carcinome lobulaire
+T39	expression_CIM 4774 4799	progression de la maladie
+T40	morphologie 4774 4799	progression de la maladie
+T41	expression_CIM 4854 4861	implant
+T42	morphologie 4854 4861	implant
+T43	morphologie 4987 4994	lésions
+T44	expression_CIM 4987 5053	lésions connues persistant dans les deux seins et au niveau des os
+T45	topographie 5028 5033	seins
+T46	topographie 5051 5053	os
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T8	8500/3
+#8	ICD-O T9	3
+#9	ICD-O T10	8520/3
+#10	ICD-O T11	8520/34
+#11	ICD-O T12	4
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	C41.9 8000/6
+#14	ICD-O T15	C41.9
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8500/3
+#18	ICD-O T19	C50.9 8500/3
+#19	ICD-O T20	C50.9
+#20	ICD-O T21	8520/3
+#21	ICD-O T22	C50.9 8520/3
+#22	ICD-O T23	C50.9
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	C41.9 8000/6
+#25	ICD-O T26	C41.9
+#26	ICD-O T27	8010/3
+#27	ICD-O T28	8010/3
+#28	ICD-O T29	8520/3
+#29	ICD-O T30	C50.9 8520/3
+#30	ICD-O T31	C50.9
+#31	ICD-O T33	8000/6
+#32	ICD-O T34	8000/1
+#33	ICD-O T35	C50.9 8000/1
+#34	ICD-O T36	C50.9
+#35	ICD-O T37	8520/3
+#36	ICD-O T38	8520/3
+#37	ICD-O T39	8000/1
+#38	ICD-O T40	8000/1
+#39	ICD-O T42	8000/6
+#40	ICD-O T43	8000/1
+#41	ICD-O T44	C41.9 8000/1;C50.9 8000/1
+#42	ICD-O T45	C50.9
+#43	ICD-O T46	C41.9

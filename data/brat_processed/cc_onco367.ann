@@ -1,0 +1,27 @@
+T1	morphologie 1134 1150	lésion pigmentée
+T5	morphologie 1212 1218	lésion
+T7	morphologie 1342 1350	mélanome
+T9	morphologie 1459 1495	mélanome à propagation superficielle
+T11	morphologie 1755 1764	néoplasie
+T13	morphologie 2240 2258	lésions pigmentées
+T14	morphologie 2593 2604	adénopathie
+T16	topographie 2605 2614	inguinale
+T17	topographie 2616 2625	axillaire
+T18	topographie 2629 2638	cervicale
+T20	morphologie 2781 2796	tumeur primaire
+T22	morphologie 2799 2819	mélanome superficiel
+T23	morphologie 3032 3049	invasion tumorale
+T25	topographie 3050 3060	vasculaire
+T26	topographie 3064 3075	périneurale
+T28	morphologie 3155 3164	métastase
+T29	morphologie 3168 3176	mélanome
+T31	topographie 3190 3212	ganglions lymphatiques
+T33	morphologie 3231 3240	extension
+T35	morphologie 3464 3483	atteinte à distance
+T36	morphologie 3647 3688	images d'aspect nodulaire/pseudonodulaire
+T40	morphologie 4193 4201	Mélanome
+T41	morphologie 4898 4905	rechute
+T43	topographie 4906 4917	lymphatique
+T44	morphologie 7380 7402	atteinte adénopathique
+T38	topographie 3699 3717	pleural/pulmonaire
+T3	topographie 1159 1173	région iliaque

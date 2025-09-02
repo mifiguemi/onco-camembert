@@ -1,0 +1,36 @@
+T1	morphologie 4110 4122	adénomégalie
+T3	topographie 4131 4147	région inguinale
+T4	morphologie 6655 6662	lésions
+T6	topographie 6663 6673	hépatiques
+T8	morphologie 6805 6815	métastases
+T9	morphologie 7070 7077	lésions
+T11	topographie 7078 7088	hépatiques
+T13	morphologie 7116 7126	métastases
+T14	morphologie 7330 7345	tumeur primaire
+T16	topographie 7353 7361	inconnue
+T18	morphologie 7600 7615	lésions focales
+T19	morphologie 7672 7679	lésions
+T23	morphologie 7767 7777	métastases
+T25	morphologie 7787 7799	adénomégalie
+T26	morphologie 8008 8029	processus néoplasique
+T28	topographie 8057 8064	estomac
+T29	morphologie 8376 8385	formation
+T31	topographie 8386 8395	gastrique
+T33	morphologie 8420 8429	néoplasie
+T34	morphologie 8526 8535	formation
+T36	topographie 8536 8545	gastrique
+T37	morphologie 8613 8627	adénocarcinome
+T57	morphologie 8662 8692	variante de l'anneau de signet
+T39	topographie 8628 8637	gastrique
+T40	differenciation 8638 8660	modérément différencié
+T42	morphologie 8946 8953	lésions
+T43	morphologie 9117 9123	foyers
+T45	topographie 9132 9152	parenchyme hépatique
+T47	morphologie 9208 9214	foyers
+T48	morphologie 9239 9251	adénopathies
+T50	topographie 9252 9266	para-aortiques
+T54	morphologie 10030 10036	cancer
+T56	morphologie 10778 10784	tumeur
+T52	topographie 9283 9300	interaortocavales
+T51	topographie 9268 9279	paracavales
+T21	topographie 7689 7712	segments III, VI et VII

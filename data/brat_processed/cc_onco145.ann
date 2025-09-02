@@ -1,0 +1,45 @@
+T37	topographie 2699 2721	creux sus-claviculaire
+T1	morphologie 613 633	mélanome superficiel
+T3	differenciation 679 697	grade III de Clark
+T5	morphologie 1010 1016	tumeur
+T7	morphologie 1063 1075	adénopathies
+T9	morphologie 1081 1090	métastase
+T11	morphologie 1107 1147	mélanome malin à extension superficielle
+T12	morphologie 1407 1413	tumeur
+T14	topographie 1419 1427	aisselle
+T15	topographie 1502 1547	ganglions lymphatiques dans l'aisselle droite
+T17	morphologie 1562 1575	métastatiques
+T18	morphologie 1704 1716	adénopathies
+T20	topographie 1717 1727	axillaires
+T21	morphologie 1815 1823	récidive
+T23	topographie 1837 1870	ganglions lymphatiques axillaires
+T24	morphologie 1904 1929	conglomérat adénopathique
+T26	topographie 1930 1939	axillaire
+T27	morphologie 2044 2054	métastases
+T30	morphologie 2058 2066	mélanome
+T31	topographie 2082 2104	ganglions lymphatiques
+T32	morphologie 2298 2309	adénopathie
+T34	topographie 2310 2319	cervicale
+T35	morphologie 2654 2690	ganglions lymphatiques pathologiques
+T40	morphologie 2854 2896	foyers d'activité métabolique pathologique
+T41	morphologie 2936 2948	adénopathies
+T47	morphologie 3069 3079	métastases
+T48	morphologie 3110 3121	progression
+T50	morphologie 3704 3711	rechute
+T54	morphologie 5005 5013	mélanome
+T55	morphologie 5049 5060	progression
+T57	topographie 5070 5117	ganglions lymphatiques pleuraux et médiastinaux
+T58	morphologie 5465 5490	progression de la maladie
+T60	topographie 5491 5503	médiastinale
+T61	topographie 5507 5519	épiphrénique
+T62	morphologie 5527 5534	maladie
+T64	topographie 5535 5543	pleurale
+T65	topographie 5558 5592	ganglions lymphatiques péritonéaux
+T66	morphologie 5767 5778	progression
+T68	topographie 5779 5787	pleurale
+T70	morphologie 6774 6782	mélanome
+T52	topographie 3728 3805	ganglions lymphatiques sus-claviculaires, hiliomédiastinaux et périgastriques
+T38	topographie 2739 2755	région axillaire
+T44	topographie 2986 3002	région axillaire
+T45	topographie 3018 3039	région sous-pectorale
+T43	topographie 2957 2981	région supraclaviculaire

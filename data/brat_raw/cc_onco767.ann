@@ -1,0 +1,106 @@
+T1	morphologie 139 149	métastases
+T2	expression_CIM 139 160	métastases hépatiques
+T3	topographie 150 160	hépatiques
+T4	morphologie 863 868	masse
+T5	expression_CIM 863 880	masse parahilaire
+T6	topographie 869 880	parahilaire
+T7	morphologie 904 910;933 956	images évoquant des métastases
+T8	expression_CIM 904 956	images hépatiques hypodenses évoquant des métastases
+T9	topographie 911 921	hépatiques
+T10	morphologie 992 999	lésions
+T11	expression_CIM 992 1010	lésions hépatiques
+T12	topographie 1000 1010	hépatiques
+T13	morphologie 1109 1130	tumeur neuroendocrine
+T14	expression_CIM 1109 1148	tumeur neuroendocrine bien différenciée
+T15	differenciation 1131 1148	bien différenciée
+T16	expression_CIM 1429 1450	tumeur neuroendocrine
+T17	morphologie 1429 1450	tumeur neuroendocrine
+T18	expression_CIM 1452 1471	carcinoïde atypique
+T19	morphologie 1452 1471	carcinoïde atypique
+T20	morphologie 1638 1645	lésions
+T21	expression_CIM 1638 1656	lésions hépatiques
+T22	topographie 1646 1656	hépatiques
+T23	morphologie 1664 1670	tumeur
+T24	expression_CIM 1664 1681	tumeur pulmonaire
+T25	topographie 1671 1681	pulmonaire
+T26	expression_CIM 1689 1701	adénopathies
+T27	morphologie 1689 1701	adénopathies
+T28	morphologie 1731 1748;1760 1768	tumeur carcinoïde atypique
+T29	expression_CIM 1731 1786	tumeur carcinoïde pulmonaire atypique bien différenciée
+T30	topographie 1749 1759	pulmonaire
+T31	differenciation 1769 1786	bien différenciée
+T32	morphologie 1796 1806	métastases
+T33	expression_CIM 1796 1817	métastases hépatiques
+T34	topographie 1807 1817	hépatiques
+T35	morphologie 2468 2476	atteinte
+T36	expression_CIM 2468 2514	atteinte vasculaire des artères sus-hépatiques
+T38	morphologie 2659 2670	progression
+T39	expression_CIM 2659 2680	progression hépatique
+T40	topographie 2671 2680	hépatique
+T41	expression_CIM 3151 3161	métastases
+T42	morphologie 3151 3161	métastases
+T43	morphologie 3165 3186	tumeur neuroendocrine
+T44	expression_CIM 3165 3204	tumeur neuroendocrine bien différenciée
+T45	differenciation 3187 3204	bien différenciée
+T46	morphologie 3337 3344	lésions
+T47	expression_CIM 3337 3355	lésions hépatiques
+T48	topographie 3345 3355	hépatiques
+T49	morphologie 3376 3388	adénopathies
+T50	expression_CIM 3376 3402	adénopathies médiastinales
+T51	topographie 3389 3402	médiastinales
+T52	morphologie 3655 3666	progression
+T53	expression_CIM 3655 3676	progression hépatique
+T54	topographie 3667 3676	hépatique
+T37	topographie 2477 2514	vasculaire des artères sus-hépatiques
+#1	ICD-O T1	8000/6
+#2	ICD-O T2	C22.0 8000/6
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.1 8000/1
+#6	ICD-O T6	C76.1
+#7	ICD-O T7	8000/6
+#8	ICD-O T9	C22.0
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C22.0 8000/1
+#11	ICD-O T12	C22.0
+#12	ICD-O T13	8246/3
+#13	ICD-O T14	8246/31
+#14	ICD-O T15	1
+#15	ICD-O T16	8246/3
+#16	ICD-O T17	8246/3
+#17	ICD-O T18	8249/3
+#18	ICD-O T19	8249/3
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C22.0 8000/1
+#21	ICD-O T22	C22.0
+#22	ICD-O T23	8000/1
+#23	ICD-O T24	C34.9 8000/1
+#24	ICD-O T25	C34.9
+#25	ICD-O T26	C77.9 8000/1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8249/3
+#28	ICD-O T29	C34.9 8249/31
+#29	ICD-O T30	C34.9
+#30	ICD-O T31	1
+#31	ICD-O T32	8000/6
+#32	ICD-O T33	C22.0 8000/6
+#33	ICD-O T34	C22.0
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	C49.4 8000/1;C49.9 8000/1
+#36	ICD-O T38	8000/6
+#37	ICD-O T39	C22.0 8000/6
+#38	ICD-O T40	C22.0
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	8000/6
+#41	ICD-O T43	8246/3
+#42	ICD-O T44	8246/31
+#43	ICD-O T45	1
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	C22.0 8000/1
+#46	ICD-O T48	C22.0
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	C77.1 8000/1
+#49	ICD-O T51	C38.3
+#50	ICD-O T52	8000/6
+#51	ICD-O T53	C22.0 8000/6
+#52	ICD-O T54	C22.0

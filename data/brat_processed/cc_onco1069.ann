@@ -1,0 +1,40 @@
+T1	morphologie 389 395	cancer
+T3	topographie 399 403	sein
+T4	morphologie 632 638	cancer
+T6	topographie 645 649	tête
+T7	topographie 656 659	cou
+T8	morphologie 675 684	néoplasie
+T10	topographie 685 697	pancréatique
+T11	morphologie 731 740	néoplasie
+T13	topographie 744 749	côlon
+T14	morphologie 857 871	carcinosarcome
+T16	topographie 872 879	ovarien
+T17	morphologie 1024 1029	Masse
+T19	topographie 1037 1047	hypogastre
+T20	morphologie 1322 1328	tumeur
+T22	topographie 1329 1338	pelvienne
+T23	morphologie 1390 1399	néoplasie
+T25	topographie 1400 1410	annexielle
+T26	morphologie 1422 1430	implants
+T28	topographie 1431 1442	péritonéaux
+T29	topographie 1461 1470	hépatique
+T31	morphologie 1785 1799	résidu tumoral
+T32	morphologie 1910 1946	Cystadénocarcinome papillaire séreux
+T34	differenciation 1960 1969	grade III
+T35	topographie 1975 1981	ovaire
+T36	morphologie 1987 1995	atteinte
+T38	topographie 2001 2007	utérus
+T39	topographie 2016 2024	épiploon
+T41	morphologie 2075 2092	cellules malignes
+T42	morphologie 2154 2160	cancer
+T44	topographie 2166 2172	ovaire
+T46	morphologie 2255 2261	cancer
+T47	morphologie 2404 2410	cancer
+T49	topographie 2414 2418	sein
+T50	morphologie 3514 3527	carcinomatose
+T52	topographie 3528 3539	péritonéale
+T53	morphologie 3549 3557	implants
+T55	topographie 3558 3572	périhépatiques
+T56	morphologie 4063 4070	nodules
+T58	topographie 4071 4082	péritonéaux
+T59	topographie 4086 4100	périhépatiques

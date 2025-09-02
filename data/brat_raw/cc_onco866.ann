@@ -1,0 +1,80 @@
+T1	expression_CIM 375 394	maladie oncologique
+T2	morphologie 375 394	maladie oncologique
+T3	morphologie 639 653	adénocarcinome
+T4	expression_CIM 639 671	adénocarcinome du lobe supérieur
+T5	topographie 657 671	lobe supérieur
+T6	expression_CIM 691 699	stade IV
+T7	morphologie 691 699	stade IV
+T8	morphologie 714 722	implants
+T9	expression_CIM 714 731	implants pleuraux
+T10	topographie 723 731	pleuraux
+T11	morphologie 2171 2181	métastases
+T12	expression_CIM 2171 2192	métastases cérébrales
+T13	topographie 2182 2192	cérébrales
+T14	morphologie 2212 2223	progression
+T15	expression_CIM 2212 2274	progression symptomatique au niveau du système nerveux central
+T16	topographie 2251 2274	système nerveux central
+T17	morphologie 2881 2887	lésion
+T18	expression_CIM 2881 2898	lésion pulmonaire
+T19	topographie 2888 2898	pulmonaire
+T20	expression_CIM 3067 3074	lésions
+T21	morphologie 3067 3074	lésions
+T22	morphologie 4931 4944	dissémination
+T23	expression_CIM 4931 4958	dissémination leptoméningée
+T24	topographie 4945 4958	leptoméningée
+T25	expression_CIM 5231 5248	cellules malignes
+T26	morphologie 5231 5248	cellules malignes
+T27	morphologie 5546 5560	Adénocarcinome
+T28	expression_CIM 5546 5571	Adénocarcinome pulmonaire
+T29	topographie 5561 5571	pulmonaire
+T30	expression_CIM 5575 5583	stade IV
+T31	morphologie 5575 5583	stade IV
+T32	morphologie 5706 5717	progression
+T33	expression_CIM 5706 5734	progression au niveau du SNC
+T34	topographie 5731 5734	SNC
+T35	morphologie 5938 5951	carcinomatose
+T36	expression_CIM 5938 5960	carcinomatose méningée
+T37	topographie 5952 5960	méningée
+T38	morphologie 6268 6281	carcinomatose
+T39	expression_CIM 6268 6295	carcinomatose leptoméningée
+T40	topographie 6282 6295	leptoméningée
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	8000/3
+#3	ICD-O T3	8140/3
+#4	ICD-O T4	C34.1 8140/3
+#5	ICD-O T5	C34.1
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C38.4 8000/6
+#10	ICD-O T10	C38.4
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	C71.0 8000/6
+#13	ICD-O T13	C71.0
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	C72.9 8000/6
+#16	ICD-O T16	C72.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C34.9 8000/1
+#19	ICD-O T19	C34.9
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C70.9 8000/6
+#24	ICD-O T24	C70.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8140/3
+#28	ICD-O T28	C34.9 8140/3
+#29	ICD-O T29	C34.9
+#30	ICD-O T30	8000/6
+#31	ICD-O T31	8000/6
+#32	ICD-O T32	8000/6
+#33	ICD-O T33	C72.9 8000/6
+#34	ICD-O T34	C72.9
+#35	ICD-O T35	8010/9
+#36	ICD-O T36	C70.9 8010/9
+#37	ICD-O T37	C70.9
+#38	ICD-O T38	8010/9
+#39	ICD-O T39	C70.9 8010/9
+#40	ICD-O T40	C70.9

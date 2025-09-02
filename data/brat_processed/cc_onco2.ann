@@ -1,0 +1,47 @@
+T2	morphologie 1500 1525	lésions occupant l'espace
+T3	morphologie 1798 1804	nodule
+T5	topographie 1843 1846	LSD
+T6	morphologie 1878 1890	adénopathies
+T8	topographie 1891 1904	médiastinales
+T9	topographie 1906 1920	paratrachéales
+T10	topographie 1922 1937	sous-carénaires
+T11	morphologie 1959 1968	néoplasie
+T13	topographie 1969 1979	pulmonaire
+T15	morphologie 2024 2031	lésions
+T16	morphologie 2159 2166	lésions
+T18	topographie 2167 2182	endobronchiques
+T20	morphologie 2242 2259	cellules malignes
+T21	morphologie 2331 2343	adénopathies
+T23	topographie 2344 2357	médiastinales
+T24	morphologie 2378 2387	métastase
+T26	topographie 2388 2401	ganglionnaire
+T28	morphologie 2407 2429	carcinome microcytaire
+T29	morphologie 2540 2546	nodule
+T31	topographie 2547 2557	pulmonaire
+T32	topographie 2567 2570	LSD
+T33	morphologie 2691 2697	nodule
+T35	topographie 2698 2708	pulmonaire
+T36	morphologie 2753 2765	adénopathies
+T38	topographie 2766 2779	médiastinales
+T39	topographie 2824 2828	foie
+T41	morphologie 2848 2854	lésion
+T69	morphologie 2862 2896	évoquant une atteinte métastatique
+T42	morphologie 2914 2921	lésions
+T44	topographie 2922 2930	osseuses
+T46	morphologie 2945 2966	atteinte métastatique
+T47	morphologie 3056 3064	atteinte
+T49	topographie 3069 3088	cordons postérieurs
+T50	morphologie 3234 3243	carcinome
+T70	morphologie 3255 3273	à petites cellules
+T52	topographie 3244 3254	pulmonaire
+T53	morphologie 4462 4468	nodule
+T55	topographie 4507 4510	LSD
+T56	morphologie 4545 4557	adénopathies
+T58	topographie 4558 4571	médiastinales
+T59	topographie 4573 4587	paratrachéales
+T61	morphologie 4620 4632	adénopathies
+T63	topographie 4633 4646	médiastinales
+T65	morphologie 4673 4682	métastase
+T66	morphologie 4688 4710	carcinome microcytaire
+T68	topographie 4714 4720	poumon
+T60	topographie 4591 4603	subcarinales

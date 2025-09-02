@@ -1,0 +1,93 @@
+T1	morphologie 143 157	mélanome malin
+T2	expression_CIM 143 172	mélanome malin de la choroïde
+T3	topographie 164 172	choroïde
+T4	expression_CIM 323 331	récidive
+T5	morphologie 323 331	récidive
+T6	morphologie 381 388	rechute
+T7	expression_CIM 381 412	rechute pulmonaire et hépatique
+T8	topographie 389 399	pulmonaire
+T9	topographie 403 412	hépatique
+T10	expression_CIM 518 533	récidive locale
+T11	morphologie 518 533	récidive locale
+T12	morphologie 660 671	progression
+T13	expression_CIM 660 682	progression pulmonaire
+T14	topographie 672 682	pulmonaire
+T15	expression_CIM 945 957	adénopathies
+T16	morphologie 945 957	adénopathies
+T17	morphologie 1267 1274	nodules
+T18	expression_CIM 1267 1286	nodules pulmonaires
+T19	topographie 1275 1286	pulmonaires
+T20	morphologie 1376 1384	mélanome
+T21	expression_CIM 1376 1390	mélanome uvéal
+T22	topographie 1385 1390	uvéal
+T23	expression_CIM 1394 1402	stade IV
+T24	morphologie 1394 1402	stade IV
+T25	expression_CIM 4267 4292	progression de la maladie
+T26	morphologie 4267 4292	progression de la maladie
+T27	expression_CIM 4312 4319	lésions
+T28	morphologie 4312 4319	lésions
+T29	morphologie 4338 4349	adénopathie
+T30	expression_CIM 4338 4362	adénopathie médiastinale
+T31	topographie 4350 4362	médiastinale
+T32	morphologie 4398 4405	nodules
+T33	expression_CIM 4398 4417	nodules pulmonaires
+T34	topographie 4406 4417	pulmonaires
+T35	morphologie 7403 7414	progression
+T36	expression_CIM 7403 7424	progression cérébrale
+T37	topographie 7415 7424	cérébrale
+T38	expression_CIM 7449 7458	métastase
+T39	morphologie 7449 7458	métastase
+T40	expression_CIM 7560 7569	métastase
+T41	morphologie 7560 7569	métastase
+T42	morphologie 7769 7780;7789 7802	progression de la maladie
+T43	expression_CIM 7769 7852	progression franche de la maladie adénopathique, péritonéale, pleurale et cérébrale
+T44	topographie 7803 7816	adénopathique
+T45	topographie 7818 7829	péritonéale
+T46	topographie 7831 7839	pleurale
+T47	topographie 7843 7852	cérébrale
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C69.3 8720/3
+#3	ICD-O T3	C69.3
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/3
+#7	ICD-O T7	C22.0 8000/3;C34.9 8000/3
+#8	ICD-O T8	C34.9
+#9	ICD-O T9	C22.0
+#10	ICD-O T11	8000/3
+#11	ICD-O T12	8000/6
+#12	ICD-O T13	C34.9 8000/6
+#13	ICD-O T14	C34.9
+#14	ICD-O T15	C77.9 8000/1
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	C34.9 8000/1
+#18	ICD-O T19	C34.9
+#19	ICD-O T20	8720/3
+#20	ICD-O T21	C69.4 8720/3
+#21	ICD-O T22	C69.4
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C77.1 8000/1
+#30	ICD-O T31	C38.3
+#31	ICD-O T32	8000/1
+#32	ICD-O T33	C34.9 8000/1
+#33	ICD-O T34	C34.9
+#34	ICD-O T35	8000/6
+#35	ICD-O T36	C71.0 8000/6
+#36	ICD-O T37	C71.0
+#37	ICD-O T38	8000/6
+#38	ICD-O T39	8000/6
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	8000/6
+#41	ICD-O T42	8000/1
+#42	ICD-O T43	C38.4 8000/1;C48.2 8000/1;C71.0 8000/1;C77.9 8000/1
+#43	ICD-O T44	C77.9
+#44	ICD-O T45	C48.2
+#45	ICD-O T46	C38.4
+#46	ICD-O T47	C71.0

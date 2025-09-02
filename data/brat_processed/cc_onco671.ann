@@ -1,0 +1,72 @@
+T14	topographie 923 954	ligne interquadrante inférieure
+T11	topographie 790 810	région inframammaire
+T1	morphologie 249 255	nodule
+T3	topographie 256 266	pulmonaire
+T4	morphologie 595 601	nodule
+T6	topographie 610 614	sein
+T8	morphologie 675 690	image nodulaire
+T9	morphologie 766 772	nodule
+T12	morphologie 874 879	masse
+T16	morphologie 1016 1028	adénopathies
+T18	topographie 1029 1039	axillaires
+T19	morphologie 1294 1301	nodules
+T21	topographie 1302 1313	pulmonaires
+T22	morphologie 1361 1366	masse
+T24	topographie 1382 1386	sein
+T25	topographie 1400 1433	ganglions lymphatiques axillaires
+T26	morphologie 1486 1492	tumeur
+T28	topographie 1496 1500	sein
+T30	morphologie 1509 1539	carcinome canalaire infiltrant
+T31	morphologie 1758 1770	adénopathies
+T33	topographie 1771 1781	axillaires
+T35	morphologie 1806 1823	cellules malignes
+T37	morphologie 2068 2098	Carcinome canalaire infiltrant
+T39	morphologie 2117 2125	stade IV
+T40	morphologie 2144 2154	métastases
+T42	topographie 2155 2166	pulmonaires
+T43	morphologie 2233 2239	cancer
+T45	topographie 2243 2247	sein
+T46	morphologie 2844 2849	masse
+T48	topographie 2858 2862	sein
+T49	morphologie 2882 2892	métastases
+T51	topographie 2893 2904	pulmonaires
+T52	morphologie 3137 3143	tumeur
+T54	topographie 3147 3151	sein
+T55	morphologie 3260 3270	métastases
+T57	topographie 3271 3282	pulmonaires
+T59	morphologie 3383 3390	lésions
+T60	morphologie 3411 3417	nodule
+T62	topographie 3418 3426	mammaire
+T63	morphologie 3593 3599	nodule
+T65	topographie 3600 3608	mammaire
+T66	morphologie 3649 3656	nodules
+T68	topographie 3657 3668	pulmonaires
+T70	morphologie 3807 3813	lésion
+T72	morphologie 3843 3852	métastase
+T73	morphologie 3858 3882	carcinome neuroendocrine
+T75	differenciation 3886 3895	bas grade
+T77	morphologie 3950 3971	tumeur neuroendocrine
+T79	morphologie 4299 4306	tumeurs
+T81	morphologie 4321 4351	Carcinome canalaire infiltrant
+T82	morphologie 4389 4410	Tumeur neuroendocrine
+T84	differenciation 4414 4423	bas grade
+T86	morphologie 4429 4439	métastases
+T87	topographie 4469 4485	origine inconnue
+T88	morphologie 4567 4576	carcinome
+T90	topographie 4577 4585	mammaire
+T92	morphologie 4711 4720	néoplasie
+T93	morphologie 5087 5094	lésions
+T95	topographie 5095 5106	pulmonaires
+T97	morphologie 5124 5145	tumeur neuroendocrine
+T99	morphologie 5163 5169	lésion
+T100	morphologie 5331 5352	tumeur neuroendocrine
+T102	differenciation 5356 5365	bas grade
+T103	topographie 5368 5384	origine inconnue
+T104	morphologie 5386 5398	métastatique
+T106	topographie 5402 5408	poumon
+T107	morphologie 5691 5698	maladie
+T113	morphologie 5710 5724	neuroendocrine
+T109	topographie 5699 5709	pulmonaire
+T110	morphologie 5775 5784	carcinome
+T112	topographie 5785 5793	mammaire
+T15	topographie 969 989	sillon inframammaire

@@ -1,0 +1,70 @@
+T1	morphologie 1054 1062	Mélanome
+T2	expression_CIM 1054 1083	Mélanome de la glande pinéale
+T3	topographie 1069 1083	glande pinéale
+T4	morphologie 1089 1102	carcinomatose
+T5	expression_CIM 1089 1116	carcinomatose leptoméningée
+T6	topographie 1103 1116	leptoméningée
+T7	morphologie 1333 1336	LOE
+T8	expression_CIM 1333 1359	LOE dans la glande pinéale
+T9	topographie 1345 1359	glande pinéale
+T10	morphologie 1649 1655	lésion
+T11	expression_CIM 1649 1663	lésion pinéale
+T12	topographie 1656 1663	pinéale
+T13	morphologie 1793 1811	lésions pigmentées
+T14	expression_CIM 1793 1839	lésions pigmentées dans la paroi ventriculaire
+T15	topographie 1826 1839	ventriculaire
+T16	morphologie 1846 1852	tumeur
+T17	expression_CIM 1846 1873	tumeur de la glande pinéale
+T18	topographie 1859 1873	glande pinéale
+T19	expression_CIM 2046 2064	cellules tumorales
+T20	morphologie 2046 2064	cellules tumorales
+T21	morphologie 2177 2190	carcinomatose
+T22	expression_CIM 2177 2199	carcinomatose méningée
+T23	topographie 2191 2199	méningée
+T24	morphologie 2209 2217	mélanome
+T25	expression_CIM 2209 2238	mélanome de la glande pinéale
+T26	topographie 2224 2238	glande pinéale
+T27	expression_CIM 2275 2282	lésions
+T28	morphologie 2275 2282	lésions
+T29	morphologie 2303 2311	mélanome
+T30	expression_CIM 2303 2322	mélanome choroïdien
+T31	topographie 2312 2322	choroïdien
+T32	expression_CIM 2391 2399	mélanome
+T33	morphologie 2391 2399	mélanome
+T34	expression_CIM 2953 2978	progression de la maladie
+T35	morphologie 2953 2978	progression de la maladie
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C75.3 8720/3
+#3	ICD-O T3	C75.3
+#4	ICD-O T4	8010/9
+#5	ICD-O T5	C70.9 8010/9
+#6	ICD-O T6	C70.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T9	C75.3
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	C75.3 8000/1
+#11	ICD-O T12	C75.3
+#12	ICD-O T13	8720/1
+#13	ICD-O T14	C71.5 8000/1
+#14	ICD-O T15	C71.5
+#15	ICD-O T16	8000/3
+#16	ICD-O T17	C75.3 8000/1
+#17	ICD-O T18	C75.3
+#18	ICD-O T19	8001/1
+#19	ICD-O T20	8001/3
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	C70.9 8010/9
+#22	ICD-O T23	C70.9
+#23	ICD-O T24	8720/3
+#24	ICD-O T25	C75.3 8720/3
+#25	ICD-O T26	C75.3
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8720/3
+#29	ICD-O T30	C69.3 8720/3
+#30	ICD-O T31	C69.3
+#31	ICD-O T32	8720/3
+#32	ICD-O T33	8720/3
+#33	ICD-O T34	8000/1
+#34	ICD-O T35	8000/9
+#35	AnnotatorNotes T21	trad

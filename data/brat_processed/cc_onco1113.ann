@@ -1,0 +1,21 @@
+T1	morphologie 108 129	carcinome épidermoïde
+T3	topographie 135 143	œsophage
+T5	morphologie 147 155	stade IV
+T7	morphologie 1780 1805	lésions occupant l'espace
+T8	morphologie 1847 1859	adénopathies
+T10	topographie 1860 1873	médiastinales
+T11	morphologie 1875 1900	Conglomérat adénopathique
+T14	morphologie 1968 1975	nodules
+T16	topographie 1976 1987	pulmonaires
+T17	morphologie 1991 1996	masse
+T19	topographie 2005 2019	lobe supérieur
+T20	morphologie 2027 2046	Consolidation/masse
+T22	topographie 2047 2080	pulmonaire dans le lobe supérieur
+T23	morphologie 2088 2099	Adénopathie
+T25	topographie 2100 2116	rétropéritonéale
+T26	topographie 2120 2132	mésentérique
+T27	morphologie 2774 2795	Carcinome épidermoïde
+T29	topographie 2796 2812	œsophagien moyen
+T31	morphologie 2816 2824	stade IV
+T33	morphologie 4097 4117	maladie métastatique
+T13	topographie 1909 1913	hile

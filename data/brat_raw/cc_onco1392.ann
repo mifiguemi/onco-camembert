@@ -1,0 +1,77 @@
+T1	expression_CIM 766 772	masses
+T2	morphologie 766 772	masses
+T3	expression_CIM 905 912	nodules
+T4	morphologie 905 912	nodules
+T5	expression_CIM 919 925	masses
+T6	morphologie 919 925	masses
+T7	morphologie 1173 1190	images nodulaires
+T8	expression_CIM 1173 1233	images nodulaires multiples dans tous les champs pulmonaires
+T9	topographie 1215 1233	champs pulmonaires
+T10	expression_CIM 1267 1284	lâcher de ballons
+T11	morphologie 1267 1284	lâcher de ballons
+T12	topographie 1518 1539	parenchyme pulmonaire
+T13	expression_CIM 1518 1605	parenchyme pulmonaire présentait de nombreuses images nodulaires en " lâcher de ballons
+T14	morphologie 1565 1605	images nodulaires en " lâcher de ballons
+T15	morphologie 1648 1653	Masse
+T16	expression_CIM 1648 1710	Masse dans le médiastin antéro-supérieur et l'aorte ascendante
+T18	topographie 1694 1710	aorte ascendante
+T19	morphologie 1995 2007	Adénopathies
+T20	expression_CIM 1995 2022	Adénopathies prévasculaires
+T22	topographie 2060 2064	foie
+T23	expression_CIM 2060 2085	foie présente des lésions
+T24	morphologie 2078 2085	lésions
+T25	expression_CIM 2147 2157	métastases
+T26	morphologie 2147 2157	métastases
+T27	morphologie 2172 2178	nodule
+T28	expression_CIM 2172 2188	nodule pararénal
+T29	topographie 2179 2188	pararénal
+T30	expression_CIM 2237 2262	implantation métastatique
+T31	morphologie 2237 2262	implantation métastatique
+T32	morphologie 2343 2355	adénopathies
+T33	expression_CIM 2343 2366	adénopathies inguinales
+T34	topographie 2356 2366	inguinales
+T35	morphologie 2384 2390	nodule
+T36	expression_CIM 2384 2401	nodule pulmonaire
+T37	topographie 2391 2401	pulmonaire
+T38	expression_CIM 2430 2464	Tumeur germinale non séminomateuse
+T39	morphologie 2430 2464	Tumeur germinale non séminomateuse
+T40	expression_CIM 2473 2488	choriocarcinome
+T41	morphologie 2473 2488	choriocarcinome
+T17	topographie 1662 1688	médiastin antéro-supérieur
+T21	topographie 2008 2022	prévasculaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C34.9 8000/1
+#9	ICD-O T9	C34.9
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	C34.9
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/1
+#15	ICD-O T18	C49.3
+#16	ICD-O T19	8000/1
+#17	ICD-O T22	C22.0
+#18	ICD-O T23	C22.0 8000/1
+#19	ICD-O T24	8000/1
+#20	ICD-O T25	8000/6
+#21	ICD-O T26	8000/6
+#22	ICD-O T27	8000/1
+#23	ICD-O T28	C68.8 8000/1
+#24	ICD-O T29	C68.8
+#25	ICD-O T30	8000/6
+#26	ICD-O T31	8000/6
+#27	ICD-O T32	8000/1
+#28	ICD-O T33	C77.4 8000/1
+#29	ICD-O T34	C76.3
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	C34.9 8000/1
+#32	ICD-O T37	C34.9
+#33	ICD-O T38	9065/3
+#34	ICD-O T39	9065/3
+#35	ICD-O T40	9100/3
+#36	ICD-O T41	9100/3

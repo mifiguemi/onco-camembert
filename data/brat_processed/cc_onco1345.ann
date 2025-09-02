@@ -1,0 +1,22 @@
+T1	morphologie 139 145	tumeur
+T3	topographie 146 155	cardiaque
+T5	morphologie 193 225	sarcome pléomorphe indifférencié
+T7	morphologie 405 421	matériel tumoral
+T9	morphologie 607 615	récidive
+T10	morphologie 637 657	maladie métastatique
+T12	topographie 658 667	hépatique
+T13	topographie 684 697	surrénalienne
+T15	morphologie 1649 1681	sarcome pléomorphe indifférencié
+T17	morphologie 1713 1745	sarcome pléomorphe indifférencié
+T19	morphologie 1802 1810	récidive
+T20	morphologie 1812 1834	Progression à distance
+T22	topographie 1836 1845	hépatique
+T23	topographie 1847 1860	adénopathique
+T24	topographie 1877 1890	surrénalienne
+T25	morphologie 2100 2107	Sarcome
+T35	morphologie 2118 2142	pléomorphe indifférencié
+T27	topographie 2108 2117	cardiaque
+T29	morphologie 2227 2252	progression de la maladie
+T31	morphologie 2420 2436	matériel tumoral
+T32	morphologie 3094 3101	maladie
+T34	topographie 3102 3109	osseuse

@@ -1,0 +1,115 @@
+T1	expression_CIM 81 88	tumeurs
+T2	morphologie 81 88	tumeurs
+T3	expression_CIM 494 500	tumeur
+T4	morphologie 494 500	tumeur
+T5	morphologie 753 782	image évocatrice de malignité
+T6	expression_CIM 753 819	image évocatrice de malignité au niveau du tiers proximal du tibia
+T7	topographie 814 819	tibia
+T8	morphologie 1054 1060	lésion
+T9	expression_CIM 1054 1069	lésion du tibia
+T10	topographie 1064 1069	tibia
+T11	expression_CIM 1203 1209	lésion
+T12	morphologie 1203 1209	lésion
+T13	expression_CIM 2086 2112	ostéosarcome conventionnel
+T14	morphologie 2086 2112	ostéosarcome conventionnel
+T15	morphologie 2168 2175	nodules
+T16	expression_CIM 2168 2359	nodules de taille hétérogène, bilatéraux et répartis de façon aléatoire (bien qu'avec une tendance à la localisation sous-pleurale), les plus gros apparaissant dans les deux bases pulmonaires
+T17	topographie 2342 2359	bases pulmonaires
+T18	morphologie 2382 2403	atteinte métastatique
+T19	expression_CIM 2382 2414	atteinte métastatique pulmonaire
+T20	topographie 2404 2414	pulmonaire
+T21	morphologie 2450 2461	adénopathie
+T22	expression_CIM 2450 2480	adénopathie broncho-pulmonaire
+T23	topographie 2462 2480	broncho-pulmonaire
+T24	morphologie 2592 2618	ostéosarcome conventionnel
+T25	expression_CIM 2592 2637	ostéosarcome conventionnel du tibia gauche G3
+T26	topographie 2622 2627	tibia
+T27	differenciation 2635 2637	G3
+T28	expression_CIM 2641 2643	M1
+T29	morphologie 2641 2643	M1
+T30	morphologie 2655 2665	métastases
+T31	expression_CIM 2655 2677	métastases pulmonaires
+T32	topographie 2666 2677	pulmonaires
+T33	morphologie 3137 3148	nodulations
+T34	expression_CIM 3137 3160	nodulations pulmonaires
+T35	topographie 3149 3160	pulmonaires
+T36	morphologie 3380 3385	masse
+T37	expression_CIM 3380 3401	masse des tissus mous
+T38	expression_CIM 3407 3419	ostéosarcome
+T39	morphologie 3407 3419	ostéosarcome
+T40	morphologie 3960 3970	métastases
+T41	expression_CIM 3960 3982	métastases pulmonaires
+T42	topographie 3971 3982	pulmonaires
+T43	morphologie 4151 4156	masse
+T44	expression_CIM 4151 4172	masse des tissus mous
+T45	expression_CIM 4639 4682	ostéosarcome chondroblastique conventionnel
+T46	morphologie 4639 4682	ostéosarcome chondroblastique conventionnel
+T47	expression_CIM 4730 4736	tumeur
+T48	morphologie 4730 4736	tumeur
+T49	morphologie 4968 4975	nodules
+T50	expression_CIM 4968 4987	nodules pulmonaires
+T51	topographie 4976 4987	pulmonaires
+T52	expression_CIM 5232 5252	maladie métastatique
+T53	morphologie 5232 5252	maladie métastatique
+T54	expression_CIM 6055 6062	nodules
+T55	morphologie 6055 6062	nodules
+T56	morphologie 6104 6111	maladie
+T57	expression_CIM 6104 6122	maladie pulmonaire
+T58	topographie 6112 6122	pulmonaire
+T59	expression_CIM 6429 6441	micronodules
+T60	morphologie 6429 6441	micronodules
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/9
+#6	ICD-O T7	C40.2
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C40.2 8000/1
+#9	ICD-O T10	C40.2
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	9186/3
+#13	ICD-O T14	9186/3
+#14	ICD-O T15	8000/1
+#15	ICD-O T17	C34.3
+#16	ICD-O T18	8000/6
+#17	ICD-O T19	C34.9 8000/6
+#18	ICD-O T20	C34.9
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C77.1 8000/1
+#21	ICD-O T23	C34.9
+#22	ICD-O T24	9186/3
+#23	ICD-O T26	C40.2
+#24	ICD-O T27	3
+#25	ICD-O T29	8000/6
+#26	ICD-O T30	8000/6
+#27	ICD-O T31	C34.9 8000/6
+#28	ICD-O T32	C34.9
+#29	ICD-O T33	8000/1
+#30	ICD-O T35	C34.9
+#31	ICD-O T36	8000/1
+#32	ICD-O T37	C49.9 8000/1
+#33	ICD-O T38	9180/3
+#34	ICD-O T39	9180/3
+#35	ICD-O T40	8000/6
+#36	ICD-O T41	C34.9 8000/6
+#37	ICD-O T42	C34.9
+#38	ICD-O T43	8000/1
+#39	ICD-O T44	C49.9 8000/1
+#40	ICD-O T45	9181/3
+#41	ICD-O T46	9181/3
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	8000/3
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C34.9 8000/1
+#46	ICD-O T51	C34.9
+#47	ICD-O T52	8000/6
+#48	ICD-O T53	8000/6
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	8000/9
+#52	ICD-O T57	C34.9 8000/6
+#53	ICD-O T58	C34.9
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	8000/1

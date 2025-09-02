@@ -1,0 +1,57 @@
+T1	morphologie 184 194	métastases
+T2	expression_CIM 184 206	métastases pulmonaires
+T3	topographie 195 206	pulmonaires
+T4	morphologie 331 340	néoplasie
+T5	expression_CIM 331 347	néoplasie rénale
+T6	topographie 341 347	rénale
+T7	morphologie 378 391	envahissement
+T8	expression_CIM 378 436	envahissement du pelvis rénal et de la graisse péri-rénale
+T10	topographie 417 436	graisse péri-rénale
+T11	expression_CIM 444 465	métastases à distance
+T12	morphologie 444 465	métastases à distance
+T13	morphologie 478 486	implants
+T14	expression_CIM 478 578	implants pulmonaires, osseux (vertébral dorsal avec envahissement du canal rachidien) et péritonéaux
+T15	topographie 487 498	pulmonaires
+T16	topographie 500 506	osseux
+T17	topographie 508 524	vertébral dorsal
+T18	expression_CIM 530 562	envahissement du canal rachidien
+T19	topographie 567 578	péritonéaux
+T20	morphologie 708 717;724 742	carcinome à cellules claires
+T21	expression_CIM 708 742	carcinome rénal à cellules claires
+T22	topographie 718 723	rénal
+T23	morphologie 801 811	métastases
+T24	expression_CIM 801 836	métastases dans la glande surrénale
+T25	topographie 820 836	glande surrénale
+T26	expression_CIM 848 856	stade IV
+T27	morphologie 848 856	stade IV
+T28	morphologie 1647 1657	métastases
+T29	expression_CIM 1647 1669	métastases pulmonaires
+T30	topographie 1658 1669	pulmonaires
+T9	topographie 395 407	pelvis rénal
+#1	ICD-O T1	8000/6
+#2	ICD-O T2	C34.9 8000/6
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C64.9 8000/1
+#6	ICD-O T6	C64.9
+#7	ICD-O T7	8000/6
+#8	ICD-O T10	C49.4
+#9	ICD-O T12	8000/6
+#10	ICD-O T13	8000/6
+#11	ICD-O T14	C34.9 8000/6;C41.2 8000/6;C41.9 8000/6;C48.2 8000/6;C76.7 8000/6
+#12	ICD-O T15	C34.9
+#13	ICD-O T16	C41.9
+#14	ICD-O T17	C41.2
+#15	ICD-O T18	C70.1 8000/6
+#16	ICD-O T19	C48.2
+#17	ICD-O T20	8310/3
+#18	ICD-O T21	C64.9 8310/3
+#19	ICD-O T22	C64.9
+#20	ICD-O T23	8000/6
+#21	ICD-O T24	C74.9 8000/6
+#22	ICD-O T25	C74.9
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	C34.9 8000/6
+#27	ICD-O T30	C34.9

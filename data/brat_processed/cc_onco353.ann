@@ -1,0 +1,63 @@
+T42	morphologie 3278 3301	formation adénopathique
+T1	morphologie 143 149	cancer
+T3	topographie 150 164	bronchogénique
+T4	morphologie 194 200	tumeur
+T6	topographie 201 210	cérébrale
+T7	morphologie 273 294	carcinome épidermoïde
+T9	topographie 300 308	amygdale
+T11	morphologie 433 439	lésion
+T12	morphologie 515 536	carcinome épidermoïde
+T14	topographie 542 550	amygdale
+T16	morphologie 1391 1399	récidive
+T18	morphologie 1406 1425	maladie néoplasique
+T19	morphologie 1465 1471	nodule
+T21	topographie 1472 1482	pulmonaire
+T22	topographie 1491 1505	lobe supérieur
+T23	topographie 1513 1516	LSD
+T24	morphologie 1677 1700	lésion pseudo-nodulaire
+T26	topographie 1708 1723	apex pulmonaire
+T27	morphologie 1761 1767	lésion
+T29	topographie 1768 1780	œsophagienne
+T31	morphologie 1976 1988	adénopathies
+T32	morphologie 2342 2353	adénopathie
+T34	topographie 2354 2366	médiastinale
+T35	topographie 2368 2375	hilaire
+T36	topographie 2379 2388	axillaire
+T38	morphologie 2696 2702	lésion
+T39	morphologie 2949 2971	lésion pseudonodulaire
+T41	topographie 2979 2993	apex du poumon
+T45	morphologie 3485 3530	augmentation focale de l'activité métabolique
+T47	topographie 3538 3546	œsophage
+T48	morphologie 3689 3700	adénopathie
+T50	topographie 3701 3714	paratrachéale
+T52	morphologie 3975 3981	tumeur
+T53	morphologie 4256 4277	carcinome épidermoïde
+T55	differenciation 4278 4293	peu différencié
+T58	morphologie 4379 4385	lésion
+T60	morphologie 4695 4706	Adénopathie
+T61	morphologie 4868 4877	néoplasie
+T63	topographie 4883 4897	œsophage moyen
+T65	morphologie 4909 4920	Adénopathie
+T66	morphologie 4962 4983	Carcinome épidermoïde
+T68	differenciation 4984 4999	peu différencié
+T69	topographie 5005 5013	œsophage
+T70	morphologie 5023 5029	Nodule
+T72	topographie 5030 5040	pulmonaire
+T73	topographie 5049 5052	DSL
+T74	morphologie 5070 5091	Carcinome épidermoïde
+T76	topographie 5097 5105	amygdale
+T78	morphologie 5346 5352	nodule
+T80	morphologie 5610 5616	lésion
+T81	morphologie 6227 6256	consolidation pseudonodulaire
+T83	topographie 6272 6275	LSD
+T85	morphologie 6383 6389	lésion
+T87	morphologie 6500 6517	cellules malignes
+T89	morphologie 6623 6637	adénocarcinome
+T90	morphologie 6844 6850	lésion
+T92	topographie 6851 6863	œsophagienne
+T93	morphologie 6904 6910	lésion
+T95	topographie 6918 6933	apex pulmonaire
+T96	morphologie 6972 6983	adénopathie
+T98	topographie 6984 6998	pré-vasculaire
+T44	topographie 3350 3381	région paratrachéale supérieure
+T56	topographie 4319 4344	tiers moyen de l'œsophage

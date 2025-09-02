@@ -1,0 +1,99 @@
+T34	topographie 2197 2216	cordon testiculaire
+T20	topographie 1821 1837	région pariétale
+T1	expression_CIM 415 436	image de ballon lâche
+T2	morphologie 415 436	image de ballon lâche
+T3	morphologie 1062 1068	lésion
+T4	expression_CIM 1062 1098	lésion mal définie dans le testicule
+T5	topographie 1089 1098	testicule
+T6	morphologie 1366 1373	nodules
+T7	expression_CIM 1366 1385	nodules pulmonaires
+T8	topographie 1374 1385	pulmonaires
+T9	morphologie 1574 1580;1589 1628	tumeur primitive de type carcinome épidermoïde
+T10	expression_CIM 1574 1644	tumeur cutanée primitive de type carcinome épidermoïde peu différencié
+T11	topographie 1581 1588	cutanée
+T12	differenciation 1629 1644	peu différencié
+T13	expression_CIM 1652 1661	métastase
+T14	morphologie 1652 1661	métastase
+T15	expression_CIM 1668 1726	tumeur à différenciation germinale de type trophoblastique
+T16	morphologie 1668 1726	tumeur à différenciation germinale de type trophoblastique
+T17	morphologie 1790 1796	lésion
+T18	expression_CIM 1790 1837	lésion des tissus mous dans la région pariétale
+T19	topographie 1801 1812	tissus mous
+T21	expression_CIM 1980 2020	tumeur germinale mixte non séminomateuse
+T22	morphologie 1980 2020	tumeur germinale mixte non séminomateuse
+T23	expression_CIM 2034 2062	tumeur du sinus endodermique
+T24	morphologie 2034 2062	tumeur du sinus endodermique
+T25	expression_CIM 2072 2087	choriocarcinome
+T26	morphologie 2072 2087	choriocarcinome
+T27	expression_CIM 2099 2107	tératome
+T28	morphologie 2099 2107	tératome
+T29	morphologie 2127 2135	invasion
+T30	expression_CIM 2127 2155	invasion vasculaire veineuse
+T31	topographie 2136 2155	vasculaire veineuse
+T32	morphologie 2163 2171	tératome
+T33	expression_CIM 2163 2216	tératome dans la zone centrale du cordon testiculaire
+T35	morphologie 2233 2241	invasion
+T36	expression_CIM 2233 2260	invasion vasculolymphatique
+T37	topographie 2242 2260	vasculolymphatique
+T38	morphologie 2274 2397	Tumeur germinale non séminomateuse mixte (60 % de tumeur du sinus endodermique, 20 % de choriocarcinome et 20 % de tératome
+T39	expression_CIM 2274 2411	Tumeur germinale non séminomateuse mixte (60 % de tumeur du sinus endodermique, 20 % de choriocarcinome et 20 % de tératome) du testicule
+T40	topographie 2402 2411	testicule
+T41	expression_CIM 2420 2429	stade IVA
+T42	morphologie 2420 2429	stade IVA
+T43	morphologie 2431 2441	métastases
+T44	expression_CIM 2431 2453	métastases pulmonaires
+T45	topographie 2442 2453	pulmonaires
+T46	morphologie 4890 4895	foyer
+T47	expression_CIM 4890 4906	foyer pulmonaire
+T48	topographie 4896 4906	pulmonaire
+T49	morphologie 5406 5416	métastases
+T50	expression_CIM 5406 5441	métastases pulmonaires et pleurales
+T51	topographie 5417 5428	pulmonaires
+T52	topographie 5432 5441	pleurales
+#1	ICD-O T2	8000/6
+#2	ICD-O T3	8000/1
+#3	ICD-O T4	C62.9 8000/1
+#4	ICD-O T5	C62.9
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C34.9 8000/1
+#7	ICD-O T8	C34.9
+#8	ICD-O T9	8070/3
+#9	ICD-O T11	C44.9
+#10	ICD-O T12	3
+#11	ICD-O T13	8000/6
+#12	ICD-O T14	8000/6
+#13	ICD-O T16	9064/3
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	C49.9 8000/1;C71.3 8000/1
+#16	ICD-O T19	C49.9
+#17	ICD-O T21	9065/3
+#18	ICD-O T22	9065/3
+#19	ICD-O T23	9071/3
+#20	ICD-O T24	9071/3
+#21	ICD-O T25	9100/3
+#22	ICD-O T26	9100/3
+#23	ICD-O T27	9080/1
+#24	ICD-O T28	9080/1
+#25	ICD-O T29	8000/9
+#26	ICD-O T30	C49.9 8000/1
+#27	ICD-O T31	C49.9
+#28	ICD-O T32	9080/1
+#29	ICD-O T35	8000/9
+#30	ICD-O T36	C49.9 8000/1
+#31	ICD-O T37	C49.9
+#32	ICD-O T38	9065/3
+#33	ICD-O T39	C62.9 9085/3
+#34	ICD-O T40	C62.9
+#35	ICD-O T41	8000/6
+#36	ICD-O T42	8000/6
+#37	ICD-O T43	8000/6
+#38	ICD-O T44	C34.9 8000/6
+#39	ICD-O T45	C34.9
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	C34.9 8000/1
+#42	ICD-O T48	C34.9
+#43	ICD-O T49	8000/6
+#44	ICD-O T50	C34.9 8000/6;C38.4 8000/6
+#45	ICD-O T51	C34.9
+#46	ICD-O T52	C38.4
+#47	AnnotatorNotes T2	trad

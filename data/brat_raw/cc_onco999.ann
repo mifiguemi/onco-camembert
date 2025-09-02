@@ -1,0 +1,134 @@
+T27	topographie 2348 2350	T2
+T28	topographie 2354 2356	T3
+T1	expression_CIM 156 172	phéochromocytome
+T2	morphologie 156 172	phéochromocytome
+T3	expression_CIM 173 186	paragangliome
+T4	morphologie 173 186	paragangliome
+T5	morphologie 292 305	paragangliome
+T6	expression_CIM 292 348	paragangliome bilatéral dans la bifurcation carotidienne
+T7	topographie 324 348	bifurcation carotidienne
+T8	morphologie 416 429	paragangliome
+T9	expression_CIM 416 462	paragangliome dans la bifurcation carotidienne
+T10	topographie 438 462	bifurcation carotidienne
+T11	morphologie 1151 1164	paragangliome
+T12	expression_CIM 1151 1197	paragangliome dans la bifurcation carotidienne
+T13	topographie 1173 1197	bifurcation carotidienne
+T14	morphologie 1349 1374	conglomérat adénopathique
+T15	expression_CIM 1349 1388	conglomérat adénopathique para-aortique
+T16	topographie 1375 1388	para-aortique
+T17	morphologie 1681 1687	tumeur
+T18	expression_CIM 1681 1720	tumeur de la face antérieure de l'aorte
+T19	topographie 1715 1720	aorte
+T20	expression_CIM 1754 1767	paragangliome
+T21	morphologie 1754 1767	paragangliome
+T22	topographie 1846 1851	angio
+T23	expression_CIM 1846 1860	angio-invasion
+T24	morphologie 1852 1860	invasion
+T25	morphologie 2325 2344	lésion métastatique
+T26	expression_CIM 2325 2356	lésion métastatique en T2 et T3
+T29	morphologie 2389 2396;2406 2419	lésions métastatiques
+T30	expression_CIM 2389 2419	lésions osseuses métastatiques
+T31	topographie 2397 2405	osseuses
+T32	morphologie 2479 2487	atteinte
+T33	expression_CIM 2479 2509	atteinte de la moelle épinière
+T34	topographie 2494 2509	moelle épinière
+T35	expression_CIM 3037 3062	progression de la maladie
+T36	morphologie 3037 3062	progression de la maladie
+T37	morphologie 3907 3916	métastase
+T38	expression_CIM 3907 3945	métastase dans le corps-pédicule de D2
+T39	topographie 3925 3945	corps-pédicule de D2
+T40	morphologie 3964 3988	infiltration néoplasique
+T41	expression_CIM 3964 4031	infiltration néoplasique diffuse dans le reste des corps vertébraux
+T42	topographie 4015 4031	corps vertébraux
+T43	morphologie 4067 4075	atteinte
+T44	expression_CIM 4067 4092	atteinte rétropéritonéale
+T45	topographie 4076 4092	rétropéritonéale
+T46	morphologie 4094 4106	infiltration
+T47	expression_CIM 4094 4114	infiltration osseuse
+T48	topographie 4107 4114	osseuse
+T49	morphologie 4131 4139	atteinte
+T50	expression_CIM 4131 4155	atteinte des tissus mous
+T51	topographie 4144 4155	tissus mous
+T52	morphologie 4167 4176	extension
+T53	expression_CIM 4167 4200	extension vers le canal rachidien
+T54	topographie 4185 4200	canal rachidien
+T55	morphologie 4212 4224	infiltration
+T56	expression_CIM 4212 4248	infiltration de la graisse périnéale
+T57	topographie 4231 4248	graisse périnéale
+T58	morphologie 4267 4275	atteinte
+T59	expression_CIM 4267 4283	atteinte osseuse
+T60	topographie 4276 4283	osseuse
+T61	morphologie 4376 4389	Paragangliome
+T62	expression_CIM 4376 4422	Paragangliome dans la bifurcation carotidienne
+T63	topographie 4398 4422	bifurcation carotidienne
+T64	morphologie 4438 4446	récidive
+T65	expression_CIM 4438 4460	récidive para-aortique
+T66	topographie 4447 4460	para-aortique
+T67	expression_CIM 4489 4497	stade IV
+T68	morphologie 4489 4497	stade IV
+T69	morphologie 4521 4531	métastases
+T70	expression_CIM 4521 4540	métastases osseuses
+T71	topographie 4532 4540	osseuses
+#1	ICD-O T1	8700/0
+#2	ICD-O T2	8700/0
+#3	ICD-O T3	8680/1
+#4	ICD-O T4	8680/1
+#5	ICD-O T5	8680/1
+#6	ICD-O T7	C49.0
+#7	ICD-O T8	8680/1
+#8	ICD-O T10	C49.0
+#9	ICD-O T11	8680/1
+#10	ICD-O T13	C49.0
+#11	ICD-O T14	8000/1
+#12	ICD-O T15	C77.2 8000/1
+#13	ICD-O T16	C49.4
+#14	ICD-O T17	8000/1
+#15	ICD-O T18	C49.3 8000/1
+#16	ICD-O T19	C49.3
+#17	ICD-O T20	8680/1
+#18	ICD-O T21	8680/1
+#19	ICD-O T22	C49.9
+#20	ICD-O T23	C49.9 8000/1
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/6
+#23	ICD-O T29	8000/6
+#24	ICD-O T30	C41.9 8000/6
+#25	ICD-O T31	C41.9
+#26	ICD-O T32	8000/1
+#27	ICD-O T33	C72.0 8000/1
+#28	ICD-O T34	C72.0
+#29	ICD-O T35	8000/1
+#30	ICD-O T36	8000/1
+#31	ICD-O T37	8000/6
+#32	ICD-O T38	C41.2 8000/6
+#33	ICD-O T39	C41.2
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	C41.2 8000/1
+#36	ICD-O T42	C41.2
+#37	ICD-O T43	8000/1
+#38	ICD-O T45	C48.0
+#39	ICD-O T46	8000/1
+#40	ICD-O T47	C41.9 8000/1
+#41	ICD-O T48	C41.9
+#42	ICD-O T49	8000/1
+#43	ICD-O T50	C49.9 8000/1
+#44	ICD-O T51	C49.9
+#45	ICD-O T52	8000/6
+#46	ICD-O T53	C70.1 8000/6
+#47	ICD-O T54	C70.1
+#48	ICD-O T55	8000/1
+#49	ICD-O T56	C49.5 8000/1
+#50	ICD-O T57	C49.5
+#51	ICD-O T58	8000/1
+#52	ICD-O T59	C41.9 8000/1
+#53	ICD-O T60	C41.9
+#54	ICD-O T61	8680/1
+#55	ICD-O T63	C49.0
+#56	ICD-O T64	8000/6
+#57	ICD-O T65	C49.4 8000/6
+#58	ICD-O T66	C49.4
+#59	ICD-O T67	8000/6
+#60	ICD-O T68	8000/6
+#61	ICD-O T69	8000/6
+#62	ICD-O T70	C41.9 8000/6
+#63	ICD-O T71	C41.9

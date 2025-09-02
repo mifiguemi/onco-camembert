@@ -1,0 +1,74 @@
+T37	topographie 4488 4495	jéjunal
+T1	morphologie 104 109	nævus
+T3	topographie 124 140	membre supérieur
+T5	morphologie 197 203	naevus
+T7	morphologie 293 301	mélanome
+T9	morphologie 430 442	infiltration
+T10	morphologie 483 491	invasion
+T12	topographie 492 502	vasculaire
+T13	topographie 506 517	périneurale
+T15	morphologie 849 868	maladie oncologique
+T17	morphologie 885 892	lésions
+T19	morphologie 1441 1446	masse
+T20	morphologie 3709 3714	masse
+T22	topographie 3730 3736	ovaire
+T23	morphologie 3783 3796	incidentalome
+T25	topographie 3797 3808	surrénalien
+T26	morphologie 4138 4154	lésion polypoïde
+T28	topographie 4168 4175	jéjunum
+T29	morphologie 4190 4206	lésion polypoïde
+T31	topographie 4242 4249	jéjunum
+T32	morphologie 4296 4308	adénopathies
+T34	topographie 4317 4326	mésentère
+T35	morphologie 4481 4487	polype
+T38	morphologie 4502 4510	tératome
+T40	topographie 4511 4518	ovarien
+T41	morphologie 4535 4548	carcinomatose
+T43	topographie 4549 4560	péritonéale
+T45	morphologie 4586 4592	lésion
+T46	morphologie 4949 4954	masse
+T48	topographie 4963 4987	lobe supérieur du poumon
+T49	morphologie 5105 5111	lésion
+T51	topographie 5112 5125	surrénalienne
+T53	morphologie 5243 5248	masse
+T55	morphologie 5374 5384	métastases
+T57	morphologie 5388 5396	mélanome
+T58	morphologie 5426 5433	lésions
+T60	topographie 5434 5446	intestinales
+T61	morphologie 5493 5503	métastases
+T64	morphologie 5507 5515	mélanome
+T65	topographie 5523 5537	intestin grêle
+T66	morphologie 5594 5602	invasion
+T68	topographie 5603 5613	vasculaire
+T69	morphologie 5766 5772	lésion
+T71	topographie 5773 5782	ovarienne
+T73	morphologie 5816 5840	tératome kystique mature
+T75	morphologie 5853 5861	Mélanome
+T76	morphologie 5902 5912	métastases
+T78	topographie 5913 5924	pulmonaires
+T79	topographie 5926 5940	surrénaliennes
+T80	topographie 5944 5956	intestinales
+T81	morphologie 6770 6776	lésion
+T83	topographie 6777 6790	surrénalienne
+T84	morphologie 6800 6805	masse
+T86	topographie 6814 6820	poumon
+T88	morphologie 6864 6889	progression de la maladie
+T89	morphologie 6967 6973	lésion
+T91	topographie 6974 6984	pulmonaire
+T92	morphologie 7354 7360	lésion
+T94	topographie 7361 7371	pulmonaire
+T96	morphologie 7403 7422	maladie néoplasique
+T97	morphologie 7571 7576	masse
+T99	topographie 7577 7587	pulmonaire
+T100	morphologie 7942 7947	masse
+T102	topographie 7956 7970	lobe supérieur
+T103	morphologie 8210 8216	lésion
+T105	topographie 8217 8227	pulmonaire
+T106	morphologie 8289 8295	lésion
+T108	topographie 8296 8309	surrénalienne
+T109	morphologie 8667 8673	lésion
+T111	topographie 8682 8698	glande surrénale
+T112	morphologie 9188 9194	lésion
+T114	topographie 9195 9208	surrénalienne
+T116	morphologie 9244 9263	maladie néoplasique
+T118	morphologie 9493 9512	maladie néoplasique

@@ -1,0 +1,14 @@
+T1	morphologie 516 525	néoplasie
+T3	topographie 529 533	sein
+T4	topographie 548 574	quadrant supérieur externe
+T5	morphologie 790 820	carcinome canalaire infiltrant
+T7	differenciation 821 823	G2
+T8	morphologie 965 977	infiltration
+T10	topographie 978 989	périneurale
+T12	morphologie 1054 1070	maladie tumorale
+T14	morphologie 1172 1190	maladie disséminée
+T15	morphologie 1245 1275	carcinome canalaire infiltrant
+T17	topographie 1279 1283	sein
+T19	morphologie 2027 2043	lymphadénopathie
+T21	morphologie 2170 2178	récidive
+T23	morphologie 2460 2466	masses

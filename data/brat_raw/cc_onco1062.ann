@@ -1,0 +1,143 @@
+T1	morphologie 60 81	carcinome épidermoïde
+T2	expression_CIM 60 100	carcinome épidermoïde du sinus piriforme
+T3	topographie 85 100	sinus piriforme
+T4	morphologie 118 130	adénopathies
+T5	expression_CIM 118 147	adénopathies latérocervicales
+T6	topographie 131 147	latérocervicales
+T7	expression_CIM 1329 1334	masse
+T8	morphologie 1329 1334	masse
+T9	morphologie 2936 2943	lésions
+T10	expression_CIM 2936 2965	lésions focales intra-axiales
+T12	expression_CIM 3279 3285	lésion
+T13	morphologie 3279 3285	lésion
+T14	expression_CIM 3509 3516	lésions
+T15	morphologie 3509 3516	lésions
+T16	expression_CIM 3544 3554	métastases
+T17	morphologie 3544 3554	métastases
+T18	morphologie 3864 3871	lésions
+T19	expression_CIM 3864 3912	lésions sont détectées dans la calotte crânienne
+T20	topographie 3895 3912	calotte crânienne
+T21	expression_CIM 4115 4122	Lésions
+T22	morphologie 4115 4122	Lésions
+T23	expression_CIM 4341 4347	lésion
+T24	morphologie 4341 4347	lésion
+T25	morphologie 4504 4510	Lésion
+T26	expression_CIM 4504 4572	Lésion subcentimétrique non spécifique dans l'hémisphère cérébelleux
+T27	topographie 4550 4572	hémisphère cérébelleux
+T28	morphologie 4640 4647	lésions
+T29	expression_CIM 4640 4707	lésions parenchymateuses millimétriques cérébelleuses et cérébrales
+T30	topographie 4680 4693	cérébelleuses
+T31	topographie 4697 4707	cérébrales
+T32	morphologie 4853 4859	lésion
+T33	expression_CIM 4853 4872	lésion cérébelleuse
+T34	topographie 4860 4872	cérébelleuse
+T35	morphologie 4885 4892	lésions
+T36	expression_CIM 4885 4922	lésions périventriculaires pariétales
+T38	morphologie 4955 4962	lésions
+T39	expression_CIM 4955 5004	lésions millimétriques extracrâniennes (pharyngée
+T40	topographie 4995 5004	pharyngée
+T41	morphologie 5135 5145	métastases
+T42	expression_CIM 5135 5180	métastases osseuses intra- et extracrâniennes
+T43	topographie 5146 5180	osseuses intra- et extracrâniennes
+T44	morphologie 5477 5483	Lésion
+T45	expression_CIM 5477 5523	Lésion pseudonodulaire dans la paroi pharyngée
+T46	topographie 5514 5523	pharyngée
+T47	morphologie 5621 5627	lésion
+T48	expression_CIM 5621 5645	lésion du lobe inférieur
+T49	topographie 5631 5645	lobe inférieur
+T50	expression_CIM 5665 5679	tumeur maligne
+T51	morphologie 5665 5679	tumeur maligne
+T52	morphologie 5698 5710	adénopathies
+T53	expression_CIM 5698 5724	adénopathies médiastinales
+T54	topographie 5711 5724	médiastinales
+T55	morphologie 5746 5757	adénopathie
+T56	expression_CIM 5746 5767	adénopathie cervicale
+T57	topographie 5758 5767	cervicale
+T58	expression_CIM 5799 5816	cellules malignes
+T59	morphologie 5799 5816	cellules malignes
+T60	expression_CIM 5818 5840	Carcinome microcytaire
+T61	morphologie 5818 5840	Carcinome microcytaire
+T62	morphologie 5854 5863;5875 5893	Carcinome à petites cellules
+T63	expression_CIM 5854 5893	Carcinome pulmonaire à petites cellules
+T64	topographie 5864 5874	pulmonaire
+T65	expression_CIM 5897 5912	stade disséminé
+T66	morphologie 5897 5912	stade disséminé
+T67	morphologie 6131 6141	métastases
+T68	expression_CIM 6131 6152	métastases cérébrales
+T69	topographie 6142 6152	cérébrales
+T70	morphologie 6443 6452;6464 6476	carcinome microcytaire
+T71	expression_CIM 6443 6476	carcinome pulmonaire microcytaire
+T72	topographie 6453 6463	pulmonaire
+T73	expression_CIM 6478 6493	stade disséminé
+T74	morphologie 6478 6493	stade disséminé
+T11	topographie 2952 2965	intra-axiales
+T37	topographie 4893 4922	périventriculaires pariétales
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	C12.9 8070/3
+#3	ICD-O T3	C12.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	8000/1
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	8000/6
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C41.0 8000/1
+#18	ICD-O T20	C41.0
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T27	C71.6
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C71.0 8000/1;C71.6 8000/1
+#27	ICD-O T30	C71.6
+#28	ICD-O T31	C71.0
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	C71.6 8000/1
+#31	ICD-O T34	C71.6
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	C71.3 8000/1;C71.9 8000/1
+#34	ICD-O T38	8000/1
+#35	ICD-O T40	C14.0
+#36	ICD-O T41	8000/6
+#37	ICD-O T42	C41.8 8000/6
+#38	ICD-O T43	C41.8
+#39	ICD-O T44	8000/1
+#40	ICD-O T45	C14.0 8000/1
+#41	ICD-O T46	C14.0
+#42	ICD-O T47	8000/1
+#43	ICD-O T48	C34.3 8000/1
+#44	ICD-O T49	C34.3
+#45	ICD-O T50	8000/3
+#46	ICD-O T51	8000/3
+#47	ICD-O T52	8000/1
+#48	ICD-O T53	C77.1 8000/1
+#49	ICD-O T54	C38.3
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	C77.0 8000/1
+#52	ICD-O T57	C76.0
+#53	ICD-O T58	8000/1
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	8041/3
+#56	ICD-O T61	8041/3
+#57	ICD-O T62	8041/3
+#58	ICD-O T63	C34.9 8041/3
+#59	ICD-O T64	C34.9
+#60	ICD-O T65	8000/6
+#61	ICD-O T66	8000/6
+#62	ICD-O T67	8000/6
+#63	ICD-O T68	C71.0 8000/6
+#64	ICD-O T69	C71.0
+#65	ICD-O T70	8041/3
+#66	ICD-O T71	C34.9 8041/3
+#67	ICD-O T72	C34.9
+#68	ICD-O T73	8000/6
+#69	ICD-O T74	8000/6

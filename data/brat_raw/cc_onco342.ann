@@ -1,0 +1,137 @@
+T1	morphologie 116 125	carcinome
+T2	expression_CIM 116 134	carcinome mammaire
+T3	topographie 126 134	mammaire
+T4	morphologie 833 849	lésion nodulaire
+T5	expression_CIM 833 861	lésion nodulaire sur le sein
+T6	topographie 857 861	sein
+T7	morphologie 1147 1153	nodule
+T8	expression_CIM 1147 1228	nodule mesurant 9 cm sur 6 cm a été palpé dans le quadrant supéro-externe du sein
+T9	topographie 1197 1228	quadrant supéro-externe du sein
+T10	expression_CIM 1634 1639	masse
+T11	morphologie 1634 1639	masse
+T12	morphologie 1906 1915	néoplasie
+T13	expression_CIM 1906 1924	néoplasie mammaire
+T14	topographie 1916 1924	mammaire
+T15	morphologie 2216 2224	atteinte
+T16	expression_CIM 2216 2280	atteinte étendue de tout le tissu glandulaire du sein gauche CSE
+T18	morphologie 2484 2514	carcinome lobulaire infiltrant
+T19	expression_CIM 2484 2557	carcinome lobulaire infiltrant du sein gauche, grade histologique (GH) II
+T20	topographie 2518 2522	sein
+T21	differenciation 2531 2557	grade histologique (GH) II
+T22	morphologie 2837 2867	carcinome lobulaire infiltrant
+T23	expression_CIM 2837 2875	carcinome lobulaire infiltrant du sein
+T24	topographie 2871 2875	sein
+T25	expression_CIM 3178 3196	maladie à distance
+T26	morphologie 3178 3196	maladie à distance
+T27	morphologie 3385 3415	carcinome lobulaire infiltrant
+T28	expression_CIM 3385 3481	carcinome lobulaire infiltrant du sein gauche, cT3 cN0 M0, stade IIB, GH II, phénotype luminal B
+T29	topographie 3419 3423	sein
+T30	stadeTNM 3432 3442	cT3 cN0 M0
+T31	differenciation 3455 3460	GH II
+T32	morphologie 3975 3983	atteinte
+T33	expression_CIM 3975 4020	atteinte glandulaire au niveau du SCC du sein
+T35	expression_CIM 4930 4992	carcinome infiltrant mixte (lobulaire et sans type particulier
+T36	morphologie 4930 4992	carcinome infiltrant mixte (lobulaire et sans type particulier
+T37	morphologie 5474 5490	lésions malignes
+T38	expression_CIM 5474 5534	lésions malignes dans le reste du tissu glandulaire mammaire
+T40	morphologie 6682 6693	adénopathie
+T41	expression_CIM 6682 6739	adénopathie axillaire, médiastinale ou abdomino-pelvienne
+T42	topographie 6694 6703	axillaire
+T43	topographie 6705 6717	médiastinale
+T44	topographie 6721 6739	abdomino-pelvienne
+T45	expression_CIM 6949 6968	lésion métastatique
+T46	morphologie 6949 6968	lésion métastatique
+T47	morphologie 7033 7066	captation intense du radiotraceur
+T48	expression_CIM 7033 7084	captation intense du radiotraceur dans l'os iliaque
+T49	topographie 7074 7084	os iliaque
+T50	expression_CIM 7237 7246	métastase
+T51	morphologie 7237 7246	métastase
+T52	morphologie 7313 7319	lésion
+T53	expression_CIM 7313 7338	lésion de la lame iliaque
+T54	topographie 7326 7338	lame iliaque
+T55	expression_CIM 7378 7385	lésions
+T56	morphologie 7378 7385	lésions
+T57	morphologie 7411 7417	lésion
+T58	expression_CIM 7411 7449	lésion osseuse mixte dans l'os iliaque
+T59	topographie 7418 7425	osseuse
+T60	topographie 7439 7449	os iliaque
+T61	morphologie 7611 7624	condensations
+T62	expression_CIM 7611 7636	condensations pulmonaires
+T63	topographie 7625 7636	pulmonaires
+T64	expression_CIM 7829 7838	métastase
+T65	morphologie 7829 7838	métastase
+T66	morphologie 7842 7851	carcinome
+T67	expression_CIM 7842 7888	carcinome compatible avec une origine mammaire
+T68	topographie 7880 7888	mammaire
+T69	morphologie 8105 8126	rechute de la maladie
+T70	expression_CIM 8105 8143	rechute de la maladie au niveau osseux
+T71	topographie 8137 8143	osseux
+T72	morphologie 8887 8893	lésion
+T73	expression_CIM 8887 8901	lésion osseuse
+T74	topographie 8894 8901	osseuse
+T34	topographie 4009 4020	SCC du sein
+T17	topographie 2265 2280	sein gauche CSE
+T39	topographie 5508 5534	tissu glandulaire mammaire
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C50.9 8010/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C50.4 8000/1
+#9	ICD-O T9	C50.4
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C50.9 8000/1
+#14	ICD-O T14	C50.9
+#15	ICD-O T15	8000/9
+#16	ICD-O T18	8520/3
+#17	ICD-O T19	C50.9 8520/32
+#18	ICD-O T20	C50.9
+#19	ICD-O T21	2
+#20	ICD-O T22	8520/3
+#21	ICD-O T23	C50.9 8520/3
+#22	ICD-O T24	C50.9
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	8520/3
+#26	ICD-O T29	C50.9
+#27	ICD-O T30	todelete
+#28	ICD-O T31	2
+#29	ICD-O T32	8000/9
+#30	ICD-O T36	8524/3
+#31	ICD-O T37	8000/3
+#32	ICD-O T40	8000/1
+#33	ICD-O T41	C77.1 8000/1;C77.2 8000/1;C77.3 8000/1
+#34	ICD-O T42	C76.1
+#35	ICD-O T43	C38.3
+#36	ICD-O T44	C76.8
+#37	ICD-O T45	8000/6
+#38	ICD-O T46	8000/6
+#39	ICD-O T47	8000/9
+#40	ICD-O T49	C41.4
+#41	ICD-O T50	8000/6
+#42	ICD-O T51	8000/6
+#43	ICD-O T52	8000/1
+#44	ICD-O T53	C41.4 8000/1
+#45	ICD-O T54	C41.4
+#46	ICD-O T55	8000/1
+#47	ICD-O T56	8000/1
+#48	ICD-O T57	8000/1
+#49	ICD-O T58	C41.4 8000/1;C41.9 8000/1
+#50	ICD-O T59	C41.9
+#51	ICD-O T60	C41.4
+#52	ICD-O T61	8000/1
+#53	ICD-O T63	C34.9
+#54	ICD-O T64	8000/6
+#55	ICD-O T65	8000/6
+#56	ICD-O T66	8010/3
+#57	ICD-O T67	C50.9 8010/3
+#58	ICD-O T68	C50.9
+#59	ICD-O T69	8000/9
+#60	ICD-O T71	C41.9
+#61	ICD-O T72	8000/1
+#62	ICD-O T73	C41.9 8000/1
+#63	ICD-O T74	C41.9

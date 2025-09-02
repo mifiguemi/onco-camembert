@@ -1,0 +1,29 @@
+T2	morphologie 320 326	lésion
+T4	morphologie 385 415	maladie de Paget extramammaire
+T6	morphologie 660 669	métastase
+T8	morphologie 672 686	adénocarcinome
+T10	morphologie 822 828	lésion
+T12	morphologie 1031 1037	masses
+T13	morphologie 1171 1182	adénopathie
+T15	topographie 1183 1192	inguinale
+T17	morphologie 1489 1498	néoplasme
+T18	morphologie 1530 1537	tumeurs
+T20	topographie 1538 1554	génito-urinaires
+T21	topographie 1558 1568	digestives
+T23	morphologie 1891 1898	lésions
+T24	morphologie 2050 2080	adénopathies hypermétaboliques
+T26	topographie 2097 2119	chaîne iliaque commune
+T28	topographie 2139 2148	inguinale
+T30	morphologie 2188 2202	tumeur maligne
+T31	morphologie 2216 2232	Maladie de Paget
+T33	topographie 2236 2243	scrotum
+T34	morphologie 2249 2257	atteinte
+T36	topographie 2262 2298	ganglions lymphatiques extrapelviens
+T38	morphologie 2376 2383	maladie
+T39	morphologie 2413 2419	lésion
+T41	topographie 2420 2428	scrotale
+T43	morphologie 2530 2536	lésion
+T44	morphologie 2719 2731	adénopathies
+T46	topographie 2732 2742	inguinales
+T48	morphologie 2854 2876	foyer hypermétabolique
+T27	topographie 2121 2128	externe

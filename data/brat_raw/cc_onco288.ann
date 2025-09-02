@@ -1,0 +1,109 @@
+T35	topographie 1968 1983	latérocervicale
+T43	topographie 4685 4718	lobe hépatique droit (segment IVB
+T1	morphologie 467 482	masse polypoïde
+T2	expression_CIM 467 497	masse polypoïde dans la narine
+T3	topographie 491 497	narine
+T4	expression_CIM 539 560	processus néoplasique
+T5	morphologie 539 560	processus néoplasique
+T6	morphologie 605 613	mélanome
+T7	expression_CIM 605 628	mélanome de la muqueuse
+T9	expression_CIM 816 822	lésion
+T10	morphologie 816 822	lésion
+T11	morphologie 848 856	atteinte
+T12	expression_CIM 848 890	atteinte de la paroi médiane du maxillaire
+T14	morphologie 898 907	extension
+T15	expression_CIM 898 919	extension à la choane
+T16	topographie 913 919	choane
+T17	morphologie 1190 1198	invasion
+T18	expression_CIM 1190 1209	invasion vasculaire
+T19	topographie 1199 1209	vasculaire
+T20	expression_CIM 1384 1401	récidive tumorale
+T21	morphologie 1384 1401	récidive tumorale
+T22	morphologie 1420 1428	invasion
+T23	expression_CIM 1420 1474	invasion extra-axiale de la fosse cérébrale antérieure
+T24	topographie 1448 1474	fosse cérébrale antérieure
+T25	expression_CIM 1710 1715	masse
+T26	morphologie 1710 1715	masse
+T27	morphologie 1823 1831	invasion
+T28	expression_CIM 1823 1846	invasion intracrânienne
+T29	topographie 1832 1846	intracrânienne
+T30	morphologie 1856 1868	infiltration
+T31	expression_CIM 1856 1913	infiltration probable de la méninge de la région frontale
+T32	topographie 1884 1913	méninge de la région frontale
+T33	morphologie 1925 1961	conglomérat nécrotique adénopathique
+T34	expression_CIM 1925 1983	conglomérat nécrotique adénopathique de la latérocervicale
+T36	expression_CIM 2258 2264	lésion
+T37	morphologie 2258 2264	lésion
+T38	expression_CIM 3271 3277	lésion
+T39	morphologie 3271 3277	lésion
+T40	morphologie 4642 4645	LOE
+T41	expression_CIM 4642 4718	LOE hépatiques inconnues, dont une dans le lobe hépatique droit (segment IVB
+T42	topographie 4646 4656	hépatiques
+T44	morphologie 4901 4909	mélanome
+T45	expression_CIM 4901 4931	mélanome de la muqueuse nasale
+T46	topographie 4916 4931	muqueuse nasale
+T47	morphologie 4941 4965	progression métastatique
+T48	expression_CIM 4941 4986	progression métastatique massive vers le foie
+T49	topographie 4982 4986	foie
+T50	expression_CIM 5787 5793	lésion
+T51	morphologie 5787 5793	lésion
+T52	expression_CIM 7329 7345	mélanome muqueux
+T53	morphologie 7329 7345	mélanome muqueux
+T54	morphologie 7629 7637	mélanome
+T55	expression_CIM 7629 7659	mélanome de la muqueuse nasale
+T56	topographie 7644 7659	muqueuse nasale
+T57	morphologie 7669 7693	progression métastatique
+T58	expression_CIM 7669 7709	progression métastatique massive au foie
+T59	topographie 7705 7709	foie
+T13	topographie 880 890	maxillaire
+T8	topographie 620 628	muqueuse
+#1	ICD-O T1	8210/1
+#2	ICD-O T2	C30.0 8210/1
+#3	ICD-O T3	C30.0
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	8000/3
+#6	ICD-O T6	8720/3
+#7	ICD-O T9	8000/1
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	8000/9
+#10	ICD-O T14	8000/6
+#11	ICD-O T15	C11.3 8000/6
+#12	ICD-O T16	C11.3
+#13	ICD-O T17	8000/1
+#14	ICD-O T18	C49.9 8000/1
+#15	ICD-O T19	C49.9
+#16	ICD-O T20	8000/6
+#17	ICD-O T21	8000/6
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	C71.9 8000/1
+#20	ICD-O T24	C71.9
+#21	ICD-O T25	8000/1
+#22	ICD-O T26	8000/1
+#23	ICD-O T27	8000/1
+#24	ICD-O T29	C41.0
+#25	ICD-O T30	8000/1
+#26	ICD-O T31	C70.0 8000/1
+#27	ICD-O T32	C70.0
+#28	ICD-O T33	8000/1
+#29	ICD-O T36	8000/1
+#30	ICD-O T37	8000/1
+#31	ICD-O T38	8000/1
+#32	ICD-O T39	8000/1
+#33	ICD-O T40	8000/1
+#34	ICD-O T42	C22.0
+#35	ICD-O T44	8720/3
+#36	ICD-O T45	C30.0 8720/3
+#37	ICD-O T46	C30.0
+#38	ICD-O T47	8000/6
+#39	ICD-O T48	C22.0 8000/6
+#40	ICD-O T49	C22.0
+#41	ICD-O T50	8000/1
+#42	ICD-O T51	8000/1
+#43	ICD-O T52	8746/3
+#44	ICD-O T53	8746/3
+#45	ICD-O T54	8720/3
+#46	ICD-O T55	C30.0 8720/3
+#47	ICD-O T56	C30.0
+#48	ICD-O T57	8000/6
+#49	ICD-O T58	C22.0 8000/6
+#50	ICD-O T59	C22.0

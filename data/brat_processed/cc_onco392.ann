@@ -1,0 +1,34 @@
+T54	morphologie 5839 5873	foyer de rehaussement pathologique
+T1	morphologie 146 155	néoplasie
+T3	topographie 162 168	vessie
+T4	morphologie 193 199	cancer
+T6	topographie 203 209	poumon
+T7	morphologie 1248 1254	nodule
+T9	topographie 1294 1298	foie
+T10	morphologie 1531 1547	lésion nodulaire
+T14	morphologie 1672 1687	hépatocarcinome
+T16	morphologie 1689 1692	CHC
+T17	morphologie 2017 2020	CHC
+T19	differenciation 2021 2043	modérément différencié
+T20	differenciation 2047 2055	grade II
+T21	morphologie 2107 2115	invasion
+T23	topographie 2116 2126	vasculaire
+T24	morphologie 2136 2148	infiltration
+T26	topographie 2149 2157	nerveuse
+T28	morphologie 2882 2907	progression de la maladie
+T29	morphologie 2939 2957	lésions nodulaires
+T31	topographie 2989 3009	parenchyme hépatique
+T33	morphologie 3086 3089	CHC
+T35	morphologie 3617 3625	récidive
+T37	morphologie 4446 4471	progression de la maladie
+T38	morphologie 4503 4521	lésions nodulaires
+T40	topographie 4603 4623	parenchyme hépatique
+T42	morphologie 4903 4924	processus néoplasique
+T44	morphologie 5384 5391	lésions
+T46	morphologie 5435 5442	lésions
+T48	morphologie 5595 5610	hépatocarcinome
+T50	morphologie 5658 5677	maladie néoplasique
+T52	morphologie 5723 5730	lésions
+T56	morphologie 5910 5925	hépatocarcinome
+T58	morphologie 6207 6222	hépatocarcinome
+T12	topographie 1579 1589	segment VI

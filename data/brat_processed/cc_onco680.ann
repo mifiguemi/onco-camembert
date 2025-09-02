@@ -1,0 +1,15 @@
+T1	morphologie 1808 1838	carcinome canalaire infiltrant
+T3	differenciation 1842 1852	haut grade
+T5	morphologie 1856 1864	stade IV
+T6	topographie 1868 1895	pancréas muqueux-sécrétoire
+T7	morphologie 1912 1920	atteinte
+T9	topographie 1921 1930	hépatique
+T11	morphologie 2041 2058	processus tumoral
+T12	morphologie 2084 2114	carcinome canalaire infiltrant
+T14	differenciation 2118 2128	haut grade
+T16	morphologie 2133 2141	stade IV
+T17	topographie 2146 2172	pancréas muqueux-sécrétant
+T18	morphologie 2190 2198	atteinte
+T20	topographie 2199 2208	hépatique
+T22	morphologie 3144 3149	masse
+T24	morphologie 3996 4012	maladie tumorale

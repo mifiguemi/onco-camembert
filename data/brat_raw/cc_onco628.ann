@@ -1,0 +1,139 @@
+T13	topographie 1876 1889	pelvis rénaux
+T1	morphologie 429 439	hémangiome
+T2	expression_CIM 429 449	hémangiome hépatique
+T3	topographie 440 449	hépatique
+T4	expression_CIM 1006 1012	masses
+T5	morphologie 1006 1012	masses
+T6	morphologie 1479 1510	carcinome urothélial papillaire
+T7	expression_CIM 1479 1524	carcinome urothélial papillaire de haut grade
+T8	differenciation 1514 1524	haut grade
+T9	expression_CIM 1526 1529	PTC
+T10	morphologie 1526 1529	PTC
+T11	morphologie 1854 1861	lésions
+T12	expression_CIM 1854 1889	lésions dans les deux pelvis rénaux
+T14	morphologie 1896 1902	lésion
+T15	expression_CIM 1896 1912	lésion hépatique
+T16	topographie 1903 1912	hépatique
+T17	expression_CIM 1966 1976	hémangiome
+T18	morphologie 1966 1976	hémangiome
+T19	expression_CIM 2113 2127	tumeur maligne
+T20	morphologie 2113 2127	tumeur maligne
+T21	morphologie 2307 2314	tumeurs
+T22	expression_CIM 2307 2330	tumeurs du bassin rénal
+T23	topographie 2318 2330	bassin rénal
+T24	morphologie 2367 2387	carcinome urothélial
+T25	expression_CIM 2367 2401	carcinome urothélial de haut grade
+T26	differenciation 2391 2401	haut grade
+T27	expression_CIM 2419 2439	Carcinome urothélial
+T28	morphologie 2419 2439	Carcinome urothélial
+T29	expression_CIM 2506 2526	carcinome urothélial
+T30	morphologie 2506 2526	carcinome urothélial
+T31	morphologie 2842 2848	cancer
+T32	expression_CIM 2842 2900	cancer de l'urètre de haut grade de stade pT3 dans le rein
+T33	topographie 2854 2860	urètre
+T34	differenciation 2864 2874	haut grade
+T35	stadeTNM 2884 2887	pT3
+T36	topographie 2896 2900	rein
+T37	morphologie 2912 2920	invasion
+T38	expression_CIM 2912 2939	invasion vasculolymphatique
+T39	topographie 2921 2939	vasculolymphatique
+T40	topographie 2943 2950	uretère
+T41	expression_CIM 2943 3026	uretère droit présente un carcinome urothélial papillaire non invasif de haut grade
+T42	morphologie 2969 3012	carcinome urothélial papillaire non invasif
+T43	differenciation 3016 3026	haut grade
+T44	morphologie 3034 3040	foyers
+T45	expression_CIM 3034 3061	foyers de carcinome in situ
+T46	morphologie 3044 3061	carcinome in situ
+T47	topographie 3084 3088	Rein
+T48	expression_CIM 3084 3132	Rein gauche avec carcinome urothélial infiltrant
+T49	morphologie 3101 3132	carcinome urothélial infiltrant
+T50	topographie 3147 3154	uretère
+T51	expression_CIM 3147 3215	uretère gauche avec un carcinome urothélial papillaire de haut grade
+T52	morphologie 3170 3201	carcinome urothélial papillaire
+T53	differenciation 3205 3215	haut grade
+T54	expression_CIM 3242 3248	foyers
+T55	morphologie 3242 3248	foyers
+T56	expression_CIM 3252 3269	carcinome in situ
+T57	morphologie 3252 3269	carcinome in situ
+T58	morphologie 3332 3354	adénocarcinome acineux
+T59	expression_CIM 3332 3366	adénocarcinome acineux prostatique
+T60	topographie 3355 3366	prostatique
+T61	morphologie 3613 3624	progression
+T62	expression_CIM 3613 3664	progression unique au niveau du foie et des poumons
+T63	topographie 3645 3649	foie
+T64	topographie 3657 3664	poumons
+T65	morphologie 4167 4173	lésion
+T66	expression_CIM 4167 4183	lésion hépatique
+T67	topographie 4174 4183	hépatique
+T68	morphologie 4492 4498	lésion
+T69	expression_CIM 4492 4508	lésion hépatique
+T70	topographie 4499 4508	hépatique
+T71	expression_CIM 4532 4557	maladie oligométastatique
+T72	morphologie 4532 4557	maladie oligométastatique
+#1	ICD-O T1	9120/0
+#2	ICD-O T2	C22.0 9120/0
+#3	ICD-O T3	C22.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8130/3
+#7	ICD-O T7	8130/34
+#8	ICD-O T8	4
+#9	ICD-O T9	8130/3
+#10	ICD-O T10	8130/3
+#11	ICD-O T11	8000/1
+#12	ICD-O T14	8000/1
+#13	ICD-O T15	C22.0 8000/1
+#14	ICD-O T16	C22.0
+#15	ICD-O T17	9120/0
+#16	ICD-O T18	9120/0
+#17	ICD-O T19	8000/3
+#18	ICD-O T20	8000/3
+#19	ICD-O T21	8000/3
+#20	ICD-O T23	C65.9 
+#21	ICD-O T24	8120/3
+#22	ICD-O T25	8120/34
+#23	ICD-O T26	4
+#24	ICD-O T27	8120/3
+#25	ICD-O T28	8120/3
+#26	ICD-O T29	8120/3
+#27	ICD-O T30	8120/3
+#28	ICD-O T31	8000/3
+#29	ICD-O T32	C64.9 8000/34;C68.0 8000/34
+#30	ICD-O T33	C68.0
+#31	ICD-O T34	4
+#32	ICD-O T35	todelete
+#33	ICD-O T36	C64.9
+#34	ICD-O T37	8000/9
+#35	ICD-O T38	C49.9 8000/1
+#36	ICD-O T39	C49.9
+#37	ICD-O T40	C66.9
+#38	ICD-O T42	8120/2
+#39	ICD-O T43	4
+#40	ICD-O T44	8000/1
+#41	ICD-O T46	8010/2
+#42	ICD-O T47	C64.9
+#43	ICD-O T48	C64.9 8120/3
+#44	ICD-O T49	8120/3
+#45	ICD-O T50	C66.9
+#46	ICD-O T51	C66.9 8130/34
+#47	ICD-O T52	8120/3
+#48	ICD-O T53	4
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	8010/2
+#52	ICD-O T57	8010/2
+#53	ICD-O T58	8550/3
+#54	ICD-O T59	C61.9 8550/3
+#55	ICD-O T60	C61.9
+#56	ICD-O T61	8000/9
+#57	ICD-O T62	C22.0 8000/6;C34.9 8000/6
+#58	ICD-O T63	C22.0
+#59	ICD-O T64	C34.9
+#60	ICD-O T65	8000/1
+#61	ICD-O T66	C22.0 8000/1
+#62	ICD-O T67	C22.0
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	C22.0 8000/1
+#65	ICD-O T70	C22.0
+#66	ICD-O T71	8000/6
+#67	ICD-O T72	8000/6

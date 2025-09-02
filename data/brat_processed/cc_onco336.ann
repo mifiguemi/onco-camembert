@@ -1,0 +1,38 @@
+T9	topographie 479 488	axillaire
+T6	topographie 404 443	ligne interquadrante supérieure du sein
+T15	topographie 658 700	ligne interquadrantique supérieure du sein
+T1	morphologie 258 266	grosseur
+T3	topographie 270 274	sein
+T4	morphologie 378 383	masse
+T7	morphologie 458 478	ganglion lymphatique
+T10	topographie 490 507	supraclaviculaire
+T11	topographie 511 519	cervical
+T12	morphologie 599 605	lésion
+T14	topographie 634 649	supra-aréolaire
+T16	morphologie 734 746	adénopathies
+T18	topographie 770 793	chaîne mammaire interne
+T19	topographie 795 812	infraclaviculaire
+T20	topographie 814 831	supraclaviculaire
+T21	topographie 843 859	chaîne jugulaire
+T22	morphologie 950 961	adénopathie
+T24	topographie 968 984	chaîne jugulaire
+T25	morphologie 1068 1071	IDC
+T27	topographie 1072 1080	mammaire
+T28	differenciation 1082 1104	grade histologique III
+T29	morphologie 1354 1363	carcinome
+T31	topographie 1380 1384	sein
+T33	morphologie 1593 1611	lésions à distance
+T34	morphologie 1762 1765	ILC
+T36	topographie 1769 1773	sein
+T37	morphologie 1823 1831	atteinte
+T39	topographie 1835 1873	ganglion lymphatique supraclaviculaire
+T40	morphologie 1906 1914	atteinte
+T42	topographie 1918 1961	ganglion lymphatique de la chaîne jugulaire
+T43	morphologie 2058 2061	IDC
+T45	topographie 2062 2070	mammaire
+T47	morphologie 2516 2522	tumeur
+T49	morphologie 2646 2652	lésion
+T51	morphologie 2685 2696	adénopathie
+T53	morphologie 6385 6402	cellules malignes
+T54	morphologie 7224 7232	atteinte
+T56	topographie 7233 7243	pulmonaire

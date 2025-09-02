@@ -1,0 +1,148 @@
+T9	topographie 1129 1148	espace parapharyngé
+T1	morphologie 182 187	masse
+T2	expression_CIM 182 240	masse irrégulière et douloureuse au niveau de la mandibule
+T4	morphologie 508 513	masse
+T5	expression_CIM 508 578	masse irrégulière et douloureuse a été palpée au niveau de la parotide
+T6	topographie 570 578	parotide
+T7	morphologie 1094 1099	masse
+T8	expression_CIM 1094 1148	masse (7 x 5 x 4 cm) située dans l'espace parapharyngé
+T10	morphologie 1216 1224	atteinte
+T11	expression_CIM 1216 1246	atteinte de la fosse temporale
+T12	topographie 1237 1246	temporale
+T13	morphologie 1344 1356	adénopathies
+T14	expression_CIM 1344 1397	adénopathies sous-mandibulaires et jugulodigastriques
+T15	topographie 1357 1375	sous-mandibulaires
+T16	topographie 1379 1397	jugulodigastriques
+T17	morphologie 1476 1481	masse
+T18	expression_CIM 1476 1494	masse parotidienne
+T19	topographie 1482 1494	parotidienne
+T20	expression_CIM 1546 1596	carcinome adénoïde kystique de type cylindromateux
+T21	morphologie 1546 1596	carcinome adénoïde kystique de type cylindromateux
+T22	morphologie 1629 1656	Carcinome adénoïde kystique
+T23	expression_CIM 1629 1685	Carcinome adénoïde kystique de haut grade de la parotide
+T24	differenciation 1660 1670	haut grade
+T25	topographie 1677 1685	parotide
+T26	expression_CIM 1729 1741	adénopathies
+T27	morphologie 1729 1741	adénopathies
+T28	morphologie 1764 1773	extension
+T29	expression_CIM 1764 1798	extension osseuse au lobe temporal
+T30	topographie 1774 1781	osseuse
+T31	topographie 1785 1798	lobe temporal
+T32	morphologie 2181 2201	carcinome papillaire
+T33	expression_CIM 2181 2226	carcinome papillaire synchrone de la thyroïde
+T34	topographie 2218 2226	thyroïde
+T35	expression_CIM 2420 2435	restes tumoraux
+T36	morphologie 2420 2435	restes tumoraux
+T37	expression_CIM 2452 2473	adénopathies malignes
+T38	morphologie 2452 2473	adénopathies malignes
+T39	expression_CIM 2626 2632	tumeur
+T40	morphologie 2626 2632	tumeur
+T41	morphologie 2751 2761	métastases
+T42	expression_CIM 2751 2773	métastases pulmonaires
+T43	topographie 2762 2773	pulmonaires
+T44	morphologie 2803 2811	primitif
+T45	expression_CIM 2803 2822	primitif parotidien
+T46	topographie 2812 2822	parotidien
+T47	expression_CIM 2847 2867	maladie métastatique
+T48	morphologie 2847 2867	maladie métastatique
+T49	morphologie 3254 3261	lésions
+T50	expression_CIM 3254 3273	lésions pulmonaires
+T51	topographie 3262 3273	pulmonaires
+T52	expression_CIM 3283 3298	restes tumoraux
+T53	morphologie 3283 3298	restes tumoraux
+T54	morphologie 3419 3435	lymphadénopathie
+T55	expression_CIM 3419 3472	lymphadénopathie submandibulaire et jugulodigastrique
+T56	topographie 3436 3451	submandibulaire
+T57	topographie 3455 3472	jugulodigastrique
+T58	morphologie 3546 3557	progression
+T59	expression_CIM 3546 3568	progression pulmonaire
+T60	topographie 3558 3568	pulmonaire
+T61	expression_CIM 4017 4023	lésion
+T62	morphologie 4017 4023	lésion
+T63	morphologie 4302 4313	progression
+T64	expression_CIM 4302 4324	progression pulmonaire
+T65	topographie 4314 4324	pulmonaire
+T66	morphologie 4620 4632	adénopathies
+T67	expression_CIM 4620 4651	adénopathies supraclaviculaires
+T68	topographie 4633 4651	supraclaviculaires
+T69	morphologie 4794 4803	progressé
+T70	expression_CIM 4794 4820	progressé dans les poumons
+T71	topographie 4813 4820	poumons
+T72	morphologie 5022 5029	nodules
+T73	expression_CIM 5022 5041	nodules pulmonaires
+T74	topographie 5030 5041	pulmonaires
+T75	morphologie 5301 5312	progression
+T76	expression_CIM 5301 5323	progression pulmonaire
+T77	topographie 5313 5323	pulmonaire
+T3	topographie 231 240	mandibule
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8000/1
+#3	ICD-O T6	C07.9
+#4	ICD-O T7	8000/1
+#5	ICD-O T10	8000/1
+#6	ICD-O T11	C41.0 8000/1
+#7	ICD-O T12	C41.0
+#8	ICD-O T13	8000/1
+#9	ICD-O T14	C77.0 8000/1
+#10	ICD-O T15	C76.0
+#11	ICD-O T16	C77.0
+#12	ICD-O T17	8000/1
+#13	ICD-O T18	C07.9 8000/1
+#14	ICD-O T19	C07.9
+#15	ICD-O T20	8200/3
+#16	ICD-O T21	8200/3
+#17	ICD-O T22	8200/3
+#18	ICD-O T23	C07.9 8200/34
+#19	ICD-O T24	4
+#20	ICD-O T25	C07.9
+#21	ICD-O T26	C77.9 8000/1
+#22	ICD-O T27	8000/1
+#23	ICD-O T28	8000/6
+#24	ICD-O T29	C41.9 8000/6;C71.2 8000/6
+#25	ICD-O T30	C41.9
+#26	ICD-O T31	C71.2
+#27	ICD-O T32	8050/3
+#28	ICD-O T33	C73.9 8050/3
+#29	ICD-O T34	C73.9
+#30	ICD-O T35	8000/3
+#31	ICD-O T36	8000/3
+#32	ICD-O T37	C77.9 8000/6
+#33	ICD-O T38	8000/6
+#34	ICD-O T39	8000/1
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	8000/6
+#37	ICD-O T42	C34.9 8000/6
+#38	ICD-O T43	C34.9
+#39	ICD-O T44	8000/3
+#40	ICD-O T45	C07.9 8000/3
+#41	ICD-O T46	C07.9
+#42	ICD-O T47	8000/6
+#43	ICD-O T48	8000/6
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C34.9 8000/1
+#46	ICD-O T51	C34.9
+#47	ICD-O T52	8000/3
+#48	ICD-O T53	8000/3
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	C77.0 8000/1
+#51	ICD-O T56	C71.0
+#52	ICD-O T57	C77.0
+#53	ICD-O T58	8000/6
+#54	ICD-O T59	C34.9 8000/6
+#55	ICD-O T60	C34.9
+#56	ICD-O T62	8000/1
+#57	ICD-O T63	8000/9
+#58	ICD-O T64	C34.9 8000/6
+#59	ICD-O T65	C34.9
+#60	ICD-O T66	8000/1
+#61	ICD-O T67	C77.0 8000/1
+#62	ICD-O T68	C76.0
+#63	ICD-O T69	8000/9
+#64	ICD-O T70	C34.9 8000/6
+#65	ICD-O T71	C34.9
+#66	ICD-O T72	8000/1
+#67	ICD-O T73	C34.9 8000/1
+#68	ICD-O T74	C34.9
+#69	ICD-O T75	8000/9
+#70	ICD-O T76	C34.9 8000/6
+#71	ICD-O T77	C34.9

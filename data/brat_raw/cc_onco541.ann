@@ -1,0 +1,80 @@
+T31	topographie 2655 2673	facial et cervical
+T28	topographie 2417 2433	facial et dorsal
+T34	topographie 3018 3026	faciales
+T1	morphologie 192 199	lésions
+T2	expression_CIM 192 208	lésions cutanées
+T3	topographie 200 208	cutanées
+T4	expression_CIM 550 574	adénopathie pathologique
+T5	morphologie 550 574	adénopathie pathologique
+T6	expression_CIM 735 742	lésions
+T7	morphologie 735 742	lésions
+T8	expression_CIM 786 793	lésions
+T9	morphologie 786 793	lésions
+T10	expression_CIM 865 872	lésions
+T11	morphologie 865 872	lésions
+T12	morphologie 974 982;990 1011	Lymphome primaire à cellules T
+T13	expression_CIM 974 1011	Lymphome cutané primaire à cellules T
+T14	topographie 983 989	cutané
+T15	expression_CIM 1021 1037	mycosis fongoïde
+T16	morphologie 1021 1037	mycosis fongoïde
+T17	morphologie 1608 1618;1626 1634	lymphome T primaire
+T18	expression_CIM 1608 1634	lymphome T cutané primaire
+T19	topographie 1619 1625	cutané
+T20	expression_CIM 1643 1659	mycosis fongoïde
+T21	morphologie 1643 1659	mycosis fongoïde
+T22	expression_CIM 1669 1676	nodules
+T23	morphologie 1669 1676	nodules
+T24	expression_CIM 2003 2030	stabilisation de la maladie
+T25	morphologie 2003 2030	stabilisation de la maladie
+T26	morphologie 2387 2396	progressé
+T27	expression_CIM 2387 2433	progressé à nouveau au niveau facial et dorsal
+T29	morphologie 2633 2644	progression
+T30	expression_CIM 2633 2673	progression au niveau facial et cervical
+T32	morphologie 3010 3017	lésions
+T33	expression_CIM 3010 3026	lésions faciales
+T35	morphologie 3598 3605	lésions
+T36	expression_CIM 3598 3617	lésions pulmonaires
+T37	topographie 3606 3617	pulmonaires
+T38	expression_CIM 3650 3660	métastases
+T39	morphologie 3650 3660	métastases
+T40	expression_CIM 3902 3914	infiltration
+T41	morphologie 3902 3914	infiltration
+T42	expression_CIM 3944 3973	lymphome à grandes cellules T
+T43	morphologie 3944 3973	lymphome à grandes cellules T
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C44.9 8000/1
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C77.9 8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	9702/3
+#13	ICD-O T13	C44.9 9702/3
+#14	ICD-O T14	C44.9
+#15	ICD-O T15	9700/3
+#16	ICD-O T16	9700/3
+#17	ICD-O T17	9702/3
+#18	ICD-O T18	C44.9 9702/3
+#19	ICD-O T19	C44.9
+#20	ICD-O T20	9700/3
+#21	ICD-O T21	9700/3
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/6
+#25	ICD-O T25	8000/6
+#26	ICD-O T26	8000/9
+#27	ICD-O T29	8000/9
+#28	ICD-O T32	8000/1
+#29	ICD-O T35	8000/1
+#30	ICD-O T36	C34.9 8000/1
+#31	ICD-O T37	C34.9
+#32	ICD-O T38	8000/6
+#33	ICD-O T39	8000/6
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	9702/3
+#37	ICD-O T43	9702/3

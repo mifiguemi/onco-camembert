@@ -1,0 +1,59 @@
+T1	morphologie 954 960	nodule
+T2	expression_CIM 954 989	nodule a été observé dans l'ombilic
+T4	morphologie 1111 1125	adénocarcinome
+T5	expression_CIM 1111 1148	adénocarcinome modérément différencié
+T6	differenciation 1126 1148	modérément différencié
+T7	expression_CIM 1435 1441	masses
+T8	morphologie 1435 1441	masses
+T9	morphologie 1690 1713	lésion hypermétabolique
+T10	expression_CIM 1690 1725	lésion hypermétabolique de l'utérus
+T11	topographie 1719 1725	utérus
+T12	morphologie 1776 1804	adénopathie hypermétabolique
+T13	expression_CIM 1776 1814	adénopathie hypermétabolique inguinale
+T14	topographie 1805 1814	inguinale
+T15	morphologie 1852 1866	adénocarcinome
+T16	expression_CIM 1852 1905	adénocarcinome au niveau ombilical d'origine inconnue
+T17	topographie 1877 1886	ombilical
+T18	topographie 1889 1905	origine inconnue
+T19	expression_CIM 1948 1970	néoformation polypoïde
+T20	morphologie 1948 1970	néoformation polypoïde
+T21	morphologie 2106 2120	tumeur maligne
+T22	expression_CIM 2106 2135	tumeur maligne indifférenciée
+T23	differenciation 2121 2135	indifférenciée
+T24	expression_CIM 2150 2183	tumeur mésodermique mixte maligne
+T25	morphologie 2150 2183	tumeur mésodermique mixte maligne
+T26	expression_CIM 2429 2461	tumeur mullerienne mixte maligne
+T27	morphologie 2429 2461	tumeur mullerienne mixte maligne
+T28	morphologie 2463 2477	carcinosarcome
+T29	expression_CIM 2463 2493	carcinosarcome) de l'endomètre
+T30	topographie 2484 2493	endomètre
+T31	expression_CIM 2497 2505	stade IV
+T32	morphologie 2497 2505	stade IV
+T3	topographie 982 989	ombilic
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8140/3
+#3	ICD-O T5	8140/32
+#4	ICD-O T6	2
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	8000/9
+#8	ICD-O T10	C55.9 8000/1
+#9	ICD-O T11	C55.9
+#10	ICD-O T12	8000/6
+#11	ICD-O T13	C77.4 8000/1
+#12	ICD-O T14	C76.3
+#13	ICD-O T15	8140/3
+#14	ICD-O T16	C44.5 8140/3;C80.9 8140/3
+#15	ICD-O T17	C44.5
+#16	ICD-O T18	C80.9
+#17	ICD-O T20	8000/3
+#18	ICD-O T21	8000/3
+#19	ICD-O T22	8000/34
+#20	ICD-O T23	4
+#21	ICD-O T24	8951/3
+#22	ICD-O T25	8951/3
+#23	ICD-O T27	8950/3
+#24	ICD-O T28	8980/3
+#25	ICD-O T30	C54.1
+#26	ICD-O T31	8000/6
+#27	ICD-O T32	8000/6

@@ -1,0 +1,117 @@
+T1	morphologie 389 395	cancer
+T2	expression_CIM 389 403	cancer du sein
+T3	topographie 399 403	sein
+T4	morphologie 632 638	cancer
+T5	expression_CIM 632 659	cancer de la tête et du cou
+T6	topographie 645 649	tête
+T7	topographie 656 659	cou
+T8	morphologie 675 684	néoplasie
+T9	expression_CIM 675 697	néoplasie pancréatique
+T10	topographie 685 697	pancréatique
+T11	morphologie 731 740	néoplasie
+T12	expression_CIM 731 749	néoplasie du côlon
+T13	topographie 744 749	côlon
+T14	morphologie 857 871	carcinosarcome
+T15	expression_CIM 857 879	carcinosarcome ovarien
+T16	topographie 872 879	ovarien
+T17	morphologie 1024 1029	Masse
+T18	expression_CIM 1024 1047	Masse dans l'hypogastre
+T19	topographie 1037 1047	hypogastre
+T20	morphologie 1322 1328	tumeur
+T21	expression_CIM 1322 1338	tumeur pelvienne
+T22	topographie 1329 1338	pelvienne
+T23	morphologie 1390 1399	néoplasie
+T24	expression_CIM 1390 1410	néoplasie annexielle
+T25	topographie 1400 1410	annexielle
+T26	morphologie 1422 1430	implants
+T27	expression_CIM 1422 1470	implants péritonéaux et sur la surface hépatique
+T28	topographie 1431 1442	péritonéaux
+T29	topographie 1461 1470	hépatique
+T30	expression_CIM 1785 1799	résidu tumoral
+T31	morphologie 1785 1799	résidu tumoral
+T32	morphologie 1910 1946	Cystadénocarcinome papillaire séreux
+T33	expression_CIM 1910 1981	Cystadénocarcinome papillaire séreux bilatéral de grade III de l'ovaire
+T34	differenciation 1960 1969	grade III
+T35	topographie 1975 1981	ovaire
+T36	morphologie 1987 1995	atteinte
+T37	expression_CIM 1987 2024	atteinte de l'utérus et de l'épiploon
+T38	topographie 2001 2007	utérus
+T39	topographie 2016 2024	épiploon
+T40	expression_CIM 2075 2092	cellules malignes
+T41	morphologie 2075 2092	cellules malignes
+T42	morphologie 2154 2160	cancer
+T43	expression_CIM 2154 2172	cancer de l'ovaire
+T44	topographie 2166 2172	ovaire
+T45	expression_CIM 2255 2261	cancer
+T46	morphologie 2255 2261	cancer
+T47	morphologie 2404 2410	cancer
+T48	expression_CIM 2404 2418	cancer du sein
+T49	topographie 2414 2418	sein
+T50	morphologie 3514 3527	carcinomatose
+T51	expression_CIM 3514 3539	carcinomatose péritonéale
+T52	topographie 3528 3539	péritonéale
+T53	morphologie 3549 3557	implants
+T54	expression_CIM 3549 3572	implants périhépatiques
+T55	topographie 3558 3572	périhépatiques
+T56	morphologie 4063 4070	nodules
+T57	expression_CIM 4063 4100	nodules péritonéaux et périhépatiques
+T58	topographie 4071 4082	péritonéaux
+T59	topographie 4086 4100	périhépatiques
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C76.0 8000/3
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	C76.0
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C25.9 8000/1
+#10	ICD-O T10	C25.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C18.9 8000/1
+#13	ICD-O T13	C18.9
+#14	ICD-O T14	8980/3
+#15	ICD-O T15	C56.9 8980/3
+#16	ICD-O T16	C56.9
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	C76.2 8000/1
+#19	ICD-O T19	C76.2
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C76.3 8000/1
+#22	ICD-O T22	C76.3
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C56.9 8000/1
+#25	ICD-O T25	C56.9
+#26	ICD-O T26	8000/6
+#27	ICD-O T28	C48.2
+#28	ICD-O T29	C22.0
+#29	ICD-O T30	8000/3
+#30	ICD-O T31	8000/3
+#31	ICD-O T32	8460/3
+#32	ICD-O T33	C56.9 8460/33
+#33	ICD-O T34	3
+#34	ICD-O T35	C56.9
+#35	ICD-O T36	8000/1
+#36	ICD-O T37	C48.1 8000/1;C55.9 8000/1
+#37	ICD-O T38	C55.9
+#38	ICD-O T39	C48.1
+#39	ICD-O T40	8000/1
+#40	ICD-O T41	8000/1
+#41	ICD-O T42	8000/3
+#42	ICD-O T43	C56.9 8000/3
+#43	ICD-O T44	C56.9
+#44	ICD-O T45	8000/3
+#45	ICD-O T46	8000/3
+#46	ICD-O T47	8000/3
+#47	ICD-O T48	C50.9 8000/3
+#48	ICD-O T49	C50.9
+#49	ICD-O T50	8010/9
+#50	ICD-O T51	C48.2 8010/9
+#51	ICD-O T52	C48.2
+#52	ICD-O T53	8000/6
+#53	ICD-O T54	C24.8 8000/6
+#54	ICD-O T55	C24.8
+#55	ICD-O T56	8000/1
+#56	ICD-O T57	C24.8 8000/1;C48.2 8000/1
+#57	ICD-O T58	C48.2
+#58	ICD-O T59	C24.8

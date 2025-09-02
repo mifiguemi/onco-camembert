@@ -1,0 +1,148 @@
+T1	expression_CIM 242 248	cancer
+T2	morphologie 242 248	cancer
+T3	morphologie 284 290	cancer
+T4	expression_CIM 284 300	cancer du larynx
+T5	topographie 294 300	larynx
+T6	morphologie 356 362	cancer
+T7	expression_CIM 356 370	cancer du sein
+T8	topographie 366 370	sein
+T9	morphologie 419 425	cancer
+T10	expression_CIM 419 440	cancer de la thyroïde
+T11	topographie 432 440	thyroïde
+T12	expression_CIM 482 512	leucémie aiguë lymphoblastique
+T13	morphologie 482 512	leucémie aiguë lymphoblastique
+T14	expression_CIM 637 700	hépatoblastome embryonnaire avec différenciation cholangiolaire
+T15	morphologie 637 700	hépatoblastome embryonnaire avec différenciation cholangiolaire
+T16	morphologie 705 711	tumeur
+T17	expression_CIM 705 808	tumeur était localisée dans le lobe hépatique gauche, le caudé et les segments 5 et 8 du lobe hépatique
+T18	topographie 736 750	lobe hépatique
+T19	topographie 794 808	lobe hépatique
+T20	expression_CIM 864 878	néphroblastome
+T21	morphologie 864 878	néphroblastome
+T22	expression_CIM 882 890	blastome
+T23	morphologie 882 890	blastome
+T24	expression_CIM 1006 1013	tumeurs
+T25	morphologie 1006 1013	tumeurs
+T26	expression_CIM 1234 1290	hépatoblastome mixte : épithélial (embryonnaire et fœtal
+T27	morphologie 1234 1290	hépatoblastome mixte : épithélial (embryonnaire et fœtal
+T28	morphologie 1386 1398	infiltration
+T29	expression_CIM 1386 1422	infiltration vasculaire, lymphatique
+T30	topographie 1399 1409	vasculaire
+T31	topographie 1411 1422	lymphatique
+T32	morphologie 1946 1952	lésion
+T33	expression_CIM 1946 1962	lésion hépatique
+T34	topographie 1953 1962	hépatique
+T35	expression_CIM 2055 2083	hyperplasie nodulaire focale
+T36	morphologie 2055 2083	hyperplasie nodulaire focale
+T37	expression_CIM 2138 2152	hépatoblastome
+T38	morphologie 2138 2152	hépatoblastome
+T39	expression_CIM 2155 2162	adénome
+T40	morphologie 2155 2162	adénome
+T41	expression_CIM 2191 2197	lésion
+T42	morphologie 2191 2197	lésion
+T43	expression_CIM 2286 2292	lésion
+T44	morphologie 2286 2292	lésion
+T45	expression_CIM 2385 2393	récidive
+T46	morphologie 2385 2393	récidive
+T47	expression_CIM 2399 2413	hépatoblastome
+T48	morphologie 2399 2413	hépatoblastome
+T49	expression_CIM 3074 3134	hépatoblastome embryonnaire à différenciation cholangiolaire
+T50	morphologie 3074 3134	hépatoblastome embryonnaire à différenciation cholangiolaire
+T51	morphologie 3189 3195	tumeur
+T52	expression_CIM 3189 3241	tumeur située dans le segment VIII du lobe hépatique
+T53	topographie 3227 3241	lobe hépatique
+T54	expression_CIM 3357 3363	lésion
+T55	morphologie 3357 3363	lésion
+T56	morphologie 3501 3507	lésion
+T57	expression_CIM 3501 3517	lésion hépatique
+T58	topographie 3508 3517	hépatique
+T59	expression_CIM 3702 3708	lésion
+T60	morphologie 3702 3708	lésion
+T61	morphologie 4234 4239	masse
+T62	expression_CIM 4234 4249	masse hépatique
+T63	topographie 4240 4249	hépatique
+T64	expression_CIM 4265 4292	Hépatoblastome embryonnaire
+T65	morphologie 4265 4292	Hépatoblastome embryonnaire
+T66	morphologie 4553 4561	Récidive
+T67	expression_CIM 4553 4571	Récidive hépatique
+T68	topographie 4562 4571	hépatique
+T69	expression_CIM 4585 4612	hépatoblastome embryonnaire
+T70	morphologie 4585 4612	hépatoblastome embryonnaire
+T71	expression_CIM 4781 4788	tumeurs
+T72	morphologie 4781 4788	tumeurs
+T73	expression_CIM 4911 4917	tumeur
+T74	morphologie 4911 4917	tumeur
+T75	expression_CIM 5595 5618	stabilité de la maladie
+T76	morphologie 5595 5618	stabilité de la maladie
+#1	ICD-O T2	8000/3
+#2	ICD-O T3	8000/3
+#3	ICD-O T4	C32.9 8000/3
+#4	ICD-O T5	C32.9
+#5	ICD-O T6	8000/3
+#6	ICD-O T7	C50.9 8000/3
+#7	ICD-O T8	C50.9
+#8	ICD-O T9	8000/3
+#9	ICD-O T10	C73.9 8000/3
+#10	ICD-O T11	C73.9
+#11	ICD-O T12	9727/3
+#12	ICD-O T13	9727/3
+#13	ICD-O T14	8970/3
+#14	ICD-O T15	8970/3
+#15	ICD-O T16	8000/1
+#16	ICD-O T18	C22.0
+#17	ICD-O T19	C22.0
+#18	ICD-O T20	8960/3
+#19	ICD-O T21	8960/3
+#20	ICD-O T22	8000/3
+#21	ICD-O T23	8000/3
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T27	8970/3
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C49.9 8000/1
+#27	ICD-O T30	C49.9
+#28	ICD-O T31	C49.9
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	C22.0 8000/1
+#31	ICD-O T34	C22.0
+#32	ICD-O T36	tocheck
+#33	ICD-O T37	8970/3
+#34	ICD-O T38	8970/3
+#35	ICD-O T39	8140/0
+#36	ICD-O T40	8140/0
+#37	ICD-O T41	8000/1
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	8000/1
+#41	ICD-O T45	8000/6
+#42	ICD-O T46	8000/6
+#43	ICD-O T47	8970/3
+#44	ICD-O T48	8970/3
+#45	ICD-O T49	8970/3
+#46	ICD-O T50	8970/3
+#47	ICD-O T51	8000/1
+#48	ICD-O T52	C22.0 8000/1
+#49	ICD-O T53	C22.0
+#50	ICD-O T54	8000/1
+#51	ICD-O T55	8000/1
+#52	ICD-O T56	8000/1
+#53	ICD-O T57	C22.0 8000/1
+#54	ICD-O T58	C22.0
+#55	ICD-O T59	8000/1
+#56	ICD-O T60	8000/1
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	C22.0 8000/1
+#59	ICD-O T63	C22.0
+#60	ICD-O T64	8970/3
+#61	ICD-O T65	8970/3
+#62	ICD-O T66	8000/6
+#63	ICD-O T67	C22.0 8000/6
+#64	ICD-O T68	C22.0
+#65	ICD-O T69	8970/3
+#66	ICD-O T70	8970/3
+#67	ICD-O T71	8000/1
+#68	ICD-O T72	8000/1
+#69	ICD-O T73	8000/1
+#70	ICD-O T74	8000/1
+#71	ICD-O T75	8000/6
+#72	ICD-O T76	8000/6

@@ -1,0 +1,152 @@
+T6	topographie 893 904	marge anale
+T1	morphologie 612 626	adénocarcinome
+T2	expression_CIM 612 640	adénocarcinome du bas rectum
+T3	topographie 634 640	rectum
+T4	expression_CIM 864 904	l'implication tumorale de la marge anale
+T5	morphologie 866 886	implication tumorale
+T7	morphologie 975 989	adénocarcinome
+T8	expression_CIM 975 1013	adénocarcinome moyennement différencié
+T9	differenciation 990 1013	moyennement différencié
+T10	morphologie 1230 1236	lésion
+T11	expression_CIM 1230 1246	lésion hépatique
+T12	topographie 1237 1246	hépatique
+T13	morphologie 1578 1584	lésion
+T14	expression_CIM 1578 1606	lésion de la veine surrénale
+T15	topographie 1591 1606	veine surrénale
+T16	expression_CIM 1683 1695	infiltration
+T17	morphologie 1683 1695	infiltration
+T18	morphologie 1703 1717	adénocarcinome
+T19	expression_CIM 1703 1728	adénocarcinome intestinal
+T20	topographie 1718 1728	intestinal
+T21	expression_CIM 1749 1770	atteinte métastatique
+T22	morphologie 1749 1770	atteinte métastatique
+T23	morphologie 2476 2484	récidive
+T24	expression_CIM 2476 2511	récidive paracardiaque et hépatique
+T25	topographie 2485 2498	paracardiaque
+T26	topographie 2502 2511	hépatique
+T27	morphologie 2517 2531	adénocarcinome
+T28	expression_CIM 2517 2541	adénocarcinome du rectum
+T29	topographie 2535 2541	rectum
+T30	morphologie 2889 2894	masse
+T31	expression_CIM 2889 2950	masse solide d'environ 5 sur 3 cm dans la région précardiaque
+T33	morphologie 3032 3041	métastase
+T34	expression_CIM 3032 3054	métastase péricardique
+T35	topographie 3042 3054	péricardique
+T36	expression_CIM 3068 3074	nodule
+T37	morphologie 3068 3074	nodule
+T38	expression_CIM 3390 3411	récidive métastatique
+T39	morphologie 3390 3411	récidive métastatique
+T40	expression_CIM 3445 3463	cholangiocarcinome
+T41	morphologie 3445 3463	cholangiocarcinome
+T42	morphologie 3486 3497	adénopathie
+T43	expression_CIM 3486 3521	adénopathie dans l'espace portocave
+T44	topographie 3505 3521	espace portocave
+T45	expression_CIM 3785 3793	récidive
+T46	morphologie 3785 3793	récidive
+T47	morphologie 3838 3857	pathologie tumorale
+T48	expression_CIM 3838 3898	pathologie tumorale au niveau de l'adénopathie paratrachéale
+T49	morphologie 3873 3884	adénopathie
+T50	topographie 3885 3898	paratrachéale
+T51	expression_CIM 3920 3925	masse
+T52	morphologie 3920 3925	masse
+T53	morphologie 3932 3938	nodule
+T54	expression_CIM 3932 3952	nodule précardiaques
+T55	topographie 3939 3952	précardiaques
+T56	morphologie 3958 3983	lésions hypermétaboliques
+T57	expression_CIM 3958 4012	lésions hypermétaboliques dans les segments hépatiques
+T59	morphologie 4030 4036	lésion
+T60	expression_CIM 4030 4059	lésion des tissus mous sacrés
+T61	topographie 4041 4059	tissus mous sacrés
+T62	morphologie 4443 4454	adénopathie
+T63	expression_CIM 4443 4467	adénopathie médiastinale
+T64	topographie 4455 4467	médiastinale
+T65	expression_CIM 4488 4507	nodule métastatique
+T66	morphologie 4488 4507	nodule métastatique
+T67	morphologie 4525 4532	implant
+T68	expression_CIM 4525 4545	implant péricardique
+T69	topographie 4533 4545	péricardique
+T70	morphologie 4624 4632	récidive
+T71	expression_CIM 4624 4659	récidive paracardiaque et hépatique
+T72	topographie 4633 4646	paracardiaque
+T73	topographie 4650 4659	hépatique
+T74	morphologie 4711 4725	adénocarcinome
+T75	expression_CIM 4711 4735	adénocarcinome du rectum
+T76	topographie 4729 4735	rectum
+T77	morphologie 5265 5276	progression
+T78	expression_CIM 5265 5290	progression paracardiaque
+T79	topographie 5277 5290	paracardiaque
+T32	topographie 2931 2950	région précardiaque
+T58	topographie 3993 4012	segments hépatiques
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C20.9 8140/3
+#3	ICD-O T3	C20.9
+#4	ICD-O T5	8000/3
+#5	ICD-O T7	8140/3
+#6	ICD-O T8	8140/32
+#7	ICD-O T9	2
+#8	ICD-O T10	8000/1
+#9	ICD-O T11	C22.0 8000/1
+#10	ICD-O T12	C22.0
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C49.4 8000/1
+#13	ICD-O T15	C49.4
+#14	ICD-O T16	8000/1
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8140/3
+#17	ICD-O T19	C26.0 8140/3
+#18	ICD-O T20	C26.0
+#19	ICD-O T21	8000/6
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	C22.0 8000/6;C38.8 8000/6
+#23	ICD-O T25	C38.8
+#24	ICD-O T26	C22.0
+#25	ICD-O T27	8140/3
+#26	ICD-O T28	C20.9 8140/3
+#27	ICD-O T29	C20.9
+#28	ICD-O T30	8000/1
+#29	ICD-O T33	8000/6
+#30	ICD-O T34	C38.0 8000/6
+#31	ICD-O T35	C38.0
+#32	ICD-O T36	8000/1
+#33	ICD-O T37	8000/1
+#34	ICD-O T38	8000/6
+#35	ICD-O T39	8000/6
+#36	ICD-O T40	8160/3
+#37	ICD-O T41	8160/3
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	C77.2 8000/1
+#40	ICD-O T44	C49.4
+#41	ICD-O T45	8000/6
+#42	ICD-O T46	8000/6
+#43	ICD-O T47	8000/1
+#44	ICD-O T49	8000/1
+#45	ICD-O T50	C33.9
+#46	ICD-O T51	8000/1
+#47	ICD-O T52	8000/1
+#48	ICD-O T53	8000/1
+#49	ICD-O T54	C49.3 8000/1
+#50	ICD-O T55	C49.3
+#51	ICD-O T56	8000/9
+#52	ICD-O T57	C22.0 8000/1
+#53	ICD-O T59	8000/1
+#54	ICD-O T60	C49.5 8000/1
+#55	ICD-O T61	C49.5
+#56	ICD-O T62	8000/1
+#57	ICD-O T63	C77.1 8000/1
+#58	ICD-O T64	C38.3
+#59	ICD-O T65	8000/6
+#60	ICD-O T66	8000/6
+#61	ICD-O T67	8000/6
+#62	ICD-O T68	C38.0 8000/6
+#63	ICD-O T69	C38.0
+#64	ICD-O T70	8000/6
+#65	ICD-O T71	C22.0 8000/6;C38.8 8000/6
+#66	ICD-O T72	C38.8
+#67	ICD-O T73	C22.0
+#68	ICD-O T74	8140/3
+#69	ICD-O T75	C20.9 8140/3
+#70	ICD-O T76	C20.9
+#71	ICD-O T77	8000/6
+#72	ICD-O T78	C38.8 8000/6
+#73	ICD-O T79	C38.8

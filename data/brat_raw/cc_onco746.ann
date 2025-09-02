@@ -1,0 +1,180 @@
+T1	morphologie 180 189	carcinome
+T2	expression_CIM 180 200	carcinome pulmonaire
+T3	topographie 190 200	pulmonaire
+T4	morphologie 240 249	carcinome
+T5	expression_CIM 240 258	carcinome du côlon
+T6	topographie 253 258	côlon
+T7	morphologie 323 353	carcinome canalaire infiltrant
+T8	expression_CIM 323 361	carcinome canalaire infiltrant du sein
+T9	topographie 357 361	sein
+T10	morphologie 1100 1122	nodules parenchymateux
+T11	expression_CIM 1100 1197	nodules parenchymateux pulmonaires bilatéraux (18 dans l'hémithorax droit et 12 dans l'hémithorax
+T12	topographie 1123 1134	pulmonaires
+T13	topographie 1157 1167	hémithorax
+T14	topographie 1187 1197	hémithorax
+T15	morphologie 1236 1244	Implants
+T16	expression_CIM 1236 1256	Implants péritonéaux
+T17	topographie 1245 1256	péritonéaux
+T18	morphologie 1258 1264	Masses
+T19	expression_CIM 1258 1276	Masses annexielles
+T20	topographie 1265 1276	annexielles
+T21	morphologie 1365 1372	Nodules
+T22	expression_CIM 1365 1433	Nodules irréguliers sur la surface convexe et antérieure de l'utérus
+T23	topographie 1427 1433	utérus
+T24	morphologie 1449 1455	nodule
+T25	expression_CIM 1449 1478	nodule dans la voûte vaginale
+T26	topographie 1464 1478	voûte vaginale
+T27	morphologie 1481 1490	carcinome
+T28	expression_CIM 1481 1536	carcinome peu différencié et ulcéré d'origine ovarienne
+T29	differenciation 1491 1506	peu différencié
+T30	topographie 1527 1536	ovarienne
+T31	morphologie 1869 1878	Carcinome
+T32	expression_CIM 1869 1900	Carcinome ovarien indifférencié
+T33	topographie 1879 1886	ovarien
+T34	differenciation 1887 1900	indifférencié
+T35	expression_CIM 1904 1912	stade IV
+T36	morphologie 1904 1912	stade IV
+T37	morphologie 2180 2186	masses
+T38	expression_CIM 2180 2198	masses annexielles
+T39	topographie 2187 2198	annexielles
+T40	expression_CIM 2236 2254	maladie à distance
+T41	morphologie 2236 2254	maladie à distance
+T42	expression_CIM 2470 2489	maladie néoplasique
+T43	morphologie 2470 2489	maladie néoplasique
+T44	morphologie 2498 2504	masses
+T45	expression_CIM 2498 2516	masses annexielles
+T46	topographie 2505 2516	annexielles
+T47	expression_CIM 2735 2743	récidive
+T48	morphologie 2735 2743	récidive
+T49	morphologie 2794 2800	nodule
+T50	expression_CIM 2794 2823	nodule dans la voûte vaginale
+T51	topographie 2809 2823	voûte vaginale
+T52	morphologie 2866 2875	carcinome
+T53	expression_CIM 2866 2889	carcinome indifférencié
+T54	differenciation 2876 2889	indifférencié
+T55	expression_CIM 2938 2947	métastase
+T56	morphologie 2938 2947	métastase
+T57	morphologie 2953 2962	carcinome
+T58	expression_CIM 2953 2970	carcinome ovarien
+T59	topographie 2963 2970	ovarien
+T60	morphologie 3003 3031	augmentation de la captation
+T61	expression_CIM 3003 3054	augmentation de la captation dans la voûte vaginale
+T62	topographie 3040 3054	voûte vaginale
+T63	morphologie 3356 3364	récidive
+T64	expression_CIM 3356 3388	récidive ganglionnaire inguinale
+T65	topographie 3365 3388	ganglionnaire inguinale
+T66	morphologie 3828 3833	masse
+T67	expression_CIM 3828 3842	masse vaginale
+T68	topographie 3834 3842	vaginale
+T69	expression_CIM 3885 3893	récidive
+T70	morphologie 3885 3893	récidive
+T71	morphologie 3912 3926	masse tumorale
+T72	expression_CIM 3912 3936	masse tumorale pelvienne
+T73	topographie 3927 3936	pelvienne
+T74	expression_CIM 4047 4053	lésion
+T75	morphologie 4047 4053	lésion
+T76	morphologie 4090 4096	lésion
+T77	expression_CIM 4090 4118	lésion suspecte dans le foie
+T78	topographie 4114 4118	foie
+T79	expression_CIM 4172 4180	récidive
+T80	morphologie 4172 4180	récidive
+T81	morphologie 4186 4202	carcinome séreux
+T82	expression_CIM 4186 4228	carcinome séreux de haut grade de l'ovaire
+T83	differenciation 4206 4216	haut grade
+T84	topographie 4222 4228	ovaire
+T85	morphologie 5128 5137	carcinome
+T86	expression_CIM 5128 5145	carcinome ovarien
+T87	topographie 5138 5145	ovarien
+T88	expression_CIM 5251 5274	récidives de la maladie
+T89	morphologie 5251 5274	récidives de la maladie
+T90	expression_CIM 5317 5325	récidive
+T91	morphologie 5317 5325	récidive
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C34.9 8010/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8010/3
+#5	ICD-O T5	C18.9 8010/3
+#6	ICD-O T6	C18.9
+#7	ICD-O T7	8500/3
+#8	ICD-O T8	C50.9 8500/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	tocheck
+#11	ICD-O T11	C34.9 8000/1;C76.1 8000/1
+#12	ICD-O T12	C34.9
+#13	ICD-O T13	C76.1
+#14	ICD-O T14	C76.1
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C48.2 8000/6
+#17	ICD-O T17	C48.2
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C56.9 8000/1
+#20	ICD-O T20	C56.9
+#21	ICD-O T21	8000/1
+#22	ICD-O T22	C55.9 8000/1
+#23	ICD-O T23	C55.9
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	C52.9 8000/1
+#26	ICD-O T26	C52.9
+#27	ICD-O T27	8010/3
+#28	ICD-O T28	C56.9 8010/33
+#29	ICD-O T29	3
+#30	ICD-O T30	C56.9
+#31	ICD-O T31	8010/3
+#32	ICD-O T32	C56.9 8010/34
+#33	ICD-O T33	C56.9
+#34	ICD-O T34	4
+#35	ICD-O T35	8000/6
+#36	ICD-O T36	8000/6
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C56.9 8000/1
+#39	ICD-O T39	C56.9
+#40	ICD-O T40	8000/6
+#41	ICD-O T41	8000/6
+#42	ICD-O T42	8000/3
+#43	ICD-O T43	8000/3
+#44	ICD-O T44	8000/1
+#45	ICD-O T45	C56.9 8000/1
+#46	ICD-O T46	C56.9
+#47	ICD-O T47	8000/6
+#48	ICD-O T48	8000/6
+#49	ICD-O T49	8000/1
+#50	ICD-O T50	C52.9 8000/1
+#51	ICD-O T51	C52.9
+#52	ICD-O T52	8010/3
+#53	ICD-O T53	8010/34
+#54	ICD-O T54	4
+#55	ICD-O T55	8000/6
+#56	ICD-O T56	8000/6
+#57	ICD-O T57	8010/3
+#58	ICD-O T58	C56.9 8010/3
+#59	ICD-O T59	C56.9
+#60	ICD-O T60	8000/1
+#61	ICD-O T62	C52.9
+#62	ICD-O T63	8000/6
+#63	ICD-O T64	C77.4 8000/6
+#64	ICD-O T65	C77.4
+#65	ICD-O T66	8000/1
+#66	ICD-O T67	C52.9 8000/1
+#67	ICD-O T68	C52.9
+#68	ICD-O T69	8000/6
+#69	ICD-O T70	8000/6
+#70	ICD-O T71	8000/3
+#71	ICD-O T72	C76.3 8000/3
+#72	ICD-O T73	C76.3
+#73	ICD-O T74	8000/1
+#74	ICD-O T75	8000/1
+#75	ICD-O T76	8000/1
+#76	ICD-O T77	C22.0 8000/1
+#77	ICD-O T78	C22.0
+#78	ICD-O T79	8000/6
+#79	ICD-O T80	8000/6
+#80	ICD-O T81	8441/3
+#81	ICD-O T82	C56.9 8441/34
+#82	ICD-O T83	4
+#83	ICD-O T84	C56.9
+#84	ICD-O T85	8010/3
+#85	ICD-O T86	C56.9 8010/3
+#86	ICD-O T87	C56.9
+#87	ICD-O T89	8000/9
+#88	ICD-O T90	8000/6
+#89	ICD-O T91	8000/6

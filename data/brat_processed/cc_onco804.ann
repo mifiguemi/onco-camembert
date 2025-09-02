@@ -1,0 +1,52 @@
+T80	topographie 6293 6318	ligament gastro-hépatique
+T81	topographie 6323 6333	porto-cava
+T1	morphologie 418 430	adénopathies
+T3	topographie 507 523	tête du pancréas
+T4	topographie 530 544	hile hépatique
+T5	morphologie 1195 1200	masse
+T7	topographie 1220 1229	épigastre
+T8	morphologie 1907 1932	conglomérat adénopathique
+T10	topographie 1933 1948	rétropéritonéal
+T12	morphologie 1979 1988	métastase
+T14	morphologie 1992 2001	carcinome
+T16	morphologie 2270 2279	métastase
+T18	morphologie 2285 2304	carcinome hépatoïde
+T20	morphologie 2366 2381	hépatocarcinome
+T22	morphologie 2389 2457	variante hépatoïde de la tumeur germinale de type sinus endodermique
+T24	morphologie 2668 2679	adénopathie
+T25	topographie 2708 2712	foie
+T27	morphologie 2718 2731	lésion focale
+T28	morphologie 2776 2798	atteinte adénopathique
+T30	topographie 2799 2809	abdominale
+T31	topographie 2811 2827	rétropéritonéale
+T32	topographie 2831 2843	mésentérique
+T34	morphologie 2969 2996	conglomérats adénopathiques
+T35	morphologie 2998 3020	Lésion de type tumoral
+T37	topographie 3029 3046	corps du pancréas
+T38	morphologie 3159 3165	Lésion
+T40	topographie 3183 3187	foie
+T41	morphologie 3210 3218	tératome
+T43	topographie 3219 3226	ovarien
+T45	morphologie 3377 3396	Carcinome hépatoïde
+T46	morphologie 3450 3459	métastase
+T48	topographie 3460 3472	pancréatique
+T49	morphologie 3493 3505	adénopathies
+T51	topographie 3514 3531	cavité abdominale
+T53	morphologie 3747 3766	carcinome hépatoïde
+T55	morphologie 3773 3811	tumeur du sinus endodermique hépatoïde
+T56	morphologie 3860 3875	tumeur primaire
+T58	topographie 3896 3904	pancréas
+T59	morphologie 3949 3955	lésion
+T61	topographie 3974 3991	corps du pancréas
+T63	morphologie 4005 4020	tumeur primaire
+T65	morphologie 4242 4260	maladie disséminée
+T66	morphologie 5110 5132	atteinte adénopathique
+T68	topographie 5133 5153	infradiaphragmatique
+T69	morphologie 5163 5179	lésion primitive
+T71	topographie 5183 5191	pancréas
+T72	morphologie 5240 5255	Tératome mature
+T74	topographie 5271 5277	annexe
+T75	morphologie 5519 5530	adénopathie
+T77	topographie 5531 5545	interaortocave
+T78	morphologie 6254 6266	adénopathies
+T82	topographie 6340 6354	rétropéritoine

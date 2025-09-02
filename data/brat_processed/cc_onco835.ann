@@ -1,0 +1,42 @@
+T31	topographie 1742 1747	antre
+T24	topographie 1597 1649	région alvéolaire du deuxième quadrant du maxillaire
+T1	morphologie 236 242	cancer
+T3	topographie 246 250	sein
+T4	morphologie 431 437	lésion
+T6	topographie 444 458	cavité buccale
+T8	morphologie 857 863	lésion
+T9	morphologie 1025 1032	lésions
+T11	topographie 1033 1041	buccales
+T12	morphologie 1279 1285	lésion
+T14	topographie 1286 1293	buccale
+T16	morphologie 1303 1317	adénocarcinome
+T18	morphologie 1353 1363	métastases
+T19	morphologie 1366 1373	origine
+T21	topographie 1374 1392	gastro-intestinale
+T22	morphologie 1577 1588	dépôt focal
+T25	morphologie 1662 1671	extension
+T27	topographie 1672 1681	gingivale
+T28	morphologie 1687 1696	captation
+T30	topographie 1718 1733	corps gastrique
+T32	morphologie 1800 1807	nodules
+T34	topographie 1857 1866	surrénale
+T35	morphologie 1995 2009	adénocarcinome
+T62	morphologie 2027 2064	avec des cellules en anneau de signet
+T37	topographie 2010 2019	gastrique
+T39	morphologie 2170 2191	lésions métastatiques
+T40	morphologie 2397 2411	Adénocarcinome
+T63	morphologie 2441 2474	avec cellules en anneau de signet
+T42	topographie 2412 2421	gastrique
+T44	morphologie 2432 2440	stade IV
+T45	morphologie 2476 2486	métastases
+T47	topographie 2495 2509	cavité buccale
+T48	topographie 2523 2533	surrénales
+T49	morphologie 3030 3036	tumeur
+T51	topographie 3060 3069	gastrique
+T52	morphologie 3117 3124	lésions
+T54	topographie 3133 3147	cavité buccale
+T55	topographie 3174 3192	glandes surrénales
+T56	morphologie 3658 3664	lésion
+T58	topographie 3671 3685	cavité buccale
+T59	morphologie 4045 4050	masse
+T61	topographie 4051 4060	gastrique

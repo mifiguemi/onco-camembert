@@ -1,0 +1,37 @@
+T1	morphologie 891 896	Masse
+T3	topographie 921 930	axillaire
+T4	morphologie 959 970	Adénopathie
+T6	topographie 980 997	supraclaviculaire
+T7	topographie 1008 1023	latérocervicale
+T9	morphologie 1364 1373	métastase
+T10	morphologie 1377 1386	carcinome
+T12	differenciation 1387 1400	indifférencié
+T13	topographie 1403 1421	origine incertaine
+T14	morphologie 1589 1601	adénopathies
+T16	topographie 1602 1620	infraclaviculaires
+T17	topographie 1638 1652	paratrachéales
+T19	morphologie 1755 1760	masse
+T21	topographie 1761 1769	mammaire
+T23	morphologie 1816 1825	malignité
+T24	morphologie 1841 1849	atteinte
+T26	topographie 1850 1861	lymphatique
+T53	topographie 1871 1968	axillaire, rétropectorale, mammaire interne, supra/infraclaviculaire ipsilatérale et médiastinale
+T27	morphologie 2015 2024	carcinome
+T29	topographie 2025 2033	mammaire
+T30	morphologie 2078 2087	Carcinome
+T32	differenciation 2101 2114	indifférencié
+T33	topographie 2117 2133	origine inconnue
+T34	morphologie 2173 2181	atteinte
+T36	topographie 2182 2191	axillaire
+T37	topographie 2200 2217	supraclaviculaire
+T38	topographie 2219 2231	médiastinale
+T39	topographie 2265 2269	sein
+T40	topographie 2616 2624	mammaire
+T42	morphologie 2640 2646	tumeur
+T43	morphologie 2937 2949	adénopathies
+T45	topographie 2958 2973	chaîne mammaire
+T46	morphologie 2985 3012	stabilisation de la maladie
+T48	topographie 3023 3040	supraclaviculaire
+T50	morphologie 3741 3748	nodules
+T52	morphologie 4081 4104	carcinome inflammatoire
+T18	topographie 1672 1684	subcarinales

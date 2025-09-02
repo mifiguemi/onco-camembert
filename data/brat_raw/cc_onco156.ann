@@ -1,0 +1,106 @@
+T1	expression_CIM 1964 1969	masse
+T2	morphologie 1964 1969	masse
+T3	morphologie 2280 2292	infiltration
+T4	expression_CIM 2280 2334	infiltration au niveau de la paroi libre du ventricule
+T5	topographie 2324 2334	ventricule
+T6	morphologie 2489 2501	adénopathies
+T7	expression_CIM 2489 2517	adénopathies pré-vasculaires
+T8	topographie 2502 2517	pré-vasculaires
+T9	morphologie 2525 2537	infiltration
+T10	expression_CIM 2525 2620	infiltration de la racine pulmonaire, de l'aorte thoracique ascendante et de l'artère coronaire
+T11	topographie 2551 2561	pulmonaire
+T12	topographie 2568 2584	aorte thoracique
+T13	topographie 2604 2620	artère coronaire
+T14	expression_CIM 2944 2965	cellules néoplasiques
+T15	morphologie 2944 2965	cellules néoplasiques
+T16	morphologie 3281 3293	angiosarcome
+T17	expression_CIM 3281 3314	angiosarcome cardiaque de grade 3
+T18	topographie 3294 3303	cardiaque
+T19	differenciation 3307 3314	grade 3
+T20	morphologie 3439 3455	hypermétabolisme
+T21	expression_CIM 3439 3538	hypermétabolisme du FDG dans l'ensemble du péricarde, dans la région paratrachéale et prévasculaire
+T22	topographie 3482 3491	péricarde
+T23	topographie 3501 3521	région paratrachéale
+T24	topographie 3525 3538	prévasculaire
+T25	morphologie 3559 3565	foyers
+T26	expression_CIM 3559 3695	foyers subcentimétriques dans le pancréas, le péripancréas, la région interasale, la région périrénale gauche et le troisième arc costal
+T27	topographie 3592 3600	pancréas
+T28	topographie 3605 3617	péripancréas
+T30	topographie 3644 3661	région périrénale
+T32	expression_CIM 3945 3951	tumeur
+T33	morphologie 3945 3951	tumeur
+T34	expression_CIM 4335 4343	primitif
+T35	morphologie 4335 4343	primitif
+T36	expression_CIM 4705 4713	sarcomes
+T37	morphologie 4705 4713	sarcomes
+T38	morphologie 4759 4772	angiosarcomes
+T39	expression_CIM 4759 4783	angiosarcomes cardiaques
+T40	topographie 4773 4783	cardiaques
+T41	expression_CIM 5244 5256	adénopathies
+T42	morphologie 5244 5256	adénopathies
+T43	morphologie 5282 5287	masse
+T44	expression_CIM 5282 5297	masse cardiaque
+T45	topographie 5288 5297	cardiaque
+T46	morphologie 5668 5679	progression
+T47	expression_CIM 5668 5713	progression significative au niveau abdominal
+T48	topographie 5704 5713	abdominal
+T49	morphologie 5747 5755	implants
+T50	expression_CIM 5747 5767	implants péritonéaux
+T51	topographie 5756 5767	péritonéaux
+T52	expression_CIM 6417 6442	progression de la maladie
+T53	morphologie 6417 6442	progression de la maladie
+T54	expression_CIM 6505 6519	gâteau omental
+T55	morphologie 6505 6519	gâteau omental
+T29	topographie 3622 3639	région interasale
+T31	topographie 3675 3695	troisième arc costal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C71.5 8000/1
+#5	ICD-O T5	C71.5
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C77.9 8000/1
+#8	ICD-O T8	C49.8
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C34.9 8000/1;C49.3 8000/1
+#11	ICD-O T11	C34.9
+#12	ICD-O T12	C49.3
+#13	ICD-O T13	C49.3
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	9120/3
+#17	ICD-O T17	C38.0 9120/33
+#18	ICD-O T18	C38.0
+#19	ICD-O T19	3
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	C38.0 8000/1;C49.8 8000/1;C76.0 8000/1
+#22	ICD-O T22	C38.0
+#23	ICD-O T23	C76.0
+#24	ICD-O T24	C49.8
+#25	ICD-O T25	8000/1
+#26	ICD-O T27	C25.9
+#27	ICD-O T28	C48.0
+#28	ICD-O T30	C76.1
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/3
+#31	ICD-O T34	8000/3
+#32	ICD-O T35	8000/3
+#33	ICD-O T36	8800/3
+#34	ICD-O T37	8800/3
+#35	ICD-O T38	9120/3
+#36	ICD-O T39	C38.0 9120/3
+#37	ICD-O T40	C38.0
+#38	ICD-O T41	C77.9 8000/1
+#39	ICD-O T42	8000/1
+#40	ICD-O T43	8000/1
+#41	ICD-O T44	C38.0 8000/1
+#42	ICD-O T45	C38.0
+#43	ICD-O T46	8000/9
+#44	ICD-O T47	C76.2 8000/6
+#45	ICD-O T48	C76.2
+#46	ICD-O T49	8000/6
+#47	ICD-O T50	C48.2 8000/6
+#48	ICD-O T51	C48.2
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/9
+#51	ICD-O T55	8000/6

@@ -1,0 +1,31 @@
+T13	morphologie 2410 2423	granulomatose
+T1	morphologie 118 132	adénocarcinome
+T2	expression_CIM 118 167	adénocarcinome de la jonction gastro-œsophagienne
+T3	topographie 139 167	jonction gastro-œsophagienne
+T4	morphologie 182 188	lésion
+T5	expression_CIM 182 196	lésion costale
+T6	topographie 189 196	costale
+T7	morphologie 662 668	lésion
+T8	expression_CIM 662 676	lésion costale
+T9	topographie 669 676	costale
+T10	expression_CIM 1531 1537	masses
+T11	morphologie 1531 1537	masses
+T12	expression_CIM 2410 2423	granulomatose
+T14	morphologie 2479 2493	Adénocarcinome
+T15	expression_CIM 2479 2528	Adénocarcinome de la jonction gastro-œsophagienne
+T16	topographie 2500 2528	jonction gastro-œsophagienne
+#1	ICD-O T13	todelete
+#2	ICD-O T1	8140/3
+#3	ICD-O T2	C16.0 8140/3
+#4	ICD-O T3	C16.0
+#5	ICD-O T4	8000/1
+#6	ICD-O T5	C41.3 8000/1
+#7	ICD-O T6	C41.3
+#8	ICD-O T7	8000/1
+#9	ICD-O T8	C41.3 8000/1
+#10	ICD-O T9	C41.3
+#11	ICD-O T10	8000/1
+#12	ICD-O T11	8000/1
+#13	ICD-O T14	8140/3
+#14	ICD-O T15	C16.0 8140/3
+#15	ICD-O T16	C16.0

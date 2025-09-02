@@ -1,0 +1,71 @@
+T1	morphologie 228 237	Carcinome
+T3	topographie 241 245	sein
+T4	morphologie 452 468	lésion nodulaire
+T6	topographie 481 486	coude
+T8	morphologie 600 615	lésion tumorale
+T10	morphologie 704 715	adénopathie
+T12	morphologie 781 787	lésion
+T14	morphologie 825 855	carcinome à cellules de Merkel
+T16	morphologie 1039 1060	métastases à distance
+T17	morphologie 1222 1227	masse
+T19	topographie 1340 1345	coude
+T20	morphologie 1427 1439	infiltration
+T22	topographie 1443 1459	muscle pronateur
+T23	topographie 1466 1491	muscle brachial antérieur
+T25	topographie 1539 1555	artère brachiale
+T26	morphologie 1617 1623	lésion
+T28	topographie 1627 1632	coude
+T30	morphologie 1678 1693	tumeur primaire
+T31	morphologie 1768 1789	lésions métastatiques
+T33	topographie 1790 1798	cutanées
+T34	topographie 1833 1843	avant-bras
+T36	morphologie 1869 1899	carcinome à cellules de Merkel
+T37	morphologie 1918 1926	invasion
+T39	topographie 1927 1937	vasculaire
+T40	morphologie 2138 2146	récidive
+T42	topographie 2147 2154	cutanée
+T43	morphologie 2215 2221	lésion
+T45	topographie 2222 2234	sous-cutanée
+T46	morphologie 2250 2257	lésions
+T48	topographie 2282 2292	avant-bras
+T50	morphologie 2771 2778	lésions
+T52	morphologie 2868 2875	lésions
+T54	morphologie 2893 2900	lésions
+T56	morphologie 3055 3062	lésions
+T58	morphologie 3136 3143	lésions
+T59	morphologie 3282 3289	lésions
+T61	topographie 3310 3320	avant-bras
+T62	morphologie 3770 3776	lésion
+T64	topographie 3797 3800	dos
+T65	morphologie 3851 3858	lésions
+T67	topographie 3862 3867	coude
+T69	morphologie 3940 3949	métastase
+T71	morphologie 3955 3985	carcinome à cellules de Merkel
+T73	morphologie 4185 4194	métastase
+T74	morphologie 4312 4318	lésion
+T76	topographie 4319 4326	dorsale
+T77	morphologie 4592 4598	nodule
+T79	topographie 4599 4607	mammaire
+T80	topographie 4641 4645	sein
+T81	morphologie 4729 4735	lésion
+T83	topographie 4736 4744	mammaire
+T88	morphologie 4929 4935	lésion
+T90	morphologie 4984 4993	métastase
+T92	morphologie 4997 5016	carcinome de Merkel
+T93	morphologie 5414 5427	carcinomatose
+T95	topographie 5428 5439	péritonéale
+T96	morphologie 5443 5451	implants
+T98	topographie 5452 5460	pleuraux
+T99	morphologie 5465 5475	métastases
+T101	topographie 5476 5486	hépatiques
+T102	morphologie 5491 5501	métastases
+T104	topographie 5510 5526	glande surrénale
+T105	morphologie 5539 5565	adénopathies pathologiques
+T107	topographie 5574 5583	médiastin
+T108	topographie 5590 5604	rétropéritoine
+T109	morphologie 5690 5712	évolution métastatique
+T111	topographie 5713 5722	viscérale
+T113	morphologie 5728 5758	carcinome à cellules de Merkel
+T84	morphologie 4758 4796	lésion hautement suspecte de malignité
+T86	topographie 4806 4839	interquadrants supérieurs du sein
+T24	topographie 1507 1530	nerfs médian et ulnaire

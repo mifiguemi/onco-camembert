@@ -1,0 +1,308 @@
+T126	topographie 11176 11199	fenêtre aortopulmonaire
+T14	topographie 1591 1594	LHI
+T131	topographie 11345 11348	LHI
+T151	topographie 12249 12253	lobe
+T1	morphologie 64 73	néoplasme
+T2	expression_CIM 64 87	néoplasme de l'œsophage
+T3	topographie 79 87	œsophage
+T4	expression_CIM 241 257	mélanome muqueux
+T5	morphologie 241 257	mélanome muqueux
+T6	morphologie 1400 1412	adénopathies
+T7	expression_CIM 1400 1465	adénopathies dans les fenêtres aortopulmonaires et prévasculaires
+T8	topographie 1422 1447	fenêtres aortopulmonaires
+T9	topographie 1451 1465	prévasculaires
+T10	morphologie 1492 1510	lésions hypodenses
+T11	expression_CIM 1492 1594	lésions hypodenses des tissus mous ont été observées dans le parenchyme hépatique, situées dans le LHI
+T12	topographie 1515 1526	tissus mous
+T13	topographie 1553 1573	parenchyme hépatique
+T15	expression_CIM 1636 1646	métastases
+T16	morphologie 1636 1646	métastases
+T17	morphologie 1683 1692	néoplasie
+T18	expression_CIM 1683 1724	néoplasie cervicale avancée de l'œsophage
+T19	topographie 1693 1702	cervicale
+T20	topographie 1716 1724	œsophage
+T21	morphologie 1786 1791	masse
+T22	expression_CIM 1786 1863	masse polylobée, occupant la majeure partie de la circonférence de l'œsophage
+T23	topographie 1855 1863	œsophage
+T24	expression_CIM 1993 1999	lésion
+T25	morphologie 1993 1999	lésion
+T26	expression_CIM 2410 2416	masses
+T27	morphologie 2410 2416	masses
+T28	morphologie 3466 3480	tumeur maligne
+T29	expression_CIM 3466 3495	tumeur maligne indifférenciée
+T30	differenciation 3481 3495	indifférenciée
+T31	expression_CIM 3571 3575	GIST
+T32	morphologie 3571 3575	GIST
+T33	expression_CIM 3591 3599	lymphome
+T34	morphologie 3591 3599	lymphome
+T35	expression_CIM 3601 3638	carcinome microcytaire et épidermoïde
+T36	morphologie 3601 3638	carcinome microcytaire et épidermoïde
+T37	expression_CIM 3686 3707	sarcome indifférencié
+T38	morphologie 3686 3707	sarcome indifférencié
+T39	morphologie 3743 3752	carcinome
+T40	expression_CIM 3743 3766	carcinome indifférencié
+T41	differenciation 3753 3766	indifférencié
+T42	expression_CIM 4108 4114	lésion
+T43	morphologie 4108 4114	lésion
+T44	expression_CIM 4632 4646	tumeur maligne
+T45	morphologie 4632 4646	tumeur maligne
+T46	expression_CIM 4902 4922	lymphome anaplasique
+T47	morphologie 4902 4922	lymphome anaplasique
+T48	morphologie 4957 4967	néoplasmes
+T49	expression_CIM 4957 4982	néoplasmes indifférenciés
+T50	differenciation 4968 4982	indifférenciés
+T51	expression_CIM 5006 5016	carcinomes
+T52	morphologie 5006 5016	carcinomes
+T53	expression_CIM 5127 5152	leucémies granulocytaires
+T54	morphologie 5127 5152	leucémies granulocytaires
+T55	expression_CIM 5173 5191	cellules tumorales
+T56	morphologie 5173 5191	cellules tumorales
+T57	expression_CIM 5264 5271	sarcome
+T58	morphologie 5264 5271	sarcome
+T59	expression_CIM 5278 5286	mélanome
+T60	morphologie 5278 5286	mélanome
+T61	morphologie 5328 5336	sarcomes
+T62	expression_CIM 5328 5364	sarcomes (musculaires, squelettiques
+T63	topographie 5338 5349	musculaires
+T64	topographie 5351 5364	squelettiques
+T65	expression_CIM 5368 5372	GIST
+T66	morphologie 5368 5372	GIST
+T67	expression_CIM 5770 5786	mélanome muqueux
+T68	morphologie 5770 5786	mélanome muqueux
+T69	expression_CIM 5824 5846	tumeurs mélanomateuses
+T70	morphologie 5824 5846	tumeurs mélanomateuses
+T71	morphologie 5969 5977	mélanome
+T72	expression_CIM 5969 6049	mélanome, principalement celles situées dans les voies respiratoires supérieures
+T74	expression_CIM 6076 6092	sarcome synovial
+T75	morphologie 6076 6092	sarcome synovial
+T76	expression_CIM 6099 6114	sarcome d'Ewing
+T77	morphologie 6099 6114	sarcome d'Ewing
+T78	morphologie 6176 6193	mélanome primaire
+T79	expression_CIM 6176 6221	mélanome primaire de la muqueuse œsophagienne
+T80	topographie 6200 6221	muqueuse œsophagienne
+T81	morphologie 6250 6256	tumeur
+T82	expression_CIM 6250 6269	tumeur œsophagienne
+T83	topographie 6257 6269	œsophagienne
+T84	expression_CIM 6297 6313	hypermétabolisme
+T85	morphologie 6297 6313	hypermétabolisme
+T86	morphologie 6351 6362	adénopathie
+T87	expression_CIM 6351 6376	adénopathie paratrachéale
+T88	topographie 6363 6376	paratrachéale
+T89	topographie 6538 6558	parenchyme hépatique
+T90	expression_CIM 6538 6619	parenchyme hépatique a confirmé la présence de multiples foyers hypermétaboliques
+T91	morphologie 6595 6619;6626 6668	foyers hypermétaboliques compatibles avec une infiltration tumorale
+T92	morphologie 6956 6988	progression locale de la maladie
+T93	expression_CIM 6956 7012	progression locale de la maladie au niveau de l'œsophage
+T94	topographie 7004 7012	œsophage
+T95	morphologie 7121 7136	tumeur primaire
+T96	expression_CIM 7121 7150	tumeur primaire de l'œsophage
+T97	topographie 7142 7150	œsophage
+T98	morphologie 7257 7263	tumeur
+T99	expression_CIM 7257 7277	tumeur de l'œsophage
+T100	topographie 7269 7277	œsophage
+T101	morphologie 7688 7703	tumeur primaire
+T102	expression_CIM 7688 7717	tumeur primaire de l'œsophage
+T103	topographie 7709 7717	œsophage
+T104	expression_CIM 7824 7840	mélanome muqueux
+T105	morphologie 7824 7840	mélanome muqueux
+T106	morphologie 8487 8493	tumeur
+T107	expression_CIM 8487 8506	tumeur œsophagienne
+T108	topographie 8494 8506	œsophagienne
+T109	morphologie 8537 8548	adénopathie
+T110	expression_CIM 8537 8574	adénopathie axillaire ou médiastinale
+T111	topographie 8549 8558	axillaire
+T112	topographie 8562 8574	médiastinale
+T113	morphologie 8655 8662	lésions
+T114	expression_CIM 8655 8673	lésions hépatiques
+T115	topographie 8663 8673	hépatiques
+T116	morphologie 8759 8784	progression de la maladie
+T117	expression_CIM 8759 8794	progression de la maladie hépatique
+T118	topographie 8785 8794	hépatique
+T119	morphologie 8813 8838	progression de la maladie
+T120	expression_CIM 8813 8848	progression de la maladie hépatique
+T121	topographie 8839 8848	hépatique
+T122	expression_CIM 11097 11103	tumeur
+T123	morphologie 11097 11103	tumeur
+T124	morphologie 11155 11167	adénopathies
+T125	expression_CIM 11155 11245	adénopathies dans la fenêtre aortopulmonaire et prévasculaire, en outre dans le parenchyme
+T129	morphologie 11282 11289	lésions
+T130	expression_CIM 11282 11348	lésions hypodenses de densité des tissus mous, situées dans le LHI
+T132	expression_CIM 11370 11380	métastases
+T133	morphologie 11370 11380	métastases
+T134	morphologie 11417 11426	néoplasie
+T135	expression_CIM 11417 11458	néoplasie cervicale avancée de l'œsophage
+T136	topographie 11427 11436	cervicale
+T137	topographie 11450 11458	œsophage
+T138	morphologie 11490 11495	masse
+T139	expression_CIM 11490 11566	masse polylobée occupant la majeure partie de la circonférence de l'œsophage
+T140	topographie 11558 11566	œsophage
+T141	morphologie 11705 11711	tumeur
+T142	expression_CIM 11705 11755	tumeur dans le tiers moyen-supérieur de l'œsophage
+T144	expression_CIM 11802 11818	hypermétabolisme
+T145	morphologie 11802 11818	hypermétabolisme
+T146	morphologie 11855 11866	adénopathie
+T147	expression_CIM 11855 11880	adénopathie paratrachéale
+T148	topographie 11867 11880	paratrachéale
+T149	morphologie 12206 12230	foyers hypermétaboliques
+T150	expression_CIM 12206 12253	foyers hypermétaboliques, 6 situés dans le lobe
+T152	expression_CIM 12291 12297	lésion
+T153	morphologie 12291 12297	lésion
+T154	expression_CIM 12421 12442	infiltration tumorale
+T155	morphologie 12421 12442	infiltration tumorale
+T156	morphologie 12490 12507	Mélanome primaire
+T157	expression_CIM 12490 12536	Mélanome primaire de la muqueuse de l'œsophage
+T158	topographie 12514 12536	muqueuse de l'œsophage
+T159	expression_CIM 12538 12553	maladie avancée
+T160	morphologie 12538 12553	maladie avancée
+T161	morphologie 12555 12565	métastases
+T162	expression_CIM 12555 12576	métastases hépatiques
+T163	topographie 12566 12576	hépatiques
+T128	topographie 11235 11245	parenchyme
+T127	topographie 11203 11216	prévasculaire
+T143	topographie 11720 11755	tiers moyen-supérieur de l'œsophage
+T73	topographie 6018 6049	voies respiratoires supérieures
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C15.9 8000/1
+#3	ICD-O T3	C15.9
+#4	ICD-O T4	8746/3
+#5	ICD-O T5	8746/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C77.1 8000/1
+#8	ICD-O T8	C76.1
+#9	ICD-O T9	C49.8
+#10	ICD-O T10	tocheck
+#11	ICD-O T12	C49.9
+#12	ICD-O T13	C22.0
+#13	ICD-O T15	8000/6
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	C15.9 8000/1;C76.0 8000/1
+#17	ICD-O T19	C76.0
+#18	ICD-O T20	C15.9
+#19	ICD-O T21	8000/1
+#20	ICD-O T23	C15.9
+#21	ICD-O T24	8000/1
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	8000/1
+#24	ICD-O T27	8000/1
+#25	ICD-O T28	8000/3
+#26	ICD-O T29	8000/34
+#27	ICD-O T30	4
+#28	ICD-O T31	8936/1
+#29	ICD-O T32	8936/1
+#30	ICD-O T33	9590/3
+#31	ICD-O T34	9590/3
+#32	ICD-O T35	8041/3
+#33	ICD-O T36	8041/3
+#34	ICD-O T38	8805/3
+#35	ICD-O T39	8010/3
+#36	ICD-O T40	8010/34
+#37	ICD-O T41	4
+#38	ICD-O T42	8000/1
+#39	ICD-O T43	8000/1
+#40	ICD-O T44	8000/3
+#41	ICD-O T45	8000/3
+#42	ICD-O T46	9680/3
+#43	ICD-O T47	9680/3
+#44	ICD-O T48	8000/1
+#45	ICD-O T49	8000/14
+#46	ICD-O T50	4
+#47	ICD-O T51	8010/3
+#48	ICD-O T52	8010/3
+#49	ICD-O T53	9860/3
+#50	ICD-O T54	9860/3
+#51	ICD-O T55	8001/1
+#52	ICD-O T56	8001/1
+#53	ICD-O T57	8800/3
+#54	ICD-O T58	8800/3
+#55	ICD-O T59	8720/3
+#56	ICD-O T60	8720/3
+#57	ICD-O T61	8800/3
+#58	ICD-O T62	C41.9 8800/3;C49.9 8800/3
+#59	ICD-O T63	C49.9
+#60	ICD-O T64	C41.9
+#61	ICD-O T65	8936/1
+#62	ICD-O T66	8936/1
+#63	ICD-O T67	8746/3
+#64	ICD-O T68	8746/3
+#65	ICD-O T69	8720/1
+#66	ICD-O T70	8720/1
+#67	ICD-O T71	8720/3
+#68	ICD-O T74	9040/3
+#69	ICD-O T75	9040/3
+#70	ICD-O T76	9260/3
+#71	ICD-O T77	9260/3
+#72	ICD-O T78	8720/3
+#73	ICD-O T79	C15.9 8720/3
+#74	ICD-O T80	C15.9
+#75	ICD-O T81	8000/1
+#76	ICD-O T82	C15.9 8000/1
+#77	ICD-O T83	C15.9
+#78	ICD-O T84	8000/1
+#79	ICD-O T85	8000/1
+#80	ICD-O T86	8000/1
+#81	ICD-O T87	C77.1 8000/1
+#82	ICD-O T88	C33.9
+#83	ICD-O T89	C22.0
+#84	ICD-O T91	8000/9
+#85	ICD-O T92	8000/3
+#86	ICD-O T94	C15.9
+#87	ICD-O T95	8000/3
+#88	ICD-O T96	C15.9 8000/3
+#89	ICD-O T97	C15.9
+#90	ICD-O T98	8000/1
+#91	ICD-O T99	C15.9 8000/1
+#92	ICD-O T100	C15.9
+#93	ICD-O T101	8000/3
+#94	ICD-O T102	C15.9 8000/3
+#95	ICD-O T103	C15.9
+#96	ICD-O T104	8746/3
+#97	ICD-O T105	8746/3
+#98	ICD-O T106	8000/1
+#99	ICD-O T107	C15.9 8000/1
+#100	ICD-O T108	C15.9
+#101	ICD-O T109	8000/1
+#102	ICD-O T110	C77.1 8000/1;C77.3 8000/1
+#103	ICD-O T111	C76.1
+#104	ICD-O T112	C38.3
+#105	ICD-O T113	8000/1
+#106	ICD-O T114	C22.0 8000/1
+#107	ICD-O T115	C22.0
+#108	ICD-O T116	8000/1
+#109	ICD-O T117	C22.0 8000/1
+#110	ICD-O T118	C22.0
+#111	ICD-O T119	8000/1
+#112	ICD-O T120	C22.0 8000/1
+#113	ICD-O T121	C22.0
+#114	ICD-O T122	8000/1
+#115	ICD-O T123	8000/1
+#116	ICD-O T124	8000/1
+#117	ICD-O T129	8000/1
+#118	ICD-O T132	8000/6
+#119	ICD-O T133	8000/6
+#120	ICD-O T134	8000/1
+#121	ICD-O T135	C15.9 8000/1;C76.0 8000/1
+#122	ICD-O T136	C76.0
+#123	ICD-O T137	C15.9
+#124	ICD-O T138	8000/1
+#125	ICD-O T140	C15.9
+#126	ICD-O T141	8000/1
+#127	ICD-O T142	C15.9 8000/1
+#128	ICD-O T144	8000/1
+#129	ICD-O T145	8000/1
+#130	ICD-O T146	8000/1
+#131	ICD-O T147	C77.1 8000/1
+#132	ICD-O T148	C33.9
+#133	ICD-O T149	8000/9
+#134	ICD-O T152	8000/1
+#135	ICD-O T153	8000/1
+#136	ICD-O T154	8000/6
+#137	ICD-O T155	8000/6
+#138	ICD-O T156	8720/3
+#139	ICD-O T157	C15.9 8720/3
+#140	ICD-O T158	C15.9
+#141	ICD-O T159	8000/6
+#142	ICD-O T160	8000/6
+#143	ICD-O T161	8000/6
+#144	ICD-O T162	C22.0 8000/6
+#145	ICD-O T163	C22.0

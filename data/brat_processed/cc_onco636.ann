@@ -1,0 +1,33 @@
+T1	morphologie 310 316	tumeur
+T3	topographie 317 336	rétro-infraréolaire
+T4	morphologie 652 658	lésion
+T6	topographie 659 679	infra rétroaréolaire
+T8	morphologie 718 725	lésions
+T10	morphologie 895 925	carcinome canalaire infiltrant
+T11	morphologie 1065 1071	lésion
+T13	topographie 1080 1114	quadrant inférieur externe du sein
+T14	morphologie 1209 1217	atteinte
+T16	topographie 1218 1225	cutanée
+T17	topographie 1234 1242	aisselle
+T19	morphologie 1272 1315	ganglions lymphatiques d'apparence réactive
+T20	morphologie 1593 1602	métastase
+T23	morphologie 1606 1615	carcinome
+T24	topographie 1624 1654	ganglion lymphatique axillaire
+T26	morphologie 1704 1722	maladie à distance
+T27	morphologie 1753 1783	carcinome canalaire infiltrant
+T29	topographie 1820 1824	sein
+T30	morphologie 1940 1946	tumeur
+T32	topographie 1947 1955	mammaire
+T33	morphologie 2570 2576	lésion
+T35	topographie 2577 2585	mammaire
+T37	morphologie 2719 2725	lésion
+T39	morphologie 2757 2769	adénopathies
+T41	morphologie 3003 3033	carcinome canalaire infiltrant
+T43	morphologie 3044 3050	foyers
+T45	morphologie 3823 3829	tumeur
+T46	morphologie 4809 4816	lésions
+T48	topographie 4817 4827	hépatiques
+T50	morphologie 4871 4881	métastases
+T51	morphologie 4887 4896	carcinome
+T53	topographie 4897 4905	mammaire
+T55	morphologie 5146 5166	maladie métastatique

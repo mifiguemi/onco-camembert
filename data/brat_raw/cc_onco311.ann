@@ -1,0 +1,118 @@
+T61	topographie 6204 6215	EXTRARENALE
+T50	topographie 5004 5021	iliaques externes
+T1	morphologie 370 376	tumeur
+T2	expression_CIM 370 386	tumeur inguinale
+T3	topographie 377 386	inguinale
+T4	expression_CIM 619 625	tumeur
+T5	morphologie 619 625	tumeur
+T6	morphologie 806 811	masse
+T7	expression_CIM 806 821	masse inguinale
+T8	topographie 812 821	inguinale
+T9	expression_CIM 1020 1029	métastase
+T10	morphologie 1020 1029	métastase
+T11	morphologie 1033 1042	carcinome
+T12	expression_CIM 1033 1070	carcinome indifférencié de haut grade
+T13	differenciation 1043 1070	indifférencié de haut grade
+T14	expression_CIM 1402 1417	tumeur primaire
+T15	morphologie 1402 1417	tumeur primaire
+T16	morphologie 1549 1555	nodule
+T17	expression_CIM 1549 1587	nodule pulmonaire millimétrique en LII
+T18	topographie 1556 1566	pulmonaire
+T19	topographie 1584 1587	LII
+T20	morphologie 2037 2060	absorption pathologique
+T21	expression_CIM 2037 2085	absorption pathologique dans la région inguinale
+T22	topographie 2069 2085	région inguinale
+T23	morphologie 2604 2613	CARCINOME
+T24	expression_CIM 2604 2649	CARCINOME INDIFFÉRENCIÉ PELVIEN DE HAUT GRADE
+T25	differenciation 2614 2627;2636 2649	INDIFFÉRENCIÉ DE HAUT GRADE
+T26	topographie 2628 2635	PELVIEN
+T27	morphologie 2973 2979	tumeur
+T28	expression_CIM 2973 3060	tumeur noirâtre-rougeâtre, surélevée, irrégulière et pierreuse dans la région inguinale
+T29	topographie 3044 3060	région inguinale
+T30	expression_CIM 3819 3833	tumeur maligne
+T31	morphologie 3819 3833	tumeur maligne
+T32	morphologie 4113 4118	masse
+T33	expression_CIM 4113 4128	masse inguinale
+T34	topographie 4119 4128	inguinale
+T35	morphologie 4299 4311	Adénopathies
+T36	expression_CIM 4299 4372	Adénopathies inguinales bilatérales et dans les chaînes iliaques externes
+T37	topographie 4312 4322	inguinales
+T38	topographie 4347 4372	chaînes iliaques externes
+T39	morphologie 4459 4465	Nodule
+T40	expression_CIM 4459 4483	Nodule pulmonaire en LII
+T41	topographie 4466 4476	pulmonaire
+T42	topographie 4480 4483	LII
+T43	expression_CIM 4697 4703	lésion
+T44	morphologie 4697 4703	lésion
+T45	expression_CIM 4954 4969	lésion tumorale
+T46	morphologie 4954 4969	lésion tumorale
+T47	morphologie 4977 4989	adénopathies
+T48	expression_CIM 4977 5021	adénopathies inguinales et iliaques externes
+T49	topographie 4990 5000	inguinales
+T51	expression_CIM 5385 5390	masse
+T52	morphologie 5385 5390	masse
+T53	expression_CIM 5437 5458	formations nodulaires
+T54	morphologie 5437 5458	formations nodulaires
+T55	expression_CIM 5922 5934	Adénopathies
+T56	morphologie 5922 5934	Adénopathies
+T57	expression_CIM 5960 5969	néoplasie
+T58	morphologie 5960 5969	néoplasie
+T59	morphologie 6188 6203	TUMEUR RABDOÏDE
+T60	expression_CIM 6188 6215	TUMEUR RABDOÏDE EXTRARENALE
+T62	expression_CIM 6320 6352	maladie résiduelle et à distance
+T63	morphologie 6320 6352	maladie résiduelle et à distance
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C76.3 8000/1
+#3	ICD-O T3	C76.3
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C76.3 8000/1
+#8	ICD-O T8	C76.3
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8010/3
+#12	ICD-O T12	8020/34
+#13	ICD-O T13	4
+#14	ICD-O T14	8000/3
+#15	ICD-O T15	8000/3
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C34.3 8000/1;C34.9 8000/1
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	C34.3
+#20	ICD-O T20	8000/9
+#21	ICD-O T22	C76.3
+#22	ICD-O T23	8010/3
+#23	ICD-O T24	C76.3 8020/34
+#24	ICD-O T25	4
+#25	ICD-O T26	C76.3
+#26	ICD-O T27	8000/1
+#27	ICD-O T29	C76.3
+#28	ICD-O T30	8000/3
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	C76.3 8000/1
+#32	ICD-O T34	C76.3
+#33	ICD-O T35	8000/1
+#34	ICD-O T37	C76.3
+#35	ICD-O T38	C77.5 
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	C34.3 8000/1;C34.9 8000/1
+#38	ICD-O T41	C34.9
+#39	ICD-O T42	C34.3
+#40	ICD-O T43	8000/1
+#41	ICD-O T44	8000/1
+#42	ICD-O T45	8000/3
+#43	ICD-O T46	8000/3
+#44	ICD-O T47	8000/1
+#45	ICD-O T49	C76.3
+#46	ICD-O T51	8000/1
+#47	ICD-O T52	8000/1
+#48	ICD-O T54	8000/1
+#49	ICD-O T55	C77.9 8000/1
+#50	ICD-O T56	8000/1
+#51	ICD-O T57	8000/1
+#52	ICD-O T58	8000/1
+#53	ICD-O T59	8963/3
+#54	ICD-O T62	8000/6
+#55	ICD-O T63	8000/9

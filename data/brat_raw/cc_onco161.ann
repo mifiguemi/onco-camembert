@@ -1,0 +1,100 @@
+T1	morphologie 1368 1374	tumeur
+T2	expression_CIM 1368 1393	tumeur dans le bas rectum
+T3	topographie 1387 1393	rectum
+T4	expression_CIM 1438 1457	carcinome colloïdal
+T5	morphologie 1438 1457	carcinome colloïdal
+T6	expression_CIM 1508 1514	tumeur
+T7	morphologie 1508 1514	tumeur
+T8	morphologie 1551 1565	adénocarcinome
+T9	expression_CIM 1551 1579	adénocarcinome du bas rectum
+T10	topographie 1573 1579	rectum
+T11	expression_CIM 1707 1713	tumeur
+T12	morphologie 1707 1713	tumeur
+T13	expression_CIM 1738 1744	tumeur
+T14	morphologie 1738 1744	tumeur
+T15	expression_CIM 1914 1943	ganglion lymphatique infiltré
+T16	morphologie 1914 1943	ganglion lymphatique infiltré
+T17	expression_CIM 2018 2024	tumeur
+T18	morphologie 2018 2024	tumeur
+T19	morphologie 2585 2590	masse
+T20	expression_CIM 2585 2605	masse dans le rectum
+T21	topographie 2599 2605	rectum
+T22	morphologie 3003 3008	masse
+T23	expression_CIM 3003 3016	masse rectale
+T24	topographie 3009 3016	rectale
+T25	expression_CIM 3226 3256	tumeur épithéliale infiltrante
+T26	morphologie 3226 3256	tumeur épithéliale infiltrante
+T27	expression_CIM 3453 3471	cellules tumorales
+T28	morphologie 3453 3471	cellules tumorales
+T29	morphologie 3591 3599	invasion
+T30	expression_CIM 3591 3611	invasion périneurale
+T31	topographie 3600 3611	périneurale
+T32	expression_CIM 3669 3681	adénopathies
+T33	morphologie 3669 3681	adénopathies
+T34	expression_CIM 3701 3722	infiltration tumorale
+T35	morphologie 3701 3722	infiltration tumorale
+T36	expression_CIM 3736 3748	adénopathies
+T37	morphologie 3736 3748	adénopathies
+T38	expression_CIM 3803 3820	lésions tumorales
+T39	morphologie 3803 3820	lésions tumorales
+T40	morphologie 3858 3876	Carcinome colloïde
+T41	expression_CIM 3858 3890	Carcinome colloïde du bas rectum
+T42	topographie 3884 3890	rectum
+T43	expression_CIM 4805 4811	lésion
+T44	morphologie 4805 4811	lésion
+T45	morphologie 4918 4927;4934 4952	carcinome à cellules claires
+T46	expression_CIM 4918 4974	carcinome rénal à cellules claires, grade 1-2 de Fürhman
+T47	topographie 4928 4933	rénal
+T48	differenciation 4954 4974	grade 1-2 de Fürhman
+T49	morphologie 5160 5169	carcinome
+T50	expression_CIM 5160 5176	carcinome rectal
+T51	topographie 5170 5176	rectal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C20.9 8000/1
+#3	ICD-O T3	C20.9
+#4	ICD-O T4	8480/3
+#5	ICD-O T5	8480/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8140/3
+#9	ICD-O T9	C20.9 8140/3
+#10	ICD-O T10	C20.9
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T16	tocheck
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	C20.9 8000/1
+#20	ICD-O T21	C20.9
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C20.9 8000/1
+#23	ICD-O T24	C20.9
+#24	ICD-O T26	8010/3
+#25	ICD-O T27	8001/1
+#26	ICD-O T28	8001/1
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C47.9 8000/1
+#29	ICD-O T31	C47.9
+#30	ICD-O T32	C77.9 8000/1
+#31	ICD-O T33	8000/1
+#32	ICD-O T34	8000/6
+#33	ICD-O T35	8000/6
+#34	ICD-O T36	C77.9 8000/1
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/3
+#37	ICD-O T39	8000/3
+#38	ICD-O T40	8480/3
+#39	ICD-O T41	C20.9 8480/3
+#40	ICD-O T42	C20.9
+#41	ICD-O T43	8000/1
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	8310/3
+#44	ICD-O T46	C64.9 8310/32
+#45	ICD-O T47	C64.9
+#46	ICD-O T48	2
+#47	ICD-O T49	8010/3
+#48	ICD-O T50	C20.9 8010/3
+#49	ICD-O T51	C20.9

@@ -1,0 +1,25 @@
+T1	morphologie 158 167	carcinome
+T37	morphologie 179 200	à cellules de Hürthle
+T3	topographie 168 178	thyroïdien
+T4	morphologie 202 205	HCC
+T6	morphologie 458 461	CHC
+T7	morphologie 497 507	métastases
+T9	topographie 508 519	pulmonaires
+T10	topographie 531 541	arc costal
+T11	morphologie 937 944	lésions
+T13	topographie 945 956	pulmonaires
+T14	topographie 960 968	costales
+T16	morphologie 1942 1945	HCC
+T18	morphologie 2134 2140	lésion
+T19	morphologie 2917 2926	Carcinome
+T38	morphologie 2938 2959	à cellules de Hürthle
+T21	topographie 2927 2937	thyroïdien
+T22	morphologie 2961 2964	HCC
+T24	morphologie 4422 4445	néoplasie plasmocytaire
+T26	morphologie 4676 4683	myélome
+T28	morphologie 4737 4753	myélome multiple
+T29	morphologie 4756 4762	lésion
+T31	topographie 4763 4770	osseuse
+T32	topographie 4808 4817	clavicule
+T34	morphologie 5116 5134	myélome leucémique
+T36	morphologie 5141 5163	leucémie à plasmocytes

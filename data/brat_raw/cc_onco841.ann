@@ -1,0 +1,39 @@
+T1	expression_CIM 121 152	polypose adénomateuse familiale
+T2	morphologie 121 152	polypose adénomateuse familiale
+T3	morphologie 919 924	masse
+T4	expression_CIM 919 934	masse pelvienne
+T5	topographie 925 934	pelvienne
+T6	expression_CIM 1511 1531	fibromatose desmoïde
+T7	morphologie 1511 1531	fibromatose desmoïde
+T8	expression_CIM 1558 1599	prolifération néoplasique mésenchymateuse
+T9	morphologie 1558 1599	prolifération néoplasique mésenchymateuse
+T10	expression_CIM 2017 2032	tumeur desmoïde
+T11	morphologie 2017 2032	tumeur desmoïde
+T12	expression_CIM 2056 2087	polypose adénomateuse familiale
+T13	morphologie 2056 2087	polypose adénomateuse familiale
+T14	expression_CIM 2089 2108	syndrome de Gardner
+T15	morphologie 2089 2108	syndrome de Gardner
+T16	morphologie 2656 2661	masse
+T17	expression_CIM 2656 2671	masse pelvienne
+T18	topographie 2662 2671	pelvienne
+T19	expression_CIM 2728 2744	foyers kystiques
+T20	morphologie 2728 2744	foyers kystiques
+#1	ICD-O T1	8220/0
+#2	ICD-O T2	8220/0
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C76.3 8000/1
+#5	ICD-O T5	C76.3
+#6	ICD-O T6	8821/1
+#7	ICD-O T7	8821/1
+#8	ICD-O T8	8800/3
+#9	ICD-O T9	8800/3
+#10	ICD-O T10	8821/1
+#11	ICD-O T11	8821/1
+#12	ICD-O T12	8220/0
+#13	ICD-O T13	8220/0
+#14	ICD-O T14	8220/0
+#15	ICD-O T15	8220/0
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	C76.3 8000/1
+#18	ICD-O T18	C76.3
+#19	ICD-O T20	8440/1

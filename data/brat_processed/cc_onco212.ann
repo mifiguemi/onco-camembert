@@ -1,0 +1,69 @@
+T90	topographie 6219 6229	cavitaires
+T81	morphologie 5922 5935	Granulomatose
+T87	morphologie 6113 6140	Granulomatose lymphomatoïde
+T1	morphologie 144 158	adénocarcinome
+T3	topographie 165 173	prostate
+T4	differenciation 240 255	Gleason 6 (3+3)
+T6	morphologie 344 352	récidive
+T8	morphologie 813 825	adénopathies
+T9	morphologie 1529 1543	adénocarcinome
+T11	differenciation 1544 1566	modérément différencié
+T12	topographie 1570 1583	gros intestin
+T13	morphologie 1681 1687	lésion
+T15	topographie 1707 1713	rectum
+T16	morphologie 1801 1813	adénopathies
+T18	topographie 1823 1833	mésorectum
+T19	topographie 1837 1859	artère iliaque interne
+T20	morphologie 1937 1944	lésions
+T22	topographie 1945 1955	hépatiques
+T23	morphologie 2026 2050	implication métastatique
+T25	topographie 2051 2061	thoracique
+T26	morphologie 2091 2105	adénocarcinome
+T28	topographie 2127 2133	rectum
+T29	morphologie 2139 2147	atteinte
+T31	topographie 2148 2157	hépatique
+T33	morphologie 2289 2305	tumeur primitive
+T34	morphologie 2313 2320	lésions
+T36	topographie 2321 2331	hépatiques
+T38	morphologie 2520 2526	lésion
+T40	morphologie 2593 2604	adénopathie
+T41	morphologie 2839 2849	métastases
+T43	topographie 2850 2860	hépatiques
+T44	morphologie 3032 3046	adénocarcinome
+T46	topographie 3050 3063	gros intestin
+T47	morphologie 3081 3091	métastases
+T49	topographie 3092 3102	hépatiques
+T51	morphologie 3108 3122	adénocarcinome
+T52	morphologie 3180 3190	métastases
+T54	topographie 3191 3205	ganglionnaires
+T55	topographie 3638 3648	pulmonaire
+T57	morphologie 3667 3690	images pseudonodulaires
+T59	morphologie 3721 3741	image multinodulaire
+T61	morphologie 3865 3873	récidive
+T63	morphologie 3880 3886	tumeur
+T65	morphologie 4067 4075	récidive
+T67	morphologie 4082 4088	tumeur
+T68	morphologie 4625 4632	nodules
+T70	topographie 4633 4644	pulmonaires
+T73	morphologie 5182 5189	nodules
+T74	morphologie 5511 5518	nodules
+T76	topographie 5519 5530	pulmonaires
+T77	morphologie 5762 5769	nodules
+T79	topographie 5770 5781	pulmonaires
+T82	morphologie 5998 6006	atteinte
+T84	topographie 6007 6013	rénale
+T85	topographie 6017 6023	nasale
+T88	morphologie 6211 6218	nodules
+T92	morphologie 6380 6397	Récidive tumorale
+T96	morphologie 6484 6503	cancer métastatique
+T97	morphologie 6744 6751	nodules
+T99	topographie 6752 6763	pulmonaires
+T101	morphologie 6796 6803	nodules
+T103	morphologie 6993 7030	histiocytose à cellules de Langerhans
+T104	morphologie 7264 7271	lésions
+T106	topographie 7272 7283	pulmonaires
+T108	morphologie 7410 7447	histiocytose à cellules de Langerhans
+T109	morphologie 7869 7876	nodules
+T111	topographie 7877 7888	pulmonaires
+T71	topographie 4670 4686	lobes supérieurs
+T94	morphologie 6430 6445	motif nodulaire

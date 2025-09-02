@@ -1,0 +1,34 @@
+T1	morphologie 598 604	tumeur
+T3	topographie 608 615	cerveau
+T4	morphologie 707 713	cancer
+T6	topographie 717 721	sein
+T7	topographie 1087 1101	lobe hépatique
+T9	morphologie 1110 1115	masse
+T10	morphologie 1346 1355	extension
+T12	topographie 1359 1369	diaphragme
+T13	morphologie 1402 1415	Carcinomatose
+T15	topographie 1416 1427	péritonéale
+T16	morphologie 1465 1471	tumeur
+T18	topographie 1472 1481	hépatique
+T20	morphologie 1483 1498	hépatocarcinome
+T21	morphologie 1585 1591	tumeur
+T23	topographie 1592 1601	hépatique
+T24	morphologie 1742 1748	tumeur
+T26	topographie 1749 1758	hépatique
+T28	morphologie 1920 1926	lésion
+T30	morphologie 2085 2111	carcinome hépatocellulaire
+T31	morphologie 2113 2116	CHC
+T33	differenciation 2118 2140	modérément différencié
+T34	morphologie 2187 2195	invasion
+T36	topographie 2196 2204	veineuse
+T37	topographie 2247 2254	Omentum
+T39	morphologie 2257 2263	tumeur
+T41	morphologie 2290 2297	implant
+T43	morphologie 2300 2315	hépatocarcinome
+T45	morphologie 2542 2545	CHC
+T46	morphologie 2576 2584	implants
+T48	topographie 2585 2596	péritonéaux
+T49	morphologie 3274 3280	nodule
+T51	topographie 3281 3297	pulmonaire basal
+T52	morphologie 3599 3605	nodule
+T54	topographie 3606 3622	pulmonaire basal

@@ -1,0 +1,16 @@
+T1	morphologie 84 98	adénocarcinome
+T3	topographie 99 108	urachique
+T5	morphologie 763 771	implants
+T6	morphologie 848 856	implants
+T8	topographie 857 868	péritonéaux
+T9	morphologie 881 904	adénocarcinome mucineux
+T25	morphologie 922 966	avec des cellules isolées en bague de signet
+T11	differenciation 905 921	bien différencié
+T12	morphologie 980 1003	Adénocarcinome mucineux
+T14	topographie 1009 1015	utérus
+T16	morphologie 1019 1027	stade IV
+T17	morphologie 1033 1041	atteinte
+T19	topographie 1042 1053	péritonéale
+T21	morphologie 1323 1329	tumeur
+T22	morphologie 2076 2087	progression
+T24	topographie 2088 2099	péritonéale

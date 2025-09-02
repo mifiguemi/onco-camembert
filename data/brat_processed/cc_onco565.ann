@@ -1,0 +1,23 @@
+T1	morphologie 148 154	cancer
+T3	topographie 158 162	sein
+T4	morphologie 535 565	carcinome canalaire infiltrant
+T6	differenciation 566 581	peu différencié
+T7	morphologie 736 744	atteinte
+T9	topographie 757 779	ganglions lymphatiques
+T10	morphologie 2249 2255	lésion
+T12	topographie 2256 2288	cortico-sous-corticale pariétale
+T14	morphologie 2422 2428	lésion
+T16	morphologie 2458 2468	métastases
+T18	morphologie 2600 2618	maladie à distance
+T19	morphologie 2651 2658	Rechute
+T21	topographie 2659 2668	cérébrale
+T22	morphologie 2681 2687	cancer
+T24	topographie 2691 2695	sein
+T25	morphologie 2781 2787	lésion
+T27	topographie 2788 2797	pariétale
+T29	morphologie 2849 2858	métastase
+T30	morphologie 2864 2873	carcinome
+T32	differenciation 2874 2889	peu différencié
+T33	topographie 2900 2908	mammaire
+T34	morphologie 3859 3866	rechute
+T36	topographie 3867 3876	cérébrale

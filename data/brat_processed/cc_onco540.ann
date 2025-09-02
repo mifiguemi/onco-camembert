@@ -1,0 +1,34 @@
+T24	topographie 2605 2638	médiastin antérieur prévasculaire
+T1	morphologie 221 235	adénocarcinome
+T3	topographie 241 250	endomètre
+T5	morphologie 387 395	récidive
+T6	morphologie 450 480	carcinome canalaire infiltrant
+T8	differenciation 484 491	grade 3
+T9	topographie 495 499	sein
+T11	morphologie 654 662	stade IV
+T12	morphologie 680 689	métastase
+T14	topographie 690 697	osseuse
+T15	topographie 721 732	vertèbre D6
+T16	morphologie 2173 2189	lésion scléreuse
+T18	topographie 2208 2226	corps vertébral D6
+T19	morphologie 2288 2294	lésion
+T21	topographie 2309 2313	sein
+T22	morphologie 2584 2596	adénopathies
+T25	morphologie 2744 2774	Carcinome canalaire infiltrant
+T27	topographie 2778 2782	sein
+T29	morphologie 2786 2794	stade IV
+T30	morphologie 2804 2814	métastases
+T32	topographie 2815 2823	osseuses
+T33	topographie 2826 2828	D6
+T34	morphologie 3494 3501	lésions
+T36	topographie 3519 3530	pulmonaires
+T37	morphologie 3544 3550	lésion
+T39	topographie 3554 3558	sein
+T40	morphologie 3824 3838	adénocarcinome
+T42	topographie 3842 3847	côlon
+T44	morphologie 3851 3859	stade IV
+T45	morphologie 3892 3902	métastases
+T47	topographie 3903 3913	hépatiques
+T48	morphologie 4117 4124	maladie
+T51	morphologie 4133 4145	métastatique
+T50	topographie 4125 4132	osseuse

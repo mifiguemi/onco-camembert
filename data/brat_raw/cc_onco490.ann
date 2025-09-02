@@ -1,0 +1,178 @@
+T16	topographie 1434 1456	fenêtre ortopulmonaire
+T72	topographie 4549 4564	médiastin moyen
+T33	topographie 2116 2125	pariétale
+T1	morphologie 422 431	carcinome
+T2	expression_CIM 422 440	carcinome cervical
+T3	topographie 432 440	cervical
+T4	morphologie 1136 1141	masse
+T5	expression_CIM 1136 1175	masse dans le lobe supérieur droit (LSD
+T6	topographie 1150 1164	lobe supérieur
+T7	topographie 1172 1175	LSD
+T8	morphologie 1237 1244	nodules
+T9	expression_CIM 1237 1299	nodules satellites localisés dans le segment postérieur du LSD
+T10	topographie 1296 1299	LSD
+T11	morphologie 1360 1367	maladie
+T12	expression_CIM 1360 1456	maladie médiastinale au niveau paratrachéal droit, souscarinal et dans la fenêtre ortopulmonaire
+T13	topographie 1368 1380	médiastinale
+T14	topographie 1391 1403	paratrachéal
+T15	topographie 1411 1422	souscarinal
+T17	morphologie 1485 1493	atteinte
+T18	expression_CIM 1485 1555	atteinte de la plèvre et des tissus mous au niveau de la paroi costale
+T19	topographie 1500 1506	plèvre
+T21	expression_CIM 1668 1675	lésions
+T22	morphologie 1668 1675	lésions
+T23	expression_CIM 1886 1901	tumeur primaire
+T24	morphologie 1886 1901	tumeur primaire
+T25	morphologie 1918 1925	implant
+T26	expression_CIM 1918 1933	implant pleural
+T27	topographie 1926 1933	pleural
+T28	morphologie 1948 1956	atteinte
+T29	expression_CIM 1948 1964	atteinte osseuse
+T30	topographie 1957 1964	osseuse
+T31	morphologie 2100 2106	lésion
+T32	expression_CIM 2100 2125	lésion ponctuée pariétale
+T34	morphologie 2292 2313	atteinte métastatique
+T35	expression_CIM 2292 2340	atteinte métastatique du système nerveux central
+T36	topographie 2317 2340	système nerveux central
+T37	morphologie 2647 2655	implants
+T38	expression_CIM 2647 2664	implants pleuraux
+T39	topographie 2656 2664	pleuraux
+T40	morphologie 2824 2856	carcinome non à petites cellules
+T41	expression_CIM 2824 2872	carcinome non à petites cellules peu différencié
+T42	differenciation 2857 2872	peu différencié
+T43	expression_CIM 3000 3018	cellules tumorales
+T44	morphologie 3000 3018	cellules tumorales
+T45	morphologie 3134 3143;3155 3177	carcinome non à petites cellules
+T46	expression_CIM 3134 3193	carcinome pulmonaire non à petites cellules peu différencié
+T47	topographie 3144 3154	pulmonaire
+T48	differenciation 3178 3193	peu différencié
+T49	morphologie 3226 3247	atteinte métastatique
+T50	expression_CIM 3226 3315	atteinte métastatique de la plèvre, des os, des tissus mous et du système nerveux central
+T51	topographie 3254 3260	plèvre
+T52	topographie 3266 3268	os
+T53	topographie 3274 3285	tissus mous
+T54	topographie 3292 3315	système nerveux central
+T55	expression_CIM 3331 3340	Stade IVB
+T56	morphologie 3331 3340	Stade IVB
+T57	expression_CIM 3451 3469	cellules tumorales
+T58	morphologie 3451 3469	cellules tumorales
+T59	morphologie 3509 3517	atteinte
+T60	expression_CIM 3509 3531	atteinte leptoméningée
+T61	topographie 3518 3531	leptoméningée
+T62	morphologie 3567 3573	lésion
+T63	expression_CIM 3567 3593	lésion corticale pariétale
+T64	topographie 3574 3593	corticale pariétale
+T65	expression_CIM 3844 3864	maladie métastatique
+T66	morphologie 3844 3864	maladie métastatique
+T67	morphologie 4477 4489	adénopathies
+T68	expression_CIM 4477 4503	adénopathies médiastinales
+T69	topographie 4490 4503	médiastinales
+T70	morphologie 4521 4540	masse adénopathique
+T71	expression_CIM 4521 4564	masse adénopathique dans le médiastin moyen
+T73	morphologie 4660 4665	masse
+T74	expression_CIM 4660 4680	masse de tissus mous
+T75	topographie 4669 4680	tissus mous
+T76	morphologie 4777 4784	Lésions
+T77	expression_CIM 4777 4807	Lésions dans le lobe hépatique
+T78	topographie 4793 4807	lobe hépatique
+T79	expression_CIM 4835 4845	métastases
+T80	morphologie 4835 4845	métastases
+T81	expression_CIM 5371 5386	tumeur primaire
+T82	morphologie 5371 5386	tumeur primaire
+T83	expression_CIM 5400 5427	localisations métastatiques
+T84	morphologie 5400 5427	localisations métastatiques
+T85	morphologie 6080 6092;6101 6112	infiltration néoplasique
+T86	expression_CIM 6080 6131	infiltration osseuse néoplasique du canal rachidien
+T87	topographie 6093 6100	osseuse
+T88	topographie 6116 6131	canal rachidien
+T89	expression_CIM 6376 6383	lésions
+T90	morphologie 6376 6383	lésions
+T91	morphologie 6618 6624	lésion
+T92	expression_CIM 6618 6660	lésion des tissus mous de la paroi costale
+T93	topographie 6629 6660	tissus mous de la paroi costale
+T20	topographie 1514 1555	tissus mous au niveau de la paroi costale
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C76.0 8010/3
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C34.1 8000/1
+#6	ICD-O T6	C34.1
+#7	ICD-O T7	C34.1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C34.1 8000/1
+#10	ICD-O T10	C34.1
+#11	ICD-O T11	8000/6
+#12	ICD-O T13	C38.3
+#13	ICD-O T14	C71.0
+#14	ICD-O T15	C76.1
+#15	ICD-O T17	8000/9
+#16	ICD-O T19	C38.4
+#17	ICD-O T21	8000/1
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	8000/3
+#20	ICD-O T24	8000/3
+#21	ICD-O T25	8000/6
+#22	ICD-O T26	C38.4 8000/6
+#23	ICD-O T27	C38.4
+#24	ICD-O T28	8000/9
+#25	ICD-O T29	C41.9 8000/1
+#26	ICD-O T30	C41.9
+#27	ICD-O T31	8000/1
+#28	ICD-O T34	8000/6
+#29	ICD-O T35	C72.9 8000/6
+#30	ICD-O T36	C72.9
+#31	ICD-O T37	8000/6
+#32	ICD-O T38	C38.4 8000/6
+#33	ICD-O T39	C38.4
+#34	ICD-O T40	8046/3
+#35	ICD-O T41	8046/33
+#36	ICD-O T42	3
+#37	ICD-O T43	8001/1
+#38	ICD-O T44	8001/3
+#39	ICD-O T45	8046/3
+#40	ICD-O T46	C34.9 8046/33
+#41	ICD-O T47	C34.9
+#42	ICD-O T48	3
+#43	ICD-O T49	8000/6
+#44	ICD-O T50	C38.4 8000/6;C41.9 8000/6;C49.9 8000/6;C72.9 8000/6
+#45	ICD-O T51	C38.4
+#46	ICD-O T52	C41.9
+#47	ICD-O T53	C49.9
+#48	ICD-O T54	C72.9
+#49	ICD-O T55	8000/6
+#50	ICD-O T56	8000/6
+#51	ICD-O T57	8001/1
+#52	ICD-O T58	8001/3
+#53	ICD-O T59	8000/9
+#54	ICD-O T60	C70.9 8000/1
+#55	ICD-O T61	C70.9
+#56	ICD-O T62	8000/1
+#57	ICD-O T63	C71.3 8000/1
+#58	ICD-O T64	C71.3
+#59	ICD-O T65	8000/6
+#60	ICD-O T66	8000/6
+#61	ICD-O T67	8000/1
+#62	ICD-O T68	C77.1 8000/1
+#63	ICD-O T69	C38.3
+#64	ICD-O T70	8000/1
+#65	ICD-O T73	8000/1
+#66	ICD-O T74	C49.9 8000/1
+#67	ICD-O T75	C49.9
+#68	ICD-O T76	8000/1
+#69	ICD-O T77	C22.0 8000/1
+#70	ICD-O T78	C22.0
+#71	ICD-O T79	8000/6
+#72	ICD-O T80	8000/6
+#73	ICD-O T81	8000/3
+#74	ICD-O T82	8000/3
+#75	ICD-O T83	8000/6
+#76	ICD-O T84	8000/6
+#77	ICD-O T85	8000/9
+#78	ICD-O T86	C41.9 8000/1;C70.1 8000/1
+#79	ICD-O T87	C41.9
+#80	ICD-O T88	C70.1
+#81	ICD-O T89	8000/1
+#82	ICD-O T90	8000/1
+#83	ICD-O T91	8000/1
+#84	ICD-O T92	C49.3 8000/1
+#85	ICD-O T93	C49.3

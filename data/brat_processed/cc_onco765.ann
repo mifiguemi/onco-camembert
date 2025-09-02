@@ -1,0 +1,38 @@
+T1	morphologie 470 475	masse
+T3	topographie 476 488	épigastrique
+T4	morphologie 579 585	lésion
+T6	topographie 615 631	côlon transverse
+T7	morphologie 701 715	adénocarcinome
+T9	topographie 719 724	côlon
+T10	morphologie 776 794	néoplasie primaire
+T12	topographie 798 814	côlon transverse
+T14	morphologie 829 851	invasion locorégionale
+T15	morphologie 853 859	Lésion
+T18	morphologie 1036 1050	Adénocarcinome
+T20	topographie 1054 1059	côlon
+T21	morphologie 1258 1264	tumeur
+T23	topographie 1284 1300	côlon transverse
+T24	morphologie 1315 1321	lésion
+T26	topographie 1339 1354	angle splénique
+T27	morphologie 1362 1372	métastases
+T29	topographie 1373 1383	hépatiques
+T30	morphologie 1509 1523	adénocarcinome
+T32	topographie 1527 1532	côlon
+T33	differenciation 1543 1545	G2
+T34	differenciation 1566 1568	G3
+T35	morphologie 1574 1586	infiltration
+T37	topographie 1587 1603	lymphovasculaire
+T39	morphologie 1747 1764	atteinte tumorale
+T40	morphologie 1845 1852	nodules
+T42	topographie 1897 1913	lobes hépatiques
+T43	morphologie 1936 1946	métastases
+T45	topographie 1947 1957	hépatiques
+T46	morphologie 2560 2570	métastases
+T48	topographie 2571 2581	hépatiques
+T49	morphologie 2969 2985	lymphadénopathie
+T51	topographie 2986 2998	médiastinale
+T52	morphologie 3008 3015	maladie
+T54	topographie 3016 3025	hépatique
+T55	morphologie 3105 3116	progression
+T57	topographie 3117 3129	médiastinale
+T17	topographie 886 908	segment VIII hépatique

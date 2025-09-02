@@ -1,0 +1,18 @@
+T1	morphologie 665 672	adénome
+T3	topographie 673 684	prostatique
+T4	morphologie 895 909	adénocarcinome
+T6	topographie 910 921	prostatique
+T7	differenciation 975 991	Gleason 6 (3 + 3
+T8	morphologie 1113 1127	adénocarcinome
+T10	topographie 1128 1139	prostatique
+T11	morphologie 1256 1268	infiltration
+T13	topographie 1273 1292	vésicules séminales
+T14	morphologie 1315 1329	Adénocarcinome
+T16	topographie 1330 1341	prostatique
+T18	morphologie 2683 2695	néoformation
+T19	morphologie 2847 2859	angiosarcome
+T21	morphologie 3067 3075	invasion
+T23	topographie 3076 3094	vasculolymphatique
+T24	morphologie 3319 3329	métastases
+T26	topographie 3330 3340	hépatiques
+T27	topographie 3344 3355	pulmonaires

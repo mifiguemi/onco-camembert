@@ -1,0 +1,28 @@
+T1	morphologie 152 166	adénocarcinome
+T3	topographie 170 175	côlon
+T5	morphologie 292 300	récidive
+T6	morphologie 980 985	masse
+T8	topographie 986 996	pulmonaire
+T9	topographie 1005 1008	LSD
+T10	morphologie 1054 1059	masse
+T12	topographie 1060 1070	pulmonaire
+T13	topographie 1079 1082	LSD
+T14	morphologie 1136 1148	micronodules
+T16	topographie 1149 1160	pulmonaires
+T17	morphologie 1199 1210	adénopathie
+T19	topographie 1211 1218	hilaire
+T20	morphologie 1419 1430	adénopathie
+T22	topographie 1431 1444	paratrachéale
+T23	morphologie 1472 1477	masse
+T25	topographie 1478 1488	pulmonaire
+T26	morphologie 1514 1528	adénocarcinome
+T28	topographie 1529 1539	pulmonaire
+T29	morphologie 1659 1673	adénocarcinome
+T31	topographie 1674 1684	pulmonaire
+T32	morphologie 1944 1949	masse
+T34	topographie 1950 1960	pulmonaire
+T38	morphologie 2550 2575	progression de la maladie
+T40	morphologie 2593 2614	lésions métastatiques
+T41	morphologie 2956 2963	maladie
+T43	topographie 2977 2984	cerveau
+T36	morphologie 1967 1998	prise de ganglions lymphatiques

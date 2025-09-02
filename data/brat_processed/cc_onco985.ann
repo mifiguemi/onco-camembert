@@ -1,0 +1,38 @@
+T1	morphologie 473 482	néoplasie
+T3	topographie 486 490	sein
+T4	topographie 511 515	sein
+T5	morphologie 1120 1129	néoplasie
+T7	topographie 1130 1138	mammaire
+T8	morphologie 1458 1486	adénocarcinome endométrioïde
+T10	differenciation 1487 1502	peu différencié
+T11	differenciation 1506 1513	grade 3
+T12	morphologie 1683 1692	néoplasme
+T14	topographie 1693 1704	endométrial
+T15	differenciation 1724 1731	grade 3
+T16	morphologie 1964 1977	carcinomatose
+T18	topographie 1978 1989	péritonéale
+T19	morphologie 2008 2014	nodule
+T21	topographie 2015 2030	intrapéritonéal
+T22	morphologie 2092 2106	adénocarcinome
+T24	differenciation 2107 2122	peu différencié
+T25	topographie 2133 2146	gynécologique
+T26	morphologie 2660 2667	nodules
+T28	topographie 2668 2679	péritonéaux
+T29	morphologie 2804 2813	carcinome
+T56	morphologie 2825 2833	primaire
+T31	topographie 2814 2824	péritonéal
+T32	morphologie 3471 3484	carcinomatose
+T34	topographie 3485 3496	péritonéale
+T36	morphologie 4253 4272	maladie néoplasique
+T38	morphologie 5127 5143	lymphadénopathie
+T39	morphologie 5161 5168	lésions
+T41	topographie 5169 5177	cutanées
+T42	morphologie 5184 5191	lésions
+T44	topographie 5198 5212	cavité buccale
+T45	morphologie 7008 7016	atteinte
+T47	topographie 7028 7049	parenchyme pulmonaire
+T49	morphologie 7309 7328	maladie néoplasique
+T50	morphologie 7833 7841	atteinte
+T52	topographie 7842 7852	pulmonaire
+T53	morphologie 9025 9033	atteinte
+T55	topographie 9045 9066	parenchyme pulmonaire

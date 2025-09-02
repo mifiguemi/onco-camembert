@@ -1,0 +1,112 @@
+T6	topographie 839 843	lobe
+T30	topographie 2206 2210	lobe
+T1	morphologie 395 404	néoplasie
+T2	expression_CIM 395 419	néoplasie de la prostate
+T3	topographie 411 419	prostate
+T4	morphologie 808 814	nodule
+T5	expression_CIM 808 843	nodule induré palpable dans le lobe
+T7	morphologie 905 919	adénocarcinome
+T8	expression_CIM 905 939	adénocarcinome de Gleason 7 (4 + 3
+T9	differenciation 923 939	Gleason 7 (4 + 3
+T10	morphologie 984 998	adénocarcinome
+T11	expression_CIM 984 1018	adénocarcinome de Gleason 7 (4 + 3
+T12	differenciation 1002 1018	Gleason 7 (4 + 3
+T13	morphologie 1096 1105	néoplasme
+T14	expression_CIM 1096 1117	néoplasme prostatique
+T15	topographie 1106 1117	prostatique
+T16	expression_CIM 1762 1770	récidive
+T17	morphologie 1762 1770	récidive
+T18	morphologie 1855 1869	adénocarcinome
+T19	expression_CIM 1855 1889	adénocarcinome de Gleason 8 (4 + 4
+T20	differenciation 1873 1889	Gleason 8 (4 + 4
+T21	morphologie 1934 1948	adénocarcinome
+T22	expression_CIM 1934 1968	adénocarcinome de Gleason 8 (4 + 4
+T23	differenciation 1952 1968	Gleason 8 (4 + 4
+T24	expression_CIM 2026 2041	récidive locale
+T25	morphologie 2026 2041	récidive locale
+T26	expression_CIM 2126 2144	maladie à distance
+T27	morphologie 2126 2144	maladie à distance
+T28	morphologie 2163 2185	foyer hypermétabolique
+T29	expression_CIM 2163 2210	foyer hypermétabolique médio-basal dans le lobe
+T31	morphologie 2235 2240	foyer
+T32	expression_CIM 2235 2289	foyer de moindre intensité dans le tiers moyen du lobe
+T34	expression_CIM 2325 2343	maladie à distance
+T35	morphologie 2325 2343	maladie à distance
+T36	expression_CIM 2442 2450	implants
+T37	morphologie 2442 2450	implants
+T38	morphologie 2707 2717	métastases
+T39	expression_CIM 2707 2744	métastases osseuses et ganglionnaires
+T40	topographie 2718 2726	osseuses
+T41	topographie 2730 2744	ganglionnaires
+T42	morphologie 3907 3913;3958 3987	lésion compatible avec une métastase
+T43	expression_CIM 3907 3987	lésion invasive à la base de l'os occipital droit, compatible avec une métastase
+T44	topographie 3938 3950	os occipital
+T45	morphologie 4221 4228	lésions
+T46	expression_CIM 4221 4237	lésions osseuses
+T47	topographie 4229 4237	osseuses
+T48	morphologie 4301 4308	maladie
+T49	expression_CIM 4301 4322	maladie ganglionnaire
+T50	topographie 4309 4322	ganglionnaire
+T51	morphologie 4383 4389	cancer
+T52	expression_CIM 4383 4404	cancer de la prostate
+T53	topographie 4396 4404	prostate
+T54	expression_CIM 4445 4449	CPMR
+T55	morphologie 4445 4449	CPMR
+T56	morphologie 4460 4471	progression
+T57	expression_CIM 4460 4479	progression osseuse
+T58	topographie 4472 4479	osseuse
+T59	expression_CIM 4537 4543	lésion
+T60	morphologie 4537 4543	lésion
+T33	topographie 2270 2289	tiers moyen du lobe
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C61.9 8000/1
+#3	ICD-O T3	C61.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T7	8140/3
+#6	ICD-O T8	8140/33
+#7	ICD-O T9	3
+#8	ICD-O T10	8140/3
+#9	ICD-O T11	8140/33
+#10	ICD-O T12	3
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C61.9 8000/1
+#13	ICD-O T15	C61.9
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	8000/6
+#16	ICD-O T18	8140/3
+#17	ICD-O T19	8140/34
+#18	ICD-O T20	4
+#19	ICD-O T21	8140/3
+#20	ICD-O T22	8140/34
+#21	ICD-O T23	4
+#22	ICD-O T25	8000/3
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	8000/6
+#25	ICD-O T28	8000/9
+#26	ICD-O T31	8000/1
+#27	ICD-O T34	8000/6
+#28	ICD-O T35	8000/6
+#29	ICD-O T36	8000/6
+#30	ICD-O T37	8000/6
+#31	ICD-O T38	8000/6
+#32	ICD-O T39	C41.9 8000/6;C77.9 8000/6
+#33	ICD-O T40	C41.9
+#34	ICD-O T41	C77.9
+#35	ICD-O T42	8000/6
+#36	ICD-O T43	C41.0 8000/6
+#37	ICD-O T44	C41.0
+#38	ICD-O T45	8000/1
+#39	ICD-O T46	C41.9 8000/1
+#40	ICD-O T47	C41.9
+#41	ICD-O T48	8000/9
+#42	ICD-O T50	C77.9
+#43	ICD-O T51	8000/3
+#44	ICD-O T52	C61.9 8000/3
+#45	ICD-O T53	C61.9
+#46	ICD-O T54	8000/3
+#47	ICD-O T55	8000/3
+#48	ICD-O T56	8000/6
+#49	ICD-O T57	C41.9 8000/6
+#50	ICD-O T58	C41.9
+#51	ICD-O T59	8000/1
+#52	ICD-O T60	8000/1

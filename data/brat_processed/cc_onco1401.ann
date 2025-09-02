@@ -1,0 +1,22 @@
+T5	topographie 154 174	cervico-claviculaire
+T6	morphologie 176 202	de type sclérose nodulaire
+T34	morphologie 95 114	lymphome de Hodgkin
+T2	morphologie 129 137	atteinte
+T7	morphologie 466 471	masse
+T9	topographie 472 482	pulmonaire
+T11	morphologie 563 575	adénopathies
+T13	morphologie 737 756	lymphome hodgkinien
+T14	morphologie 787 792	masse
+T16	topographie 793 803	pulmonaire
+T17	topographie 833 847	lobe inférieur
+T18	morphologie 897 909	adénopathies
+T20	topographie 910 925	sous-carénaires
+T21	morphologie 982 1004	captation pathologique
+T25	morphologie 1176 1182	lésion
+T27	morphologie 1307 1319	adénopathies
+T29	morphologie 1592 1617	adénocarcinome infiltrant
+T30	morphologie 1631 1653	Adénocarcinome acineux
+T32	differenciation 1654 1676	modérément différencié
+T33	topographie 1680 1686	poumon
+T4	topographie 138 150	médistinique
+T23	topographie 1013 1027	muscle iliaque

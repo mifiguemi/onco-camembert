@@ -1,0 +1,94 @@
+T41	morphologie 2544 2547	ADK
+T11	topographie 926 949	fosse crânienne moyenne
+T1	morphologie 142 161	hyperplasie bénigne
+T2	expression_CIM 142 176	hyperplasie bénigne de la prostate
+T3	topographie 168 176	prostate
+T4	morphologie 670 676	lésion
+T5	expression_CIM 670 686	lésion temporale
+T6	topographie 677 686	temporale
+T7	expression_CIM 713 723	méningiome
+T8	morphologie 713 723	méningiome
+T9	morphologie 889 895	lésion
+T10	expression_CIM 889 980	lésion solide, extra-axiale, dans la fosse crânienne moyenne et la grande aile du sphénoïde
+T12	topographie 971 980	sphénoïde
+T13	expression_CIM 1280 1290	méningiome
+T14	morphologie 1280 1290	méningiome
+T15	expression_CIM 1418 1427	métastase
+T16	morphologie 1418 1427	métastase
+T17	morphologie 1487 1496	métastase
+T18	expression_CIM 1487 1538	métastase hémorragique à la pointe du lobe temporal
+T19	topographie 1525 1538	lobe temporal
+T20	morphologie 1544 1556	infiltration
+T21	expression_CIM 1544 1576	infiltration de la base du crâne
+T22	topographie 1571 1576	crâne
+T23	expression_CIM 1689 1699	METASTASIS
+T24	morphologie 1689 1699	METASTASIS
+T25	expression_CIM 1705 1720	ADENOCARCINOMME
+T26	morphologie 1705 1720	ADENOCARCINOMME
+T27	morphologie 1724 1736	infiltration
+T28	expression_CIM 1724 1751	infiltration focale de l'os
+T29	topographie 1749 1751	os
+T30	expression_CIM 1758 1772	adénocarcinome
+T31	morphologie 1758 1772	adénocarcinome
+T32	morphologie 2285 2292	lésions
+T33	expression_CIM 2285 2387	lésions ostéogéniques hypermétaboliques vertébrales dans les branches iliopubiennes et ischiopubiennes
+T34	topographie 2325 2336	vertébrales
+T35	topographie 2355 2368	iliopubiennes
+T36	topographie 2372 2387	ischiopubiennes
+T37	expression_CIM 2411 2421	métastases
+T38	morphologie 2411 2421	métastases
+T39	expression_CIM 2500 2517	cellules malignes
+T40	morphologie 2500 2517	cellules malignes
+T42	expression_CIM 2544 2559	ADK prostatique
+T43	topographie 2548 2559	prostatique
+T44	expression_CIM 2563 2571	stade IV
+T45	morphologie 2563 2571	stade IV
+T46	morphologie 2596 2609	dissémination
+T47	expression_CIM 2596 2629	dissémination osseuse et méningée
+T48	topographie 2610 2617	osseuse
+T49	topographie 2621 2629	méningée
+#1	ICD-O T41	tocheck
+#2	ICD-O T1	8000/0
+#3	ICD-O T3	C61.9 
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C41.0 8000/1
+#6	ICD-O T6	C41.0
+#7	ICD-O T7	9530/0
+#8	ICD-O T8	9530/0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C41.0 8000/1;C71.9 8000/1
+#11	ICD-O T12	C41.0
+#12	ICD-O T13	9530/0
+#13	ICD-O T14	9530/0
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	8000/6
+#17	ICD-O T19	C71.2
+#18	ICD-O T20	8000/1
+#19	ICD-O T21	C41.0 8000/1
+#20	ICD-O T22	C41.0
+#21	ICD-O T24	8000/6
+#22	ICD-O T26	8140/3
+#23	ICD-O T27	8000/9
+#24	ICD-O T28	C41.9 8000/1
+#25	ICD-O T29	C41.9
+#26	ICD-O T30	8140/3
+#27	ICD-O T31	8140/3
+#28	ICD-O T32	8000/1
+#29	ICD-O T33	C41.2 8000/1;C41.4 8000/1
+#30	ICD-O T34	C41.2
+#31	ICD-O T35	C41.4
+#32	ICD-O T36	C41.4
+#33	ICD-O T37	8000/6
+#34	ICD-O T38	8000/6
+#35	ICD-O T39	8000/1
+#36	ICD-O T40	8001/3
+#37	ICD-O T43	C61.9
+#38	ICD-O T44	8000/6
+#39	ICD-O T45	8000/6
+#40	ICD-O T46	8000/6
+#41	ICD-O T47	C41.9 8000/6;C70.9 8000/6
+#42	ICD-O T48	C41.9
+#43	ICD-O T49	C70.9
+#44	AnnotatorNotes T24	trad
+#45	AnnotatorNotes T26	trad

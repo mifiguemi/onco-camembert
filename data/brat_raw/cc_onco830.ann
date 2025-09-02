@@ -1,0 +1,147 @@
+T39	topographie 1603 1618	iliaque externe
+T1	morphologie 490 496	lésion
+T2	expression_CIM 490 526	lésion solide de la glande surrénale
+T3	topographie 510 526	glande surrénale
+T4	morphologie 671 677	lésion
+T5	expression_CIM 671 716	lésion hypervasculaire de la glande surrénale
+T6	topographie 700 716	glande surrénale
+T7	expression_CIM 736 752	phéochromocytome
+T8	morphologie 736 752	phéochromocytome
+T9	morphologie 792 799	lésions
+T10	expression_CIM 792 830	lésions hypervasculaires pancréatiques
+T11	topographie 817 830	pancréatiques
+T12	expression_CIM 849 872	tumeurs neuroendocrines
+T13	morphologie 849 872	tumeurs neuroendocrines
+T14	morphologie 880 887	nodules
+T15	expression_CIM 880 899	nodules pulmonaires
+T16	topographie 888 899	pulmonaires
+T17	expression_CIM 932 942	métastases
+T18	morphologie 932 942	métastases
+T19	morphologie 996 1005	carcinome
+T20	expression_CIM 996 1011	carcinome rénal
+T21	topographie 1006 1011	rénal
+T22	morphologie 1404 1415	adénopathie
+T23	expression_CIM 1404 1432	adénopathie sus-claviculaire
+T24	topographie 1416 1432	sus-claviculaire
+T25	morphologie 1447 1458	adénopathie
+T26	expression_CIM 1447 1474	adénopathie rétrobronchique
+T27	topographie 1459 1474	rétrobronchique
+T28	morphologie 1486 1493	nodules
+T29	expression_CIM 1486 1505	nodules pulmonaires
+T30	topographie 1494 1505	pulmonaires
+T31	morphologie 1526 1533	lésions
+T32	expression_CIM 1526 1547	lésions pancréatiques
+T33	topographie 1534 1547	pancréatiques
+T34	morphologie 1555 1560	masse
+T35	expression_CIM 1555 1574	masse surrénalienne
+T36	topographie 1561 1574	surrénalienne
+T37	morphologie 1591 1602	adénopathie
+T38	expression_CIM 1591 1618	adénopathie iliaque externe
+T40	expression_CIM 1657 1673	phéochromocytome
+T41	morphologie 1657 1673	phéochromocytome
+T42	morphologie 1834 1843	captation
+T43	expression_CIM 1834 1876	captation au niveau de la glande surrénale
+T44	topographie 1860 1876	glande surrénale
+T45	expression_CIM 1964 1981	hémangioblastomes
+T46	morphologie 1964 1981	hémangioblastomes
+T47	morphologie 2045 2052	lésions
+T48	expression_CIM 2045 2133	lésions solides, bien délimitées et hypervasculaires au niveau de la glande pancréatique
+T49	topographie 2114 2133	glande pancréatique
+T50	morphologie 2413 2418	masse
+T51	expression_CIM 2413 2432	masse surrénalienne
+T52	topographie 2419 2432	surrénalienne
+T53	expression_CIM 2601 2610	carcinome
+T54	morphologie 2601 2610	carcinome
+T55	morphologie 2747 2756;2763 2781	carcinome à cellules claires
+T56	expression_CIM 2747 2781	carcinome rénal à cellules claires
+T57	topographie 2757 2762	rénal
+T58	morphologie 2832 2842	métastases
+T59	expression_CIM 2832 2903	métastases pulmonaires, pancréatiques, surrénaliennes et ganglionnaires
+T60	topographie 2843 2854	pulmonaires
+T61	topographie 2856 2869	pancréatiques
+T62	topographie 2871 2885	surrénaliennes
+T63	topographie 2889 2903	ganglionnaires
+T64	morphologie 2909 2918;2925 2943	carcinome à cellules claires
+T65	expression_CIM 2909 2943	carcinome rénal à cellules claires
+T66	topographie 2919 2924	rénal
+T67	morphologie 3003 3012;3019 3037	carcinome à cellules claires
+T68	expression_CIM 3003 3037	carcinome rénal à cellules claires
+T69	topographie 3013 3018	rénal
+T70	morphologie 3063 3078	tumeur primaire
+T71	expression_CIM 3063 3091	tumeur primaire dans le rein
+T72	topographie 3087 3091	rein
+T73	morphologie 3336 3346	métastases
+T74	expression_CIM 3336 3360	métastases pancréatiques
+T75	topographie 3347 3360	pancréatiques
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C74.9 8000/1
+#3	ICD-O T3	C74.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C74.9 8000/1
+#6	ICD-O T6	C74.9
+#7	ICD-O T7	8700/0
+#8	ICD-O T8	8700/0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C25.9 8000/1
+#11	ICD-O T11	C25.9
+#12	ICD-O T12	8000/3
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C34.9 8000/1
+#16	ICD-O T16	C34.9
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8010/3
+#20	ICD-O T20	C64.9 8010/3
+#21	ICD-O T21	C64.9
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C77.0 8000/1
+#24	ICD-O T24	C76.0
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C77.1 8000/1
+#27	ICD-O T27	C49.3
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C34.9 8000/1
+#30	ICD-O T30	C34.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	C25.9 8000/1
+#33	ICD-O T33	C25.9
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	C74.9 8000/1
+#36	ICD-O T36	C74.9
+#37	ICD-O T37	8000/1
+#38	ICD-O T40	8700/0
+#39	ICD-O T41	8700/0
+#40	ICD-O T42	8000/1
+#41	ICD-O T44	C74.9
+#42	ICD-O T45	9161/1
+#43	ICD-O T46	9161/1
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C25.9 8000/1
+#46	ICD-O T49	C25.9
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	C74.9 8000/1
+#49	ICD-O T52	C74.9
+#50	ICD-O T53	8010/3
+#51	ICD-O T54	8010/3
+#52	ICD-O T55	8310/3
+#53	ICD-O T56	C64.9 8310/3
+#54	ICD-O T57	C64.9
+#55	ICD-O T58	8000/6
+#56	ICD-O T59	C25.9 8000/6;C34.9 8000/6;C74.9 8000/6;C77.9 8000/6
+#57	ICD-O T60	C34.9
+#58	ICD-O T61	C25.9
+#59	ICD-O T62	C74.9
+#60	ICD-O T63	C77.9
+#61	ICD-O T64	8310/3
+#62	ICD-O T65	C64.9 8310/3
+#63	ICD-O T66	C64.9
+#64	ICD-O T67	8310/3
+#65	ICD-O T68	C64.9 8310/3
+#66	ICD-O T69	C64.9
+#67	ICD-O T70	8000/3
+#68	ICD-O T71	C64.9 8000/3
+#69	ICD-O T72	C64.9
+#70	ICD-O T73	8000/6
+#71	ICD-O T74	C25.9 8000/6
+#72	ICD-O T75	C25.9

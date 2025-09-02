@@ -1,0 +1,75 @@
+T102	topographie 7604 7633	champs pulmonaires supérieurs
+T79	topographie 5824 5856	corps vertébraux T10, T11 et T12
+T66	topographie 5234 5236	LD
+T7	topographie 848 876	lobes superficiel et profond
+T108	topographie 7750 7777	os de la ceinture pelvienne
+T68	topographie 5383 5424	segment postérieur du LSD (lobe supérieur
+T1	morphologie 207 213	tumeur
+T3	topographie 220 228	parotide
+T4	morphologie 745 775	carcinome canalaire infiltrant
+T6	differenciation 779 802	haut grade histologique
+T9	topographie 1197 1210	sous-cutanées
+T10	topographie 1224 1227	cou
+T11	morphologie 1572 1602	Carcinome canalaire infiltrant
+T13	topographie 1609 1624	glande parotide
+T14	morphologie 1800 1808	invasion
+T16	topographie 1809 1820	périneurale
+T17	topographie 1822 1837	microvasculaire
+T18	topographie 1841 1852	lymphatique
+T20	morphologie 2400 2411	adénopathie
+T22	morphologie 2515 2527	adénopathies
+T24	morphologie 2581 2592	adénopathie
+T26	morphologie 2621 2632	Adénopathie
+T27	morphologie 2697 2708	adénopathie
+T29	topographie 2709 2718	cervicale
+T30	morphologie 2793 2799	nodule
+T32	topographie 2800 2810	thyroïdien
+T34	morphologie 2880 2898	nodule adénomateux
+T35	morphologie 3568 3578	métastases
+T38	morphologie 3582 3601	carcinome canalaire
+T39	topographie 3614 3636	ganglions lymphatiques
+T41	morphologie 3700 3709	invasions
+T44	topographie 3733 3745	lymphatiques
+T45	morphologie 3785 3795	métastases
+T48	morphologie 3799 3818	carcinome canalaire
+T49	topographie 3832 3841	ganglions
+T50	morphologie 3867 3876	invasions
+T53	topographie 3900 3912	lymphatiques
+T54	morphologie 3930 3936	Nodule
+T56	topographie 3937 3959	mastoïdien sous-cutané
+T57	morphologie 4791 4797	nodule
+T59	topographie 4827 4833	tragus
+T60	morphologie 5118 5124	Nodule
+T62	topographie 5125 5135	thyroïdien
+T63	morphologie 5181 5188	nodules
+T65	topographie 5189 5200	pulmonaires
+T69	morphologie 5469 5490	lésions métastatiques
+T71	topographie 5516 5527	corps de S1
+T73	morphologie 5556 5568	lésion mixte
+T74	morphologie 5648 5653	masse
+T76	topographie 5657 5666	tissu mou
+T77	morphologie 5746 5753	lésions
+T81	topographie 5951 5971	branche iléopubienne
+T83	morphologie 6018 6038	maladie métastatique
+T84	morphologie 6526 6533	lésions
+T113	morphologie 6543 6556	métastatiques
+T86	topographie 6534 6542	osseuses
+T88	morphologie 6594 6601	lésions
+T89	morphologie 6639 6646	lésions
+T91	topographie 6647 6658	pulmonaires
+T93	morphologie 6673 6683	métastases
+T94	morphologie 7230 7236	nodule
+T96	topographie 7237 7251	préauriculaire
+T97	morphologie 7457 7479	extension métastatique
+T99	topographie 7480 7493	ganglionnaire
+T100	morphologie 7570 7583	micro-nodules
+T103	morphologie 7651 7668	zones de sclérose
+T105	topographie 7669 7676	osseuse
+T106	topographie 7700 7731	corps vertébraux dorsolombaires
+T107	topographie 7736 7742	sacrum
+T110	morphologie 7814 7844	foyers d'atteinte métastatique
+T112	morphologie 7884 7891	lésions
+T67	topographie 5280 5321	tiers externe des deux champs pulmonaires
+T40	topographie 3651 3672	tissus mous adjacents
+T43	topographie 3710 3721	vasculaires
+T52	topographie 3877 3888	vasculaires

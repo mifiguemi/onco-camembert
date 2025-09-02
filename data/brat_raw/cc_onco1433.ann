@@ -1,0 +1,55 @@
+T1	morphologie 179 185	nodule
+T2	expression_CIM 179 196	nodule thyroïdien
+T3	topographie 186 196	thyroïdien
+T4	expression_CIM 821 826	masse
+T5	morphologie 821 826	masse
+T6	expression_CIM 1360 1377	adénome tubulaire
+T7	morphologie 1360 1377	adénome tubulaire
+T8	morphologie 1400 1412	adénopathies
+T9	expression_CIM 1400 1460	adénopathies au niveau du hile droit et du lobaire inférieur
+T10	topographie 1426 1430	hile
+T12	morphologie 1470 1482	adénopathies
+T13	expression_CIM 1470 1498	adénopathies sous-carénaires
+T15	morphologie 1862 1873	adénopathie
+T16	expression_CIM 1862 1887	adénopathie sous-carénale
+T17	topographie 1874 1887	sous-carénale
+T18	expression_CIM 1934 1962	carcinome à petites cellules
+T19	morphologie 1934 1962	carcinome à petites cellules
+T21	expression_CIM 2159 2186	prise anormale dans le hile
+T22	topographie 2182 2186	hile
+T23	morphologie 2198 2209	adénopathie
+T24	expression_CIM 2198 2224	adénopathie sous-carcinale
+T26	morphologie 2380 2389;2401 2419	Carcinome à petites cellules
+T27	expression_CIM 2380 2419	Carcinome pulmonaire à petites cellules
+T28	topographie 2390 2400	pulmonaire
+T29	morphologie 2486 2494	atteinte
+T30	expression_CIM 2486 2523	atteinte du tractus gastro-intestinal
+T31	topographie 2498 2523	tractus gastro-intestinal
+T11	topographie 1443 1460	lobaire inférieur
+T20	morphologie 2159 2173	prise anormale
+T25	topographie 2210 2224	sous-carcinale
+T14	topographie 1483 1498	sous-carénaires
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C73.9 8000/1
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8211/0
+#7	ICD-O T7	8211/0
+#8	ICD-O T8	8000/1
+#9	ICD-O T10	C76.1
+#10	ICD-O T12	8000/1
+#11	ICD-O T15	8000/1
+#12	ICD-O T16	C77.1 8000/1
+#13	ICD-O T17	C76.1
+#14	ICD-O T18	8041/3
+#15	ICD-O T19	8041/3
+#16	ICD-O T22	C76.1
+#17	ICD-O T23	8000/1
+#18	ICD-O T26	8041/3
+#19	ICD-O T27	C34.9 8041/3
+#20	ICD-O T28	C34.9
+#21	ICD-O T29	8000/9
+#22	ICD-O T30	C26.9 8000/1
+#23	ICD-O T31	C26.9
+#24	ICD-O T20	8000/1

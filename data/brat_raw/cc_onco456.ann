@@ -1,0 +1,197 @@
+T61	topographie 2807 2818	mésorectale
+T1	morphologie 69 75	cancer
+T2	expression_CIM 69 90	cancer de la prostate
+T3	topographie 82 90	prostate
+T4	morphologie 417 423	lipome
+T5	expression_CIM 417 432	lipome cervical
+T6	topographie 424 432	cervical
+T7	morphologie 1084 1094	métastases
+T8	expression_CIM 1084 1168	métastases osseuses dans le squelette axial, le bassin et le tiers proximal du fémur
+T9	topographie 1095 1103	osseuses
+T10	topographie 1112 1127	squelette axial
+T11	topographie 1132 1138	bassin
+T12	topographie 1163 1168	fémur
+T13	morphologie 1464 1476	adénopathies
+T14	expression_CIM 1464 1508	adénopathies supra- et infradiaphragmatiques
+T15	topographie 1477 1508	supra- et infradiaphragmatiques
+T16	morphologie 1523 1533	métastases
+T17	expression_CIM 1523 1642	métastases ostéoblastiques touchant toutes les vertèbres, les deux fémurs, les deux os iliaques, le sacrum et les côtes
+T18	topographie 1570 1579	vertèbres
+T19	topographie 1590 1596	fémurs
+T20	topographie 1607 1618	os iliaques
+T21	topographie 1623 1629	sacrum
+T22	topographie 1637 1642	côtes
+T23	morphologie 1693 1701	atteinte
+T24	expression_CIM 1693 1729	atteinte des deux lobes prostatiques
+T25	topographie 1717 1729	prostatiques
+T26	morphologie 1737 1751	adénocarcinome
+T27	expression_CIM 1737 1779	adénocarcinome prostatique de Gleason 8/10
+T28	topographie 1752 1763	prostatique
+T29	differenciation 1767 1779	Gleason 8/10
+T30	morphologie 1815 1825	métastases
+T31	expression_CIM 1815 1834	métastases osseuses
+T32	topographie 1826 1834	osseuses
+T33	morphologie 1847 1872	conglomérat adénopathique
+T34	expression_CIM 1847 1902	conglomérat adénopathique para-aortique rétropéritonéal
+T35	topographie 1873 1886	para-aortique
+T36	topographie 1887 1902	rétropéritonéal
+T37	morphologie 1916 1928	adénopathies
+T38	expression_CIM 1916 1940	adénopathies abdominales
+T39	topographie 1929 1940	abdominales
+T40	morphologie 1978 1985	lésions
+T41	expression_CIM 1978 2139	lésions multiples au niveau de la colonne vertébrale, du bassin, de la cage thoracique, du sternum, de la clavicule, de l'humérus proximal droit, des deux fémurs
+T42	topographie 2012 2030	colonne vertébrale
+T43	topographie 2035 2041	bassin
+T44	topographie 2049 2064	cage thoracique
+T45	topographie 2069 2076	sternum
+T46	topographie 2084 2093	clavicule
+T47	topographie 2100 2116	humérus proximal
+T48	topographie 2133 2139	fémurs
+T49	expression_CIM 2156 2165	extension
+T50	morphologie 2156 2165	extension
+T51	expression_CIM 2461 2473	adénopathies
+T52	morphologie 2461 2473	adénopathies
+T53	morphologie 2548 2555	lésions
+T54	expression_CIM 2548 2564	lésions osseuses
+T55	topographie 2556 2564	osseuses
+T56	morphologie 2716 2732	lymphadénopathie
+T57	expression_CIM 2716 2750	lymphadénopathie du tronc cœliaque
+T58	topographie 2736 2750	tronc cœliaque
+T59	morphologie 2790 2806	lymphadénopathie
+T60	expression_CIM 2790 2818	lymphadénopathie mésorectale
+T62	expression_CIM 2889 2906	lymphadénopathies
+T63	morphologie 2889 2906	lymphadénopathies
+T64	morphologie 2914 2924	métastases
+T65	expression_CIM 2914 2933	métastases osseuses
+T66	topographie 2925 2933	osseuses
+T67	morphologie 3024 3031;3041 3054	lésions métastatiques
+T68	expression_CIM 3024 3184	lésions osseuses métastatiques au niveau du rachis, du bassin, de la cage thoracique, du sternum, des clavicules, de l'humérus proximal droit et des deux fémurs
+T69	topographie 3032 3040	osseuses
+T70	topographie 3068 3074	rachis
+T71	topographie 3079 3085	bassin
+T72	topographie 3093 3108	cage thoracique
+T73	topographie 3113 3120	sternum
+T74	topographie 3126 3136	clavicules
+T75	topographie 3143 3159	humérus proximal
+T76	topographie 3178 3184	fémurs
+T77	morphologie 3271 3278	lésions
+T78	expression_CIM 3271 3344	lésions pelviennes, en particulier celle située dans l'acétabulum/ischium
+T79	topographie 3279 3289	pelviennes
+T80	morphologie 3306 3311	celle
+T81	topographie 3326 3344	acétabulum/ischium
+T82	morphologie 3381 3388	lésions
+T83	expression_CIM 3381 3462	lésions au niveau de la diaphyse fémorale droite et au niveau du petit trochanter
+T84	topographie 3405 3422	diaphyse fémorale
+T86	morphologie 4415 4421	foyers
+T87	expression_CIM 4415 4452	foyers dans la branche ischiopubienne
+T88	topographie 4430 4452	branche ischiopubienne
+T89	expression_CIM 4504 4510	masses
+T90	morphologie 4504 4510	masses
+T91	expression_CIM 5507 5513	lésion
+T92	morphologie 5507 5513	lésion
+T93	morphologie 5687 5693	cancer
+T94	expression_CIM 5687 5708	cancer de la prostate
+T95	topographie 5700 5708	prostate
+T96	morphologie 5712 5720	stade IV
+T97	expression_CIM 5712 5737	stade IV (os et ganglions
+T98	topographie 5722 5724	os
+T99	topographie 5728 5737	ganglions
+T100	expression_CIM 6462 6487	progression de la maladie
+T101	morphologie 6462 6487	progression de la maladie
+T85	topographie 3446 3462	petit trochanter
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C61.9 8000/3
+#3	ICD-O T3	C61.9
+#4	ICD-O T4	8850/0
+#5	ICD-O T5	C76.0 8850/0
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/6
+#8	ICD-O T8	C40.2 8000/6;C41.2 8000/6;C41.9 8000/6;C76.3 8000/6
+#9	ICD-O T9	C41.9
+#10	ICD-O T10	C41.2
+#11	ICD-O T11	C76.3
+#12	ICD-O T12	C40.2
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C77.0 8000/1;C77.1 8000/1
+#15	ICD-O T15	C76.8
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C40.2 8000/6;C41.2 8000/6;C41.3 8000/6;C41.4 8000/6
+#18	ICD-O T18	C41.2
+#19	ICD-O T19	C40.2
+#20	ICD-O T20	C41.4
+#21	ICD-O T21	C41.4
+#22	ICD-O T22	C41.3
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C61.9 8000/1
+#25	ICD-O T25	C61.9
+#26	ICD-O T26	8140/3
+#27	ICD-O T27	C61.9 8140/34
+#28	ICD-O T28	C61.9
+#29	ICD-O T29	4
+#30	ICD-O T30	8000/6
+#31	ICD-O T31	C41.9 8000/6
+#32	ICD-O T32	C41.9
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	C77.2 8000/1
+#35	ICD-O T35	C49.4
+#36	ICD-O T36	C48.0
+#37	ICD-O T37	8000/1
+#38	ICD-O T38	C77.2 8000/1
+#39	ICD-O T39	C76.2
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	C40.0 8000/1;C40.2 8000/1;C41.2 8000/1;C41.3 8000/1;C76.1 8000/1;C76.3 8000/1
+#42	ICD-O T42	C41.2
+#43	ICD-O T43	C76.3
+#44	ICD-O T44	C76.1
+#45	ICD-O T45	C41.3
+#46	ICD-O T46	C41.3
+#47	ICD-O T47	C40.0
+#48	ICD-O T48	C40.2
+#49	ICD-O T49	8000/6
+#50	ICD-O T50	8000/6
+#51	ICD-O T51	C77.9 8000/1
+#52	ICD-O T52	8000/1
+#53	ICD-O T53	8000/1
+#54	ICD-O T54	C41.9 8000/1
+#55	ICD-O T55	C41.9
+#56	ICD-O T56	8000/1
+#57	ICD-O T57	C77.2 8000/1
+#58	ICD-O T58	C49.4
+#59	ICD-O T59	8000/1
+#60	ICD-O T62	C77.9 8000/1
+#61	ICD-O T63	8000/1
+#62	ICD-O T64	8000/6
+#63	ICD-O T65	C41.9 8000/6
+#64	ICD-O T66	C41.9
+#65	ICD-O T67	8000/6
+#66	ICD-O T68	C40.0 8000/6;C40.2 8000/6;C41.2 8000/6;C41.3 8000/6;C41.9 8000/6;C76.1 8000/6;C76.3 8000/6
+#67	ICD-O T69	C41.9
+#68	ICD-O T70	C41.2
+#69	ICD-O T71	C76.3
+#70	ICD-O T72	C76.1
+#71	ICD-O T73	C41.3
+#72	ICD-O T74	C41.3
+#73	ICD-O T75	C40.0
+#74	ICD-O T76	C40.2
+#75	ICD-O T77	8000/1
+#76	ICD-O T79	C76.3
+#77	ICD-O T80	tocheck
+#78	ICD-O T81	C41.4
+#79	ICD-O T82	8000/1
+#80	ICD-O T84	C40.2
+#81	ICD-O T86	8000/1
+#82	ICD-O T87	C41.4 8000/1
+#83	ICD-O T88	C41.4
+#84	ICD-O T89	8000/1
+#85	ICD-O T90	8000/1
+#86	ICD-O T91	8000/1
+#87	ICD-O T92	8000/1
+#88	ICD-O T93	8000/3
+#89	ICD-O T94	C61.9 8000/3
+#90	ICD-O T95	C61.9
+#91	ICD-O T96	8000/6
+#92	ICD-O T97	C41.9 8000/6;C77.9 8000/6
+#93	ICD-O T98	C41.9
+#94	ICD-O T99	C77.9
+#95	ICD-O T100	8000/1
+#96	ICD-O T101	8000/1

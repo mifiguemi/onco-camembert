@@ -1,0 +1,46 @@
+T60	topographie 3712 3745	antérolatérale au canal de Stenon
+T1	morphologie 122 128	tumeur
+T3	topographie 135 143	parotide
+T5	morphologie 368 387	carcinome canalaire
+T6	morphologie 393 405	infiltration
+T8	topographie 409 420	nerf facial
+T9	morphologie 424 445	atteinte métastatique
+T11	topographie 450 482	ganglions lymphatiques cervicaux
+T12	morphologie 793 808	récidive locale
+T15	morphologie 930 938	invasion
+T17	topographie 939 950	lymphatique
+T18	morphologie 1367 1385	Progression locale
+T22	morphologie 1750 1772	implants métastatiques
+T23	morphologie 1863 1880	récidive tumorale
+T25	topographie 1889 1893	peau
+T26	topographie 1900 1928	tissu cellulaire sous-cutané
+T27	morphologie 1948 1962	épaississement
+T30	topographie 1985 2013	tissu cellulaire sous-cutané
+T33	morphologie 2164 2172	invasion
+T35	topographie 2194 2207	base du crâne
+T36	topographie 2216 2231	artère carotide
+T37	morphologie 2410 2419	captation
+T40	morphologie 2461 2491	Carcinome canalaire infiltrant
+T42	topographie 2498 2513	glande parotide
+T44	morphologie 2528 2537	stade IVA
+T45	morphologie 2543 2551	invasion
+T47	topographie 2552 2562	vasculaire
+T48	topographie 2566 2577	périneurale
+T50	morphologie 3242 3249	nodules
+T51	morphologie 3587 3598	progression
+T53	topographie 3599 3606	cutanée
+T54	topographie 3610 3622	sous-cutanée
+T55	morphologie 3644 3656	infiltration
+T57	topographie 3660 3668	masséter
+T58	morphologie 3695 3711	lésion nodulaire
+T61	morphologie 3753 3765	infiltration
+T63	topographie 3772 3795	musculature paraspinale
+T65	morphologie 3900 3906	tumeur
+T66	morphologie 4661 4668	lésions
+T68	topographie 4669 4677	cutanées
+T29	topographie 1973 1978	derme
+T39	topographie 2428 2447	région parotidienne
+T32	topographie 2066 2087	région préauriculaire
+T20	topographie 1399 1415	site chirurgical
+T14	topographie 817 856	tissu adjacent au pavillon de l'oreille
+T31	topographie 2037 2059	zone de parotidectomie

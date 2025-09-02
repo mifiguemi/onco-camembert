@@ -1,0 +1,25 @@
+T1	morphologie 345 350	masse
+T3	topographie 351 360	cervicale
+T4	morphologie 461 466	masse
+T6	topographie 467 483	latéro-cervicale
+T7	morphologie 757 771	masse tumorale
+T9	topographie 780 798	détroit thoracique
+T10	topographie 818 829	médiastinal
+T11	morphologie 850 855	masse
+T13	topographie 856 865	cervicale
+T14	topographie 869 885	sus-claviculaire
+T15	morphologie 1074 1079	masse
+T17	topographie 1080 1096	latéro-cervicale
+T18	morphologie 1256 1261	masse
+T20	topographie 1281 1283	C2
+T21	topographie 1287 1296	médiastin
+T22	morphologie 2089 2095	tumeur
+T24	topographie 2096 2105	cervicale
+T26	morphologie 2128 2157	mésothéliome malin épithélial
+T27	morphologie 2250 2262	Mésothéliome
+T36	morphologie 2271 2295	malin de type épithélial
+T29	topographie 2263 2270	pleural
+T30	morphologie 2301 2309	atteinte
+T32	topographie 2310 2319	cervicale
+T33	morphologie 2712 2718	tumeur
+T35	topographie 2719 2728	cervicale

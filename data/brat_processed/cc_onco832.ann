@@ -1,0 +1,84 @@
+T86	topographie 5675 5689	paratrachéales
+T85	topographie 5658 5673	pré-vasculaires
+T94	topographie 6294 6308	région hilaire
+T50	topographie 3974 3983	segment 6
+T47	topographie 3922 3931	segment 9
+T53	topographie 4124 4136	segment VIII
+T1	morphologie 531 545	adénocarcinome
+T3	differenciation 546 568	modérément différencié
+T4	topographie 572 580	pancréas
+T5	morphologie 586 598	infiltration
+T7	topographie 599 608	hépatique
+T8	topographie 612 621	splénique
+T9	morphologie 746 757	progression
+T11	topographie 775 784	hépatique
+T12	morphologie 1410 1416	nodule
+T14	topographie 1417 1427	pulmonaire
+T15	topographie 1436 1446	lobe moyen
+T16	topographie 1454 1457	LMD
+T17	morphologie 1740 1754	adénocarcinome
+T19	topographie 1755 1767	pancréatique
+T20	morphologie 1795 1801	nodule
+T22	topographie 1802 1812	pulmonaire
+T23	topographie 1821 1824	LMD
+T25	morphologie 2000 2009	néoplasme
+T26	morphologie 2033 2047	adénocarcinome
+T28	differenciation 2048 2064	bien différencié
+T29	topographie 2068 2074	poumon
+T30	topographie 2075 2077	LM
+T31	morphologie 2086 2097	adénopathie
+T33	topographie 2098 2112	sous-carcinale
+T34	topographie 3570 3592	ganglions lymphatiques
+T121	topographie 3607 3667	situés au niveau paratrachéal gauche, souscarinal et hilaire
+T36	morphologie 3593 3606	hypertrophiés
+T37	morphologie 3679 3684	masse
+T39	topographie 3710 3717	hilaire
+T41	morphologie 3814 3820	lésion
+T42	morphologie 3833 3850	récidive tumorale
+T44	topographie 3854 3867	ganglionnaire
+T45	morphologie 3893 3899	nodule
+T48	morphologie 3951 3957	nodule
+T52	morphologie 4013 4022	métastase
+T55	morphologie 4149 4159	hémangiome
+T56	morphologie 4221 4226	masse
+T58	topographie 4272 4288	arbre bronchique
+T60	morphologie 4320 4332	infiltration
+T62	morphologie 4392 4409	cellules malignes
+T64	morphologie 4453 4480	cellules tumorales malignes
+T65	morphologie 4494 4508	adénocarcinome
+T67	topographie 4509 4519	pulmonaire
+T68	morphologie 4737 4743	tumeur
+T70	topographie 4751 4773	ganglions lymphatiques
+T72	topographie 4995 5005	pulmonaire
+T73	topographie 5031 5033	LM
+T74	morphologie 5187 5193	nodule
+T76	topographie 5194 5206	sous-pleural
+T77	topographie 5256 5270	lobe inférieur
+T78	morphologie 5322 5328	nodule
+T80	topographie 5366 5369	LII
+T82	topographie 5406 5424	supraclaviculaires
+T83	morphologie 5590 5634	adénopathies avec une captation pathologique
+T88	topographie 5715 5723	hilaires
+T90	morphologie 5982 6003	infiltrat néoplasique
+T91	morphologie 6193 6204	adénopathie
+T95	morphologie 6433 6447	adénocarcinome
+T97	topographie 6448 6458	pulmonaire
+T98	morphologie 6914 6919	masse
+T100	topographie 6920 6931	périhilaire
+T101	morphologie 7155 7167	adénopathies
+T103	topographie 7168 7176	hilaires
+T105	topographie 7209 7229	chaîne paratrachéale
+T106	topographie 7240 7258	supraclaviculaires
+T107	morphologie 7301 7308	nodules
+T109	topographie 7338 7341	LII
+T110	morphologie 7434 7441	rechute
+T112	topographie 7457 7460	LMD
+T113	topographie 7468 7490	ganglions lymphatiques
+T114	topographie 7502 7513	médiastinal
+T115	topographie 7517 7534	supraclaviculaire
+T116	morphologie 7552 7566	adénocarcinome
+T118	topographie 7567 7577	pulmonaire
+T120	morphologie 8026 8045	maladie oncologique
+T104	topographie 7186 7201	sous-cardinales
+T93	topographie 6231 6242	souscarinal
+T87	topographie 5699 5711	subcarinales

@@ -1,0 +1,24 @@
+T1	morphologie 582 598	lymphadénopathie
+T3	topographie 599 615	sus-claviculaire
+T4	morphologie 661 677	lymphadénopathie
+T6	topographie 678 694	sus-claviculaire
+T7	morphologie 711 727	lymphadénopathie
+T9	topographie 728 737	inguinale
+T10	morphologie 1171 1183	adénopathies
+T12	topographie 1184 1201	sus-claviculaires
+T13	topographie 1205 1218	médiastinales
+T15	morphologie 1236 1264	processus lymphoprolifératif
+T17	morphologie 1391 1452	lymphome de Hodgkin classique de sous-type sclérose nodulaire
+T18	morphologie 1599 1611	adénopathies
+T20	topographie 1634 1644	diaphragme
+T21	morphologie 1654 1662	atteinte
+T23	topographie 1663 1670	osseuse
+T24	morphologie 2846 2853	lésions
+T26	topographie 2854 2865	occipitales
+T27	morphologie 2994 3002	atteinte
+T29	topographie 3006 3021	corps vertébral
+T30	morphologie 3066 3074	atteinte
+T32	topographie 3080 3095	espace épidural
+T33	topographie 3105 3120	moelle épinière
+T34	morphologie 3142 3150	atteinte
+T36	topographie 3151 3161	vertébrale

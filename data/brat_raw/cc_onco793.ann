@@ -1,0 +1,83 @@
+T34	topographie 3786 3797	hémiabdomen
+T1	expression_CIM 398 420	récidive de la maladie
+T2	morphologie 398 420	récidive de la maladie
+T3	expression_CIM 1013 1022	néoplasme
+T4	morphologie 1013 1022	néoplasme
+T5	morphologie 1217 1224	Implant
+T6	expression_CIM 1217 1256	Implant péritonéal sous-diaphragmatique
+T7	topographie 1225 1256	péritonéal sous-diaphragmatique
+T8	morphologie 1258 1263	Masse
+T9	expression_CIM 1258 1275	Masse dans la FID
+T10	topographie 1272 1275	FID
+T11	morphologie 1657 1664	lésions
+T12	expression_CIM 1657 1722	lésions blanchâtres en pointillés dans tout le péritoine pariétal
+T13	topographie 1704 1722	péritoine pariétal
+T14	expression_CIM 1736 1744	implants
+T15	morphologie 1736 1744	implants
+T16	morphologie 1755 1770	lésion tumorale
+T17	expression_CIM 1755 1821	lésion tumorale mesurant 5 x 5 cm, arrondie vers le lobe hépatique
+T18	topographie 1807 1821	lobe hépatique
+T19	expression_CIM 1833 1877	mésothéliome malin diffus de type épithélial
+T20	morphologie 1833 1877	mésothéliome malin diffus de type épithélial
+T21	morphologie 3403 3411	atteinte
+T22	expression_CIM 3403 3423	atteinte péritonéale
+T23	topographie 3412 3423	péritonéale
+T24	morphologie 3447 3454	implant
+T25	expression_CIM 3447 3506	implant péritonéal au niveau sous-diaphragmatique antérieur
+T26	topographie 3455 3465	péritonéal
+T28	morphologie 3514 3519	Masse
+T29	expression_CIM 3514 3531	Masse dans la FID
+T30	topographie 3528 3531	FID
+T31	morphologie 3743 3751	implants
+T32	expression_CIM 3743 3797	implants péritonéaux, le plus grand dans l'hémiabdomen
+T33	topographie 3752 3763	péritonéaux
+T35	morphologie 3881 3906	Mésothéliome malin diffus
+T36	expression_CIM 3881 3917	Mésothéliome malin diffus péritonéal
+T37	topographie 3907 3917	péritonéal
+T38	morphologie 4112 4137	Progression de la maladie
+T39	expression_CIM 4112 4176	Progression de la maladie (PE) en mars 2016 au niveau péritonéal
+T40	topographie 4166 4176	péritonéal
+T41	morphologie 4201 4206	masse
+T42	expression_CIM 4201 4213	masse en FID
+T43	topographie 4210 4213	FID
+T44	expression_CIM 4354 4379	mésothéliome malin diffus
+T45	morphologie 4354 4379	mésothéliome malin diffus
+T27	topographie 3476 3506	sous-diaphragmatique antérieur
+#1	ICD-O T2	8000/9
+#2	ICD-O T3	8000/1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/6
+#5	ICD-O T6	C48.2 8000/6
+#6	ICD-O T7	C48.2
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C76.2 8000/1
+#9	ICD-O T10	C76.2
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C48.2 8000/1
+#12	ICD-O T13	C48.2
+#13	ICD-O T14	8000/6
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/3
+#16	ICD-O T18	C22.0
+#17	ICD-O T19	9052/3
+#18	ICD-O T20	9050/3
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C48.2 8000/1
+#21	ICD-O T23	C48.2
+#22	ICD-O T24	8000/6
+#23	ICD-O T26	C48.2
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	C76.2 8000/1
+#26	ICD-O T30	C76.2
+#27	ICD-O T31	8000/6
+#28	ICD-O T33	C48.2
+#29	ICD-O T35	8720/3
+#30	ICD-O T36	C48.2 9050/3
+#31	ICD-O T37	C48.2
+#32	ICD-O T38	8000/1
+#33	ICD-O T39	C48.2 8000/1
+#34	ICD-O T40	C48.2
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	C76.2 8000/1
+#37	ICD-O T43	C76.2
+#38	ICD-O T45	8720/3

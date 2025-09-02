@@ -1,0 +1,46 @@
+T29	morphologie 2898 2935	adénocarcinomes à phénotype rhabdoïde
+T56	topographie 3778 3789	extrarénale
+T32	topographie 2959 2978	gastro-intestinales
+T1	morphologie 559 564	masse
+T3	topographie 565 573	jéjunale
+T5	morphologie 629 635	tumeur
+T7	morphologie 1136 1142	tumeur
+T9	morphologie 1364 1395	sarcome granulocytaire primaire
+T11	morphologie 1397 1405	chlorome
+T13	morphologie 1506 1523	leucémie myéloïde
+T15	morphologie 1524 1527	AML
+T17	morphologie 2206 2223	cellules malignes
+T18	morphologie 2245 2259	tumeur maligne
+T20	differenciation 2260 2274	indifférenciée
+T22	morphologie 2364 2382	cellules tumorales
+T24	morphologie 2751 2781	Tumeur maligne des tissus mous
+T25	morphologie 2831 2847	tumeur rhabdoïde
+T27	topographie 2848 2854	rénale
+T30	morphologie 2941 2958	tumeurs stromales
+T74	morphologie 2979 3000	à phénotype rhabdoïde
+T34	morphologie 3006 3036	sarcomes à phénotype rhabdoïde
+T36	morphologie 3044 3081	tumeurs rhabdoïdes malignes primaires
+T37	morphologie 3160 3165	masse
+T39	topographie 3166 3178	mésentérique
+T40	morphologie 3247 3259	infiltration
+T42	topographie 3264 3279	anses jéjunales
+T43	topographie 3330 3340	duodénales
+T44	morphologie 3424 3436	Infiltration
+T46	topographie 3437 3448	péritonéale
+T47	topographie 3507 3511	foie
+T49	morphologie 3534 3551	lésions tumorales
+T51	morphologie 3661 3689	tumeur à phénotype rhabdoïde
+T53	morphologie 3703 3724	sarcome indifférencié
+T54	morphologie 3761 3777	tumeur rhabdoïde
+T75	morphologie 3790 3798	primaire
+T58	morphologie 3916 3940	sarcomes des tissus mous
+T59	morphologie 4524 4549	progression de la maladie
+T61	topographie 4550 4561	péritonéale
+T62	topographie 4565 4572	osseuse
+T64	morphologie 5134 5159	progression de la maladie
+T65	morphologie 5186 5193	lésions
+T67	topographie 5194 5204	hépatiques
+T68	morphologie 5214 5220	lésion
+T70	topographie 5221 5233	mésentérique
+T71	morphologie 5656 5662	lésion
+T73	topographie 5671 5684	lobe pariétal

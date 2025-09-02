@@ -1,0 +1,59 @@
+T1	morphologie 249 256	maladie
+T2	expression_CIM 249 283	maladie leptoméningée cérébelleuse
+T3	topographie 257 270	leptoméningée
+T4	topographie 271 283	cérébelleuse
+T5	morphologie 345 350	masse
+T6	expression_CIM 345 360	masse ovarienne
+T7	topographie 351 360	ovarienne
+T8	morphologie 373 385	adénopathies
+T9	expression_CIM 373 415	adénopathies iliaques et rétropéritonéales
+T10	topographie 386 394	iliaques
+T11	topographie 398 415	rétropéritonéales
+T12	morphologie 699 710	adénopathie
+T13	expression_CIM 699 718	adénopathie iliaque
+T14	topographie 711 718	iliaque
+T15	morphologie 770 779	carcinome
+T16	expression_CIM 770 793	carcinome indifférencié
+T17	differenciation 780 793	indifférencié
+T18	morphologie 1270 1302	adénocarcinome papillaire séreux
+T19	expression_CIM 1270 1333	adénocarcinome papillaire séreux de haut grade (peu différencié
+T20	differenciation 1306 1316	haut grade
+T21	differenciation 1318 1333	peu différencié
+T22	morphologie 1383 1394	adénopathie
+T23	expression_CIM 1383 1402	adénopathie iliaque
+T24	topographie 1395 1402	iliaque
+T25	morphologie 1820 1826	Cancer
+T26	expression_CIM 1820 1838	Cancer de l'ovaire
+T27	topographie 1832 1838	ovaire
+T28	morphologie 1864 1872	atteinte
+T29	expression_CIM 1864 1927	atteinte résiduelle des ganglions lymphatiques rétropéritonéaux
+T30	topographie 1888 1927	ganglions lymphatiques rétropéritonéaux
+#1	ICD-O T1	8000/9
+#2	ICD-O T3	C70.1 
+#3	ICD-O T4	C71.6 
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	C56.9 8000/1
+#6	ICD-O T7	C56.9
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C77.2 8000/1;C77.4 8000/1
+#9	ICD-O T10	C41.4
+#10	ICD-O T11	C48.0
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C77.5 8000/1
+#13	ICD-O T14	C41.4
+#14	ICD-O T15	8010/3
+#15	ICD-O T16	8010/34
+#16	ICD-O T17	4
+#17	ICD-O T18	8460/3
+#18	ICD-O T19	8460/34
+#19	ICD-O T20	4
+#20	ICD-O T21	3
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C77.5 8000/1
+#23	ICD-O T24	C41.4
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	C56.9 8000/3
+#26	ICD-O T27	C56.9
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	C77.2 8000/1
+#29	ICD-O T30	C77.2

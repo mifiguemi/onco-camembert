@@ -1,0 +1,62 @@
+T60	topographie 4273 4293	écailles occipitales
+T61	topographie 4300 4318	pointe du cervelet
+T1	morphologie 98 104	tumeur
+T3	topographie 105 112	utérine
+T5	morphologie 184 205	sarcome indifférencié
+T6	morphologie 215 223	atteinte
+T8	topographie 227 242	col de l'utérus
+T9	topographie 251 257	utérus
+T10	morphologie 278 286	atteinte
+T12	topographie 287 296	ovarienne
+T13	topographie 300 312	paramétriale
+T14	morphologie 1055 1061	Polype
+T16	topographie 1062 1073	endométrial
+T17	morphologie 1284 1290	cancer
+T19	topographie 1297 1305	prostate
+T20	topographie 1310 1316	poumon
+T21	topographie 1323 1328	côlon
+T22	morphologie 1956 1963	polypes
+T24	topographie 1964 1976	endométriaux
+T25	topographie 2247 2253	utérus
+T27	morphologie 2254 2261	tumoral
+T29	morphologie 2278 2290	adénopathies
+T30	morphologie 2555 2571	lymphadénopathie
+T32	topographie 2572 2590	supra-claviculaire
+T34	morphologie 2938 2943	masse
+T35	topographie 3094 3103	endomètre
+T37	morphologie 3104 3117	hyperplasique
+T38	topographie 3123 3129	utérus
+T40	morphologie 3130 3139	myomateux
+T42	morphologie 3176 3181	myome
+T43	morphologie 3350 3377	Conglomérats adénopathiques
+T45	topographie 3378 3394	rétropéritonéaux
+T46	morphologie 3400 3409	extension
+T48	topographie 3419 3454	chaînes iliaques commune et externe
+T49	morphologie 3456 3467	Adénopathie
+T51	topographie 3468 3484	sus-claviculaire
+T52	morphologie 3639 3665	dissémination métastatique
+T54	topographie 3666 3673	osseuse
+T56	morphologie 4137 4163	adénopathies métastatiques
+T57	morphologie 4192 4199	lésions
+T91	morphologie 4209 4240	compatibles avec des métastases
+T59	topographie 4200 4208	osseuses
+T62	morphologie 4341 4352	adénopathie
+T64	topographie 4353 4369	sus-claviculaire
+T66	morphologie 4372 4396	carcinome neuroendocrine
+T67	morphologie 4631 4655	carcinome neuroendocrine
+T69	topographie 4678 4693	col de l'utérus
+T70	morphologie 4722 4746	carcinome neuroendocrine
+T72	topographie 4750 4765	col de l'utérus
+T74	morphologie 4769 4777	stade IV
+T75	morphologie 4786 4796	métastases
+T77	topographie 4797 4805	osseuses
+T78	topographie 4807 4817	hépatiques
+T79	topographie 4821 4835	ganglionnaires
+T81	morphologie 4889 4910	sarcome indifférencié
+T82	morphologie 4916 4924	atteinte
+T84	topographie 4925 4934	cervicale
+T85	topographie 4938 4945	utérine
+T86	topographie 4947 4956	ovarienne
+T87	topographie 4971 4983	paramétriale
+T88	morphologie 5001 5012	adénopathie
+T90	topographie 5013 5029	sus-claviculaire

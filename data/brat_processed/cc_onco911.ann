@@ -1,0 +1,43 @@
+T34	topographie 5632 5644	précarinales
+T35	topographie 5648 5662	sous-carinales
+T2	morphologie 58 76	cholangiocarcinome
+T3	morphologie 93 99	cancer
+T5	topographie 103 109	larynx
+T6	morphologie 457 471	adénocarcinome
+T64	morphologie 482 496	de type diffus
+T8	topographie 472 481	gastrique
+T9	morphologie 864 878	adénocarcinome
+T65	morphologie 889 933	diffus avec des cellules en anneau de signet
+T11	topographie 879 888	gastrique
+T13	morphologie 1128 1143	récidive locale
+T14	morphologie 1609 1614	masse
+T16	topographie 1615 1625	annexielle
+T17	morphologie 1760 1768	récidive
+T19	topographie 1769 1778	ovarienne
+T20	morphologie 1795 1809	adénocarcinome
+T22	topographie 1810 1819	gastrique
+T24	morphologie 2948 2962	leucémie aiguë
+T26	morphologie 3212 3220	récidive
+T28	morphologie 3735 3740	masse
+T30	morphologie 3805 3816	adénopathie
+T31	morphologie 5569 5581	adénopathies
+T33	topographie 5617 5630	prétrachéales
+T37	morphologie 5934 5944	métastases
+T38	morphologie 6014 6026	infiltration
+T40	topographie 6041 6055	moelle osseuse
+T41	morphologie 6063 6077	adénocarcinome
+T66	morphologie 6088 6124	avec des cellules en anneau de Signe
+T43	topographie 6078 6087	gastrique
+T44	morphologie 6282 6288	cancer
+T46	topographie 6289 6298	gastrique
+T47	morphologie 6613 6624	progression
+T49	topographie 6629 6651	ganglions lymphatiques
+T50	topographie 6659 6661	os
+T51	morphologie 6742 6754	infiltration
+T53	topographie 6761 6775	moelle osseuse
+T54	morphologie 6867 6879	infiltration
+T56	topographie 6902 6916	moelle osseuse
+T58	topographie 6987 6996	gastrique
+T59	morphologie 7183 7195	infiltration
+T61	topographie 7210 7224	moelle osseuse
+T63	topographie 7288 7297	gastrique

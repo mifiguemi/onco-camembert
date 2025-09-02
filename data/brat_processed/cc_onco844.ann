@@ -1,0 +1,49 @@
+T32	topographie 2685 2695	axillaires
+T23	topographie 1755 1785	région rétro-aréolaire du sein
+T1	morphologie 208 217	carcinome
+T3	topographie 218 226	mammaire
+T5	morphologie 303 311	grosseur
+T6	morphologie 996 1005	carcinome
+T8	topographie 1009 1013	sein
+T10	morphologie 1058 1073	hépatocarcinome
+T12	morphologie 1136 1144	lymphome
+T13	morphologie 1201 1210	carcinome
+T15	topographie 1211 1224	gynécologique
+T16	morphologie 1277 1286	carcinome
+T18	topographie 1287 1295	mammaire
+T20	morphologie 1497 1508	adénopathie
+T21	morphologie 1679 1685	nodule
+T24	morphologie 2199 2208	carcinome
+T26	topographie 2212 2216	sein
+T27	morphologie 2473 2479	lésion
+T29	topographie 2480 2495	rétro-aréolaire
+T30	morphologie 2662 2684	ganglions lymphatiques
+T33	morphologie 2849 2860	adénopathie
+T35	topographie 2861 2870	axillaire
+T37	morphologie 2936 2960	métastase carcinomateuse
+T38	morphologie 2989 2995	nodule
+T40	topographie 2996 3004	mammaire
+T42	morphologie 3047 3077	carcinome canalaire infiltrant
+T44	morphologie 3334 3340	nodule
+T45	morphologie 3431 3450	lésion hypoéchogène
+T76	morphologie 3524 3555	hautement suspecte de malignité
+T47	morphologie 3603 3633	carcinome canalaire infiltrant
+T49	topographie 3642 3647	derme
+T50	morphologie 3679 3691	infiltration
+T52	topographie 3697 3705	épiderme
+T53	morphologie 3720 3750	Carcinome canalaire infiltrant
+T55	topographie 3751 3765	rétroaréolaire
+T56	topographie 3776 3780	sein
+T57	morphologie 4884 4893	carcinome
+T59	topographie 4894 4902	mammaire
+T60	morphologie 5533 5539	cancer
+T62	topographie 5543 5547	sein
+T63	morphologie 5688 5697	carcinome
+T65	topographie 5698 5711	gynécologique
+T66	topographie 5726 5733	ovarien
+T67	morphologie 5916 5922	nodule
+T69	topographie 5926 5930	sein
+T70	morphologie 5974 5980	nodule
+T72	topographie 5981 5995	rétroaréolaire
+T73	morphologie 6208 6238	carcinome canalaire infiltrant
+T75	topographie 6242 6246	sein

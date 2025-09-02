@@ -1,0 +1,59 @@
+T93	topographie 9863 9887	espace supraclaviculaire
+T2	morphologie 1540 1546	lésion
+T3	morphologie 1745 1751	lésion
+T5	topographie 1752 1767	intramédullaire
+T6	topographie 1803 1808	fémur
+T7	morphologie 1886 1891	masse
+T9	topographie 1895 1904	tissu mou
+T11	morphologie 1950 1956	lésion
+T13	morphologie 2029 2052	ostéosarcome sclérosant
+T15	morphologie 2083 2098	néoplasme malin
+T17	morphologie 2245 2251	tumeur
+T19	morphologie 2398 2404	tumeur
+T21	morphologie 3482 3497	tumeur primaire
+T22	morphologie 3668 3674	cancer
+T24	topographie 3680 3686	ovaire
+T25	morphologie 3708 3714	cancer
+T27	topographie 3718 3722	sein
+T28	morphologie 4281 4286	masse
+T30	topographie 4319 4333	lobe supérieur
+T32	morphologie 4974 4980	masses
+T33	morphologie 5440 5445	masse
+T94	morphologie 5457 5473	hypermétabolique
+T35	topographie 5446 5456	pulmonaire
+T37	morphologie 5662 5668	lésion
+T38	morphologie 5766 5775	extension
+T40	topographie 5776 5790	rétrotrachéale
+T42	morphologie 5884 5890	lésion
+T43	morphologie 5894 5916	foyer hypermétabolique
+T45	topographie 5925 5946	parenchyme pulmonaire
+T46	topographie 5953 5959	plèvre
+T48	morphologie 5971 5982	adénopathie
+T49	morphologie 6164 6170	lésion
+T95	morphologie 6178 6224	évocatrice d'une récidive locale de la maladie
+T52	morphologie 6647 6652	masse
+T54	morphologie 6670 6683	infiltrations
+T55	morphologie 6841 6853	infiltration
+T57	topographie 6854 6867	endotrachéale
+T58	morphologie 6873 6885	infiltration
+T60	topographie 6891 6907	arbre bronchique
+T61	morphologie 6922 6929	Rechute
+T63	morphologie 6936 6953	tumeur à distance
+T64	morphologie 6956 6981	Ostéosarcome métastatique
+T66	topographie 6992 7002	pulmonaire
+T68	morphologie 7988 7994	lésion
+T69	morphologie 8477 8488	adénopathie
+T71	topographie 8489 8496	hilaire
+T72	morphologie 8528 8534	lésion
+T74	topographie 8560 8570	lobe moyen
+T76	morphologie 8691 8697	lésion
+T78	morphologie 8761 8785	néoplasme mésenchymateux
+T79	morphologie 8815 8824	métastase
+T81	morphologie 8827 8854	ostéosarcome ostéoblastique
+T82	morphologie 9637 9644	lésions
+T84	topographie 9653 9659	poumon
+T85	morphologie 9680 9690	métastases
+T88	morphologie 9771 9779	invasion
+T90	topographie 9783 9792	médiastin
+T91	morphologie 9846 9855	extension
+T87	topographie 9740 9758	zone paratrachéale

@@ -1,0 +1,22 @@
+T1	morphologie 676 681	masse
+T3	topographie 682 692	annexielle
+T4	morphologie 836 842	tumeur
+T6	topographie 851 857	rectum
+T7	morphologie 951 965	adénocarcinome
+T9	topographie 974 984	intestinal
+T11	morphologie 1223 1240	cellules malignes
+T13	morphologie 1447 1464	cellules malignes
+T14	morphologie 1786 1794	implants
+T16	topographie 1795 1806	péritonéaux
+T17	topographie 1812 1820	épiploon
+T18	morphologie 1857 1871	adénocarcinome
+T20	topographie 1880 1886	rectum
+T21	morphologie 1892 1902	métastases
+T23	topographie 1903 1913	ovariennes
+T24	morphologie 2197 2208	progression
+T26	topographie 2209 2219	pulmonaire
+T28	morphologie 2268 2275	nodules
+T29	morphologie 2365 2376	progression
+T31	topographie 2377 2387	pulmonaire
+T32	morphologie 3344 3356	progressions
+T34	topographie 3367 3377	pulmonaire

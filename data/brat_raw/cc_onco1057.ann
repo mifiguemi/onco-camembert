@@ -1,0 +1,147 @@
+T1	expression_CIM 1429 1436	tumeurs
+T2	morphologie 1429 1436	tumeurs
+T3	morphologie 1466 1477	adénopathie
+T4	expression_CIM 1466 1487	adénopathie axillaire
+T5	topographie 1478 1487	axillaire
+T6	morphologie 1557 1563	masses
+T7	expression_CIM 1557 1675	masses infiltrantes formant des lésions dans la paroi thoracique gauche, la plèvre gauche, le poumon gauche et le sein
+T8	morphologie 1589 1596	lésions
+T9	topographie 1605 1621	paroi thoracique
+T10	topographie 1633 1639	plèvre
+T11	topographie 1651 1657	poumon
+T12	topographie 1671 1675	sein
+T13	morphologie 1808 1835	conglomérats adénopathiques
+T14	expression_CIM 1808 1889	conglomérats adénopathiques cervicaux inférieurs, thoraciques et rétropéritonéaux
+T15	topographie 1836 1845	cervicaux
+T16	topographie 1858 1869	thoraciques
+T17	topographie 1873 1889	rétropéritonéaux
+T18	expression_CIM 1918 1938	infiltration diffuse
+T19	morphologie 1918 1938	infiltration diffuse
+T20	morphologie 1947 1953;1969 1994	tumeur formée de cellules rondes
+T21	expression_CIM 1947 1994	tumeur indifférenciée formée de cellules rondes
+T22	differenciation 1954 1968	indifférenciée
+T23	morphologie 2377 2391	tumeur maligne
+T24	expression_CIM 2377 2399	tumeur maligne du sein
+T25	topographie 2395 2399	sein
+T26	morphologie 2412 2421	extension
+T27	expression_CIM 2412 2471	extension ganglionnaire cervicale, thoracique et abdominale
+T29	morphologie 2475 2484	extension
+T30	expression_CIM 2475 2496	extension à la plèvre
+T31	topographie 2490 2496	plèvre
+T32	expression_CIM 2534 2546	infiltration
+T33	morphologie 2534 2546	infiltration
+T34	morphologie 2630 2664	Rhabdomyosarcome alvéolaire solide
+T35	expression_CIM 2630 2679	Rhabdomyosarcome alvéolaire solide avancé du sein
+T36	topographie 2675 2679	sein
+T37	morphologie 2707 2717	métastases
+T38	expression_CIM 2707 2777	métastases ganglionnaires cervicales, thoraciques et rétropéritonéales
+T39	topographie 2718 2732;2733 2743;2745 2756;2760 2777	ganglionnaires cervicales thoraciques rétropéritonéales
+T40	morphologie 2779 2791	infiltration
+T41	expression_CIM 2779 2812	infiltration de la moelle osseuse
+T42	topographie 2798 2812	moelle osseuse
+T43	expression_CIM 2916 2956	sarcome desmoplastique à cellules rondes
+T44	morphologie 2916 2956	sarcome desmoplastique à cellules rondes
+T45	expression_CIM 3512 3520	stade IV
+T46	morphologie 3512 3520	stade IV
+T47	morphologie 3536 3544	atteinte
+T48	expression_CIM 3536 3571	atteinte des ganglions lymphatiques
+T49	topographie 3549 3571	ganglions lymphatiques
+T50	morphologie 3591 3603	infiltration
+T51	expression_CIM 3591 3624	infiltration de la moelle osseuse
+T53	expression_CIM 3837 3869	tumeur à petites cellules rondes
+T54	morphologie 3837 3869	tumeur à petites cellules rondes
+T55	expression_CIM 3879 3913	rhabdomyosarcome alvéolaire solide
+T56	morphologie 3879 3913	rhabdomyosarcome alvéolaire solide
+T57	expression_CIM 4070 4097	rhabdomyosarcome alvéolaire
+T58	morphologie 4070 4097	rhabdomyosarcome alvéolaire
+T59	expression_CIM 4132 4140	stade IV
+T60	morphologie 4132 4140	stade IV
+T61	morphologie 4168 4180	infiltration
+T62	expression_CIM 4168 4201	infiltration de la moelle osseuse
+T63	topographie 4187 4201	moelle osseuse
+T64	expression_CIM 4468 4484	rhabdomyosarcome
+T65	morphologie 4468 4484	rhabdomyosarcome
+T66	expression_CIM 4883 4891	récidive
+T67	morphologie 4883 4891	récidive
+T68	expression_CIM 4940 4959	induration mammaire
+T70	topographie 4951 4959	mammaire
+T71	expression_CIM 5866 5883	rhabdomyosarcomes
+T72	morphologie 5866 5883	rhabdomyosarcomes
+T73	expression_CIM 6336 6342	foyers
+T74	morphologie 6336 6342	foyers
+T75	topographie 6398 6412	moelle osseuse
+T76	expression_CIM 6398 6454	moelle osseuse a montré l'absence d'infiltration maligne
+T77	morphologie 6434 6454	infiltration maligne
+T28	topographie 2422 2471	ganglionnaire cervicale, thoracique et abdominale
+T52	topographie 3607 3624	la moelle osseuse
+T69	morphologie 4941 4950	nduration
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C77.3 8000/1
+#5	ICD-O T5	C76.1
+#6	ICD-O T6	8000/1
+#7	ICD-O T8	8000/1
+#8	ICD-O T9	C76.1
+#9	ICD-O T10	C38.4
+#10	ICD-O T11	C34.9
+#11	ICD-O T12	C50.9
+#12	ICD-O T13	8000/1
+#13	ICD-O T14	C77.0 8000/1;C77.1 8000/1;C77.2 8000/1
+#14	ICD-O T15	C76.0
+#15	ICD-O T16	C76.1
+#16	ICD-O T17	C48.0
+#17	ICD-O T19	tocheck
+#18	ICD-O T20	8041/3
+#19	ICD-O T22	4
+#20	ICD-O T23	8000/3
+#21	ICD-O T24	C50.9 8000/1
+#22	ICD-O T25	C50.9
+#23	ICD-O T26	8000/6
+#24	ICD-O T27	C77.0 8000/6;C77.1 8000/6;C77.2 8000/6
+#25	ICD-O T29	8000/6
+#26	ICD-O T30	C38.4 8000/6
+#27	ICD-O T31	C38.4
+#28	ICD-O T32	8000/1
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	8920/3
+#31	ICD-O T35	C50.9 8920/3
+#32	ICD-O T36	C50.9
+#33	ICD-O T37	8000/6
+#34	ICD-O T38	C77.0 8000/6;C77.1 8000/6;C77.2 8000/6
+#35	ICD-O T39	C77.0 
+#36	ICD-O T40	8000/1
+#37	ICD-O T41	C42.1 8000/1
+#38	ICD-O T42	C42.1
+#39	ICD-O T43	8806/3
+#40	ICD-O T44	8806/3
+#41	ICD-O T45	8000/6
+#42	ICD-O T46	8000/6
+#43	ICD-O T47	8000/1
+#44	ICD-O T48	C77.9 8000/1
+#45	ICD-O T49	C77.9
+#46	ICD-O T50	8000/1
+#47	ICD-O T51	C42.1 8000/1
+#48	ICD-O T53	8806/3
+#49	ICD-O T54	8806/3
+#50	ICD-O T55	8920/3
+#51	ICD-O T56	8920/3
+#52	ICD-O T57	8920/3
+#53	ICD-O T58	8920/3
+#54	ICD-O T59	8000/6
+#55	ICD-O T60	8000/6
+#56	ICD-O T61	8000/1
+#57	ICD-O T62	C42.1 8000/1
+#58	ICD-O T63	C42.1
+#59	ICD-O T64	8900/3
+#60	ICD-O T65	8900/3
+#61	ICD-O T66	8000/6
+#62	ICD-O T67	8000/6
+#63	ICD-O T70	C50.9
+#64	ICD-O T71	8900/3
+#65	ICD-O T72	8900/3
+#66	ICD-O T73	8000/1
+#67	ICD-O T74	8000/1
+#68	ICD-O T75	C42.1
+#69	ICD-O T77	8000/6
+#70	ICD-O T69	tocheck

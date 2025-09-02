@@ -1,0 +1,37 @@
+T1	morphologie 139 149	métastases
+T3	topographie 150 160	hépatiques
+T4	morphologie 863 868	masse
+T6	topographie 869 880	parahilaire
+T7	morphologie 904 910	images
+T55	morphologie 933 956	évoquant des métastases
+T9	topographie 911 921	hépatiques
+T10	morphologie 992 999	lésions
+T12	topographie 1000 1010	hépatiques
+T13	morphologie 1109 1130	tumeur neuroendocrine
+T15	differenciation 1131 1148	bien différenciée
+T17	morphologie 1429 1450	tumeur neuroendocrine
+T19	morphologie 1452 1471	carcinoïde atypique
+T20	morphologie 1638 1645	lésions
+T22	topographie 1646 1656	hépatiques
+T23	morphologie 1664 1670	tumeur
+T25	topographie 1671 1681	pulmonaire
+T27	morphologie 1689 1701	adénopathies
+T28	morphologie 1731 1748	tumeur carcinoïde
+T56	morphologie 1760 1768	atypique
+T30	topographie 1749 1759	pulmonaire
+T31	differenciation 1769 1786	bien différenciée
+T32	morphologie 1796 1806	métastases
+T34	topographie 1807 1817	hépatiques
+T35	morphologie 2468 2476	atteinte
+T38	morphologie 2659 2670	progression
+T40	topographie 2671 2680	hépatique
+T42	morphologie 3151 3161	métastases
+T43	morphologie 3165 3186	tumeur neuroendocrine
+T45	differenciation 3187 3204	bien différenciée
+T46	morphologie 3337 3344	lésions
+T48	topographie 3345 3355	hépatiques
+T49	morphologie 3376 3388	adénopathies
+T51	topographie 3389 3402	médiastinales
+T52	morphologie 3655 3666	progression
+T54	topographie 3667 3676	hépatique
+T37	topographie 2477 2514	vasculaire des artères sus-hépatiques

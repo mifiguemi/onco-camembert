@@ -1,0 +1,50 @@
+T9	topographie 1129 1148	espace parapharyngé
+T1	morphologie 182 187	masse
+T4	morphologie 508 513	masse
+T6	topographie 570 578	parotide
+T7	morphologie 1094 1099	masse
+T10	morphologie 1216 1224	atteinte
+T12	topographie 1237 1246	temporale
+T13	morphologie 1344 1356	adénopathies
+T15	topographie 1357 1375	sous-mandibulaires
+T16	topographie 1379 1397	jugulodigastriques
+T17	morphologie 1476 1481	masse
+T19	topographie 1482 1494	parotidienne
+T21	morphologie 1546 1596	carcinome adénoïde kystique de type cylindromateux
+T22	morphologie 1629 1656	Carcinome adénoïde kystique
+T24	differenciation 1660 1670	haut grade
+T25	topographie 1677 1685	parotide
+T27	morphologie 1729 1741	adénopathies
+T28	morphologie 1764 1773	extension
+T30	topographie 1774 1781	osseuse
+T31	topographie 1785 1798	lobe temporal
+T32	morphologie 2181 2201	carcinome papillaire
+T34	topographie 2218 2226	thyroïde
+T36	morphologie 2420 2435	restes tumoraux
+T38	morphologie 2452 2473	adénopathies malignes
+T40	morphologie 2626 2632	tumeur
+T41	morphologie 2751 2761	métastases
+T43	topographie 2762 2773	pulmonaires
+T44	morphologie 2803 2811	primitif
+T46	topographie 2812 2822	parotidien
+T48	morphologie 2847 2867	maladie métastatique
+T49	morphologie 3254 3261	lésions
+T51	topographie 3262 3273	pulmonaires
+T53	morphologie 3283 3298	restes tumoraux
+T54	morphologie 3419 3435	lymphadénopathie
+T56	topographie 3436 3451	submandibulaire
+T57	topographie 3455 3472	jugulodigastrique
+T58	morphologie 3546 3557	progression
+T60	topographie 3558 3568	pulmonaire
+T62	morphologie 4017 4023	lésion
+T63	morphologie 4302 4313	progression
+T65	topographie 4314 4324	pulmonaire
+T66	morphologie 4620 4632	adénopathies
+T68	topographie 4633 4651	supraclaviculaires
+T69	morphologie 4794 4803	progressé
+T71	topographie 4813 4820	poumons
+T72	morphologie 5022 5029	nodules
+T74	topographie 5030 5041	pulmonaires
+T75	morphologie 5301 5312	progression
+T77	topographie 5313 5323	pulmonaire
+T3	topographie 231 240	mandibule

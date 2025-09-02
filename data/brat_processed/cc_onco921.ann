@@ -1,0 +1,24 @@
+T15	topographie 1382 1415	muqueuse de la bronche principale
+T3	topographie 657 675	pulmonaire hilaire
+T1	morphologie 651 656	masse
+T4	morphologie 892 897	masse
+T6	topographie 906 931	lobe pulmonaire supérieur
+T7	morphologie 1119 1126	nodules
+T9	topographie 1127 1138	pulmonaires
+T10	morphologie 1223 1244	atteinte métastatique
+T12	topographie 1253 1268	squelette axial
+T13	morphologie 1363 1375	infiltration
+T16	morphologie 1513 1518	masse
+T18	topographie 1519 1526	hilaire
+T19	morphologie 1688 1702	adénocarcinome
+T21	topographie 1731 1741	pulmonaire
+T22	morphologie 1792 1806	adénocarcinome
+T24	topographie 1807 1817	pulmonaire
+T25	morphologie 2010 2024	Adénocarcinome
+T27	topographie 2025 2035	pulmonaire
+T29	morphologie 2048 2057	stade IVb
+T30	morphologie 2576 2581	masse
+T32	topographie 2582 2589	hilaire
+T33	morphologie 3172 3180	atteinte
+T35	topographie 3181 3191	pulmonaire
+T36	topographie 3195 3202	osseuse

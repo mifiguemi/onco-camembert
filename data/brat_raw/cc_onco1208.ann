@@ -1,0 +1,64 @@
+T1	morphologie 59 73	adénocarcinome
+T2	expression_CIM 59 84	adénocarcinome pulmonaire
+T3	topographie 74 84	pulmonaire
+T4	expression_CIM 986 993	lésions
+T5	morphologie 986 993	lésions
+T6	morphologie 1002 1007	masse
+T7	expression_CIM 1002 1017	masse cervicale
+T8	topographie 1008 1017	cervicale
+T9	expression_CIM 1148 1154	masses
+T10	morphologie 1148 1154	masses
+T11	expression_CIM 1166 1172	lésion
+T12	morphologie 1166 1172	lésion
+T13	morphologie 1279 1284	masse
+T14	expression_CIM 1279 1307	masse pulmonaire dans le LSD
+T15	topographie 1285 1295	pulmonaire
+T16	topographie 1304 1307	LSD
+T17	expression_CIM 1631 1636	masse
+T18	morphologie 1631 1636	masse
+T19	morphologie 1751 1759	atteinte
+T20	expression_CIM 1751 1772	atteinte endocardique
+T21	topographie 1760 1772	endocardique
+T22	morphologie 2878 2892	adénocarcinome
+T23	expression_CIM 2878 2903	adénocarcinome pulmonaire
+T24	topographie 2893 2903	pulmonaire
+T25	morphologie 2919 2931	infiltration
+T26	expression_CIM 2919 2944	infiltration de la plèvre
+T27	topographie 2938 2944	plèvre
+T28	morphologie 2996 3004	atteinte
+T29	expression_CIM 2996 3031	atteinte des ganglions lymphatiques
+T30	topographie 3009 3031	ganglions lymphatiques
+T31	expression_CIM 3147 3153	lésion
+T32	morphologie 3147 3153	lésion
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C34.9 8140/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C76.0 8000/1
+#8	ICD-O T8	C76.0
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	C34.1 8000/1;C34.9 8000/1
+#15	ICD-O T15	C34.9
+#16	ICD-O T16	C34.1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C38.0 8000/1
+#21	ICD-O T21	C38.0
+#22	ICD-O T22	8140/3
+#23	ICD-O T23	C34.9 8140/3
+#24	ICD-O T24	C34.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C38.4 8000/1
+#27	ICD-O T27	C38.4
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	C77.9 8000/1
+#30	ICD-O T30	C77.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	8000/1

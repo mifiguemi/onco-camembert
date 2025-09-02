@@ -1,0 +1,54 @@
+T1	morphologie 249 258	néoplasie
+T3	topographie 262 267	côlon
+T4	morphologie 324 333	néoplasie
+T6	topographie 337 343	poumon
+T7	morphologie 468 479	adénopathie
+T9	topographie 480 496	sus-claviculaire
+T10	morphologie 513 518	masse
+T12	topographie 519 529	pulmonaire
+T13	topographie 538 552	lobe inférieur
+T14	topographie 561 564	LII
+T15	morphologie 738 749	Adénopathie
+T17	topographie 750 766	sus-claviculaire
+T19	morphologie 995 1000	masse
+T20	morphologie 1073 1085	adénopathies
+T22	topographie 1086 1096	inguinales
+T23	morphologie 1141 1152	adénopathie
+T25	topographie 1153 1169	sus-claviculaire
+T27	morphologie 1196 1223	cellules tumorales malignes
+T28	morphologie 1252 1263	adénopathie
+T30	topographie 1264 1280	sus-claviculaire
+T32	morphologie 1290 1299	métastase
+T33	morphologie 1305 1333	carcinome à grandes cellules
+T35	topographie 1358 1368	pulmonaire
+T36	morphologie 1478 1483	masse
+T38	topographie 1511 1514	LII
+T39	morphologie 1548 1555	nodules
+T41	topographie 1592 1603	pulmonaires
+T42	morphologie 1613 1638	conglomérat adénopathique
+T44	topographie 1639 1653	pré-vasculaire
+T45	morphologie 1727 1739	Adénopathies
+T47	topographie 1740 1750	axillaires
+T48	morphologie 1815 1821	nodule
+T50	topographie 1866 1869	LII
+T51	morphologie 1890 1902	adénopathies
+T79	morphologie 1917 1934	hypermétaboliques
+T53	topographie 1903 1916	médiastinales
+T54	topographie 1950 1963	paratrachéale
+T56	morphologie 2001 2013	micronodules
+T57	morphologie 2073 2082	Carcinome
+T80	morphologie 2094 2112	à grandes cellules
+T59	topographie 2083 2093	pulmonaire
+T60	morphologie 2680 2692	adénopathies
+T62	topographie 2693 2706	médiastinales
+T63	morphologie 2739 2744	masse
+T65	topographie 2753 2756	LII
+T66	morphologie 2805 2817	adénopathies
+T68	topographie 2818 2828	axillaires
+T69	morphologie 3102 3108	nodule
+T71	topographie 3109 3112	LII
+T73	morphologie 3378 3384	nodule
+T75	morphologie 3480 3489	néoplasme
+T76	morphologie 3606 3612	cancer
+T81	morphologie 3623 3645	non à petites cellules
+T78	topographie 3616 3622	poumon

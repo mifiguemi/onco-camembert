@@ -1,0 +1,32 @@
+T1	morphologie 252 260	mélanome
+T3	topographie 261 271	choroïdien
+T4	topographie 279 282	œil
+T6	morphologie 465 480	récidive locale
+T7	morphologie 569 577	mélanome
+T9	topographie 578 588	choroïdien
+T10	morphologie 691 694	LOE
+T14	morphologie 762 782	maladie métastatique
+T15	morphologie 847 853	lésion
+T19	morphologie 961 970	métastase
+T20	morphologie 983 990	lésions
+T22	topographie 999 1013	lobe hépatique
+T24	morphologie 1102 1108	lésion
+T25	morphologie 1169 1177	atteinte
+T27	topographie 1178 1187	viscérale
+T28	morphologie 1242 1248	lésion
+T32	morphologie 1305 1317	infiltration
+T34	morphologie 1329 1337	mélanome
+T35	morphologie 1465 1472	lésions
+T37	topographie 1473 1483	hépatiques
+T38	morphologie 1742 1769	stabilisation de la maladie
+T40	topographie 1770 1779	hépatique
+T42	morphologie 2752 2770	maladie secondaire
+T43	topographie 2797 2811	temporo-basale
+T45	morphologie 2839 2856	lésion secondaire
+T46	morphologie 2859 2867	Mélanome
+T48	topographie 2868 2878	choroïdien
+T49	morphologie 3775 3782	lésions
+T51	topographie 3783 3793	hépatiques
+T30	topographie 1252 1263	segment VII
+T17	topographie 864 880	segment VIII-VII
+T12	topographie 711 727	segment VII-VIII

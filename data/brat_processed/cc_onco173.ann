@@ -1,0 +1,34 @@
+T35	topographie 4078 4101	extra-axiale occipitale
+T1	morphologie 314 344	carcinome canalaire infiltrant
+T3	morphologie 346 349	CDI
+T4	topographie 354 358	sein
+T5	morphologie 384 393	métastase
+T7	topographie 394 401	osseuse
+T8	topographie 405 414	hépatique
+T9	morphologie 1131 1142	progression
+T11	topographie 1143 1150	osseuse
+T12	topographie 1158 1163	ilion
+T13	morphologie 1650 1661	progression
+T15	topographie 1662 1669	osseuse
+T16	morphologie 1692 1708	lésions lytiques
+T18	topographie 1725 1740	colonne dorsale
+T20	morphologie 2548 2560	adénopathies
+T22	morphologie 2681 2686	masse
+T24	morphologie 2690 2696	nodule
+T26	morphologie 2778 2783	masse
+T27	morphologie 3597 3605	cellules
+T30	morphologie 4017 4026	métastase
+T32	topographie 4027 4036	cérébrale
+T33	morphologie 4071 4077	lésion
+T36	morphologie 4358 4367	métastase
+T38	topographie 4368 4374	durale
+T39	morphologie 4380 4389	carcinome
+T41	topographie 4390 4398	mammaire
+T43	morphologie 4533 4543	méningiome
+T44	morphologie 4941 4947	lésion
+T46	topographie 4948 4954	durale
+T47	morphologie 5270 5279	métastase
+T49	topographie 5280 5286	durale
+T50	morphologie 5292 5301	carcinome
+T52	topographie 5302 5310	mammaire
+T29	topographie 3606 3614	malignes

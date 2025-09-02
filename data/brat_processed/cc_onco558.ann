@@ -1,0 +1,27 @@
+T1	morphologie 703 710	lésions
+T3	topographie 711 719	osseuses
+T4	morphologie 758 764	nodule
+T6	topographie 773 777	sein
+T7	morphologie 933 940	nodules
+T9	topographie 950 961	pulmonaires
+T11	morphologie 976 986	métastases
+T13	morphologie 1057 1083	lymphangite carcinomateuse
+T14	morphologie 1181 1188	lésions
+T16	topographie 1234 1238	sein
+T17	topographie 1260 1264	sein
+T19	morphologie 1369 1376	lésions
+T20	morphologie 1406 1436	carcinome canalaire infiltrant
+T22	differenciation 1440 1460	grade histologique 2
+T24	morphologie 1564 1594	carcinome canalaire infiltrant
+T25	morphologie 1643 1650	maladie
+T27	topographie 1651 1658	osseuse
+T28	topographie 1662 1672	pulmonaire
+T29	morphologie 2961 2969	implants
+T31	topographie 2970 2978	pleuraux
+T32	morphologie 3958 3970	infiltration
+T34	topographie 3971 3981	bronchique
+T36	morphologie 3989 4003	adénocarcinome
+T38	morphologie 4124 4157	cellules évocatrices de malignité
+T39	morphologie 4233 4243	métastases
+T41	topographie 4244 4259	endobronchiques
+T42	topographie 4270 4278	mammaire

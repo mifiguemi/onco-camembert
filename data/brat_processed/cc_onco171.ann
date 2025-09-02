@@ -1,0 +1,51 @@
+T73	morphologie 4802 4821	formation polypoïde
+T1	morphologie 295 303	mélanome
+T4	topographie 317 323	cuisse
+T6	morphologie 433 441	récidive
+T7	morphologie 878 885	lésions
+T9	topographie 891 905	intestin grêle
+T11	morphologie 995 1004	métastase
+T13	morphologie 1008 1016	mélanome
+T15	morphologie 1245 1257	adénopathies
+T17	morphologie 1457 1462	masse
+T19	morphologie 1552 1560	récidive
+T21	morphologie 1654 1709	tumeur mélanocytaire atypique, principalement fusiforme
+T23	morphologie 1768 1774	lésion
+T24	morphologie 1814 1826	infiltration
+T26	topographie 1840 1847	radiale
+T27	morphologie 2527 2535	Récidive
+T29	topographie 2536 2547	péritonéale
+T30	morphologie 2553 2561	mélanome
+T32	topographie 2568 2574	cuisse
+T34	morphologie 2826 2843	implants tumoraux
+T36	morphologie 2938 2948	métastases
+T37	morphologie 2952 2960	mélanome
+T39	topographie 2974 3010	ganglions lymphatiques mésentériques
+T41	morphologie 3016 3026	métastases
+T42	morphologie 3199 3207	récidive
+T44	topographie 3208 3219	intestinale
+T45	morphologie 3229 3235	nodule
+T47	topographie 3236 3248	mésentérique
+T49	morphologie 3266 3284	prise pathologique
+T51	morphologie 3305 3326	atteinte métastatique
+T53	morphologie 3587 3593	lésion
+T54	morphologie 3635 3653	bloc adénopathique
+T56	topographie 3685 3699	angle de Treiz
+T57	morphologie 4036 4043	implant
+T59	topographie 4044 4054	péritonéal
+T60	morphologie 4166 4176	métastases
+T62	topographie 4177 4189	péritonéales
+T64	morphologie 4212 4228	lymphadénopathie
+T66	morphologie 4445 4451	lésion
+T68	morphologie 4500 4506	tumeur
+T70	morphologie 4572 4581	métastase
+T72	morphologie 4585 4593	mélanome
+T75	topographie 4845 4860	muqueuse nasale
+T77	morphologie 4909 4918	métastase
+T79	morphologie 4922 4930	mélanome
+T80	morphologie 4997 5005	récidive
+T82	topographie 5014 5020	narine
+T83	morphologie 5231 5237	tumeur
+T85	topographie 5238 5248	pulmonaire
+T86	morphologie 5451 5458	nodules
+T88	topographie 5459 5470	pulmonaires

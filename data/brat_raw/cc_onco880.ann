@@ -1,0 +1,156 @@
+T1	morphologie 432 438	cancer
+T2	expression_CIM 432 446	cancer du sein
+T3	topographie 442 446	sein
+T4	morphologie 502 508	cancer
+T5	expression_CIM 502 517	cancer du colon
+T6	topographie 512 517	colon
+T7	morphologie 567 573	cancer
+T8	expression_CIM 567 584	cancer du cerveau
+T9	topographie 577 584	cerveau
+T10	morphologie 647 653	cancer
+T11	expression_CIM 647 666	cancer de l'estomac
+T12	topographie 659 666	estomac
+T13	morphologie 707 713	cancer
+T14	expression_CIM 707 722	cancer du côlon
+T15	topographie 717 722	côlon
+T16	morphologie 755 761	cancer
+T17	expression_CIM 755 771	cancer du poumon
+T18	topographie 765 771	poumon
+T19	expression_CIM 1303 1309	tumeur
+T20	morphologie 1303 1309	tumeur
+T21	morphologie 1436 1444;1459 1469	atteinte à distance
+T22	expression_CIM 1436 1469	atteinte ganglionnaire à distance
+T23	topographie 1445 1458	ganglionnaire
+T24	expression_CIM 1728 1734	lésion
+T25	morphologie 1728 1734	lésion
+T26	expression_CIM 1781 1796	lésion tumorale
+T27	morphologie 1781 1796	lésion tumorale
+T28	morphologie 2081 2091	métastases
+T29	expression_CIM 2081 2150	métastases pulmonaires, ganglionnaires médiastinales et sous-cutanées
+T30	topographie 2092 2103	pulmonaires
+T31	topographie 2105 2133	ganglionnaires médiastinales
+T32	topographie 2137 2150	sous-cutanées
+T33	morphologie 2250 2264	Adénocarcinome
+T34	expression_CIM 2250 2299	Adénocarcinome de la jonction gastro-œsophagienne
+T35	topographie 2271 2299	jonction gastro-œsophagienne
+T36	morphologie 2391 2405;2441 2459	adénocarcinome de type intestinal
+T37	expression_CIM 2391 2459	adénocarcinome de la jonction gastro-œsophagienne de type intestinal
+T38	topographie 2412 2440	jonction gastro-œsophagienne
+T39	expression_CIM 2461 2469	stade IV
+T40	morphologie 2461 2469	stade IV
+T41	morphologie 2569 2579	métastases
+T42	expression_CIM 2569 2591	métastases pulmonaires
+T43	topographie 2580 2591	pulmonaires
+T44	morphologie 2642 2652	métastases
+T45	expression_CIM 2642 2698	métastases ganglionnaires médiastinales et sous-cutanées
+T46	topographie 2653 2681	ganglionnaires médiastinales
+T47	topographie 2685 2698	sous-cutanées
+T48	expression_CIM 3012 3027	tumeur primaire
+T49	morphologie 3012 3027	tumeur primaire
+T50	morphologie 3667 3683	tumeur primitive
+T51	expression_CIM 3667 3718	tumeur primitive dans le tiers distal de l'œsophage
+T52	topographie 3692 3718	tiers distal de l'œsophage
+T53	morphologie 3724 3736	adénopathies
+T54	expression_CIM 3724 3785	adénopathies au niveau supraclaviculaire gauche et pulmonaire
+T55	topographie 3747 3764	supraclaviculaire
+T56	topographie 3775 3785	pulmonaire
+T57	morphologie 4046 4056	métastases
+T58	expression_CIM 4046 4068	métastases pulmonaires
+T59	topographie 4057 4068	pulmonaires
+T60	expression_CIM 4078 4093	tumeur primaire
+T61	morphologie 4078 4093	tumeur primaire
+T62	expression_CIM 4340 4346	tumeur
+T63	morphologie 4340 4346	tumeur
+T64	morphologie 4374 4388	masse tumorale
+T65	expression_CIM 4374 4411	masse tumorale dans l'œsophage distal
+T66	topographie 4396 4411	œsophage distal
+T67	morphologie 4429 4437	invasion
+T68	expression_CIM 4429 4450	invasion du médiastin
+T69	topographie 4441 4450	médiastin
+T70	expression_CIM 4491 4497	tumeur
+T71	morphologie 4491 4497	tumeur
+T72	morphologie 4624 4634	métastases
+T73	expression_CIM 4624 4646	métastases pulmonaires
+T74	topographie 4635 4646	pulmonaires
+T75	morphologie 4712 4724	adénopathies
+T76	expression_CIM 4712 4738	adénopathies médiastinales
+T77	topographie 4725 4738	médiastinales
+T78	expression_CIM 4822 4839	atteinte tumorale
+T79	morphologie 4822 4839	atteinte tumorale
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C50.9 8000/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C18.9 8000/3
+#6	ICD-O T6	C18.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C71.0 8000/3
+#9	ICD-O T9	C71.0
+#10	ICD-O T10	8000/3
+#11	ICD-O T11	C16.9 8000/3
+#12	ICD-O T12	C16.9
+#13	ICD-O T13	8000/3
+#14	ICD-O T14	C18.9 8000/3
+#15	ICD-O T15	C18.9
+#16	ICD-O T16	8000/3
+#17	ICD-O T17	C34.9 8000/3
+#18	ICD-O T18	C34.9
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/6
+#22	ICD-O T23	C77.9
+#23	ICD-O T24	8000/1
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	8000/3
+#26	ICD-O T27	8000/3
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	C34.9 8000/6;C49.9 8000/6;C77.1 8000/6
+#29	ICD-O T30	C34.9
+#30	ICD-O T31	C77.1
+#31	ICD-O T32	C49.9
+#32	ICD-O T33	8140/3
+#33	ICD-O T34	C16.0 8140/3
+#34	ICD-O T35	C16.0
+#35	ICD-O T36	8144/3
+#36	ICD-O T37	C16.0 8144/3
+#37	ICD-O T38	C16.0
+#38	ICD-O T39	8000/6
+#39	ICD-O T40	8000/6
+#40	ICD-O T41	8000/6
+#41	ICD-O T42	C34.9 8000/6
+#42	ICD-O T43	C34.9
+#43	ICD-O T44	8000/6
+#44	ICD-O T45	C49.9 8000/6;C77.1 8000/6
+#45	ICD-O T46	C77.1
+#46	ICD-O T47	C49.9
+#47	ICD-O T48	8000/3
+#48	ICD-O T49	8000/3
+#49	ICD-O T50	8000/3
+#50	ICD-O T51	C15.5 8000/3
+#51	ICD-O T52	C15.5
+#52	ICD-O T53	8000/1
+#53	ICD-O T54	C77.0 8000/1;C77.1 8000/1
+#54	ICD-O T55	C76.0
+#55	ICD-O T56	C34.9
+#56	ICD-O T57	8000/6
+#57	ICD-O T58	C34.9 8000/6
+#58	ICD-O T59	C34.9
+#59	ICD-O T60	8000/3
+#60	ICD-O T61	8000/3
+#61	ICD-O T62	8000/1
+#62	ICD-O T63	8000/1
+#63	ICD-O T64	8000/3
+#64	ICD-O T66	C15.5
+#65	ICD-O T67	8000/1
+#66	ICD-O T68	C38.3 8000/1
+#67	ICD-O T69	C38.3
+#68	ICD-O T70	8000/1
+#69	ICD-O T71	8000/1
+#70	ICD-O T72	8000/6
+#71	ICD-O T73	C34.9 8000/6
+#72	ICD-O T74	C34.9
+#73	ICD-O T75	8000/1
+#74	ICD-O T76	C77.1 8000/1
+#75	ICD-O T77	C38.3
+#76	ICD-O T78	8000/6
+#77	ICD-O T79	8000/6

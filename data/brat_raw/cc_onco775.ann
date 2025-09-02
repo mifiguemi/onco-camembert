@@ -1,0 +1,150 @@
+T72	topographie 5197 5211	dôme hépatique
+T23	topographie 2177 2191	hémidiaphragme
+T58	topographie 4651 4671	périphérie splénique
+T1	morphologie 173 187;200 221	adénocarcinome de type endométrioïde
+T2	expression_CIM 173 221	adénocarcinome endométrial de type endométrioïde
+T3	topographie 188 199	endométrial
+T4	expression_CIM 616 622	lésion
+T5	morphologie 616 622	lésion
+T6	expression_CIM 640 665	tumeur fibreuse solitaire
+T7	morphologie 640 665	tumeur fibreuse solitaire
+T8	expression_CIM 816 822	lésion
+T9	morphologie 816 822	lésion
+T10	morphologie 1134 1146	adénopathies
+T11	expression_CIM 1134 1180	adénopathies dans les chaînes latérocervicales
+T12	topographie 1156 1180	chaînes latérocervicales
+T13	expression_CIM 1548 1555	lésions
+T14	morphologie 1548 1555	lésions
+T15	expression_CIM 1692 1697	masse
+T16	morphologie 1692 1697	masse
+T17	expression_CIM 1872 1897	tumeur fibreuse solitaire
+T18	morphologie 1872 1897	tumeur fibreuse solitaire
+T19	expression_CIM 1985 1990	masse
+T20	morphologie 1985 1990	masse
+T21	morphologie 2139 2144	masse
+T22	expression_CIM 2139 2191	masse dans la partie postérieure de l'hémidiaphragme
+T24	morphologie 2408 2420	infiltration
+T25	expression_CIM 2408 2449	infiltration de la plèvre diaphragmatique
+T26	topographie 2427 2449	plèvre diaphragmatique
+T27	expression_CIM 2454 2459	masse
+T28	morphologie 2454 2459	masse
+T29	expression_CIM 2595 2620	tumeur fibreuse solitaire
+T30	morphologie 2595 2620	tumeur fibreuse solitaire
+T31	morphologie 2652 2662;2680 2689	néoplasmes primaires
+T32	expression_CIM 2652 2689	néoplasmes diaphragmatiques primaires
+T33	topographie 2663 2679	diaphragmatiques
+T34	expression_CIM 2724 2734	léiomyomes
+T35	morphologie 2724 2734	léiomyomes
+T36	expression_CIM 2736 2751	tumeur desmoïde
+T37	morphologie 2736 2751	tumeur desmoïde
+T38	expression_CIM 3048 3062	tumeur bénigne
+T39	morphologie 3048 3062	tumeur bénigne
+T40	expression_CIM 3208 3214	lésion
+T41	morphologie 3208 3214	lésion
+T42	morphologie 3302 3314	infiltration
+T43	expression_CIM 3302 3404	infiltration du lobe hépatique droit, du diaphragme, du lobe inférieur du poumon droit et de la plèvre
+T44	topographie 3318 3332	lobe hépatique
+T45	topographie 3343 3353	diaphragme
+T46	topographie 3358 3382	lobe inférieur du poumon
+T47	topographie 3398 3404	plèvre
+T48	morphologie 3412 3426	adénocarcinome
+T49	expression_CIM 3412 3440	adénocarcinome de haut grade
+T50	expression_CIM 3792 3810	cellules tumorales
+T51	morphologie 3792 3810	cellules tumorales
+T52	expression_CIM 3912 3920	récidive
+T53	morphologie 3912 3920	récidive
+T54	morphologie 3923 3937	adénocarcinome
+T55	expression_CIM 3923 3952	adénocarcinome de l'endomètre
+T56	topographie 3943 3952	endomètre
+T57	expression_CIM 4620 4671	lésion kystique est apparue en périphérie splénique
+T59	expression_CIM 4824 4830	lésion
+T60	morphologie 4824 4830	lésion
+T61	expression_CIM 4857 4868	adénopathie
+T62	morphologie 4857 4868	adénopathie
+T63	expression_CIM 5032 5039	implant
+T64	morphologie 5032 5039	implant
+T65	morphologie 5040 5049	métastase
+T66	expression_CIM 5040 5059	métastase hépatique
+T67	topographie 5050 5059	hépatique
+T68	expression_CIM 5104 5110	lésion
+T69	morphologie 5104 5110	lésion
+T70	morphologie 5167 5184	atteinte tumorale
+T71	expression_CIM 5167 5211	atteinte tumorale douteuse du dôme hépatique
+T73	morphologie 5265 5290	progression de la maladie
+T74	expression_CIM 5265 5327	progression de la maladie au niveau ganglionnaire et hépatique
+T75	topographie 5301 5314	ganglionnaire
+T76	topographie 5318 5327	hépatique
+T77	expression_CIM 5964 5972	récidive
+T78	morphologie 5964 5972	récidive
+#1	ICD-O T1	8380/3
+#2	ICD-O T2	C54.1 8380/3
+#3	ICD-O T3	C54.1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8815/0
+#7	ICD-O T7	8815/0
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.0 8000/1
+#12	ICD-O T12	C77.0
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8815/0
+#18	ICD-O T18	8815/0
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/1
+#22	ICD-O T24	8000/1
+#23	ICD-O T25	C38.4 8000/1
+#24	ICD-O T26	C38.4
+#25	ICD-O T27	8000/1
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	8815/0
+#28	ICD-O T30	8815/0
+#29	ICD-O T31	8000/3
+#30	ICD-O T32	C49.3 8000/3
+#31	ICD-O T33	C49.3
+#32	ICD-O T34	8890/0
+#33	ICD-O T35	8890/0
+#34	ICD-O T36	8821/1
+#35	ICD-O T37	8821/1
+#36	ICD-O T38	8000/0
+#37	ICD-O T39	8000/0
+#38	ICD-O T40	8000/1
+#39	ICD-O T41	8000/1
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	C22.0 8000/1;C34.3 8000/1;C38.4 8000/1;C49.3 8000/1
+#42	ICD-O T44	C22.0
+#43	ICD-O T45	C49.3
+#44	ICD-O T46	C34.3
+#45	ICD-O T47	C38.4
+#46	ICD-O T48	8140/3
+#47	ICD-O T49	8140/34
+#48	ICD-O T50	8001/1
+#49	ICD-O T51	8001/1
+#50	ICD-O T52	8000/6
+#51	ICD-O T53	8000/6
+#52	ICD-O T54	8140/3
+#53	ICD-O T55	C54.1 8140/3
+#54	ICD-O T56	C54.1
+#55	ICD-O T59	8000/1
+#56	ICD-O T60	8000/1
+#57	ICD-O T61	C77.9 8000/1
+#58	ICD-O T62	8000/1
+#59	ICD-O T64	8000/6
+#60	ICD-O T65	8000/6
+#61	ICD-O T66	C22.0 8000/6
+#62	ICD-O T67	C22.0
+#63	ICD-O T68	8000/1
+#64	ICD-O T69	8000/1
+#65	ICD-O T70	8000/6
+#66	ICD-O T71	C22.0 8000/6
+#67	ICD-O T73	8000/1
+#68	ICD-O T74	C22.0 8000/1;C77.9 8000/1
+#69	ICD-O T75	C77.9
+#70	ICD-O T76	C22.0
+#71	ICD-O T77	8000/6
+#72	ICD-O T78	8000/6

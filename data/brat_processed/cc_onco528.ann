@@ -1,0 +1,35 @@
+T1	morphologie 513 519	nodule
+T3	topographie 520 530	pulmonaire
+T4	topographie 545 559	lobe supérieur
+T5	topographie 567 570	LSD
+T6	morphologie 790 796	lésion
+T8	topographie 821 824	LSD
+T10	morphologie 909 915	lésion
+T12	morphologie 2572 2579	lésions
+T14	morphologie 2730 2736	lésion
+T16	morphologie 2838 2849	adénopathie
+T18	morphologie 2953 2978	dissémination néoplasique
+T20	morphologie 3021 3026	masse
+T21	morphologie 3118 3156	carcinome épidermoïde non kératinisant
+T23	differenciation 3158 3173	peu différencié
+T24	morphologie 3350 3356	lésion
+T26	topographie 3357 3367	pulmonaire
+T27	topographie 3385 3388	LSD
+T29	morphologie 3394 3410	hypermétabolisme
+T31	morphologie 3469 3503	processus néoprolifératif primaire
+T33	morphologie 3534 3541	lésions
+T34	morphologie 3726 3747	carcinome épidermoïde
+T36	topographie 3751 3757	poumon
+T37	morphologie 3956 3964	atteinte
+T39	morphologie 4197 4235	carcinome épidermoïde non kératinisant
+T41	differenciation 4237 4252	peu différencié
+T42	differenciation 4254 4256	G3
+T44	morphologie 4267 4273	nodule
+T46	morphologie 4297 4304	nodules
+T47	morphologie 4409 4417	invasion
+T49	topographie 4418 4426	pleurale
+T50	topographie 4428 4444	lymphovasculaire
+T51	topographie 4448 4459	périneurale
+T53	morphologie 4503 4520	lésions kystiques
+T55	morphologie 4552 4580	carcinome malpighien in situ
+T57	morphologie 4586 4604	cellules tumorales

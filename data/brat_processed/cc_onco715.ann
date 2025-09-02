@@ -1,0 +1,21 @@
+T16	topographie 1520 1541	crura diaphragmatique
+T2	morphologie 309 325	phéochromocytome
+T4	morphologie 509 521	infiltration
+T5	morphologie 937 947	hémangiome
+T7	topographie 948 957	hépatique
+T9	morphologie 1019 1027	récidive
+T11	morphologie 1315 1320	masse
+T13	morphologie 1371 1383	adénopathies
+T14	morphologie 1479 1494	image nodulaire
+T17	topographie 1572 1588	fundus gastrique
+T18	morphologie 1603 1609	nodule
+T20	topographie 1670 1674	rein
+T21	topographie 1691 1695	foie
+T23	morphologie 1711 1718	lésions
+T25	morphologie 1740 1750	métastases
+T27	morphologie 1812 1834	Phéochromocytome malin
+T29	morphologie 1854 1862	récidive
+T30	morphologie 1896 1906	métastases
+T32	topographie 1907 1917	hépatiques
+T33	topographie 1919 1926	rénales
+T34	topographie 1930 1940	gastriques

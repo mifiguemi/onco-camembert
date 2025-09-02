@@ -1,0 +1,225 @@
+T43	topographie 2427 2443	espace portocave
+T1	morphologie 376 390	adénocarcinome
+T2	expression_CIM 376 409	adénocarcinome du colon ascendant
+T3	topographie 394 409	colon ascendant
+T4	morphologie 1007 1012	masse
+T5	expression_CIM 1007 1022	masse cervicale
+T6	topographie 1013 1022	cervicale
+T7	morphologie 1442 1447	masse
+T8	expression_CIM 1442 1462	masse supraglottique
+T9	topographie 1448 1462	supraglottique
+T10	expression_CIM 1490 1499	néoplasie
+T11	morphologie 1490 1499	néoplasie
+T12	morphologie 1501 1526	Conglomérat adénopathique
+T13	expression_CIM 1501 1541	Conglomérat adénopathique latérocervical
+T14	topographie 1527 1541	latérocervical
+T15	topographie 1687 1712	Foie : Dans le segment VI
+T16	expression_CIM 1687 1729	Foie : Dans le segment VI il y a une masse
+T17	morphologie 1724 1729	masse
+T18	expression_CIM 1776 1781	masse
+T19	morphologie 1776 1781	masse
+T20	expression_CIM 1890 1899	métastase
+T21	morphologie 1890 1899	métastase
+T22	morphologie 1930 1944	adénocarcinome
+T23	expression_CIM 1930 1953	adénocarcinome du côlon
+T24	topographie 1948 1953	côlon
+T25	morphologie 2008 2019	Adénopathie
+T26	expression_CIM 2008 2032	Adénopathie mésentérique
+T27	topographie 2020 2032	mésentérique
+T28	expression_CIM 2147 2159	adénopathies
+T29	morphologie 2147 2159	adénopathies
+T30	morphologie 2268 2273	Masse
+T31	expression_CIM 2268 2283	Masse hépatique
+T32	topographie 2274 2283	hépatique
+T33	expression_CIM 2315 2324	métastase
+T34	morphologie 2315 2324	métastase
+T35	morphologie 2330 2344	adénocarcinome
+T36	expression_CIM 2330 2353	adénocarcinome du côlon
+T37	topographie 2348 2353	côlon
+T38	morphologie 2381 2390	carcinome
+T39	expression_CIM 2381 2398	carcinome laryngé
+T40	topographie 2391 2398	laryngé
+T41	morphologie 2400 2411	Adénopathie
+T42	expression_CIM 2400 2443	Adénopathie de 1 cm dans l'espace portocave
+T44	morphologie 2445 2452	Adénome
+T45	expression_CIM 2445 2464	Adénome surrénalien
+T46	topographie 2453 2464	surrénalien
+T47	morphologie 2510 2521	Adénopathie
+T48	expression_CIM 2510 2531	Adénopathie cervicale
+T49	topographie 2522 2531	cervicale
+T50	expression_CIM 2655 2671	lymphadénopathie
+T51	morphologie 2655 2671	lymphadénopathie
+T52	morphologie 2687 2693	Lésion
+T53	expression_CIM 2687 2700	Lésion du RAE
+T55	morphologie 2996 3005	néoplasie
+T56	expression_CIM 2996 3020	néoplasie supraglottique
+T57	topographie 3006 3020	supraglottique
+T58	expression_CIM 3031 3056	conglomérat adénopathique
+T59	morphologie 3031 3056	conglomérat adénopathique
+T60	expression_CIM 3162 3179	carcinome in situ
+T61	morphologie 3162 3179	carcinome in situ
+T62	morphologie 3211 3225;3249 3267	Adénocarcinome de type intestinal
+T63	expression_CIM 3211 3267	Adénocarcinome modérément différencié de type intestinal
+T64	differenciation 3226 3248	modérément différencié
+T65	expression_CIM 3288 3297	métastase
+T66	morphologie 3288 3297	métastase
+T67	morphologie 3303 3311	primitif
+T68	expression_CIM 3303 3319	primitif colique
+T69	topographie 3312 3319	colique
+T70	morphologie 3589 3598	néoplasme
+T71	expression_CIM 3589 3611	néoplasme hypopharyngé
+T72	topographie 3599 3611	hypopharyngé
+T73	morphologie 3636 3645	métastase
+T74	expression_CIM 3636 3655	métastase hépatique
+T75	topographie 3646 3655	hépatique
+T76	morphologie 3670 3678	primitif
+T77	expression_CIM 3670 3686	primitif colique
+T78	topographie 3679 3686	colique
+T79	morphologie 3761 3770	métastase
+T80	expression_CIM 3761 3780	métastase hépatique
+T81	topographie 3771 3780	hépatique
+T82	morphologie 4054 4063	néoplasme
+T83	expression_CIM 4054 4080	néoplasme de l'hypopharynx
+T84	topographie 4069 4080	hypopharynx
+T85	morphologie 4138 4147	néoplasme
+T86	expression_CIM 4138 4160	néoplasme hypopharyngé
+T87	topographie 4148 4160	hypopharyngé
+T88	morphologie 4242 4251	métastase
+T89	expression_CIM 4242 4261	métastase hépatique
+T90	topographie 4252 4261	hépatique
+T91	morphologie 4277 4291	adénocarcinome
+T92	expression_CIM 4277 4300	adénocarcinome du côlon
+T93	topographie 4295 4300	côlon
+T94	expression_CIM 5170 5185	tumeur primaire
+T95	morphologie 5170 5185	tumeur primaire
+T96	morphologie 7400 7409	métastase
+T97	expression_CIM 7400 7419	métastase hépatique
+T98	topographie 7410 7419	hépatique
+T99	expression_CIM 7554 7568	nodule tumoral
+T100	morphologie 7554 7568	nodule tumoral
+T101	expression_CIM 7588 7635	adénocarcinome de type intestinal, métastatique
+T102	morphologie 7588 7635	adénocarcinome de type intestinal, métastatique
+T103	morphologie 7679 7687	invasion
+T104	expression_CIM 7679 7704	invasion lymphovasculaire
+T105	topographie 7688 7704	lymphovasculaire
+T106	topographie 7756 7776	parenchyme hépatique
+T107	expression_CIM 7756 7818	parenchyme hépatique normal sans signe d'infiltration tumorale
+T108	morphologie 7797 7818	infiltration tumorale
+T109	expression_CIM 7896 7911	tumeur primaire
+T110	morphologie 7896 7911	tumeur primaire
+T111	expression_CIM 7963 7978	tumeur primaire
+T112	morphologie 7963 7978	tumeur primaire
+T113	expression_CIM 8394 8411	récidive tumorale
+T114	morphologie 8394 8411	récidive tumorale
+T115	expression_CIM 8810 8827	récidive tumorale
+T116	morphologie 8810 8827	récidive tumorale
+T54	topographie 2697 2700	RAE
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C18.2 8140/3
+#3	ICD-O T3	C18.2
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C76.0 8000/1
+#6	ICD-O T6	C76.0
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C32.8 8000/1
+#9	ICD-O T9	C32.8
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.0 8000/1
+#14	ICD-O T14	C76.0
+#15	ICD-O T15	C22.0
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8000/6
+#20	ICD-O T21	8000/6
+#21	ICD-O T22	8140/3
+#22	ICD-O T23	C18.9 8140/3
+#23	ICD-O T24	C18.9
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	C77.2 8000/1
+#26	ICD-O T27	C48.1
+#27	ICD-O T28	C77.9 8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	C22.0 8000/1
+#31	ICD-O T32	C22.0
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	8140/3
+#35	ICD-O T36	C18.9 8140/3
+#36	ICD-O T37	C18.9
+#37	ICD-O T38	8010/3
+#38	ICD-O T39	C32.9 8010/3
+#39	ICD-O T40	C32.9
+#40	ICD-O T41	8000/1
+#41	ICD-O T44	8140/0
+#42	ICD-O T45	C74.9 8140/0
+#43	ICD-O T46	C74.9
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	C77.0 8000/1
+#46	ICD-O T49	C76.0
+#47	ICD-O T50	C77.9 8000/1
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T55	8000/1
+#51	ICD-O T56	C32.8 8000/1
+#52	ICD-O T57	C32.8
+#53	ICD-O T58	C77.9 8000/1
+#54	ICD-O T59	8000/1
+#55	ICD-O T60	8010/2
+#56	ICD-O T61	8010/2
+#57	ICD-O T62	8144/3
+#58	ICD-O T63	8144/32
+#59	ICD-O T64	2
+#60	ICD-O T65	8000/6
+#61	ICD-O T66	8000/6
+#62	ICD-O T67	8000/3
+#63	ICD-O T68	C18.9 8000/3
+#64	ICD-O T69	C18.9
+#65	ICD-O T70	8000/1
+#66	ICD-O T71	C13.9 8000/1
+#67	ICD-O T72	C13.9
+#68	ICD-O T73	8000/6
+#69	ICD-O T74	C22.0 8000/6
+#70	ICD-O T75	C22.0
+#71	ICD-O T76	8000/3
+#72	ICD-O T77	C18.9 8000/3
+#73	ICD-O T78	C18.9
+#74	ICD-O T79	8000/6
+#75	ICD-O T80	C22.0 8000/6
+#76	ICD-O T81	C22.0
+#77	ICD-O T82	8000/1
+#78	ICD-O T83	C13.9 8000/1
+#79	ICD-O T84	C13.9
+#80	ICD-O T85	8000/1
+#81	ICD-O T86	C13.9 8000/1
+#82	ICD-O T87	C13.9
+#83	ICD-O T88	8000/6
+#84	ICD-O T89	C22.0 8000/6
+#85	ICD-O T90	C22.0
+#86	ICD-O T91	8140/3
+#87	ICD-O T92	C18.9 8140/3
+#88	ICD-O T93	C18.9
+#89	ICD-O T94	8000/3
+#90	ICD-O T95	8000/3
+#91	ICD-O T96	8000/6
+#92	ICD-O T97	C22.0 8000/6
+#93	ICD-O T98	C22.0
+#94	ICD-O T99	8000/6
+#95	ICD-O T100	8000/6
+#96	ICD-O T102	tocheck
+#97	ICD-O T103	8000/1
+#98	ICD-O T104	C49.9 8000/1
+#99	ICD-O T105	C49.9
+#100	ICD-O T106	C22.0
+#101	ICD-O T108	8000/6
+#102	ICD-O T109	8000/3
+#103	ICD-O T110	8000/3
+#104	ICD-O T111	8000/3
+#105	ICD-O T112	8000/3
+#106	ICD-O T113	8000/6
+#107	ICD-O T114	8000/6
+#108	ICD-O T115	8000/6
+#109	ICD-O T116	8000/6

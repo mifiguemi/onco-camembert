@@ -1,0 +1,70 @@
+T1	morphologie 158 167;179 200	carcinome à cellules de Hürthle
+T2	expression_CIM 158 205	carcinome thyroïdien à cellules de Hürthle (HCC
+T3	topographie 168 178	thyroïdien
+T4	morphologie 202 205	HCC
+T5	expression_CIM 458 461	CHC
+T6	morphologie 458 461	CHC
+T7	morphologie 497 507	métastases
+T8	expression_CIM 497 541	métastases pulmonaires et dans un arc costal
+T9	topographie 508 519	pulmonaires
+T10	topographie 531 541	arc costal
+T11	morphologie 937 944	lésions
+T12	expression_CIM 937 968	lésions pulmonaires et costales
+T13	topographie 945 956	pulmonaires
+T14	topographie 960 968	costales
+T15	expression_CIM 1942 1945	HCC
+T16	morphologie 1942 1945	HCC
+T17	expression_CIM 2134 2140	lésion
+T18	morphologie 2134 2140	lésion
+T19	morphologie 2917 2926;2938 2959	Carcinome à cellules de Hürthle
+T20	expression_CIM 2917 2964	Carcinome thyroïdien à cellules de Hürthle (HCC
+T21	topographie 2927 2937	thyroïdien
+T22	morphologie 2961 2964	HCC
+T23	expression_CIM 4422 4445	néoplasie plasmocytaire
+T24	morphologie 4422 4445	néoplasie plasmocytaire
+T25	expression_CIM 4676 4683	myélome
+T26	morphologie 4676 4683	myélome
+T27	expression_CIM 4737 4753	myélome multiple
+T28	morphologie 4737 4753	myélome multiple
+T29	morphologie 4756 4762	lésion
+T30	expression_CIM 4756 4817	lésion osseuse douteuse à l'extrémité distale de la clavicule
+T31	topographie 4763 4770	osseuse
+T32	topographie 4808 4817	clavicule
+T33	expression_CIM 5116 5134	myélome leucémique
+T34	morphologie 5116 5134	myélome leucémique
+T35	expression_CIM 5141 5163	leucémie à plasmocytes
+T36	morphologie 5141 5163	leucémie à plasmocytes
+#1	ICD-O T1	8290/3
+#2	ICD-O T3	C73.9
+#3	ICD-O T4	8290/3
+#4	ICD-O T5	8170/3
+#5	ICD-O T6	8170/3
+#6	ICD-O T7	8000/6
+#7	ICD-O T8	C34.9 8000/6;C41.3 8000/6
+#8	ICD-O T9	C34.9
+#9	ICD-O T10	C41.3
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C34.9 8000/1;C41.3 8000/1
+#12	ICD-O T13	C34.9
+#13	ICD-O T14	C41.3
+#14	ICD-O T15	8290/3
+#15	ICD-O T16	8290/3
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8290/3
+#19	ICD-O T21	C73.9
+#20	ICD-O T22	8290/3
+#21	ICD-O T23	9731/3
+#22	ICD-O T24	9731/3
+#23	ICD-O T25	9732/3
+#24	ICD-O T26	9732/3
+#25	ICD-O T27	9732/3
+#26	ICD-O T28	9732/3
+#27	ICD-O T29	8000/1
+#28	ICD-O T30	C41.3 8000/1;C41.9 8000/1
+#29	ICD-O T31	C41.9
+#30	ICD-O T32	C41.3
+#31	ICD-O T33	9480/3
+#32	ICD-O T34	9480/3
+#33	ICD-O T35	9733/3
+#34	ICD-O T36	9733/3

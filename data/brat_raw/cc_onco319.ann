@@ -1,0 +1,172 @@
+T21	morphologie 1022 1045	composante intraductale
+T16	topographie 918 921	CSD
+T12	topographie 806 809	CSE
+T53	topographie 3819 3833	infratentoriel
+T54	topographie 3842 3858	lobe cérébelleux
+T1	morphologie 287 294	nodules
+T2	expression_CIM 287 307	nodules dans le sein
+T3	topographie 303 307	sein
+T4	morphologie 434 440;463 500	foyers avec une forte suspicion de malignité
+T5	expression_CIM 434 455	foyers du CSE du sein
+T6	topographie 444 455	CSE du sein
+T7	morphologie 600 631	zones de rehaussement nodulaire
+T8	expression_CIM 600 657	zones de rehaussement nodulaire au niveau rétro-aréolaire
+T10	morphologie 761 785	rehaussements nodulaires
+T11	expression_CIM 761 869	rehaussements nodulaires irréguliers dans le CSE dont le plus grand est de 1.4 cm (BI-RADS V) ; dans le sein
+T13	topographie 865 869	sein
+T14	morphologie 877 899	rehaussement nodulaire
+T15	expression_CIM 877 921	rehaussement nodulaire de 1,7 cm dans le CSD
+T17	expression_CIM 945 951	nodule
+T18	morphologie 945 951	nodule
+T19	morphologie 982 1012	carcinome canalaire infiltrant
+T20	expression_CIM 982 1059	carcinome canalaire infiltrant avec une composante intraductale de haut grade
+T22	differenciation 1049 1059	haut grade
+T23	morphologie 1230 1239	captation
+T24	expression_CIM 1230 1268	captation dans le sein gauche, le sein
+T25	topographie 1248 1252	sein
+T26	topographie 1264 1268	sein
+T27	morphologie 1310 1317	lésions
+T28	expression_CIM 1310 1365	lésions hépatiques, le corps vertébral L5 et l'omoplate
+T29	topographie 1318 1328	hépatiques
+T30	topographie 1333 1348	corps vertébral
+T31	topographie 1357 1365	omoplate
+T32	morphologie 1403 1412	carcinome
+T33	expression_CIM 1403 1421	carcinome mammaire
+T34	topographie 1413 1421	mammaire
+T35	expression_CIM 1436 1453	stade clinique IV
+T36	morphologie 1436 1453	stade clinique IV
+T37	morphologie 1465 1475	métastases
+T38	expression_CIM 1465 1498	métastases hépatiques et osseuses
+T39	topographie 1476 1486	hépatiques
+T40	topographie 1490 1498	osseuses
+T41	morphologie 2220 2241	carcinome intraductal
+T42	expression_CIM 2220 2255	carcinome intraductal de haut grade
+T43	differenciation 2245 2255	haut grade
+T44	expression_CIM 2591 2599	récidive
+T45	morphologie 2591 2599	récidive
+T46	morphologie 3345 3353	récidive
+T47	expression_CIM 3345 3359	récidive, sein
+T48	topographie 3355 3359	sein
+T49	expression_CIM 3371 3378	nodules
+T50	morphologie 3371 3378	nodules
+T51	morphologie 3779 3800	lésions métastatiques
+T52	expression_CIM 3779 3858	lésions métastatiques, dont 2 au niveau infratentoriel dans le lobe cérébelleux
+T55	morphologie 4071 4077	lésion
+T56	expression_CIM 4071 4128	lésion est située en supratentoriel dans le lobe pariétal
+T57	topographie 4115 4128	lobe pariétal
+T58	morphologie 4149 4179	Carcinome canalaire infiltrant
+T59	expression_CIM 4149 4187	Carcinome canalaire infiltrant du sein
+T60	topographie 4183 4187	sein
+T61	expression_CIM 4202 4219	stade clinique IV
+T62	morphologie 4202 4219	stade clinique IV
+T63	morphologie 4242 4252	métastases
+T64	expression_CIM 4242 4275	métastases hépatiques et osseuses
+T65	topographie 4253 4263	hépatiques
+T66	topographie 4267 4275	osseuses
+T67	morphologie 4323 4333	Métastases
+T68	expression_CIM 4323 4344	Métastases cérébrales
+T69	topographie 4334 4344	cérébrales
+T70	morphologie 4375 4384	carcinome
+T71	expression_CIM 4375 4392	carcinome du sein
+T72	topographie 4388 4392	sein
+T73	morphologie 4509 4515	lésion
+T74	expression_CIM 4509 4528	lésion cérébelleuse
+T75	topographie 4516 4528	cérébelleuse
+T76	morphologie 4538 4545	lésions
+T77	expression_CIM 4538 4563	lésions intratentorielles
+T78	topographie 4546 4563	intratentorielles
+T79	morphologie 4573 4579	lésion
+T80	expression_CIM 4573 4589	lésion pariétale
+T81	topographie 4580 4589	pariétale
+T82	morphologie 4639 4649	métastases
+T83	expression_CIM 4639 4660	métastases cérébrales
+T84	topographie 4650 4660	cérébrales
+T85	morphologie 4666 4696	carcinome canalaire infiltrant
+T86	expression_CIM 4666 4704	carcinome canalaire infiltrant du sein
+T87	topographie 4700 4704	sein
+T88	expression_CIM 4880 4898	reliquats tumoraux
+T89	morphologie 4880 4898	reliquats tumoraux
+T90	expression_CIM 5587 5605	lésions nodulaires
+T91	morphologie 5587 5605	lésions nodulaires
+T92	expression_CIM 5627 5635	récidive
+T93	morphologie 5627 5635	récidive
+T9	topographie 642 657	rétro-aréolaire
+#1	ICD-O T21	tocheck
+#2	ICD-O T1	8000/1
+#3	ICD-O T2	C50.9 8000/1
+#4	ICD-O T3	C50.9
+#5	ICD-O T4	8000/9
+#6	ICD-O T5	C50.4 8000/1
+#7	ICD-O T6	C50.4
+#8	ICD-O T7	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T13	C50.9
+#11	ICD-O T14	8000/1
+#12	ICD-O T17	8000/1
+#13	ICD-O T18	8000/1
+#14	ICD-O T19	8500/3
+#15	ICD-O T22	4
+#16	ICD-O T23	8000/1
+#17	ICD-O T25	C50.9
+#18	ICD-O T26	C50.9
+#19	ICD-O T27	8000/1
+#20	ICD-O T28	C22.0 8000/1;C40.0 8000/1;C41.2 8000/1
+#21	ICD-O T29	C22.0
+#22	ICD-O T30	C41.2
+#23	ICD-O T31	C40.0
+#24	ICD-O T32	8010/3
+#25	ICD-O T33	C50.9 8010/3
+#26	ICD-O T34	C50.9
+#27	ICD-O T35	8000/6
+#28	ICD-O T36	8000/6
+#29	ICD-O T37	8000/6
+#30	ICD-O T38	C22.0 8000/6;C41.9 8000/6
+#31	ICD-O T39	C22.0
+#32	ICD-O T40	C41.9
+#33	ICD-O T41	8500/3
+#34	ICD-O T43	4
+#35	ICD-O T44	8000/6
+#36	ICD-O T45	8000/9
+#37	ICD-O T46	8000/9
+#38	ICD-O T47	C50.9 8000/6
+#39	ICD-O T48	C50.9
+#40	ICD-O T49	8000/1
+#41	ICD-O T50	8000/1
+#42	ICD-O T51	8000/6
+#43	ICD-O T55	8000/1
+#44	ICD-O T57	C71.3
+#45	ICD-O T58	8500/3
+#46	ICD-O T59	C50.9 8500/3
+#47	ICD-O T60	C50.9
+#48	ICD-O T61	8000/6
+#49	ICD-O T62	8000/6
+#50	ICD-O T63	8000/6
+#51	ICD-O T64	C22.0 8000/6;C41.9 8000/6
+#52	ICD-O T65	C22.0
+#53	ICD-O T66	C41.9
+#54	ICD-O T67	8000/6
+#55	ICD-O T68	C71.0 8000/6
+#56	ICD-O T69	C71.9
+#57	ICD-O T70	8010/3
+#58	ICD-O T71	C50.9 8010/3
+#59	ICD-O T72	C50.9
+#60	ICD-O T73	8000/1
+#61	ICD-O T74	C71.6 8000/1
+#62	ICD-O T75	C71.6
+#63	ICD-O T76	8000/1
+#64	ICD-O T77	C71.7 8000/1
+#65	ICD-O T78	C71.7
+#66	ICD-O T79	8000/1
+#67	ICD-O T80	C71.3 8000/1
+#68	ICD-O T81	C71.3
+#69	ICD-O T82	8000/6
+#70	ICD-O T83	C71.0 8000/6
+#71	ICD-O T84	C71.9
+#72	ICD-O T85	8500/3
+#73	ICD-O T86	C50.9 8500/3
+#74	ICD-O T87	C50.9
+#75	ICD-O T88	8000/3
+#76	ICD-O T89	8000/3
+#77	ICD-O T91	8000/1
+#78	ICD-O T92	8000/6
+#79	ICD-O T93	8000/9

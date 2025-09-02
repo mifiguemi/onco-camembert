@@ -1,0 +1,151 @@
+T73	topographie 4510 4524	para-aortiques
+T1	morphologie 274 280	cancer
+T2	expression_CIM 274 289	cancer du colon
+T3	topographie 284 289	colon
+T4	morphologie 310 316	cancer
+T5	expression_CIM 310 326	cancer gastrique
+T6	topographie 317 326	gastrique
+T7	morphologie 353 359	cancer
+T8	expression_CIM 353 366	cancer des os
+T9	topographie 364 366	os
+T10	morphologie 383 397	adénocarcinome
+T11	expression_CIM 383 412	adénocarcinome de l'endomètre
+T12	topographie 403 412	endomètre
+T13	morphologie 923 937	adénocarcinome
+T14	expression_CIM 923 983	adénocarcinome moyennement différencié d'origine intestinale
+T15	differenciation 938 961	moyennement différencié
+T16	topographie 972 983	intestinale
+T17	expression_CIM 1143 1157	adénocarcinome
+T18	morphologie 1143 1157	adénocarcinome
+T19	morphologie 1163 1175	infiltration
+T20	expression_CIM 1163 1219	infiltration extrinsèque de la paroi de l'intestin grêle
+T21	topographie 1205 1219	intestin grêle
+T22	morphologie 1243 1253	métastases
+T23	expression_CIM 1243 1268	métastases de 8 ganglions
+T24	topographie 1259 1268	ganglions
+T25	expression_CIM 1319 1325	tumeur
+T26	morphologie 1319 1325	tumeur
+T27	morphologie 2116 2130	adénocarcinome
+T28	expression_CIM 2116 2141	adénocarcinome colorectal
+T29	topographie 2131 2141	colorectal
+T30	expression_CIM 2387 2412	progression de la maladie
+T31	morphologie 2387 2412	progression de la maladie
+T32	morphologie 2437 2442	masse
+T33	expression_CIM 2437 2506	masse pelvienne infiltrante de 43 mm (voûte vaginale, rectum et sigma
+T34	topographie 2443 2452	pelvienne
+T35	topographie 2475 2489	voûte vaginale
+T36	topographie 2491 2497	rectum
+T37	topographie 2501 2506	sigma
+T38	morphologie 2535 2561	adénopathies métastatiques
+T39	expression_CIM 2535 2587	adénopathies métastatiques dans les chaînes iliaques
+T40	topographie 2571 2587	chaînes iliaques
+T41	morphologie 2611 2623	infiltration
+T42	expression_CIM 2611 2632	infiltration veineuse
+T43	topographie 2624 2632	veineuse
+T44	expression_CIM 2675 2695	progression tumorale
+T45	morphologie 2675 2695	progression tumorale
+T46	expression_CIM 2779 2799	maladie métastatique
+T47	morphologie 2779 2799	maladie métastatique
+T48	expression_CIM 3000 3025	progression de la maladie
+T49	morphologie 3000 3025	progression de la maladie
+T50	expression_CIM 3214 3239	progression de la maladie
+T51	morphologie 3214 3239	progression de la maladie
+T52	morphologie 3262 3272	métastases
+T53	expression_CIM 3262 3284	métastases pulmonaires
+T54	topographie 3273 3284	pulmonaires
+T55	morphologie 3303 3315	adénopathies
+T56	expression_CIM 3303 3345	adénopathies rétropéritonéales supérieures
+T57	topographie 3316 3345	rétropéritonéales supérieures
+T58	expression_CIM 3369 3381	adénopathies
+T59	morphologie 3369 3381	adénopathies
+T60	morphologie 3401 3413	infiltration
+T61	expression_CIM 3401 3474	infiltration du sigma rectum et de la paroi postéro-latérale de la vessie
+T62	topographie 3417 3422	sigma
+T63	topographie 3423 3429	rectum
+T64	topographie 3439 3474	paroi postéro-latérale de la vessie
+T65	morphologie 3553 3560	implant
+T66	expression_CIM 3553 3581	implant de la voûte vaginale
+T67	topographie 3567 3581	voûte vaginale
+T68	morphologie 3802 3816	Adénocarcinome
+T69	expression_CIM 3802 3825	Adénocarcinome du côlon
+T70	topographie 3820 3825	côlon
+T71	morphologie 4490 4509	amas adénopathiques
+T72	expression_CIM 4490 4524	amas adénopathiques para-aortiques
+T74	morphologie 4532 4544	adénopathies
+T75	expression_CIM 4532 4558	adénopathies mésentériques
+T76	topographie 4545 4558	mésentériques
+T77	morphologie 4591 4599	atteinte
+T78	expression_CIM 4591 4617	atteinte rectosigmoïdienne
+T79	topographie 4600 4617	rectosigmoïdienne
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C18.9 8000/3
+#3	ICD-O T3	C18.9
+#4	ICD-O T4	8000/3
+#5	ICD-O T5	C16.9 8000/3
+#6	ICD-O T6	C16.9
+#7	ICD-O T7	8000/3
+#8	ICD-O T8	C41.9 8000/3
+#9	ICD-O T9	C41.9
+#10	ICD-O T10	8140/3
+#11	ICD-O T11	C54.1 8140/3
+#12	ICD-O T12	C54.1
+#13	ICD-O T13	8140/3
+#14	ICD-O T14	C26.0 8140/32
+#15	ICD-O T15	2
+#16	ICD-O T16	C26.0
+#17	ICD-O T17	8140/3
+#18	ICD-O T18	8140/3
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C17.9 8000/1
+#21	ICD-O T21	C17.9
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C77.9 8000/6
+#24	ICD-O T24	C77.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	8140/3
+#28	ICD-O T28	C19.9 8140/3
+#29	ICD-O T29	C19.9
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	8000/1
+#33	ICD-O T34	C76.3
+#34	ICD-O T35	C52.9
+#35	ICD-O T36	C20.9
+#36	ICD-O T37	C18.7
+#37	ICD-O T38	8000/6
+#38	ICD-O T39	C77.5 8000/6
+#39	ICD-O T40	C77.5
+#40	ICD-O T41	8000/9
+#41	ICD-O T42	C49.9 8000/1
+#42	ICD-O T43	C49.9
+#43	ICD-O T44	8000/3
+#44	ICD-O T45	8000/9
+#45	ICD-O T46	8000/6
+#46	ICD-O T47	8000/6
+#47	ICD-O T48	8000/1
+#48	ICD-O T49	8000/9
+#49	ICD-O T50	8000/1
+#50	ICD-O T51	8000/9
+#51	ICD-O T52	8000/6
+#52	ICD-O T53	C34.9 8000/6
+#53	ICD-O T54	C34.9
+#54	ICD-O T55	8000/1
+#55	ICD-O T57	C48.0
+#56	ICD-O T58	C77.9 8000/1
+#57	ICD-O T59	8000/1
+#58	ICD-O T60	8000/9
+#59	ICD-O T62	C18.7
+#60	ICD-O T63	C20.9
+#61	ICD-O T64	C67.8
+#62	ICD-O T65	8000/6
+#63	ICD-O T66	C52.9 8000/6
+#64	ICD-O T67	C52.9
+#65	ICD-O T68	8140/3
+#66	ICD-O T69	C18.9 8140/3
+#67	ICD-O T70	C18.9
+#68	ICD-O T71	8000/1
+#69	ICD-O T74	8000/1
+#70	ICD-O T75	C77.2 8000/1
+#71	ICD-O T76	C48.1
+#72	ICD-O T77	8000/9

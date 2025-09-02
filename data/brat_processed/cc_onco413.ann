@@ -1,0 +1,59 @@
+T20	topographie 1590 1594	LICS
+T86	topographie 5425 5441	LICS-CSE du sein
+T14	topographie 1192 1231	ligne para-aréolaire supérieure du sein
+T1	morphologie 457 463	cancer
+T3	topographie 467 472	côlon
+T4	morphologie 531 540	néoplasie
+T6	topographie 546 553	estomac
+T7	morphologie 667 673	tumeur
+T9	topographie 677 681	sein
+T11	morphologie 862 868	lésion
+T12	morphologie 1170 1176	lésion
+T15	morphologie 1245 1261	lymphadénopathie
+T17	topographie 1262 1271	axillaire
+T18	morphologie 1472 1489	zone hypoéchogène
+T22	morphologie 1614 1620	nodule
+T23	morphologie 1914 1920	lésion
+T25	topographie 1921 1929	mammaire
+T26	morphologie 1979 1999	carcinome infiltrant
+T28	differenciation 2003 2024	grade histologique II
+T30	morphologie 2122 2140	cellules tumorales
+T32	morphologie 2204 2222	cellules tumorales
+T33	morphologie 2399 2410	adénopathie
+T35	topographie 2411 2420	axillaire
+T36	morphologie 2432 2441	métastase
+T38	topographie 2442 2455	ganglionnaire
+T40	morphologie 2465 2485	carcinome infiltrant
+T41	morphologie 2563 2569	lésion
+T43	topographie 2570 2578	mammaire
+T45	morphologie 2674 2692	cellules tumorales
+T47	morphologie 2757 2775	cellules tumorales
+T48	morphologie 3301 3306	masse
+T50	topographie 3350 3354	sein
+T51	morphologie 3519 3535	maladie tumorale
+T53	topographie 3551 3555	sein
+T54	topographie 3568 3576	aisselle
+T55	morphologie 3601 3611	métastases
+T57	topographie 3612 3622	hépatiques
+T58	morphologie 3676 3697	atteinte métastatique
+T60	topographie 3711 3715	foie
+T61	morphologie 3813 3823	métastases
+T63	topographie 3824 3834	hépatiques
+T64	morphologie 3845 3854	carcinome
+T66	topographie 3865 3873	mammaire
+T67	morphologie 4170 4190	Carcinome infiltrant
+T69	topographie 4194 4198	sein
+T70	differenciation 4209 4229	grade histologique 2
+T72	morphologie 4263 4271	stade IV
+T73	morphologie 4295 4304	atteintes
+T75	topographie 4305 4315	hépatiques
+T76	morphologie 4369 4378	carcinome
+T92	morphologie 4388 4408	canalaire infiltrant
+T78	topographie 4379 4387	mammaire
+T80	morphologie 4431 4450	atteinte à distance
+T81	morphologie 4470 4480	métastases
+T83	topographie 4481 4491	hépatiques
+T84	morphologie 5395 5416	foyer hypercapillaire
+T87	morphologie 5713 5720	maladie
+T89	topographie 5729 5733	sein
+T91	morphologie 5914 5930	lésion nodulaire

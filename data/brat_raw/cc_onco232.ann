@@ -1,0 +1,60 @@
+T1	morphologie 925 945	carcinome médullaire
+T2	expression_CIM 925 960	carcinome médullaire de la thyroïde
+T3	topographie 952 960	thyroïde
+T4	expression_CIM 1126 1136	néoplasmes
+T5	morphologie 1126 1136	néoplasmes
+T6	expression_CIM 1158 1174	phéochromocytome
+T7	morphologie 1158 1174	phéochromocytome
+T8	morphologie 1341 1361	carcinome médullaire
+T9	expression_CIM 1341 1376	carcinome médullaire de la thyroïde
+T10	topographie 1368 1376	thyroïde
+T11	expression_CIM 1409 1417	récidive
+T12	morphologie 1409 1417	récidive
+T13	morphologie 1902 1922	carcinome médullaire
+T14	expression_CIM 1902 1937	carcinome médullaire de la thyroïde
+T15	topographie 1929 1937	thyroïde
+T16	expression_CIM 2076 2129	syndrome du cancer héréditaire du sein et de l'ovaire
+T18	morphologie 2197 2206	carcinome
+T19	expression_CIM 2197 2215	carcinome mammaire
+T20	topographie 2207 2215	mammaire
+T21	expression_CIM 2474 2490	tumeurs malignes
+T22	morphologie 2474 2490	tumeurs malignes
+T23	morphologie 2946 2952	cancer
+T24	expression_CIM 2946 2975	cancer de l'ovaire et du sein
+T25	topographie 2958 2964	ovaire
+T26	topographie 2971 2975	sein
+T27	morphologie 3168 3174	cancer
+T28	expression_CIM 3168 3186	cancer de l'ovaire
+T29	topographie 3180 3186	ovaire
+T30	morphologie 3529 3535	cancer
+T31	expression_CIM 3529 3543	cancer du sein
+T32	topographie 3539 3543	sein
+T17	morphologie 2076 2129	syndrome du cancer héréditaire du sein et de l'ovaire
+#1	ICD-O T1	8510/3
+#2	ICD-O T2	C73.9 8510/3
+#3	ICD-O T3	C73.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	8700/0
+#7	ICD-O T7	8700/0
+#8	ICD-O T8	8510/3
+#9	ICD-O T9	C73.9 8510/3
+#10	ICD-O T10	C73.9
+#11	ICD-O T11	8000/6
+#12	ICD-O T12	8000/6
+#13	ICD-O T13	8510/3
+#14	ICD-O T14	C73.9 8510/3
+#15	ICD-O T15	C73.9
+#16	ICD-O T18	8010/3
+#17	ICD-O T19	C50.9 8010/3
+#18	ICD-O T20	C50.9
+#19	ICD-O T22	8000/3
+#20	ICD-O T23	8000/3
+#21	ICD-O T25	C56.9
+#22	ICD-O T26	C50.9
+#23	ICD-O T27	8000/3
+#24	ICD-O T28	C56.9 8000/3
+#25	ICD-O T29	C56.9
+#26	ICD-O T30	8000/3
+#27	ICD-O T32	C50.9
+#28	ICD-O T17	8000/3

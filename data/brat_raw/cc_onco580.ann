@@ -1,0 +1,179 @@
+T1	morphologie 395 406	adénopathie
+T2	expression_CIM 395 436	adénopathie cervicale ou sus-claviculaire
+T3	topographie 407 416	cervicale
+T4	topographie 420 436	sus-claviculaire
+T5	morphologie 947 954	nodules
+T6	expression_CIM 947 1011	nodules dans les plèvres pariétale, viscérale et diaphragmatique
+T7	topographie 964 1011	plèvres pariétale, viscérale et diaphragmatique
+T8	expression_CIM 1063 1090	adénocarcinome métastatique
+T9	morphologie 1063 1090	adénocarcinome métastatique
+T10	morphologie 1283 1293	métastases
+T11	expression_CIM 1283 1303	métastases pleurales
+T12	topographie 1294 1303	pleurales
+T13	morphologie 1317 1331	adénocarcinome
+T14	expression_CIM 1317 1342	adénocarcinome pulmonaire
+T15	topographie 1332 1342	pulmonaire
+T16	morphologie 1359 1373	adénocarcinome
+T17	expression_CIM 1359 1384	adénocarcinome pulmonaire
+T18	topographie 1374 1384	pulmonaire
+T19	morphologie 1714 1725	Progression
+T20	expression_CIM 1714 1757	Progression après 10 mois au niveau pleural
+T21	topographie 1750 1757	pleural
+T22	morphologie 1774 1786	adénopathies
+T23	expression_CIM 1774 1804	adénopathies rétropéritonéales
+T24	topographie 1787 1804	rétropéritonéales
+T25	expression_CIM 1889 1914	progression de la maladie
+T26	morphologie 1889 1914	progression de la maladie
+T27	expression_CIM 2170 2195	Progression de la maladie
+T28	morphologie 2170 2195	Progression de la maladie
+T29	morphologie 2673 2685	adénopathies
+T30	expression_CIM 2673 2694	adénopathies hilaires
+T31	topographie 2686 2694	hilaires
+T32	expression_CIM 2770 2797	stabilisation de la maladie
+T33	morphologie 2770 2797	stabilisation de la maladie
+T34	expression_CIM 3076 3087	adénopathie
+T35	morphologie 3076 3087	adénopathie
+T36	expression_CIM 3126 3158	carcinome non à petites cellules
+T37	morphologie 3126 3158	carcinome non à petites cellules
+T38	morphologie 3329 3341	adénopathies
+T39	expression_CIM 3329 3350	adénopathies hilaires
+T40	topographie 3342 3350	hilaires
+T41	morphologie 3362 3371	métastase
+T42	expression_CIM 3362 3393	métastase dans la plèvre basale
+T43	topographie 3380 3393	plèvre basale
+T44	morphologie 3431 3436	masse
+T45	expression_CIM 3431 3465	masse dans l'angle cardiophrénique
+T46	topographie 3444 3465	angle cardiophrénique
+T47	expression_CIM 3486 3495	métastase
+T48	morphologie 3486 3495	métastase
+T49	expression_CIM 3539 3544	masse
+T50	morphologie 3539 3544	masse
+T51	morphologie 3597 3604	maladie
+T52	expression_CIM 3597 3630	maladie pleurale et ganglionnaire
+T53	topographie 3605 3613	pleurale
+T54	topographie 3617 3630	ganglionnaire
+T55	expression_CIM 3750 3778	Carcinome à petites cellules
+T56	morphologie 3750 3778	Carcinome à petites cellules
+T57	expression_CIM 3902 3930	carcinome à petites cellules
+T58	morphologie 3902 3930	carcinome à petites cellules
+T59	expression_CIM 4044 4058	adénocarcinome
+T60	morphologie 4044 4058	adénocarcinome
+T61	morphologie 4190 4195	masse
+T62	expression_CIM 4190 4226	masse située au niveau de la lingula
+T63	topographie 4219 4226	lingula
+T64	morphologie 4257 4269	adénopathies
+T65	expression_CIM 4257 4278	adénopathies hilaires
+T66	topographie 4270 4278	hilaires
+T67	morphologie 4366 4374	atteinte
+T68	expression_CIM 4366 4381	atteinte du SNC
+T69	topographie 4378 4381	SNC
+T70	expression_CIM 4668 4682	lésion lytique
+T71	morphologie 4668 4682	lésion lytique
+T72	expression_CIM 4781 4790	métastase
+T73	morphologie 4781 4790	métastase
+T74	expression_CIM 4816 4823	myélome
+T75	morphologie 4816 4823	myélome
+T76	expression_CIM 4925 4939	adénocarcinome
+T77	morphologie 4925 4939	adénocarcinome
+T78	morphologie 5190 5215	Progression de la maladie
+T79	expression_CIM 5190 5224	Progression de la maladie pleurale
+T80	topographie 5216 5224	pleurale
+T81	morphologie 5335 5360	progression de la maladie
+T82	expression_CIM 5335 5395	progression de la maladie au niveau pleural et ganglionnaire
+T83	topographie 5371 5378	pleural
+T84	topographie 5382 5395	ganglionnaire
+T85	morphologie 5416 5423	nodules
+T86	expression_CIM 5416 5435	nodules pulmonaires
+T87	topographie 5424 5435	pulmonaires
+T88	morphologie 5542 5553	progression
+T89	expression_CIM 5542 5583	progression au niveau du SNC et du thorax
+T90	topographie 5567 5570	SNC
+T91	topographie 5577 5583	thorax
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C38.4 8000/1
+#7	ICD-O T7	C38.4
+#8	ICD-O T8	8140/6
+#9	ICD-O T9	8140/6
+#10	ICD-O T10	8000/6
+#11	ICD-O T12	C38.4
+#12	ICD-O T13	8140/3
+#13	ICD-O T14	C34.9 8140/3
+#14	ICD-O T15	C34.9
+#15	ICD-O T16	8140/3
+#16	ICD-O T17	C34.9 8140/3
+#17	ICD-O T18	C34.9
+#18	ICD-O T19	8000/6
+#19	ICD-O T20	C38.4 8000/6
+#20	ICD-O T21	C38.4
+#21	ICD-O T22	8000/1
+#22	ICD-O T23	C77.2 8000/1
+#23	ICD-O T24	C48.0
+#24	ICD-O T25	8000/1
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	8000/1
+#27	ICD-O T28	8000/1
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	C77.1 8000/1
+#30	ICD-O T31	C76.1
+#31	ICD-O T32	8000/6
+#32	ICD-O T33	8000/6
+#33	ICD-O T34	C77.9 8000/1
+#34	ICD-O T35	8000/1
+#35	ICD-O T36	8046/3
+#36	ICD-O T37	8046/3
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	C77.1 8000/1
+#39	ICD-O T40	C76.1
+#40	ICD-O T41	8000/6
+#41	ICD-O T43	C38.4
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	C76.1 8000/1
+#44	ICD-O T46	C76.1
+#45	ICD-O T47	8000/6
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	8000/1
+#48	ICD-O T50	8000/1
+#49	ICD-O T51	8000/6
+#50	ICD-O T52	C38.4 8000/6;C77.9 8000/6
+#51	ICD-O T53	C38.4
+#52	ICD-O T54	C77.9
+#53	ICD-O T55	8041/3
+#54	ICD-O T56	8041/3
+#55	ICD-O T57	8041/3
+#56	ICD-O T58	8041/3
+#57	ICD-O T59	8140/3
+#58	ICD-O T60	8140/3
+#59	ICD-O T61	8000/1
+#60	ICD-O T62	C34.1 8000/1
+#61	ICD-O T63	C34.1
+#62	ICD-O T64	8000/1
+#63	ICD-O T65	C77.1 8000/1
+#64	ICD-O T66	C76.1
+#65	ICD-O T67	8000/1
+#66	ICD-O T68	C72.9 8000/1
+#67	ICD-O T69	C72.9
+#68	ICD-O T71	tocheck
+#69	ICD-O T72	8000/6
+#70	ICD-O T73	8000/6
+#71	ICD-O T74	9732/3
+#72	ICD-O T75	9732/3
+#73	ICD-O T76	8140/3
+#74	ICD-O T77	8140/3
+#75	ICD-O T78	8000/1
+#76	ICD-O T79	C38.4 8000/1
+#77	ICD-O T80	C38.4
+#78	ICD-O T81	8000/1
+#79	ICD-O T82	C38.4 8000/1;C77.9 8000/1
+#80	ICD-O T83	C38.4
+#81	ICD-O T84	C77.9
+#82	ICD-O T85	8000/1
+#83	ICD-O T86	C34.9 8000/1
+#84	ICD-O T87	C34.9
+#85	ICD-O T88	8000/6
+#86	ICD-O T89	C72.9 8000/6;C76.1 8000/6
+#87	ICD-O T90	C72.9
+#88	ICD-O T91	C76.1

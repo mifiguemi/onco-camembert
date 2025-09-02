@@ -1,0 +1,24 @@
+T1	morphologie 442 458	myofibroblastome
+T3	topographie 462 466	sein
+T4	morphologie 554 568	adénocarcinome
+T6	topographie 569 579	bronchique
+T8	morphologie 591 596	masse
+T9	morphologie 610 622	infiltration
+T11	topographie 623 635	œsophagienne
+T12	topographie 637 647	vasculaire
+T13	topographie 664 673	trachéale
+T14	morphologie 680 691	adénopathie
+T16	topographie 692 705	para-aortique
+T17	topographie 718 731	paratrachéale
+T18	morphologie 798 804	cancer
+T20	topographie 808 814	poumon
+T21	morphologie 946 952	tumeur
+T23	topographie 1011 1018	trachée
+T24	topographie 1035 1053	bronche principale
+T25	morphologie 2984 2989	masse
+T27	topographie 2990 2997	hilaire
+T28	morphologie 3049 3057	atteinte
+T30	topographie 3064 3070	carène
+T31	morphologie 3420 3437	invasion tumorale
+T33	topographie 3444 3462	bronche principale
+T35	morphologie 4432 4448	matériel tumoral

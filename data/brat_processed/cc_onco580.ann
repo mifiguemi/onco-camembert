@@ -1,0 +1,57 @@
+T1	morphologie 395 406	adénopathie
+T3	topographie 407 416	cervicale
+T4	topographie 420 436	sus-claviculaire
+T5	morphologie 947 954	nodules
+T7	topographie 964 1011	plèvres pariétale, viscérale et diaphragmatique
+T9	morphologie 1063 1090	adénocarcinome métastatique
+T10	morphologie 1283 1293	métastases
+T12	topographie 1294 1303	pleurales
+T13	morphologie 1317 1331	adénocarcinome
+T15	topographie 1332 1342	pulmonaire
+T16	morphologie 1359 1373	adénocarcinome
+T18	topographie 1374 1384	pulmonaire
+T19	morphologie 1714 1725	Progression
+T21	topographie 1750 1757	pleural
+T22	morphologie 1774 1786	adénopathies
+T24	topographie 1787 1804	rétropéritonéales
+T26	morphologie 1889 1914	progression de la maladie
+T28	morphologie 2170 2195	Progression de la maladie
+T29	morphologie 2673 2685	adénopathies
+T31	topographie 2686 2694	hilaires
+T33	morphologie 2770 2797	stabilisation de la maladie
+T35	morphologie 3076 3087	adénopathie
+T37	morphologie 3126 3158	carcinome non à petites cellules
+T38	morphologie 3329 3341	adénopathies
+T40	topographie 3342 3350	hilaires
+T41	morphologie 3362 3371	métastase
+T43	topographie 3380 3393	plèvre basale
+T44	morphologie 3431 3436	masse
+T46	topographie 3444 3465	angle cardiophrénique
+T48	morphologie 3486 3495	métastase
+T50	morphologie 3539 3544	masse
+T51	morphologie 3597 3604	maladie
+T53	topographie 3605 3613	pleurale
+T54	topographie 3617 3630	ganglionnaire
+T56	morphologie 3750 3778	Carcinome à petites cellules
+T58	morphologie 3902 3930	carcinome à petites cellules
+T60	morphologie 4044 4058	adénocarcinome
+T61	morphologie 4190 4195	masse
+T63	topographie 4219 4226	lingula
+T64	morphologie 4257 4269	adénopathies
+T66	topographie 4270 4278	hilaires
+T67	morphologie 4366 4374	atteinte
+T69	topographie 4378 4381	SNC
+T71	morphologie 4668 4682	lésion lytique
+T73	morphologie 4781 4790	métastase
+T75	morphologie 4816 4823	myélome
+T77	morphologie 4925 4939	adénocarcinome
+T78	morphologie 5190 5215	Progression de la maladie
+T80	topographie 5216 5224	pleurale
+T81	morphologie 5335 5360	progression de la maladie
+T83	topographie 5371 5378	pleural
+T84	topographie 5382 5395	ganglionnaire
+T85	morphologie 5416 5423	nodules
+T87	topographie 5424 5435	pulmonaires
+T88	morphologie 5542 5553	progression
+T90	topographie 5567 5570	SNC
+T91	topographie 5577 5583	thorax

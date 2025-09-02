@@ -1,0 +1,80 @@
+T89	topographie 4238 4265	adjacente à la veine rénale
+T1	morphologie 240 246	Cancer
+T3	topographie 250 265	col de l'utérus
+T4	morphologie 508 514	tumeur
+T6	topographie 523 526	dos
+T8	morphologie 585 591	lipome
+T9	morphologie 771 780	carcinome
+T11	differenciation 781 796	peu différencié
+T13	morphologie 949 955	lésion
+T14	morphologie 1075 1081	Tumeur
+T16	topographie 1101 1104	dos
+T17	morphologie 1381 1407	Formation hypermétabolique
+T21	morphologie 1540 1548	invasion
+T22	morphologie 1656 1673	activité tumorale
+T24	differenciation 1704 1727	haut grade histologique
+T25	differenciation 1742 1756	indifférenciée
+T26	morphologie 1761 1772	Adénopathie
+T28	topographie 1773 1782	axillaire
+T30	morphologie 1867 1876	métastase
+T31	morphologie 1883 1889	lésion
+T33	topographie 1890 1900	scapulaire
+T34	morphologie 1904 1927	Nodule hypermétabolique
+T36	topographie 1942 1954	fosse rénale
+T38	morphologie 1976 1985	métastase
+T39	morphologie 1995 2018	nodule hypermétabolique
+T41	topographie 2027 2037	hile rénal
+T42	morphologie 2067 2076	métastase
+T44	topographie 2077 2090	ganglionnaire
+T45	morphologie 2097 2103	lésion
+T47	topographie 2104 2114	pararénale
+T49	morphologie 2246 2255	métastase
+T50	morphologie 2263 2271	fibromes
+T52	topographie 2272 2281	mammaires
+T53	morphologie 2456 2479	lésion hypermétabolique
+T55	topographie 2480 2489	hépatique
+T56	topographie 2493 2503	pulmonaire
+T58	morphologie 2583 2593	métastases
+T59	morphologie 2607 2613	cancer
+T61	differenciation 2614 2627	indifférencié
+T62	topographie 2628 2635	pelvien
+T64	morphologie 2761 2769	primitif
+T65	morphologie 2888 2922	foyer d'hyperabsorption du traceur
+T69	morphologie 3042 3051	néoplasie
+T70	morphologie 3151 3167	lésion nodulaire
+T72	topographie 3213 3225	fosse rénale
+T74	morphologie 3349 3368	maladie néoplasique
+T75	morphologie 3383 3389	tumeur
+T77	topographie 3390 3397	cutanée
+T79	morphologie 3693 3717	infiltration néoplasique
+T84	morphologie 4101 4123	rehaussement nodulaire
+T86	morphologie 4180 4189	métastase
+T87	morphologie 4217 4228	Adénopathie
+T91	morphologie 4283 4290	lésions
+T92	morphologie 4357 4363	kystes
+T94	topographie 4364 4374	hépatiques
+T96	morphologie 4742 4751	métastase
+T98	morphologie 4757 4781	carcinome neuroendocrine
+T99	morphologie 5104 5110	lésion
+T101	topographie 5111 5118	cutanée
+T102	topographie 5122 5125	dos
+T103	morphologie 5160 5165	masse
+T105	topographie 5166 5182	rétropéritonéale
+T106	morphologie 5200 5221	tumeur neuroendocrine
+T108	topographie 5222 5229	cutanée
+T110	morphologie 5233 5241	stade IV
+T111	morphologie 5588 5594	lésion
+T113	topographie 5595 5602	cutanée
+T114	morphologie 5631 5665	zone d'augmentation du métabolisme
+T116	topographie 5701 5718	région scapulaire
+T117	morphologie 5842 5848	lésion
+T119	topographie 5872 5880	omoplate
+T120	morphologie 5963 5970	lésions
+T122	topographie 5971 5981	axillaires
+T124	topographie 6024 6036	fosse rénale
+T126	morphologie 6172 6227	lésion hypermétabolique suggérant une atteinte tumorale
+T67	topographie 2944 3016	cutanée-sous-cutanée située dans les tissus mous de la région scapulaire
+T80	morphologie 3879 3903	formation multinodulaire
+T123	topographie 6003 6007	hile
+T82	topographie 3947 3970	région rétropéritonéale
+T19	topographie 1423 1469	région scapulaire gauche, cutanée-sous-cutanée

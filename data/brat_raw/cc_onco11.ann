@@ -1,0 +1,286 @@
+T1	morphologie 439 444	masse
+T2	expression_CIM 439 478	masse pulmonaire dans le lobe inférieur
+T3	topographie 445 455	pulmonaire
+T4	topographie 464 478	lobe inférieur
+T5	morphologie 1736 1741	Masse
+T6	expression_CIM 1736 1759	Masse du lobe inférieur
+T7	topographie 1745 1759	lobe inférieur
+T8	morphologie 1771 1780	extension
+T9	expression_CIM 1771 1794	extension au lobe moyen
+T10	topographie 1784 1794	lobe moyen
+T11	morphologie 1903 1910	nodules
+T12	expression_CIM 1903 1944	nodules satellites dans le lobe inférieur
+T13	topographie 1930 1944	lobe inférieur
+T14	expression_CIM 2024 2029	masse
+T15	morphologie 2024 2029	masse
+T16	morphologie 2188 2193	Masse
+T17	expression_CIM 2188 2243	Masse dans le segment apicopostérieur du lobe supérieur
+T19	morphologie 2305 2311	Nodule
+T20	expression_CIM 2305 2339	Nodule satellite dans le même lobe
+T22	morphologie 2356 2368	Adénopathies
+T23	expression_CIM 2356 2423	Adénopathies kystiques-nécrotiques sous-aortiques et para-aortiques
+T24	topographie 2391 2405	sous-aortiques
+T25	topographie 2409 2423	para-aortiques
+T26	morphologie 2458 2470	adénopathies
+T27	expression_CIM 2458 2556	adénopathies suspectes de malignité au niveau rétropéritonéal et dans le ligament gastro-hépatique
+T28	topographie 2504 2519	rétropéritonéal
+T29	topographie 2531 2556	ligament gastro-hépatique
+T30	expression_CIM 2571 2601	lésions suspectes de malignité
+T31	morphologie 2571 2601	lésions suspectes de malignité
+T32	morphologie 2628 2635;2649 2657	Lésions malignes
+T33	expression_CIM 2628 2657	Lésions métaboliques malignes
+T34	morphologie 2674 2679	masse
+T35	expression_CIM 2674 2694	masse dans le poumon
+T36	topographie 2688 2694	poumon
+T37	morphologie 2795 2800	masse
+T38	expression_CIM 2795 2823	masse dans le lobe inférieur
+T39	topographie 2809 2823	lobe inférieur
+T40	expression_CIM 2834 2840	nodule
+T41	morphologie 2834 2840	nodule
+T42	morphologie 2851 2859	Implants
+T43	expression_CIM 2851 2871	Implants pulmonaires
+T44	topographie 2860 2871	pulmonaires
+T45	morphologie 2920 2926	Lésion
+T46	expression_CIM 2920 2966	Lésion hypercapillaire dans le sinus piriforme
+T47	topographie 2951 2966	sinus piriforme
+T48	morphologie 2975 2981	Lésion
+T49	expression_CIM 2975 3016	Lésion hypermétabolique dans l'oreillette
+T50	topographie 3006 3016	oreillette
+T51	expression_CIM 3064 3073	métastase
+T52	morphologie 3064 3073	métastase
+T53	morphologie 3142 3147	Masse
+T54	expression_CIM 3142 3204	Masse hétérogène mesurant 44x23cm dans le toit de l'oreillette
+T55	topographie 3194 3204	oreillette
+T56	morphologie 3443 3450	Angiome
+T57	expression_CIM 3443 3466	Angiome veineux frontal
+T59	expression_CIM 3526 3590	lésions d'occupation de l'espace (LOE) évocatrices de métastases
+T60	morphologie 3526 3590	lésions d'occupation de l'espace (LOE) évocatrices de métastases
+T61	morphologie 3626 3632	lésion
+T62	expression_CIM 3626 3650	lésion du lobe inférieur
+T63	topographie 3636 3650	lobe inférieur
+T64	expression_CIM 3658 3683	Prolifération néoplasique
+T65	morphologie 3658 3683	Prolifération néoplasique
+T66	expression_CIM 4058 4067	néoplasme
+T67	morphologie 4058 4067	néoplasme
+T68	expression_CIM 4172 4184	mésothéliome
+T69	morphologie 4172 4184	mésothéliome
+T70	expression_CIM 4198 4205	sarcome
+T71	morphologie 4198 4205	sarcome
+T72	expression_CIM 4222 4244	carcinome sarcomatoïde
+T73	morphologie 4222 4244	carcinome sarcomatoïde
+T74	morphologie 4258 4264	lésion
+T75	expression_CIM 4258 4282	lésion du lobe supérieur
+T76	topographie 4268 4282	lobe supérieur
+T77	expression_CIM 4314 4327	Prolifération
+T78	morphologie 4314 4327	Prolifération
+T79	expression_CIM 4400 4419	stroma sarcomatoïde
+T81	expression_CIM 4424 4438	carcinosarcome
+T82	morphologie 4424 4438	carcinosarcome
+T83	expression_CIM 4445 4485	carcinome épidermoïde à cellules claires
+T84	morphologie 4445 4485	carcinome épidermoïde à cellules claires
+T85	expression_CIM 4643 4649	tumeur
+T86	morphologie 4643 4649	tumeur
+T87	expression_CIM 4671 4689	cellules tumorales
+T88	morphologie 4671 4689	cellules tumorales
+T89	morphologie 4732 4737	masse
+T90	expression_CIM 4732 4746	masse pleurale
+T91	topographie 4738 4746	pleurale
+T92	morphologie 4810 4822	Infiltration
+T93	expression_CIM 4810 4831	Infiltration pleurale
+T94	topographie 4823 4831	pleurale
+T95	expression_CIM 4840 4860	néoformation maligne
+T96	morphologie 4840 4860	néoformation maligne
+T97	expression_CIM 5211 5225	carcinosarcome
+T98	morphologie 5211 5225	carcinosarcome
+T99	morphologie 5301 5315	Carcinosarcome
+T100	expression_CIM 5301 5326	Carcinosarcome pulmonaire
+T101	topographie 5316 5326	pulmonaire
+T102	morphologie 5330 5338	stade IV
+T103	expression_CIM 5330 5385	stade IV (poumon, ganglions lymphatiques et oreillettes
+T104	topographie 5340 5346	poumon
+T105	topographie 5348 5370	ganglions lymphatiques
+T106	topographie 5374 5385	oreillettes
+T107	morphologie 5413 5418	Masse
+T108	expression_CIM 5413 5436	Masse du lobe supérieur
+T109	topographie 5422 5436	lobe supérieur
+T110	morphologie 5469 5474	Masse
+T111	expression_CIM 5469 5492	Masse du lobe inférieur
+T112	topographie 5478 5492	lobe inférieur
+T113	morphologie 6070 6076	tumeur
+T114	expression_CIM 6070 6091	tumeur indifférenciée
+T115	differenciation 6077 6091	indifférenciée
+T116	morphologie 6272 6278	lésion
+T117	expression_CIM 6272 6296	lésion du lobe supérieur
+T118	topographie 6282 6296	lobe supérieur
+T119	morphologie 6752 6774	foyer hypermétabolique
+T120	expression_CIM 6752 6798	foyer hypermétabolique dans le sinus piriforme
+T121	topographie 6783 6798	sinus piriforme
+T122	expression_CIM 6837 6853	tumeur primitive
+T123	morphologie 6837 6853	tumeur primitive
+T124	morphologie 6906 6911	masse
+T125	expression_CIM 6906 6945	masse pulmonaire dans le lobe supérieur
+T126	topographie 6912 6922	pulmonaire
+T127	topographie 6931 6945	lobe supérieur
+T128	expression_CIM 7104 7110	lésion
+T129	morphologie 7104 7110	lésion
+T130	expression_CIM 7147 7152	foyer
+T131	morphologie 7147 7152	foyer
+T132	morphologie 7588 7593	masse
+T133	expression_CIM 7588 7604	masse pulmonaire
+T134	topographie 7594 7604	pulmonaire
+T135	expression_CIM 7613 7618	masse
+T136	morphologie 7613 7618	masse
+T137	expression_CIM 7661 7667	tumeur
+T138	morphologie 7661 7667	tumeur
+T139	morphologie 7937 7943	masses
+T140	expression_CIM 7937 7955	masses pulmonaires
+T141	topographie 7944 7955	pulmonaires
+T142	morphologie 8385 8410	progression de la maladie
+T143	expression_CIM 8385 8442	progression de la maladie dans le système nerveux central
+T144	topographie 8419 8442	système nerveux central
+T145	morphologie 8467 8476	métastase
+T146	expression_CIM 8467 8486	métastase pariétale
+T147	topographie 8477 8486	pariétale
+T21	topographie 2330 2339	même lobe
+T80	morphologie 4400 4419	stroma sarcomatoïde
+T18	topographie 2202 2243	segment apicopostérieur du lobe supérieur
+T58	topographie 3451 3466	veineux frontal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.3 8000/1;C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	C34.3
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C34.3 8000/1
+#7	ICD-O T7	C34.3
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	C34.2 8000/6
+#10	ICD-O T10	C34.2
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C34.3 8000/1
+#13	ICD-O T13	C34.3
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	C77.1 8000/1
+#20	ICD-O T24	C76.1
+#21	ICD-O T25	C49.4
+#22	ICD-O T26	8000/1
+#23	ICD-O T27	C77.2 8000/1
+#24	ICD-O T28	C48.0
+#25	ICD-O T29	C49.4
+#26	ICD-O T31	8000/1
+#27	ICD-O T32	8000/3
+#28	ICD-O T33	8000/3
+#29	ICD-O T34	8000/1
+#30	ICD-O T35	C34.9 8000/1
+#31	ICD-O T36	C34.9
+#32	ICD-O T37	8000/1
+#33	ICD-O T38	C34.3 8000/1
+#34	ICD-O T39	C34.3
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	8000/1
+#37	ICD-O T42	8000/6
+#38	ICD-O T43	C34.9 8000/6
+#39	ICD-O T44	C34.9
+#40	ICD-O T45	8000/1
+#41	ICD-O T46	C12.9 8000/1
+#42	ICD-O T47	C12.9
+#43	ICD-O T48	8000/1
+#44	ICD-O T49	C38.0 8000/1
+#45	ICD-O T50	C38.0
+#46	ICD-O T51	8000/6
+#47	ICD-O T52	8000/6
+#48	ICD-O T53	8000/1
+#49	ICD-O T54	C38.0 8000/1
+#50	ICD-O T55	C38.0
+#51	ICD-O T56	9120/0
+#52	ICD-O T57	C49.9 9120/0;C71.1 9120/0
+#53	ICD-O T60	8000/6
+#54	ICD-O T61	8000/1
+#55	ICD-O T62	C34.3 8000/1
+#56	ICD-O T63	C34.3
+#57	ICD-O T64	8000/3
+#58	ICD-O T65	8000/3
+#59	ICD-O T66	8000/1
+#60	ICD-O T67	8000/3
+#61	ICD-O T68	9050/3
+#62	ICD-O T69	9050/3
+#63	ICD-O T70	8800/3
+#64	ICD-O T71	8800/3
+#65	ICD-O T72	8033/3
+#66	ICD-O T73	8033/3
+#67	ICD-O T74	8000/1
+#68	ICD-O T75	C34.1 8000/1
+#69	ICD-O T76	C34.1
+#70	ICD-O T77	8000/1
+#71	ICD-O T78	8000/1
+#72	ICD-O T81	8980/3
+#73	ICD-O T82	8980/3
+#74	ICD-O T83	8084/3
+#75	ICD-O T84	8070/3
+#76	ICD-O T85	8000/1
+#77	ICD-O T86	8000/3
+#78	ICD-O T87	8001/1
+#79	ICD-O T88	8001/3
+#80	ICD-O T89	8000/1
+#81	ICD-O T90	C38.4 8000/1
+#82	ICD-O T91	C38.4
+#83	ICD-O T92	8000/9
+#84	ICD-O T93	C38.4 8000/1
+#85	ICD-O T94	C38.4
+#86	ICD-O T95	8000/3
+#87	ICD-O T96	8000/3
+#88	ICD-O T97	8980/3
+#89	ICD-O T98	8980/3
+#90	ICD-O T99	8980/3
+#91	ICD-O T100	C34.9 8980/3
+#92	ICD-O T101	C34.9
+#93	ICD-O T102	8000/6
+#94	ICD-O T103	C34.9 8000/6;C38.0 8000/6;C77.9 8000/6
+#95	ICD-O T104	C34.9
+#96	ICD-O T105	C77.9
+#97	ICD-O T106	C38.0
+#98	ICD-O T107	8000/1
+#99	ICD-O T108	C34.1 8000/1
+#100	ICD-O T109	C34.1
+#101	ICD-O T110	8000/1
+#102	ICD-O T111	C34.3 8000/1
+#103	ICD-O T112	C34.3
+#104	ICD-O T113	8000/3
+#105	ICD-O T114	8000/14
+#106	ICD-O T115	4
+#107	ICD-O T116	8000/1
+#108	ICD-O T117	C34.1 8000/1
+#109	ICD-O T118	C34.1
+#110	ICD-O T119	8000/9
+#111	ICD-O T120	C12.9 8000/1
+#112	ICD-O T121	C12.9
+#113	ICD-O T122	8000/3
+#114	ICD-O T123	8000/3
+#115	ICD-O T124	8000/1
+#116	ICD-O T125	C34.1 8000/1;C34.9 8000/1
+#117	ICD-O T126	C34.9
+#118	ICD-O T127	C34.1
+#119	ICD-O T128	8000/1
+#120	ICD-O T129	8000/1
+#121	ICD-O T130	8000/1
+#122	ICD-O T131	8000/1
+#123	ICD-O T132	8000/1
+#124	ICD-O T133	C34.9 8000/1
+#125	ICD-O T134	C34.9
+#126	ICD-O T135	8000/1
+#127	ICD-O T136	8000/1
+#128	ICD-O T137	8000/1
+#129	ICD-O T138	8000/3
+#130	ICD-O T139	8000/1
+#131	ICD-O T140	C34.9 8000/1
+#132	ICD-O T141	C34.9
+#133	ICD-O T142	8000/9
+#134	ICD-O T143	C72.9 8000/1
+#135	ICD-O T144	C72.9
+#136	ICD-O T145	8000/6
+#137	ICD-O T146	C71.3 8000/6
+#138	ICD-O T147	C71.3
+#139	ICD-O T80	tocheck

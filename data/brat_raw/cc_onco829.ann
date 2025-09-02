@@ -1,0 +1,172 @@
+T28	topographie 1397 1431	creux pleuropéricardique antérieur
+T37	topographie 1591 1605	interaortocave
+T36	topographie 1580 1589	rétrocave
+T1	morphologie 643 655	Adénopathies
+T2	expression_CIM 643 666	Adénopathies cervicales
+T3	topographie 656 666	cervicales
+T4	morphologie 692 704	adénopathies
+T5	expression_CIM 692 715	adénopathies axillaires
+T6	topographie 705 715	axillaires
+T7	expression_CIM 834 839	masse
+T8	morphologie 834 839	masse
+T9	morphologie 945 950	masse
+T10	expression_CIM 945 963	masse médiastinale
+T11	topographie 951 963	médiastinale
+T12	morphologie 1071 1098	conglomérats adénopathiques
+T13	expression_CIM 1071 1295	conglomérats adénopathiques supradiaphragmatiques (cervicaux bilatéraux jusqu'à 30 mm, rétropectoraux, paratrachéaux, chaîne mammaire interne bilatérale, hilaires et parahilaires bilatéraux, sous-carénaux et para-œsophagiens
+T14	topographie 1099 1120	supradiaphragmatiques
+T15	topographie 1122 1131	cervicaux
+T16	topographie 1158 1172	rétropectoraux
+T17	topographie 1174 1187	paratrachéaux
+T18	topographie 1189 1212	chaîne mammaire interne
+T19	topographie 1225 1233	hilaires
+T20	topographie 1237 1249	parahilaires
+T21	topographie 1262 1275	sous-carénaux
+T22	topographie 1279 1295	para-œsophagiens
+T23	morphologie 1312 1317	masse
+T24	expression_CIM 1312 1330	masse médiastinale
+T25	topographie 1318 1330	médiastinale
+T26	morphologie 1358 1370	adénopathies
+T27	expression_CIM 1358 1431	adénopathies hypermétaboliques dans le creux pleuropéricardique antérieur
+T29	topographie 1479 1483	rate
+T30	expression_CIM 1479 1500	rate hypermétabolique
+T31	morphologie 1484 1500	hypermétabolique
+T32	morphologie 1513 1539	conglomérat d'adénopathies
+T33	expression_CIM 1513 1622	conglomérat d'adénopathies gastro-hépatiques et un hile splénique, rétrocave, interaortocave, rétropéritonéal
+T34	topographie 1540 1557	gastro-hépatiques
+T35	topographie 1564 1578	hile splénique
+T38	topographie 1607 1622	rétropéritonéal
+T39	morphologie 1630 1635	masse
+T40	expression_CIM 1630 1654	masse dans le hile rénal
+T41	topographie 1644 1654	hile rénal
+T42	morphologie 1787 1798	adénopathie
+T43	expression_CIM 1787 1808	adénopathie axillaire
+T44	topographie 1799 1808	axillaire
+T45	expression_CIM 1845 1856	adénopathie
+T46	morphologie 1845 1856	adénopathie
+T47	expression_CIM 2215 2254	lymphome de Hodgkin, sclérose nodulaire
+T48	morphologie 2215 2254	lymphome de Hodgkin, sclérose nodulaire
+T49	expression_CIM 2308 2320	infiltration
+T50	morphologie 2308 2320	infiltration
+T51	expression_CIM 2429 2469	lymphome de Hodgkin à sclérose nodulaire
+T52	morphologie 2429 2469	lymphome de Hodgkin à sclérose nodulaire
+T53	morphologie 2876 2888	adénopathies
+T54	expression_CIM 2876 2915	adénopathies suprainfradiaphragmatiques
+T55	topographie 2889 2915	suprainfradiaphragmatiques
+T56	morphologie 2921 2929	atteinte
+T57	expression_CIM 2921 2939	atteinte splénique
+T58	topographie 2930 2939	splénique
+T59	morphologie 2951 2957	masses
+T60	expression_CIM 2951 2971	masses médiastinales
+T61	topographie 2958 2971	médiastinales
+T62	morphologie 2973 2979	masses
+T63	expression_CIM 2973 3024	masses axillaires gauches et dans le hile hépatique
+T64	topographie 2980 2990	axillaires
+T65	topographie 3010 3024	hile hépatique
+T66	morphologie 3061 3067	nodule
+T67	expression_CIM 3061 3082	nodule sous-occipital
+T68	topographie 3068 3082	sous-occipital
+T69	expression_CIM 3117 3125	lymphome
+T70	morphologie 3117 3125	lymphome
+T71	morphologie 3474 3485	progression
+T72	expression_CIM 3474 3515	progression supra et infradiaphragmatique
+T73	topographie 3486 3515	supra et infradiaphragmatique
+T74	morphologie 3521 3529	atteinte
+T75	expression_CIM 3521 3539	atteinte splénique
+T76	topographie 3530 3539	splénique
+T77	morphologie 3609 3620	adénopathie
+T78	expression_CIM 3609 3630	adénopathie cervicale
+T79	topographie 3621 3630	cervicale
+T80	morphologie 4077 4088	progression
+T81	expression_CIM 4077 4112	progression pulmonaire et splénique
+T82	topographie 4089 4099	pulmonaire
+T83	topographie 4103 4112	splénique
+T84	morphologie 4233 4245	infiltration
+T85	expression_CIM 4233 4266	infiltration de la moelle osseuse
+T86	topographie 4252 4266	moelle osseuse
+T87	morphologie 4776 4787	progression
+T88	expression_CIM 4776 4827	progression évidente supra- et infradiaphragmatique
+T89	topographie 4797 4827	supra- et infradiaphragmatique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C77.3 8000/1
+#6	ICD-O T6	C76.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C38.3 8000/1
+#11	ICD-O T11	C38.3
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C77.0 8000/1;C77.1 8000/1
+#14	ICD-O T14	C76.1
+#15	ICD-O T15	C76.0
+#16	ICD-O T16	C76.1
+#17	ICD-O T17	C76.1
+#18	ICD-O T18	C77.1
+#19	ICD-O T19	C76.1
+#20	ICD-O T20	C76.1
+#21	ICD-O T21	C76.1
+#22	ICD-O T22	C76.1
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	C38.3 8000/1
+#25	ICD-O T25	C38.3
+#26	ICD-O T26	8000/1
+#27	ICD-O T29	C42.2
+#28	ICD-O T31	8000/9
+#29	ICD-O T32	8000/1
+#30	ICD-O T34	C76.2
+#31	ICD-O T35	C42.2
+#32	ICD-O T38	C48.0
+#33	ICD-O T39	8000/1
+#34	ICD-O T40	C64.9 8000/1
+#35	ICD-O T41	C64.9
+#36	ICD-O T42	8000/1
+#37	ICD-O T43	C77.3 8000/1
+#38	ICD-O T44	C76.1
+#39	ICD-O T45	C77.9 8000/1
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	9663/3
+#42	ICD-O T48	9663/3
+#43	ICD-O T49	8000/1
+#44	ICD-O T50	8000/1
+#45	ICD-O T51	8663/3
+#46	ICD-O T52	8663/3
+#47	ICD-O T53	8000/1
+#48	ICD-O T54	C77.1 8000/1;C77.2 8000/1
+#49	ICD-O T55	C76.8
+#50	ICD-O T56	8000/1
+#51	ICD-O T57	C42.2 8000/1
+#52	ICD-O T58	C42.2
+#53	ICD-O T59	8000/1
+#54	ICD-O T60	C38.3 8000/1
+#55	ICD-O T61	C38.3
+#56	ICD-O T62	8000/1
+#57	ICD-O T63	C22.0 8000/1;C76.1 8000/1
+#58	ICD-O T64	C76.1
+#59	ICD-O T65	C22.0
+#60	ICD-O T66	8000/1
+#61	ICD-O T67	C76.0 8000/1
+#62	ICD-O T68	C76.0
+#63	ICD-O T69	9590/3
+#64	ICD-O T70	9590/3
+#65	ICD-O T71	8000/6
+#66	ICD-O T72	C76.8 8000/6
+#67	ICD-O T73	C76.8
+#68	ICD-O T74	8000/1
+#69	ICD-O T75	C42.2 8000/1
+#70	ICD-O T76	C42.2
+#71	ICD-O T77	8000/1
+#72	ICD-O T78	C77.0 8000/1
+#73	ICD-O T79	C76.0
+#74	ICD-O T80	8000/6
+#75	ICD-O T81	C34.9 8000/6;C42.2 8000/6
+#76	ICD-O T82	C34.9
+#77	ICD-O T83	C42.2
+#78	ICD-O T84	8000/1
+#79	ICD-O T85	C42.1 8000/1
+#80	ICD-O T86	C42.1
+#81	ICD-O T87	8000/6
+#82	ICD-O T88	C76.8 8000/6
+#83	ICD-O T89	C76.8

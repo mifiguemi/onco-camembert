@@ -1,0 +1,52 @@
+T18	topographie 1378 1408	jonction du quadrant inférieur
+T1	morphologie 415 424	néoplasie
+T2	expression_CIM 415 433	néoplasie mammaire
+T3	topographie 425 433	mammaire
+T4	morphologie 634 641	nodules
+T5	expression_CIM 634 787	nodules, l'un à la jonction des quadrants inférieurs du sein gauche mesurant 10 x 12 mm et l'autre mesurant 4 x 3 mm à la jonction des quadrants externes
+T8	morphologie 937 943	masses
+T9	expression_CIM 937 1021	masses, dont le plus important, situé à la jonction des quadrants inférieurs du sein
+T11	expression_CIM 1104 1126	suspectes de malignité
+T12	morphologie 1104 1126	suspectes de malignité
+T13	expression_CIM 1208 1226	maladie à distance
+T14	morphologie 1208 1226	maladie à distance
+T15	morphologie 1304 1339	carcinome canalaire infiltrant (CDI
+T16	expression_CIM 1304 1408	carcinome canalaire infiltrant (CDI) de grade histologique (GH) 3 dans la jonction du quadrant inférieur
+T17	differenciation 1344 1369	grade histologique (GH) 3
+T19	morphologie 1737 1740	CDI
+T20	expression_CIM 1737 1745	CDI GH 2
+T21	differenciation 1741 1745	GH 2
+T22	morphologie 1879 1897	CDI multicentrique
+T23	expression_CIM 1879 1905	CDI multicentrique du sein
+T24	topographie 1901 1905	sein
+T25	expression_CIM 2331 2351	cancers héréditaires
+T26	morphologie 2331 2351	cancers héréditaires
+T27	expression_CIM 3333 3356	lésions carcinomateuses
+T28	morphologie 3333 3356	lésions carcinomateuses
+T29	expression_CIM 3879 3897	maladie à distance
+T30	morphologie 3879 3897	maladie à distance
+T7	topographie 769 787	quadrants externes
+T6	topographie 666 694	quadrants inférieurs du sein
+T10	topographie 993 1021	quadrants inférieurs du sein
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C50.9 8000/1
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.8 8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T12	8000/1
+#8	ICD-O T13	8000/6
+#9	ICD-O T14	8000/6
+#10	ICD-O T15	8500/3
+#11	ICD-O T17	3
+#12	ICD-O T19	8500/3
+#13	ICD-O T20	8500/32
+#14	ICD-O T21	2
+#15	ICD-O T22	8500/3
+#16	ICD-O T24	C50.9 
+#17	ICD-O T26	tocheck
+#18	ICD-O T27	8010/3
+#19	ICD-O T28	8010/3
+#20	ICD-O T29	8000/6
+#21	ICD-O T30	8000/6
+#22	AnnotatorNotes T15	trad

@@ -1,0 +1,84 @@
+T1	morphologie 595 601	lésion
+T2	expression_CIM 595 636	lésion au niveau du corps vertébral de L3
+T3	topographie 615 636	corps vertébral de L3
+T4	expression_CIM 730 740	hémangiome
+T5	morphologie 730 740	hémangiome
+T6	morphologie 836 844	récidive
+T7	expression_CIM 836 860	récidive au niveau de L3
+T8	topographie 858 860	L3
+T9	morphologie 1951 1958	lésions
+T10	expression_CIM 1951 1993	lésions ostéolytiques en D12, L2, L3 et S1
+T11	topographie 1976 1979	D12
+T12	topographie 1981 1983	L2
+T13	topographie 1985 1987	L3
+T15	morphologie 2276 2310	lésions lytiques hypermétaboliques
+T16	expression_CIM 2276 2423	lésions lytiques hypermétaboliques à C5, D6, D10, D12, côte droite, clavicule droite, ala sacrée droite, lame iliaque gauche, ischion et acétabulum
+T17	topographie 2313 2315	C5
+T18	topographie 2317 2319	D6
+T19	topographie 2321 2324	D10
+T20	topographie 2326 2329	D12
+T21	topographie 2331 2335	côte
+T22	topographie 2344 2353	clavicule
+T23	topographie 2362 2372	ala sacrée
+T24	topographie 2381 2393	lame iliaque
+T25	topographie 2402 2409	ischion
+T26	topographie 2413 2423	acétabulum
+T27	morphologie 2473 2479	tumeur
+T28	expression_CIM 2473 2503	tumeur vasculaire de bas grade
+T29	topographie 2480 2490	vasculaire
+T30	differenciation 2494 2503	bas grade
+T31	morphologie 2523 2535	angiosarcome
+T32	expression_CIM 2523 2548	angiosarcome de bas grade
+T33	differenciation 2539 2548	bas grade
+T34	expression_CIM 2555 2580	hémangiome multicentrique
+T35	morphologie 2555 2580	hémangiome multicentrique
+T36	morphologie 2594 2606	Angiosarcome
+T37	expression_CIM 2594 2613	Angiosarcome osseux
+T38	topographie 2607 2613	osseux
+T39	expression_CIM 2684 2702	néoplasie primaire
+T40	morphologie 2684 2702	néoplasie primaire
+T41	morphologie 3283 3290	lésions
+T42	expression_CIM 3283 3354	lésions osseuses à prédominance lytique situées dans le squelette axial
+T43	topographie 3291 3299	osseuses
+T45	expression_CIM 3385 3406	lésions métastatiques
+T46	morphologie 3385 3406	lésions métastatiques
+T14	topographie 1991 1993	S1
+T44	topographie 3339 3354	squelette axial
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C41.2
+#3	ICD-O T4	9120/0
+#4	ICD-O T5	9120/0
+#5	ICD-O T6	8000/6
+#6	ICD-O T8	C41.2
+#7	ICD-O T9	8000/1
+#8	ICD-O T11	C41.2
+#9	ICD-O T12	C41.2
+#10	ICD-O T13	C41.2
+#11	ICD-O T15	tocheck
+#12	ICD-O T17	C41.2
+#13	ICD-O T18	C41.2
+#14	ICD-O T19	C41.2
+#15	ICD-O T20	C41.2
+#16	ICD-O T21	C41.3
+#17	ICD-O T22	C41.3
+#18	ICD-O T23	C41.4
+#19	ICD-O T24	C41.4
+#20	ICD-O T25	C41.4
+#21	ICD-O T26	C41.4
+#22	ICD-O T27	8000/3
+#23	ICD-O T28	C49.9 8000/11
+#24	ICD-O T29	C49.9
+#25	ICD-O T30	1
+#26	ICD-O T31	9120/3
+#27	ICD-O T32	9120/31
+#28	ICD-O T33	1
+#29	ICD-O T35	9120/0
+#30	ICD-O T36	9120/3
+#31	ICD-O T37	C41.9 9120/3
+#32	ICD-O T38	C41.9
+#33	ICD-O T39	8000/3
+#34	ICD-O T40	8000/3
+#35	ICD-O T41	8000/1
+#36	ICD-O T43	C41.9
+#37	ICD-O T45	8000/6
+#38	ICD-O T46	8000/6

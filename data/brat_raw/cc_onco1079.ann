@@ -1,0 +1,132 @@
+T1	expression_CIM 540 555	tumeur stromale
+T2	morphologie 540 555	tumeur stromale
+T3	morphologie 618 624	tumeur
+T4	expression_CIM 618 639	tumeur sous-hépatique
+T6	morphologie 701 707	tumeur
+T7	expression_CIM 701 722	tumeur dans le pelvis
+T8	topographie 716 722	pelvis
+T9	morphologie 935 940	masse
+T10	expression_CIM 935 951	masse abdominale
+T11	topographie 941 951	abdominale
+T12	morphologie 957 968	adénopathie
+T13	expression_CIM 957 978	adénopathie inguinale
+T14	topographie 969 978	inguinale
+T15	expression_CIM 1361 1382	atteinte métastatique
+T16	morphologie 1361 1382	atteinte métastatique
+T17	expression_CIM 1399 1411	adénopathies
+T18	morphologie 1399 1411	adénopathies
+T20	expression_CIM 1505 1552	sarcome stromal gastro-intestinal de haut grade
+T21	differenciation 1542 1552	haut grade
+T22	morphologie 1590 1597	tumeurs
+T23	expression_CIM 1590 1666	tumeurs, 14 x 9 x 8,5 cm et 11 x 10,5 x 10 cm, la première au niveau pelvien
+T24	topographie 1659 1666	pelvien
+T25	morphologie 1672 1680	atteinte
+T26	expression_CIM 1672 1706	atteinte de la séreuse intestinale
+T27	topographie 1687 1706	séreuse intestinale
+T28	morphologie 1726 1734	atteinte
+T29	expression_CIM 1726 1744	atteinte hépatique
+T30	topographie 1735 1744	hépatique
+T31	morphologie 2425 2430	masse
+T32	expression_CIM 2425 2476	masse pelvienne de 10 cm occupant l'espace présacré
+T33	topographie 2431 2440	pelvienne
+T35	morphologie 2849 2854	masse
+T36	expression_CIM 2849 2864	masse pelvienne
+T37	topographie 2855 2864	pelvienne
+T38	morphologie 3121 3128	lésions
+T39	expression_CIM 3121 3147	lésions au niveau présacré
+T40	topographie 3139 3147	présacré
+T41	morphologie 3220 3242	foyer hypermétabolique
+T42	expression_CIM 3220 3261	foyer hypermétabolique au niveau présacré
+T43	topographie 3253 3261	présacré
+T44	morphologie 3391 3408	lésions tumorales
+T45	expression_CIM 3391 3436	lésions tumorales dans l'abdomen et le bassin
+T46	topographie 3416 3423	abdomen
+T47	topographie 3430 3436	bassin
+T48	morphologie 3548 3563	tumeur stromale
+T49	expression_CIM 3548 3577	tumeur stromale de haut grade
+T50	differenciation 3567 3577	haut grade
+T51	expression_CIM 3624 3631	lésions
+T52	morphologie 3624 3631	lésions
+T53	morphologie 3650 3660	métastases
+T54	expression_CIM 3650 3706	métastases ganglionnaires et dans la séreuse intestinale
+T55	topographie 3661 3675	ganglionnaires
+T56	topographie 3687 3706	séreuse intestinale
+T57	expression_CIM 4225 4250	progression de la maladie
+T58	morphologie 4225 4250	progression de la maladie
+T59	morphologie 4267 4273	foyers
+T60	expression_CIM 4267 4290	foyers rétropéritonéaux
+T61	topographie 4274 4290	rétropéritonéaux
+T62	morphologie 4345 4353	atteinte
+T63	expression_CIM 4345 4392	atteinte médiastinale au niveau para-œsophagien
+T64	topographie 4354 4366	médiastinale
+T65	topographie 4377 4392	para-œsophagien
+T66	expression_CIM 4904 4929	progression de la maladie
+T67	morphologie 4904 4929	progression de la maladie
+T34	topographie 2461 2476	espace présacré
+T19	morphologie 1505 1538	sarcome stromal gastro-intestinal
+T5	topographie 625 639	sous-hépatique
+#1	ICD-O T1	8935/1
+#2	ICD-O T2	8935/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C22.0 8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C76.3 8000/1
+#7	ICD-O T8	C76.3
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	C76.2 8000/1
+#10	ICD-O T11	C76.2
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	C77.4 8000/1
+#13	ICD-O T14	C76.3
+#14	ICD-O T15	8000/6
+#15	ICD-O T16	8000/6
+#16	ICD-O T17	C77.9 8000/1
+#17	ICD-O T18	8000/1
+#18	ICD-O T20	C26.9 8935/34
+#19	ICD-O T21	4
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	C76.3 8000/1
+#22	ICD-O T24	C76.3
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	C17.9 8000/1
+#25	ICD-O T27	C17.9
+#26	ICD-O T28	8000/1
+#27	ICD-O T29	C22.0 8000/1
+#28	ICD-O T30	C22.0
+#29	ICD-O T31	8000/1
+#30	ICD-O T32	C76.3 8000/1
+#31	ICD-O T33	C76.3
+#32	ICD-O T35	8000/1
+#33	ICD-O T36	C76.3 8000/1
+#34	ICD-O T37	C76.3
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	C76.3 8000/1
+#37	ICD-O T40	C76.3
+#38	ICD-O T41	8000/9
+#39	ICD-O T42	C76.3 8000/1
+#40	ICD-O T43	C76.3
+#41	ICD-O T44	8000/3
+#42	ICD-O T45	C76.2 8000/3;C76.3 8000/3
+#43	ICD-O T46	C76.2
+#44	ICD-O T47	C76.3
+#45	ICD-O T48	8935/1
+#46	ICD-O T49	8935/14
+#47	ICD-O T50	4
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	8000/6
+#51	ICD-O T54	C17.9 8000/6;C77.9 8000/6
+#52	ICD-O T55	C77.9
+#53	ICD-O T56	C17.9
+#54	ICD-O T57	8000/1
+#55	ICD-O T58	8000/1
+#56	ICD-O T59	8000/1
+#57	ICD-O T60	C48.0 8000/1
+#58	ICD-O T61	C48.0
+#59	ICD-O T62	8000/1
+#60	ICD-O T63	C38.3 8000/1;C76.0 8000/1
+#61	ICD-O T64	C38.3
+#62	ICD-O T65	C76.0
+#63	ICD-O T66	8000/1
+#64	ICD-O T67	8000/1
+#65	ICD-O T19	8936/3

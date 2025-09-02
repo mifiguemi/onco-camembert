@@ -1,0 +1,51 @@
+T35	topographie 2820 2826	intima
+T1	morphologie 207 213	cancer
+T3	topographie 217 223	poumon
+T4	morphologie 245 251	cancer
+T6	topographie 255 260	côlon
+T7	topographie 1577 1587	oreillette
+T9	morphologie 1603 1608	masse
+T11	morphologie 1633 1639	tumeur
+T12	morphologie 1721 1726	masse
+T14	topographie 1727 1736	cardiaque
+T15	morphologie 2005 2014	néoplasie
+T76	morphologie 2025 2041	maligne primaire
+T17	topographie 2015 2024	cardiaque
+T18	morphologie 2054 2064	métastases
+T20	topographie 2065 2073	osseuses
+T21	topographie 2087 2093	sacrum
+T22	topographie 2102 2107	ilium
+T23	morphologie 2154 2163	métastase
+T25	topographie 2164 2171	osseuse
+T26	morphologie 2528 2534	tumeur
+T28	topographie 2535 2548	intra-atriale
+T29	morphologie 2694 2715	sarcome indifférencié
+T32	differenciation 2719 2729	haut grade
+T33	morphologie 2807 2814	sarcome
+T37	morphologie 2829 2837	stade IV
+T38	topographie 2838 2847	cardiaque
+T39	morphologie 2863 2873	métastases
+T41	topographie 2874 2882	osseuses
+T42	morphologie 3332 3342	métastases
+T44	topographie 3343 3351	osseuses
+T45	morphologie 3676 3684	récidive
+T47	topographie 3714 3724	oreillette
+T48	topographie 3735 3752	artère pulmonaire
+T49	morphologie 3760 3771	progression
+T51	topographie 3772 3779	osseuse
+T52	morphologie 4289 4299	métastases
+T55	morphologie 4704 4712	récidive
+T57	topographie 4713 4725	péricardique
+T58	morphologie 4791 4800	métastase
+T60	topographie 4801 4811	pulmonaire
+T61	topographie 4820 4827	lingula
+T62	morphologie 4835 4846	progression
+T64	topographie 4847 4854	osseuse
+T66	morphologie 5038 5044	tumeur
+T67	morphologie 5097 5105	implants
+T69	topographie 5106 5119	péricardiques
+T70	morphologie 5144 5150	lésion
+T72	topographie 5151 5161	pulmonaire
+T73	morphologie 5169 5192	progression des lésions
+T75	topographie 5193 5201	osseuses
+T54	topographie 4300 4323	vertébrales en L3 et S1

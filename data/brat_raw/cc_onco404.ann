@@ -1,0 +1,89 @@
+T1	morphologie 397 405	mélanome
+T2	expression_CIM 397 433	mélanome cutané ulcéré de l'omoplate
+T3	topographie 406 412	cutané
+T4	topographie 425 433	omoplate
+T5	morphologie 685 699	image suspecte
+T6	expression_CIM 685 739	image suspecte a été trouvée au niveau du muscle droit
+T7	topographie 727 739	muscle droit
+T8	expression_CIM 899 920	mélanome métastatique
+T9	morphologie 899 920	mélanome métastatique
+T10	morphologie 1259 1266	lésions
+T11	expression_CIM 1259 1275	lésions cutanées
+T12	topographie 1267 1275	cutanées
+T13	expression_CIM 1435 1452	récidive tumorale
+T14	morphologie 1435 1452	récidive tumorale
+T15	morphologie 1468 1476	implants
+T16	expression_CIM 1468 1502	implants péritonéaux dans le flanc
+T17	topographie 1477 1488	péritonéaux
+T18	topographie 1497 1502	flanc
+T19	morphologie 1516 1523	rechute
+T20	expression_CIM 1516 1571	rechute au niveau adénopathique dans le hile pulmonaire
+T21	topographie 1534 1547	adénopathique
+T22	topographie 1556 1571	hile pulmonaire
+T23	expression_CIM 1694 1701	lésions
+T24	morphologie 1694 1701	lésions
+T25	expression_CIM 1881 1889	mélanome
+T26	morphologie 1881 1889	mélanome
+T27	expression_CIM 1903 1911	stade IV
+T28	morphologie 1903 1911	stade IV
+T29	morphologie 2144 2150	lésion
+T30	expression_CIM 2144 2175	lésion réséquée du muscle droit
+T31	topographie 2163 2175	muscle droit
+T32	expression_CIM 2919 2926	lésions
+T33	morphologie 2919 2926	lésions
+T34	morphologie 3963 3974	adénopathie
+T35	expression_CIM 3963 3987	adénopathie du mésocôlon
+T36	topographie 3978 3987	mésocôlon
+T37	expression_CIM 4156 4165	métastase
+T38	morphologie 4156 4165	métastase
+T39	expression_CIM 4169 4177	mélanome
+T40	morphologie 4169 4177	mélanome
+T41	morphologie 4386 4414	adénopathie hypermétabolique
+T42	expression_CIM 4386 4445	adénopathie hypermétabolique dans la chaîne iliaque externe
+T43	topographie 4423 4445	chaîne iliaque externe
+T44	expression_CIM 4514 4535	infiltration tumorale
+T45	morphologie 4514 4535	infiltration tumorale
+#1	ICD-O T1	8720/3
+#2	ICD-O T2	C40.0 8720/3;C44.9 8720/3
+#3	ICD-O T3	C44.9
+#4	ICD-O T4	C40.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C49.4 8000/1
+#7	ICD-O T7	C49.4
+#8	ICD-O T8	8720/6
+#9	ICD-O T9	8720/6
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C44.9 8000/1
+#12	ICD-O T12	C44.9
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C48.2 8000/6;C76.7 8000/6
+#17	ICD-O T17	C48.2
+#18	ICD-O T18	C76.7
+#19	ICD-O T19	8000/3
+#20	ICD-O T20	C34.0 8000/3;C77.9 8000/3
+#21	ICD-O T21	C77.9
+#22	ICD-O T22	C34.0
+#23	ICD-O T23	8000/1
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	8720/3
+#26	ICD-O T26	8720/3
+#27	ICD-O T27	8000/6
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	C49.4 8000/1
+#31	ICD-O T31	C49.4
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	8000/1
+#34	ICD-O T34	8000/1
+#35	ICD-O T35	C77.2 8000/1
+#36	ICD-O T36	C48.1
+#37	ICD-O T37	8000/6
+#38	ICD-O T38	8000/6
+#39	ICD-O T39	8720/3
+#40	ICD-O T40	8720/3
+#41	ICD-O T41	8000/6
+#42	ICD-O T43	C77.5 
+#43	ICD-O T44	8000/6
+#44	ICD-O T45	8000/6

@@ -1,0 +1,21 @@
+T1	morphologie 181 187	tumeur
+T3	topographie 191 195	sein
+T4	morphologie 216 237	carcinome intraductal
+T6	differenciation 241 248	grade I
+T7	morphologie 759 765	lésion
+T9	topographie 816 826	hémithorax
+T10	morphologie 898 910	infiltration
+T12	topographie 922 927	derme
+T13	topographie 936 945	hypoderme
+T15	morphologie 954 985	cellules myéloïdes néoplasiques
+T17	morphologie 1205 1221	sarcome myéloïde
+T19	morphologie 1411 1417	lésion
+T21	morphologie 1462 1469	lésions
+T22	morphologie 2153 2171	Sarcomes myéloïdes
+T24	topographie 2172 2179	cutanés
+T27	morphologie 2301 2310	néoplasme
+T29	topographie 2311 2319	mammaire
+T31	morphologie 2471 2474	LAM
+T32	morphologie 2634 2641	lésions
+T34	topographie 2642 2650	cutanées
+T26	morphologie 2201 2249	leucémie myéloïde aiguë (LMA) liée à la thérapie

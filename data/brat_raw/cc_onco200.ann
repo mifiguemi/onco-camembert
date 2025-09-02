@@ -1,0 +1,171 @@
+T1	morphologie 177 183	tumeur
+T2	expression_CIM 177 193	tumeur cérébrale
+T3	topographie 184 193	cérébrale
+T4	expression_CIM 767 787	neurinome acoustique
+T5	morphologie 767 787	neurinome acoustique
+T6	morphologie 822 827	masse
+T7	expression_CIM 822 892	masse kystique mesurant 3,5 x 3 x 2,7 cm dans l'hémisphère cérébelleux
+T8	topographie 870 892	hémisphère cérébelleux
+T9	expression_CIM 908 914	nodule
+T10	morphologie 908 914	nodule
+T11	expression_CIM 1134 1152	lésions nodulaires
+T12	morphologie 1134 1152	lésions nodulaires
+T13	morphologie 1268 1285	hémangioblastomes
+T14	expression_CIM 1268 1297	hémangioblastomes cérébelleux
+T15	topographie 1286 1297	cérébelleux
+T16	expression_CIM 1557 1562	masse
+T17	morphologie 1557 1562	masse
+T18	morphologie 1618 1643	hémangioblastome kystique
+T19	expression_CIM 1618 1655	hémangioblastome kystique cérébelleux
+T20	topographie 1644 1655	cérébelleux
+T21	morphologie 1800 1807	tumeurs
+T22	expression_CIM 1800 1815	tumeurs rénales
+T23	topographie 1808 1815	rénales
+T24	morphologie 1840 1849	carcinome
+T25	expression_CIM 1840 1902	carcinome rénal bilatéral et de multiples kystes pancréatiques
+T26	topographie 1850 1855	rénal
+T27	topographie 1889 1902	pancréatiques
+T28	morphologie 2068 2077;2084 2102	carcinome à cellules claires
+T29	expression_CIM 2068 2102	carcinome rénal à cellules claires
+T30	topographie 2078 2083	rénal
+T31	morphologie 2128 2134	tumeur
+T32	expression_CIM 2128 2184	tumeur de plus de 5 cm, un grade nucléaire de Fuhrman II
+T33	differenciation 2155 2184	grade nucléaire de Fuhrman II
+T34	morphologie 2335 2344;2351 2369	carcinome à cellules claires
+T35	expression_CIM 2335 2369	carcinome rénal à cellules claires
+T36	topographie 2345 2350	rénal
+T37	expression_CIM 2496 2508	adénopathies
+T38	morphologie 2496 2508	adénopathies
+T39	expression_CIM 2516 2526	métastases
+T40	morphologie 2516 2526	métastases
+T41	morphologie 2545 2554;2571 2589	carcinome à cellules claires
+T42	expression_CIM 2545 2589	carcinome rénal bilatéral à cellules claires
+T43	topographie 2555 2560	rénal
+T44	morphologie 2774 2779	masse
+T45	expression_CIM 2774 2821	masse palpable a été détectée dans le testicule
+T46	topographie 2812 2821	testicule
+T47	expression_CIM 2915 2925	métastases
+T48	morphologie 2915 2925	métastases
+T49	morphologie 2941 2950;2957 2975	carcinome à cellules claires
+T50	expression_CIM 2941 2975	carcinome rénal à cellules claires
+T51	topographie 2951 2956	rénal
+T52	morphologie 2981 2989	atteinte
+T53	expression_CIM 2981 3004	atteinte de l'épididyme
+T54	topographie 2995 3004	épididyme
+T55	morphologie 3130 3140	métastases
+T56	expression_CIM 3130 3151	métastases hépatiques
+T57	topographie 3141 3151	hépatiques
+T58	expression_CIM 3353 3362	métastase
+T59	morphologie 3353 3362	métastase
+T60	morphologie 3366 3375;3382 3400	carcinome à cellules claires
+T61	expression_CIM 3366 3400	carcinome rénal à cellules claires
+T62	topographie 3376 3381	rénal
+T63	expression_CIM 3524 3532	récidive
+T64	morphologie 3524 3532	récidive
+T65	morphologie 3729 3751	cystadénome papillaire
+T66	expression_CIM 3729 3766	cystadénome papillaire de l'épididyme
+T67	topographie 3757 3766	épididyme
+T68	morphologie 3874 3890	hémangioblastome
+T69	expression_CIM 3874 3902	hémangioblastome cérébelleux
+T70	topographie 3891 3902	cérébelleux
+T71	expression_CIM 4072 4082	métastases
+T72	morphologie 4072 4082	métastases
+T73	morphologie 4098 4107	carcinome
+T74	expression_CIM 4098 4113	carcinome rénal
+T75	topographie 4108 4113	rénal
+T76	expression_CIM 4194 4210	phéochromocytome
+T77	morphologie 4194 4210	phéochromocytome
+T78	morphologie 4263 4268	masse
+T79	expression_CIM 4263 4294	masse au niveau de la surrénale
+T80	topographie 4285 4294	surrénale
+T81	expression_CIM 4415 4420	masse
+T82	morphologie 4415 4420	masse
+T83	morphologie 4458 4490	hyperplasie médullaire nodulaire
+T84	expression_CIM 4458 4504	hyperplasie médullaire nodulaire surrénalienne
+T85	topographie 4491 4504	surrénalienne
+T86	expression_CIM 4886 4905	maladie oncologique
+T87	morphologie 4886 4905	maladie oncologique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C71.0 8000/1
+#3	ICD-O T3	C71.0
+#4	ICD-O T5	9560/0
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	C71.6 8000/1
+#7	ICD-O T8	C71.6
+#8	ICD-O T9	8000/1
+#9	ICD-O T10	8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	8000/1
+#12	ICD-O T13	9161/1
+#13	ICD-O T14	C71.6 9161/1
+#14	ICD-O T15	C71.6
+#15	ICD-O T16	8000/1
+#16	ICD-O T17	8000/1
+#17	ICD-O T18	9161/1
+#18	ICD-O T19	C71.6 9161/1
+#19	ICD-O T20	C71.6
+#20	ICD-O T21	8000/1
+#21	ICD-O T22	C64.9 8000/1
+#22	ICD-O T23	C64.9
+#23	ICD-O T24	8010/3
+#24	ICD-O T26	C64.9
+#25	ICD-O T27	C25.9
+#26	ICD-O T28	8310/3
+#27	ICD-O T29	C64.9 8310/3
+#28	ICD-O T30	C64.9
+#29	ICD-O T31	8000/1
+#30	ICD-O T32	8000/12
+#31	ICD-O T33	2
+#32	ICD-O T34	8310/3
+#33	ICD-O T35	C64.9 8310/3
+#34	ICD-O T36	C64.9
+#35	ICD-O T37	C77.9 8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	8000/6
+#39	ICD-O T41	8310/3
+#40	ICD-O T42	C64.9 8310/3
+#41	ICD-O T43	C64.9
+#42	ICD-O T44	8000/1
+#43	ICD-O T45	C62.9 8000/1
+#44	ICD-O T46	C62.9
+#45	ICD-O T47	8000/6
+#46	ICD-O T48	8000/6
+#47	ICD-O T49	8310/3
+#48	ICD-O T50	C64.9 8310/3
+#49	ICD-O T51	C64.9
+#50	ICD-O T52	8000/1
+#51	ICD-O T53	C63.0 8000/1
+#52	ICD-O T54	C63.0
+#53	ICD-O T55	8000/6
+#54	ICD-O T56	C22.0 8000/6
+#55	ICD-O T57	C22.0
+#56	ICD-O T58	8000/6
+#57	ICD-O T59	8000/6
+#58	ICD-O T60	8310/3
+#59	ICD-O T61	C64.9 8310/3
+#60	ICD-O T62	C64.9
+#61	ICD-O T63	8000/6
+#62	ICD-O T64	8000/6
+#63	ICD-O T65	8450/0
+#64	ICD-O T66	C63.0 8450/0
+#65	ICD-O T67	C63.0
+#66	ICD-O T68	9161/1
+#67	ICD-O T69	C71.6 9161/1
+#68	ICD-O T70	C71.6
+#69	ICD-O T71	8000/6
+#70	ICD-O T72	8000/6
+#71	ICD-O T73	8010/3
+#72	ICD-O T74	C64.9 8010/3
+#73	ICD-O T75	C64.9
+#74	ICD-O T76	8700/0
+#75	ICD-O T77	8700/0
+#76	ICD-O T78	8000/1
+#77	ICD-O T79	C74.9 8000/1
+#78	ICD-O T80	C74.9
+#79	ICD-O T81	8000/1
+#80	ICD-O T82	8000/1
+#81	ICD-O T83	8000/1
+#82	ICD-O T85	C74 
+#83	ICD-O T86	8000/3
+#84	ICD-O T87	8000/3

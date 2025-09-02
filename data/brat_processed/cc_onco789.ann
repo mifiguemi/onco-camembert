@@ -1,0 +1,32 @@
+T8	topographie 400 415	moignon vaginal
+T14	topographie 669 696	paroi abdominale antérieure
+T21	topographie 1083 1101	recto-sigmoïdienne
+T1	morphologie 72 100	adénocarcinome endométrioïde
+T3	differenciation 101 123	modérément différencié
+T5	morphologie 339 345	tumeur
+T6	morphologie 368 376	récidive
+T9	morphologie 595 603	récidive
+T11	topographie 628 639	tissus mous
+T12	morphologie 641 648	implant
+T16	morphologie 702 708	lésion
+T18	morphologie 1046 1068	récidive locorégionale
+T19	morphologie 1074 1082	atteinte
+T22	morphologie 1303 1311	primitif
+T24	topographie 1312 1323	endométrial
+T25	morphologie 1340 1352	infiltration
+T27	topographie 1353 1363	vasculaire
+T28	topographie 1367 1378	lymphatique
+T30	morphologie 1758 1774	maladie tumorale
+T32	topographie 2259 2271	rétrovésical
+T33	morphologie 2459 2465	lésion
+T35	topographie 2489 2498	tissu mou
+T37	topographie 2575 2584	tissu mou
+T39	morphologie 3099 3115	maladie tumorale
+T41	morphologie 3166 3194	adénocarcinome endométrioïde
+T42	morphologie 3204 3221	implants tumoraux
+T44	topographie 3222 3233	intestinaux
+T46	morphologie 3791 3799	récidive
+T47	morphologie 3819 3828	carcinome
+T49	topographie 3834 3843	endomètre
+T50	morphologie 3889 3906	implants tumoraux
+T52	topographie 3914 3928	intestin grêle

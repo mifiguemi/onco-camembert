@@ -1,0 +1,20 @@
+T1	morphologie 278 284	tumeur
+T3	topographie 293 299	narine
+T5	morphologie 441 446	masse
+T8	topographie 674 680	narine
+T10	morphologie 700 722	tumeur mésenchymateuse
+T12	morphologie 759 802	zones de différenciation rhabdomyoblastique
+T14	morphologie 908 937	rhabdomyosarcome embryonnaire
+T15	morphologie 951 980	Rhabdomyosarcome embryonnaire
+T17	topographie 1005 1011	narine
+T19	morphologie 1371 1377	lésion
+T21	morphologie 1469 1500	néoplasie à cellules fusiformes
+T23	morphologie 1538 1567	rhabdomyosarcome embryonnaire
+T25	morphologie 1700 1749	rhabdomyosarcome à cellules fusiformes sclérosées
+T27	morphologie 1797 1813	lit de la tumeur
+T29	morphologie 1972 1989	récidive tumorale
+T31	morphologie 2249 2261	infiltration
+T33	morphologie 2280 2307	rhabdomyosarcome sclérosant
+T35	morphologie 2495 2503	récidive
+T37	morphologie 2510 2519	métastase
+T6	morphologie 626 655	tumeur polypoïde hémorragique

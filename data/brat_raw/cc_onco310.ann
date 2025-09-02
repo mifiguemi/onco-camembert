@@ -1,0 +1,87 @@
+T21	topographie 2763 2778	interaorto-cave
+T1	expression_CIM 568 575	nodules
+T2	morphologie 568 575	nodules
+T3	expression_CIM 647 654	nodules
+T4	morphologie 647 654	nodules
+T5	expression_CIM 999 1029	tumeur germinale mixte maligne
+T6	morphologie 999 1029	tumeur germinale mixte maligne
+T7	expression_CIM 1031 1046	choriocarcinome
+T8	morphologie 1031 1046	choriocarcinome
+T9	expression_CIM 1054 1069	tératome mature
+T10	morphologie 1054 1069	tératome mature
+T11	morphologie 1079 1087	invasion
+T12	expression_CIM 1079 1104	invasion lymphovasculaire
+T13	topographie 1088 1104	lymphovasculaire
+T14	expression_CIM 1236 1254	maladie à distance
+T15	morphologie 1236 1254	maladie à distance
+T16	expression_CIM 1364 1370	tumeur
+T17	morphologie 1364 1370	tumeur
+T18	morphologie 2734 2745	adénopathie
+T19	expression_CIM 2734 2778	adénopathie rétropéritonéale interaorto-cave
+T20	topographie 2746 2762	rétropéritonéale
+T22	topographie 3063 3074	pulmonaires
+T23	expression_CIM 3063 3140	pulmonaires présentaient une augmentation métabolique évocatrice de malignité
+T24	morphologie 3092 3140	augmentation métabolique évocatrice de malignité
+T25	morphologie 3171 3182	adénopathie
+T26	expression_CIM 3171 3199	adénopathie rétropéritonéale
+T27	topographie 3183 3199	rétropéritonéale
+T28	morphologie 3265 3272	lésions
+T29	expression_CIM 3265 3288	lésions endobronchiques
+T30	topographie 3273 3288	endobronchiques
+T31	expression_CIM 3337 3358	cellules néoplasiques
+T32	morphologie 3337 3358	cellules néoplasiques
+T33	morphologie 3696 3703	lésions
+T34	expression_CIM 3696 3715	lésions pulmonaires
+T35	topographie 3704 3715	pulmonaires
+T36	morphologie 4257 4273	lymphadénopathie
+T37	expression_CIM 4257 4290	lymphadénopathie rétropéritonéale
+T38	topographie 4274 4290	rétropéritonéale
+T39	morphologie 4400 4411	adénopathie
+T40	expression_CIM 4400 4428	adénopathie rétropéritonéale
+T41	topographie 4412 4428	rétropéritonéale
+T42	expression_CIM 4539 4554	tératome mature
+T43	morphologie 4539 4554	tératome mature
+T44	expression_CIM 5067 5083	maladie tumorale
+T45	morphologie 5067 5083	maladie tumorale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	9085/3
+#6	ICD-O T6	9085/3
+#7	ICD-O T7	9100/3
+#8	ICD-O T8	9100/3
+#9	ICD-O T9	9080/0
+#10	ICD-O T10	9080/0
+#11	ICD-O T11	8000/1
+#12	ICD-O T12	C49.9 8000/1
+#13	ICD-O T13	C49.9
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/1
+#17	ICD-O T17	8000/1
+#18	ICD-O T18	8000/1
+#19	ICD-O T20	C48.0
+#20	ICD-O T22	C34.9
+#21	ICD-O T24	8000/9
+#22	ICD-O T25	8000/1
+#23	ICD-O T26	C77.2 8000/1
+#24	ICD-O T27	C48.0
+#25	ICD-O T28	8000/1
+#26	ICD-O T29	C34.9 8000/1
+#27	ICD-O T30	C34.9
+#28	ICD-O T31	8000/1
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	C34.9 8000/1
+#32	ICD-O T35	C34.9
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	C77.2 8000/1
+#35	ICD-O T38	C48.0
+#36	ICD-O T39	8000/1
+#37	ICD-O T40	C77.2 8000/1
+#38	ICD-O T41	C48.0
+#39	ICD-O T42	9080/0
+#40	ICD-O T43	9080/0
+#41	ICD-O T44	8000/3
+#42	ICD-O T45	8000/3

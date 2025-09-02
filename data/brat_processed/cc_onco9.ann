@@ -1,0 +1,35 @@
+T2	morphologie 935 940	masse
+T3	morphologie 1109 1116	lésions
+T5	topographie 1117 1125	cutanées
+T6	morphologie 1251 1256	masse
+T8	topographie 1257 1267	pulmonaire
+T9	topographie 1276 1290	lobe inférieur
+T10	morphologie 1420 1425	masse
+T12	topographie 1426 1436	pulmonaire
+T13	morphologie 1611 1617	lésion
+T15	topographie 1618 1632	endobronchique
+T16	morphologie 1673 1678	masse
+T18	topographie 1709 1723	lobe inférieur
+T19	morphologie 1756 1764	atteinte
+T21	topographie 1765 1772	hilaire
+T22	topographie 1793 1828	ganglions lymphatiques médiastinaux
+T23	morphologie 1873 1879	nodule
+T25	topographie 1880 1890	pulmonaire
+T26	topographie 1918 1928	lobe moyen
+T28	morphologie 1985 2004	lésion métastatique
+T29	morphologie 2706 2712	nodule
+T31	topographie 2713 2723	pulmonaire
+T32	topographie 2743 2749	poumon
+T34	topographie 2856 2862	poumon
+T36	morphologie 2900 2918	cellules tumorales
+T37	morphologie 3053 3067	adénocarcinome
+T39	topographie 3068 3078	pulmonaire
+T41	morphologie 3082 3090	stade IV
+T42	morphologie 3128 3134	lésion
+T44	topographie 3135 3145	pulmonaire
+T45	morphologie 3309 3319	carcinomes
+T51	morphologie 3332 3354	non à petites cellules
+T47	topographie 3320 3331	pulmonaires
+T48	morphologie 3818 3827	carcinome
+T52	morphologie 3839 3861	non à petites cellules
+T50	topographie 3828 3838	pulmonaire

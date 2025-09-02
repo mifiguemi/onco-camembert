@@ -1,0 +1,100 @@
+T10	topographie 1046 1072	médiastinale paracardiaque
+T1	morphologie 457 468	adénopathie
+T2	expression_CIM 457 498	adénopathie cervicale ou sus-claviculaire
+T3	topographie 469 478	cervicale
+T4	topographie 482 498	sus-claviculaire
+T5	morphologie 963 968	masse
+T6	expression_CIM 963 981	masse médiastinale
+T7	topographie 969 981	médiastinale
+T8	morphologie 1040 1045	masse
+T9	expression_CIM 1040 1072	masse médiastinale paracardiaque
+T11	morphologie 1196 1202	nodule
+T12	expression_CIM 1196 1246	nodule sous-pleural de 5 mm dans le lobe inférieur
+T14	expression_CIM 1448 1463	lésions focales
+T15	morphologie 1448 1463	lésions focales
+T16	morphologie 1671 1693	ganglions lymphatiques
+T17	expression_CIM 1671 1727	ganglions lymphatiques mésentériques et rétropéritonéaux
+T18	topographie 1694 1707	mésentériques
+T19	topographie 1711 1727	rétropéritonéaux
+T20	morphologie 1893 1899	lésion
+T21	expression_CIM 1893 1912	lésion médiastinale
+T22	topographie 1900 1912	médiastinale
+T23	expression_CIM 2012 2018	lésion
+T24	morphologie 2012 2018	lésion
+T25	morphologie 2069 2076;2109 2119	thymome de type B2
+T26	expression_CIM 2069 2119	thymome de phénotype et immunophénotype de type B2
+T27	expression_CIM 2157 2169	infiltration
+T28	morphologie 2157 2169	infiltration
+T29	morphologie 2578 2624	augmentation diffuse du métabolisme du glucose
+T30	expression_CIM 2578 2661	augmentation diffuse du métabolisme du glucose dans la région thoracique supérieure
+T32	morphologie 2793 2811	captation homogène
+T33	expression_CIM 2793 2840	captation homogène dans le parenchyme hépatique
+T34	topographie 2820 2840	parenchyme hépatique
+T35	expression_CIM 2846 2870	foyers hypermétaboliques
+T36	morphologie 2846 2870	foyers hypermétaboliques
+T37	morphologie 2890 2933	augmentation diffuse de la captation du FDG
+T38	expression_CIM 2890 2987	augmentation diffuse de la captation du FDG est décrite dans pratiquement toute la moelle osseuse
+T39	topographie 2973 2987	moelle osseuse
+T40	morphologie 3137 3172;3180 3204	leucémie myélomonocytaire chronique de type myélodysplasique
+T41	expression_CIM 3137 3204	leucémie myélomonocytaire chronique (LMCM) de type myélodysplasique
+T42	morphologie 3174 3178	LMCM
+T43	expression_CIM 3231 3237	LMCM-1
+T44	morphologie 3231 3237	LMCM-1
+T45	expression_CIM 3420 3438	Thymome de type B2
+T46	morphologie 3420 3438	Thymome de type B2
+T47	morphologie 3491 3526	Leucémie myélomonocytaire chronique
+T48	expression_CIM 3491 3532	Leucémie myélomonocytaire chronique (LMMC
+T49	morphologie 3528 3532	LMMC
+T50	expression_CIM 3563 3570	thymome
+T51	morphologie 3563 3570	thymome
+T52	expression_CIM 3610 3616	tumeur
+T53	morphologie 3610 3616	tumeur
+T54	expression_CIM 3774 3809	leucémie myélomonocytaire chronique
+T55	morphologie 3774 3809	leucémie myélomonocytaire chronique
+T31	topographie 2633 2661	région thoracique supérieure
+T13	topographie 1203 1246	sous-pleural de 5 mm dans le lobe inférieur
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C77.0 8000/1
+#3	ICD-O T3	C76.0
+#4	ICD-O T4	C76.0
+#5	ICD-O T5	8000/1
+#6	ICD-O T6	C38.3 8000/1
+#7	ICD-O T7	C38.3
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	C38.3 8000/1;C38.8 8000/1
+#10	ICD-O T11	8000/1
+#11	ICD-O T12	C34.3 8000/1;C38.8 8000/1
+#12	ICD-O T15	tocheck
+#13	ICD-O T16	tocheck
+#14	ICD-O T18	C48.1
+#15	ICD-O T19	C48.0
+#16	ICD-O T20	8000/1
+#17	ICD-O T21	C38.3 8000/1
+#18	ICD-O T22	C38.3
+#19	ICD-O T23	8000/1
+#20	ICD-O T24	8000/1
+#21	ICD-O T25	8584/1
+#22	ICD-O T26	8584/1
+#23	ICD-O T27	8000/1
+#24	ICD-O T28	8000/1
+#25	ICD-O T29	tocheck
+#26	ICD-O T32	8000/9
+#27	ICD-O T34	C22.0
+#28	ICD-O T36	8000/9
+#29	ICD-O T37	tocheck
+#30	ICD-O T39	C42.1
+#31	ICD-O T40	9945/3
+#32	ICD-O T41	9945/3
+#33	ICD-O T42	9945/3
+#34	ICD-O T43	9945/3
+#35	ICD-O T44	9945/3
+#36	ICD-O T45	8584/1
+#37	ICD-O T46	8584/1
+#38	ICD-O T47	9945/3
+#39	ICD-O T49	9945/3
+#40	ICD-O T50	8580/1
+#41	ICD-O T51	8580/1
+#42	ICD-O T52	8000/1
+#43	ICD-O T53	8000/1
+#44	ICD-O T54	9945/3
+#45	ICD-O T55	9945/3

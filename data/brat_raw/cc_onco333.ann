@@ -1,0 +1,124 @@
+T1	morphologie 132 153	carcinome épidermoïde
+T2	expression_CIM 132 192	carcinome épidermoïde de l'hypopharynx et du sinus piriforme
+T3	topographie 159 170	hypopharynx
+T4	topographie 177 192	sinus piriforme
+T5	morphologie 320 329;341 359	carcinome à grandes cellules
+T6	expression_CIM 320 359	carcinome pulmonaire à grandes cellules
+T7	topographie 330 340	pulmonaire
+T8	expression_CIM 369 377	stade IV
+T9	morphologie 369 377	stade IV
+T10	morphologie 385 389	LOES
+T11	expression_CIM 385 473	LOES cérébraux (lobe temporal gauche, le plus grand, lobe frontal droit et lobe temporal
+T12	topographie 390 399	cérébraux
+T13	topographie 401 414	lobe temporal
+T14	topographie 438 450	lobe frontal
+T15	topographie 460 473	lobe temporal
+T16	morphologie 909 917	récidive
+T17	expression_CIM 909 934	récidive sus-claviculaire
+T18	topographie 918 934	sus-claviculaire
+T19	morphologie 1332 1340	récidive
+T20	expression_CIM 1332 1357	récidive sus-claviculaire
+T21	topographie 1341 1357	sus-claviculaire
+T22	expression_CIM 2146 2152	lésion
+T23	morphologie 2146 2152	lésion
+T24	morphologie 2343 2351	atteinte
+T25	expression_CIM 2343 2367	atteinte des tissus mous
+T26	topographie 2356 2367	tissus mous
+T27	morphologie 2467 2491	foyer d'hypermétabolisme
+T28	expression_CIM 2467 2538	foyer d'hypermétabolisme dans la région métaphysaire proximale du tibia
+T29	topographie 2533 2538	tibia
+T30	morphologie 2699 2731	sarcome pléomorphe indifférencié
+T31	expression_CIM 2699 2750	sarcome pléomorphe indifférencié de grade 3 (FNCLCC
+T32	differenciation 2735 2750	grade 3 (FNCLCC
+T33	morphologie 2839 2871	Sarcome pléomorphe indifférencié
+T34	expression_CIM 2839 2903	Sarcome pléomorphe indifférencié de haut grade du tibia proximal
+T35	differenciation 2875 2885	haut grade
+T36	topographie 2889 2903	tibia proximal
+T37	morphologie 2962 2990	Carcinome à grandes cellules
+T38	expression_CIM 2962 3000	Carcinome à grandes cellules du poumon
+T39	topographie 2994 3000	poumon
+T40	topographie 3010 3017	cerveau
+T41	expression_CIM 3010 3020	cerveau M1
+T42	morphologie 3018 3020	M1
+T43	morphologie 3055 3076	Carcinome épidermoïde
+T44	expression_CIM 3055 3115	Carcinome épidermoïde de l'hypopharynx et du sinus piriforme
+T45	topographie 3082 3093	hypopharynx
+T46	topographie 3100 3115	sinus piriforme
+T47	expression_CIM 3149 3157	récidive
+T48	morphologie 3149 3157	récidive
+T49	expression_CIM 3218 3225	tumeurs
+T50	morphologie 3218 3225	tumeurs
+T51	morphologie 4837 4843	lésion
+T52	expression_CIM 4837 4881	lésion dans l'extrémité épiphysaire du tibia
+T53	topographie 4876 4881	tibia
+T54	morphologie 4964 4987	foyers d'hypercaptation
+T55	expression_CIM 4964 5061	foyers d'hypercaptation dans le muscle trapèze droit (SUVmax 4,2 g/ml) et dans le muscle péronier
+T56	topographie 4996 5010	muscle trapèze
+T57	topographie 5046 5061	muscle péronier
+T58	morphologie 5100 5105	foyer
+T59	expression_CIM 5100 5160	foyer douteux d'hypercaptation dans le duodénum pancréatique
+T60	topographie 5139 5160	duodénum pancréatique
+T61	expression_CIM 5354 5361	lésions
+T62	morphologie 5354 5361	lésions
+T63	expression_CIM 5448 5456	sarcomes
+T64	morphologie 5448 5456	sarcomes
+#1	ICD-O T1	8070/3
+#2	ICD-O T2	C12.9 8070/3;C13.9 8070/3
+#3	ICD-O T3	C13.9
+#4	ICD-O T4	C12.9
+#5	ICD-O T5	8012/3
+#6	ICD-O T6	C34.9 8012/3
+#7	ICD-O T7	C34.9
+#8	ICD-O T8	8000/6
+#9	ICD-O T9	8000/6
+#10	ICD-O T10	8000/1
+#11	ICD-O T12	C71.9
+#12	ICD-O T13	C71.2
+#13	ICD-O T14	C71.1
+#14	ICD-O T15	C71.2
+#15	ICD-O T16	8000/9
+#16	ICD-O T17	C76.0 8000/6
+#17	ICD-O T18	C76.0
+#18	ICD-O T19	8000/9
+#19	ICD-O T20	C76.0 8000/6
+#20	ICD-O T21	C76.0
+#21	ICD-O T23	8000/1
+#22	ICD-O T24	8000/9
+#23	ICD-O T25	C49.9 8000/1
+#24	ICD-O T26	C49.9
+#25	ICD-O T27	8000/9
+#26	ICD-O T28	C40.2 8000/1
+#27	ICD-O T29	C40.2
+#28	ICD-O T30	8805/3
+#29	ICD-O T32	3
+#30	ICD-O T33	8805/3
+#31	ICD-O T35	4
+#32	ICD-O T36	C40.2
+#33	ICD-O T37	8012/3
+#34	ICD-O T38	C34.9 8012/3
+#35	ICD-O T39	C34.9
+#36	ICD-O T40	C71.9
+#37	ICD-O T41	C71.0 8000/6
+#38	ICD-O T42	8000/6
+#39	ICD-O T43	8070/3
+#40	ICD-O T44	C12.9 8070/3;C13.9 8070/3
+#41	ICD-O T45	C13.9
+#42	ICD-O T46	C12.9
+#43	ICD-O T47	8000/6
+#44	ICD-O T48	8000/9
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	8000/3
+#47	ICD-O T51	8000/1
+#48	ICD-O T52	C40.2 8000/1
+#49	ICD-O T53	C40.2
+#50	ICD-O T54	8000/9
+#51	ICD-O T55	C49.2 8000/1;C49.3 8000/1
+#52	ICD-O T56	C49.3
+#53	ICD-O T57	C49.2
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	C17.0 8000/1
+#56	ICD-O T60	C17.0
+#57	ICD-O T61	8000/1
+#58	ICD-O T62	8000/1
+#59	ICD-O T63	8800/3
+#60	ICD-O T64	8800/3

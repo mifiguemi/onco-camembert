@@ -1,0 +1,14 @@
+T1	morphologie 372 381	néoplasme
+T3	topographie 385 389	foie
+T4	topographie 1002 1032	quadrant inférieur gauche [CII
+T6	morphologie 1047 1053	nodule
+T23	morphologie 1078 1108	hautement suspect de malignité
+T8	morphologie 1409 1439	carcinome canalaire infiltrant
+T10	morphologie 1617 1643	métastases carcinomateuses
+T12	morphologie 1771 1789	maladie à distance
+T13	morphologie 1808 1817	néoplasme
+T15	topographie 1821 1825	sein
+T17	morphologie 2565 2595	carcinome canalaire infiltrant
+T18	morphologie 2735 2744	carcinome
+T20	topographie 2769 2778	ganglions
+T22	morphologie 6691 6708	cellules malignes

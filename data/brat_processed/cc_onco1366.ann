@@ -1,0 +1,33 @@
+T1	morphologie 407 412	masse
+T3	topographie 413 423	abdominale
+T4	morphologie 728 734	tumeur
+T6	topographie 735 748	surrénalienne
+T7	morphologie 793 802	Carcinome
+T9	topographie 803 821	corticosurrénalien
+T10	morphologie 921 930	carcinome
+T12	topographie 931 949	corticosurrénalien
+T13	morphologie 1047 1055	invasion
+T15	topographie 1056 1070	périvasculaire
+T16	morphologie 1157 1163	nodule
+T18	topographie 1164 1175	surrénalien
+T20	morphologie 1302 1310	récidive
+T22	morphologie 1315 1321	nodule
+T23	morphologie 1411 1425	adénocarcinome
+T25	topographie 1436 1449	surrénalienne
+T26	morphologie 1623 1629	lésion
+T28	topographie 1638 1663	grande courbure gastrique
+T29	morphologie 1671 1676	masse
+T32	morphologie 1871 1878	implant
+T34	topographie 1879 1888	gastrique
+T35	morphologie 1986 1995	carcinome
+T37	topographie 1996 2014	corticosurrénalien
+T39	morphologie 2022 2026	GIST
+T40	morphologie 2060 2067	implant
+T42	topographie 2068 2077	gastrique
+T44	morphologie 2262 2270	récidive
+T46	morphologie 2570 2578	récidive
+T48	morphologie 2621 2629	récidive
+T50	morphologie 3107 3114	lésions
+T52	morphologie 3158 3175	cellules malignes
+T54	morphologie 3221 3229	récidive
+T31	topographie 1685 1705	région surrénalienne

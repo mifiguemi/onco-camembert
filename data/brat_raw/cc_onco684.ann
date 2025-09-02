@@ -1,0 +1,104 @@
+T21	topographie 1376 1398	crâniennes occipitales
+T49	topographie 3630 3667	îlots de Langerhans non pancréatiques
+T51	morphologie 3670 3675	NICTH
+T1	morphologie 126 155	sarcome synovial monophasique
+T2	expression_CIM 126 197	sarcome synovial monophasique de grade 3 situé dans le membre inférieur
+T3	differenciation 159 166	grade 3
+T4	topographie 181 197	membre inférieur
+T5	morphologie 784 792	récidive
+T6	expression_CIM 784 804	récidive péritonéale
+T7	topographie 793 804	péritonéale
+T8	morphologie 975 982	lésions
+T9	expression_CIM 975 1002	lésions dans les deux reins
+T10	topographie 997 1002	reins
+T11	morphologie 1038 1048	métastases
+T12	expression_CIM 1038 1068	métastases du sarcome synovial
+T13	morphologie 1052 1068	sarcome synovial
+T14	expression_CIM 1157 1167	métastases
+T15	morphologie 1157 1167	métastases
+T16	morphologie 1185 1196	adénopathie
+T17	expression_CIM 1185 1204	adénopathie iliaque
+T18	topographie 1197 1204	iliaque
+T19	morphologie 1365 1375	métastases
+T20	expression_CIM 1365 1398	métastases crâniennes occipitales
+T22	morphologie 1477 1488	progression
+T23	expression_CIM 1477 1522	progression au niveau pulmonaire et hépatique
+T24	topographie 1499 1509	pulmonaire
+T25	topographie 1513 1522	hépatique
+T26	morphologie 1697 1704	lésions
+T27	expression_CIM 1697 1739	lésions pulmonaires, hépatiques et rénales
+T28	topographie 1705 1716	pulmonaires
+T29	topographie 1718 1728	hépatiques
+T30	topographie 1732 1739	rénales
+T31	morphologie 1891 1898	nodules
+T32	expression_CIM 1891 1910	nodules pulmonaires
+T33	topographie 1899 1910	pulmonaires
+T34	morphologie 1949 1956;1968 1981	lésions métastatiques
+T35	expression_CIM 1949 1981	lésions hépatiques métastatiques
+T36	topographie 1957 1967	hépatiques
+T37	morphologie 3428 3449	atteinte métastatique
+T38	expression_CIM 3428 3457	atteinte métastatique du foie
+T39	topographie 3453 3457	foie
+T40	morphologie 3462 3469	nodules
+T41	expression_CIM 3462 3481	nodules pulmonaires
+T42	topographie 3470 3481	pulmonaires
+T43	morphologie 3491 3499	atteinte
+T44	expression_CIM 3491 3548	atteinte des tissus mous au niveau du corps vertébral D11
+T45	topographie 3504 3515	tissus mous
+T46	topographie 3529 3548	corps vertébral D11
+T47	morphologie 3619 3625	tumeur
+T48	expression_CIM 3619 3667	tumeur des îlots de Langerhans non pancréatiques
+T50	expression_CIM 3670 3675	NICTH
+T52	expression_CIM 3686 3708	tumeur mésenchymateuse
+T53	morphologie 3686 3708	tumeur mésenchymateuse
+T54	expression_CIM 4145 4169	progression de la tumeur
+T55	morphologie 4145 4169	progression de la tumeur
+#1	ICD-O T51	todelete
+#2	ICD-O T1	9040/3
+#3	ICD-O T2	C76.5 9040/33
+#4	ICD-O T3	3
+#5	ICD-O T4	C76.5
+#6	ICD-O T5	8000/6
+#7	ICD-O T6	C48.2 8000/6
+#8	ICD-O T7	C48.2
+#9	ICD-O T8	8000/1
+#10	ICD-O T9	C64.9 8000/1
+#11	ICD-O T10	C64.9
+#12	ICD-O T11	8000/6
+#13	ICD-O T12	8000/6
+#14	ICD-O T13	9040/3
+#15	ICD-O T14	8000/6
+#16	ICD-O T15	8000/6
+#17	ICD-O T16	8000/1
+#18	ICD-O T17	C77.5 8000/1
+#19	ICD-O T18	C41.4
+#20	ICD-O T19	8000/6
+#21	ICD-O T20	C41.0 8000/6
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	C22.0 8000/6;C34.9 8000/6
+#24	ICD-O T24	C34.9
+#25	ICD-O T25	C22.0
+#26	ICD-O T26	8000/1
+#27	ICD-O T27	C22.0 8000/1;C34.9 8000/1;C64.9 8000/1
+#28	ICD-O T28	C34.9
+#29	ICD-O T29	C22.0
+#30	ICD-O T30	C64.9
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	C34.9 8000/1
+#33	ICD-O T33	C34.9
+#34	ICD-O T34	8000/6
+#35	ICD-O T35	C22.0 8000/6
+#36	ICD-O T36	C22.0
+#37	ICD-O T37	8000/6
+#38	ICD-O T38	C22.0 8000/6
+#39	ICD-O T39	C22.0
+#40	ICD-O T40	8000/1
+#41	ICD-O T41	C34.9 8000/1
+#42	ICD-O T42	C34.9
+#43	ICD-O T43	8000/1
+#44	ICD-O T45	C49.9
+#45	ICD-O T46	C41.2
+#46	ICD-O T47	8000/1
+#47	ICD-O T52	8800/1
+#48	ICD-O T53	8800/1
+#49	ICD-O T55	8000/3

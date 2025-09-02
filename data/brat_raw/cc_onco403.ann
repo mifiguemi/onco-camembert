@@ -1,0 +1,43 @@
+T14	topographie 976 985	axillaire
+T13	topographie 949 972	fenêtre aortopulmonaire
+T1	morphologie 675 678	LOE
+T2	expression_CIM 675 693	LOE intracrânienne
+T3	topographie 679 693	intracrânienne
+T4	expression_CIM 707 716	métastase
+T5	morphologie 707 716	métastase
+T6	morphologie 849 863	adénocarcinome
+T7	expression_CIM 849 904	adénocarcinome modérément différencié du lobe inférieur
+T8	differenciation 864 886	modérément différencié
+T9	topographie 890 904	lobe inférieur
+T10	morphologie 917 939	atteinte adénopathique
+T11	expression_CIM 917 985	atteinte adénopathique hilaire, fenêtre aortopulmonaire et axillaire
+T12	topographie 940 947	hilaire
+T15	morphologie 1008 1015	lésions
+T16	expression_CIM 1008 1040	lésions hépatiques et cérébrales
+T17	topographie 1016 1026	hépatiques
+T18	topographie 1030 1040	cérébrales
+T19	morphologie 1329 1340	progression
+T20	expression_CIM 1329 1384	progression a ensuite été observée au niveau pulmonaire
+T21	topographie 1374 1384	pulmonaire
+T22	morphologie 5854 5874	progression tumorale
+T23	expression_CIM 5854 5895	progression tumorale au niveau pulmonaire
+T24	topographie 5885 5895	pulmonaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C71.9
+#3	ICD-O T4	8000/6
+#4	ICD-O T5	8000/6
+#5	ICD-O T6	8140/3
+#6	ICD-O T7	C34.3 8140/32
+#7	ICD-O T8	2
+#8	ICD-O T9	C34.3
+#9	ICD-O T10	8000/6
+#10	ICD-O T12	C76.1
+#11	ICD-O T15	8000/1
+#12	ICD-O T16	C22.0 8000/1;C71.0 8000/1
+#13	ICD-O T17	C22.0
+#14	ICD-O T18	C71.9
+#15	ICD-O T19	8000/9
+#16	ICD-O T21	C34.9
+#17	ICD-O T22	8000/9
+#18	ICD-O T23	C34.9 8000/3
+#19	ICD-O T24	C34.9

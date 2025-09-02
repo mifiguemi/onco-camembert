@@ -1,0 +1,60 @@
+T9	topographie 500 506	antral
+T83	topographie 5985 5999	uretère distal
+T1	morphologie 159 168	myomatose
+T3	topographie 169 176	utérine
+T5	morphologie 254 273	maladie oncologique
+T6	morphologie 444 453	formation
+T91	morphologie 464 475	néoplasique
+T8	topographie 454 463	gastrique
+T10	morphologie 723 737	adénocarcinome
+T12	topographie 738 747	gastrique
+T13	morphologie 1047 1055	fibromes
+T15	topographie 1056 1063	utérins
+T16	morphologie 1581 1588	lésions
+T18	topographie 1589 1597	utérines
+T20	morphologie 1619 1627	fibromes
+T21	morphologie 1793 1807	adénocarcinome
+T23	topographie 1813 1820	endocol
+T25	morphologie 1848 1857	métastase
+T26	morphologie 1863 1872	carcinome
+T28	topographie 1873 1892	gastrique antérieur
+T29	morphologie 2170 2190	maladie métastatique
+T31	topographie 2201 2213	endocervical
+T32	morphologie 2314 2321	nodules
+T34	topographie 2344 2361	bases pulmonaires
+T35	morphologie 2681 2695	Adénocarcinome
+T37	topographie 2696 2705	gastrique
+T38	morphologie 2848 2856	fibromes
+T40	topographie 2857 2864	utérins
+T42	morphologie 2867 2874	Rechute
+T43	morphologie 2880 2894	adénocarcinome
+T45	topographie 2895 2904	gastrique
+T47	morphologie 2980 2987	Rechute
+T48	morphologie 2993 3007	adénocarcinome
+T50	topographie 3008 3017	gastrique
+T51	morphologie 3201 3215	adénocarcinome
+T53	topographie 3216 3233	gastro-œsophagien
+T54	morphologie 3864 3887	stabilité de la maladie
+T56	topographie 3898 3908	pulmonaire
+T57	morphologie 4165 4172	rechute
+T59	topographie 4173 4183	pulmonaire
+T60	morphologie 4223 4234	progression
+T62	topographie 4235 4246	péritonéale
+T63	morphologie 4263 4268	masse
+T65	topographie 4269 4278	pelvienne
+T67	morphologie 4333 4341	récidive
+T68	morphologie 4914 4925	progression
+T70	topographie 4936 4946	péritonéal
+T71	morphologie 4954 4961	implant
+T73	topographie 4962 4974	rectovésical
+T75	morphologie 5287 5310	stabilité de la maladie
+T76	morphologie 5691 5716	lésions hypermétaboliques
+T78	topographie 5790 5796	bassin
+T79	morphologie 5918 5926	implants
+T81	topographie 5956 5962	rectum
+T82	topographie 5970 5976	vessie
+T84	morphologie 6117 6124	implant
+T86	topographie 6133 6153	mésocôlon transverse
+T87	topographie 6160 6166	rectum
+T88	morphologie 6249 6257	invasion
+T90	topographie 6258 6269	périneurale

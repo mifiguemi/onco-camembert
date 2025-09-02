@@ -1,0 +1,117 @@
+T27	topographie 2781 2798	fosse postérieure
+T1	morphologie 85 116	nævus mélanocytaire lentigineux
+T2	expression_CIM 85 128	nævus mélanocytaire lentigineux dans le dos
+T3	topographie 125 128	dos
+T4	morphologie 427 432	masse
+T5	expression_CIM 427 469	masse à croissance lente dans le testicule
+T6	topographie 460 469	testicule
+T7	morphologie 562 567	masse
+T8	expression_CIM 562 610	masse dans le pôle antéro-supérieur du testicule
+T9	topographie 601 610	testicule
+T10	morphologie 1364 1372	atteinte
+T11	expression_CIM 1364 1386	atteinte ganglionnaire
+T12	topographie 1373 1386	ganglionnaire
+T13	expression_CIM 1390 1399	métastase
+T14	morphologie 1390 1399	métastase
+T15	morphologie 1437 1446;1460 1485	Carcinome germinal non séminomateux
+T16	expression_CIM 1437 1485	Carcinome testiculaire germinal non séminomateux
+T17	topographie 1447 1459	testiculaire
+T18	expression_CIM 1659 1797	tératome malin mixte avec des zones de carcinome embryonnaire, de sac vitellin, de choriocarcinome et de néoplasme germinal intratubulaire
+T19	morphologie 1659 1797	tératome malin mixte avec des zones de carcinome embryonnaire, de sac vitellin, de choriocarcinome et de néoplasme germinal intratubulaire
+T20	morphologie 2103 2115	adénopathies
+T21	expression_CIM 2103 2133	adénopathies rétropéritonéales
+T22	topographie 2116 2133	rétropéritonéales
+T23	expression_CIM 2255 2263	récidive
+T24	morphologie 2255 2263	récidive
+T25	morphologie 2747 2753;2819 2841	lésion évoquant une métastase
+T26	expression_CIM 2747 2841	lésion apparemment unique dans la fosse postérieure, très vascularisée, évoquant une métastase
+T28	expression_CIM 3248 3257	métastase
+T29	morphologie 3248 3257	métastase
+T30	expression_CIM 3272 3287	tumeur primaire
+T31	morphologie 3272 3287	tumeur primaire
+T32	expression_CIM 3490 3496	lésion
+T33	morphologie 3490 3496	lésion
+T34	expression_CIM 3678 3715	tumeurs mixtes de la lignée germinale
+T35	morphologie 3678 3715	tumeurs mixtes de la lignée germinale
+T36	expression_CIM 3748 3757	métastase
+T37	morphologie 3748 3757	métastase
+T38	morphologie 3764 3770	tumeur
+T39	expression_CIM 3764 3783	tumeur testiculaire
+T40	topographie 3771 3783	testiculaire
+T41	expression_CIM 3802 3837	tumeur primaire d'origine germinale
+T42	morphologie 3802 3837	tumeur primaire d'origine germinale
+T43	expression_CIM 3907 3917	métastases
+T44	morphologie 3907 3917	métastases
+T45	expression_CIM 4076 4082	lésion
+T46	morphologie 4076 4082	lésion
+T47	expression_CIM 4292 4298	tumeur
+T48	morphologie 4292 4298	tumeur
+T49	expression_CIM 4309 4315	foyers
+T50	morphologie 4309 4315	foyers
+T51	expression_CIM 4745 4751	tumeur
+T52	morphologie 4745 4751	tumeur
+T53	morphologie 5679 5695	hémangioblastome
+T54	expression_CIM 5679 5707	hémangioblastome cérébelleux
+T55	topographie 5696 5707	cérébelleux
+T56	morphologie 5890 5896	tumeur
+T57	expression_CIM 5890 5909	tumeur testiculaire
+T58	topographie 5897 5909	testiculaire
+T59	expression_CIM 5971 5979	tératome
+T60	morphologie 5971 5979	tératome
+#1	ICD-O T1	8720/0
+#2	ICD-O T2	C76.7 8720/0
+#3	ICD-O T3	C76.7
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C62.9 8000/1
+#6	ICD-O T6	C62.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C62.9 8000/1
+#9	ICD-O T9	C62.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.9 8000/1
+#12	ICD-O T12	C77.9
+#13	ICD-O T13	8000/6
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	9065/3
+#16	ICD-O T16	C62.9 9065/3
+#17	ICD-O T17	C62.9
+#18	ICD-O T19	9080/3
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C77.2 8000/1
+#21	ICD-O T22	C48.0
+#22	ICD-O T23	8000/6
+#23	ICD-O T24	8000/6
+#24	ICD-O T25	8000/6
+#25	ICD-O T28	8000/6
+#26	ICD-O T29	8000/6
+#27	ICD-O T30	8000/3
+#28	ICD-O T31	8000/3
+#29	ICD-O T32	8000/1
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	9085/3
+#32	ICD-O T35	9085/3
+#33	ICD-O T36	8000/6
+#34	ICD-O T37	8000/6
+#35	ICD-O T38	8000/1
+#36	ICD-O T39	C62.9 8000/1
+#37	ICD-O T40	C62.9
+#38	ICD-O T41	9064/3
+#39	ICD-O T42	9064/3
+#40	ICD-O T43	8000/6
+#41	ICD-O T44	8000/6
+#42	ICD-O T45	8000/1
+#43	ICD-O T46	8000/1
+#44	ICD-O T47	8000/1
+#45	ICD-O T48	8000/1
+#46	ICD-O T49	8000/1
+#47	ICD-O T50	8000/1
+#48	ICD-O T51	8000/1
+#49	ICD-O T52	8000/1
+#50	ICD-O T53	9161/1
+#51	ICD-O T54	C71.6 9161/1
+#52	ICD-O T55	C71.6
+#53	ICD-O T56	8000/1
+#54	ICD-O T57	C62.9 8000/1
+#55	ICD-O T58	C62.9
+#56	ICD-O T59	9080/1
+#57	ICD-O T60	9080/1

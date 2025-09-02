@@ -1,0 +1,37 @@
+T1	morphologie 2956 2963	lésions
+T5	morphologie 3247 3253	Lésion
+T6	morphologie 3897 3928	lésions occupant l'espace (LOE)
+T8	topographie 3973 3986	corps calleux
+T11	morphologie 4184 4191	lésions
+T13	topographie 4237 4242	genou
+T15	topographie 4277 4290	corps calleux
+T17	morphologie 4303 4310	lésions
+T18	morphologie 4370 4376	lésion
+T20	topographie 4377 4385	frontale
+T21	morphologie 4959 4962	LOE
+T23	topographie 4971 4974	SNC
+T24	morphologie 4997 5005	lymphome
+T52	morphologie 5015 5023	primaire
+T26	topographie 5006 5014	cérébral
+T27	morphologie 5190 5198	atteinte
+T29	topographie 5202 5205	SNC
+T30	morphologie 5820 5826	lésion
+T32	topographie 5827 5835	frontale
+T34	morphologie 6906 6914	lymphome
+T35	morphologie 7467 7474	lésions
+T37	topographie 7475 7485	cérébrales
+T38	morphologie 7515 7521	foyers
+T40	topographie 7538 7551	sous-cortical
+T41	topographie 7567 7575	frontale
+T42	topographie 7609 7617	frontale
+T43	topographie 7633 7638	gyrus
+T44	morphologie 7665 7678	rehaussements
+T46	topographie 7697 7710	corps calleux
+T48	morphologie 8104 8111	lésions
+T49	morphologie 8293 8303	lymphome T
+T53	morphologie 8313 8321	primaire
+T51	topographie 8304 8312	cérébral
+T10	topographie 4035 4125	région sous-corticale des deux hémisphères cérébraux, principalement frontale et pariétale
+T14	topographie 4257 4265	splénium
+T3	topographie 3014 3039	splénium du corps calleux
+T9	topographie 3991 4028	surface des deux ventricules latéraux

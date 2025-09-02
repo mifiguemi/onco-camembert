@@ -1,0 +1,79 @@
+T1	expression_CIM 555 560	masse
+T2	morphologie 555 560	masse
+T3	expression_CIM 692 717	adénocarcinome infiltrant
+T4	morphologie 692 717	adénocarcinome infiltrant
+T5	expression_CIM 759 777	maladie à distance
+T6	morphologie 759 777	maladie à distance
+T7	morphologie 829 843	adénocarcinome
+T8	expression_CIM 829 853	adénocarcinome gastrique
+T9	topographie 844 853	gastrique
+T10	morphologie 1124 1135	progression
+T11	expression_CIM 1124 1155	progression au niveau hépatique
+T12	topographie 1146 1155	hépatique
+T13	expression_CIM 1192 1198	lésion
+T14	morphologie 1192 1198	lésion
+T15	morphologie 1427 1438	progression
+T16	expression_CIM 1427 1454	progression dans le cerveau
+T17	topographie 1447 1454	cerveau
+T18	morphologie 1466 1472	lésion
+T19	expression_CIM 1466 1481	lésion frontale
+T20	topographie 1473 1481	frontale
+T21	morphologie 1892 1903	progression
+T22	expression_CIM 1892 1927	progression au niveau de la calotte
+T23	topographie 1920 1927	calotte
+T24	morphologie 1937 1949	infiltration
+T25	expression_CIM 1937 1979	infiltration de la dure-mère et du cerveau
+T26	topographie 1956 1965	dure-mère
+T27	topographie 1972 1979	cerveau
+T28	expression_CIM 2027 2033	lésion
+T29	morphologie 2027 2033	lésion
+T30	expression_CIM 2115 2121	lésion
+T31	morphologie 2115 2121	lésion
+T32	morphologie 2280 2286	lésion
+T33	expression_CIM 2280 2300	lésion de la calotte
+T34	topographie 2293 2300	calotte
+T35	morphologie 2526 2532	lésion
+T36	expression_CIM 2526 2541	lésion frontale
+T37	topographie 2533 2541	frontale
+T38	morphologie 2787 2798	progression
+T39	expression_CIM 2787 2828	progression vers la région temporo-basale
+T40	topographie 2807 2828	région temporo-basale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8140/3
+#4	ICD-O T4	8140/3
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	C16.9 8140/3
+#9	ICD-O T9	C16.9
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	C22.0 8000/6
+#12	ICD-O T12	C22.0
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	C71.0 8000/6
+#17	ICD-O T17	C71.0
+#18	ICD-O T18	8000/1
+#19	ICD-O T19	C71.1 8000/1
+#20	ICD-O T20	C71.1
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C41.0 8000/6
+#23	ICD-O T23	C41.0
+#24	ICD-O T24	8000/1
+#25	ICD-O T25	C70.9 8000/1;C71.0 8000/1
+#26	ICD-O T26	C70.9
+#27	ICD-O T27	C71.0
+#28	ICD-O T28	8000/1
+#29	ICD-O T29	8000/1
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	8000/1
+#32	ICD-O T32	8000/1
+#33	ICD-O T33	C41.0 8000/1
+#34	ICD-O T34	C41.0
+#35	ICD-O T35	8000/1
+#36	ICD-O T36	C71.1 8000/1
+#37	ICD-O T37	C71.1
+#38	ICD-O T38	8000/6
+#39	ICD-O T39	C71.8 8000/6

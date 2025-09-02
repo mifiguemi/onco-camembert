@@ -1,0 +1,32 @@
+T1	morphologie 282 296	adénocarcinome
+T2	expression_CIM 282 307	adénocarcinome pulmonaire
+T3	topographie 297 307	pulmonaire
+T4	expression_CIM 347 355	stade IV
+T5	morphologie 347 355	stade IV
+T6	morphologie 386 399	dissémination
+T7	expression_CIM 386 561	dissémination osseuse dans L5, le pédicule gauche de L4, l'aile iliaque droite et le tiers postérieur de l'aile iliaque gauche, l'acétabulum gauche et la cellule cotyloïdienne
+T8	topographie 400 407	osseuse
+T9	topographie 413 415	L5
+T10	topographie 439 441	L4
+T11	topographie 445 457	aile iliaque
+T12	topographie 493 505	aile iliaque
+T13	topographie 516 526	acétabulum
+T14	topographie 540 561	cellule cotyloïdienne
+T15	expression_CIM 1077 1104	stabilisation de la maladie
+T16	morphologie 1077 1104	stabilisation de la maladie
+#1	ICD-O T1	8140/3
+#2	ICD-O T2	C34.9 8140/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C41.2 8000/6;C41.4 8000/6;C41.9 8000/6
+#8	ICD-O T8	C41.9
+#9	ICD-O T9	C41.2
+#10	ICD-O T10	C41.2
+#11	ICD-O T11	C41.4
+#12	ICD-O T12	C41.4
+#13	ICD-O T13	C41.4
+#14	ICD-O T14	C41.4
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6

@@ -1,0 +1,21 @@
+T13	morphologie 1092 1119	Adénocarcinome métastatique
+T1	morphologie 717 731	adénocarcinome
+T3	topographie 732 743	prostatique
+T4	differenciation 747 759	Gleason (4+5
+T6	morphologie 775 782	nodules
+T7	morphologie 801 807	lésion
+T9	topographie 808 817	viscérale
+T10	morphologie 866 887	atteinte métastatique
+T12	topographie 899 914	squelette axial
+T15	topographie 1126 1134	prostate
+T16	morphologie 1136 1146	métastases
+T17	topographie 1147 1155	osseuses
+T18	differenciation 1157 1168	Gleason 4+5
+T20	morphologie 1681 1684	ADC
+T22	morphologie 1685 1689	E-IV
+T23	morphologie 1691 1701	métastases
+T25	topographie 1702 1710	osseuses
+T28	topographie 2019 2026	osseuse
+T30	morphologie 2692 2715	stabilité de la maladie
+T32	morphologie 3431 3456	progression de la maladie
+T26	morphologie 2016 2018	PE

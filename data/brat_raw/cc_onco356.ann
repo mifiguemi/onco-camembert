@@ -1,0 +1,63 @@
+T1	morphologie 356 390	tumeur stromale gastro-intestinale
+T2	expression_CIM 356 412	tumeur stromale gastro-intestinale dans l'iléon terminal
+T3	topographie 398 412	iléon terminal
+T4	expression_CIM 667 688	récidive métastatique
+T5	morphologie 667 688	récidive métastatique
+T6	expression_CIM 1299 1333	Tumeur stromale gastro-intestinale
+T7	morphologie 1299 1333	Tumeur stromale gastro-intestinale
+T8	expression_CIM 1391 1397	tumeur
+T9	morphologie 1391 1397	tumeur
+T10	expression_CIM 1399 1430	Néoplasme à cellules fusiformes
+T11	morphologie 1399 1430	Néoplasme à cellules fusiformes
+T12	expression_CIM 1822 1826	GIST
+T13	morphologie 1822 1826	GIST
+T14	expression_CIM 1863 1871	Récidive
+T15	morphologie 1863 1871	Récidive
+T16	morphologie 1877 1887	métastases
+T17	expression_CIM 1877 1900	métastases péritonéales
+T18	topographie 1888 1900	péritonéales
+T19	morphologie 2611 2616;2628 2650	masse évocatrice de récidive
+T20	expression_CIM 2611 2616	masse
+T21	morphologie 2915 2923	implants
+T22	expression_CIM 2915 2935	implants péritonéaux
+T23	topographie 2924 2935	péritonéaux
+T24	expression_CIM 3050 3068	récidive régionale
+T25	morphologie 3050 3068	récidive régionale
+T26	morphologie 3387 3395	atteinte
+T27	expression_CIM 3387 3405	atteinte corticale
+T28	topographie 3396 3405	corticale
+T29	expression_CIM 3577 3602	progression de la maladie
+T30	morphologie 3577 3602	progression de la maladie
+T31	expression_CIM 3645 3651	tumeur
+T32	morphologie 3645 3651	tumeur
+#1	ICD-O T1	8936/1
+#2	ICD-O T2	C17.2 8936/1
+#3	ICD-O T3	C17.2
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	8000/6
+#6	ICD-O T6	8936/1
+#7	ICD-O T7	8936/1
+#8	ICD-O T8	8000/1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	8004/3
+#11	ICD-O T11	8004/3
+#12	ICD-O T12	8936/1
+#13	ICD-O T13	8936/1
+#14	ICD-O T14	8000/6
+#15	ICD-O T15	8000/6
+#16	ICD-O T16	8000/6
+#17	ICD-O T17	C48.2 8000/6
+#18	ICD-O T18	C48.2
+#19	ICD-O T19	8000/9
+#20	ICD-O T20	8000/1
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	C48.2 8000/6
+#23	ICD-O T23	C48.2
+#24	ICD-O T25	8000/3
+#25	ICD-O T26	8000/1
+#26	ICD-O T27	C71.0 8000/1
+#27	ICD-O T28	C71.0
+#28	ICD-O T29	8000/1
+#29	ICD-O T30	8000/1
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	8000/1

@@ -1,0 +1,34 @@
+T1	morphologie 1146 1156	métastases
+T3	topographie 1157 1165	osseuses
+T4	morphologie 1327 1339	adénopathies
+T6	topographie 1340 1357	rétropéritonéales
+T7	morphologie 1604 1609	masse
+T9	topographie 1618 1629	sinus rénal
+T10	morphologie 1657 1663	tumeur
+T12	topographie 1672 1684	bassin rénal
+T13	morphologie 1699 1711	adénopathies
+T15	topographie 1712 1729	rétropéritonéales
+T16	morphologie 1765 1775	métastases
+T18	topographie 1776 1787	pulmonaires
+T19	topographie 1789 1797	osseuses
+T20	topographie 1801 1815	surrénaliennes
+T21	morphologie 1838 1844	lésion
+T48	morphologie 1883 1898	compatible avec
+T49	morphologie 1914 1924	une tumeur
+T25	morphologie 2120 2125	masse
+T26	morphologie 2177 2187	métastases
+T28	topographie 2188 2203	intracardiaques
+T29	morphologie 2234 2239	masse
+T31	topographie 2240 2246	rénale
+T33	morphologie 2320 2368	carcinome urothélial à cellules transitionnelles
+T34	morphologie 2382 2402	Carcinome urothélial
+T37	morphologie 2406 2414	stade IV
+T38	topographie 2418 2430	bassin rénal
+T39	morphologie 2438 2448	Métastases
+T41	topographie 2449 2457	osseuses
+T42	topographie 2459 2470	pulmonaires
+T43	topographie 2472 2486	surrénaliennes
+T44	topographie 2498 2513	intracardiaques
+T45	morphologie 2547 2566	tumeur métastatique
+T47	topographie 2570 2586	bassinet du rein
+T23	topographie 1948 1958	ventricule

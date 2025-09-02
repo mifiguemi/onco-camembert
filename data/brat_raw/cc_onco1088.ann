@@ -1,0 +1,24 @@
+T1	morphologie 363 383	carcinome papillaire
+T2	expression_CIM 363 391	carcinome papillaire du rein
+T3	topographie 387 391	rein
+T4	morphologie 539 547	récidive
+T5	expression_CIM 539 574	récidive ganglionnaire médiastinale
+T6	topographie 548 574	ganglionnaire médiastinale
+T7	morphologie 587 594	lésions
+T8	expression_CIM 587 629	lésions osseuses dans les corps vertébraux
+T9	topographie 595 629	osseuses dans les corps vertébraux
+T10	morphologie 749 755	lésion
+T11	expression_CIM 749 763	lésion dorsale
+T12	topographie 756 763	dorsale
+#1	ICD-O T1	8050/3
+#2	ICD-O T2	C64.9 8050/3
+#3	ICD-O T3	C64.9
+#4	ICD-O T4	8000/6
+#5	ICD-O T5	C77.1 8000/6
+#6	ICD-O T6	C77.1
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C41.2 8000/1;C41.9 8000/1
+#9	ICD-O T9	C41.9
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C76.7 8000/1
+#12	ICD-O T12	C76.7

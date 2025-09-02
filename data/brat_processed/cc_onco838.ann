@@ -1,0 +1,50 @@
+T72	topographie 6146 6165	pariétale gastrique
+T32	topographie 2922 2933	périneurale
+T2	morphologie 1227 1232	masse
+T4	morphologie 1443 1450	rechute
+T5	morphologie 1497 1508	adénopathie
+T7	topographie 1509 1518	axillaire
+T8	topographie 1522 1538	sus-claviculaire
+T10	morphologie 1815 1821	lésion
+T11	morphologie 2038 2048	métastases
+T13	topographie 2068 2084	colonne lombaire
+T14	topographie 2091 2097	bassin
+T15	morphologie 2146 2153	lésions
+T17	topographie 2154 2162	osseuses
+T18	topographie 2194 2196	L1
+T19	morphologie 2332 2342	métastases
+T21	topographie 2343 2351	osseuses
+T22	morphologie 2526 2535	formation
+T24	topographie 2550 2556	ovaire
+T26	morphologie 2606 2630	cystadénome séromucineux
+T28	morphologie 2797 2809	infiltration
+T29	morphologie 2889 2906	foyers d'invasion
+T31	topographie 2907 2918	lymphatique
+T33	morphologie 3466 3513	Carcinome canalaire infiltrant de type apocrine
+T35	topographie 3517 3521	sein
+T37	morphologie 3530 3538	stade IV
+T38	morphologie 3614 3625	progression
+T40	topographie 3626 3635	ovarienne
+T41	morphologie 3944 3951	maladie
+T79	morphologie 3960 3972	métastatique
+T43	topographie 3952 3959	osseuse
+T45	topographie 4296 4302	osseux
+T47	morphologie 4750 4759	néoplasme
+T49	morphologie 5217 5237	lésions néoplasiques
+T50	morphologie 5295 5319	augmentation métabolique
+T52	topographie 5359 5374	antre gastrique
+T54	morphologie 5516 5530	tumeur maligne
+T55	morphologie 5741 5753	infiltration
+T57	topographie 5758 5791	vaisseaux lymphatiques gastriques
+T59	morphologie 5800 5821	cellules néoplasiques
+T61	morphologie 5860 5866	lésion
+T62	morphologie 5903 5912	métastase
+T64	topographie 5921 5936	paroi gastrique
+T65	morphologie 5991 5998	lésions
+T67	topographie 5999 6007	cutanées
+T69	morphologie 6097 6106	néoplasme
+T70	morphologie 6133 6145	infiltration
+T73	morphologie 6287 6294	rechute
+T75	topographie 6295 6302	cutanée
+T76	morphologie 6787 6798	progression
+T78	topographie 6799 6809	abdominale

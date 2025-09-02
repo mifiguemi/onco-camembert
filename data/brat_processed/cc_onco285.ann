@@ -1,0 +1,37 @@
+T58	topographie 7231 7239	CARDIQUE
+T1	morphologie 1225 1230	masse
+T3	topographie 1231 1245	intracardiaque
+T5	morphologie 1298 1314	tumeur primitive
+T7	morphologie 1316 1328	angiosarcome
+T8	morphologie 1384 1389	masse
+T10	topographie 1430 1440	oreillette
+T14	morphologie 4288 4293	masse
+T16	morphologie 5118 5123	masse
+T18	morphologie 5213 5225	infiltration
+T20	morphologie 5479 5484	masse
+T21	morphologie 5586 5596	métastases
+T23	topographie 5597 5608	pulmonaires
+T25	morphologie 5618 5637	lâchages de ballons
+T27	morphologie 5725 5735	métastases
+T28	morphologie 5742 5747	masse
+T30	topographie 5771 5781	oreillette
+T32	morphologie 5794 5801	lésions
+T34	morphologie 5891 5901	métastases
+T36	morphologie 6048 6054	lésion
+T38	morphologie 6178 6183	masse
+T39	morphologie 6432 6439	lésions
+T41	topographie 6440 6451	pulmonaires
+T42	morphologie 6461 6467	lésion
+T44	topographie 6468 6479	suprarénale
+T45	morphologie 6565 6570	Masse
+T47	topographie 6571 6580	cardiaque
+T48	topographie 6588 6598	oreillette
+T49	morphologie 6626 6632	tumeur
+T51	differenciation 6636 6646	haut grade
+T53	morphologie 6714 6724	métastases
+T55	morphologie 7132 7141	néoplasme
+T56	morphologie 7218 7230	ANGIOSARCOME
+T59	morphologie 7245 7255	METASTASIS
+T61	topographie 7280 7287	POUmons
+T62	topographie 7295 7304	THYROIDES
+T12	morphologie 3082 3120	prolifération mésenchymateuse atypique

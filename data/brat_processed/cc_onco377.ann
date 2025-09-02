@@ -1,0 +1,19 @@
+T7	morphologie 1071 1090	lésion hypoéchogène
+T1	morphologie 736 753	lymphadénopathies
+T3	topographie 754 771	péripancréatiques
+T4	topographie 783 798	hilum hépatique
+T6	morphologie 946 953	tumeurs
+T9	topographie 1162 1178	tête du pancréas
+T11	morphologie 1330 1359	adénocarcinome mucosécrétoire
+T12	morphologie 1659 1673	adénocarcinome
+T14	topographie 1674 1686	pancréatique
+T15	differenciation 1690 1699	bas grade
+T17	morphologie 2210 2218	récidive
+T19	morphologie 2225 2245	métastase à distance
+T21	morphologie 6271 6278	lésions
+T23	morphologie 6916 6923	lésions
+T25	morphologie 8414 8420	masses
+T26	morphologie 8957 8971	Adénocarcinome
+T28	topographie 8972 8984	pancréatique
+T29	differenciation 8988 8997	bas grade
+T31	morphologie 10138 10157	maladie oncologique

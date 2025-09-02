@@ -1,0 +1,68 @@
+T15	topographie 2306 2333	abdominale rétropéritonéale
+T37	topographie 3313 3372	hépatiques (segment IV et plus douteux dans le segment VIII
+T2	morphologie 1367 1373	masses
+T3	morphologie 1529 1534	masse
+T5	topographie 1535 1551	rétropéritonéale
+T6	morphologie 1958 1983	conglomérat adénopathique
+T8	topographie 1984 1995	médiastinal
+T9	topographie 2008 2027	médiastin antérieur
+T10	morphologie 2217 2223	nodule
+T12	topographie 2224 2234	pulmonaire
+T13	morphologie 2300 2305	masse
+T16	topographie 2350 2366	glande surrénale
+T18	morphologie 2519 2524	masse
+T20	morphologie 2643 2650	nodules
+T22	morphologie 2665 2684	tumeurs secondaires
+T23	morphologie 2790 2815	Conglomérat adénopathique
+T25	topographie 2816 2834	intercavo-aortique
+T27	morphologie 2894 2919	lésions occupant l'espace
+T28	morphologie 3204 3220	phéochromocytome
+T30	topographie 3221 3232	surrénalien
+T31	morphologie 3244 3254	métastases
+T33	topographie 3255 3269	ganglionnaires
+T34	topographie 3270 3277	cervico
+T35	topographie 3278 3291	médiastinales
+T36	topographie 3295 3311	interaorto-caves
+T38	topographie 3377 3398	osseuses (L2 et fémur
+T40	morphologie 3637 3672	Phéochromocytome malin métastatique
+T42	morphologie 3676 3684	stade IV
+T43	morphologie 3686 3696	métastases
+T45	topographie 3697 3733	ganglionnaires cervico-médiastinales
+T46	topographie 3737 3752	interaortocaves
+T47	morphologie 3754 3764	métastases
+T49	topographie 3765 3775	hépatiques
+T50	topographie 3777 3785	osseuses
+T51	topographie 3789 3800	pulmonaires
+T53	morphologie 4074 4099	progression de la maladie
+T54	morphologie 4656 4661	masse
+T56	topographie 4662 4675	surrénalienne
+T57	morphologie 4775 4781	nodule
+T59	topographie 4782 4791	hépatique
+T61	morphologie 4871 4887	phéochromocytome
+T62	morphologie 4963 4969	Nodule
+T64	topographie 4970 4979	hépatique
+T66	morphologie 4982 4991	métastase
+T68	morphologie 4997 5013	phéochromocytome
+T69	morphologie 5016 5021	Masse
+T71	topographie 5022 5035	surrénalienne
+T72	morphologie 5054 5059	masse
+T74	topographie 5060 5073	surrénalienne
+T76	morphologie 5083 5099	phéochromocytome
+T77	morphologie 5226 5234	invasion
+T79	topographie 5235 5245	vasculaire
+T81	morphologie 5306 5315	néoplasie
+T82	morphologie 5336 5344	invasion
+T84	topographie 5345 5355	vasculaire
+T85	morphologie 5400 5408	invasion
+T89	morphologie 5471 5480	néoplasme
+T90	morphologie 5655 5660	masse
+T92	topographie 5661 5673	médiastinale
+T93	morphologie 5691 5697	nodule
+T95	topographie 5698 5708	pulmonaire
+T98	morphologie 5762 5772	métastases
+T100	morphologie 5776 5792	phéochromocytome
+T101	morphologie 6288 6313	progression de la maladie
+T103	topographie 6324 6338	latérocervical
+T104	topographie 6342 6351	hépatique
+T96	topographie 5727 5730	LSI
+T87	topographie 5429 5459	tissu adipeux péri-surrénalien

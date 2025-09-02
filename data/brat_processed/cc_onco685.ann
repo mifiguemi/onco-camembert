@@ -1,0 +1,24 @@
+T1	morphologie 325 331	nodule
+T3	topographie 340 354	lobe inférieur
+T4	topographie 365 371	poumon
+T5	morphologie 541 555	adénocarcinome
+T7	topographie 556 566	pulmonaire
+T8	morphologie 747 756	métastase
+T10	topographie 757 767	occipitale
+T11	morphologie 923 929	lésion
+T13	topographie 930 940	occipitale
+T14	morphologie 1014 1023	métastase
+T16	morphologie 1027 1035	primitif
+T18	morphologie 1151 1164	tissu tumoral
+T19	morphologie 1445 1500	lésions avec des caractéristiques métaboliques malignes
+T21	topographie 1514 1529	hile pulmonaire
+T22	morphologie 1553 1560	lésions
+T24	topographie 1561 1569	osseuses
+T25	morphologie 1635 1641	lésion
+T27	topographie 1648 1654	hanche
+T28	morphologie 2186 2197	progression
+T30	topographie 2208 2218	pulmonaire
+T31	morphologie 2667 2678	progression
+T33	topographie 2679 2692	ganglionnaire
+T34	topographie 2696 2709	surrénalienne
+T36	morphologie 2891 2909	cellules tumorales

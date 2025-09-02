@@ -1,0 +1,33 @@
+T17	topographie 756 785	corps et la queue du pancréas
+T1	morphologie 198 204	tumeur
+T3	topographie 223 240	queue du pancréas
+T4	morphologie 364 378	adénocarcinome
+T6	differenciation 379 394	peu différencié
+T7	morphologie 459 465	nodule
+T9	topographie 466 475	hépatique
+T11	morphologie 489 499	métastases
+T12	morphologie 617 623	nodule
+T14	topographie 624 633	hépatique
+T15	morphologie 684 708	carcinome neuroendocrine
+T18	morphologie 877 890	dissémination
+T20	topographie 891 900	hépatique
+T21	morphologie 1035 1042	lésions
+T23	topographie 1043 1053	hépatiques
+T25	morphologie 1092 1102	métastases
+T26	morphologie 1414 1425	progression
+T28	topographie 1426 1435	hépatique
+T30	morphologie 1931 1954	stabilité de la maladie
+T31	morphologie 2018 2029	progression
+T33	topographie 2030 2039	hépatique
+T34	morphologie 2436 2444	atteinte
+T36	topographie 2445 2452	osseuse
+T37	morphologie 2844 2851	lésions
+T39	topographie 2852 2862	hépatiques
+T40	morphologie 5646 5652	lésion
+T42	topographie 5653 5660	cutanée
+T43	morphologie 6971 6992	Tumeur neuroendocrine
+T45	topographie 6993 7005	pancréatique
+T46	morphologie 7006 7016	disséminée
+T48	topographie 7027 7036	hépatique
+T49	morphologie 7607 7630	stabilité de la maladie
+T51	topographie 7644 7648	foie

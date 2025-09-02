@@ -1,0 +1,38 @@
+T1	morphologie 808 814	lésion
+T3	topographie 845 852	trachée
+T4	morphologie 904 909	masse
+T6	topographie 940 947	trachée
+T7	morphologie 1065 1072	nodules
+T9	topographie 1092 1113	parenchyme pulmonaire
+T11	morphologie 1135 1145	métastases
+T12	morphologie 1861 1867	lésion
+T14	topographie 1913 1920	trachée
+T15	topographie 2017 2024	trachée
+T17	morphologie 2103 2108	masse
+T19	morphologie 2198 2203	masse
+T20	topographie 2287 2308	parenchyme pulmonaire
+T22	morphologie 2327 2334	nodules
+T24	morphologie 2385 2395	métastases
+T25	morphologie 2469 2475	lésion
+T27	topographie 2476 2489	endotrachéale
+T28	morphologie 2601 2607	tumeur
+T30	topographie 2608 2621	endotrachéale
+T32	morphologie 2686 2713	carcinome adénoïde kystique
+T33	morphologie 2767 2773	tumeur
+T35	topographie 2774 2783	trachéale
+T36	morphologie 2834 2846	infiltration
+T38	topographie 2847 2859	œsophagienne
+T39	morphologie 2871 2878	nodules
+T41	topographie 2879 2890	pulmonaires
+T43	morphologie 2912 2922	métastases
+T44	morphologie 2981 3008	Carcinome adénoïde kystique
+T46	topographie 3009 3017	trachéal
+T48	morphologie 3021 3029	stade IV
+T49	morphologie 3035 3045	métastases
+T51	topographie 3046 3057	pulmonaires
+T53	morphologie 3236 3242	tumeur
+T54	morphologie 3832 3839	lésions
+T56	topographie 3840 3851	pulmonaires
+T57	morphologie 3858 3863	masse
+T59	topographie 3864 3873	trachéale
+T61	morphologie 4058 4082	infiltration néoplasique

@@ -1,0 +1,107 @@
+T1	morphologie 2422 2433	adénopathie
+T3	topographie 2434 2443	cervicale
+T4	topographie 2445 2461	sus-claviculaire
+T5	topographie 2465 2474	axillaire
+T7	morphologie 2798 2803	masse
+T8	morphologie 5417 5424	nodules
+T10	topographie 5425 5436	pulmonaires
+T12	morphologie 5493 5500	tumeurs
+T14	morphologie 5649 5661	adénopathies
+T16	morphologie 5814 5830	maladie tumorale
+T17	morphologie 5985 5997	adénopathies
+T19	topographie 5998 6011	médiastinales
+T20	topographie 6012 6027	pré-vasculaires
+T21	topographie 6058 6066	hilaires
+T22	topographie 6076 6090	paratrachéales
+T24	morphologie 6253 6262	néoplasie
+T26	topographie 6263 6273	pulmonaire
+T27	morphologie 6275 6299	Adénopathie métastatique
+T29	topographie 6300 6317	supraclaviculaire
+T31	morphologie 6340 6347	nodules
+T33	morphologie 6454 6467	lésion focale
+T34	morphologie 6974 6984	métastases
+T36	topographie 6985 6999	surrénaliennes
+T37	topographie 7003 7011	osseuses
+T38	morphologie 7705 7716	adénopathie
+T40	topographie 7717 7724	hilaire
+T41	topographie 7728 7741	paratrachéale
+T42	morphologie 10030 10042	Adénopathies
+T44	topographie 10043 10056	médiastinales
+T45	topographie 10058 10066	hilaires
+T46	topographie 10070 10084	paratrachéales
+T47	topographie 10094 10123	médiastinales sous-carénaires
+T49	morphologie 10185 10194	néoplasme
+T50	morphologie 10229 10238	néoplasme
+T52	topographie 10239 10252	hématologique
+T53	morphologie 10329 10339	néoplasmes
+T55	topographie 10340 10351	pulmonaires
+T56	morphologie 10394 10403	carcinome
+T161	morphologie 10415 10433	à petites cellules
+T58	topographie 10404 10414	pulmonaire
+T59	morphologie 10450 10457	nodules
+T61	topographie 10458 10469	pulmonaires
+T62	morphologie 10501 10523	ganglions lymphatiques
+T64	topographie 10524 10535	thoraciques
+T66	morphologie 10582 10592	néoplasmes
+T68	morphologie 10673 10679	cancer
+T70	morphologie 10715 10738	lymphome non hodgkinien
+T72	morphologie 10880 10896	lymphadénopathie
+T73	morphologie 10971 10981	néoplasmes
+T75	topographie 10982 10991	digestifs
+T77	morphologie 11003 11018	hépatocarcinome
+T79	morphologie 11023 11041	cholangiocarcinome
+T80	morphologie 11045 11059	adénocarcinome
+T82	topographie 11063 11071	pancréas
+T83	morphologie 11076 11082	cancer
+T85	topographie 11083 11092	gastrique
+T86	morphologie 11097 11103	cancer
+T88	topographie 11107 11112	côlon
+T89	morphologie 11151 11163	adénopathies
+T91	topographie 11187 11193	thorax
+T93	morphologie 11335 11350	hépatocarcinome
+T94	morphologie 11388 11394	cancer
+T96	topographie 11398 11402	sein
+T97	morphologie 11407 11414	sarcome
+T99	topographie 11419 11430	tissus mous
+T101	morphologie 11443 11466	tumeurs neuroendocrines
+T103	morphologie 11471 11479	mélanome
+T104	morphologie 11485 11495	néoplasmes
+T106	topographie 11496 11502	rénaux
+T107	topographie 11504 11515	thyroïdiens
+T108	topographie 11524 11543	appareil urogénital
+T109	morphologie 11634 11644	métastases
+T111	topographie 11645 11655	hépatiques
+T112	morphologie 11817 11824	nodules
+T114	topographie 11825 11836	pulmonaires
+T115	morphologie 11842 11858	lymphadénopathie
+T117	topographie 11859 11869	thoracique
+T119	morphologie 12196 12220	infiltration néoplasique
+T121	morphologie 12298 12305	tumeurs
+T122	morphologie 12335 12359	carcinomes microcytaires
+T124	topographie 12363 12369	poumon
+T125	topographie 12374 12379	côlon
+T126	topographie 12384 12388	sein
+T127	morphologie 12394 12401	tumeurs
+T129	topographie 12412 12430	gastro-intestinale
+T131	morphologie 12436 12445	mélanomes
+T133	morphologie 12451 12460	lymphomes
+T134	morphologie 12587 12593	cancer
+T136	topographie 12597 12601	rein
+T138	morphologie 12627 12656	syndromes lymphoprolifératifs
+T139	morphologie 15049 15092	carcinome neuroendocrine à petites cellules
+T141	differenciation 15096 15106	haut grade
+T142	topographie 15110 15116	poumon
+T143	morphologie 15118 15124	nodule
+T145	topographie 15149 15163	lobe supérieur
+T146	topographie 15171 15185	péribronchique
+T147	morphologie 15188 15208	Maladie métastatique
+T149	topographie 15218 15240	ganglions lymphatiques
+T150	topographie 15245 15249	foie
+T151	morphologie 15267 15288	infiltration tumorale
+T153	topographie 15326 15346	parenchyme hépatique
+T154	topographie 15366 15370	rate
+T156	morphologie 15492 15524	maladie néoplasique métastatique
+T157	morphologie 15534 15577	carcinome neuroendocrine à petites cellules
+T159	differenciation 15581 15591	haut grade
+T160	topographie 15595 15601	poumon
+T23	topographie 6102 6117	sous-carénaires

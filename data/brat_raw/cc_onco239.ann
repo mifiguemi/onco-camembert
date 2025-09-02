@@ -1,0 +1,125 @@
+T1	expression_CIM 1590 1596	masses
+T2	morphologie 1590 1596	masses
+T3	expression_CIM 2053 2058	masse
+T4	morphologie 2053 2058	masse
+T5	morphologie 2414 2420;2450 2502	images compatibles avec une maladie métastatique secondaire
+T6	expression_CIM 2414 2449	images dans le parenchyme hépatique
+T7	topographie 2429 2449	parenchyme hépatique
+T8	expression_CIM 2471 2491	maladie métastatique
+T9	morphologie 2546 2553;2564 2576	maladie métastatique
+T10	expression_CIM 2546 2576	maladie hépatique métastatique
+T11	topographie 2554 2563	hépatique
+T12	morphologie 2583 2598	tumeur primaire
+T13	expression_CIM 2583 2607	tumeur primaire inconnue
+T14	topographie 2599 2607	inconnue
+T15	morphologie 2995 3000	masse
+T16	expression_CIM 2995 3048	masse de 45 mm a été observée dans le hile pulmonaire
+T17	topographie 3033 3048	hile pulmonaire
+T18	morphologie 3065 3077	infiltration
+T19	expression_CIM 3065 3111	infiltration marquée de la plèvre médiastinale
+T20	topographie 3092 3111	plèvre médiastinale
+T21	expression_CIM 3169 3181	Adénopathies
+T22	morphologie 3169 3181	Adénopathies
+T23	topographie 3242 3246	Foie
+T24	expression_CIM 3242 3259	Foie avec nodules
+T25	morphologie 3252 3259	nodules
+T26	morphologie 3303 3321	maladie secondaire
+T27	expression_CIM 3303 3357	maladie secondaire affectant les deux lobes hépatiques
+T28	topographie 3341 3357	lobes hépatiques
+T29	morphologie 3369 3384	images lytiques
+T30	expression_CIM 3369 3480	images lytiques touchant la quasi-totalité du squelette (costales bilatérales, corps vertébraux et lame iliaque
+T32	topographie 3426 3434	costales
+T33	topographie 3448 3464	corps vertébraux
+T35	morphologie 3529 3538	néoplasie
+T36	expression_CIM 3529 3556	néoplasie pulmonaire en LSI
+T37	topographie 3539 3549	pulmonaire
+T38	topographie 3553 3556	LSI
+T39	expression_CIM 4546 4563	cellules malignes
+T40	morphologie 4546 4563	cellules malignes
+T41	expression_CIM 4584 4612	carcinome à petites cellules
+T42	morphologie 4584 4612	carcinome à petites cellules
+T43	expression_CIM 4614 4617	CPC
+T44	morphologie 4614 4617	CPC
+T45	expression_CIM 4711 4743	lésions d'occupation de l'espace
+T46	morphologie 4711 4743	lésions d'occupation de l'espace
+T47	expression_CIM 5166 5172	tumeur
+T48	morphologie 5166 5172	tumeur
+T49	morphologie 5250 5260;5272 5290	CARCINOMIE À PETITES CELLULES
+T50	expression_CIM 5250 5290	CARCINOMIE PULMONAIRE À PETITES CELLULES
+T51	topographie 5261 5271	PULMONAIRE
+T52	expression_CIM 5294 5302	STADE IV
+T53	morphologie 5294 5302	STADE IV
+T54	morphologie 6956 6966	métastases
+T55	expression_CIM 6956 6978	métastases vertébrales
+T56	topographie 6967 6978	vertébrales
+T57	morphologie 7534 7565	réponse partielle de la maladie
+T58	expression_CIM 7534 7593	réponse partielle de la maladie pulmonaire et adénopathique
+T59	topographie 7566 7576	pulmonaire
+T60	topographie 7580 7593	adénopathique
+T61	morphologie 7613 7620	lésions
+T62	expression_CIM 7613 7631	lésions hépatiques
+T63	topographie 7621 7631	hépatiques
+T64	morphologie 7637 7675	progression radiologique de la maladie
+T65	expression_CIM 7637 7683	progression radiologique de la maladie osseuse
+T66	topographie 7676 7683	osseuse
+T34	topographie 3468 3480	lame iliaque
+T31	topographie 3415 3424	squelette
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	8000/6
+#6	ICD-O T7	C22.0
+#7	ICD-O T8	8000/6
+#8	ICD-O T9	8000/6
+#9	ICD-O T10	C22.0 8000/6
+#10	ICD-O T11	C22.0
+#11	ICD-O T12	8000/3
+#12	ICD-O T13	C80.9 8000/3
+#13	ICD-O T14	C80.9
+#14	ICD-O T15	8000/1
+#15	ICD-O T17	C34.0
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	C38.4 8000/1
+#18	ICD-O T20	C38.4
+#19	ICD-O T21	C77.9 8000/1
+#20	ICD-O T22	8000/1
+#21	ICD-O T23	C22.0
+#22	ICD-O T24	C22.0 8000/1
+#23	ICD-O T25	8000/1
+#24	ICD-O T26	8000/6
+#25	ICD-O T27	C22.0 8000/6
+#26	ICD-O T28	C22.0
+#27	ICD-O T29	tocheck
+#28	ICD-O T32	C41.3
+#29	ICD-O T33	C41.2
+#30	ICD-O T35	8000/1
+#31	ICD-O T36	C34.1 8000/1;C34.9 8000/1
+#32	ICD-O T37	C34.9
+#33	ICD-O T38	C34.1
+#34	ICD-O T39	8000/1
+#35	ICD-O T40	8000/1
+#36	ICD-O T41	8041/3
+#37	ICD-O T42	8041/3
+#38	ICD-O T43	8041/3
+#39	ICD-O T44	8041/3
+#40	ICD-O T46	8000/1
+#41	ICD-O T47	8000/1
+#42	ICD-O T48	8000/3
+#43	ICD-O T49	8041/3
+#44	ICD-O T51	C34.9
+#45	ICD-O T52	8000/6
+#46	ICD-O T53	8000/6
+#47	ICD-O T54	8000/6
+#48	ICD-O T55	C41.2 8000/6
+#49	ICD-O T56	C41.2
+#50	ICD-O T57	8000/6
+#51	ICD-O T59	C34.9
+#52	ICD-O T60	C77.9
+#53	ICD-O T61	8000/1
+#54	ICD-O T62	C22.0 8000/1
+#55	ICD-O T63	C22.0
+#56	ICD-O T64	8000/9
+#57	ICD-O T66	C41.9
+#58	AnnotatorNotes T46	trad
+#59	AnnotatorNotes T49	trad

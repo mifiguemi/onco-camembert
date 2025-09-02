@@ -1,0 +1,19 @@
+T2	morphologie 814 819	masse
+T3	morphologie 1224 1230	tumeur
+T5	topographie 1231 1245	paravertébrale
+T7	morphologie 1490 1496	lésion
+T9	morphologie 1620 1626	tumeur
+T11	morphologie 1715 1721	foyers
+T12	morphologie 2054 2064	schwannome
+T16	morphologie 2251 2261	schwannome
+T18	morphologie 2379 2385	tumeur
+T20	morphologie 2617 2623	tumeur
+T21	morphologie 2891 2903	Infiltration
+T23	topographie 2908 2929	muscles squelettiques
+T25	morphologie 3203 3250	tumeur maligne de la gaine du nerf périphérique
+T27	morphologie 3252 3269	neurofibrosarcome
+T29	morphologie 3851 3898	Tumeur neuroectodermique primitive périphérique
+T31	morphologie 3900 3904	PNET
+T33	morphologie 3905 3910	Ewing
+T35	morphologie 4569 4575	tumeur
+T14	topographie 2081 2090	racine L4

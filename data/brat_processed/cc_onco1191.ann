@@ -1,0 +1,23 @@
+T1	morphologie 471 483	Adénopathies
+T3	topographie 484 492	hilaires
+T4	morphologie 593 599	nodule
+T6	topographie 600 603	LSI
+T7	morphologie 613 624	adénopathie
+T9	topographie 625 632	hilaire
+T10	morphologie 661 672	adénopathie
+T12	topographie 673 680	hilaire
+T13	morphologie 946 957	adénopathie
+T15	topographie 958 965	hilaire
+T16	morphologie 1029 1043	adénocarcinome
+T18	topographie 1044 1054	pulmonaire
+T19	differenciation 1064 1086	modérément différencié
+T20	morphologie 1231 1241	métastases
+T22	topographie 1255 1302	ganglions lymphatiques hilaires et médiastinaux
+T23	morphologie 1337 1346	Carcinome
+T35	morphologie 1358 1422	non à petites cellules (CBNPC) de sous-type bronchioloalvéolaire
+T25	topographie 1347 1357	bronchique
+T27	morphologie 1626 1632	tumeur
+T29	morphologie 1914 1920	tumeur
+T30	morphologie 1947 1958	Progression
+T32	topographie 1959 1969	pulmonaire
+T34	morphologie 2131 2158	stabilisation de la maladie

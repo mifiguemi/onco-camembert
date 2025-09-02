@@ -1,0 +1,60 @@
+T1	morphologie 360 366	lésion
+T4	topographie 431 441	oropharynx
+T5	morphologie 493 508	lésion tumorale
+T7	topographie 512 522	palais mou
+T9	morphologie 577 615	carcinome épidermoïde non kératinisant
+T11	morphologie 731 736	masse
+T13	morphologie 1026 1032	masses
+T14	morphologie 1326 1335	néoplasie
+T16	topographie 1350 1360	oropharynx
+T19	morphologie 1397 1421	adénopathie pathologique
+T21	morphologie 1464 1475	adénopathie
+T22	morphologie 1581 1588	lésions
+T24	topographie 1663 1684	parenchyme pulmonaire
+T25	morphologie 1804 1830	dissémination métastatique
+T27	topographie 1831 1841	hématogène
+T28	morphologie 1843 1850	Lésions
+T30	topographie 1886 1900	lobe supérieur
+T32	morphologie 2344 2382	carcinome épidermoïde non kératinisant
+T33	morphologie 2487 2493	tumeur
+T35	topographie 2494 2502	laryngée
+T37	morphologie 2653 2671	maladie secondaire
+T39	morphologie 2739 2746	lésions
+T41	morphologie 2765 2783	maladie secondaire
+T43	morphologie 3089 3094	masse
+T44	morphologie 3252 3264	Adénopathies
+T46	topographie 3265 3281	latérocervicales
+T47	morphologie 3580 3608	Augmentation de la captation
+T49	topographie 3617 3627	palais mou
+T51	morphologie 3769 3777	atteinte
+T53	morphologie 4220 4232	adénopathies
+T55	topographie 4233 4249	latérocervicales
+T56	topographie 4253 4266	médiastinales
+T57	morphologie 4454 4474	Carcinome malpighien
+T59	topographie 4480 4490	oropharynx
+T61	morphologie 4494 4503	stade IVc
+T63	morphologie 4977 4983	tumeur
+T64	morphologie 5232 5239	lésions
+T94	morphologie 5252 5265	métastatiques
+T66	topographie 5240 5251	pulmonaires
+T68	morphologie 5380 5387	lésions
+T69	morphologie 5551 5557	lésion
+T71	topographie 5577 5587	palais mou
+T74	morphologie 5794 5801	tumeurs
+T76	morphologie 5856 5862	lésion
+T77	morphologie 6032 6060	Augmentation de la captation
+T79	topographie 6069 6079	palais mou
+T82	morphologie 6190 6196	tumeur
+T83	morphologie 6213 6238	Persistance de la maladie
+T85	topographie 6243 6265	ganglions lymphatiques
+T86	morphologie 6423 6430	lésions
+T95	morphologie 6443 6456	métastatiques
+T88	topographie 6431 6442	pulmonaires
+T89	morphologie 6472 6479	maladie
+T91	topographie 6501 6509	cervical
+T93	morphologie 6803 6809	lésion
+T50	topographie 3634 3640	luette
+T80	topographie 6086 6092	luette
+T17	topographie 1375 1386	nasopharynx
+T72	topographie 5599 5618	région amygdalienne
+T3	topographie 414 426	rhinopharynx

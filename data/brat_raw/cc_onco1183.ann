@@ -1,0 +1,146 @@
+T1	morphologie 402 408	lésion
+T2	expression_CIM 402 436	lésion hyperpigmentée sur l'hallux
+T4	morphologie 547 558	adénopathie
+T5	expression_CIM 547 568	adénopathie inguinale
+T6	topographie 559 568	inguinale
+T7	expression_CIM 655 663	mélanome
+T8	morphologie 655 663	mélanome
+T9	expression_CIM 687 695	mélanome
+T10	morphologie 687 695	mélanome
+T11	expression_CIM 701 727	mélanome lentigineux acral
+T12	morphologie 701 727	mélanome lentigineux acral
+T13	morphologie 801 813	infiltration
+T14	expression_CIM 801 830	infiltration lymphovasculaire
+T15	topographie 814 830	lymphovasculaire
+T16	morphologie 893 902	extension
+T17	expression_CIM 893 932	extension thoracique-abdomino-pelvienne
+T18	topographie 903 932	thoracique-abdomino-pelvienne
+T19	expression_CIM 936 944	mélanome
+T20	morphologie 936 944	mélanome
+T21	morphologie 946 958	Micronodules
+T22	expression_CIM 946 981	Micronodules dans le lobe supérieur
+T23	topographie 967 981	lobe supérieur
+T24	morphologie 1111 1121	métastases
+T25	expression_CIM 1111 1170	métastases de mélanome dans 4 des 13 ganglions lymphatiques
+T26	morphologie 1125 1133	mélanome
+T27	topographie 1148 1170	ganglions lymphatiques
+T28	expression_CIM 1238 1264	mélanome lentigineux acral
+T29	morphologie 1238 1264	mélanome lentigineux acral
+T30	morphologie 1677 1683	nodule
+T31	expression_CIM 1677 1760	nodule sous-cutané de 1,5 cm a été détecté dans la zone de la cicatrice de l'hallux
+T32	topographie 1684 1695	sous-cutané
+T34	morphologie 1774 1780	lésion
+T35	expression_CIM 1774 1822	lésion de 0,5 cm sur la face interne de la jambe
+T37	expression_CIM 1869 1877	récidive
+T38	morphologie 1869 1877	récidive
+T39	expression_CIM 1979 1987	mélanome
+T40	morphologie 1979 1987	mélanome
+T41	morphologie 2254 2260	lésion
+T42	expression_CIM 2254 2296	lésion guidée par la cicatrice sur le pied
+T44	morphologie 2461 2472	progression
+T45	expression_CIM 2461 2480	progression cutanée
+T46	topographie 2473 2480	cutanée
+T47	morphologie 2488 2495	lésions
+T48	expression_CIM 2488 2533	lésions hyperchromiques situées sur la cuisse
+T49	topographie 2527 2533	cuisse
+T50	morphologie 2569 2577;2597 2607	atteinte à distance
+T51	expression_CIM 2569 2607	atteinte thoraco-abdominale à distance
+T53	morphologie 2765 2776	progression
+T54	expression_CIM 2765 2784	progression cutanée
+T55	topographie 2777 2784	cutanée
+T56	morphologie 3473 3480	lésions
+T57	expression_CIM 3473 3561	lésions sous-cutanées se sont développées sur la face antérieure et interne de la cuisse
+T58	topographie 3555 3561	cuisse
+T59	expression_CIM 3614 3633	atteinte à distance
+T60	morphologie 3614 3633	atteinte à distance
+T61	expression_CIM 3639 3649	métastases
+T62	morphologie 3639 3649	métastases
+T63	expression_CIM 3664 3672	mélanome
+T64	morphologie 3664 3672	mélanome
+T65	morphologie 3818 3825	lésions
+T66	expression_CIM 3818 3839	lésions sous-cutanées
+T67	topographie 3826 3839	sous-cutanées
+T68	expression_CIM 3865 3872	lésions
+T69	morphologie 3865 3872	lésions
+T70	expression_CIM 4151 4158	lésions
+T71	morphologie 4151 4158	lésions
+T72	expression_CIM 4179 4186	lésions
+T73	morphologie 4179 4186	lésions
+T74	morphologie 4282 4293	progression
+T75	expression_CIM 4282 4303	progression inguinale
+T76	topographie 4294 4303	inguinale
+T77	morphologie 4318 4329	adénopathie
+T78	expression_CIM 4318 4376	adénopathie de 3,3 x 2,3 cm dans la chaîne iliaque externe
+T79	topographie 4354 4376	chaîne iliaque externe
+T3	topographie 430 436	hallux
+T33	topographie 1754 1760	hallux
+T36	topographie 1817 1822	jambe
+T43	topographie 2292 2296	pied
+T52	topographie 2578 2596	thoraco-abdominale
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8000/1
+#3	ICD-O T5	C77.4 8000/1
+#4	ICD-O T6	C76.3
+#5	ICD-O T7	8720/3
+#6	ICD-O T8	8720/3
+#7	ICD-O T9	8720/3
+#8	ICD-O T10	8720/3
+#9	ICD-O T11	8744/3
+#10	ICD-O T12	8744/3
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	C49.9 8000/1
+#13	ICD-O T15	C49.9
+#14	ICD-O T16	8000/6
+#15	ICD-O T17	C76.8 8000/6
+#16	ICD-O T18	C76.8
+#17	ICD-O T19	8720/3
+#18	ICD-O T20	8720/3
+#19	ICD-O T21	8000/1
+#20	ICD-O T22	C34.1 8000/1
+#21	ICD-O T23	C34.1
+#22	ICD-O T24	8000/6
+#23	ICD-O T26	8720/3
+#24	ICD-O T27	C77.9
+#25	ICD-O T28	8744/3
+#26	ICD-O T29	8744/3
+#27	ICD-O T30	8000/1
+#28	ICD-O T32	C49.9
+#29	ICD-O T34	8000/1
+#30	ICD-O T37	8000/6
+#31	ICD-O T38	8000/6
+#32	ICD-O T39	8720/3
+#33	ICD-O T40	8720/3
+#34	ICD-O T41	8000/1
+#35	ICD-O T44	8000/6
+#36	ICD-O T45	C44.9 8000/6
+#37	ICD-O T46	C44.9
+#38	ICD-O T47	8000/1
+#39	ICD-O T48	C76.5 8000/1
+#40	ICD-O T49	C76.5
+#41	ICD-O T50	8000/6
+#42	ICD-O T53	8000/6
+#43	ICD-O T54	C44.9 8000/6
+#44	ICD-O T55	C44.9
+#45	ICD-O T56	8000/1
+#46	ICD-O T57	C49.9 8000/1;C76.5 8000/1
+#47	ICD-O T58	C76.5
+#48	ICD-O T59	8000/6
+#49	ICD-O T60	8000/6
+#50	ICD-O T61	8000/6
+#51	ICD-O T62	8000/6
+#52	ICD-O T63	8720/3
+#53	ICD-O T64	8720/3
+#54	ICD-O T65	8000/1
+#55	ICD-O T66	C49.9 8000/1
+#56	ICD-O T67	C49.9
+#57	ICD-O T68	8000/1
+#58	ICD-O T69	8000/1
+#59	ICD-O T70	8000/1
+#60	ICD-O T71	8000/1
+#61	ICD-O T72	8000/1
+#62	ICD-O T73	8000/1
+#63	ICD-O T74	8000/6
+#64	ICD-O T75	C76.3 8000/6
+#65	ICD-O T76	C76.3
+#66	ICD-O T77	8000/1
+#67	ICD-O T79	C77.5 

@@ -1,0 +1,277 @@
+T23	topographie 2227 2232	canal
+T46	topographie 3075 3093	creux claviculaire
+T5	topographie 663 691	foramina conjonctivaux C6-C7
+T1	expression_CIM 247 259	Mélanocytome
+T2	morphologie 247 259	Mélanocytome
+T3	morphologie 597 602	masse
+T4	expression_CIM 597 691	masse en sablier (composante intra- et extradurale) au niveau des foramina conjonctivaux C6-C7
+T6	expression_CIM 707 712	masse
+T7	morphologie 707 712	masse
+T8	morphologie 1315 1321	lésion
+T9	expression_CIM 1315 1336	lésion paravertébrale
+T10	topographie 1322 1336	paravertébrale
+T11	expression_CIM 1525 1531	lésion
+T12	morphologie 1525 1531	lésion
+T13	morphologie 1767 1784	lésions tumorales
+T14	expression_CIM 1767 1808	lésions tumorales résiduelles en C5 et C6
+T15	topographie 1800 1802	C5
+T16	topographie 1806 1808	C6
+T17	morphologie 1862 1874	mélanocytome
+T18	expression_CIM 1862 1897	mélanocytome de grade intermédiaire
+T19	differenciation 1878 1897	grade intermédiaire
+T20	morphologie 2192 2207	foyers tumoraux
+T21	expression_CIM 2192 2308	foyers tumoraux affectant l'os, le canal et les foramina conjonctivaux C5-C6 et C6-C7, ainsi que l'artère vertébrale
+T22	topographie 2220 2222	os
+T24	topographie 2240 2262	foramina conjonctivaux
+T25	topographie 2263 2265	C5
+T26	topographie 2266 2268	C6
+T27	topographie 2272 2274	C6
+T28	topographie 2275 2277	C7
+T29	topographie 2291 2308	artère vertébrale
+T30	morphologie 2339 2352	foyer tumoral
+T31	expression_CIM 2339 2405	foyer tumoral a été observé du côté gauche, au niveau prévertébral
+T32	topographie 2393 2405	prévertébral
+T33	morphologie 2421 2429	atteinte
+T34	expression_CIM 2421 2437	atteinte osseuse
+T35	topographie 2430 2437	osseuse
+T36	expression_CIM 2496 2501	masse
+T37	morphologie 2496 2501	masse
+T38	morphologie 2626 2639	foyer tumoral
+T39	expression_CIM 2626 2682	foyer tumoral est retrouvé au niveau de C1, prévertébral
+T40	topographie 2666 2668	C1
+T41	topographie 2670 2682	prévertébral
+T42	expression_CIM 2758 2773	foyers tumoraux
+T43	morphologie 2758 2773	foyers tumoraux
+T44	morphologie 3060 3066	lésion
+T45	expression_CIM 3060 3093	lésion dans le creux claviculaire
+T47	expression_CIM 3119 3136	lésions tumorales
+T48	morphologie 3119 3136	lésions tumorales
+T49	expression_CIM 3311 3326	lésion tumorale
+T50	morphologie 3311 3326	lésion tumorale
+T51	morphologie 3402 3414	infiltration
+T52	expression_CIM 3402 3437	infiltration de la plèvre pariétale
+T53	topographie 3421 3437	plèvre pariétale
+T54	morphologie 3718 3723	masse
+T55	expression_CIM 3718 3752	masse au niveau du plexus brachial
+T56	topographie 3737 3752	plexus brachial
+T57	expression_CIM 5459 5477	maladie à distance
+T58	morphologie 5459 5477	maladie à distance
+T59	expression_CIM 5577 5591	masse tumorale
+T60	morphologie 5577 5591	masse tumorale
+T61	morphologie 5616 5624	invasion
+T62	expression_CIM 5616 5658	invasion plus importante du canal épidural
+T63	topographie 5644 5658	canal épidural
+T64	morphologie 5681 5689	invasion
+T65	expression_CIM 5681 5715	invasion de l'artère sous-clavière
+T66	topographie 5695 5715	artère sous-clavière
+T67	morphologie 5751 5759	atteinte
+T68	expression_CIM 5751 5767	atteinte osseuse
+T69	topographie 5760 5767	osseuse
+T70	expression_CIM 5983 5997	masse tumorale
+T71	morphologie 5983 5997	masse tumorale
+T72	morphologie 6059 6067	atteinte
+T73	expression_CIM 6059 6086	atteinte du plexus brachial
+T74	topographie 6071 6086	plexus brachial
+T75	expression_CIM 6243 6250	lésions
+T76	morphologie 6243 6250	lésions
+T77	expression_CIM 6407 6413	tumeur
+T78	morphologie 6407 6413	tumeur
+T79	expression_CIM 6667 6675	mélanome
+T80	morphologie 6667 6675	mélanome
+T81	expression_CIM 6870 6878	mélanome
+T82	morphologie 6870 6878	mélanome
+T83	morphologie 6913 6925	mélanocytome
+T84	expression_CIM 6913 6948	mélanocytome de grade intermédiaire
+T85	differenciation 6929 6948	grade intermédiaire
+T86	expression_CIM 7009 7016	lésions
+T87	morphologie 7009 7016	lésions
+T88	expression_CIM 7058 7064	tumeur
+T89	morphologie 7058 7064	tumeur
+T90	expression_CIM 7311 7319	mélanome
+T91	morphologie 7311 7319	mélanome
+T92	expression_CIM 7661 7691	schwannome mélanocytaire malin
+T93	morphologie 7661 7691	schwannome mélanocytaire malin
+T94	expression_CIM 7703 7711	mélanome
+T95	morphologie 7703 7711	mélanome
+T96	expression_CIM 7821 7832	schwannomes
+T97	morphologie 7821 7832	schwannomes
+T98	expression_CIM 7922 7931	mélanomes
+T99	morphologie 7922 7931	mélanomes
+T100	expression_CIM 7970 7978	mélanome
+T101	morphologie 7970 7978	mélanome
+T102	morphologie 8223 8240	mélanome primaire
+T103	expression_CIM 8223 8267	mélanome primaire du système nerveux central
+T104	topographie 8244 8267	système nerveux central
+T105	expression_CIM 8523 8531	mélanome
+T106	morphologie 8523 8531	mélanome
+T107	expression_CIM 8891 8899	mélanome
+T108	morphologie 8891 8899	mélanome
+T109	expression_CIM 8918 8929	schwannomes
+T110	morphologie 8918 8929	schwannomes
+T111	expression_CIM 9099 9107	mélanome
+T112	morphologie 9099 9107	mélanome
+T113	expression_CIM 9402 9408	lésion
+T114	morphologie 9402 9408	lésion
+T115	morphologie 10117 10124	lésions
+T116	expression_CIM 10117 10135	lésions cervicales
+T117	topographie 10125 10135	cervicales
+T118	expression_CIM 10336 10342	tumeur
+T119	morphologie 10336 10342	tumeur
+T120	morphologie 10382 10395	envahissement
+T121	expression_CIM 10382 10417	envahissement vertébral en C4 et T2
+T122	topographie 10396 10405	vertébral
+T123	topographie 10409 10411	C4
+T124	topographie 10415 10417	T2
+T125	morphologie 10424 10437	envahissement
+T126	expression_CIM 10424 10449	envahissement médiastinal
+T127	topographie 10438 10449	médiastinal
+T128	morphologie 10503 10515	adénopathies
+T129	expression_CIM 10503 10533	adénopathies sus-claviculaires
+T130	topographie 10516 10533	sus-claviculaires
+T131	morphologie 10571 10578	nodules
+T132	expression_CIM 10571 10590	nodules pulmonaires
+T133	topographie 10579 10590	pulmonaires
+T134	morphologie 10614 10622	atteinte
+T135	expression_CIM 10614 10646	atteinte osseuse de l'os iliaque
+T136	topographie 10623 10630	osseuse
+T137	topographie 10636 10646	os iliaque
+T138	expression_CIM 10680 10690	métastases
+T139	morphologie 10680 10690	métastases
+T140	expression_CIM 10932 10940	mélanome
+T141	morphologie 10932 10940	mélanome
+#1	ICD-O T1	8726/0
+#2	ICD-O T2	8726/0
+#3	ICD-O T3	8000/1
+#4	ICD-O T6	8000/1
+#5	ICD-O T7	8000/1
+#6	ICD-O T8	8000/1
+#7	ICD-O T9	C76.9 8000/1
+#8	ICD-O T10	C76.9
+#9	ICD-O T11	8000/1
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	8000/3
+#12	ICD-O T14	C41.2 8000/3
+#13	ICD-O T15	C41.2
+#14	ICD-O T16	C41.2
+#15	ICD-O T17	8726/0
+#16	ICD-O T18	8726/02
+#17	ICD-O T19	2
+#18	ICD-O T20	8000/3
+#19	ICD-O T21	C41.9 8000/3;C49.0 8000/3;C49.9 8000/3
+#20	ICD-O T22	C41.9
+#21	ICD-O T24	C49.0
+#22	ICD-O T25	C41.2
+#23	ICD-O T26	C41.2
+#24	ICD-O T27	C41.2
+#25	ICD-O T28	C41.2 
+#26	ICD-O T29	C49.9
+#27	ICD-O T30	8000/3
+#28	ICD-O T31	C76.9 8000/3
+#29	ICD-O T32	C76.9
+#30	ICD-O T33	8000/1
+#31	ICD-O T34	C41.9 8000/1
+#32	ICD-O T35	C41.9
+#33	ICD-O T36	8000/1
+#34	ICD-O T37	8000/1
+#35	ICD-O T38	8000/3
+#36	ICD-O T40	C41.2
+#37	ICD-O T41	C76.9
+#38	ICD-O T42	8000/3
+#39	ICD-O T43	8000/3
+#40	ICD-O T44	8000/1
+#41	ICD-O T45	C41.3 8000/1
+#42	ICD-O T47	8000/3
+#43	ICD-O T48	8000/3
+#44	ICD-O T49	8000/3
+#45	ICD-O T50	8000/3
+#46	ICD-O T51	8000/1
+#47	ICD-O T52	C38.4 8000/1
+#48	ICD-O T53	C38.4
+#49	ICD-O T54	8000/1
+#50	ICD-O T55	C47.1 8000/1
+#51	ICD-O T56	C47.1
+#52	ICD-O T57	8000/6
+#53	ICD-O T58	8000/6
+#54	ICD-O T59	8000/3
+#55	ICD-O T60	8000/3
+#56	ICD-O T61	8000/1
+#57	ICD-O T62	C70.1 8000/1
+#58	ICD-O T63	C70.1
+#59	ICD-O T64	8000/1
+#60	ICD-O T65	C49.3 8000/1
+#61	ICD-O T66	C49.3
+#62	ICD-O T67	8000/1
+#63	ICD-O T68	C41.9 8000/1
+#64	ICD-O T69	C41.9
+#65	ICD-O T70	8000/3
+#66	ICD-O T71	8000/3
+#67	ICD-O T72	8000/1
+#68	ICD-O T73	C47.1 8000/1
+#69	ICD-O T74	C47.1
+#70	ICD-O T75	8000/1
+#71	ICD-O T76	8000/1
+#72	ICD-O T77	8000/1
+#73	ICD-O T78	8000/1
+#74	ICD-O T79	8720/3
+#75	ICD-O T80	8720/3
+#76	ICD-O T81	8720/3
+#77	ICD-O T82	8720/3
+#78	ICD-O T83	8726/0
+#79	ICD-O T84	8726/02
+#80	ICD-O T85	2
+#81	ICD-O T86	8000/1
+#82	ICD-O T87	8000/1
+#83	ICD-O T88	8000/1
+#84	ICD-O T89	8000/1
+#85	ICD-O T90	8720/3
+#86	ICD-O T91	8720/3
+#87	ICD-O T92	9560/3
+#88	ICD-O T93	9560/3
+#89	ICD-O T94	8720/3
+#90	ICD-O T95	8720/3
+#91	ICD-O T96	9560/0
+#92	ICD-O T97	9560/0
+#93	ICD-O T98	8720/3
+#94	ICD-O T99	8720/3
+#95	ICD-O T100	8720/3
+#96	ICD-O T101	8720/3
+#97	ICD-O T102	8720/3
+#98	ICD-O T103	C72.9 8720/3
+#99	ICD-O T104	C72.9
+#100	ICD-O T105	8720/3
+#101	ICD-O T106	8720/3
+#102	ICD-O T107	8720/3
+#103	ICD-O T108	8720/3
+#104	ICD-O T109	9560/0
+#105	ICD-O T110	9560/0
+#106	ICD-O T111	8720/3
+#107	ICD-O T112	8720/3
+#108	ICD-O T113	8000/1
+#109	ICD-O T114	8000/1
+#110	ICD-O T115	8000/1
+#111	ICD-O T116	C76.0 8000/1
+#112	ICD-O T117	C76.0
+#113	ICD-O T118	8000/1
+#114	ICD-O T119	8000/1
+#115	ICD-O T120	8000/6
+#116	ICD-O T121	C41.2 8000/6
+#117	ICD-O T122	C41.2
+#118	ICD-O T123	C41.2
+#119	ICD-O T124	C41.2
+#120	ICD-O T125	8000/6
+#121	ICD-O T126	C38.3 8000/6
+#122	ICD-O T127	C38.3
+#123	ICD-O T128	8000/1
+#124	ICD-O T129	C77.0 8000/1
+#125	ICD-O T130	C76.0
+#126	ICD-O T131	8000/1
+#127	ICD-O T132	C34.9 8000/1
+#128	ICD-O T133	C34.9
+#129	ICD-O T134	8000/1
+#130	ICD-O T135	C41.4 8000/1;C41.9 8000/1
+#131	ICD-O T136	C41.9
+#132	ICD-O T137	C41.4
+#133	ICD-O T138	8000/6
+#134	ICD-O T139	8000/6
+#135	ICD-O T140	8720/3
+#136	ICD-O T141	8720/3

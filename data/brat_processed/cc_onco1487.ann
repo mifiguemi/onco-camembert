@@ -1,0 +1,14 @@
+T1	morphologie 215 238	Carcinome transitionnel
+T3	topographie 245 251	vessie
+T4	differenciation 255 257	G2
+T5	morphologie 508 517	néoplasie
+T7	topographie 518 525	colique
+T9	morphologie 1792 1798	lésion
+T10	topographie 1993 2007	intestin grêle
+T12	morphologie 2051 2057	tumeur
+T13	morphologie 2224 2230	tumeur
+T16	morphologie 3121 3135	Leiomyosarcome
+T20	morphologie 3165 3173	non GIST
+T18	topographie 3136 3143	jéjunal
+T19	differenciation 3154 3164	haut grade
+T15	topographie 2303 2351	sous-muqueuse et la muqueuse de l'intestin grêle

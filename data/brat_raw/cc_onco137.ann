@@ -1,0 +1,147 @@
+T1	morphologie 585 594	néoplasie
+T2	expression_CIM 585 607	néoplasie testiculaire
+T3	topographie 595 607	testiculaire
+T4	expression_CIM 616 640	tumeur non séminomateuse
+T5	morphologie 616 640	tumeur non séminomateuse
+T6	morphologie 672 680	atteinte
+T7	expression_CIM 672 732	atteinte étendue des ganglions lymphatiques rétropéritonéaux
+T8	topographie 693 732	ganglions lymphatiques rétropéritonéaux
+T9	morphologie 847 853	Tumeur
+T10	expression_CIM 847 891	Tumeur d'environ 6 cm au niveau du testicule
+T11	topographie 882 891	testicule
+T12	morphologie 1095 1100	masse
+T13	expression_CIM 1095 1172	masse hétérogène d'environ 6,5 cm de diamètre maximal remplaçant le testicule
+T14	topographie 1163 1172	testicule
+T15	morphologie 1180 1185	Masse
+T16	expression_CIM 1180 1202	Masse rétropéritonéale
+T17	topographie 1186 1202	rétropéritonéale
+T18	expression_CIM 1350 1355	masse
+T19	morphologie 1350 1355	masse
+T20	morphologie 1448 1460	infiltration
+T21	expression_CIM 1448 1476	infiltration du muscle psoas
+T22	topographie 1464 1476	muscle psoas
+T23	expression_CIM 1525 1559	tumeur germinale non séminomateuse
+T24	morphologie 1525 1559	tumeur germinale non séminomateuse
+T25	expression_CIM 1679 1713	tumeur germinale non séminomateuse
+T26	morphologie 1679 1713	tumeur germinale non séminomateuse
+T27	morphologie 1747 1762	invasion focale
+T28	expression_CIM 1747 1803	invasion focale de la tunique vaginale et du rete testis
+T29	topographie 1769 1785	tunique vaginale
+T30	topographie 1792 1803	rete testis
+T31	morphologie 1820 1828	invasion
+T32	expression_CIM 1820 1839	invasion vasculaire
+T33	topographie 1829 1839	vasculaire
+T34	expression_CIM 2006 2040	tumeur neuroectodermique primitive
+T35	morphologie 2006 2040	tumeur neuroectodermique primitive
+T36	expression_CIM 2049 2067	médulloépithéliome
+T37	morphologie 2049 2067	médulloépithéliome
+T38	expression_CIM 2083 2089	tumeur
+T39	morphologie 2083 2089	tumeur
+T40	expression_CIM 2107 2135	tumeur du sinus endodermique
+T41	morphologie 2107 2135	tumeur du sinus endodermique
+T42	expression_CIM 2369 2391	carcinome embryonnaire
+T43	morphologie 2369 2391	carcinome embryonnaire
+T44	expression_CIM 2395 2403	séminome
+T45	morphologie 2395 2403	séminome
+T46	expression_CIM 2441 2472	tumeurs des sinus endodermiques
+T47	morphologie 2441 2472	tumeurs des sinus endodermiques
+T48	expression_CIM 2562 2566	PNET
+T49	morphologie 2562 2566	PNET
+T50	expression_CIM 2645 2679	Tumeur neuroectodermique primitive
+T51	morphologie 2645 2679	Tumeur neuroectodermique primitive
+T52	morphologie 2683 2701	médulloépithéliome
+T53	expression_CIM 2683 2724	médulloépithéliome d'origine testiculaire
+T54	topographie 2712 2724	testiculaire
+T55	expression_CIM 2726 2734	stade IV
+T56	morphologie 2726 2734	stade IV
+T57	morphologie 2741 2749	atteinte
+T58	expression_CIM 2741 2766	atteinte rétropéritonéale
+T59	topographie 2750 2766	rétropéritonéale
+T60	morphologie 3195 3199	PNET
+T61	expression_CIM 3195 3212	PNET testiculaire
+T62	topographie 3200 3212	testiculaire
+T63	expression_CIM 3216 3224	stade IV
+T64	morphologie 3216 3224	stade IV
+T65	morphologie 3606 3611	masse
+T66	expression_CIM 3606 3628	masse rétropéritonéale
+T67	topographie 3612 3628	rétropéritonéale
+T68	expression_CIM 4115 4121	tumeur
+T69	morphologie 4115 4121	tumeur
+T70	morphologie 4359 4364	masse
+T71	expression_CIM 4359 4381	masse rétropéritonéale
+T72	topographie 4365 4381	rétropéritonéale
+T73	expression_CIM 4607 4626	maladie oncologique
+T74	morphologie 4607 4626	maladie oncologique
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C62.9 8000/1
+#3	ICD-O T3	C62.9
+#4	ICD-O T4	9065/3
+#5	ICD-O T5	9065/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C77.2 8000/1
+#8	ICD-O T8	C77.2
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C62.9 8000/1
+#11	ICD-O T11	C62.9
+#12	ICD-O T12	8000/1
+#13	ICD-O T14	C62.9
+#14	ICD-O T15	8000/1
+#15	ICD-O T16	C48.0 8000/1
+#16	ICD-O T17	C48.0
+#17	ICD-O T18	8000/1
+#18	ICD-O T19	8000/1
+#19	ICD-O T20	8000/1
+#20	ICD-O T21	C49.4 8000/1
+#21	ICD-O T22	C49.4
+#22	ICD-O T23	9065/3
+#23	ICD-O T24	9065/3
+#24	ICD-O T25	9065/3
+#25	ICD-O T26	9065/3
+#26	ICD-O T27	8000/3
+#27	ICD-O T28	C62.9 8000/3;C63.7 8000/3
+#28	ICD-O T29	C63.7
+#29	ICD-O T30	C62.9
+#30	ICD-O T31	8000/1
+#31	ICD-O T32	C49.9 8000/1
+#32	ICD-O T33	C49.9
+#33	ICD-O T34	9473/3
+#34	ICD-O T35	9473/3
+#35	ICD-O T36	9501/3
+#36	ICD-O T37	9501/3
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	8000/1
+#39	ICD-O T40	9071/3
+#40	ICD-O T41	9071/3
+#41	ICD-O T42	9070/3
+#42	ICD-O T43	9070/3
+#43	ICD-O T44	9061/3
+#44	ICD-O T45	9061/3
+#45	ICD-O T46	9071/3
+#46	ICD-O T47	9071/3
+#47	ICD-O T48	9473/3
+#48	ICD-O T49	9473/3
+#49	ICD-O T50	9473/3
+#50	ICD-O T51	9473/3
+#51	ICD-O T52	9501/3
+#52	ICD-O T53	C62.9 9501/3
+#53	ICD-O T54	C62.9
+#54	ICD-O T55	8000/6
+#55	ICD-O T56	8000/6
+#56	ICD-O T57	8000/1
+#57	ICD-O T58	C48.0 8000/1
+#58	ICD-O T59	C48.0
+#59	ICD-O T60	9473/3
+#60	ICD-O T61	C62.9 9473/3
+#61	ICD-O T62	C62.9
+#62	ICD-O T63	8000/6
+#63	ICD-O T64	8000/6
+#64	ICD-O T65	8000/1
+#65	ICD-O T66	C48.0 8000/1
+#66	ICD-O T67	C48.0
+#67	ICD-O T68	8000/1
+#68	ICD-O T69	8000/1
+#69	ICD-O T70	8000/1
+#70	ICD-O T71	C48.0 8000/1
+#71	ICD-O T72	C48.0
+#72	ICD-O T73	8000/3
+#73	ICD-O T74	8000/3

@@ -1,0 +1,33 @@
+T1	morphologie 102 108	nodule
+T3	topographie 121 125	sein
+T4	topographie 484 488	sein
+T6	morphologie 509 514	masse
+T7	morphologie 725 730	masse
+T9	topographie 787 791	sein
+T11	morphologie 849 854	masse
+T13	morphologie 950 962	infiltration
+T15	morphologie 981 992	adénopathie
+T16	morphologie 1041 1046	masse
+T18	topographie 1071 1097	quadrants internes du sein
+T19	morphologie 1151 1159	atteinte
+T21	topographie 1160 1167	cutanée
+T22	morphologie 1169 1175	Lésion
+T24	topographie 1194 1227	quadrants supéro-internes du sein
+T26	morphologie 1391 1409	maladie à distance
+T28	morphologie 1494 1506	angiosarcome
+T30	morphologie 1537 1549	Angiosarcome
+T31	morphologie 1624 1645	Angiosarcome primaire
+T33	topographie 1659 1663	sein
+T35	morphologie 1907 1919	Angiosarcome
+T36	morphologie 2005 2017	infiltration
+T38	topographie 2018 2029	périneurale
+T40	morphologie 2283 2289	tumeur
+T41	morphologie 2529 2536	lésions
+T43	topographie 2537 2547	hépatiques
+T44	morphologie 2960 2967	lésions
+T46	topographie 2968 2978	hépatiques
+T47	morphologie 3357 3391	progression discrète de la maladie
+T49	topographie 3400 3404	foie
+T50	morphologie 3425 3432	lésions
+T52	topographie 3433 3443	spléniques
+T54	morphologie 3500 3506	tumeur

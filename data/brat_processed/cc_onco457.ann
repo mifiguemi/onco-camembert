@@ -1,0 +1,44 @@
+T20	topographie 2052 2068	abdomino-pelvien
+T1	morphologie 240 254	adénocarcinome
+T3	topographie 260 269	endomètre
+T4	morphologie 326 340	adénocarcinome
+T6	topographie 344 350	poumon
+T7	morphologie 479 493	adénocarcinome
+T9	topographie 494 505	endométrial
+T10	morphologie 631 645	adénocarcinome
+T12	topographie 646 655	gastrique
+T13	morphologie 1014 1028	adénocarcinome
+T61	morphologie 1039 1057	de type intestinal
+T15	topographie 1029 1038	gastrique
+T16	differenciation 1059 1066	grade 3
+T17	morphologie 1919 1925	tumeur
+T19	topographie 1965 1991	jonction biliopancréatique
+T22	morphologie 2080 2088	implants
+T23	morphologie 2092 2105	carcinomatose
+T24	topographie 2106 2117	péritonéale
+T25	morphologie 2186 2200	adénocarcinome
+T62	morphologie 2255 2300	avec présence de cellules en anneau de signet
+T27	differenciation 2201 2216	peu différencié
+T28	topographie 2227 2245	gastro-intestinale
+T29	morphologie 2584 2598	adénocarcinome
+T31	topographie 2599 2608	gastrique
+T32	differenciation 2609 2624	peu différencié
+T34	morphologie 2628 2636	stade IV
+T35	morphologie 2638 2651	carcinomatose
+T37	topographie 2652 2663	péritonéale
+T38	morphologie 2838 2844	tumeur
+T40	topographie 2845 2857	pancréatique
+T41	morphologie 2947 2952	masse
+T43	topographie 2953 2970	biliopancréatique
+T45	morphologie 3002 3010	récidive
+T46	morphologie 3017 3023	tumeur
+T48	topographie 3024 3033	gastrique
+T49	morphologie 3043 3052	néoplasie
+T63	morphologie 3066 3074	primaire
+T51	topographie 3053 3065	pancréatique
+T52	morphologie 3152 3158	cancer
+T54	topographie 3159 3168	gastrique
+T56	morphologie 3391 3411	maladie métastatique
+T57	morphologie 4686 4696	néoplasmes
+T59	topographie 4710 4722	endométriaux
+T60	topographie 4726 4736	gastriques

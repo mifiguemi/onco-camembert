@@ -1,0 +1,39 @@
+T11	topographie 567 582	aortopulmonaire
+T27	topographie 1360 1381	espace sous-carénaire
+T47	topographie 2602 2623	espace sous-carénaire
+T33	topographie 1536 1553	espace subcarinal
+T53	topographie 2778 2795	espace subcarinal
+T30	topographie 1428 1452	fenêtre aorto-pulmonaire
+T50	topographie 2670 2694	fenêtre aorto-pulmonaire
+T8	topographie 486 515	fenêtres trachéale supérieure
+T10	topographie 545 552	hilaire
+T1	morphologie 276 284	récidive
+T4	morphologie 288 296	mélanome
+T5	topographie 311 350	ganglions lymphatiques intrathoraciques
+T6	morphologie 447 459	adénopathies
+T12	morphologie 675 682	nodules
+T14	topographie 718 728	pulmonaire
+T16	morphologie 782 790	récidive
+T18	morphologie 794 802	mélanome
+T19	morphologie 1142 1154	adénopathies
+T21	topographie 1181 1190	médiastin
+T22	topographie 1203 1223	hilaires pulmonaires
+T24	morphologie 1268 1292	foyer d'activité anormal
+T25	morphologie 1313 1338	conglomérat adénopathique
+T28	morphologie 1394 1406	adénopathies
+T31	morphologie 1517 1528	adénopathie
+T35	morphologie 1619 1637	cellules tumorales
+T37	morphologie 1974 1985	adénopathie
+T38	morphologie 2274 2281	lésions
+T41	morphologie 2383 2395	adénopathies
+T43	topographie 2422 2431	médiastin
+T44	topographie 2444 2464	hilaires pulmonaires
+T45	morphologie 2568 2580	adénopathies
+T48	morphologie 2636 2648	adénopathies
+T51	morphologie 2759 2770	adénopathie
+T55	morphologie 2862 2880	cellules tumorales
+T56	morphologie 2916 2924	Mélanome
+T58	topographie 2925 2931	cutané
+T60	morphologie 3472 3480	mélanome
+T9	topographie 531 543	souscarinale
+T40	topographie 2291 2327	territoires ganglionnaires régionaux

@@ -1,0 +1,122 @@
+T1	expression_CIM 605 610	masse
+T2	morphologie 605 610	masse
+T3	morphologie 614 620	nodule
+T4	expression_CIM 614 629	nodule mammaire
+T5	topographie 621 629	mammaire
+T6	morphologie 1224 1229	masse
+T7	expression_CIM 1224 1247	masse pulmonaire en LSI
+T8	topographie 1230 1240	pulmonaire
+T9	topographie 1244 1247	LSI
+T10	morphologie 1398 1410	Adénopathies
+T11	expression_CIM 1398 1458	Adénopathies médiastinales bilatérales et supraclaviculaires
+T12	topographie 1411 1424	médiastinales
+T13	topographie 1440 1458	supraclaviculaires
+T14	morphologie 1486 1492	Nodule
+T15	expression_CIM 1486 1519	Nodule de 31 mm dans la surrénale
+T16	topographie 1510 1519	surrénale
+T17	expression_CIM 1547 1556	métastase
+T18	morphologie 1547 1556	métastase
+T19	morphologie 1579 1590	adénopathie
+T20	expression_CIM 1579 1608	adénopathie supraclaviculaire
+T21	topographie 1591 1608	supraclaviculaire
+T22	expression_CIM 1653 1662	métastase
+T23	morphologie 1653 1662	métastase
+T24	morphologie 1668 1696	carcinome à petites cellules
+T25	expression_CIM 1668 1712	carcinome à petites cellules peu différencié
+T26	differenciation 1697 1712	peu différencié
+T27	expression_CIM 1714 1742	carcinome à petites cellules
+T28	morphologie 1714 1742	carcinome à petites cellules
+T29	expression_CIM 1764 1812	lésion nodulaire au niveau de la tige pituitaire
+T30	topographie 1797 1812	tige pituitaire
+T31	expression_CIM 1917 1965	lésion nodulaire au niveau de la tige pituitaire
+T32	topographie 1950 1965	tige pituitaire
+T33	morphologie 2273 2281	implants
+T34	expression_CIM 2273 2295	implants leptoméningés
+T35	topographie 2282 2295	leptoméningés
+T36	morphologie 2830 2839;2851 2869	Carcinome à petites cellules
+T37	expression_CIM 2830 2869	Carcinome pulmonaire à petites cellules
+T38	topographie 2840 2850	pulmonaire
+T39	expression_CIM 2873 2881	stade IV
+T40	morphologie 2873 2881	stade IV
+T41	morphologie 2897 2905	atteinte
+T42	expression_CIM 2897 2955	atteinte des surrénales et du système nerveux central (SNC
+T43	topographie 2910 2920	surrénales
+T44	topographie 2927 2950	système nerveux central
+T45	topographie 2952 2955	SNC
+T46	morphologie 3075 3077	M1
+T47	expression_CIM 3075 3101	M1 dans la tige pituitaire
+T48	topographie 3086 3101	tige pituitaire
+T49	morphologie 3720 3729;3741 3759	carcinome à petites cellules
+T50	expression_CIM 3720 3759	carcinome pulmonaire à petites cellules
+T51	topographie 3730 3740	pulmonaire
+T52	expression_CIM 3763 3771	stade IV
+T53	morphologie 3763 3771	stade IV
+T54	morphologie 3781 3789	atteinte
+T55	expression_CIM 3781 3813	atteinte surrénalienne et du SNC
+T56	topographie 3790 3803	surrénalienne
+T57	topographie 3810 3813	SNC
+T58	morphologie 4495 4520	progression de la maladie
+T59	expression_CIM 4495 4553	progression de la maladie au niveau cérébral et suprarénal
+T60	topographie 4531 4539	cérébral
+T61	topographie 4543 4553	suprarénal
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	8000/1
+#3	ICD-O T3	8000/1
+#4	ICD-O T4	C50.9 8000/1
+#5	ICD-O T5	C50.9
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C34.1 8000/1;C34.9 8000/1
+#8	ICD-O T8	C34.9
+#9	ICD-O T9	C34.1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C77.0 8000/1;C77.1 8000/1
+#12	ICD-O T12	C38.3
+#13	ICD-O T13	C76.0
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	C74.9 8000/1
+#16	ICD-O T16	C74.9
+#17	ICD-O T17	8000/6
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/1
+#20	ICD-O T20	C77.1 8000/1
+#21	ICD-O T21	C76.0
+#22	ICD-O T22	8000/6
+#23	ICD-O T23	8000/6
+#24	ICD-O T24	8041/3
+#25	ICD-O T25	8041/33
+#26	ICD-O T26	3
+#27	ICD-O T27	8041/3
+#28	ICD-O T28	8041/3
+#29	ICD-O T29	C75.1 8000/1
+#30	ICD-O T30	C75.1
+#31	ICD-O T31	C75.1 8000/1
+#32	ICD-O T32	C75.1
+#33	ICD-O T33	8000/6
+#34	ICD-O T34	C70.9 8000/6
+#35	ICD-O T35	C70.9
+#36	ICD-O T36	8041/3
+#37	ICD-O T37	C34.9 8041/3
+#38	ICD-O T38	C34.9
+#39	ICD-O T39	8000/6
+#40	ICD-O T40	8000/6
+#41	ICD-O T41	8000/1
+#42	ICD-O T42	C72.9 8000/1;C74.9 8000/1
+#43	ICD-O T43	C74.9
+#44	ICD-O T44	C72.9
+#45	ICD-O T45	C72.9
+#46	ICD-O T46	8000/6
+#47	ICD-O T47	C75.1 8000/6
+#48	ICD-O T48	C75.1
+#49	ICD-O T49	8041/3
+#50	ICD-O T50	C34.9 8041/3
+#51	ICD-O T51	C34.9
+#52	ICD-O T52	8000/6
+#53	ICD-O T53	8000/6
+#54	ICD-O T54	8000/1
+#55	ICD-O T55	C72.9 8000/1;C74.9 8000/1
+#56	ICD-O T56	C74.9
+#57	ICD-O T57	C72.9
+#58	ICD-O T58	8000/1
+#59	ICD-O T59	C71.0 8000/1;C76.2 8000/1
+#60	ICD-O T60	C71.0
+#61	ICD-O T61	C76.2

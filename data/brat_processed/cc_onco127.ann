@@ -1,0 +1,24 @@
+T1	morphologie 217 229	angiosarcome
+T3	topographie 230 239	cardiaque
+T5	morphologie 260 268	stade IV
+T6	morphologie 270 280	métastases
+T8	topographie 281 292	pulmonaires
+T9	morphologie 1773 1790	images nodulaires
+T11	topographie 1828 1835	poumons
+T12	morphologie 1963 1968	masse
+T14	topographie 2024 2042	cavités cardiaques
+T15	morphologie 2066 2083	images nodulaires
+T17	topographie 2084 2095	pulmonaires
+T19	morphologie 2278 2295	cellules malignes
+T20	morphologie 2309 2321	Angiosarcome
+T22	topographie 2322 2331	cardiaque
+T24	morphologie 2335 2343	stade IV
+T25	morphologie 3191 3196	masse
+T27	topographie 3197 3206	cardiaque
+T28	morphologie 3214 3221	nodules
+T30	topographie 3222 3233	pulmonaires
+T31	morphologie 3732 3739	lésions
+T33	topographie 3740 3751	pulmonaires
+T34	morphologie 4360 4370	métastases
+T36	topographie 4385 4395	cérébrales
+T37	topographie 4399 4412	cérébelleuses

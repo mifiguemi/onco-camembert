@@ -1,0 +1,121 @@
+T61	topographie 3650 3661	bipariétale
+T1	morphologie 249 258	carcinome
+T2	expression_CIM 249 267	carcinome mammaire
+T3	topographie 259 267	mammaire
+T4	morphologie 351 357	nodule
+T5	expression_CIM 351 397	nodule dans le quadrant supéro-externe du sein
+T6	topographie 366 397	quadrant supéro-externe du sein
+T7	morphologie 535 565	Carcinome canalaire infiltrant
+T8	expression_CIM 535 573	Carcinome canalaire infiltrant du sein
+T9	topographie 569 573	sein
+T10	expression_CIM 583 612	Oligodendrogliome anaplasique
+T11	morphologie 583 612	Oligodendrogliome anaplasique
+T12	expression_CIM 628 640	Ostéosarcome
+T13	morphologie 628 640	Ostéosarcome
+T14	morphologie 754 784	carcinome canalaire infiltrant
+T15	expression_CIM 754 792	carcinome canalaire infiltrant du sein
+T16	topographie 788 792	sein
+T17	morphologie 973 1003	Carcinome canalaire infiltrant
+T18	expression_CIM 973 1015	Carcinome canalaire infiltrant de grade II
+T19	differenciation 1007 1015	grade II
+T20	morphologie 1043 1052	métastase
+T21	expression_CIM 1043 1066	métastase ganglionnaire
+T22	topographie 1053 1066	ganglionnaire
+T23	expression_CIM 1179 1190	lit tumoral
+T24	morphologie 1179 1190	lit tumoral
+T25	morphologie 1285 1318	lésion occupant de l'espace (LOE)
+T26	expression_CIM 1285 1331	lésion occupant de l'espace (LOE) dans le foie
+T27	topographie 1327 1331	foie
+T28	expression_CIM 1346 1355	métastase
+T29	morphologie 1346 1355	métastase
+T30	expression_CIM 1369 1379	hémangiome
+T31	morphologie 1369 1379	hémangiome
+T32	expression_CIM 1439 1449	hémangiome
+T33	morphologie 1439 1449	hémangiome
+T34	morphologie 1574 1584	métastases
+T35	expression_CIM 1574 1595	métastases hépatiques
+T36	topographie 1585 1595	hépatiques
+T37	morphologie 1890 1896	lésion
+T38	expression_CIM 1890 1937	lésion unique dans la région temporo-occipitale
+T40	expression_CIM 1966 1975	métastase
+T41	morphologie 1966 1975	métastase
+T42	expression_CIM 2294 2300	lésion
+T43	morphologie 2294 2300	lésion
+T44	expression_CIM 2389 2402	LOE cérébrale
+T45	topographie 2393 2402	cérébrale
+T46	morphologie 2428 2434	lésion
+T47	expression_CIM 2428 2493	lésion résiduelle ponctuée submillimétrique dans le lobe temporal
+T48	topographie 2480 2493	lobe temporal
+T49	expression_CIM 2567 2573	tumeur
+T50	morphologie 2567 2573	tumeur
+T51	morphologie 2766 2772	lésion
+T52	expression_CIM 2766 2813	lésion précédente, située dans le lobe temporal
+T53	topographie 2800 2813	lobe temporal
+T54	expression_CIM 2904 2933	oligodendrogliome anaplasique
+T55	morphologie 2904 2933	oligodendrogliome anaplasique
+T56	morphologie 3544 3550	lésion
+T57	expression_CIM 3544 3616	lésion nécrotique a été observée dans la zone chirurgicale de la calotte
+T58	topographie 3609 3616	calotte
+T59	morphologie 3643 3649	lésion
+T60	expression_CIM 3643 3677	lésion bipariétale des tissus mous
+T62	topographie 3666 3677	tissus mous
+T63	expression_CIM 3738 3750	ostéosarcome
+T64	morphologie 3738 3750	ostéosarcome
+T39	topographie 1912 1937	région temporo-occipitale
+#1	ICD-O T1	8010/3
+#2	ICD-O T2	C50.9 8010/3
+#3	ICD-O T3	C50.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.4 8000/1
+#6	ICD-O T6	C50.4
+#7	ICD-O T7	8500/3
+#8	ICD-O T8	C50.9 8500/3
+#9	ICD-O T9	C50.9
+#10	ICD-O T10	9451/3
+#11	ICD-O T11	9451/3
+#12	ICD-O T12	9180/3
+#13	ICD-O T13	9180/3
+#14	ICD-O T14	8500/3
+#15	ICD-O T15	C50.9 8500/3
+#16	ICD-O T16	C50.9
+#17	ICD-O T17	8500/3
+#18	ICD-O T18	8500/32
+#19	ICD-O T19	2
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	C77.9 8000/6
+#22	ICD-O T22	C77.9
+#23	ICD-O T23	8000/3
+#24	ICD-O T24	8000/3
+#25	ICD-O T25	8000/1
+#26	ICD-O T27	C22.0
+#27	ICD-O T28	8000/6
+#28	ICD-O T29	8000/6
+#29	ICD-O T30	9120/0
+#30	ICD-O T31	9120/0
+#31	ICD-O T32	9120/0
+#32	ICD-O T33	9120/0
+#33	ICD-O T34	8000/6
+#34	ICD-O T35	C22.0 8000/6
+#35	ICD-O T36	C22.0
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	C71.8 8000/1
+#38	ICD-O T40	8000/6
+#39	ICD-O T41	8000/6
+#40	ICD-O T42	8000/1
+#41	ICD-O T43	8000/1
+#42	ICD-O T45	C71.9
+#43	ICD-O T46	8000/1
+#44	ICD-O T48	C71.2
+#45	ICD-O T49	8000/1
+#46	ICD-O T50	8000/3
+#47	ICD-O T51	8000/1
+#48	ICD-O T53	C71.2
+#49	ICD-O T54	9451/3
+#50	ICD-O T55	9451/3
+#51	ICD-O T56	8000/1
+#52	ICD-O T58	C41.0
+#53	ICD-O T59	8000/1
+#54	ICD-O T60	C49.9 8000/1
+#55	ICD-O T62	C49.9
+#56	ICD-O T63	9180/3
+#57	ICD-O T64	9180/3

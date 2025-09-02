@@ -1,0 +1,60 @@
+T48	topographie 4202 4225	pulmonaire sous-pleural
+T1	morphologie 956 962	tumeur
+T3	topographie 963 972	pelvienne
+T5	morphologie 1068 1093	tumeur fibreuse solitaire
+T7	morphologie 1225 1231	tumeur
+T9	morphologie 1363 1369	tumeur
+T11	morphologie 1990 2000	métastases
+T12	morphologie 2007 2032	tumeur fibreuse solitaire
+T14	topographie 2065 2069	foie
+T15	morphologie 2106 2114	récidive
+T17	topographie 2115 2124	hépatique
+T18	morphologie 2181 2188	lésions
+T23	morphologie 2332 2339	lésions
+T24	morphologie 2462 2468	lésion
+T27	morphologie 2517 2523	lésion
+T29	topographie 2524 2533	hépatique
+T30	morphologie 2587 2593	lésion
+T33	morphologie 2655 2662	lésions
+T37	morphologie 2871 2878	nodules
+T39	topographie 2879 2890	pulmonaires
+T40	topographie 2906 2920	lobe supérieur
+T41	topographie 2958 2972	lobe inférieur
+T43	morphologie 2984 2991	nodules
+T45	morphologie 3060 3069	métastase
+T46	morphologie 4195 4201	Nodule
+T49	topographie 4234 4248	lobe supérieur
+T50	morphologie 4321 4348	Augmentation du métabolisme
+T52	topographie 4391 4399	prostate
+T53	morphologie 4526 4532	lésion
+T57	morphologie 4600 4609	métastase
+T58	morphologie 4634 4640	lésion
+T62	morphologie 4680 4689	métastase
+T63	morphologie 4921 4931	métastases
+T65	topographie 4932 4942	hépatiques
+T66	morphologie 4976 4983	nodules
+T68	topographie 4984 4995	pulmonaires
+T69	morphologie 5147 5155	Récidive
+T71	topographie 5156 5165	hépatique
+T72	topographie 5169 5179	pulmonaire
+T73	morphologie 5186 5211	tumeur fibreuse solitaire
+T75	topographie 5212 5221	pelvienne
+T77	morphologie 5605 5612	lésions
+T78	morphologie 5626 5632	nodule
+T80	topographie 5636 5650	lobe inférieur
+T83	morphologie 5773 5780	lésions
+T85	morphologie 6151 6158	lésions
+T86	morphologie 6204 6210	lésion
+T88	topographie 6257 6270	paroi costale
+T89	topographie 6290 6302	arcs costaux
+T91	morphologie 6325 6335	métastases
+T93	morphologie 6371 6396	progression de la maladie
+T55	topographie 4568 4579	segment III
+T21	topographie 2252 2262	segment VI
+T36	topographie 2705 2715	segment VI
+T20	topographie 2205 2217	segment VIII
+T26	topographie 2484 2496	segment VIII
+T35	topographie 2671 2683	segment VIII
+T60	topographie 4654 4666	segment VIII
+T81	topographie 5664 5703	segments hépatiques II-III, VIII et VII
+T32	topographie 2604 2621	segments VII-VIII

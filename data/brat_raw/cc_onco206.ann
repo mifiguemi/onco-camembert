@@ -1,0 +1,52 @@
+T3	topographie 1003 1020	fosse postérieure
+T1	morphologie 927 932	masse
+T2	expression_CIM 927 1020	masse de 5,4 x 4,3 x 4,2 cm de diamètre (AP x T x L) située au centre de la fosse postérieure
+T4	expression_CIM 1200 1216	maladie tumorale
+T5	morphologie 1200 1216	maladie tumorale
+T6	expression_CIM 1282 1299	récidive tumorale
+T7	morphologie 1282 1299	récidive tumorale
+T8	morphologie 1313 1328	Médulloblastome
+T9	expression_CIM 1313 1362	Médulloblastome de grade IV du vermis cérébelleux
+T10	differenciation 1332 1340	grade IV
+T11	topographie 1344 1362	vermis cérébelleux
+T12	expression_CIM 1404 1410	lésion
+T13	morphologie 1404 1410	lésion
+T14	morphologie 1496 1511	médulloblastome
+T15	expression_CIM 1496 1523	médulloblastome de grade IV
+T16	differenciation 1515 1523	grade IV
+T17	expression_CIM 2408 2417	néoplasie
+T18	morphologie 2408 2417	néoplasie
+T19	morphologie 2638 2647	captation
+T20	expression_CIM 2638 2655	captation osseuse
+T21	topographie 2648 2655	osseuse
+T22	expression_CIM 2872 2889	récidive tumorale
+T23	morphologie 2872 2889	récidive tumorale
+T24	expression_CIM 2987 3006	récidive à distance
+T25	morphologie 2987 3006	récidive à distance
+T26	expression_CIM 3478 3485	lésions
+T27	morphologie 3478 3485	lésions
+#1	ICD-O T1	8000/1
+#2	ICD-O T4	8000/3
+#3	ICD-O T5	8000/3
+#4	ICD-O T6	8000/6
+#5	ICD-O T7	8000/6
+#6	ICD-O T8	9470/3
+#7	ICD-O T9	C71.6 9470/34
+#8	ICD-O T10	4
+#9	ICD-O T11	C71.6
+#10	ICD-O T12	8000/1
+#11	ICD-O T13	8000/1
+#12	ICD-O T14	9470/3
+#13	ICD-O T15	9470/34
+#14	ICD-O T16	4
+#15	ICD-O T17	8000/1
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	C41.9 8000/1
+#19	ICD-O T21	C41.9
+#20	ICD-O T22	8000/6
+#21	ICD-O T23	8000/6
+#22	ICD-O T24	8000/6
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	8000/1
+#25	ICD-O T27	8000/1

@@ -1,0 +1,201 @@
+T70	topographie 8777 8800	région rétropéritonéale
+T1	morphologie 384 393	néoplasie
+T2	expression_CIM 384 406	néoplasie testiculaire
+T3	topographie 394 406	testiculaire
+T4	expression_CIM 688 708	tumeur séminomateuse
+T5	morphologie 688 708	tumeur séminomateuse
+T6	morphologie 778 786	invasion
+T7	expression_CIM 778 797	invasion vasculaire
+T8	topographie 787 797	vasculaire
+T9	morphologie 955 967	adénopathies
+T10	expression_CIM 955 1011	adénopathies bilatérales rétropéritonéales et inguinales
+T11	topographie 980 997	rétropéritonéales
+T12	topographie 1001 1011	inguinales
+T13	expression_CIM 1116 1122	tumeur
+T14	morphologie 1116 1122	tumeur
+T15	morphologie 1170 1178	invasion
+T16	expression_CIM 1170 1193	invasion du rete testis
+T17	topographie 1182 1193	rete testis
+T18	expression_CIM 1440 1448	récidive
+T19	morphologie 1440 1448	récidive
+T20	expression_CIM 2478 2495	récidive tumorale
+T21	morphologie 2478 2495	récidive tumorale
+T22	morphologie 2521 2546	conglomérat adénopathique
+T23	expression_CIM 2521 2562	conglomérat adénopathique rétropéritonéal
+T24	topographie 2547 2562	rétropéritonéal
+T25	morphologie 3299 3305;3319 3327	tumeur primaire
+T26	expression_CIM 3299 3327	tumeur testiculaire primaire
+T27	topographie 3306 3318	testiculaire
+T28	expression_CIM 3472 3495	implication néoplasique
+T29	morphologie 3472 3495	implication néoplasique
+T30	morphologie 3567 3592	conglomérat adénopathique
+T31	expression_CIM 3567 3608	conglomérat adénopathique rétropéritonéal
+T32	topographie 3593 3608	rétropéritonéal
+T33	expression_CIM 3649 3663	tumeur maligne
+T34	morphologie 3649 3663	tumeur maligne
+T35	expression_CIM 3676 3705	prise pathologique à distance
+T36	morphologie 3676 3705	prise pathologique à distance
+T37	expression_CIM 4064 4073	néoplasme
+T38	morphologie 4064 4073	néoplasme
+T39	morphologie 4701 4706	masse
+T40	expression_CIM 4701 4727	masse au niveau sus-pubien
+T41	topographie 4717 4727	sus-pubien
+T42	morphologie 5009 5024	lésion tumorale
+T43	expression_CIM 5009 5038	lésion tumorale sur l'uretère
+T44	topographie 5031 5038	uretère
+T45	expression_CIM 5760 5785	lésions occupant l'espace
+T46	morphologie 5760 5785	lésions occupant l'espace
+T47	morphologie 5815 5821	foyers
+T48	expression_CIM 5815 5832	foyers hypodenses
+T49	morphologie 6201 6234	conglomérat tumoral adénopathique
+T50	expression_CIM 6201 6337	conglomérat tumoral adénopathique à prédominance solide avec de petits foyers de nécrose à l'intérieur, de localisation rétropéritonéale
+T51	topographie 6321 6337	rétropéritonéale
+T52	expression_CIM 6530 6535	masse
+T53	morphologie 6530 6535	masse
+T54	morphologie 7002 7007	masse
+T55	expression_CIM 7002 7024	masse rétropéritonéale
+T56	topographie 7008 7024	rétropéritonéale
+T57	expression_CIM 7457 7463	lésion
+T58	morphologie 7457 7463	lésion
+T59	morphologie 7972 7979	nodules
+T60	expression_CIM 7972 7991	nodules pulmonaires
+T61	topographie 7980 7991	pulmonaires
+T62	expression_CIM 8006 8016	métastases
+T63	morphologie 8006 8016	métastases
+T64	morphologie 8032 8039	nodules
+T65	expression_CIM 8032 8116	nodules millimétriques non spécifiques dans le lobe supérieur droit et le lobe moyen
+T66	topographie 8079 8093	lobe supérieur
+T67	topographie 8106 8116	lobe moyen
+T68	morphologie 8728 8762	dépôt pathologique du radiotraceur
+T69	expression_CIM 8728 8800	dépôt pathologique du radiotraceur situé dans la région rétropéritonéale
+T71	morphologie 9019 9030	conglomérat
+T72	expression_CIM 9019 9071	conglomérat s'étend largement dans le rétropéritoine
+T73	topographie 9057 9071	rétropéritoine
+T74	morphologie 9303 9317	tumeur maligne
+T75	expression_CIM 9303 9363	tumeur maligne n'a été observé dans le parenchyme pulmonaire
+T76	topographie 9342 9363	parenchyme pulmonaire
+T77	morphologie 9529 9568	augmentation de la captation du traceur
+T78	expression_CIM 9529 9657	augmentation de la captation du traceur, de nature segmentaire dans les boucles intestinales, principalement dans le côlon droit
+T79	topographie 9646 9657	côlon droit
+T80	expression_CIM 9664 9671	lésions
+T81	morphologie 9664 9671	lésions
+T82	morphologie 9725 9753	augmentation de la captation
+T83	expression_CIM 9725 9783	augmentation de la captation dans la région du rectum anal
+T84	topographie 9772 9783	rectum anal
+T85	expression_CIM 10402 10409	lésions
+T86	morphologie 10402 10409	lésions
+T87	morphologie 10483 10508	conglomérat adénopathique
+T88	expression_CIM 10483 10524	conglomérat adénopathique rétropéritonéal
+T89	topographie 10509 10524	rétropéritonéal
+T90	expression_CIM 10616 10624	séminome
+T91	morphologie 10616 10624	séminome
+T92	expression_CIM 10729 10738	malignité
+T93	morphologie 10729 10738	malignité
+T94	morphologie 10781 10789	récidive
+T95	expression_CIM 10781 10806	récidive rétropéritonéale
+T96	topographie 10790 10806	rétropéritonéale
+T97	morphologie 10820 10828	séminome
+T98	expression_CIM 10820 10841	séminome testiculaire
+T99	topographie 10829 10841	testiculaire
+T100	expression_CIM 11089 11097	récidive
+T101	morphologie 11089 11097	récidive
+T102	expression_CIM 11109 11117	séminome
+T103	morphologie 11109 11117	séminome
+T104	expression_CIM 12012 12020	séminome
+T105	morphologie 12012 12020	séminome
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C62.9 8000/1
+#3	ICD-O T3	C62.9
+#4	ICD-O T4	9061/3
+#5	ICD-O T5	9061/3
+#6	ICD-O T6	8000/1
+#7	ICD-O T7	C49.9 8000/1
+#8	ICD-O T8	C49.9
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C77.2 8000/1;C77.5 8000/1
+#11	ICD-O T11	C48.0
+#12	ICD-O T12	C76.3
+#13	ICD-O T13	8000/1
+#14	ICD-O T14	8000/1
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C62.9 8000/1
+#17	ICD-O T17	C62.9
+#18	ICD-O T18	8000/6
+#19	ICD-O T19	8000/6
+#20	ICD-O T20	8000/6
+#21	ICD-O T21	8000/6
+#22	ICD-O T22	8000/1
+#23	ICD-O T23	C77.2 8000/1
+#24	ICD-O T24	C48.0
+#25	ICD-O T25	8000/3
+#26	ICD-O T26	C62.9 8000/3
+#27	ICD-O T27	C62.9
+#28	ICD-O T28	8000/6
+#29	ICD-O T29	8000/6
+#30	ICD-O T30	8000/1
+#31	ICD-O T31	C77.2 8000/1
+#32	ICD-O T32	C48.0
+#33	ICD-O T33	8000/3
+#34	ICD-O T34	8000/3
+#35	ICD-O T36	8000/6
+#36	ICD-O T37	8000/1
+#37	ICD-O T38	8000/1
+#38	ICD-O T39	8000/1
+#39	ICD-O T40	C76.3 8000/1
+#40	ICD-O T41	C76.3
+#41	ICD-O T42	8000/3
+#42	ICD-O T43	C66.9 8000/3
+#43	ICD-O T44	C66.9
+#44	ICD-O T46	8000/1
+#45	ICD-O T47	8000/1
+#46	ICD-O T49	8000/1
+#47	ICD-O T51	C48.0
+#48	ICD-O T52	8000/1
+#49	ICD-O T53	8000/1
+#50	ICD-O T54	8000/1
+#51	ICD-O T55	C48.0 8000/1
+#52	ICD-O T56	C48.0
+#53	ICD-O T57	8000/1
+#54	ICD-O T58	8000/1
+#55	ICD-O T59	8000/1
+#56	ICD-O T60	C34.9 8000/1
+#57	ICD-O T61	C34.9
+#58	ICD-O T62	8000/6
+#59	ICD-O T63	8000/6
+#60	ICD-O T64	8000/1
+#61	ICD-O T65	C34.1 8000/1;C34.2 8000/1
+#62	ICD-O T66	C34.1
+#63	ICD-O T67	C34.2
+#64	ICD-O T68	8000/6
+#65	ICD-O T71	8000/1
+#66	ICD-O T73	C48.0
+#67	ICD-O T74	8000/3
+#68	ICD-O T76	C34.9
+#69	ICD-O T77	8000/1
+#70	ICD-O T79	C18.2
+#71	ICD-O T80	8000/1
+#72	ICD-O T81	8000/1
+#73	ICD-O T82	8000/1
+#74	ICD-O T84	C21.1
+#75	ICD-O T85	8000/1
+#76	ICD-O T86	8000/1
+#77	ICD-O T87	8000/1
+#78	ICD-O T88	C77.2 8000/1
+#79	ICD-O T89	C48.0
+#80	ICD-O T90	9061/3
+#81	ICD-O T91	9061/3
+#82	ICD-O T92	8000/3
+#83	ICD-O T93	tocheck
+#84	ICD-O T94	8000/9
+#85	ICD-O T95	C48.0 8000/6
+#86	ICD-O T96	C48.0
+#87	ICD-O T97	9061/3
+#88	ICD-O T98	C62.9 9061/3
+#89	ICD-O T99	C62.9
+#90	ICD-O T100	8000/6
+#91	ICD-O T101	8000/9
+#92	ICD-O T102	9061/3
+#93	ICD-O T103	9061/3
+#94	ICD-O T104	9061/3
+#95	ICD-O T105	9061/3
+#96	AnnotatorNotes T46	trad

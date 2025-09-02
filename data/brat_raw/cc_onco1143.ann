@@ -1,0 +1,39 @@
+T1	morphologie 370 373	LOE
+T2	expression_CIM 370 381	LOE frontal
+T3	topographie 374 381	frontal
+T4	expression_CIM 720 726	lésion
+T5	morphologie 720 726	lésion
+T6	expression_CIM 804 810	lésion
+T7	morphologie 804 810	lésion
+T8	expression_CIM 849 857	lymphome
+T9	morphologie 849 857	lymphome
+T10	expression_CIM 864 887	astrocytome anaplasique
+T11	morphologie 864 887	astrocytome anaplasique
+T12	morphologie 984 995	astrocytome
+T13	expression_CIM 984 1012	astrocytome anaplasique GIII
+T14	differenciation 996 1007	anaplasique
+T15	differenciation 1008 1012	GIII
+T16	morphologie 1129 1141	infiltration
+T17	expression_CIM 1129 1158	infiltration du corps calleux
+T18	topographie 1145 1158	corps calleux
+T19	expression_CIM 4164 4183	maladie oncologique
+T20	morphologie 4164 4183	maladie oncologique
+#1	ICD-O T1	8000/1
+#2	ICD-O T3	C71.1
+#3	ICD-O T4	8000/1
+#4	ICD-O T5	8000/1
+#5	ICD-O T6	8000/1
+#6	ICD-O T7	8000/1
+#7	ICD-O T8	9590/3
+#8	ICD-O T9	9590/3
+#9	ICD-O T10	9401/3
+#10	ICD-O T11	9401/3
+#11	ICD-O T12	9400/3
+#12	ICD-O T13	9401/33
+#13	ICD-O T14	4
+#14	ICD-O T15	3
+#15	ICD-O T16	8000/9
+#16	ICD-O T17	C71.8 8000/1
+#17	ICD-O T18	C71.8
+#18	ICD-O T19	8000/3
+#19	ICD-O T20	8000/9

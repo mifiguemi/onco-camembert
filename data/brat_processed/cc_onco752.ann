@@ -1,0 +1,15 @@
+T1	morphologie 68 98	carcinome canalaire infiltrant
+T3	topographie 102 106	sein
+T5	morphologie 150 158	récidive
+T6	morphologie 605 610	masse
+T8	topographie 625 635	lobe moyen
+T9	morphologie 681 693	infiltration
+T11	topographie 699 705	artère
+T12	topographie 740 746	artère
+T13	morphologie 778 785	nodules
+T15	topographie 786 794	pleuraux
+T16	morphologie 930 944	adénocarcinome
+T18	topographie 974 984	pulmonaire
+T19	morphologie 1985 1999	adénocarcinome
+T21	topographie 2000 2010	pulmonaire
+T23	morphologie 2014 2022	stade IV

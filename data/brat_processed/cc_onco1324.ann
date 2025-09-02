@@ -1,0 +1,38 @@
+T1	morphologie 146 152	nodule
+T3	topographie 170 182	hémithyroïde
+T5	morphologie 236 242	nodule
+T6	morphologie 285 294	extension
+T8	topographie 295 310	intrathoracique
+T10	morphologie 368 385	cellules malignes
+T12	morphologie 470 476	nodule
+T13	morphologie 542 559	cellules malignes
+T15	topographie 570 578	mammaire
+T17	morphologie 646 655	métastase
+T18	morphologie 661 696	carcinome lobulaire infiltrant (ILC
+T20	topographie 701 705	sein
+T21	morphologie 787 793	nodule
+T23	topographie 802 806	sein
+T25	morphologie 902 905	ILC
+T27	morphologie 1088 1099	adénopathie
+T28	morphologie 1120 1128	atteinte
+T30	topographie 1129 1136	cutanée
+T31	morphologie 1151 1157	nodule
+T33	topographie 1174 1200	quadrant supérieur externe
+T35	morphologie 1665 1668	CLI
+T37	morphologie 1691 1712	cellules néoplasiques
+T38	morphologie 1884 1890	foyers
+T40	topographie 1899 1903	sein
+T41	topographie 1918 1941	quadrant supéro-externe
+T42	topographie 1968 1983	rétro-aréolaire
+T43	morphologie 2060 2070	métastases
+T45	topographie 2071 2079	osseuses
+T46	morphologie 2103 2133	Carcinome lobulaire infiltrant
+T48	topographie 2137 2141	sein
+T50	morphologie 2151 2159	stade IV
+T51	morphologie 2161 2171	métastases
+T53	topographie 2172 2180	osseuses
+T54	topographie 2184 2197	thyroïdiennes
+T55	morphologie 2756 2764	atteinte
+T57	topographie 2765 2778	ganglionnaire
+T58	morphologie 3052 3062	métastases
+T60	topographie 3063 3071	osseuses

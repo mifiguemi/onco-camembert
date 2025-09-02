@@ -1,0 +1,86 @@
+T17	topographie 1159 1198	à l'origine du tronc brachio-céphalique
+T18	topographie 1212 1243	chaîne paratrachéale supérieure
+T19	topographie 1258 1299	fenêtre sous-carénale et aorto-pulmonaire
+T1	morphologie 530 535	masse
+T2	expression_CIM 530 546	masse pulmonaire
+T3	topographie 536 546	pulmonaire
+T4	morphologie 647 652	masse
+T5	expression_CIM 647 750	masse mesurant 60 x 53 x 80 mm infiltrant la bronche du segment postérieur du lobe supérieur droit (LSD
+T6	topographie 692 699	bronche
+T7	topographie 725 739	lobe supérieur
+T8	topographie 747 750	LSD
+T9	morphologie 982 988	nodule
+T10	expression_CIM 982 1036	nodule satellite spiculé dans le segment apical du LSD
+T11	topographie 1033 1036	LSD
+T12	morphologie 1064 1071	nodules
+T13	expression_CIM 1064 1096	nodules dans le segment 6 du LID
+T14	topographie 1093 1096	LID
+T15	morphologie 1146 1158;1300 1323	adénopathies suspectes de métastases
+T16	expression_CIM 1146 1323	adénopathies à l'origine du tronc brachio-céphalique droit, de la chaîne paratrachéale supérieure droite, de la fenêtre sous-carénale et aorto-pulmonaire suspectes de métastases
+T20	expression_CIM 1795 1907	masse hypermétabolique de 7,8 x 7,7 cm (standardised uptake value [SUV] 9,6) dans le segment supérieur de la LID
+T21	topographie 1904 1907	LID
+T22	morphologie 1913 1925	adénopathies
+T23	expression_CIM 1913 1945	adénopathies broncho-pulmonaires
+T24	topographie 1926 1945	broncho-pulmonaires
+T25	expression_CIM 1988 2245	prises osseuses pathologiques au niveau du 4ème arc costal postérieur droit, du 5ème antérieur gauche, du 7ème droit au niveau de l'angle, du corps vertébral L3, de la lame iliaque gauche, de l'articulation sacro-iliaque gauche et de la branche iléopubienne
+T26	topographie 1995 2003	osseuses
+T27	topographie 2036 2046	arc costal
+T28	topographie 2130 2148	corps vertébral L3
+T29	topographie 2156 2168	lame iliaque
+T30	topographie 2182 2208	articulation sacro-iliaque
+T31	topographie 2225 2245	branche iléopubienne
+T32	expression_CIM 2511 2523	adénopathies
+T33	morphologie 2511 2523	adénopathies
+T34	morphologie 2607 2621	adénocarcinome
+T35	expression_CIM 2607 2637	adénocarcinome peu différencié
+T36	differenciation 2622 2637	peu différencié
+T37	morphologie 2771 2785	adénocarcinome
+T38	expression_CIM 2771 2796	adénocarcinome pulmonaire
+T39	topographie 2786 2796	pulmonaire
+T40	morphologie 2801 2803	M1
+T41	expression_CIM 2801 2808	M1b (os
+T42	topographie 2806 2808	os
+T43	morphologie 3038 3064	dissémination métastatique
+T44	expression_CIM 3038 3075	dissémination métastatique vertébrale
+T45	topographie 3065 3075	vertébrale
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C34.9 8000/1
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C34.1 8000/1;C34.9 8000/1
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	C34.1
+#8	ICD-O T8	C34.1
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C34.1 8000/1
+#11	ICD-O T11	C34.1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.3 8000/1
+#14	ICD-O T14	C34.3
+#15	ICD-O T15	8000/6
+#16	ICD-O T20	C34.3 8000/1
+#17	ICD-O T21	C34.3
+#18	ICD-O T22	8000/1
+#19	ICD-O T23	C77.1 8000/1
+#20	ICD-O T24	C34.8
+#21	ICD-O T25	C41.2 8000/1;C41.3 8000/1;C41.4 8000/1;C41.9 8000/1
+#22	ICD-O T26	C41.9
+#23	ICD-O T27	C41.3
+#24	ICD-O T28	C41.2
+#25	ICD-O T29	C41.4
+#26	ICD-O T30	C41.4
+#27	ICD-O T31	C41.4
+#28	ICD-O T32	C77.9 8000/1
+#29	ICD-O T33	8000/1
+#30	ICD-O T34	8140/3
+#31	ICD-O T35	8140/33
+#32	ICD-O T36	3
+#33	ICD-O T37	8140/3
+#34	ICD-O T38	C34.9 8140/3
+#35	ICD-O T39	C34.9
+#36	ICD-O T40	8000/6
+#37	ICD-O T41	C41.9 8000/6
+#38	ICD-O T42	C41.9
+#39	ICD-O T43	8000/6
+#40	ICD-O T44	C41.2 8000/6
+#41	ICD-O T45	C41.2

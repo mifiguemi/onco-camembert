@@ -1,0 +1,56 @@
+T1	morphologie 237 243	cancer
+T2	expression_CIM 237 253	cancer du poumon
+T3	topographie 247 253	poumon
+T4	morphologie 540 546;557 579	cancer non à petites cellules
+T5	expression_CIM 540 579	cancer du poumon non à petites cellules
+T6	topographie 550 556	poumon
+T7	expression_CIM 1251 1265	adénocarcinome
+T8	morphologie 1251 1265	adénocarcinome
+T9	morphologie 1391 1396	masse
+T10	expression_CIM 1391 1433	masse de 80 x 20 mm dans le lobe supérieur
+T11	topographie 1419 1433	lobe supérieur
+T12	morphologie 1442 1448	nodule
+T13	expression_CIM 1442 1467	nodule dans le lobe moyen
+T14	topographie 1457 1467	lobe moyen
+T15	morphologie 1471 1483	adénopathies
+T16	expression_CIM 1471 1511	adénopathies hilaires et sous-carénaires
+T17	topographie 1484 1492	hilaires
+T18	topographie 1496 1511	sous-carénaires
+T19	morphologie 1558 1572	adénocarcinome
+T20	expression_CIM 1558 1583	adénocarcinome pulmonaire
+T21	topographie 1573 1583	pulmonaire
+T22	morphologie 1665 1679	Adénocarcinome
+T23	expression_CIM 1665 1690	Adénocarcinome pulmonaire
+T24	topographie 1680 1690	pulmonaire
+T25	morphologie 2196 2221	progression de la maladie
+T26	expression_CIM 2196 2245	progression de la maladie pulmonaire et hépatique
+T27	topographie 2222 2232	pulmonaire
+T28	topographie 2236 2245	hépatique
+#1	ICD-O T1	8000/3
+#2	ICD-O T2	C34.9 8000/3
+#3	ICD-O T3	C34.9
+#4	ICD-O T4	8046/3
+#5	ICD-O T5	C34.9 8046/3
+#6	ICD-O T6	C34.9
+#7	ICD-O T7	8140/3
+#8	ICD-O T8	8140/3
+#9	ICD-O T9	8000/1
+#10	ICD-O T10	C34.1 8000/1
+#11	ICD-O T11	C34.1
+#12	ICD-O T12	8000/1
+#13	ICD-O T13	C34.2 8000/1
+#14	ICD-O T14	C34.2
+#15	ICD-O T15	8000/1
+#16	ICD-O T16	C77.1 8000/1
+#17	ICD-O T17	C76.1
+#18	ICD-O T18	C76.1
+#19	ICD-O T19	8140/3
+#20	ICD-O T20	C34.9 8140/3
+#21	ICD-O T21	C34.9
+#22	ICD-O T22	8140/3
+#23	ICD-O T23	C34.9 8140/3
+#24	ICD-O T24	C34.9
+#25	ICD-O T25	8000/1
+#26	ICD-O T26	C22.0 8000/1;C34.9 8000/1
+#27	ICD-O T27	C34.9
+#28	ICD-O T28	C22.0

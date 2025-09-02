@@ -1,0 +1,43 @@
+T45	topographie 3236 3270	médiastinale rétrocavopretrachéale
+T1	morphologie 323 329	cancer
+T3	topographie 333 338	côlon
+T5	morphologie 886 892	masses
+T6	morphologie 993 1004	adénopathie
+T8	topographie 1005 1014	cervicale
+T9	topographie 1016 1033	supraclaviculaire
+T10	topographie 1035 1044	axillaire
+T11	topographie 1048 1057	inguinale
+T12	morphologie 1349 1355	tumeur
+T14	topographie 1396 1400	rein
+T15	morphologie 1603 1631	carcinome à cellules claires
+T17	topographie 1635 1639	rein
+T19	morphologie 1926 1933	lésions
+T20	morphologie 1955 1965	métastases
+T22	topographie 1991 1997	poumon
+T24	morphologie 2203 2210	lésions
+T25	morphologie 2293 2299	cancer
+T27	topographie 2303 2307	rein
+T29	morphologie 2396 2402	nodule
+T30	morphologie 2423 2429	nodule
+T32	topographie 2449 2453	hile
+T33	morphologie 2464 2470	nodule
+T35	topographie 2487 2494	lingula
+T36	topographie 2506 2520	lobe supérieur
+T38	morphologie 2587 2599	adénopathies
+T40	morphologie 2725 2731	tumeur
+T42	morphologie 2813 2820	nodules
+T43	morphologie 3219 3235	lymphadénopathie
+T46	morphologie 3333 3340	nodules
+T48	topographie 3341 3352	pulmonaires
+T49	morphologie 3392 3408	lymphadénopathie
+T51	topographie 3409 3422	para-aortique
+T52	topographie 3436 3446	hile rénal
+T54	morphologie 3575 3581	tumeur
+T55	morphologie 3925 3932	lésions
+T57	topographie 3933 3944	pulmonaires
+T58	morphologie 4046 4057	Adénopathie
+T60	topographie 4058 4071	para-aortique
+T61	morphologie 4134 4144	Métastases
+T63	topographie 4145 4153	osseuses
+T64	topographie 4162 4174	lame iliaque
+T65	topographie 4188 4200	col du fémur

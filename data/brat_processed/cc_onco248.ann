@@ -1,0 +1,33 @@
+T1	morphologie 702 708	tumeur
+T3	topographie 709 726	sous-mandibulaire
+T4	morphologie 901 906	masse
+T6	topographie 914 932	angle mandibulaire
+T8	morphologie 985 997	adénopathies
+T11	morphologie 1448 1454	lésion
+T12	morphologie 1480 1487	lésions
+T14	topographie 1488 1502	ganglionnaires
+T15	morphologie 1609 1614	Masse
+T17	topographie 1615 1631	latéro-cervicale
+T19	morphologie 1899 1924	adénomégalie métastatique
+T21	morphologie 2213 2230	cellules malignes
+T22	morphologie 2377 2382	masse
+T24	topographie 2383 2399	latéro-cervicale
+T25	morphologie 2427 2436	carcinome
+T27	differenciation 2437 2452	peu différencié
+T29	morphologie 2633 2644	adénopathie
+T30	morphologie 2712 2721	Carcinome
+T32	morphologie 2722 2734	métastatique
+T34	topographie 2735 2748	adénopathique
+T35	differenciation 2749 2762	indifférencié
+T36	topographie 2765 2781	origine inconnue
+T37	morphologie 3029 3038	carcinome
+T39	differenciation 3039 3054	peu différencié
+T40	morphologie 3089 3098	carcinome
+T42	differenciation 3099 3114	peu différencié
+T43	morphologie 3320 3329	carcinome
+T45	topographie 3330 3343	adénopathique
+T46	morphologie 3344 3356	métastatique
+T47	differenciation 3357 3370	indifférencié
+T48	topographie 3394 3418	oto-rhino-laryngologique
+T50	morphologie 5310 5316	foyers
+T9	topographie 1403 1419	région cervicale

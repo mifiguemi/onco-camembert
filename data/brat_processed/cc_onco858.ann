@@ -1,0 +1,33 @@
+T6	topographie 422 442	région périaréolaire
+T1	morphologie 342 348	nodule
+T3	topographie 357 361	sein
+T4	morphologie 391 396	masse
+T7	morphologie 449 474	conglomérat adénopathique
+T9	topographie 487 495	aisselle
+T10	morphologie 636 682	carcinome canalaire micropapillaire infiltrant
+T13	morphologie 2087 2108	cellules néoplasiques
+T14	morphologie 2129 2135	cancer
+T16	topographie 2139 2143	sein
+T17	morphologie 2466 2476	métastases
+T19	topographie 2477 2485	osseuses
+T20	morphologie 2722 2729	lésions
+T22	topographie 2730 2738	osseuses
+T24	morphologie 2811 2831	progression tumorale
+T25	morphologie 2851 2861	métastases
+T27	topographie 2862 2872	hépatiques
+T28	morphologie 3097 3104	maladie
+T30	topographie 3105 3112	osseuse
+T31	morphologie 3514 3524	métastases
+T33	topographie 3525 3535	hépatiques
+T34	morphologie 3967 3992	progression de la maladie
+T36	topographie 4003 4012	hépatique
+T38	morphologie 4359 4382	stabilité de la maladie
+T39	morphologie 4819 4829	métastases
+T41	topographie 4838 4842	foie
+T42	morphologie 4880 4887	lésions
+T44	topographie 4888 4896	osseuses
+T46	morphologie 5949 5955	masses
+T47	morphologie 6636 6643	lésions
+T49	topographie 6653 6659	osseux
+T50	topographie 6663 6667	foie
+T52	morphologie 6683 6690	lésions

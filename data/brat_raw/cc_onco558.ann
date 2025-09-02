@@ -1,0 +1,82 @@
+T1	morphologie 703 710	lésions
+T2	expression_CIM 703 719	lésions osseuses
+T3	topographie 711 719	osseuses
+T4	morphologie 758 764	nodule
+T5	expression_CIM 758 777	nodule dans le sein
+T6	topographie 773 777	sein
+T7	morphologie 933 940	nodules
+T8	expression_CIM 933 961	nodules spiculés pulmonaires
+T9	topographie 950 961	pulmonaires
+T10	expression_CIM 976 986	métastases
+T11	morphologie 976 986	métastases
+T12	expression_CIM 1057 1083	lymphangite carcinomateuse
+T13	morphologie 1057 1083	lymphangite carcinomateuse
+T14	morphologie 1181 1188	lésions
+T15	expression_CIM 1181 1264	lésions BIRADS5 ont été détectées, dont deux dans le sein droit et une dans le sein
+T16	topographie 1234 1238	sein
+T17	topographie 1260 1264	sein
+T18	expression_CIM 1369 1376	lésions
+T19	morphologie 1369 1376	lésions
+T20	morphologie 1406 1436	carcinome canalaire infiltrant
+T21	expression_CIM 1406 1460	carcinome canalaire infiltrant de grade histologique 2
+T22	differenciation 1440 1460	grade histologique 2
+T23	expression_CIM 1564 1594	carcinome canalaire infiltrant
+T24	morphologie 1564 1594	carcinome canalaire infiltrant
+T25	morphologie 1643 1650	maladie
+T26	expression_CIM 1643 1672	maladie osseuse et pulmonaire
+T27	topographie 1651 1658	osseuse
+T28	topographie 1662 1672	pulmonaire
+T29	morphologie 2961 2969	implants
+T30	expression_CIM 2961 2978	implants pleuraux
+T31	topographie 2970 2978	pleuraux
+T32	morphologie 3958 3970	infiltration
+T33	expression_CIM 3958 3981	infiltration bronchique
+T34	topographie 3971 3981	bronchique
+T35	expression_CIM 3989 4003	adénocarcinome
+T36	morphologie 3989 4003	adénocarcinome
+T37	expression_CIM 4124 4157	cellules évocatrices de malignité
+T38	morphologie 4124 4157	cellules évocatrices de malignité
+T39	morphologie 4233 4243	métastases
+T40	expression_CIM 4233 4278	métastases endobronchiques d'origine mammaire
+T41	topographie 4244 4259	endobronchiques
+T42	topographie 4270 4278	mammaire
+#1	ICD-O T1	8000/1
+#2	ICD-O T2	C41.9 8000/1
+#3	ICD-O T3	C41.9
+#4	ICD-O T4	8000/1
+#5	ICD-O T5	C50.9 8000/1
+#6	ICD-O T6	C50.9
+#7	ICD-O T7	8000/1
+#8	ICD-O T8	C34.9 8000/1
+#9	ICD-O T9	C34.9
+#10	ICD-O T10	8000/6
+#11	ICD-O T11	8000/6
+#12	ICD-O T13	8000/6
+#13	ICD-O T14	8000/1
+#14	ICD-O T16	C50.9
+#15	ICD-O T17	C50.9
+#16	ICD-O T18	8000/1
+#17	ICD-O T19	8000/1
+#18	ICD-O T20	8500/3
+#19	ICD-O T21	8500/32
+#20	ICD-O T22	2
+#21	ICD-O T23	8500/3
+#22	ICD-O T24	8500/3
+#23	ICD-O T25	8000/6
+#24	ICD-O T26	C34.9 8000/6;C41.9 8000/6
+#25	ICD-O T27	C41.9
+#26	ICD-O T28	C34.9
+#27	ICD-O T29	8000/6
+#28	ICD-O T30	C38.4 8000/6
+#29	ICD-O T31	C38.4
+#30	ICD-O T32	8000/1
+#31	ICD-O T33	C34.9 8000/1
+#32	ICD-O T34	C34.9
+#33	ICD-O T35	8140/3
+#34	ICD-O T36	8140/3
+#35	ICD-O T37	8000/1
+#36	ICD-O T38	8000/1
+#37	ICD-O T39	8000/6
+#38	ICD-O T40	C34.9 8000/6;C50.9 8000/6
+#39	ICD-O T41	C34.9
+#40	ICD-O T42	C50.9

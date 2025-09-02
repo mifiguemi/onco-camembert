@@ -1,0 +1,92 @@
+T15	topographie 1057 1071	extracardiaque
+T23	topographie 2361 2375	extracardiaque
+T1	morphologie 202 208;217 235	Tumeur à cellules géantes
+T2	expression_CIM 202 267	Tumeur osseuse à cellules géantes de grade 3 de Sanerkin du fémur
+T3	topographie 209 216	osseuse
+T4	differenciation 239 258	grade 3 de Sanerkin
+T5	topographie 262 267	fémur
+T6	morphologie 338 348	Métastases
+T7	expression_CIM 338 392	Métastases pulmonaires et ganglionnaires médiastinales
+T8	topographie 349 360	pulmonaires
+T9	topographie 364 392	ganglionnaires médiastinales
+T10	morphologie 535 560	progression de la maladie
+T11	expression_CIM 535 581	progression de la maladie au niveau thoracique
+T12	topographie 571 581	thoracique
+T13	morphologie 1051 1056	masse
+T14	expression_CIM 1051 1071	masse extracardiaque
+T16	expression_CIM 2109 2136	implants tumoraux calcifiés
+T17	morphologie 2109 2136	implants tumoraux calcifiés
+T18	morphologie 2149 2154	masse
+T19	expression_CIM 2149 2166	masse parahilaire
+T20	topographie 2155 2166	parahilaire
+T21	morphologie 2354 2360	tumeur
+T22	expression_CIM 2354 2375	tumeur extracardiaque
+T24	morphologie 2588 2609	atteinte métastatique
+T25	expression_CIM 2588 2634	atteinte métastatique massive des deux poumons
+T26	topographie 2627 2634	poumons
+T27	morphologie 2647 2652	masse
+T28	expression_CIM 2647 2677	masse médiastinale postérieure
+T29	topographie 2653 2677	médiastinale postérieure
+T30	morphologie 2977 2987	Métastases
+T31	expression_CIM 2977 3016	Métastases pulmonaires et médiastinales
+T32	topographie 2988 2999	pulmonaires
+T33	topographie 3003 3016	médiastinales
+T34	morphologie 3023 3029;3038 3056	tumeur à cellules géantes
+T35	expression_CIM 3023 3056	tumeur osseuse à cellules géantes
+T36	topographie 3030 3037	osseuse
+T37	morphologie 3065 3070	Masse
+T38	expression_CIM 3065 3083	Masse médiastinale
+T39	topographie 3071 3083	médiastinale
+T40	expression_CIM 3512 3521	néoplasie
+T41	morphologie 3512 3521	néoplasie
+T42	morphologie 3735 3760	progression de la maladie
+T43	expression_CIM 3735 3782	progression de la maladie au niveau médiastinal
+T44	topographie 3771 3782	médiastinal
+T45	morphologie 4112 4124	infiltration
+T46	expression_CIM 4112 4138	infiltration de l'œsophage
+T47	topographie 4130 4138	œsophage
+T48	expression_CIM 4479 4504	tumeur à cellules géantes
+T49	morphologie 4479 4504	tumeur à cellules géantes
+#1	ICD-O T1	8031/3
+#2	ICD-O T2	C40.2 8031/33;C41.9 8031/33
+#3	ICD-O T3	C41.9
+#4	ICD-O T4	3
+#5	ICD-O T5	C40.2
+#6	ICD-O T6	8000/6
+#7	ICD-O T7	C34.9 8000/6;C77.1 8000/6
+#8	ICD-O T8	C34.9
+#9	ICD-O T9	C77.1
+#10	ICD-O T10	8000/1
+#11	ICD-O T11	C76.1 8000/1
+#12	ICD-O T12	C76.1
+#13	ICD-O T13	8000/1
+#14	ICD-O T17	8000/6
+#15	ICD-O T18	8000/1
+#16	ICD-O T19	C76.1 8000/1
+#17	ICD-O T20	C76.1
+#18	ICD-O T21	8000/1
+#19	ICD-O T24	8000/6
+#20	ICD-O T25	C34.9 8000/6
+#21	ICD-O T26	C34.9
+#22	ICD-O T27	8000/1
+#23	ICD-O T29	C38.2
+#24	ICD-O T30	8000/6
+#25	ICD-O T31	C34.9 8000/6;C38.3 8000/6
+#26	ICD-O T32	C34.9
+#27	ICD-O T33	C38.3
+#28	ICD-O T34	8031/3
+#29	ICD-O T35	C41.9 8031/3
+#30	ICD-O T36	C41.9
+#31	ICD-O T37	8000/1
+#32	ICD-O T38	C38.3 8000/1
+#33	ICD-O T39	C38.3
+#34	ICD-O T40	8000/1
+#35	ICD-O T41	8000/1
+#36	ICD-O T42	8000/1
+#37	ICD-O T43	C38.3 8000/1
+#38	ICD-O T44	C38.3
+#39	ICD-O T45	8000/1
+#40	ICD-O T46	C15.9 8000/1
+#41	ICD-O T47	C15.9
+#42	ICD-O T48	8031/3
+#43	ICD-O T49	8031/3
