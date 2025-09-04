@@ -22,53 +22,28 @@ parser.add_argument(
     ],
     help="Choose a model name from the available options."
 )
-args = parser.parse_args()
+parsargs = parser.parse_args()
 
-# If not provided, prompt interactively
-if args.dir_model_name is None:
-    print("Please choose a model:")
-    options = [
-        "camembert-bio",
-        "camembert-base",
-        "flaubert-base",
-        "bert-base-multilingual",
-        "fr-albert"
-    ]
-    for i, opt in enumerate(options, 1):
-        print(f"{i}. {opt}")
-    choice = input("Enter the number corresponding to your choice [default=camembert-bio]: ")
-    try:
-        if choice.strip() == "":
-            dir_model_name = "camembert-bio"  # default
-        else:
-            idx = int(choice) - 1
-            if 0 <= idx < len(options):
-                dir_model_name = options[idx]
-            else:
-                raise ValueError
-    except ValueError:
-        raise SystemExit("Invalid choice. Exiting.")
-else:
-    dir_model_name = args.dir_model_name
-
+dir_model_name = parsargs.dir_model_name
 print(f"Using model: {dir_model_name}")
 
+# Directories
 PROJECT_ROOT = Path.cwd()
 MODEL_PATH = PROJECT_ROOT / "models" / dir_model_name
-INPUT_BRAT_DIR = PROJECT_ROOT / "data/processed_data/txt_files"
+INPUT_DIR = PROJECT_ROOT / "data/brat_processed"
 OUTPUT_DIR = PROJECT_ROOT / "inference" / dir_model_name
 
-for p in [MODEL_PATH, Path(INPUT_BRAT_DIR), OUTPUT_DIR]:
+for p in [MODEL_PATH, INPUT_DIR, OUTPUT_DIR]:
     p.mkdir(parents=True, exist_ok=True)
 
 
-# load model & tokenizer
+# Load model & tokenizer
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model     = AutoModelForTokenClassification.from_pretrained(MODEL_PATH)
 device    = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device).eval()
 
-# load spaCy
+# Load spaCy
 nlp = spacy.load("fr_core_news_sm")
 
 def predict_tags(model, tokenizer, words, device):
@@ -95,7 +70,7 @@ def predict_tags(model, tokenizer, words, device):
     return tags
 
 def main():
-    txt_files = glob.glob(os.path.join(INPUT_BRAT_DIR, "*.txt"))
+    txt_files = glob.glob(os.path.join(INPUT_DIR, "*.txt"))
     for txt_path in tqdm(txt_files, desc="Processing files"):
 
         text = open(txt_path, encoding="utf-8").read()

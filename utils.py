@@ -241,17 +241,6 @@ def build_token_cls(model_name: str, num_labels: int, id2label: dict, label2id: 
     )
 
 
-
-# # overall (micro) F1:
-# compute_objective = lambda m: m["eval_f1"]
-
-# or macro-F1 over entities:
-def compute_objective(m, label_list):
-    ENTITIES = sorted({lab.split("-", 1)[-1] for lab in label_list if lab != "O"})
-    vals = [m.get(f"eval_f1/{e}", 0.0) for e in ENTITIES]
-    return float(sum(vals) / len(vals)) if vals else m["eval_f1"]
-
-
 def compute_metrics(eval_pred, label_list, ignore_index=-100, _np=np, _seqeval=seqeval):
     # tolerant to EvalPrediction vs tuple
     logits = getattr(eval_pred, "predictions", eval_pred[0])
@@ -295,5 +284,3 @@ def compute_metrics(eval_pred, label_list, ignore_index=-100, _np=np, _seqeval=s
         metrics[f"support/{ent}"]   = stats.get("number", 0)
 
     return metrics
-
-

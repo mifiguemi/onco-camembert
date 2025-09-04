@@ -6,15 +6,16 @@ import os
 from functools import partial
 from transformers import (AutoTokenizer, DataCollatorForTokenClassification, 
                           AutoModelForTokenClassification, TrainingArguments, 
-                          Trainer, EarlyStoppingCallback, set_seed) 
+                          Trainer, EarlyStoppingCallback) 
 from utils import (dataset_generator, get_tokenize_and_align_labels_fn, 
-                       compute_metrics, build_token_cls, hp_space, compute_objective)
+                       compute_metrics, build_token_cls)
 import evaluate
 import json
 import argparse
 import numpy as np 
 from datetime import datetime
 
+# Model selection
 parser = argparse.ArgumentParser(description="Train a selected model.")
 parser.add_argument(
     "--dir_model_name",
@@ -30,34 +31,7 @@ parser.add_argument(
 )
 parsargs = parser.parse_args()
 
-
-# If not provided, prompt interactively
-if parsargs.dir_model_name is None:
-    print("Please choose a model:")
-    options = [
-        "camembert-bio",
-        "camembert-base",
-        "bert-base-multilingual",
-        "fr-albert",
-        "xlm-roberta"
-    ]
-    for i, opt in enumerate(options, 1):
-        print(f"{i}. {opt}")
-    choice = input("Enter the number corresponding to your choice [default=camembert-bio]: ")
-    try:
-        if choice.strip() == "":
-            dir_model_name = "camembert-bio"  # default
-        else:
-            idx = int(choice) - 1
-            if 0 <= idx < len(options):
-                dir_model_name = options[idx]
-            else:
-                raise ValueError
-    except ValueError:
-        raise SystemExit("Invalid choice. Exiting.")
-else:
-    dir_model_name = parsargs.dir_model_name
-
+dir_model_name = parsargs.dir_model_name
 print(f"Using model: {dir_model_name}")
 
 MODEL_NAME_MAP = {
@@ -67,22 +41,20 @@ MODEL_NAME_MAP = {
     "fr-albert": "cservan/french-albert-base-cased",
     "xlm-roberta": "FacebookAI/roberta-base"
 }
-
 model_name = MODEL_NAME_MAP[dir_model_name]
 
+# Paths and directories
 PROJECT_ROOT = Path.cwd()
-if not (PROJECT_ROOT / "data").exists():
-    PROJECT_ROOT = PROJECT_ROOT.parent
 TRAIN_CSV_FILE = PROJECT_ROOT / "data/csv/ner_sentences_train.csv"
 TEST_CSV_FILE  = PROJECT_ROOT / "data/csv/ner_sentences_test.csv"
-
-# Create output directories
 OUTPUT_DIR = PROJECT_ROOT / "runs/final_best" / f"{dir_model_name}_{datetime.now().strftime('%Y-%m-%d_%H-%M')}"
-MODEL_SAVE_PATH = PROJECT_ROOT / "models" / f"{dir_model_name}_2"
+# MODEL_SAVE_PATH = PROJECT_ROOT / "modelruns/hpos" / f"{dir_model_name}"
+MODEL_SAVE_PATH = PROJECT_ROOT / "models" / "delete_me"
 
 for p in [OUTPUT_DIR, MODEL_SAVE_PATH]:
     p.mkdir(parents=True, exist_ok=True)
 
+# Load datasets
 train_dataset = dataset_generator(TRAIN_CSV_FILE)
 test_dataset = dataset_generator(TEST_CSV_FILE)
 
@@ -91,72 +63,39 @@ label_list = train_dataset["train"].features[f"tags"].feature.names
 label2id = {label: id for id, label in enumerate(label_list)}
 id2label = {id: label for label, id in label2id.items()}
 
-# Check if running on GPU (remove?)
-if torch.cuda.is_available():
-    gpu_count = torch.cuda.device_count()
-    print(f"Number of available GPUs: {gpu_count}")
-
-    for i in range(gpu_count):
-        gpu_name = torch.cuda.get_device_name(i)
-        print(f"GPU {i}: {gpu_name}")
-    device = torch.device("cuda")
-else:
-    device = torch.device("cpu")
-
-print("Using:", device)
-
-
-
-
+# Training configuration
 cfg = {
     "model_name": model_name,
-    "seed_list": [44, 55],
+    "seed_list": [11, 22, 33, 44, 55],
     "training_args": {
         "per_device_train_batch_size": 4,
         "per_device_eval_batch_size": 4,
-        # Default hyperparameters (runs 1):
-        # "num_train_epochs": 5,
-        # "gradient_accumulation_steps": 2,
-        # "learning_rate": 5e-5,
-        # "weight_decay": 0.01,
-        # "warmup_ratio": 0.1,
+        "num_train_epochs": 5,
+        "gradient_accumulation_steps": 2,
+        "learning_rate": 5e-5,
+        "weight_decay": 0.01,
+        "warmup_ratio": 0.1,
         "logging_dir": "logs",
         "logging_steps": 100,           # log every N steps
         "report_to": ["tensorboard"],   # log to TensorBoard
         "load_best_model_at_end": True,
         "save_total_limit": 2,          # keep only the last 2 checkpoints
         "metric_for_best_model": "f1",
-        "greater_is_better": True,      # for f1, higher is better
+        "greater_is_better": True,      
         "eval_strategy": "epoch",       # evaluate each epoch
         "save_strategy": "epoch",       # checkpoint each epoch 
-        # save_strategy : "best",  # save only the best model
         "remove_unused_columns": True,  # remove columns not used by the model
-        
-        # HPO for camembert-bio (runs 2):
-        "num_train_epochs": 7,
-        "gradient_accumulation_steps": 1,
-        "learning_rate": 3.894793689386536e-5,
-        "weight_decay" : 0.08061743396237347,
-        "warmup_ratio": 0.13860985884866567,
-
-        # HPO for camembert-base (runs 3): 
-        # 'learning_rate': 4.082472187975843e-05, 
-        # 'num_train_epochs': 6, 
-        # 'weight_decay': 0.059269381748047745, 
-        # 'warmup_ratio': 0.08682116258227697, 
-        # 'per_device_train_batch_size': 4, 
-        # 'gradient_accumulation_steps': 2
     }
 }
-
-
 
 # Load tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(cfg["model_name"], use_fast=True)
 if hasattr(tokenizer, "add_prefix_space"):
     tokenizer.add_prefix_space = True
 model = AutoModelForTokenClassification.from_pretrained(cfg["model_name"], num_labels=len(label_list), id2label=id2label, label2id=label2id)
-data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer) 
+data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print("Using:", device)
 
 
 # Tokenize datasets
@@ -171,7 +110,6 @@ tokenized_train_dataset = train_dataset.map(tokenize_fn, batched=True, remove_co
 tokenized_test_dataset = test_dataset.map(tokenize_fn, batched=True, remove_columns=cols_to_remove) 
 split_train_dataset = tokenized_train_dataset["train"].train_test_split(test_size=0.1) # Split train dataset into train and validation sets 
 
-
 model_init = partial(
     build_token_cls,
     cfg["model_name"],
@@ -182,6 +120,7 @@ model_init = partial(
 
 val_results, test_results = [], []
 
+# Training loop over seeds
 for s in cfg["seed_list"]:
     args = TrainingArguments(**cfg["training_args"], 
                              seed=s, data_seed=s, 
@@ -219,16 +158,13 @@ for s in cfg["seed_list"]:
     test_metrics["seed"] = s
     test_results.append(test_metrics)
 
-    # Save the final model
-    trainer.save_model(seed_dir)  # saves model + config + tokenizer
+    # Save final model (+ tokenizer and config)
+    trainer.save_model(seed_dir) 
 
-    # Save run metadata alongside weights:
+    # Save metrics and training arguments
     with open(seed_dir / "metrics_val.json", "w") as f:
         json.dump(val_metrics, f, indent=2)
     with open(seed_dir / "metrics_test.json", "w") as f:
         json.dump(test_metrics, f, indent=2)
     with open(seed_dir / "training_args.json", "w") as f:
         f.write(trainer.args.to_json_string())
-
-
-

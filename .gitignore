@@ -1,5 +1,9 @@
 models/
 hidden_utils/
+logs/
+_pycache_/
+.vscode/
+
 
 .DS_Store
 .env/
