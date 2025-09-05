@@ -1,6 +1,9 @@
-# French Oncology NER Corpus – Training and Inference
+# FRACCO
 
-This repository provides code and resources to train and evaluate named entity recognition (NER) models on a French oncology corpus annotated with ICD-O-3 categories (morphologie, topographie, différenciation, expression_CIM).
+This repository provides **FRACCO (French Annotated Corpus for Clinical Oncology)**, a gold-standard dataset of synthetic French clinical cases annotated with labels corresponding to ICD-O-3 categories.
+It also includes example code for fine-tuning and evaluating named entity recognition (NER) models. 
+
+
 
 ## Repository structure
 ```
@@ -21,6 +24,7 @@ requirements.txt     Python dependencies
 - Manually annotated corpus in BRAT standoff format. Contains both entity annotations and their corresponding ICD-O-3 code.  
 - **Total entities**: 71,346  
 - **Total texts**: 1,301 synthetic French clinical cases. Provided as `.txt` files, each paired with an `.ann` file containing the annotations. 
+- The same annotations are also provided in the `csv/` and `tsv/` directories in BIO format, which correspond directly to the processed version and can be used for training NER models without handling BRAT files.
 
 ### Entity distribution in `brat_raw/`
 
@@ -51,9 +55,7 @@ requirements.txt     Python dependencies
 
 
 
-
-
-
+<!--
 ### Entity counts
 
 | Dataset         | Total entities | Morphologie | Topographie | Différenciation | Expression_CIM |
@@ -63,6 +65,7 @@ requirements.txt     Python dependencies
 
 - **brat_raw/**: full annotation layer including overlapping `expression_CIM` spans  
 - **brat_processed/**: NER-compatible version with `expression_CIM` removed and no discontinuous entities
+-->
 
 
 ## Installation
@@ -96,6 +99,9 @@ Available options for `--dir_model_name`:
 - `xlm-roberta`
 
 All hyperparameters (batch size, learning rate, epochs, etc.) were kept constant across experiments.  
-To reproduce the published baselines, it is sufficient to vary only `--dir_model_name`.  
+The published baselines can be reproduced by selecting different values for `--dir_model_name`.  
+Hyperparameters can be edited within `0_train.py`. 
 
+## Citation
+[add citation]
 
