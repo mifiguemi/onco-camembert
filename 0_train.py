@@ -18,7 +18,7 @@ from datetime import datetime
 # Model selection
 parser = argparse.ArgumentParser(description="Train a selected model.")
 parser.add_argument(
-    "--dir_model_name",
+    "--model",
     type=str,
     choices=[
         "camembert-bio",
@@ -27,12 +27,12 @@ parser.add_argument(
         "fr-albert", 
         "xlm-roberta"
     ],
-    help="Choose a model name from the available options."
+    help="Model key to train."
 )
 parsargs = parser.parse_args()
+model_key = parsargs.model
+print(f"Using model: {model_key}")
 
-dir_model_name = parsargs.dir_model_name
-print(f"Using model: {dir_model_name}")
 
 MODEL_NAME_MAP = {
     "camembert-bio": "almanach/camembert-bio-base",
@@ -41,14 +41,14 @@ MODEL_NAME_MAP = {
     "fr-albert": "cservan/french-albert-base-cased",
     "xlm-roberta": "FacebookAI/roberta-base"
 }
-model_name = MODEL_NAME_MAP[dir_model_name]
+model_name = MODEL_NAME_MAP[model_key]
 
 # Paths and directories
 PROJECT_ROOT = Path.cwd()
 TRAIN_CSV_FILE = PROJECT_ROOT / "data/csv/ner_sentences_train.csv"
 TEST_CSV_FILE  = PROJECT_ROOT / "data/csv/ner_sentences_test.csv"
-OUTPUT_DIR = PROJECT_ROOT / "runs/final_best" / f"{dir_model_name}_{datetime.now().strftime('%Y-%m-%d_%H-%M')}"
-MODEL_SAVE_PATH = PROJECT_ROOT / "modelruns/hpos" / f"{dir_model_name}"
+OUTPUT_DIR = PROJECT_ROOT / "runs/checkpoints" / f"{model_key}_{datetime.now().strftime('%Y-%m-%d_%H-%M')}"
+MODEL_SAVE_PATH = PROJECT_ROOT / "models" / f"{model_key}"
 
 for p in [OUTPUT_DIR, MODEL_SAVE_PATH]:
     p.mkdir(parents=True, exist_ok=True)
@@ -124,7 +124,7 @@ for s in cfg["seed_list"]:
     args = TrainingArguments(**cfg["training_args"], 
                              seed=s, data_seed=s, 
                              output_dir=os.fspath(OUTPUT_DIR / f"s{s}"), 
-                             run_name=f"{dir_model_name}_s{s}")
+                             run_name=f"{model_key}_s{s}")
     
     seed_dir = MODEL_SAVE_PATH / f"seed_{s}"
     if seed_dir.exists():
