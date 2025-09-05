@@ -48,8 +48,7 @@ PROJECT_ROOT = Path.cwd()
 TRAIN_CSV_FILE = PROJECT_ROOT / "data/csv/ner_sentences_train.csv"
 TEST_CSV_FILE  = PROJECT_ROOT / "data/csv/ner_sentences_test.csv"
 OUTPUT_DIR = PROJECT_ROOT / "runs/final_best" / f"{dir_model_name}_{datetime.now().strftime('%Y-%m-%d_%H-%M')}"
-# MODEL_SAVE_PATH = PROJECT_ROOT / "modelruns/hpos" / f"{dir_model_name}"
-MODEL_SAVE_PATH = PROJECT_ROOT / "models" / "delete_me"
+MODEL_SAVE_PATH = PROJECT_ROOT / "modelruns/hpos" / f"{dir_model_name}"
 
 for p in [OUTPUT_DIR, MODEL_SAVE_PATH]:
     p.mkdir(parents=True, exist_ok=True)

@@ -1,11 +1,13 @@
 models/
 hidden_utils/
 logs/
-_pycache_/
+__pycache__/
 .vscode/
+runs/hpo/
 
 
 .DS_Store
 .env/
 
 **/checkpoint-*/
+
