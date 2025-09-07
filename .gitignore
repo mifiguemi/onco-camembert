@@ -4,6 +4,7 @@ logs/
 __pycache__/
 .vscode/
 runs/hpo/
+data/brat_raw/*
 
 
 .DS_Store

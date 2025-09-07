@@ -1,8 +1,0 @@
-T1	morphologie 5947 5961	adénocarcinome
-T2	expression_CIM 5947 5999	adénocarcinome sténosant T3c cN1 cM0 du moyen rectum
-T3	stadeTNM 5972 5983	T3c cN1 cM0
-T4	topographie 5993 5999	rectum
-#1	ICD-O T1	8140/3
-#2	ICD-O T2	C20.9 8140/3
-#3	ICD-O T3	todelete
-#4	ICD-O T4	C20.9
