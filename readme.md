@@ -26,7 +26,6 @@ requirements.txt     Python dependencies
 - Manually annotated corpus in BRAT standoff format. Contains both entity annotations and their corresponding ICD-O-3 code.  
 - **Total entities**: 71,346  
 - **Total texts**: 1,301 synthetic French clinical cases. Provided as `.txt` files, each paired with an `.ann` file containing the annotations. 
-- The same annotations are also provided in the `csv/` and `tsv/` directories in BIO format, which correspond directly to the processed version and can be used for training NER models without handling BRAT files.
 
 ### Entity distribution in `brat_raw/`
 
@@ -45,6 +44,8 @@ requirements.txt     Python dependencies
 Overlapping `expression_CIM` annotations are removed and discontinuous entities are split into contiguous spans. This version includes only entity spans, (no ICD-O-3 codes).
 - **Total entities**: 46,468
 - **Total texts**: 1,301 synthetic French clinical cases, following the same `.txt`/`.ann` file structure and filename prefixes as `brat_raw/`.  
+- The same annotations are also provided in the `csv/` and `tsv/` directories in BIO format, which correspond directly to the processed version and can be used for training NER models without handling BRAT files.
+
  
 
 ### Entity distribution in `brat_processed/`
