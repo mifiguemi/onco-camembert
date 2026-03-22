@@ -113,5 +113,5 @@ The published baselines can be reproduced by selecting different values for `--m
 Hyperparameters can be edited within `0_train.py`. 
 
 ## Citation
-[add citation]
+https://arxiv.org/abs/2510.13873
 
